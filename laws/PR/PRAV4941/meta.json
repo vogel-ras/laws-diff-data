@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4941",
+  "path": "laws/PR/PRAV4941",
+  "members": [
+    {
+      "id": "PRAV4941",
+      "title": "Pravilnik o tehničnih pogojih za obratovanje smučišč in zaščitnih sredstvih",
+      "shortTitle": "Pravilnik o tehničnih pogojih za obratovanje smučišč in zaščitnih sredstvih",
+      "shortCode": "PRAV4941",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5414",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-19",
+      "validFrom": "2003-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5414",
+      "versions": [
+        {
+          "id": "PRAV4941-original",
+          "shortCode": "PRAV4941",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-19",
+          "effectiveFrom": "2003-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7599",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih pogojih za obratovanje smučišč in zaščitnih sredstvih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih pogojih za obratovanje smučišč in zaščitnih sredstvih",
+      "shortCode": "PRAV7599",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3146",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2006-07-13",
+      "validFrom": "2006-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3146",
+      "versions": [
+        {
+          "id": "PRAV7599-original",
+          "shortCode": "PRAV7599",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-13",
+          "effectiveFrom": "2006-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4941"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3146",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZIPRS2021",
+  "path": "laws/ZI/ZIPRS2021",
+  "members": [
+    {
+      "id": "ZIPRS2021",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2020 in 2021",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2020 in 2021",
+      "shortCode": "ZIPRS2021",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3304",
+      "gazette": "Uradni list RS 75/19  str. 9637",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-12",
+      "validFrom": "2019-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3304",
+      "versions": [
+        {
+          "id": "ZIPRS2021-original",
+          "shortCode": "ZIPRS2021",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/19  str. 9637",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3304",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS2021-amend-ZIPRS2021-A",
+          "shortCode": "ZIPRS2021-A",
+          "label": "Sprememba ZIPRS2021-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 133/20  str. 5600",
+          "publishedAt": "2020-10-02",
+          "effectiveFrom": "2020-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2021"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2352",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2021-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2020 in 2021",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2020 in 2021",
+      "shortCode": "ZIPRS2021-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2352",
+      "gazette": "Uradni list RS 133/20  str. 5600",
+      "issuingBody": null,
+      "adoptedAt": "2020-10-02",
+      "validFrom": "2020-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2352",
+      "versions": [
+        {
+          "id": "ZIPRS2021-A-original",
+          "shortCode": "ZIPRS2021-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/20  str. 5600",
+          "publishedAt": "2020-10-02",
+          "effectiveFrom": "2020-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2021"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2352",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV2033",
+  "path": "laws/PR/PRAV2033",
+  "members": [
+    {
+      "id": "PRAV2033",
+      "title": "Pravilnik o pogojih za pripravo in izvajanje programa preprečevanja in obvladovanja bolnišničnih okužb",
+      "shortTitle": "Pravilnik o pogojih za pripravo in izvajanje programa preprečevanja in obvladovanja bolnišničnih okužb",
+      "shortCode": "PRAV2033",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3597",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1999-09-10",
+      "validFrom": "1999-09-10",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3597",
+      "versions": [
+        {
+          "id": "PRAV2033-original",
+          "shortCode": "PRAV2033",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-10",
+          "effectiveFrom": "1999-09-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3597",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2033-npb-PRAV2033",
+          "shortCode": "PRAV2033-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-09-10",
+          "effectiveFrom": "1999-09-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2033",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

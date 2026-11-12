@@ -1,0 +1,82 @@
+{
+  "root": "ODRE307",
+  "path": "laws/OD/ODRE307",
+  "members": [
+    {
+      "id": "ODRE307",
+      "title": "Odredba o vsebini in vodenju evidence o plačani turistični taksi",
+      "shortTitle": "Odredba o vsebini in vodenju evidence o plačani turistični taksi",
+      "shortCode": "ODRE307",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1999-01-0620",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-03-05",
+      "validFrom": "1999-03-05",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0620",
+      "versions": [
+        {
+          "id": "ODRE307-original",
+          "shortCode": "ODRE307",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-05",
+          "effectiveFrom": "1999-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0620",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE395",
+      "title": "Odredba o spremembi odredbe o vsebini in vodenju evidence o plačani turistični taksi",
+      "shortTitle": "Odredba o spremembi odredbe o vsebini in vodenju evidence o plačani turistični taksi",
+      "shortCode": "ODRE395",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1999-01-1003",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za malo gospodarstvo in turizem",
+      "adoptedAt": "1999-04-02",
+      "validFrom": "1999-04-02",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1003",
+      "versions": [
+        {
+          "id": "ODRE395-original",
+          "shortCode": "ODRE395",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-04-02",
+          "effectiveFrom": "1999-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE307"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1003",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

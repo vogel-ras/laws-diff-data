@@ -1,0 +1,82 @@
+{
+  "root": "NAVO212",
+  "path": "laws/NA/NAVO212",
+  "members": [
+    {
+      "id": "NAVO212",
+      "title": "Navodilo za uskladitev računovodskih evidenc za uporabnike enotnega kontnega načrta z zakonom o računovodstvu",
+      "shortTitle": "Navodilo za uskladitev računovodskih evidenc za uporabnike enotnega kontnega načrta z zakonom o računovodstvu",
+      "shortCode": "NAVO212",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-5177",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1999-12-30",
+      "validFrom": "1999-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5177",
+      "versions": [
+        {
+          "id": "NAVO212-original",
+          "shortCode": "NAVO212",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5177",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO323",
+      "title": "Navodilo o spremembah in dopolnitvah navodila za uskladitev računovodskih evidenc za uporabnike enotnega kontnega načrta z zakonom o računovodstvu",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila za uskladitev računovodskih evidenc za uporabnike enotnega kontnega načrta z zakonom o računovodstvu",
+      "shortCode": "NAVO323",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2000-01-1246",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2000-03-24",
+      "validFrom": "2000-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1246",
+      "versions": [
+        {
+          "id": "NAVO323-original",
+          "shortCode": "NAVO323",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-24",
+          "effectiveFrom": "2000-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO212"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1246",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

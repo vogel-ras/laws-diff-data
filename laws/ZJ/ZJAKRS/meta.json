@@ -1,0 +1,106 @@
+{
+  "root": "ZJAKRS",
+  "path": "laws/ZJ/ZJAKRS",
+  "members": [
+    {
+      "id": "ZJAKRS",
+      "title": "Zakon o Javni agenciji za knjigo Republike Slovenije",
+      "shortTitle": "Zakon o Javni agenciji za knjigo Republike Slovenije",
+      "shortCode": "ZJAKRS",
+      "kind": "zakon",
+      "keywords": [
+        "državna pomoč",
+        "kulturna politika",
+        "javna ustanova",
+        "agencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5552",
+      "gazette": "Uradni list RS 112/07  str. 15437",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-07",
+      "validFrom": "2007-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5552",
+      "versions": [
+        {
+          "id": "ZJAKRS-original",
+          "shortCode": "ZJAKRS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 112/07  str. 15437",
+          "publishedAt": "2007-12-07",
+          "effectiveFrom": "2007-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5552",
+          "proposer": null
+        },
+        {
+          "id": "ZJAKRS-amend-ZJAKRS-A",
+          "shortCode": "ZJAKRS-A",
+          "label": "Sprememba ZJAKRS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 63/13  str. 7657",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJAKRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2520",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJAKRS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Javni agenciji za knjigo Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Javni agenciji za knjigo Republike Slovenije",
+      "shortCode": "ZJAKRS-A",
+      "kind": "zakon",
+      "keywords": [
+        "književnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2520",
+      "gazette": "Uradni list RS 63/13  str. 7657",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2520",
+      "versions": [
+        {
+          "id": "ZJAKRS-A-original",
+          "shortCode": "ZJAKRS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7657",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJAKRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2520",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

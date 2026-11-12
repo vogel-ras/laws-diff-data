@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4600",
+  "path": "laws/PR/PRAV4600",
+  "members": [
+    {
+      "id": "PRAV4600",
+      "title": "Pravilnik o zahtevah za zagotavljanje varnosti in zdravja pri delu ter o tehničnih ukrepih za dela pri raziskovanju in izkoriščanju mineralnih surovin pod zemljo",
+      "shortTitle": "Pravilnik o zahtevah za zagotavljanje varnosti in zdravja pri delu ter o tehničnih ukrepih za dela pri raziskovanju in izkoriščanju mineralnih surovin pod zemljo",
+      "shortCode": "PRAV4600",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3252",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2003-07-14",
+      "validFrom": "2003-07-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3252",
+      "versions": [
+        {
+          "id": "PRAV4600-original",
+          "shortCode": "PRAV4600",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-14",
+          "effectiveFrom": "2003-07-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3252",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4600-npb-PRAV4600",
+          "shortCode": "PRAV4600-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-14",
+          "effectiveFrom": "2003-07-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4600",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7748",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o zahtevah za zagotavljanje varnosti in zdravja pri delu ter o tehničnih ukrepih za dela pri raziskovanju in izkoriščanju mineralnih surovin pod zemljo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o zahtevah za zagotavljanje varnosti in zdravja pri delu ter o tehničnih ukrepih za dela pri raziskovanju in izkoriščanju mineralnih surovin pod zemljo",
+      "shortCode": "PRAV7748",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2800",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2006-06-23",
+      "validFrom": "2006-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2800",
+      "versions": [
+        {
+          "id": "PRAV7748-original",
+          "shortCode": "PRAV7748",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-23",
+          "effectiveFrom": "2006-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4600"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2800",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

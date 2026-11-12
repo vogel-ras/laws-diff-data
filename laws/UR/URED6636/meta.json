@@ -1,0 +1,97 @@
+{
+  "root": "URED6636",
+  "path": "laws/UR/URED6636",
+  "members": [
+    {
+      "id": "URED6636",
+      "title": "Uredba o zagotavljanju prihrankov energije",
+      "shortTitle": "Uredba o zagotavljanju prihrankov energije",
+      "shortCode": "URED6636",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-4042",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-16",
+      "validFrom": "2025-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4042",
+      "versions": [
+        {
+          "id": "URED6636-original",
+          "shortCode": "URED6636",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-16",
+          "effectiveFrom": "2025-04-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4042",
+          "proposer": null
+        },
+        {
+          "id": "URED6636-npb-URED6636",
+          "shortCode": "URED6636-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6636",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8621",
+      "title": "Uredba o spremembah Uredbe o zagotavljanju prihrankov energije",
+      "shortTitle": "Uredba o spremembah Uredbe o zagotavljanju prihrankov energije",
+      "shortCode": "URED8621",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2641",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-08-09",
+      "validFrom": "2022-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2022-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2641",
+      "versions": [
+        {
+          "id": "URED8621-original",
+          "shortCode": "URED8621",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-08-09",
+          "effectiveFrom": "2022-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6636"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2641",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

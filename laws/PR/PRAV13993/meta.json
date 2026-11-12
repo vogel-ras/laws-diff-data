@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13993",
+  "path": "laws/PR/PRAV13993",
+  "members": [
+    {
+      "id": "PRAV13993",
+      "title": "Pravilnik o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortTitle": "Pravilnik o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortCode": "PRAV13993",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-2768",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2020-11-02",
+      "validFrom": "2020-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2768",
+      "versions": [
+        {
+          "id": "PRAV13993-original",
+          "shortCode": "PRAV13993",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2768",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13993-npb-PRAV13993",
+          "shortCode": "PRAV13993-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13993",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14881",
+      "title": "Pravilnik o spremembi Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortCode": "PRAV14881",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-0539",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-03-03",
+      "validFrom": "2023-03-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0539",
+      "versions": [
+        {
+          "id": "PRAV14881-original",
+          "shortCode": "PRAV14881",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-03-03",
+          "effectiveFrom": "2023-03-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13993"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0539",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16203",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih in v kazenskem postopku",
+      "shortCode": "PRAV16203",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-1721",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-06-24",
+      "validFrom": "2026-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1721",
+      "versions": [
+        {
+          "id": "PRAV16203-original",
+          "shortCode": "PRAV16203",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-06-24",
+          "effectiveFrom": "2026-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13993"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1721",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

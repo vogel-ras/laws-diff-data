@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11541",
+  "path": "laws/PR/PRAV11541",
+  "members": [
+    {
+      "id": "PRAV11541",
+      "title": "Pravilnik o pravilni uporabi fitofarmacevtskih sredstev",
+      "shortTitle": "Pravilnik o pravilni uporabi fitofarmacevtskih sredstev",
+      "shortCode": "PRAV11541",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-2931",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-04-22",
+      "validFrom": "2022-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2931",
+      "versions": [
+        {
+          "id": "PRAV11541-original",
+          "shortCode": "PRAV11541",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-22",
+          "effectiveFrom": "2022-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2931",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11541-npb-PRAV11541",
+          "shortCode": "PRAV11541-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-10-03",
+          "effectiveFrom": "2014-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14808",
+      "title": "Pravilnik o spremembah Pravilnika o pravilni uporabi fitofarmacevtskih sredstev",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o pravilni uporabi fitofarmacevtskih sredstev",
+      "shortCode": "PRAV14808",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-3833",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2022-12-09",
+      "validFrom": "2022-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3833",
+      "versions": [
+        {
+          "id": "PRAV14808-original",
+          "shortCode": "PRAV14808",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-09",
+          "effectiveFrom": "2022-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11541"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3833",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

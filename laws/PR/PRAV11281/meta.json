@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11281",
+  "path": "laws/PR/PRAV11281",
+  "members": [
+    {
+      "id": "PRAV11281",
+      "title": "Pravilnik o tehničnih pogojih za graditev nadzemnih elektroenergetskih visokonapetostnih vodov izmenične napetosti 1 kV do 400 kV",
+      "shortTitle": "Pravilnik o tehničnih pogojih za graditev nadzemnih elektroenergetskih visokonapetostnih vodov izmenične napetosti 1 kV do 400 kV",
+      "shortCode": "PRAV11281",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-2280",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-30",
+      "validFrom": "2025-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2280",
+      "versions": [
+        {
+          "id": "PRAV11281-original",
+          "shortCode": "PRAV11281",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-30",
+          "effectiveFrom": "2025-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2280",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11281-npb-PRAV11281",
+          "shortCode": "PRAV11281-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-07-11",
+          "effectiveFrom": "2014-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11281",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14071",
+      "title": "Pravilnik o spremembi Pravilnika o tehničnih pogojih za graditev nadzemnih elektroenergetskih visokonapetostnih vodov izmenične napetosti 1 kV do 400 kV",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o tehničnih pogojih za graditev nadzemnih elektroenergetskih visokonapetostnih vodov izmenične napetosti 1 kV do 400 kV",
+      "shortCode": "PRAV14071",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-1552",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-05-13",
+      "validFrom": "2022-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2022-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1552",
+      "versions": [
+        {
+          "id": "PRAV14071-original",
+          "shortCode": "PRAV14071",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-05-13",
+          "effectiveFrom": "2022-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11281"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1552",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

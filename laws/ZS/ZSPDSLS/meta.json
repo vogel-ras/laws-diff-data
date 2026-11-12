@@ -1,0 +1,315 @@
+{
+  "root": "ZSPDSLS",
+  "path": "laws/ZS/ZSPDSLS",
+  "members": [
+    {
+      "id": "ZAKO6985",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti (ZSPDSLS-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti (ZSPDSLS-B)",
+      "shortCode": "ZSPDSLS-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-2075",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-07-04",
+      "validFrom": "2014-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2075",
+      "versions": [
+        {
+          "id": "ZAKO6985-original",
+          "shortCode": "ZSPDSLS-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-04",
+          "effectiveFrom": "2014-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2075",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7148",
+      "title": "Zakon o stvarnem premoženju države in samoupravnih lokalnih skupnosti (ZSPDSLS-1)",
+      "shortTitle": "Zakon o stvarnem premoženju države in samoupravnih lokalnih skupnosti (ZSPDSLS-1)",
+      "shortCode": "ZSPDSLS-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0457",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-23",
+      "validFrom": "2018-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0457",
+      "versions": [
+        {
+          "id": "ZAKO7148-original",
+          "shortCode": "ZSPDSLS-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-23",
+          "effectiveFrom": "2018-02-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0457",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7148-amend-ZSPDSLS-1A",
+          "shortCode": "ZSPDSLS-1A",
+          "label": "Sprememba ZSPDSLS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 79/18  str. 12286",
+          "publishedAt": "2018-12-07",
+          "effectiveFrom": "2018-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7148"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3797",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSPDSLS",
+      "title": "Zakon o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortTitle": "Zakon o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortCode": "ZSPDSLS",
+      "kind": "zakon",
+      "keywords": [
+        "javna lastnina",
+        "nepremično premoženje",
+        "premično premoženje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4654",
+      "gazette": "Uradni list RS 86/10  str. 13125",
+      "issuingBody": null,
+      "adoptedAt": "2010-11-02",
+      "validFrom": "2010-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4654",
+      "versions": [
+        {
+          "id": "ZSPDSLS-original",
+          "shortCode": "ZSPDSLS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/10  str. 13125",
+          "publishedAt": "2010-11-02",
+          "effectiveFrom": "2010-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4654",
+          "proposer": null
+        },
+        {
+          "id": "ZSPDSLS-amend-ZSPDSLS-A",
+          "shortCode": "ZSPDSLS-A",
+          "label": "Sprememba ZSPDSLS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 75/12  str. 7425",
+          "publishedAt": "2012-10-05",
+          "effectiveFrom": "2012-10-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2849",
+          "proposer": null
+        },
+        {
+          "id": "ZSPDSLS-amend-ZAKO6985",
+          "shortCode": "ZSPDSLS-B",
+          "label": "Sprememba ZSPDSLS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2014-07-04",
+          "effectiveFrom": "2014-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2075",
+          "proposer": null
+        },
+        {
+          "id": "ZSPDSLS-amend-ZSPDSLS-C",
+          "shortCode": "ZSPDSLS-C",
+          "label": "Sprememba ZSPDSLS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 76/15  str. 8358",
+          "publishedAt": "2015-10-09",
+          "effectiveFrom": "2015-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSPDSLS-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortCode": "ZSPDSLS-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-3797",
+      "gazette": "Uradni list RS 79/18  str. 12286",
+      "issuingBody": null,
+      "adoptedAt": "2018-12-07",
+      "validFrom": "2018-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3797",
+      "versions": [
+        {
+          "id": "ZSPDSLS-1A-original",
+          "shortCode": "ZSPDSLS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/18  str. 12286",
+          "publishedAt": "2018-12-07",
+          "effectiveFrom": "2018-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7148"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3797",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSPDSLS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortCode": "ZSPDSLS-A",
+      "kind": "zakon",
+      "keywords": [
+        "lokalna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2849",
+      "gazette": "Uradni list RS 75/12  str. 7425",
+      "issuingBody": null,
+      "adoptedAt": "2012-10-05",
+      "validFrom": "2012-10-05",
+      "validTo": null,
+      "latestPublishedAt": "2012-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2849",
+      "versions": [
+        {
+          "id": "ZSPDSLS-A-original",
+          "shortCode": "ZSPDSLS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/12  str. 7425",
+          "publishedAt": "2012-10-05",
+          "effectiveFrom": "2012-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2849",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSPDSLS-C",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o stvarnem premoženju države in samoupravnih lokalnih skupnosti",
+      "shortCode": "ZSPDSLS-C",
+      "kind": "zakon",
+      "keywords": [
+        "premično premoženje",
+        "nepremično premoženje",
+        "država",
+        "lokalna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2976",
+      "gazette": "Uradni list RS 76/15  str. 8358",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-09",
+      "validFrom": "2015-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2976",
+      "versions": [
+        {
+          "id": "ZSPDSLS-C-original",
+          "shortCode": "ZSPDSLS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/15  str. 8358",
+          "publishedAt": "2015-10-09",
+          "effectiveFrom": "2015-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSPDSLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2976",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

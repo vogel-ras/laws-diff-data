@@ -1,0 +1,99 @@
+{
+  "root": "DP2025",
+  "path": "laws/DP/DP2025",
+  "members": [
+    {
+      "id": "DRPR29",
+      "title": "Proračun Republike Slovenije za leto 2025 (DP2025)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2025 (DP2025)",
+      "shortCode": "DP2025",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2023-01-3595",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-12-07",
+      "validFrom": "2023-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3595",
+      "versions": [
+        {
+          "id": "DRPR29-original",
+          "shortCode": "DP2025",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-07",
+          "effectiveFrom": "2023-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3595",
+          "proposer": null
+        },
+        {
+          "id": "DRPR29-amend-RDRP29",
+          "shortCode": "DP2025-A",
+          "label": "Sprememba DP2025-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-10",
+          "effectiveFrom": "2024-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR29"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "RDRP29",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2025 (DP2025-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2025 (DP2025-A)",
+      "shortCode": "DP2025-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3306",
+      "gazette": null,
+      "issuingBody": "Državni zbor Republike Slovenije",
+      "adoptedAt": "2024-12-10",
+      "validFrom": "2024-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3306",
+      "versions": [
+        {
+          "id": "RDRP29-original",
+          "shortCode": "DP2025-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-10",
+          "effectiveFrom": "2024-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR29"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3306",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

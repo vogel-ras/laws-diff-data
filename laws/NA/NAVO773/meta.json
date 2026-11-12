@@ -1,0 +1,121 @@
+{
+  "root": "NAVO773",
+  "path": "laws/NA/NAVO773",
+  "members": [
+    {
+      "id": "NAVO773",
+      "title": "Navodilo za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za sestavitev bilance stanja in izkaza poslovnega izida)",
+      "shortTitle": "Navodilo za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za sestavitev bilance stanja in izkaza poslovnega izida)",
+      "shortCode": "NAVO773",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2005-01-2823",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-07-08",
+      "validFrom": "2005-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2823",
+      "versions": [
+        {
+          "id": "NAVO773-original",
+          "shortCode": "NAVO773",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-08",
+          "effectiveFrom": "2005-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2823",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO810",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za sestavitev bilance stanja in izkaza poslovnega izida)",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za sestavitev bilance stanja in izkaza poslovnega izida)",
+      "shortCode": "NAVO810",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2006-01-1938",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-04-28",
+      "validFrom": "2006-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1938",
+      "versions": [
+        {
+          "id": "NAVO810-original",
+          "shortCode": "NAVO810",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-28",
+          "effectiveFrom": "2006-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO773"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1938",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO814",
+      "title": "Navodilo o spremembah Navodila za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za izračun kazalcev)",
+      "shortTitle": "Navodilo o spremembah Navodila za izvajanje Sklepa o poslovnih knjigah in letnih poročilih bank in hranilnic (Metodologija za izračun kazalcev)",
+      "shortCode": "NAVO814",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2006-01-2862",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2006-06-27",
+      "validFrom": "2006-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2862",
+      "versions": [
+        {
+          "id": "NAVO814-original",
+          "shortCode": "NAVO814",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-27",
+          "effectiveFrom": "2006-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO773"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2862",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

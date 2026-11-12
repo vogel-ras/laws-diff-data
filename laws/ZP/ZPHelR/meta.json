@@ -1,0 +1,166 @@
+{
+  "root": "ZPHelR",
+  "path": "laws/ZP/ZPHelR",
+  "members": [
+    {
+      "id": "ZPHelR",
+      "title": "Zakon o posojilu Helenski republiki",
+      "shortTitle": "Zakon o posojilu Helenski republiki",
+      "shortCode": "ZPHelR",
+      "kind": "zakon",
+      "keywords": [
+        "finančna pomoč",
+        "gospodarska recesija",
+        "Grčija",
+        "posojilo",
+        "Evroskupina (euroobmočje)"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3119",
+      "gazette": "Uradni list RS 56/10  str. 8524",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-15",
+      "validFrom": "2010-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3119",
+      "versions": [
+        {
+          "id": "ZPHelR-original",
+          "shortCode": "ZPHelR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/10  str. 8524",
+          "publishedAt": "2010-07-15",
+          "effectiveFrom": "2010-07-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3119",
+          "proposer": null
+        },
+        {
+          "id": "ZPHelR-amend-ZPHelR-A",
+          "shortCode": "ZPHelR-A",
+          "label": "Sprememba ZPHelR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/12  str. 1767",
+          "publishedAt": "2012-03-19",
+          "effectiveFrom": "2012-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPHelR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0816",
+          "proposer": null
+        },
+        {
+          "id": "ZPHelR-amend-ZPHelR-B",
+          "shortCode": "ZPHelR-B",
+          "label": "Sprememba ZPHelR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 30/13  str. 3689",
+          "publishedAt": "2013-04-12",
+          "effectiveFrom": "2013-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPHelR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1126",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPHelR-A",
+      "title": "Zakon o spremembah Zakona o posojilu Helenski republiki",
+      "shortTitle": "Zakon o spremembah Zakona o posojilu Helenski republiki",
+      "shortCode": "ZPHelR-A",
+      "kind": "zakon",
+      "keywords": [
+        "posojilo",
+        "Grčija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-0816",
+      "gazette": "Uradni list RS 21/12  str. 1767",
+      "issuingBody": null,
+      "adoptedAt": "2012-03-19",
+      "validFrom": "2012-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0816",
+      "versions": [
+        {
+          "id": "ZPHelR-A-original",
+          "shortCode": "ZPHelR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/12  str. 1767",
+          "publishedAt": "2012-03-19",
+          "effectiveFrom": "2012-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPHelR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0816",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPHelR-B",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o posojilu Helenski republiki",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o posojilu Helenski republiki",
+      "shortCode": "ZPHelR-B",
+      "kind": "zakon",
+      "keywords": [
+        "posojilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1126",
+      "gazette": "Uradni list RS 30/13  str. 3689",
+      "issuingBody": null,
+      "adoptedAt": "2013-04-12",
+      "validFrom": "2013-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1126",
+      "versions": [
+        {
+          "id": "ZPHelR-B-original",
+          "shortCode": "ZPHelR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/13  str. 3689",
+          "publishedAt": "2013-04-12",
+          "effectiveFrom": "2013-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPHelR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1126",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

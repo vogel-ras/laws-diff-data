@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO42029",
+  "path": "ordinances/MP/MP_ODLO42029",
+  "members": [
+    {
+      "id": "MP_ODLO42029",
+      "title": "Odlok o postopku in merilih za sofinanciranje letnega programa športa v Občini Postojna (ODLO)",
+      "shortTitle": "Odlok o postopku in merilih za sofinanciranje letnega programa športa v Občini Postojna (ODLO)",
+      "shortCode": "MP_ODLO42029",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2017-01-3813",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3813",
+      "versions": [
+        {
+          "id": "MP_ODLO42029-original",
+          "shortCode": "MP_ODLO42029",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3813",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO46420",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o postopku in merilih za sofinanciranje letnega programa športa v Občini Postojna (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o postopku in merilih za sofinanciranje letnega programa športa v Občini Postojna (ODLO)",
+      "shortCode": "MP_ODLO46420",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Postojna",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-4340",
+      "gazette": null,
+      "issuingBody": "Občina Postojna",
+      "adoptedAt": "2021-12-30",
+      "validFrom": "2021-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2021-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4340",
+      "versions": [
+        {
+          "id": "MP_ODLO46420-original",
+          "shortCode": "MP_ODLO46420",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-30",
+          "effectiveFrom": "2021-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO42029"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4340",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

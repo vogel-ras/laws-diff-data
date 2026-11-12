@@ -1,0 +1,82 @@
+{
+  "root": "SKLE8900",
+  "path": "laws/SK/SKLE8900",
+  "members": [
+    {
+      "id": "SKLE8900",
+      "title": "Sklep o podrobnejši vsebini določb zavarovalne pogodbe",
+      "shortTitle": "Sklep o podrobnejši vsebini določb zavarovalne pogodbe",
+      "shortCode": "SKLE8900",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-1419",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-02-22",
+      "validFrom": "2013-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2013-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1419",
+      "versions": [
+        {
+          "id": "SKLE8900-original",
+          "shortCode": "SKLE8900",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-02-22",
+          "effectiveFrom": "2013-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1419",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9586",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini določb zavarovalne pogodbe",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini določb zavarovalne pogodbe",
+      "shortCode": "SKLE9586",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2013-01-0516",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2013-02-22",
+      "validFrom": "2013-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2013-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0516",
+      "versions": [
+        {
+          "id": "SKLE9586-original",
+          "shortCode": "SKLE9586",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-02-22",
+          "effectiveFrom": "2013-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8900"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0516",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

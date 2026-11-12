@@ -1,0 +1,82 @@
+{
+  "root": "SKLE1414",
+  "path": "laws/SK/SKLE1414",
+  "members": [
+    {
+      "id": "SKLE1414",
+      "title": "Sklep o pogojih, pod katerimi se smejo tuja plačilna sredstva tujih pravnih in fizičnih oseb sprejemati v depozit",
+      "shortTitle": "Sklep o pogojih, pod katerimi se smejo tuja plačilna sredstva tujih pravnih in fizičnih oseb sprejemati v depozit",
+      "shortCode": "SKLE1414",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1991-01-0631",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-10-08",
+      "validFrom": "1991-10-08",
+      "validTo": null,
+      "latestPublishedAt": "1991-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0631",
+      "versions": [
+        {
+          "id": "SKLE1414-original",
+          "shortCode": "SKLE1414",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-10-08",
+          "effectiveFrom": "1991-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5912",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o pogojih, pod katerimi se smejo tuja plačilna sredstva tujih pravnih in fizičnih oseb sprejemati v depozit",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o pogojih, pod katerimi se smejo tuja plačilna sredstva tujih pravnih in fizičnih oseb sprejemati v depozit",
+      "shortCode": "SKLE5912",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1993-01-0444",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-02-25",
+      "validFrom": "1993-02-25",
+      "validTo": null,
+      "latestPublishedAt": "1993-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0444",
+      "versions": [
+        {
+          "id": "SKLE5912-original",
+          "shortCode": "SKLE5912",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-02-25",
+          "effectiveFrom": "1993-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1414"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0444",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

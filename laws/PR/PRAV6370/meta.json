@@ -1,0 +1,121 @@
+{
+  "root": "PRAV6370",
+  "path": "laws/PR/PRAV6370",
+  "members": [
+    {
+      "id": "PRAV6370",
+      "title": "Pravilnik o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortTitle": "Pravilnik o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortCode": "PRAV6370",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0355",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-02-10",
+      "validFrom": "2005-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0355",
+      "versions": [
+        {
+          "id": "PRAV6370-original",
+          "shortCode": "PRAV6370",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-10",
+          "effectiveFrom": "2005-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0355",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7562",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortCode": "PRAV7562",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1015",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-07",
+      "validFrom": "2006-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1015",
+      "versions": [
+        {
+          "id": "PRAV7562-original",
+          "shortCode": "PRAV7562",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-07",
+          "effectiveFrom": "2006-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6370"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8171",
+      "title": "Pravilnik o spremembi Pravilnika o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o postopku in merilih za izbor in sofinanciranje domačih znanstvenih periodičnih publikacij",
+      "shortCode": "PRAV8171",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-0181",
+      "gazette": null,
+      "issuingBody": "Javna agencija za raziskovalno dejavnost Republike Slovenije",
+      "adoptedAt": "2007-01-19",
+      "validFrom": "2007-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2007-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0181",
+      "versions": [
+        {
+          "id": "PRAV8171-original",
+          "shortCode": "PRAV8171",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-01-19",
+          "effectiveFrom": "2007-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6370"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0181",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

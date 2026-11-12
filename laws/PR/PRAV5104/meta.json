@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5104",
+  "path": "laws/PR/PRAV5104",
+  "members": [
+    {
+      "id": "PRAV5104",
+      "title": "Pravilnik o kadrovskih načrtih državnih organov",
+      "shortTitle": "Pravilnik o kadrovskih načrtih državnih organov",
+      "shortCode": "PRAV5104",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3073",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2003-06-30",
+      "validFrom": "2003-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3073",
+      "versions": [
+        {
+          "id": "PRAV5104-original",
+          "shortCode": "PRAV5104",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-30",
+          "effectiveFrom": "2003-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3073",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6554",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o kadrovskih načrtih državnih organov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o kadrovskih načrtih državnih organov",
+      "shortCode": "PRAV6554",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3336",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2005-08-09",
+      "validFrom": "2005-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3336",
+      "versions": [
+        {
+          "id": "PRAV6554-original",
+          "shortCode": "PRAV6554",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-09",
+          "effectiveFrom": "2005-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5104"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3336",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

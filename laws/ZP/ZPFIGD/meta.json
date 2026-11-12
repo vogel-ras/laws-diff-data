@@ -1,0 +1,167 @@
+{
+  "root": "ZPFIGD",
+  "path": "laws/ZP/ZPFIGD",
+  "members": [
+    {
+      "id": "ZPFIGD",
+      "title": "Zakon o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortTitle": "Zakon o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortCode": "ZPFIGD",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "financiranje",
+        "investicijski kredit",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2184",
+      "gazette": "Uradni list RS 43/10  str. 6131",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-31",
+      "validFrom": "2010-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2184",
+      "versions": [
+        {
+          "id": "ZPFIGD-original",
+          "shortCode": "ZPFIGD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/10  str. 6131",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2184",
+          "proposer": null
+        },
+        {
+          "id": "ZPFIGD-amend-ZPFIGD-B",
+          "shortCode": "ZPFIGD-B",
+          "label": "Sprememba ZPFIGD-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 55/12  str. 5663",
+          "publishedAt": "2012-07-20",
+          "effectiveFrom": "2012-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPFIGD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2330",
+          "proposer": null
+        },
+        {
+          "id": "ZPFIGD-amend-ZPFIGD-C",
+          "shortCode": "ZPFIGD-C",
+          "label": "Sprememba ZPFIGD-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 82/15  str. 8976",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFIGD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3257",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPFIGD-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortCode": "ZPFIGD-B",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska družba",
+        "poroštvo",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2330",
+      "gazette": "Uradni list RS 55/12  str. 5663",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-20",
+      "validFrom": "2012-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2330",
+      "versions": [
+        {
+          "id": "ZPFIGD-B-original",
+          "shortCode": "ZPFIGD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/12  str. 5663",
+          "publishedAt": "2012-07-20",
+          "effectiveFrom": "2012-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFIGD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2330",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPFIGD-C",
+      "title": "Zakon o dopolnitvi Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortTitle": "Zakon o dopolnitvi Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortCode": "ZPFIGD-C",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3257",
+      "gazette": "Uradni list RS 82/15  str. 8976",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-03",
+      "validFrom": "2015-11-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3257",
+      "versions": [
+        {
+          "id": "ZPFIGD-C-original",
+          "shortCode": "ZPFIGD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/15  str. 8976",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFIGD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3257",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

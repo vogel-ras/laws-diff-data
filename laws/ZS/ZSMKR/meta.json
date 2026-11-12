@@ -1,0 +1,289 @@
+{
+  "root": "ZSMKR",
+  "path": "laws/ZS/ZSMKR",
+  "members": [
+    {
+      "id": "ZAKO7577",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-D)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin (ZSMKR-D)",
+      "shortCode": "ZSMKR-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0947",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0947",
+      "versions": [
+        {
+          "id": "ZAKO7577-original",
+          "shortCode": "ZSMKR-D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0947",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSMKR",
+      "title": "Zakon o semenskem materialu kmetijskih rastlin",
+      "shortTitle": "Zakon o semenskem materialu kmetijskih rastlin",
+      "shortCode": "ZSMKR",
+      "kind": "zakon",
+      "keywords": [
+        "seme",
+        "sadika",
+        "sadjarstvo",
+        "zelenjava",
+        "žita",
+        "krmna rastlina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2809",
+      "gazette": "Uradni list RS 58/2002  str. 6034",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-04",
+      "validFrom": "2002-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2809",
+      "versions": [
+        {
+          "id": "ZSMKR-original",
+          "shortCode": "ZSMKR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/2002  str. 6034",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2809",
+          "proposer": null
+        },
+        {
+          "id": "ZSMKR-amend-ZSMKR-A",
+          "shortCode": "ZSMKR-A",
+          "label": "Sprememba ZSMKR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10438",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3848",
+          "proposer": null
+        },
+        {
+          "id": "ZSMKR-amend-ZSMKR-B",
+          "shortCode": "ZSMKR-B",
+          "label": "Sprememba ZSMKR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 41/09  str. 5743",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1986",
+          "proposer": null
+        },
+        {
+          "id": "ZSMKR-amend-ZSMKR-C",
+          "shortCode": "ZSMKR-C",
+          "label": "Sprememba ZSMKR-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 32/12  str. 2891",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1404",
+          "proposer": null
+        },
+        {
+          "id": "ZSMKR-amend-ZAKO7577",
+          "shortCode": "ZSMKR-D",
+          "label": "Sprememba ZSMKR-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0947",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSMKR-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o semenskem materialu kmetijskih rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o semenskem materialu kmetijskih rastlin",
+      "shortCode": "ZSMKR-A",
+      "kind": "zakon",
+      "keywords": [
+        "seme",
+        "kmetijski trg",
+        "živa rastlina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3848",
+      "gazette": "Uradni list RS 86/04  str. 10438",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3848",
+      "versions": [
+        {
+          "id": "ZSMKR-A-original",
+          "shortCode": "ZSMKR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10438",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3848",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSMKR-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin",
+      "shortCode": "ZSMKR-B",
+      "kind": "zakon",
+      "keywords": [
+        "seme",
+        "sadika",
+        "trženje",
+        "nadzor kakovosti kmetijskih proizvodov",
+        "fitosanitarni nadzor",
+        "razmnoževanje rastlin",
+        "označevanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1986",
+      "gazette": "Uradni list RS 41/09  str. 5743",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-01",
+      "validFrom": "2009-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1986",
+      "versions": [
+        {
+          "id": "ZSMKR-B-original",
+          "shortCode": "ZSMKR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/09  str. 5743",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1986",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSMKR-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o semenskem materialu kmetijskih rastlin",
+      "shortCode": "ZSMKR-C",
+      "kind": "zakon",
+      "keywords": [
+        "seme",
+        "kmetijska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1404",
+      "gazette": "Uradni list RS 32/12  str. 2891",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-04",
+      "validFrom": "2012-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1404",
+      "versions": [
+        {
+          "id": "ZSMKR-C-original",
+          "shortCode": "ZSMKR-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/12  str. 2891",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSMKR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1404",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

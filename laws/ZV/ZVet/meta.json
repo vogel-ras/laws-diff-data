@@ -1,0 +1,318 @@
+{
+  "root": "ZVet",
+  "path": "laws/ZV/ZVet",
+  "members": [
+    {
+      "id": "ZAKO7756",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o veterinarstvu (ZVet-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o veterinarstvu (ZVet-1A)",
+      "shortCode": "ZVet-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0948",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0948",
+      "versions": [
+        {
+          "id": "ZAKO7756-original",
+          "shortCode": "ZVet-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0948",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVet",
+      "title": "Zakon o veterinarstvu",
+      "shortTitle": "Zakon o veterinarstvu",
+      "shortCode": "ZVet",
+      "kind": "zakon",
+      "keywords": [
+        "veterinarska zakonodaja",
+        "veterina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2981",
+      "gazette": "Uradni list RS 82/94  str. 5045",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-30",
+      "validFrom": "1994-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2981",
+      "versions": [
+        {
+          "id": "ZVet-original",
+          "shortCode": "ZVet",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/94  str. 5045",
+          "publishedAt": "1994-12-30",
+          "effectiveFrom": "1994-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2981",
+          "proposer": null
+        },
+        {
+          "id": "ZVet-amend-ZVet-A",
+          "shortCode": "ZVet-A",
+          "label": "Sprememba ZVet-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/95  str. 1585",
+          "publishedAt": "1995-07-14",
+          "effectiveFrom": "1995-07-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0957",
+          "proposer": null
+        },
+        {
+          "id": "ZVet-amend-ZVet-B",
+          "shortCode": "ZVet-B",
+          "label": "Sprememba ZVet-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 16/96  str. 1239",
+          "publishedAt": "1996-03-22",
+          "effectiveFrom": "1996-03-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0843",
+          "proposer": null
+        },
+        {
+          "id": "ZVet-amend-ZVet-C",
+          "shortCode": "ZVet-C",
+          "label": "Sprememba ZVet-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 101/99  str. 15027",
+          "publishedAt": "1999-12-16",
+          "effectiveFrom": "1999-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4815",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVet-1",
+      "title": "Zakon o veterinarstvu",
+      "shortTitle": "Zakon o veterinarstvu",
+      "shortCode": "ZVet-1",
+      "kind": "zakon",
+      "keywords": [
+        "veterina",
+        "veterinarska inšpekcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1959",
+      "gazette": "Uradni list RS 33/2001  str. 3673",
+      "issuingBody": null,
+      "adoptedAt": "2001-05-05",
+      "validFrom": "2001-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1959",
+      "versions": [
+        {
+          "id": "ZVet-1-original",
+          "shortCode": "ZVet-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/2001  str. 3673",
+          "publishedAt": "2001-05-05",
+          "effectiveFrom": "2001-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1959",
+          "proposer": null
+        },
+        {
+          "id": "ZVet-1-amend-ZAKO7756",
+          "shortCode": "ZVet-1A",
+          "label": "Sprememba ZVet-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0948",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVet-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o veterinarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o veterinarstvu",
+      "shortCode": "ZVet-A",
+      "kind": "zakon",
+      "keywords": [
+        "veterina",
+        "veterinarska zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0957",
+      "gazette": "Uradni list RS 21/95  str. 1585",
+      "issuingBody": null,
+      "adoptedAt": "1995-07-14",
+      "validFrom": "1995-07-14",
+      "validTo": null,
+      "latestPublishedAt": "1995-07-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0957",
+      "versions": [
+        {
+          "id": "ZVet-A-original",
+          "shortCode": "ZVet-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/95  str. 1585",
+          "publishedAt": "1995-07-14",
+          "effectiveFrom": "1995-07-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0957",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVet-B",
+      "title": "Zakon o spremembah zakona o veterinarstvu",
+      "shortTitle": "Zakon o spremembah zakona o veterinarstvu",
+      "shortCode": "ZVet-B",
+      "kind": "zakon",
+      "keywords": [
+        "veterina",
+        "veterinarska zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0843",
+      "gazette": "Uradni list RS 16/96  str. 1239",
+      "issuingBody": null,
+      "adoptedAt": "1996-03-22",
+      "validFrom": "1996-03-22",
+      "validTo": null,
+      "latestPublishedAt": "1996-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0843",
+      "versions": [
+        {
+          "id": "ZVet-B-original",
+          "shortCode": "ZVet-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/96  str. 1239",
+          "publishedAt": "1996-03-22",
+          "effectiveFrom": "1996-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0843",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVet-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o veterinarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o veterinarstvu",
+      "shortCode": "ZVet-C",
+      "kind": "zakon",
+      "keywords": [
+        "veterina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4815",
+      "gazette": "Uradni list RS 101/99  str. 15027",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-16",
+      "validFrom": "1999-12-16",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4815",
+      "versions": [
+        {
+          "id": "ZVet-C-original",
+          "shortCode": "ZVet-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/99  str. 15027",
+          "publishedAt": "1999-12-16",
+          "effectiveFrom": "1999-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4815",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

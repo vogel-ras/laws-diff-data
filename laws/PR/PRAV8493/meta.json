@@ -1,0 +1,58 @@
+{
+  "root": "PRAV8493",
+  "path": "laws/PR/PRAV8493",
+  "members": [
+    {
+      "id": "PRAV8493",
+      "title": "Pravilnik o merilih za odmero komunalnega prispevka",
+      "shortTitle": "Pravilnik o merilih za odmero komunalnega prispevka",
+      "shortCode": "PRAV8493",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-4748",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2007-10-19",
+      "validFrom": "2007-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4748",
+      "versions": [
+        {
+          "id": "PRAV8493-original",
+          "shortCode": "PRAV8493",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-10-19",
+          "effectiveFrom": "2007-10-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4748",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8493-npb-PRAV8493",
+          "shortCode": "PRAV8493-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-10-19",
+          "effectiveFrom": "2007-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8493",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

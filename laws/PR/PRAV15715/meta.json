@@ -1,0 +1,60 @@
+{
+  "root": "PRAV15715",
+  "path": "laws/PR/PRAV15715",
+  "members": [
+    {
+      "id": "PRAV15715",
+      "title": "Pravilnik o spremembah Pravilnika o ovojnici za vročanje po pošti v pravdnem postopku",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o ovojnici za vročanje po pošti v pravdnem postopku",
+      "shortCode": "PRAV15715",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-1215",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2025-04-30",
+      "validFrom": "2025-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1215",
+      "versions": [
+        {
+          "id": "PRAV15715-original",
+          "shortCode": "PRAV15715",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-30",
+          "effectiveFrom": "2025-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PRAV8568"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1215",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15715-npb-PRAV15715",
+          "shortCode": "PRAV15715-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-04-30",
+          "effectiveFrom": "2025-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15715",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

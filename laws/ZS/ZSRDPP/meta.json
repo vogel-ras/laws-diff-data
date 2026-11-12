@@ -1,0 +1,107 @@
+{
+  "root": "ZSRDPP",
+  "path": "laws/ZS/ZSRDPP",
+  "members": [
+    {
+      "id": "ZSRDPP",
+      "title": "Zakon o Slovenski razvojni družbi in programu prestrukturiranja podjetij",
+      "shortTitle": "Zakon o Slovenski razvojni družbi in programu prestrukturiranja podjetij",
+      "shortCode": "ZSRDPP",
+      "kind": "zakon",
+      "keywords": [
+        "pomoč za prestrukturiranje",
+        "gospodarska družba",
+        "gospodarstvo v tranziciji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2141",
+      "gazette": "Uradni list RS 39/97  str. 3513",
+      "issuingBody": null,
+      "adoptedAt": "1997-06-30",
+      "validFrom": "1997-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1997-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2141",
+      "versions": [
+        {
+          "id": "ZSRDPP-original",
+          "shortCode": "ZSRDPP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/97  str. 3513",
+          "publishedAt": "1997-06-30",
+          "effectiveFrom": "1997-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2141",
+          "proposer": null
+        },
+        {
+          "id": "ZSRDPP-amend-ZSRDPP-A",
+          "shortCode": "ZSRDPP-A",
+          "label": "Sprememba ZSRDPP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 68/97  str. 5341",
+          "publishedAt": "1997-11-07",
+          "effectiveFrom": "1997-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSRDPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3268",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSRDPP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Slovenski razvojni družbi in programu prestrukturiranja podjetij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Slovenski razvojni družbi in programu prestrukturiranja podjetij",
+      "shortCode": "ZSRDPP-A",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska družba",
+        "soodločanje delavcev",
+        "gospodarstvo v tranziciji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3268",
+      "gazette": "Uradni list RS 68/97  str. 5341",
+      "issuingBody": null,
+      "adoptedAt": "1997-11-07",
+      "validFrom": "1997-11-07",
+      "validTo": null,
+      "latestPublishedAt": "1997-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3268",
+      "versions": [
+        {
+          "id": "ZSRDPP-A-original",
+          "shortCode": "ZSRDPP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/97  str. 5341",
+          "publishedAt": "1997-11-07",
+          "effectiveFrom": "1997-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSRDPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3268",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

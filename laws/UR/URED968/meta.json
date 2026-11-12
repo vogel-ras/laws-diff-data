@@ -1,0 +1,97 @@
+{
+  "root": "URED968",
+  "path": "laws/UR/URED968",
+  "members": [
+    {
+      "id": "URED7520",
+      "title": "Uredba o spremembi Uredbe o oznakah v Slovenski vojski",
+      "shortTitle": "Uredba o spremembi Uredbe o oznakah v Slovenski vojski",
+      "shortCode": "URED7520",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0653",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-03-17",
+      "validFrom": "2017-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0653",
+      "versions": [
+        {
+          "id": "URED7520-original",
+          "shortCode": "URED7520",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-17",
+          "effectiveFrom": "2017-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED968"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0653",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED968",
+      "title": "Uredba o oznakah v Slovenski vojski",
+      "shortTitle": "Uredba o oznakah v Slovenski vojski",
+      "shortCode": "URED968",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-0270",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-03",
+      "validFrom": "2025-03-03",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0270",
+      "versions": [
+        {
+          "id": "URED968-original",
+          "shortCode": "URED968",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-03",
+          "effectiveFrom": "2025-03-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0270",
+          "proposer": null
+        },
+        {
+          "id": "URED968-npb-URED968",
+          "shortCode": "URED968-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1995-01-20",
+          "effectiveFrom": "1995-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED968",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

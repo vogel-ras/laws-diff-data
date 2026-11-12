@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12924",
+  "path": "laws/PR/PRAV12924",
+  "members": [
+    {
+      "id": "PRAV12924",
+      "title": "Pravilnik o izvajanju Zakona o trošarinah",
+      "shortTitle": "Pravilnik o izvajanju Zakona o trošarinah",
+      "shortCode": "PRAV12924",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2615",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2016-09-30",
+      "validFrom": "2016-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2615",
+      "versions": [
+        {
+          "id": "PRAV12924-original",
+          "shortCode": "PRAV12924",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-09-30",
+          "effectiveFrom": "2016-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2615",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12924-npb-PRAV12924",
+          "shortCode": "PRAV12924-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 8)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-09-30",
+          "effectiveFrom": "2016-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12924",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2852",
+  "path": "laws/PR/PRAV2852",
+  "members": [
+    {
+      "id": "PRAV2852",
+      "title": "Pravilnik o radijski in terminalski opremi",
+      "shortTitle": "Pravilnik o radijski in terminalski opremi",
+      "shortCode": "PRAV2852",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-4041",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-10-04",
+      "validFrom": "2001-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4041",
+      "versions": [
+        {
+          "id": "PRAV2852-original",
+          "shortCode": "PRAV2852",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-10-04",
+          "effectiveFrom": "2001-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4041",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4781",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o radijski in terminalski opremi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o radijski in terminalski opremi",
+      "shortCode": "PRAV4781",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-1937",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-04-30",
+      "validFrom": "2003-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1937",
+      "versions": [
+        {
+          "id": "PRAV4781-original",
+          "shortCode": "PRAV4781",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-04-30",
+          "effectiveFrom": "2003-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2852"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1937",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED113",
+  "path": "laws/UR/URED113",
+  "members": [
+    {
+      "id": "URED113",
+      "title": "Uredba o carinskih postopkih z ekonomskim učinkom",
+      "shortTitle": "Uredba o carinskih postopkih z ekonomskim učinkom",
+      "shortCode": "URED113",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-2636",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-10-04",
+      "validFrom": "1995-10-04",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2636",
+      "versions": [
+        {
+          "id": "URED113-original",
+          "shortCode": "URED113",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-10-04",
+          "effectiveFrom": "1995-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2636",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED125",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o carinskih postopkih z ekonomskim učinkom",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o carinskih postopkih z ekonomskim učinkom",
+      "shortCode": "URED125",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-2169",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-06-21",
+      "validFrom": "1996-06-21",
+      "validTo": null,
+      "latestPublishedAt": "1996-06-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2169",
+      "versions": [
+        {
+          "id": "URED125-original",
+          "shortCode": "URED125",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-06-21",
+          "effectiveFrom": "1996-06-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED113"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2169",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

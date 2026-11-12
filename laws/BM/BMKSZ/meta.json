@@ -1,0 +1,106 @@
+{
+  "root": "BMKSZ",
+  "path": "laws/BM/BMKSZ",
+  "members": [
+    {
+      "id": "BMKSZ",
+      "title": "Zakon o ratifikaciji Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKSZ",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Makedonija",
+        "zdravstveno zavarovanje",
+        "invalidsko zavarovanje",
+        "zavarovanje za primer brezposelnosti",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-02-0050",
+      "gazette": "Uradni list RS MP 10/2000  str. 344",
+      "issuingBody": null,
+      "adoptedAt": "2000-04-21",
+      "validFrom": "2000-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2019-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0050",
+      "versions": [
+        {
+          "id": "BMKSZ-original",
+          "shortCode": "BMKSZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 10/2000  str. 344",
+          "publishedAt": "2000-04-21",
+          "effectiveFrom": "2000-04-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0050",
+          "proposer": null
+        },
+        {
+          "id": "BMKSZ-amend-BMKSZ-A",
+          "shortCode": "BMKSZ-A",
+          "label": "Sprememba BMKSZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 1/19  str. 32",
+          "publishedAt": "2019-01-04",
+          "effectiveFrom": "2019-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKSZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-02-0006",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BMKSZ-A",
+      "title": "Zakon o ratifikaciji Sporazuma o spremembi in dopolnitvi Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo in Sporazuma o spremembi Administrativnega sporazuma o izvajanju Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o spremembi in dopolnitvi Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo in Sporazuma o spremembi Administrativnega sporazuma o izvajanju Sporazuma o socialnem zavarovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKSZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-02-0006",
+      "gazette": "Uradni list RS MP 1/19  str. 32",
+      "issuingBody": null,
+      "adoptedAt": "2019-01-04",
+      "validFrom": "2019-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-02-0006",
+      "versions": [
+        {
+          "id": "BMKSZ-A-original",
+          "shortCode": "BMKSZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 1/19  str. 32",
+          "publishedAt": "2019-01-04",
+          "effectiveFrom": "2019-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKSZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-02-0006",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4530",
+  "path": "laws/PR/PRAV4530",
+  "members": [
+    {
+      "id": "PRAV4530",
+      "title": "Pravilnik o naravni mineralni vodi, izvirski vodi in namizni vodi",
+      "shortTitle": "Pravilnik o naravni mineralni vodi, izvirski vodi in namizni vodi",
+      "shortCode": "PRAV4530",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3043",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-06-27",
+      "validFrom": "2003-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3043",
+      "versions": [
+        {
+          "id": "PRAV4530-original",
+          "shortCode": "PRAV4530",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3043",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6949",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o naravni mineralni vodi, izvirski vodi in namizni vodi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o naravni mineralni vodi, izvirski vodi in namizni vodi",
+      "shortCode": "PRAV6949",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-08-09",
+      "validFrom": "2005-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3342",
+      "versions": [
+        {
+          "id": "PRAV6949-original",
+          "shortCode": "PRAV6949",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-09",
+          "effectiveFrom": "2005-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4530"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3342",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

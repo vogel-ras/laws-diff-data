@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11245",
+  "path": "laws/PR/PRAV11245",
+  "members": [
+    {
+      "id": "PRAV11245",
+      "title": "Pravilnik o dokumentaciji v glasbenih šolah",
+      "shortTitle": "Pravilnik o dokumentaciji v glasbenih šolah",
+      "shortCode": "PRAV11245",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2533",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost, kulturo in šport",
+      "adoptedAt": "2012-08-10",
+      "validFrom": "2012-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2012-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2533",
+      "versions": [
+        {
+          "id": "PRAV11245-original",
+          "shortCode": "PRAV11245",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-08-10",
+          "effectiveFrom": "2012-08-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2533",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11245-npb-PRAV11245",
+          "shortCode": "PRAV11245-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-08-10",
+          "effectiveFrom": "2012-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11245",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15741",
+      "title": "Pravilnik o spremembi Pravilnika o dokumentaciji v glasbenih šolah",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o dokumentaciji v glasbenih šolah",
+      "shortCode": "PRAV15741",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2152",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za vzgojo in izobraževanje",
+      "adoptedAt": "2025-07-11",
+      "validFrom": "2025-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2025-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2152",
+      "versions": [
+        {
+          "id": "PRAV15741-original",
+          "shortCode": "PRAV15741",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-07-11",
+          "effectiveFrom": "2025-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11245"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2152",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

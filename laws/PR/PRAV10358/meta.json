@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10358",
+  "path": "laws/PR/PRAV10358",
+  "members": [
+    {
+      "id": "PRAV10358",
+      "title": "Pravilnik o sporočanju podatkov za kemikalije",
+      "shortTitle": "Pravilnik o sporočanju podatkov za kemikalije",
+      "shortCode": "PRAV10358",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-1761",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2011-05-13",
+      "validFrom": "2011-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1761",
+      "versions": [
+        {
+          "id": "PRAV10358-original",
+          "shortCode": "PRAV10358",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-13",
+          "effectiveFrom": "2011-05-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1761",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10358-npb-PRAV10358",
+          "shortCode": "PRAV10358-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-05-13",
+          "effectiveFrom": "2011-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10358",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

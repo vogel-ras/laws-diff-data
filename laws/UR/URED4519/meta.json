@@ -1,0 +1,136 @@
+{
+  "root": "URED4519",
+  "path": "laws/UR/URED4519",
+  "members": [
+    {
+      "id": "URED4519",
+      "title": "Uredba o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Uredba o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortCode": "URED4519",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2223",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-05-11",
+      "validFrom": "2007-05-11",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2223",
+      "versions": [
+        {
+          "id": "URED4519-original",
+          "shortCode": "URED4519",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-11",
+          "effectiveFrom": "2007-05-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2223",
+          "proposer": null
+        },
+        {
+          "id": "URED4519-npb-URED4519",
+          "shortCode": "URED4519-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-05-11",
+          "effectiveFrom": "2007-05-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4519",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5303",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortCode": "URED5303",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-2232",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-06-04",
+      "validFrom": "2010-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2232",
+      "versions": [
+        {
+          "id": "URED5303-original",
+          "shortCode": "URED5303",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-06-04",
+          "effectiveFrom": "2010-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2232",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6411",
+      "title": "Uredba o spremembi Uredbe o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Uredba o spremembi Uredbe o merilih za ugotavljanje nacionalnega interesa pri sprejemu v državljanstvo Republike Slovenije na podlagi 13. člena Zakona o državljanstvu Republike Slovenije",
+      "shortCode": "URED6411",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-0872",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-03-20",
+      "validFrom": "2013-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0872",
+      "versions": [
+        {
+          "id": "URED6411-original",
+          "shortCode": "URED6411",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-03-20",
+          "effectiveFrom": "2013-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0872",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

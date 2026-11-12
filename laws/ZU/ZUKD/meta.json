@@ -1,0 +1,258 @@
+{
+  "root": "ZUKD",
+  "path": "laws/ZU/ZUKD",
+  "members": [
+    {
+      "id": "ZAKO6974",
+      "title": "Zakon o spremembah Zakona o ugotavljanju katastrskega dohodka (ZUKD-1C)",
+      "shortTitle": "Zakon o spremembah Zakona o ugotavljanju katastrskega dohodka (ZUKD-1C)",
+      "shortCode": "ZUKD-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1631",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2014-06-06",
+      "validFrom": "2014-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1631",
+      "versions": [
+        {
+          "id": "ZAKO6974-original",
+          "shortCode": "ZUKD-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-06",
+          "effectiveFrom": "2014-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKD-1",
+      "title": "Zakon o ugotavljanju katastrskega dohodka",
+      "shortTitle": "Zakon o ugotavljanju katastrskega dohodka",
+      "shortCode": "ZUKD-1",
+      "kind": "zakon",
+      "keywords": [
+        "zemljiški kataster",
+        "dohodek",
+        "dohodek kmetije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0317",
+      "gazette": "Uradni list RS 9/11  str. 815",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0317",
+      "versions": [
+        {
+          "id": "ZUKD-1-original",
+          "shortCode": "ZUKD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 815",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0317",
+          "proposer": null
+        },
+        {
+          "id": "ZUKD-1-amend-ZUKD-1A",
+          "shortCode": "ZUKD-1A",
+          "label": "Sprememba ZUKD-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/12  str. 4813",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1960",
+          "proposer": null
+        },
+        {
+          "id": "ZUKD-1-amend-ZUKD-1B",
+          "shortCode": "ZUKD-1B",
+          "label": "Sprememba ZUKD-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 55/13  str. 6262",
+          "publishedAt": "2013-06-28",
+          "effectiveFrom": "2013-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2063",
+          "proposer": null
+        },
+        {
+          "id": "ZUKD-1-amend-ZAKO6974",
+          "shortCode": "ZUKD-1C",
+          "label": "Sprememba ZUKD-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2014-06-06",
+          "effectiveFrom": "2014-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKD-1A",
+      "title": "Zakon o spremembah zakona o ugotavljanju katastrskega dohodka",
+      "shortTitle": "Zakon o spremembah zakona o ugotavljanju katastrskega dohodka",
+      "shortCode": "ZUKD-1A",
+      "kind": "zakon",
+      "keywords": [
+        "zemljiška politika",
+        "dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1960",
+      "gazette": "Uradni list RS 47/12  str. 4813",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-22",
+      "validFrom": "2012-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1960",
+      "versions": [
+        {
+          "id": "ZUKD-1A-original",
+          "shortCode": "ZUKD-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/12  str. 4813",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1960",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKD-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o ugotavljanju katastrskega dohodka",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o ugotavljanju katastrskega dohodka",
+      "shortCode": "ZUKD-1B",
+      "kind": "zakon",
+      "keywords": [
+        "zemljiški kataster",
+        "dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2063",
+      "gazette": "Uradni list RS 55/13  str. 6262",
+      "issuingBody": null,
+      "adoptedAt": "2013-06-28",
+      "validFrom": "2013-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2063",
+      "versions": [
+        {
+          "id": "ZUKD-1B-original",
+          "shortCode": "ZUKD-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/13  str. 6262",
+          "publishedAt": "2013-06-28",
+          "effectiveFrom": "2013-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2063",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKD-2",
+      "title": "Zakon o ugotavljanju katastrskega dohodka",
+      "shortTitle": "Zakon o ugotavljanju katastrskega dohodka",
+      "shortCode": "ZUKD-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2684",
+      "gazette": "Uradni list RS 63/16  str. 8773",
+      "issuingBody": null,
+      "adoptedAt": "2016-10-07",
+      "validFrom": "2016-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2684",
+      "versions": [
+        {
+          "id": "ZUKD-2-original",
+          "shortCode": "ZUKD-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/16  str. 8773",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2684",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

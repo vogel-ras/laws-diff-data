@@ -1,0 +1,82 @@
+{
+  "root": "NAVO886",
+  "path": "laws/NA/NAVO886",
+  "members": [
+    {
+      "id": "NAVO886",
+      "title": "Navodilo za izpolnjevanje ter predložitev poročila o zajamčenih vlogah",
+      "shortTitle": "Navodilo za izpolnjevanje ter predložitev poročila o zajamčenih vlogah",
+      "shortCode": "NAVO886",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2007-01-2569",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2007-05-31",
+      "validFrom": "2007-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2569",
+      "versions": [
+        {
+          "id": "NAVO886-original",
+          "shortCode": "NAVO886",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-31",
+          "effectiveFrom": "2007-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2569",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO959",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za izpolnjevanje ter predložitev poročila o zajamčenih vlogah",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za izpolnjevanje ter predložitev poročila o zajamčenih vlogah",
+      "shortCode": "NAVO959",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2008-01-5092",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2008-12-12",
+      "validFrom": "2008-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5092",
+      "versions": [
+        {
+          "id": "NAVO959-original",
+          "shortCode": "NAVO959",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-12",
+          "effectiveFrom": "2008-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO886"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5092",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

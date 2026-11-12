@@ -1,0 +1,121 @@
+{
+  "root": "NEZN129",
+  "path": "laws/NE/NEZN129",
+  "members": [
+    {
+      "id": "NEZN129",
+      "title": "Pravilnik o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortCode": "NEZN129",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2002-01-4896",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-11-20",
+      "validFrom": "2002-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4896",
+      "versions": [
+        {
+          "id": "NEZN129-original",
+          "shortCode": "NEZN129",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4896",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4403",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortCode": "PRAV4403",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3631",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-08-01",
+      "validFrom": "2003-08-01",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3631",
+      "versions": [
+        {
+          "id": "PRAV4403-original",
+          "shortCode": "PRAV4403",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-01",
+          "effectiveFrom": "2003-08-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NEZN129"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5752",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o izdelkih in snoveh, ki prihajajo v stik z živili",
+      "shortCode": "PRAV5752",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2023",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2004-04-28",
+      "validFrom": "2004-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2023",
+      "versions": [
+        {
+          "id": "PRAV5752-original",
+          "shortCode": "PRAV5752",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-28",
+          "effectiveFrom": "2004-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NEZN129"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2023",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

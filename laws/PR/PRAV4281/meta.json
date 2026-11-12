@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4281",
+  "path": "laws/PR/PRAV4281",
+  "members": [
+    {
+      "id": "PRAV4281",
+      "title": "Pravilnik o programu in načinu usposabljanja koordinatorjev za varnost in zdravje pri delu na začasnih in premičnih gradbiščih",
+      "shortTitle": "Pravilnik o programu in načinu usposabljanja koordinatorjev za varnost in zdravje pri delu na začasnih in premičnih gradbiščih",
+      "shortCode": "PRAV4281",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-2851",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2851",
+      "versions": [
+        {
+          "id": "PRAV4281-original",
+          "shortCode": "PRAV4281",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6102",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o programu in načinu usposabljanja koordinatorjev za varnost in zdravje pri delu na začasnih in premičnih gradbiščih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o programu in načinu usposabljanja koordinatorjev za varnost in zdravje pri delu na začasnih in premičnih gradbiščih",
+      "shortCode": "PRAV6102",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4031",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-08-12",
+      "validFrom": "2004-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4031",
+      "versions": [
+        {
+          "id": "PRAV6102-original",
+          "shortCode": "PRAV6102",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-12",
+          "effectiveFrom": "2004-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4281"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4031",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

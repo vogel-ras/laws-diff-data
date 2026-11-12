@@ -1,0 +1,103 @@
+{
+  "root": "ZZPS",
+  "path": "laws/ZZ/ZZPS",
+  "members": [
+    {
+      "id": "ZAKO197",
+      "title": "Zakon o začasni prepovedi sečnje v gozdovih v družbeni lastnini in začasni prepovedi prometa z nepremičninami v družbeni lastnini (ZZPS)",
+      "shortTitle": "Zakon o začasni prepovedi sečnje v gozdovih v družbeni lastnini in začasni prepovedi prometa z nepremičninami v družbeni lastnini (ZZPS)",
+      "shortCode": "ZZPS",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1990-03-1321",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1990-11-28",
+      "validFrom": "1990-11-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-1321",
+      "versions": [
+        {
+          "id": "ZAKO197-original",
+          "shortCode": "ZZPS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1990-11-28",
+          "effectiveFrom": "1990-11-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-1321",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO197-amend-ZZPS-B",
+          "shortCode": "ZZPS-B",
+          "label": "Sprememba ZZPS-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 2/91  str. 73",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO197"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0022",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZPS-B",
+      "title": "Zakon o spremembi zakona o začasni prepovedi sečnje v gozdovih v družbeni lastnini in začasni prepovedi prometa z nepremičninami v družbeni lastnini",
+      "shortTitle": "Zakon o spremembi zakona o začasni prepovedi sečnje v gozdovih v družbeni lastnini in začasni prepovedi prometa z nepremičninami v družbeni lastnini",
+      "shortCode": "ZZPS-B",
+      "kind": "zakon",
+      "keywords": [
+        "zakonodaja o gozdovih",
+        "državni gozd",
+        "nepremičnine"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0022",
+      "gazette": "Uradni list RS 2/91  str. 73",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-28",
+      "validFrom": "1991-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0022",
+      "versions": [
+        {
+          "id": "ZZPS-B-original",
+          "shortCode": "ZZPS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/91  str. 73",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO197"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0022",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

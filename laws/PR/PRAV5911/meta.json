@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5911",
+  "path": "laws/PR/PRAV5911",
+  "members": [
+    {
+      "id": "PRAV5911",
+      "title": "Pravilnik o izračunu povprečne donosnosti državnih vrednostnih papirjev",
+      "shortTitle": "Pravilnik o izračunu povprečne donosnosti državnih vrednostnih papirjev",
+      "shortCode": "PRAV5911",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2907",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-06-11",
+      "validFrom": "2004-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2907",
+      "versions": [
+        {
+          "id": "PRAV5911-original",
+          "shortCode": "PRAV5911",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-11",
+          "effectiveFrom": "2004-06-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2907",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6131",
+      "title": "Pravilnik o spremembi Pravilnika o izračunu povprečne donosnosti državnih vrednostnih papirjev",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izračunu povprečne donosnosti državnih vrednostnih papirjev",
+      "shortCode": "PRAV6131",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5940",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-12-24",
+      "validFrom": "2004-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5940",
+      "versions": [
+        {
+          "id": "PRAV6131-original",
+          "shortCode": "PRAV6131",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-24",
+          "effectiveFrom": "2004-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5940",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

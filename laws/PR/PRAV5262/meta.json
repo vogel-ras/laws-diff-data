@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5262",
+  "path": "laws/PR/PRAV5262",
+  "members": [
+    {
+      "id": "PRAV5262",
+      "title": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij v konjereji",
+      "shortTitle": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij v konjereji",
+      "shortCode": "PRAV5262",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5362",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5362",
+      "versions": [
+        {
+          "id": "PRAV5262-original",
+          "shortCode": "PRAV5262",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5362",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5262-npb-PRAV5262",
+          "shortCode": "PRAV5262-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-12-16",
+          "effectiveFrom": "2003-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5262",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5709",
+      "title": "Pravilnik o spremembi pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij v konjereji",
+      "shortTitle": "Pravilnik o spremembi pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij v konjereji",
+      "shortCode": "PRAV5709",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1115",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1115",
+      "versions": [
+        {
+          "id": "PRAV5709-original",
+          "shortCode": "PRAV5709",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5262"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1115",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "root": "ZJOPZP",
+  "path": "laws/ZJ/ZJOPZP",
+  "members": [
+    {
+      "id": "ZJOPZP",
+      "title": "Zakon o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski plin d.o.o. Ljubljana za plačilo stroškov prenosa zemeljskega plina",
+      "shortTitle": "Zakon o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski plin d.o.o. Ljubljana za plačilo stroškov prenosa zemeljskega plina",
+      "shortCode": "ZJOPZP",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "dobava",
+        "zemeljski plin",
+        "prenos energije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2345",
+      "gazette": "Uradni list RS 51/92  str. 2933",
+      "issuingBody": null,
+      "adoptedAt": "1992-10-23",
+      "validFrom": "1992-10-23",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2345",
+      "versions": [
+        {
+          "id": "ZJOPZP-original",
+          "shortCode": "ZJOPZP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/92  str. 2933",
+          "publishedAt": "1992-10-23",
+          "effectiveFrom": "1992-10-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2345",
+          "proposer": null
+        },
+        {
+          "id": "ZJOPZP-amend-ZJOPZP-A",
+          "shortCode": "ZJOPZP-A",
+          "label": "Sprememba ZJOPZP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 48/94  str. 3021",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJOPZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1827",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJOPZP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski plin d.o.o. Ljubljana za plačilo stroškov prenosa zemeljskega plina",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o jamstvu Republike Slovenije za obveznosti podjetja Petrol Zemeljski plin d.o.o. Ljubljana za plačilo stroškov prenosa zemeljskega plina",
+      "shortCode": "ZJOPZP-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "dobava",
+        "zemeljski plin",
+        "prenos energije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1827",
+      "gazette": "Uradni list RS 48/94  str. 3021",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1827",
+      "versions": [
+        {
+          "id": "ZJOPZP-A-original",
+          "shortCode": "ZJOPZP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/94  str. 3021",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJOPZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1827",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

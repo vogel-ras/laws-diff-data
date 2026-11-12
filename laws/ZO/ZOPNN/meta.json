@@ -1,0 +1,387 @@
+{
+  "root": "ZOPNN",
+  "path": "laws/ZO/ZOPNN",
+  "members": [
+    {
+      "id": "ZAKO6947",
+      "title": "Zakon o dopolnitvi Zakona o odpravi posledic naravnih nesreč (ZOPNN-D)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o odpravi posledic naravnih nesreč (ZOPNN-D)",
+      "shortCode": "ZOPNN-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-0542",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-03-06",
+      "validFrom": "2014-03-06",
+      "validTo": null,
+      "latestPublishedAt": "2014-03-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0542",
+      "versions": [
+        {
+          "id": "ZAKO6947-original",
+          "shortCode": "ZOPNN-D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-03-06",
+          "effectiveFrom": "2014-03-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0542",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN",
+      "title": "Zakon o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3620",
+      "gazette": "Uradni list RS 75/2003  str. 11333",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-01",
+      "validFrom": "2003-08-01",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3620",
+      "versions": [
+        {
+          "id": "ZOPNN-original",
+          "shortCode": "ZOPNN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/2003  str. 11333",
+          "publishedAt": "2003-08-01",
+          "effectiveFrom": "2003-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3620",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZOPNN-A",
+          "shortCode": "ZOPNN-A",
+          "label": "Sprememba ZOPNN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 98/05  str. 10171",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4293",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZOPNN-B",
+          "shortCode": "ZOPNN-B",
+          "label": "Sprememba ZOPNN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 90/07  str. 12021",
+          "publishedAt": "2007-10-05",
+          "effectiveFrom": "2007-10-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4414",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZOPNN-C",
+          "shortCode": "ZOPNN-C",
+          "label": "Sprememba ZOPNN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 102/07  str. 13781",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5074",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZAKO6947",
+          "shortCode": "ZOPNN-D",
+          "label": "Sprememba ZOPNN-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2014-03-06",
+          "effectiveFrom": "2014-03-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0542",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZOPNN-E",
+          "shortCode": "ZOPNN-E",
+          "label": "Sprememba ZOPNN-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 163/22  str. 13706",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4189",
+          "proposer": null
+        },
+        {
+          "id": "ZOPNN-amend-ZOPNN-F",
+          "shortCode": "ZOPNN-F",
+          "label": "Sprememba ZOPNN-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 88/23  str. 7321",
+          "publishedAt": "2023-08-10",
+          "effectiveFrom": "2023-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2599",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN-A",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4293",
+      "gazette": "Uradni list RS 98/05  str. 10171",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-07",
+      "validFrom": "2005-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4293",
+      "versions": [
+        {
+          "id": "ZOPNN-A-original",
+          "shortCode": "ZOPNN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/05  str. 10171",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4293",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN-B",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4414",
+      "gazette": "Uradni list RS 90/07  str. 12021",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-05",
+      "validFrom": "2007-10-05",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4414",
+      "versions": [
+        {
+          "id": "ZOPNN-B-original",
+          "shortCode": "ZOPNN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/07  str. 12021",
+          "publishedAt": "2007-10-05",
+          "effectiveFrom": "2007-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN-C",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5074",
+      "gazette": "Uradni list RS 102/07  str. 13781",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5074",
+      "versions": [
+        {
+          "id": "ZOPNN-C-original",
+          "shortCode": "ZOPNN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13781",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5074",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN-E",
+      "title": "Zakon o dopolnitvi Zakona o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o dopolnitvi Zakona o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4189",
+      "gazette": "Uradni list RS 163/22  str. 13706",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-27",
+      "validFrom": "2022-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4189",
+      "versions": [
+        {
+          "id": "ZOPNN-E-original",
+          "shortCode": "ZOPNN-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 163/22  str. 13706",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4189",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNN-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odpravi posledic naravnih nesreč",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odpravi posledic naravnih nesreč",
+      "shortCode": "ZOPNN-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2599",
+      "gazette": "Uradni list RS 88/23  str. 7321",
+      "issuingBody": null,
+      "adoptedAt": "2023-08-10",
+      "validFrom": "2023-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2599",
+      "versions": [
+        {
+          "id": "ZOPNN-F-original",
+          "shortCode": "ZOPNN-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 88/23  str. 7321",
+          "publishedAt": "2023-08-10",
+          "effectiveFrom": "2023-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPNN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2599",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

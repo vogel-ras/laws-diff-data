@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15289",
+  "path": "laws/PR/PRAV15289",
+  "members": [
+    {
+      "id": "PRAV15289",
+      "title": "Pravilnik o preventivnih zdravstvenih pregledih športnikov",
+      "shortTitle": "Pravilnik o preventivnih zdravstvenih pregledih športnikov",
+      "shortCode": "PRAV15289",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1833",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-02",
+      "validFrom": "2024-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1833",
+      "versions": [
+        {
+          "id": "PRAV15289-original",
+          "shortCode": "PRAV15289",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-02",
+          "effectiveFrom": "2024-07-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1833",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15289-npb-PRAV15289",
+          "shortCode": "PRAV15289-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15718",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o preventivnih zdravstvenih pregledih športnikov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o preventivnih zdravstvenih pregledih športnikov",
+      "shortCode": "PRAV15718",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2403",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2025-08-29",
+      "validFrom": "2025-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2403",
+      "versions": [
+        {
+          "id": "PRAV15718-original",
+          "shortCode": "PRAV15718",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-29",
+          "effectiveFrom": "2025-08-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15289"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2403",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

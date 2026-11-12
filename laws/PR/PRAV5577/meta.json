@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5577",
+  "path": "laws/PR/PRAV5577",
+  "members": [
+    {
+      "id": "PRAV5577",
+      "title": "Pravilnik o načinu vodenja policijskih evidenc",
+      "shortTitle": "Pravilnik o načinu vodenja policijskih evidenc",
+      "shortCode": "PRAV5577",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5029",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-06-08",
+      "validFrom": "2007-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5029",
+      "versions": [
+        {
+          "id": "PRAV5577-original",
+          "shortCode": "PRAV5577",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5029",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7257",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu vodenja policijskih evidenc",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu vodenja policijskih evidenc",
+      "shortCode": "PRAV7257",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2728",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-06-08",
+      "validFrom": "2007-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2728",
+      "versions": [
+        {
+          "id": "PRAV7257-original",
+          "shortCode": "PRAV7257",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5577"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2728",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

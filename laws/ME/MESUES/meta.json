@@ -1,0 +1,106 @@
+{
+  "root": "MESUES",
+  "path": "laws/ME/MESUES",
+  "members": [
+    {
+      "id": "MESUES",
+      "title": "Zakon o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice",
+      "shortTitle": "Zakon o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice",
+      "shortCode": "MESUES",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Evropsko sodišče za človekove pravice",
+        "človekove pravice"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-02-0079",
+      "gazette": "Uradni list RS MP 15/2000  str. 521",
+      "issuingBody": null,
+      "adoptedAt": "2000-06-29",
+      "validFrom": "2000-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0079",
+      "versions": [
+        {
+          "id": "MESUES-original",
+          "shortCode": "MESUES",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 15/2000  str. 521",
+          "publishedAt": "2000-06-29",
+          "effectiveFrom": "2000-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0079",
+          "proposer": null
+        },
+        {
+          "id": "MESUES-amend-MESUES-A",
+          "shortCode": "MESUES-A",
+          "label": "Sprememba MESUES-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 22/2001  str. 1320",
+          "publishedAt": "2001-10-19",
+          "effectiveFrom": "2001-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MESUES"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-02-0057",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MESUES-A",
+      "title": "Zakon o spremembi Zakona o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice",
+      "shortTitle": "Zakon o spremembi Zakona o ratifikaciji Evropskega sporazuma, ki se nanaša na osebe, udeležene v postopkih Evropskega sodišča za človekove pravice",
+      "shortCode": "MESUES-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek na motorna vozila",
+        "invalid"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-02-0057",
+      "gazette": "Uradni list RS MP 22/2001  str. 1320",
+      "issuingBody": null,
+      "adoptedAt": "2001-10-19",
+      "validFrom": "2001-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-02-0057",
+      "versions": [
+        {
+          "id": "MESUES-A-original",
+          "shortCode": "MESUES-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 22/2001  str. 1320",
+          "publishedAt": "2001-10-19",
+          "effectiveFrom": "2001-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MESUES"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-02-0057",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

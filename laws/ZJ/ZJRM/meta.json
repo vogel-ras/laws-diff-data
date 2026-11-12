@@ -1,0 +1,102 @@
+{
+  "root": "ZJRM",
+  "path": "laws/ZJ/ZJRM",
+  "members": [
+    {
+      "id": "ZJRM-1",
+      "title": "Zakon o varstvu javnega reda in miru",
+      "shortTitle": "Zakon o varstvu javnega reda in miru",
+      "shortCode": "ZJRM-1",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "mir"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2998",
+      "gazette": "Uradni list RS 70/06  str. 7253",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-06",
+      "validFrom": "2006-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2998",
+      "versions": [
+        {
+          "id": "ZJRM-1-original",
+          "shortCode": "ZJRM-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/06  str. 7253",
+          "publishedAt": "2006-07-06",
+          "effectiveFrom": "2006-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2998",
+          "proposer": null
+        },
+        {
+          "id": "ZJRM-1-amend-ZJRM-1B",
+          "shortCode": "ZJRM-1B",
+          "label": "Sprememba ZJRM-1B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 113/24  str. 13564",
+          "publishedAt": "2024-12-30",
+          "effectiveFrom": "2024-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJRM-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3799",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJRM-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu javnega reda in miru",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu javnega reda in miru",
+      "shortCode": "ZJRM-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3799",
+      "gazette": "Uradni list RS 113/24  str. 13564",
+      "issuingBody": null,
+      "adoptedAt": "2024-12-30",
+      "validFrom": "2024-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3799",
+      "versions": [
+        {
+          "id": "ZJRM-1B-original",
+          "shortCode": "ZJRM-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 113/24  str. 13564",
+          "publishedAt": "2024-12-30",
+          "effectiveFrom": "2024-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJRM-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3799",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

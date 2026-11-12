@@ -1,0 +1,107 @@
+{
+  "root": "ZLNDL",
+  "path": "laws/ZL/ZLNDL",
+  "members": [
+    {
+      "id": "ZLNDL",
+      "title": "Zakon o lastninjenju nepremičnin v družbeni lastnini",
+      "shortTitle": "Zakon o lastninjenju nepremičnin v družbeni lastnini",
+      "shortCode": "ZLNDL",
+      "kind": "zakon",
+      "keywords": [
+        "lastnina",
+        "nepremično premoženje",
+        "privatizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2418",
+      "gazette": "Uradni list RS 44/97  str. 3996",
+      "issuingBody": null,
+      "adoptedAt": "1997-07-24",
+      "validFrom": "1997-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2418",
+      "versions": [
+        {
+          "id": "ZLNDL-original",
+          "shortCode": "ZLNDL",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/97  str. 3996",
+          "publishedAt": "1997-07-24",
+          "effectiveFrom": "1997-07-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2418",
+          "proposer": null
+        },
+        {
+          "id": "ZLNDL-amend-ZLNDL-A",
+          "shortCode": "ZLNDL-A",
+          "label": "Sprememba ZLNDL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2001  str. 6035",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLNDL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3146",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLNDL-A",
+      "title": "Zakon o dopolnitvah zakona o lastninjenju nepremičnin v družbeni lastnini",
+      "shortTitle": "Zakon o dopolnitvah zakona o lastninjenju nepremičnin v družbeni lastnini",
+      "shortCode": "ZLNDL-A",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "nepremično premoženje",
+        "zemljiški kataster"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3146",
+      "gazette": "Uradni list RS 59/2001  str. 6035",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-19",
+      "validFrom": "2001-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3146",
+      "versions": [
+        {
+          "id": "ZLNDL-A-original",
+          "shortCode": "ZLNDL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2001  str. 6035",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLNDL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3146",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

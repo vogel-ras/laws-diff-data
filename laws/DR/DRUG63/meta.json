@@ -1,0 +1,82 @@
+{
+  "root": "DRUG63",
+  "path": "laws/DR/DRUG63",
+  "members": [
+    {
+      "id": "DRUG63",
+      "title": "Pravilnik o načinu in pogojih za vpis potrošniških organizacij v register",
+      "shortTitle": "Pravilnik o načinu in pogojih za vpis potrošniških organizacij v register",
+      "shortCode": "DRUG63",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "1998-01-1996",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-06-19",
+      "validFrom": "1998-06-19",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1996",
+      "versions": [
+        {
+          "id": "DRUG63-original",
+          "shortCode": "DRUG63",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-06-19",
+          "effectiveFrom": "1998-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1996",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5151",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu in pogojih za vpis potrošniških organizacij v register",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu in pogojih za vpis potrošniških organizacij v register",
+      "shortCode": "PRAV5151",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4336",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2003-10-10",
+      "validFrom": "2003-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4336",
+      "versions": [
+        {
+          "id": "PRAV5151-original",
+          "shortCode": "PRAV5151",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-10-10",
+          "effectiveFrom": "2003-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG63"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4336",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

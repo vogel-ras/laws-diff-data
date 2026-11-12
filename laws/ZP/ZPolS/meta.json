@@ -1,0 +1,400 @@
+{
+  "root": "ZPolS",
+  "path": "laws/ZP/ZPolS",
+  "members": [
+    {
+      "id": "ZPolS",
+      "title": "Zakon o političnih strankah",
+      "shortTitle": "Zakon o političnih strankah",
+      "shortCode": "ZPolS",
+      "kind": "zakon",
+      "keywords": [
+        "politična stranka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2110",
+      "gazette": "Uradni list RS 62/94  str. 3402",
+      "issuingBody": null,
+      "adoptedAt": "1994-10-07",
+      "validFrom": "1994-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2110",
+      "versions": [
+        {
+          "id": "ZPolS-original",
+          "shortCode": "ZPolS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 62/94  str. 3402",
+          "publishedAt": "1994-10-07",
+          "effectiveFrom": "1994-10-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2110",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-A",
+          "shortCode": "ZPolS-A",
+          "label": "Sprememba ZPolS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 70/2000  str. 8659",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3303",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-B",
+          "shortCode": "ZPolS-B",
+          "label": "Sprememba ZPolS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 51/2002  str. 5179",
+          "publishedAt": "2002-06-11",
+          "effectiveFrom": "2002-06-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2483",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-C",
+          "shortCode": "ZPolS-C",
+          "label": "Sprememba ZPolS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 69/05  str. 7134",
+          "publishedAt": "2005-07-22",
+          "effectiveFrom": "2005-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3066",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-D",
+          "shortCode": "ZPolS-D",
+          "label": "Sprememba ZPolS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 103/07  str. 13915",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5133",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-E",
+          "shortCode": "ZPolS-E",
+          "label": "Sprememba ZPolS-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 99/13  str. 10714",
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3550",
+          "proposer": null
+        },
+        {
+          "id": "ZPolS-amend-ZPolS-G",
+          "shortCode": "ZPolS-G",
+          "label": "Sprememba ZPolS-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 78/23  str. 6874",
+          "publishedAt": "2023-07-19",
+          "effectiveFrom": "2023-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2481",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortCode": "ZPolS-A",
+      "kind": "zakon",
+      "keywords": [
+        "politična stranka",
+        "financiranje strank"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3303",
+      "gazette": "Uradni list RS 70/2000  str. 8659",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-08",
+      "validFrom": "2000-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3303",
+      "versions": [
+        {
+          "id": "ZPolS-A-original",
+          "shortCode": "ZPolS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/2000  str. 8659",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3303",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortCode": "ZPolS-B",
+      "kind": "zakon",
+      "keywords": [
+        "politična stranka",
+        "volilna dolžnost",
+        "državljan Skupnosti",
+        "Evropska unija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2483",
+      "gazette": "Uradni list RS 51/2002  str. 5179",
+      "issuingBody": null,
+      "adoptedAt": "2002-06-11",
+      "validFrom": "2002-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2483",
+      "versions": [
+        {
+          "id": "ZPolS-B-original",
+          "shortCode": "ZPolS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/2002  str. 5179",
+          "publishedAt": "2002-06-11",
+          "effectiveFrom": "2002-06-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2483",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortCode": "ZPolS-C",
+      "kind": "zakon",
+      "keywords": [
+        "državljan",
+        "državljan Skupnosti",
+        "Evropska unija",
+        "javna uprava",
+        "politična stranka",
+        "volilna dolžnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3066",
+      "gazette": "Uradni list RS 69/05  str. 7134",
+      "issuingBody": null,
+      "adoptedAt": "2005-07-22",
+      "validFrom": "2005-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3066",
+      "versions": [
+        {
+          "id": "ZPolS-C-original",
+          "shortCode": "ZPolS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/05  str. 7134",
+          "publishedAt": "2005-07-22",
+          "effectiveFrom": "2005-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o političnih strankah",
+      "shortCode": "ZPolS-D",
+      "kind": "zakon",
+      "keywords": [
+        "politična stranka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5133",
+      "gazette": "Uradni list RS 103/07  str. 13915",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-13",
+      "validFrom": "2007-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5133",
+      "versions": [
+        {
+          "id": "ZPolS-D-original",
+          "shortCode": "ZPolS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 103/07  str. 13915",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5133",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o političnih strankah",
+      "shortCode": "ZPolS-E",
+      "kind": "zakon",
+      "keywords": [
+        "politična stranka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3550",
+      "gazette": "Uradni list RS 99/13  str. 10714",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-03",
+      "validFrom": "2013-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3550",
+      "versions": [
+        {
+          "id": "ZPolS-E-original",
+          "shortCode": "ZPolS-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/13  str. 10714",
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3550",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPolS-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o političnih strankah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o političnih strankah",
+      "shortCode": "ZPolS-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2481",
+      "gazette": "Uradni list RS 78/23  str. 6874",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-19",
+      "validFrom": "2023-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2481",
+      "versions": [
+        {
+          "id": "ZPolS-G-original",
+          "shortCode": "ZPolS-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/23  str. 6874",
+          "publishedAt": "2023-07-19",
+          "effectiveFrom": "2023-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPolS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2481",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

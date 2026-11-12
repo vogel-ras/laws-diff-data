@@ -1,0 +1,82 @@
+{
+  "root": "NAVO1015",
+  "path": "laws/NA/NAVO1015",
+  "members": [
+    {
+      "id": "NAVO1015",
+      "title": "Navodilo o vsebini in načinu poročanja statističnih podatkov za Četrtletno raziskovanje o poslovanju poslovnih subjektov (POSL-P/ČL)",
+      "shortTitle": "Navodilo o vsebini in načinu poročanja statističnih podatkov za Četrtletno raziskovanje o poslovanju poslovnih subjektov (POSL-P/ČL)",
+      "shortCode": "NAVO1015",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2011-01-0830",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-03-18",
+      "validFrom": "2011-03-18",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0830",
+      "versions": [
+        {
+          "id": "NAVO1015-original",
+          "shortCode": "NAVO1015",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-03-18",
+          "effectiveFrom": "2011-03-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0830",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO1038",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila o vsebini in načinu poročanja statističnih podatkov za Četrtletno raziskovanje o poslovanju poslovnih subjektov (POSL-P/ČL)",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila o vsebini in načinu poročanja statističnih podatkov za Četrtletno raziskovanje o poslovanju poslovnih subjektov (POSL-P/ČL)",
+      "shortCode": "NAVO1038",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2012-01-0915",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-03-26",
+      "validFrom": "2012-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0915",
+      "versions": [
+        {
+          "id": "NAVO1038-original",
+          "shortCode": "NAVO1038",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-03-26",
+          "effectiveFrom": "2012-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO1015"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0915",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

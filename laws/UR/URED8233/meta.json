@@ -1,0 +1,97 @@
+{
+  "root": "URED8233",
+  "path": "laws/UR/URED8233",
+  "members": [
+    {
+      "id": "URED8233",
+      "title": "Uredba o pristojbini za storitve navigacijskih služb zračnega prometa na terminalih",
+      "shortTitle": "Uredba o pristojbini za storitve navigacijskih služb zračnega prometa na terminalih",
+      "shortCode": "URED8233",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-2578",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-07-23",
+      "validFrom": "2021-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2578",
+      "versions": [
+        {
+          "id": "URED8233-original",
+          "shortCode": "URED8233",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-07-23",
+          "effectiveFrom": "2021-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2578",
+          "proposer": null
+        },
+        {
+          "id": "URED8233-npb-URED8233",
+          "shortCode": "URED8233-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-07-23",
+          "effectiveFrom": "2021-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8233",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8530",
+      "title": "Uredba o spremembah Uredbe o pristojbini za storitve navigacijskih služb zračnega prometa na terminalih",
+      "shortTitle": "Uredba o spremembah Uredbe o pristojbini za storitve navigacijskih služb zračnega prometa na terminalih",
+      "shortCode": "URED8530",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2663",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-08-19",
+      "validFrom": "2022-08-19",
+      "validTo": null,
+      "latestPublishedAt": "2022-08-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2663",
+      "versions": [
+        {
+          "id": "URED8530-original",
+          "shortCode": "URED8530",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-08-19",
+          "effectiveFrom": "2022-08-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8233"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2663",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

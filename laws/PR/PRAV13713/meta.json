@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13713",
+  "path": "laws/PR/PRAV13713",
+  "members": [
+    {
+      "id": "PRAV13713",
+      "title": "Pravilnik o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Pravilnik o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "PRAV13713",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1510",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2019-05-24",
+      "validFrom": "2019-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1510",
+      "versions": [
+        {
+          "id": "PRAV13713-original",
+          "shortCode": "PRAV13713",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-24",
+          "effectiveFrom": "2019-05-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1510",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13713-npb-PRAV13713",
+          "shortCode": "PRAV13713-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-05-24",
+          "effectiveFrom": "2019-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13713",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14713",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "PRAV14713",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-0458",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2023-02-24",
+      "validFrom": "2023-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0458",
+      "versions": [
+        {
+          "id": "PRAV14713-original",
+          "shortCode": "PRAV14713",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-24",
+          "effectiveFrom": "2023-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13713"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0458",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15091",
+      "title": "Pravilnik o spremembah Pravilnika o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izvajanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "PRAV15091",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-2537",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-07-28",
+      "validFrom": "2023-07-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2537",
+      "versions": [
+        {
+          "id": "PRAV15091-original",
+          "shortCode": "PRAV15091",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-07-28",
+          "effectiveFrom": "2023-07-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13713"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2537",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

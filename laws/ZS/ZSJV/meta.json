@@ -1,0 +1,101 @@
+{
+  "root": "ZSJV",
+  "path": "laws/ZS/ZSJV",
+  "members": [
+    {
+      "id": "ZAKO9029",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sistemu jamstva za vloge (ZSJV-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sistemu jamstva za vloge (ZSJV-B)",
+      "shortCode": "ZSJV-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3798",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-27",
+      "validFrom": "2024-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3798",
+      "versions": [
+        {
+          "id": "ZAKO9029-original",
+          "shortCode": "ZSJV-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-27",
+          "effectiveFrom": "2024-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSJV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3798",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSJV",
+      "title": "Zakon o sistemu jamstva za vloge",
+      "shortTitle": "Zakon o sistemu jamstva za vloge",
+      "shortCode": "ZSJV",
+      "kind": "zakon",
+      "keywords": [
+        "bančna vloga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1074",
+      "gazette": "Uradni list RS 27/16  str. 3727",
+      "issuingBody": null,
+      "adoptedAt": "2016-04-11",
+      "validFrom": "2016-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1074",
+      "versions": [
+        {
+          "id": "ZSJV-original",
+          "shortCode": "ZSJV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 27/16  str. 3727",
+          "publishedAt": "2016-04-11",
+          "effectiveFrom": "2016-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1074",
+          "proposer": null
+        },
+        {
+          "id": "ZSJV-amend-ZAKO9029",
+          "shortCode": "ZSJV-B",
+          "label": "Sprememba ZSJV-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-27",
+          "effectiveFrom": "2024-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSJV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3798",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

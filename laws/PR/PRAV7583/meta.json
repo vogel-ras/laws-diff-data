@@ -1,0 +1,136 @@
+{
+  "root": "PRAV7583",
+  "path": "laws/PR/PRAV7583",
+  "members": [
+    {
+      "id": "PRAV10672",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izdajanju strokovne literature",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izdajanju strokovne literature",
+      "shortCode": "PRAV10672",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0107",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-01-21",
+      "validFrom": "2011-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0107",
+      "versions": [
+        {
+          "id": "PRAV10672-original",
+          "shortCode": "PRAV10672",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7583"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0107",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10916",
+      "title": "Pravilnik o spremembi Pravilnika o izdajanju strokovne literature",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izdajanju strokovne literature",
+      "shortCode": "PRAV10916",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-3833",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-11-11",
+      "validFrom": "2011-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3833",
+      "versions": [
+        {
+          "id": "PRAV10916-original",
+          "shortCode": "PRAV10916",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-11",
+          "effectiveFrom": "2011-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7583"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3833",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7583",
+      "title": "Pravilnik o izdajanju strokovne literature",
+      "shortTitle": "Pravilnik o izdajanju strokovne literature",
+      "shortCode": "PRAV7583",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1277",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2006-03-24",
+      "validFrom": "2006-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1277",
+      "versions": [
+        {
+          "id": "PRAV7583-original",
+          "shortCode": "PRAV7583",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1277",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7583-npb-PRAV7583",
+          "shortCode": "PRAV7583-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7583",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

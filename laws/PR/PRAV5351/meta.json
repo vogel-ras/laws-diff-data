@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5351",
+  "path": "laws/PR/PRAV5351",
+  "members": [
+    {
+      "id": "PRAV5351",
+      "title": "Pravilnik o posebnih pogojih za uvoz zemeljskih oreškov, lešnikov, pistacij in fig ter izdelkov iz njih iz določenih držav",
+      "shortTitle": "Pravilnik o posebnih pogojih za uvoz zemeljskih oreškov, lešnikov, pistacij in fig ter izdelkov iz njih iz določenih držav",
+      "shortCode": "PRAV5351",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5583",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2003-12-24",
+      "validFrom": "2003-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5583",
+      "versions": [
+        {
+          "id": "PRAV5351-original",
+          "shortCode": "PRAV5351",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-24",
+          "effectiveFrom": "2003-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5583",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5685",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o posebnih pogojih za uvoz zemeljskih oreškov, lešnikov, pistacij in fig ter izdelkov iz njih iz določenih držav",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o posebnih pogojih za uvoz zemeljskih oreškov, lešnikov, pistacij in fig ter izdelkov iz njih iz določenih držav",
+      "shortCode": "PRAV5685",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0883",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-04",
+      "validFrom": "2004-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0883",
+      "versions": [
+        {
+          "id": "PRAV5685-original",
+          "shortCode": "PRAV5685",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-04",
+          "effectiveFrom": "2004-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0883",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

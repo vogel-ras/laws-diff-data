@@ -1,0 +1,82 @@
+{
+  "root": "URED8752",
+  "path": "laws/UR/URED8752",
+  "members": [
+    {
+      "id": "URED8752",
+      "title": "Uredba o določitvi cene električne energije za mikro, mala in srednja podjetja",
+      "shortTitle": "Uredba o določitvi cene električne energije za mikro, mala in srednja podjetja",
+      "shortCode": "URED8752",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-4294",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-12-30",
+      "validFrom": "2022-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4294",
+      "versions": [
+        {
+          "id": "URED8752-original",
+          "shortCode": "URED8752",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-30",
+          "effectiveFrom": "2022-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4294",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8753",
+      "title": "Uredba o spremembi Uredbe o določitvi cene električne energije za mikro, mala in srednja podjetja",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi cene električne energije za mikro, mala in srednja podjetja",
+      "shortCode": "URED8753",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-0092",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-01-13",
+      "validFrom": "2023-01-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-01-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0092",
+      "versions": [
+        {
+          "id": "URED8753-original",
+          "shortCode": "URED8753",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-01-13",
+          "effectiveFrom": "2023-01-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8752"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0092",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

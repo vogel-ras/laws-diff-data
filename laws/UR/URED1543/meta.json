@@ -1,0 +1,82 @@
+{
+  "root": "URED1543",
+  "path": "laws/UR/URED1543",
+  "members": [
+    {
+      "id": "URED1543",
+      "title": "Uredba o načinu izvajanja gospodarske javne službe prenos zemeljskega plina in gospodarske javne službe upravljanje prenosnega omrežja",
+      "shortTitle": "Uredba o načinu izvajanja gospodarske javne službe prenos zemeljskega plina in gospodarske javne službe upravljanje prenosnega omrežja",
+      "shortCode": "URED1543",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-0473",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-02",
+      "validFrom": "2001-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0473",
+      "versions": [
+        {
+          "id": "URED1543-original",
+          "shortCode": "URED1543",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-02",
+          "effectiveFrom": "2001-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0473",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1572",
+      "title": "Uredba o spremembi uredbe o načinu izvajanja gospodarske javne službe prenos zemeljskega plina in gospodarske javne službe upravljanje prenosnega omrežja",
+      "shortTitle": "Uredba o spremembi uredbe o načinu izvajanja gospodarske javne službe prenos zemeljskega plina in gospodarske javne službe upravljanje prenosnega omrežja",
+      "shortCode": "URED1572",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-0729",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0729",
+      "versions": [
+        {
+          "id": "URED1572-original",
+          "shortCode": "URED1572",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1543"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0729",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

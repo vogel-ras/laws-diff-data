@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4218",
+  "path": "laws/PR/PRAV4218",
+  "members": [
+    {
+      "id": "PRAV4218",
+      "title": "Pravilnik o opremljenosti železniških postaj in postajališč",
+      "shortTitle": "Pravilnik o opremljenosti železniških postaj in postajališč",
+      "shortCode": "PRAV4218",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-2584",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-06-20",
+      "validFrom": "2002-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2584",
+      "versions": [
+        {
+          "id": "PRAV4218-original",
+          "shortCode": "PRAV4218",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-20",
+          "effectiveFrom": "2002-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2584",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9917",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o opremljenosti železniških postaj in postajališč",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o opremljenosti železniških postaj in postajališč",
+      "shortCode": "PRAV9917",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-3901",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2010-09-10",
+      "validFrom": "2010-09-10",
+      "validTo": null,
+      "latestPublishedAt": "2010-09-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3901",
+      "versions": [
+        {
+          "id": "PRAV9917-original",
+          "shortCode": "PRAV9917",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-09-10",
+          "effectiveFrom": "2010-09-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4218"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3901",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

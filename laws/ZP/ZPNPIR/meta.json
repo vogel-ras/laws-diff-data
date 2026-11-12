@@ -1,0 +1,111 @@
+{
+  "root": "ZPNPIR",
+  "path": "laws/ZP/ZPNPIR",
+  "members": [
+    {
+      "id": "ZPNPIR",
+      "title": "Zakon o poroštvu Republike Slovenije za najetje posojil za izgradnjo razžveplalne naprave na bloku 5 TE Šoštanj",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za najetje posojil za izgradnjo razžveplalne naprave na bloku 5 TE Šoštanj",
+      "shortCode": "ZPNPIR",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "onesnaževanje ozračja",
+        "elektrarna",
+        "varstvo okolja",
+        "najem posojila"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1590",
+      "gazette": "Uradni list RS 33/95  str. 2335",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-16",
+      "validFrom": "1995-06-16",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1590",
+      "versions": [
+        {
+          "id": "ZPNPIR-original",
+          "shortCode": "ZPNPIR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/95  str. 2335",
+          "publishedAt": "1995-06-16",
+          "effectiveFrom": "1995-06-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1590",
+          "proposer": null
+        },
+        {
+          "id": "ZPNPIR-amend-ZPNPIR-A",
+          "shortCode": "ZPNPIR-A",
+          "label": "Sprememba ZPNPIR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 41/96  str. 3542",
+          "publishedAt": "1996-07-31",
+          "effectiveFrom": "1996-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPIR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNPIR-A",
+      "title": "Zakon o spremembah zakona o poroštvu Republike Slovenije za najetje posojil za izgradnjo razžveplalne naprave na bloku 5 TE Šoštanj",
+      "shortTitle": "Zakon o spremembah zakona o poroštvu Republike Slovenije za najetje posojil za izgradnjo razžveplalne naprave na bloku 5 TE Šoštanj",
+      "shortCode": "ZPNPIR-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "najem posojila",
+        "onesnaževanje ozračja",
+        "elektrarna",
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2611",
+      "gazette": "Uradni list RS 41/96  str. 3542",
+      "issuingBody": null,
+      "adoptedAt": "1996-07-31",
+      "validFrom": "1996-07-31",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2611",
+      "versions": [
+        {
+          "id": "ZPNPIR-A-original",
+          "shortCode": "ZPNPIR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/96  str. 3542",
+          "publishedAt": "1996-07-31",
+          "effectiveFrom": "1996-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPIR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2611",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

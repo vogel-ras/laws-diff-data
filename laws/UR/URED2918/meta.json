@@ -1,0 +1,58 @@
+{
+  "root": "URED2918",
+  "path": "laws/UR/URED2918",
+  "members": [
+    {
+      "id": "URED2918",
+      "title": "Uredba o državnem lokacijskem načrtu za avtocestni priključek Celje vzhod in povezovalno cesto",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za avtocestni priključek Celje vzhod in povezovalno cesto",
+      "shortCode": "URED2918",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4162",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-09-16",
+      "validFrom": "2025-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2025-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4162",
+      "versions": [
+        {
+          "id": "URED2918-original",
+          "shortCode": "URED2918",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-09-16",
+          "effectiveFrom": "2025-09-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4162",
+          "proposer": null
+        },
+        {
+          "id": "URED2918-npb-URED2918",
+          "shortCode": "URED2918-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-26",
+          "effectiveFrom": "2003-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2918",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

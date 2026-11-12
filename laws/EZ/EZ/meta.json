@@ -1,0 +1,580 @@
+{
+  "root": "EZ",
+  "path": "laws/EZ/EZ",
+  "members": [
+    {
+      "id": "EZ",
+      "title": "Energetski zakon",
+      "shortTitle": "Energetski zakon",
+      "shortCode": "EZ",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-3757",
+      "gazette": "Uradni list RS 79/99  str. 12378",
+      "issuingBody": null,
+      "adoptedAt": "1999-09-30",
+      "validFrom": "1999-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3757",
+      "versions": [
+        {
+          "id": "EZ-original",
+          "shortCode": "EZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/99  str. 12378",
+          "publishedAt": "1999-09-30",
+          "effectiveFrom": "1999-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3757",
+          "proposer": null
+        },
+        {
+          "id": "EZ-amend-EZ-A",
+          "shortCode": "EZ-A",
+          "label": "Sprememba EZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 51/04  str. 6779",
+          "publishedAt": "2004-05-07",
+          "effectiveFrom": "2004-05-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2307",
+          "proposer": null
+        },
+        {
+          "id": "EZ-amend-EZ-B",
+          "shortCode": "EZ-B",
+          "label": "Sprememba EZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 118/06  str. 12401",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5019",
+          "proposer": null
+        },
+        {
+          "id": "EZ-amend-ZAKO5280",
+          "shortCode": "EZ-C",
+          "label": "Sprememba EZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2008-07-11",
+          "effectiveFrom": "2008-07-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3025",
+          "proposer": null
+        },
+        {
+          "id": "EZ-amend-EZ-D",
+          "shortCode": "EZ-D",
+          "label": "Sprememba EZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 22/10  str. 2695",
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0901",
+          "proposer": null
+        },
+        {
+          "id": "EZ-amend-EZ-E",
+          "shortCode": "EZ-E",
+          "label": "Sprememba EZ-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 10/12  str. 793",
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0370",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-1",
+      "title": "Energetski zakon",
+      "shortTitle": "Energetski zakon",
+      "shortCode": "EZ-1",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0538",
+      "gazette": "Uradni list RS 17/14  str. 1787",
+      "issuingBody": null,
+      "adoptedAt": "2014-03-07",
+      "validFrom": "2014-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0538",
+      "versions": [
+        {
+          "id": "EZ-1-original",
+          "shortCode": "EZ-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/14  str. 1787",
+          "publishedAt": "2014-03-07",
+          "effectiveFrom": "2014-03-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0538",
+          "proposer": null
+        },
+        {
+          "id": "EZ-1-amend-EZ-1A",
+          "shortCode": "EZ-1A",
+          "label": "Sprememba EZ-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 81/15  str. 8834",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3191",
+          "proposer": null
+        },
+        {
+          "id": "EZ-1-amend-EZ-1B",
+          "shortCode": "EZ-1B",
+          "label": "Sprememba EZ-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 43/19  str. 5285",
+          "publishedAt": "2019-06-28",
+          "effectiveFrom": "2019-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1925",
+          "proposer": null
+        },
+        {
+          "id": "EZ-1-amend-EZ-1C",
+          "shortCode": "EZ-1C",
+          "label": "Sprememba EZ-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 65/20  str. 2391",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0977",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-1A",
+      "title": "Zakon o spremembah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah Energetskega zakona",
+      "shortCode": "EZ-1A",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3191",
+      "gazette": "Uradni list RS 81/15  str. 8834",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-30",
+      "validFrom": "2015-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3191",
+      "versions": [
+        {
+          "id": "EZ-1A-original",
+          "shortCode": "EZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/15  str. 8834",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3191",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-1B",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortCode": "EZ-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1925",
+      "gazette": "Uradni list RS 43/19  str. 5285",
+      "issuingBody": null,
+      "adoptedAt": "2019-06-28",
+      "validFrom": "2019-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1925",
+      "versions": [
+        {
+          "id": "EZ-1B-original",
+          "shortCode": "EZ-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/19  str. 5285",
+          "publishedAt": "2019-06-28",
+          "effectiveFrom": "2019-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1925",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-1C",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortCode": "EZ-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0977",
+      "gazette": "Uradni list RS 65/20  str. 2391",
+      "issuingBody": null,
+      "adoptedAt": "2020-05-08",
+      "validFrom": "2020-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0977",
+      "versions": [
+        {
+          "id": "EZ-1C-original",
+          "shortCode": "EZ-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/20  str. 2391",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0977",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-2",
+      "title": "Energetski zakon",
+      "shortTitle": "Energetski zakon",
+      "shortCode": "EZ-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1288",
+      "gazette": "Uradni list RS 38/24  str. 3515",
+      "issuingBody": null,
+      "adoptedAt": "2024-05-07",
+      "validFrom": "2024-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1288",
+      "versions": [
+        {
+          "id": "EZ-2-original",
+          "shortCode": "EZ-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/24  str. 3515",
+          "publishedAt": "2024-05-07",
+          "effectiveFrom": "2024-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-A",
+      "title": "Zakon o spremembah in dopolnitvah energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah energetskega zakona",
+      "shortCode": "EZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "energetika",
+        "električna energija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2307",
+      "gazette": "Uradni list RS 51/04  str. 6779",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-07",
+      "validFrom": "2004-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2307",
+      "versions": [
+        {
+          "id": "EZ-A-original",
+          "shortCode": "EZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/04  str. 6779",
+          "publishedAt": "2004-05-07",
+          "effectiveFrom": "2004-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2307",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-B",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortCode": "EZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5019",
+      "gazette": "Uradni list RS 118/06  str. 12401",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-17",
+      "validFrom": "2006-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5019",
+      "versions": [
+        {
+          "id": "EZ-B-original",
+          "shortCode": "EZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 118/06  str. 12401",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5019",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-D",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortCode": "EZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0901",
+      "gazette": "Uradni list RS 22/10  str. 2695",
+      "issuingBody": null,
+      "adoptedAt": "2010-03-19",
+      "validFrom": "2010-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0901",
+      "versions": [
+        {
+          "id": "EZ-D-original",
+          "shortCode": "EZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/10  str. 2695",
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0901",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "EZ-E",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona",
+      "shortCode": "EZ-E",
+      "kind": "zakon",
+      "keywords": [
+        "energetika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-0370",
+      "gazette": "Uradni list RS 10/12  str. 793",
+      "issuingBody": null,
+      "adoptedAt": "2012-02-10",
+      "validFrom": "2012-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0370",
+      "versions": [
+        {
+          "id": "EZ-E-original",
+          "shortCode": "EZ-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/12  str. 793",
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0370",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO5280",
+      "title": "Zakon o spremembah in dopolnitvah Energetskega zakona (EZ-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Energetskega zakona (EZ-C)",
+      "shortCode": "EZ-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-3025",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-07-11",
+      "validFrom": "2008-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3025",
+      "versions": [
+        {
+          "id": "ZAKO5280-original",
+          "shortCode": "EZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-11",
+          "effectiveFrom": "2008-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "EZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3025",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

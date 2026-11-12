@@ -1,0 +1,49 @@
+{
+  "root": "ZPDU",
+  "path": "laws/ZP/ZPDU",
+  "members": [
+    {
+      "id": "ZPDU",
+      "title": "Zakon o posebnih dajatvah pri uvozu kmetijskih proizvodov in živil",
+      "shortTitle": "Zakon o posebnih dajatvah pri uvozu kmetijskih proizvodov in živil",
+      "shortCode": "ZPDU",
+      "kind": "zakon",
+      "keywords": [
+        "uvoz",
+        "kmetijski proizvod",
+        "živilo",
+        "uvozni prelevman",
+        "kmetijski prelevman"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1284",
+      "gazette": "Uradni list RS 29/93  str. 1581",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-05",
+      "validFrom": "1993-06-05",
+      "validTo": null,
+      "latestPublishedAt": "1993-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1284",
+      "versions": [
+        {
+          "id": "ZPDU-original",
+          "shortCode": "ZPDU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/93  str. 1581",
+          "publishedAt": "1993-06-05",
+          "effectiveFrom": "1993-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1284",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

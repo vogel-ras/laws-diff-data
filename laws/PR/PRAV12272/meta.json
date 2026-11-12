@@ -1,0 +1,136 @@
+{
+  "root": "PRAV12272",
+  "path": "laws/PR/PRAV12272",
+  "members": [
+    {
+      "id": "PRAV12272",
+      "title": "Pravilnik o radijski opremi",
+      "shortTitle": "Pravilnik o radijski opremi",
+      "shortCode": "PRAV12272",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-0141",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarski razvoj in tehnologijo",
+      "adoptedAt": "2016-01-18",
+      "validFrom": "2016-01-18",
+      "validTo": null,
+      "latestPublishedAt": "2016-01-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0141",
+      "versions": [
+        {
+          "id": "PRAV12272-original",
+          "shortCode": "PRAV12272",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-01-18",
+          "effectiveFrom": "2016-01-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0141",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12272-npb-PRAV12272",
+          "shortCode": "PRAV12272-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-01-18",
+          "effectiveFrom": "2016-01-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12272",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13899",
+      "title": "Pravilnik o spremembah Pravilnika o radijski opremi",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o radijski opremi",
+      "shortCode": "PRAV13899",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0245",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-02-14",
+      "validFrom": "2020-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0245",
+      "versions": [
+        {
+          "id": "PRAV13899-original",
+          "shortCode": "PRAV13899",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-02-14",
+          "effectiveFrom": "2020-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12272"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0245",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15152",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o radijski opremi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o radijski opremi",
+      "shortCode": "PRAV15152",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-3601",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-12-08",
+      "validFrom": "2023-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3601",
+      "versions": [
+        {
+          "id": "PRAV15152-original",
+          "shortCode": "PRAV15152",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-08",
+          "effectiveFrom": "2023-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12272"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3601",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

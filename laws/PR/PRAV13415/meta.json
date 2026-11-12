@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13415",
+  "path": "laws/PR/PRAV13415",
+  "members": [
+    {
+      "id": "PRAV13415",
+      "title": "Pravilnik o določitvi cen storitev javne službe kmetijskega svetovanja, ki so za uporabnike plačljive",
+      "shortTitle": "Pravilnik o določitvi cen storitev javne službe kmetijskega svetovanja, ki so za uporabnike plačljive",
+      "shortCode": "PRAV13415",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0513",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2018-02-23",
+      "validFrom": "2018-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0513",
+      "versions": [
+        {
+          "id": "PRAV13415-original",
+          "shortCode": "PRAV13415",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-23",
+          "effectiveFrom": "2018-02-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0513",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13415-npb-PRAV13415",
+          "shortCode": "PRAV13415-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-02-23",
+          "effectiveFrom": "2018-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13415",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13716",
+      "title": "Pravilnik o spremembah Pravilnika o določitvi cen storitev javne službe kmetijskega svetovanja, ki so za uporabnike plačljive",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o določitvi cen storitev javne službe kmetijskega svetovanja, ki so za uporabnike plačljive",
+      "shortCode": "PRAV13716",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0380",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-02-15",
+      "validFrom": "2019-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0380",
+      "versions": [
+        {
+          "id": "PRAV13716-original",
+          "shortCode": "PRAV13716",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-02-15",
+          "effectiveFrom": "2019-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0380",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

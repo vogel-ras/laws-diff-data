@@ -1,0 +1,121 @@
+{
+  "root": "DRUG281",
+  "path": "laws/DR/DRUG281",
+  "members": [
+    {
+      "id": "DRUG281",
+      "title": "Pravilnik o uradnem nadzoru temperature zamrznjenih živil",
+      "shortTitle": "Pravilnik o uradnem nadzoru temperature zamrznjenih živil",
+      "shortCode": "DRUG281",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2002-01-3048",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-07-19",
+      "validFrom": "2002-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3048",
+      "versions": [
+        {
+          "id": "DRUG281-original",
+          "shortCode": "DRUG281",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-19",
+          "effectiveFrom": "2002-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4551",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o uradnem nadzoru temperature zamrznjenih živil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o uradnem nadzoru temperature zamrznjenih živil",
+      "shortCode": "PRAV4551",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5720",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2002-12-28",
+      "validFrom": "2002-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5720",
+      "versions": [
+        {
+          "id": "PRAV4551-original",
+          "shortCode": "PRAV4551",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG281"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5720",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7674",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o uradnem nadzoru temperature zamrznjenih živil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o uradnem nadzoru temperature zamrznjenih živil",
+      "shortCode": "PRAV7674",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1966",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2006-05-05",
+      "validFrom": "2006-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1966",
+      "versions": [
+        {
+          "id": "PRAV7674-original",
+          "shortCode": "PRAV7674",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-05",
+          "effectiveFrom": "2006-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG281"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1966",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

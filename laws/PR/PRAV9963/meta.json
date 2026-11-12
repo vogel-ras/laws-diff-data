@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9963",
+  "path": "laws/PR/PRAV9963",
+  "members": [
+    {
+      "id": "PRAV9963",
+      "title": "Pravilnik o medu",
+      "shortTitle": "Pravilnik o medu",
+      "shortCode": "PRAV9963",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0104",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-01-21",
+      "validFrom": "2011-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0104",
+      "versions": [
+        {
+          "id": "PRAV9963-original",
+          "shortCode": "PRAV9963",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0104",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9963-npb-PRAV9963",
+          "shortCode": "PRAV9963-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9963",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

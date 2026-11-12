@@ -1,0 +1,520 @@
+{
+  "root": "ZZVN",
+  "path": "laws/ZZ/ZZVN",
+  "members": [
+    {
+      "id": "ZZVN",
+      "title": "Zakon o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2917",
+      "gazette": "Uradni list RS 63/95  str. 4930",
+      "issuingBody": null,
+      "adoptedAt": "1995-11-06",
+      "validFrom": "1995-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2917",
+      "versions": [
+        {
+          "id": "ZZVN-original",
+          "shortCode": "ZZVN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/95  str. 4930",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2917",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-A",
+          "shortCode": "ZZVN-A",
+          "label": "Sprememba ZZVN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 8/96  str. 618",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0381",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-B",
+          "shortCode": "ZZVN-B",
+          "label": "Sprememba ZZVN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 44/96  str. 3800",
+          "publishedAt": "1996-08-09",
+          "effectiveFrom": "1996-08-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2702",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-C",
+          "shortCode": "ZZVN-C",
+          "label": "Sprememba ZZVN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 70/97  str. 5479",
+          "publishedAt": "1997-11-14",
+          "effectiveFrom": "1997-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3372",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-D",
+          "shortCode": "ZZVN-D",
+          "label": "Sprememba ZZVN-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 43/99  str. 5089",
+          "publishedAt": "1999-06-04",
+          "effectiveFrom": "1999-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2110",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-E",
+          "shortCode": "ZZVN-E",
+          "label": "Sprememba ZZVN-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 28/2000  str. 3545",
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1258",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-F",
+          "shortCode": "ZZVN-F",
+          "label": "Sprememba ZZVN-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 64/2001  str. 6580",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3469",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-G",
+          "shortCode": "ZZVN-G",
+          "label": "Sprememba ZZVN-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 110/2002  str. 13164",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5392",
+          "proposer": null
+        },
+        {
+          "id": "ZZVN-amend-ZZVN-H",
+          "shortCode": "ZZVN-H",
+          "label": "Sprememba ZZVN-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 72/09  str. 9554",
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3184",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-A",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "civilna žrtev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0381",
+      "gazette": "Uradni list RS 8/96  str. 618",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0381",
+      "versions": [
+        {
+          "id": "ZZVN-A-original",
+          "shortCode": "ZZVN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 618",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0381",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-B",
+      "title": "Zakon o dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-B",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "civilna žrtev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2702",
+      "gazette": "Uradni list RS 44/96  str. 3800",
+      "issuingBody": null,
+      "adoptedAt": "1996-08-09",
+      "validFrom": "1996-08-09",
+      "validTo": null,
+      "latestPublishedAt": "1996-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2702",
+      "versions": [
+        {
+          "id": "ZZVN-B-original",
+          "shortCode": "ZZVN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/96  str. 3800",
+          "publishedAt": "1996-08-09",
+          "effectiveFrom": "1996-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2702",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-C",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "odškodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3372",
+      "gazette": "Uradni list RS 70/97  str. 5479",
+      "issuingBody": null,
+      "adoptedAt": "1997-11-14",
+      "validFrom": "1997-11-14",
+      "validTo": null,
+      "latestPublishedAt": "1997-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3372",
+      "versions": [
+        {
+          "id": "ZZVN-C-original",
+          "shortCode": "ZZVN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/97  str. 5479",
+          "publishedAt": "1997-11-14",
+          "effectiveFrom": "1997-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3372",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-D",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2110",
+      "gazette": "Uradni list RS 43/99  str. 5089",
+      "issuingBody": null,
+      "adoptedAt": "1999-06-04",
+      "validFrom": "1999-06-04",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2110",
+      "versions": [
+        {
+          "id": "ZZVN-D-original",
+          "shortCode": "ZZVN-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/99  str. 5089",
+          "publishedAt": "1999-06-04",
+          "effectiveFrom": "1999-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2110",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-E",
+      "title": "Zakon o spremembi in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembi in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-E",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "druga svetovna vojna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-1258",
+      "gazette": "Uradni list RS 28/2000  str. 3545",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-30",
+      "validFrom": "2000-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1258",
+      "versions": [
+        {
+          "id": "ZZVN-E-original",
+          "shortCode": "ZZVN-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/2000  str. 3545",
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1258",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-F",
+      "title": "Zakon o dopolnitvi zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o dopolnitvi zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-F",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "civilna žrtev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3469",
+      "gazette": "Uradni list RS 64/2001  str. 6580",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3469",
+      "versions": [
+        {
+          "id": "ZZVN-F-original",
+          "shortCode": "ZZVN-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6580",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-G",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne",
+        "civilna žrtev",
+        "odškodnina",
+        "druga svetovna vojna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5392",
+      "gazette": "Uradni list RS 110/2002  str. 13164",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5392",
+      "versions": [
+        {
+          "id": "ZZVN-G-original",
+          "shortCode": "ZZVN-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13164",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5392",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVN-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o žrtvah vojnega nasilja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o žrtvah vojnega nasilja",
+      "shortCode": "ZZVN-H",
+      "kind": "zakon",
+      "keywords": [
+        "nasilje",
+        "vojna",
+        "vojni zločin",
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3184",
+      "gazette": "Uradni list RS 72/09  str. 9554",
+      "issuingBody": null,
+      "adoptedAt": "2009-09-18",
+      "validFrom": "2009-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3184",
+      "versions": [
+        {
+          "id": "ZZVN-H-original",
+          "shortCode": "ZZVN-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/09  str. 9554",
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3184",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

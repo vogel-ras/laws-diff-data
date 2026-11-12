@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5067",
+  "path": "laws/PR/PRAV5067",
+  "members": [
+    {
+      "id": "PRAV5067",
+      "title": "Pravilnik o vsebini splošnih pogojev izvajanja poštnih storitev",
+      "shortTitle": "Pravilnik o vsebini splošnih pogojev izvajanja poštnih storitev",
+      "shortCode": "PRAV5067",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4078",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za informacijsko družbo",
+      "adoptedAt": "2003-09-11",
+      "validFrom": "2003-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4078",
+      "versions": [
+        {
+          "id": "PRAV5067-original",
+          "shortCode": "PRAV5067",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4078",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8304",
+      "title": "Pravilnik o spremembah Pravilnika o vsebini splošnih pogojev izvajanja poštnih storitev",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o vsebini splošnih pogojev izvajanja poštnih storitev",
+      "shortCode": "PRAV8304",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2635",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-06-04",
+      "validFrom": "2007-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2635",
+      "versions": [
+        {
+          "id": "PRAV8304-original",
+          "shortCode": "PRAV8304",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-04",
+          "effectiveFrom": "2007-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5067"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2635",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

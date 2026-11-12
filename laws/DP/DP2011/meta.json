@@ -1,0 +1,99 @@
+{
+  "root": "DP2011",
+  "path": "laws/DP/DP2011",
+  "members": [
+    {
+      "id": "DRPR12",
+      "title": "Proračun Republike Slovenije za leto 2011 (DP2011)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2011 (DP2011)",
+      "shortCode": "DP2011",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2009-01-4371",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-12-07",
+      "validFrom": "2009-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4371",
+      "versions": [
+        {
+          "id": "DRPR12-original",
+          "shortCode": "DP2011",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-07",
+          "effectiveFrom": "2009-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4371",
+          "proposer": null
+        },
+        {
+          "id": "DRPR12-amend-RDRP15",
+          "shortCode": "DP2011-A",
+          "label": "Sprememba DP2011-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-01",
+          "effectiveFrom": "2010-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR12"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5012",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "RDRP15",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2011 (DP2011-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2011 (DP2011-A)",
+      "shortCode": "DP2011-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2010-01-5012",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-01",
+      "validFrom": "2010-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5012",
+      "versions": [
+        {
+          "id": "RDRP15-original",
+          "shortCode": "DP2011-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-01",
+          "effectiveFrom": "2010-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR12"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5012",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

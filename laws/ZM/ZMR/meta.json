@@ -1,0 +1,202 @@
+{
+  "root": "ZMR",
+  "path": "laws/ZM/ZMR",
+  "members": [
+    {
+      "id": "ZAKO7727",
+      "title": "Zakon o spremembah Zakona o morskem ribištvu (ZMR-2B)",
+      "shortTitle": "Zakon o spremembah Zakona o morskem ribištvu (ZMR-2B)",
+      "shortCode": "ZMR-2B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3266",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-05",
+      "validFrom": "2017-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3266",
+      "versions": [
+        {
+          "id": "ZAKO7727-original",
+          "shortCode": "ZMR-2B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-05",
+          "effectiveFrom": "2017-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMR-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3266",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMR-1",
+      "title": "Zakon o morskem ribištvu",
+      "shortTitle": "Zakon o morskem ribištvu",
+      "shortCode": "ZMR-1",
+      "kind": "zakon",
+      "keywords": [
+        "morje",
+        "ribištvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2808",
+      "gazette": "Uradni list RS 58/2002  str. 6020",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-04",
+      "validFrom": "2002-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2808",
+      "versions": [
+        {
+          "id": "ZMR-1-original",
+          "shortCode": "ZMR-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/2002  str. 6020",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2808",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMR-2",
+      "title": "Zakon o morskem ribištvu",
+      "shortTitle": "Zakon o morskem ribištvu",
+      "shortCode": "ZMR-2",
+      "kind": "zakon",
+      "keywords": [
+        "ribiška politika",
+        "ribištvo",
+        "skupna ribiška politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4904",
+      "gazette": "Uradni list RS 115/06  str. 11973",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4904",
+      "versions": [
+        {
+          "id": "ZMR-2-original",
+          "shortCode": "ZMR-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11973",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4904",
+          "proposer": null
+        },
+        {
+          "id": "ZMR-2-amend-ZMR-2A",
+          "shortCode": "ZMR-2A",
+          "label": "Sprememba ZMR-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/15  str. 8358",
+          "publishedAt": "2015-10-09",
+          "effectiveFrom": "2015-10-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMR-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2977",
+          "proposer": null
+        },
+        {
+          "id": "ZMR-2-amend-ZAKO7727",
+          "shortCode": "ZMR-2B",
+          "label": "Sprememba ZMR-2B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-12-05",
+          "effectiveFrom": "2017-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMR-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3266",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMR-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o morskem ribištvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o morskem ribištvu",
+      "shortCode": "ZMR-2A",
+      "kind": "zakon",
+      "keywords": [
+        "morsko okolje",
+        "ribištvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2977",
+      "gazette": "Uradni list RS 76/15  str. 8358",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-09",
+      "validFrom": "2015-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2977",
+      "versions": [
+        {
+          "id": "ZMR-2A-original",
+          "shortCode": "ZMR-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/15  str. 8358",
+          "publishedAt": "2015-10-09",
+          "effectiveFrom": "2015-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMR-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2977",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED1902",
+  "path": "laws/UR/URED1902",
+  "members": [
+    {
+      "id": "URED1902",
+      "title": "Uredba o koncesijah za izkoriščanje vode iz vodnih virov Žvirše, R2/87, R3/88, VP-1/2000, GPV-1/98 in Tinček za oskrbo prebivalstva s pitno vodo",
+      "shortTitle": "Uredba o koncesijah za izkoriščanje vode iz vodnih virov Žvirše, R2/87, R3/88, VP-1/2000, GPV-1/98 in Tinček za oskrbo prebivalstva s pitno vodo",
+      "shortCode": "URED1902",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0037",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-01-11",
+      "validFrom": "2002-01-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0037",
+      "versions": [
+        {
+          "id": "URED1902-original",
+          "shortCode": "URED1902",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-01-11",
+          "effectiveFrom": "2002-01-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0037",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2550",
+      "title": "Uredba o spremembi uredbe o koncesijah za izkoriščanje vode iz vodnih virov Žvirše, R2/87, R3/88, VP-1/2000, GPV-1/98 in Tinček za oskrbo prebivalstva s pitno vodo",
+      "shortTitle": "Uredba o spremembi uredbe o koncesijah za izkoriščanje vode iz vodnih virov Žvirše, R2/87, R3/88, VP-1/2000, GPV-1/98 in Tinček za oskrbo prebivalstva s pitno vodo",
+      "shortCode": "URED2550",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-3245",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3245",
+      "versions": [
+        {
+          "id": "URED2550-original",
+          "shortCode": "URED2550",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1902"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3245",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

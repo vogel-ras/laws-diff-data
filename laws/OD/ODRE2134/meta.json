@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2134",
+  "path": "laws/OD/ODRE2134",
+  "members": [
+    {
+      "id": "ODRE2134",
+      "title": "Odredba o določitvi enotnih metodoloških načel, enotnih standardov in standardnih postopkov za zagotovitev enotnosti sistema vodenja zbirk podatkov s področja zdravstvenega varstva",
+      "shortTitle": "Odredba o določitvi enotnih metodoloških načel, enotnih standardov in standardnih postopkov za zagotovitev enotnosti sistema vodenja zbirk podatkov s področja zdravstvenega varstva",
+      "shortCode": "ODRE2134",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "odredba",
+      "sopNumber": "2012-01-0135",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2012-01-20",
+      "validFrom": "2012-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0135",
+      "versions": [
+        {
+          "id": "ODRE2134-original",
+          "shortCode": "ODRE2134",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-01-20",
+          "effectiveFrom": "2012-01-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0135",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2134-npb-ODRE2134",
+          "shortCode": "ODRE2134-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-01-20",
+          "effectiveFrom": "2012-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2134",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2800",
+      "title": "Odredba o spremembah Odredbe o določitvi enotnih metodoloških načel, enotnih standardov in standardnih postopkov za zagotovitev enotnosti sistema vodenja zbirk podatkov s področja zdravstvenega varstva",
+      "shortTitle": "Odredba o spremembah Odredbe o določitvi enotnih metodoloških načel, enotnih standardov in standardnih postopkov za zagotovitev enotnosti sistema vodenja zbirk podatkov s področja zdravstvenega varstva",
+      "shortCode": "ODRE2800",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "odredba",
+      "sopNumber": "2022-01-3733",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2022-11-30",
+      "validFrom": "2022-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3733",
+      "versions": [
+        {
+          "id": "ODRE2800-original",
+          "shortCode": "ODRE2800",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-11-30",
+          "effectiveFrom": "2022-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2134"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3733",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

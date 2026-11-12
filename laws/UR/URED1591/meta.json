@@ -1,0 +1,97 @@
+{
+  "root": "URED1591",
+  "path": "laws/UR/URED1591",
+  "members": [
+    {
+      "id": "URED1591",
+      "title": "Uredba o Krajinskem parku Sečoveljske soline",
+      "shortTitle": "Uredba o Krajinskem parku Sečoveljske soline",
+      "shortCode": "URED1591",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-1785",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-04-20",
+      "validFrom": "2001-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1785",
+      "versions": [
+        {
+          "id": "URED1591-original",
+          "shortCode": "URED1591",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-20",
+          "effectiveFrom": "2001-04-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1785",
+          "proposer": null
+        },
+        {
+          "id": "URED1591-npb-URED1591",
+          "shortCode": "URED1591-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-04-20",
+          "effectiveFrom": "2001-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1591",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7699",
+      "title": "Uredba o spremembah Uredbe o Krajinskem parku Sečoveljske soline",
+      "shortTitle": "Uredba o spremembah Uredbe o Krajinskem parku Sečoveljske soline",
+      "shortCode": "URED7699",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-2521",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-07-13",
+      "validFrom": "2018-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2521",
+      "versions": [
+        {
+          "id": "URED7699-original",
+          "shortCode": "URED7699",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-07-13",
+          "effectiveFrom": "2018-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1591"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2521",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

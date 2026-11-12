@@ -1,0 +1,169 @@
+{
+  "root": "ZZSV",
+  "path": "laws/ZZ/ZZSV",
+  "members": [
+    {
+      "id": "ZZSV",
+      "title": "Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortTitle": "Zakon o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortCode": "ZZSV",
+      "kind": "zakon",
+      "keywords": [
+        "socialna varnost",
+        "upokojenec",
+        "Jugoslavija",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2111",
+      "gazette": "Uradni list RS 45/92  str. 2706",
+      "issuingBody": null,
+      "adoptedAt": "1992-09-21",
+      "validFrom": "1992-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2111",
+      "versions": [
+        {
+          "id": "ZZSV-original",
+          "shortCode": "ZZSV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/92  str. 2706",
+          "publishedAt": "1992-09-21",
+          "effectiveFrom": "1992-09-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2111",
+          "proposer": null
+        },
+        {
+          "id": "ZZSV-amend-ZZSV-A",
+          "shortCode": "ZZSV-A",
+          "label": "Sprememba ZZSV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 18/2001  str. 1774",
+          "publishedAt": "2001-03-14",
+          "effectiveFrom": "2001-03-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1063",
+          "proposer": null
+        },
+        {
+          "id": "ZZSV-amend-ZZSV-B",
+          "shortCode": "ZZSV-B",
+          "label": "Sprememba ZZSV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 129/06  str. 14128",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5431",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSV-A",
+      "title": "Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortTitle": "Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortCode": "ZZSV-A",
+      "kind": "zakon",
+      "keywords": [
+        "socialna varnost",
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja",
+        "Jugoslavija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1063",
+      "gazette": "Uradni list RS 18/2001  str. 1774",
+      "issuingBody": null,
+      "adoptedAt": "2001-03-14",
+      "validFrom": "2001-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2001-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1063",
+      "versions": [
+        {
+          "id": "ZZSV-A-original",
+          "shortCode": "ZZSV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/2001  str. 1774",
+          "publishedAt": "2001-03-14",
+          "effectiveFrom": "2001-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1063",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSV-B",
+      "title": "Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortTitle": "Zakon o dopolnitvi zakona o zagotavljanju socialne varnosti slovenskim državljanom, ki so upravičeni do pokojnin iz republik nekdanje SFRJ",
+      "shortCode": "ZZSV-B",
+      "kind": "zakon",
+      "keywords": [
+        "Jugoslavija",
+        "socialna varnost",
+        "upokojenec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5431",
+      "gazette": "Uradni list RS 129/06  str. 14128",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-12",
+      "validFrom": "2006-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5431",
+      "versions": [
+        {
+          "id": "ZZSV-B-original",
+          "shortCode": "ZZSV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 129/06  str. 14128",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5431",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

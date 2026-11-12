@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13386",
+  "path": "laws/PR/PRAV13386",
+  "members": [
+    {
+      "id": "PRAV13386",
+      "title": "Pravilnik o licenci osebja službe letalske meteorologije",
+      "shortTitle": "Pravilnik o licenci osebja službe letalske meteorologije",
+      "shortCode": "PRAV13386",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-3166",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-09-24",
+      "validFrom": "2025-09-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3166",
+      "versions": [
+        {
+          "id": "PRAV13386-original",
+          "shortCode": "PRAV13386",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-09-24",
+          "effectiveFrom": "2025-09-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3166",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13386-npb-PRAV13386",
+          "shortCode": "PRAV13386-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-10-12",
+          "effectiveFrom": "2018-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13386",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14020",
+      "title": "Pravilnik o spremembi Pravilnika o licenci osebja službe letalske meteorologije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o licenci osebja službe letalske meteorologije",
+      "shortCode": "PRAV14020",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-1246",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-06-05",
+      "validFrom": "2020-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1246",
+      "versions": [
+        {
+          "id": "PRAV14020-original",
+          "shortCode": "PRAV14020",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13386"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1246",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

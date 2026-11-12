@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12371",
+  "path": "laws/PR/PRAV12371",
+  "members": [
+    {
+      "id": "PRAV12371",
+      "title": "Pravilnik o službeni oceni",
+      "shortTitle": "Pravilnik o službeni oceni",
+      "shortCode": "PRAV12371",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-4162",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2014-12-31",
+      "validFrom": "2014-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4162",
+      "versions": [
+        {
+          "id": "PRAV12371-original",
+          "shortCode": "PRAV12371",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-31",
+          "effectiveFrom": "2014-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4162",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12371-npb-PRAV12371",
+          "shortCode": "PRAV12371-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-12-31",
+          "effectiveFrom": "2014-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12371",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

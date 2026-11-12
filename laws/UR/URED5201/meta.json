@@ -1,0 +1,58 @@
+{
+  "root": "URED5201",
+  "path": "laws/UR/URED5201",
+  "members": [
+    {
+      "id": "URED5201",
+      "title": "Uredba o ravnanju z baterijami in akumulatorji ter odpadnimi baterijami in akumulatorji",
+      "shortTitle": "Uredba o ravnanju z baterijami in akumulatorji ter odpadnimi baterijami in akumulatorji",
+      "shortCode": "URED5201",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-0111",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-30",
+      "validFrom": "2024-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0111",
+      "versions": [
+        {
+          "id": "URED5201-original",
+          "shortCode": "URED5201",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-30",
+          "effectiveFrom": "2024-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0111",
+          "proposer": null
+        },
+        {
+          "id": "URED5201-npb-URED5201",
+          "shortCode": "URED5201-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 5)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-01-15",
+          "effectiveFrom": "2010-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5201",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED6599",
+  "path": "laws/UR/URED6599",
+  "members": [
+    {
+      "id": "URED6599",
+      "title": "Uredba o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014-2020 v letu 2014",
+      "shortTitle": "Uredba o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014-2020 v letu 2014",
+      "shortCode": "URED6599",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-0499",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-02-28",
+      "validFrom": "2014-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2014-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0499",
+      "versions": [
+        {
+          "id": "URED6599-original",
+          "shortCode": "URED6599",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-02-28",
+          "effectiveFrom": "2014-02-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0499",
+          "proposer": null
+        },
+        {
+          "id": "URED6599-npb-URED6599",
+          "shortCode": "URED6599-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-02-28",
+          "effectiveFrom": "2014-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6599",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6990",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2014",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2014",
+      "shortCode": "URED6990",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1492",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-05-22",
+      "validFrom": "2015-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1492",
+      "versions": [
+        {
+          "id": "URED6990-original",
+          "shortCode": "URED6990",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-05-22",
+          "effectiveFrom": "2015-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6599"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1492",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

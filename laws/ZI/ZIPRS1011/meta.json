@@ -1,0 +1,167 @@
+{
+  "root": "ZIPRS1011",
+  "path": "laws/ZI/ZIPRS1011",
+  "members": [
+    {
+      "id": "ZIPRS1011",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortCode": "ZIPRS1011",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4372",
+      "gazette": "Uradni list RS 99/09  str. 13426",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-07",
+      "validFrom": "2009-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4372",
+      "versions": [
+        {
+          "id": "ZIPRS1011-original",
+          "shortCode": "ZIPRS1011",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/09  str. 13426",
+          "publishedAt": "2009-12-07",
+          "effectiveFrom": "2009-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4372",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1011-amend-ZIPRS1011-A",
+          "shortCode": "ZIPRS1011-A",
+          "label": "Sprememba ZIPRS1011-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 29/10  str. 3870",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1262",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1011-amend-ZIPRS1011-B",
+          "shortCode": "ZIPRS1011-B",
+          "label": "Sprememba ZIPRS1011-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 56/10  str. 8524",
+          "publishedAt": "2010-07-15",
+          "effectiveFrom": "2010-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3118",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1011-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortCode": "ZIPRS1011-A",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1262",
+      "gazette": "Uradni list RS 29/10  str. 3870",
+      "issuingBody": null,
+      "adoptedAt": "2010-04-09",
+      "validFrom": "2010-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1262",
+      "versions": [
+        {
+          "id": "ZIPRS1011-A-original",
+          "shortCode": "ZIPRS1011-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/10  str. 3870",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1262",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1011-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2010 in 2011",
+      "shortCode": "ZIPRS1011-B",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3118",
+      "gazette": "Uradni list RS 56/10  str. 8524",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-15",
+      "validFrom": "2010-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3118",
+      "versions": [
+        {
+          "id": "ZIPRS1011-B-original",
+          "shortCode": "ZIPRS1011-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/10  str. 8524",
+          "publishedAt": "2010-07-15",
+          "effectiveFrom": "2010-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3118",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

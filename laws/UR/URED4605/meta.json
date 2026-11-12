@@ -1,0 +1,97 @@
+{
+  "root": "URED4605",
+  "path": "laws/UR/URED4605",
+  "members": [
+    {
+      "id": "URED4605",
+      "title": "Uredba o določitvi območja in višini nadomestila zaradi omejene rabe prostora na območju Rudnika urana Žirovski vrh",
+      "shortTitle": "Uredba o določitvi območja in višini nadomestila zaradi omejene rabe prostora na območju Rudnika urana Žirovski vrh",
+      "shortCode": "URED4605",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0778",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-30",
+      "validFrom": "2009-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0778",
+      "versions": [
+        {
+          "id": "URED4605-original",
+          "shortCode": "URED4605",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-30",
+          "effectiveFrom": "2009-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0778",
+          "proposer": null
+        },
+        {
+          "id": "URED4605-npb-URED4605",
+          "shortCode": "URED4605-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-04",
+          "effectiveFrom": "2008-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4605",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5216",
+      "title": "Uredba o spremembi Uredbe o določitvi območja in višini nadomestila zaradi omejene rabe prostora na območju Rudnika urana Žirovski vrh",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi območja in višini nadomestila zaradi omejene rabe prostora na območju Rudnika urana Žirovski vrh",
+      "shortCode": "URED5216",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2492",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-06-30",
+      "validFrom": "2009-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2492",
+      "versions": [
+        {
+          "id": "URED5216-original",
+          "shortCode": "URED5216",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-30",
+          "effectiveFrom": "2009-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4605"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2492",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

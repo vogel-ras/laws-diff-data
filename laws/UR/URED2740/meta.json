@@ -1,0 +1,97 @@
+{
+  "root": "URED2740",
+  "path": "laws/UR/URED2740",
+  "members": [
+    {
+      "id": "URED2740",
+      "title": "Uredba o načinu ustanovitve in delovanja odbora uporabnikov letališča ter njegovih nalogah",
+      "shortTitle": "Uredba o načinu ustanovitve in delovanja odbora uporabnikov letališča ter njegovih nalogah",
+      "shortCode": "URED2740",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0525",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-02-07",
+      "validFrom": "2003-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0525",
+      "versions": [
+        {
+          "id": "URED2740-original",
+          "shortCode": "URED2740",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-07",
+          "effectiveFrom": "2003-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0525",
+          "proposer": null
+        },
+        {
+          "id": "URED2740-npb-URED2740",
+          "shortCode": "URED2740-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-02-07",
+          "effectiveFrom": "2003-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2740",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5710",
+      "title": "Uredba o spremembah Uredbe o načinu ustanovitve in delovanja odbora uporabnikov letališča ter njegovih nalogah",
+      "shortTitle": "Uredba o spremembah Uredbe o načinu ustanovitve in delovanja odbora uporabnikov letališča ter njegovih nalogah",
+      "shortCode": "URED5710",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-4002",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-11-25",
+      "validFrom": "2011-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4002",
+      "versions": [
+        {
+          "id": "URED5710-original",
+          "shortCode": "URED5710",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-25",
+          "effectiveFrom": "2011-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2740"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4002",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

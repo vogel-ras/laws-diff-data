@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9611",
+  "path": "laws/PR/PRAV9611",
+  "members": [
+    {
+      "id": "PRAV10723",
+      "title": "Pravilnik o spremembah Pravilnika o tehničnih pogojih za graditev, obratovanje in vzdrževanje plinovodov z delovnim tlakom nad 16 barov ter o pogojih za posege v območjih njihovih varovalnih pasov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o tehničnih pogojih za graditev, obratovanje in vzdrževanje plinovodov z delovnim tlakom nad 16 barov ter o pogojih za posege v območjih njihovih varovalnih pasov",
+      "shortCode": "PRAV10723",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-2118",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-06-10",
+      "validFrom": "2011-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2118",
+      "versions": [
+        {
+          "id": "PRAV10723-original",
+          "shortCode": "PRAV10723",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-10",
+          "effectiveFrom": "2011-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9611"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2118",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9611",
+      "title": "Pravilnik o tehničnih pogojih za graditev, obratovanje in vzdrževanje plinovodov z delovnim tlakom nad 16 barov ter o pogojih za posege v območjih njihovih varovalnih pasov",
+      "shortTitle": "Pravilnik o tehničnih pogojih za graditev, obratovanje in vzdrževanje plinovodov z delovnim tlakom nad 16 barov ter o pogojih za posege v območjih njihovih varovalnih pasov",
+      "shortCode": "PRAV9611",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0478",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2010-02-19",
+      "validFrom": "2010-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0478",
+      "versions": [
+        {
+          "id": "PRAV9611-original",
+          "shortCode": "PRAV9611",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-02-19",
+          "effectiveFrom": "2010-02-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0478",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9611-npb-PRAV9611",
+          "shortCode": "PRAV9611-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-02-19",
+          "effectiveFrom": "2010-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9611",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

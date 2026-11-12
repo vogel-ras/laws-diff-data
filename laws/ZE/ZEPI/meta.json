@@ -1,0 +1,155 @@
+{
+  "root": "ZEPI",
+  "path": "laws/ZE/ZEPI",
+  "members": [
+    {
+      "id": "ZAKO4983",
+      "title": "Zakon o eksplozivih in pirotehničnih izdelkih (ZEPI)",
+      "shortTitle": "Zakon o eksplozivih in pirotehničnih izdelkih (ZEPI)",
+      "shortCode": "ZEPI",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1427",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-26",
+      "validFrom": "2026-01-26",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1427",
+      "versions": [
+        {
+          "id": "ZAKO4983-amend-ZEPI-A",
+          "shortCode": "ZEPI-A",
+          "label": "Sprememba ZEPI-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1995",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO4983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0716",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4983-original",
+          "shortCode": "ZEPI",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-01-26",
+          "effectiveFrom": "2026-01-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1427",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4983-amend-ZAKO9411",
+          "shortCode": "ZEPI-B",
+          "label": "Sprememba ZEPI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0564",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9411",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o eksplozivih in pirotehničnih izdelkih (ZEPI-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o eksplozivih in pirotehničnih izdelkih (ZEPI-B)",
+      "shortCode": "ZEPI-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0564",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-25",
+      "validFrom": "2026-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0564",
+      "versions": [
+        {
+          "id": "ZAKO9411-original",
+          "shortCode": "ZEPI-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0564",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPI-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o eksplozivih in pirotehničnih izdelkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o eksplozivih in pirotehničnih izdelkih",
+      "shortCode": "ZEPI-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0716",
+      "gazette": "Uradni list RS 19/15  str. 1995",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0716",
+      "versions": [
+        {
+          "id": "ZEPI-A-original",
+          "shortCode": "ZEPI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1995",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0716",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

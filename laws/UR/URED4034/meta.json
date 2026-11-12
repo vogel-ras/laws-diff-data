@@ -1,0 +1,82 @@
+{
+  "root": "URED4034",
+  "path": "laws/UR/URED4034",
+  "members": [
+    {
+      "id": "URED4034",
+      "title": "Uredba o načinu vpisa upravljavcev nepremičnin v zemljiški kataster in kataster stavb",
+      "shortTitle": "Uredba o načinu vpisa upravljavcev nepremičnin v zemljiški kataster in kataster stavb",
+      "shortCode": "URED4034",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-5176",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-11-24",
+      "validFrom": "2006-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5176",
+      "versions": [
+        {
+          "id": "URED4034-original",
+          "shortCode": "URED4034",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-24",
+          "effectiveFrom": "2006-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5176",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6610",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu vpisa upravljavcev nepremičnin v zemljiški kataster in kataster stavb",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu vpisa upravljavcev nepremičnin v zemljiški kataster in kataster stavb",
+      "shortCode": "URED6610",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3815",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-12-13",
+      "validFrom": "2013-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3815",
+      "versions": [
+        {
+          "id": "URED6610-original",
+          "shortCode": "URED6610",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-12-13",
+          "effectiveFrom": "2013-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4034"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3815",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

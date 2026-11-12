@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4921",
+  "path": "laws/SK/SKLE4921",
+  "members": [
+    {
+      "id": "SKLE4921",
+      "title": "Sklep o dolgoročnem depozitu pri Banki Slovenije",
+      "shortTitle": "Sklep o dolgoročnem depozitu pri Banki Slovenije",
+      "shortCode": "SKLE4921",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-3412",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2004-07-16",
+      "validFrom": "2004-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3412",
+      "versions": [
+        {
+          "id": "SKLE4921-original",
+          "shortCode": "SKLE4921",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-16",
+          "effectiveFrom": "2004-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3412",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4929",
+      "title": "Sklep o spremembi sklepa o dolgoročnem depozitu pri Banki Slovenije",
+      "shortTitle": "Sklep o spremembi sklepa o dolgoročnem depozitu pri Banki Slovenije",
+      "shortCode": "SKLE4929",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-3554",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2004-07-23",
+      "validFrom": "2004-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3554",
+      "versions": [
+        {
+          "id": "SKLE4929-original",
+          "shortCode": "SKLE4929",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-23",
+          "effectiveFrom": "2004-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4921"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3554",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

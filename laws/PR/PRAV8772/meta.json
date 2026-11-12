@@ -1,0 +1,136 @@
+{
+  "root": "PRAV8772",
+  "path": "laws/PR/PRAV8772",
+  "members": [
+    {
+      "id": "PRAV11433",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o označevanju čebelnjakov in stojišč",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o označevanju čebelnjakov in stojišč",
+      "shortCode": "PRAV11433",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-2071",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-06-28",
+      "validFrom": "2013-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2071",
+      "versions": [
+        {
+          "id": "PRAV11433-original",
+          "shortCode": "PRAV11433",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-06-28",
+          "effectiveFrom": "2013-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8772"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12546",
+      "title": "Pravilnik o spremembah Pravilnika o označevanju čebelnjakov in stojišč",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o označevanju čebelnjakov in stojišč",
+      "shortCode": "PRAV12546",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3685",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2015-12-04",
+      "validFrom": "2015-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3685",
+      "versions": [
+        {
+          "id": "PRAV12546-original",
+          "shortCode": "PRAV12546",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-04",
+          "effectiveFrom": "2015-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8772"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3685",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8772",
+      "title": "Pravilnik o označevanju čebelnjakov in stojišč",
+      "shortTitle": "Pravilnik o označevanju čebelnjakov in stojišč",
+      "shortCode": "PRAV8772",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-5081",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2008-12-12",
+      "validFrom": "2008-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5081",
+      "versions": [
+        {
+          "id": "PRAV8772-original",
+          "shortCode": "PRAV8772",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-12",
+          "effectiveFrom": "2008-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5081",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8772-npb-PRAV8772",
+          "shortCode": "PRAV8772-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-12-12",
+          "effectiveFrom": "2008-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8772",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

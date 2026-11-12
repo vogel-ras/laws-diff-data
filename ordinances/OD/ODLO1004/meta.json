@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1004",
+  "path": "ordinances/OD/ODLO1004",
+  "members": [
+    {
+      "id": "ODLO1004",
+      "title": "Odlok o razglasitvi Pantzove žičnice v Blatnem grabnu za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Pantzove žičnice v Blatnem grabnu za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1004",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2001-01-3545",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-08-09",
+      "validFrom": "2001-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3545",
+      "versions": [
+        {
+          "id": "ODLO1004-original",
+          "shortCode": "ODLO1004",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-09",
+          "effectiveFrom": "2001-08-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3545",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1004-npb-ODLO1004",
+          "shortCode": "ODLO1004-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-08-09",
+          "effectiveFrom": "2001-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1004",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

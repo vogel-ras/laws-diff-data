@@ -1,0 +1,104 @@
+{
+  "root": "ZIPRS1617",
+  "path": "laws/ZI/ZIPRS1617",
+  "members": [
+    {
+      "id": "ZIPRS1617",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2016 in 2017",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2016 in 2017",
+      "shortCode": "ZIPRS1617",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3772",
+      "gazette": "Uradni list RS 96/15  str. 11905",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-11",
+      "validFrom": "2015-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3772",
+      "versions": [
+        {
+          "id": "ZIPRS1617-original",
+          "shortCode": "ZIPRS1617",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/15  str. 11905",
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3772",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1617-amend-ZIPRS1617-A",
+          "shortCode": "ZIPRS1617-A",
+          "label": "Sprememba ZIPRS1617-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 46/16  str. 6761",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1617"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1995",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1617-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2016 in 2017",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2016 in 2017",
+      "shortCode": "ZIPRS1617-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1995",
+      "gazette": "Uradni list RS 46/16  str. 6761",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-30",
+      "validFrom": "2016-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1995",
+      "versions": [
+        {
+          "id": "ZIPRS1617-A-original",
+          "shortCode": "ZIPRS1617-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/16  str. 6761",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1617"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

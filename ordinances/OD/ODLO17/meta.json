@@ -1,0 +1,58 @@
+{
+  "root": "ODLO17",
+  "path": "ordinances/OD/ODLO17",
+  "members": [
+    {
+      "id": "ODLO17",
+      "title": "Odlok o razdelitvi javnega zavoda Slovensko narodno gledališče Ljubljana na javne zavode",
+      "shortTitle": "Odlok o razdelitvi javnega zavoda Slovensko narodno gledališče Ljubljana na javne zavode",
+      "shortCode": "ODLO17",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1992-01-0930",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-08-07",
+      "validFrom": "1992-08-07",
+      "validTo": null,
+      "latestPublishedAt": "1992-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0930",
+      "versions": [
+        {
+          "id": "ODLO17-original",
+          "shortCode": "ODLO17",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-08-07",
+          "effectiveFrom": "1992-08-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0930",
+          "proposer": null
+        },
+        {
+          "id": "ODLO17-npb-ODLO17",
+          "shortCode": "ODLO17-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1992-04-17",
+          "effectiveFrom": "1992-04-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO17",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

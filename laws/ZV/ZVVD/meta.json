@@ -1,0 +1,107 @@
+{
+  "root": "ZVVD",
+  "path": "laws/ZV/ZVVD",
+  "members": [
+    {
+      "id": "ZVVD",
+      "title": "Zakon o vpisu in vplačilu delnic v delniški kapital Evropske banke za obnovo in razvoj",
+      "shortTitle": "Zakon o vpisu in vplačilu delnic v delniški kapital Evropske banke za obnovo in razvoj",
+      "shortCode": "ZVVD",
+      "kind": "zakon",
+      "keywords": [
+        "delnica",
+        "delniški kapital",
+        "Slovenija",
+        "EBRD"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0125",
+      "gazette": "Uradni list RS 4/93  str. 137",
+      "issuingBody": null,
+      "adoptedAt": "1993-01-16",
+      "validFrom": "1993-01-16",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0125",
+      "versions": [
+        {
+          "id": "ZVVD-original",
+          "shortCode": "ZVVD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 4/93  str. 137",
+          "publishedAt": "1993-01-16",
+          "effectiveFrom": "1993-01-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0125",
+          "proposer": null
+        },
+        {
+          "id": "ZVVD-amend-ZVVD-A",
+          "shortCode": "ZVVD-A",
+          "label": "Sprememba ZVVD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 87/97  str. 8366",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4005",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVVD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vpisu in vplačilu delnic v delniški kapital Evropske banke za obnovo in razvoj",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vpisu in vplačilu delnic v delniški kapital Evropske banke za obnovo in razvoj",
+      "shortCode": "ZVVD-A",
+      "kind": "zakon",
+      "keywords": [
+        "EBRD",
+        "delnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-4005",
+      "gazette": "Uradni list RS 87/97  str. 8366",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-29",
+      "validFrom": "1997-12-29",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4005",
+      "versions": [
+        {
+          "id": "ZVVD-A-original",
+          "shortCode": "ZVVD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/97  str. 8366",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4005",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

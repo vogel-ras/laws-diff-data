@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4391",
+  "path": "laws/PR/PRAV4391",
+  "members": [
+    {
+      "id": "PRAV4391",
+      "title": "Pravilnik o disciplinskem postopku zoper izvršitelja",
+      "shortTitle": "Pravilnik o disciplinskem postopku zoper izvršitelja",
+      "shortCode": "PRAV4391",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4781",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2002-11-13",
+      "validFrom": "2002-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2014-11-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4781",
+      "versions": [
+        {
+          "id": "PRAV4391-original",
+          "shortCode": "PRAV4391",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-13",
+          "effectiveFrom": "2002-11-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4781",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4391-npb-PRAV4391",
+          "shortCode": "PRAV4391-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-11-01",
+          "effectiveFrom": "2014-11-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4391",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7656",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o disciplinskem postopku zoper izvršitelja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o disciplinskem postopku zoper izvršitelja",
+      "shortCode": "PRAV7656",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1779",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-04-14",
+      "validFrom": "2006-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1779",
+      "versions": [
+        {
+          "id": "PRAV7656-original",
+          "shortCode": "PRAV7656",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-14",
+          "effectiveFrom": "2006-04-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4391"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1779",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

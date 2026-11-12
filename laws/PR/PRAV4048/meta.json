@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4048",
+  "path": "laws/PR/PRAV4048",
+  "members": [
+    {
+      "id": "PRAV4048",
+      "title": "Pravilnik o vsebini prijave modela",
+      "shortTitle": "Pravilnik o vsebini prijave modela",
+      "shortCode": "PRAV4048",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-5002",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-12-14",
+      "validFrom": "2001-12-14",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5002",
+      "versions": [
+        {
+          "id": "PRAV4048-original",
+          "shortCode": "PRAV4048",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-12-14",
+          "effectiveFrom": "2001-12-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5002",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4048-npb-PRAV4048",
+          "shortCode": "PRAV4048-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-12-14",
+          "effectiveFrom": "2001-12-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6073",
+      "title": "Pravilnik o spremembi pravilnika o vsebini prijave modela",
+      "shortTitle": "Pravilnik o spremembi pravilnika o vsebini prijave modela",
+      "shortCode": "PRAV6073",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4638",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2004-10-15",
+      "validFrom": "2004-10-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4638",
+      "versions": [
+        {
+          "id": "PRAV6073-original",
+          "shortCode": "PRAV6073",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-15",
+          "effectiveFrom": "2004-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4048"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4638",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

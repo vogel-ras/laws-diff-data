@@ -1,0 +1,58 @@
+{
+  "root": "URED5050",
+  "path": "laws/UR/URED5050",
+  "members": [
+    {
+      "id": "URED5050",
+      "title": "Uredba o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih",
+      "shortTitle": "Uredba o sejninah in povračilih stroškov v javnih skladih, javnih agencijah, javnih zavodih in javnih gospodarskih zavodih",
+      "shortCode": "URED5050",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0557",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-27",
+      "validFrom": "2009-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0557",
+      "versions": [
+        {
+          "id": "URED5050-original",
+          "shortCode": "URED5050",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0557",
+          "proposer": null
+        },
+        {
+          "id": "URED5050-npb-URED5050",
+          "shortCode": "URED5050-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5050",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

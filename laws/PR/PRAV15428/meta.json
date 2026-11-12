@@ -1,0 +1,60 @@
+{
+  "root": "PRAV15428",
+  "path": "laws/PR/PRAV15428",
+  "members": [
+    {
+      "id": "PRAV15428",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o nadzornem informacijskem sistemu igralnih naprav",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o nadzornem informacijskem sistemu igralnih naprav",
+      "shortCode": "PRAV15428",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-16",
+      "validFrom": "2024-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2342",
+      "versions": [
+        {
+          "id": "PRAV15428-original",
+          "shortCode": "PRAV15428",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-16",
+          "effectiveFrom": "2024-09-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PRAV4102"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2342",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15428-npb-PRAV15428",
+          "shortCode": "PRAV15428-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-09-13",
+          "effectiveFrom": "2024-09-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15428",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11179",
+  "path": "laws/PR/PRAV11179",
+  "members": [
+    {
+      "id": "PRAV11179",
+      "title": "Pravilnik o delovanju mreže za zbiranje računovodskih podatkov o dohodkih in poslovanju kmetijskih gospodarstev, ki vodijo kmetijsko knjigovodstvo po metodologiji FADN",
+      "shortTitle": "Pravilnik o delovanju mreže za zbiranje računovodskih podatkov o dohodkih in poslovanju kmetijskih gospodarstev, ki vodijo kmetijsko knjigovodstvo po metodologiji FADN",
+      "shortCode": "PRAV11179",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3185",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo in okolje",
+      "adoptedAt": "2014-10-24",
+      "validFrom": "2014-10-24",
+      "validTo": null,
+      "latestPublishedAt": "2014-10-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3185",
+      "versions": [
+        {
+          "id": "PRAV11179-original",
+          "shortCode": "PRAV11179",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-10-24",
+          "effectiveFrom": "2014-10-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3185",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11179-npb-PRAV11179",
+          "shortCode": "PRAV11179-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-10-24",
+          "effectiveFrom": "2014-10-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11179",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13793",
+      "title": "Pravilnik o spremembi Pravilnika o delovanju mreže za zbiranje računovodskih podatkov o dohodkih in poslovanju kmetijskih gospodarstev, ki vodijo kmetijsko knjigovodstvo po metodologiji FADN",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o delovanju mreže za zbiranje računovodskih podatkov o dohodkih in poslovanju kmetijskih gospodarstev, ki vodijo kmetijsko knjigovodstvo po metodologiji FADN",
+      "shortCode": "PRAV13793",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1938",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-06-28",
+      "validFrom": "2019-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1938",
+      "versions": [
+        {
+          "id": "PRAV13793-original",
+          "shortCode": "PRAV13793",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-06-28",
+          "effectiveFrom": "2019-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11179"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1938",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

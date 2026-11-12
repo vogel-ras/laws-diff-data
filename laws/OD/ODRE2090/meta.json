@@ -1,0 +1,58 @@
+{
+  "root": "ODRE2090",
+  "path": "laws/OD/ODRE2090",
+  "members": [
+    {
+      "id": "ODRE2090",
+      "title": "Odredba o omejitvi prometa na cestah v Republiki Sloveniji",
+      "shortTitle": "Odredba o omejitvi prometa na cestah v Republiki Sloveniji",
+      "shortCode": "ODRE2090",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2011-01-3206",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2011-09-29",
+      "validFrom": "2011-09-29",
+      "validTo": null,
+      "latestPublishedAt": "2011-09-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3206",
+      "versions": [
+        {
+          "id": "ODRE2090-original",
+          "shortCode": "ODRE2090",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-29",
+          "effectiveFrom": "2011-09-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3206",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2090-npb-ODRE2090",
+          "shortCode": "ODRE2090-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-09-29",
+          "effectiveFrom": "2011-09-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2090",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

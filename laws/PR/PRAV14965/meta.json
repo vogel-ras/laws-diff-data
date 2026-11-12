@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14965",
+  "path": "laws/PR/PRAV14965",
+  "members": [
+    {
+      "id": "PRAV14965",
+      "title": "Pravilnik o službenih stanovanjih Ministrstva za obrambo",
+      "shortTitle": "Pravilnik o službenih stanovanjih Ministrstva za obrambo",
+      "shortCode": "PRAV14965",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1626",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-05-12",
+      "validFrom": "2023-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1626",
+      "versions": [
+        {
+          "id": "PRAV14965-original",
+          "shortCode": "PRAV14965",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-12",
+          "effectiveFrom": "2023-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1626",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14965-npb-PRAV14965",
+          "shortCode": "PRAV14965-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-05-12",
+          "effectiveFrom": "2023-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14965",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15077",
+      "title": "Pravilnik o spremembah Pravilnika o službenih stanovanjih Ministrstva za obrambo",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o službenih stanovanjih Ministrstva za obrambo",
+      "shortCode": "PRAV15077",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-2222",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2023-06-30",
+      "validFrom": "2023-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2222",
+      "versions": [
+        {
+          "id": "PRAV15077-original",
+          "shortCode": "PRAV15077",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-30",
+          "effectiveFrom": "2023-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14965"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2222",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

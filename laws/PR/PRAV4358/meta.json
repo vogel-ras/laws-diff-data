@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4358",
+  "path": "laws/PR/PRAV4358",
+  "members": [
+    {
+      "id": "PRAV4358",
+      "title": "Pravilnik o vsebini in načinu vodenja uradnih evidenc s področja zaposlovanja",
+      "shortTitle": "Pravilnik o vsebini in načinu vodenja uradnih evidenc s področja zaposlovanja",
+      "shortCode": "PRAV4358",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4172",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-10-04",
+      "validFrom": "2002-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4172",
+      "versions": [
+        {
+          "id": "PRAV4358-original",
+          "shortCode": "PRAV4358",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-04",
+          "effectiveFrom": "2002-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4172",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9423",
+      "title": "Pravilnik o spremembi Pravilnika o vsebini in načinu vodenja uradnih evidenc s področja zaposlovanja",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vsebini in načinu vodenja uradnih evidenc s področja zaposlovanja",
+      "shortCode": "PRAV9423",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0318",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-09",
+      "validFrom": "2009-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0318",
+      "versions": [
+        {
+          "id": "PRAV9423-original",
+          "shortCode": "PRAV9423",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-09",
+          "effectiveFrom": "2009-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4358"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0318",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

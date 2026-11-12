@@ -1,0 +1,82 @@
+{
+  "root": "URED2976",
+  "path": "laws/UR/URED2976",
+  "members": [
+    {
+      "id": "URED2976",
+      "title": "Uredba o izvedbi postopkov oddaje skupnih javnih naročil za potrebe upravnih organov",
+      "shortTitle": "Uredba o izvedbi postopkov oddaje skupnih javnih naročil za potrebe upravnih organov",
+      "shortCode": "URED2976",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4849",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-11-13",
+      "validFrom": "2003-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4849",
+      "versions": [
+        {
+          "id": "URED2976-original",
+          "shortCode": "URED2976",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-13",
+          "effectiveFrom": "2003-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4849",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3812",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi postopkov oddaje skupnih javnih naročil za potrebe upravnih organov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi postopkov oddaje skupnih javnih naročil za potrebe upravnih organov",
+      "shortCode": "URED3812",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2166",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-27",
+      "validFrom": "2005-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2166",
+      "versions": [
+        {
+          "id": "URED3812-original",
+          "shortCode": "URED3812",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-27",
+          "effectiveFrom": "2005-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2166",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

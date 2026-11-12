@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4071",
+  "path": "laws/PR/PRAV4071",
+  "members": [
+    {
+      "id": "PRAV4071",
+      "title": "Pravilnik o obliki in vsebini ter o načinu vodenja imenika Zbornice za arhitekturo in prostor Slovenije in Inženirske zbornice Slovenije",
+      "shortTitle": "Pravilnik o obliki in vsebini ter o načinu vodenja imenika Zbornice za arhitekturo in prostor Slovenije in Inženirske zbornice Slovenije",
+      "shortCode": "PRAV4071",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5257",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-11",
+      "validFrom": "2003-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5257",
+      "versions": [
+        {
+          "id": "PRAV4071-original",
+          "shortCode": "PRAV4071",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-11",
+          "effectiveFrom": "2003-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5257",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4071-npb-PRAV4071",
+          "shortCode": "PRAV4071-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-12-11",
+          "effectiveFrom": "2003-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6851",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki in vsebini ter o načinu vodenja imenika Zbornice za arhitekturo in prostor Slovenije in Inženirske zbornice Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki in vsebini ter o načinu vodenja imenika Zbornice za arhitekturo in prostor Slovenije in Inženirske zbornice Slovenije",
+      "shortCode": "PRAV6851",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2448",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2005-06-10",
+      "validFrom": "2005-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2448",
+      "versions": [
+        {
+          "id": "PRAV6851-original",
+          "shortCode": "PRAV6851",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-10",
+          "effectiveFrom": "2005-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2448",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

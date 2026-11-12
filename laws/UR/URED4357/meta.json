@@ -1,0 +1,82 @@
+{
+  "root": "URED4357",
+  "path": "laws/UR/URED4357",
+  "members": [
+    {
+      "id": "URED4357",
+      "title": "Uredba o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leti 2007 in 2008",
+      "shortTitle": "Uredba o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leti 2007 in 2008",
+      "shortCode": "URED4357",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-0945",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-03-02",
+      "validFrom": "2007-03-02",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0945",
+      "versions": [
+        {
+          "id": "URED4357-original",
+          "shortCode": "URED4357",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-02",
+          "effectiveFrom": "2007-03-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0945",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4655",
+      "title": "Uredba o spremembah Uredbe o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leti 2007 in 2008",
+      "shortTitle": "Uredba o spremembah Uredbe o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leti 2007 in 2008",
+      "shortCode": "URED4655",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0056",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-01-04",
+      "validFrom": "2008-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0056",
+      "versions": [
+        {
+          "id": "URED4655-original",
+          "shortCode": "URED4655",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-04",
+          "effectiveFrom": "2008-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4357"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0056",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

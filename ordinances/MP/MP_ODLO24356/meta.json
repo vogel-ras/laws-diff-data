@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO24356",
+  "path": "ordinances/MP/MP_ODLO24356",
+  "members": [
+    {
+      "id": "MP_ODLO24356",
+      "title": "Odlok o ustanovitvi Javnega medobčinskega stanovanjskega sklada Maribor (Uradno prečiščeno besedilo – UPB 1) (ODLO)",
+      "shortTitle": "Odlok o ustanovitvi Javnega medobčinskega stanovanjskega sklada Maribor (Uradno prečiščeno besedilo – UPB 1) (ODLO)",
+      "shortCode": "MP_ODLO24356",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2009-28-0025",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-28-0025",
+      "versions": [
+        {
+          "id": "MP_ODLO24356-original",
+          "shortCode": "MP_ODLO24356",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-28-0025",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO51193",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Javnega medobčinskega stanovanjskega sklada Maribor (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Javnega medobčinskega stanovanjskega sklada Maribor (ODLO)",
+      "shortCode": "MP_ODLO51193",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Duplek",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2009-28-0001",
+      "gazette": null,
+      "issuingBody": "Občina Duplek",
+      "adoptedAt": "2009-01-15",
+      "validFrom": "2009-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-28-0001",
+      "versions": [
+        {
+          "id": "MP_ODLO51193-original",
+          "shortCode": "MP_ODLO51193",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-01-15",
+          "effectiveFrom": "2009-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO24356"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-28-0001",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

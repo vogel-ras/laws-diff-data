@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5983",
+  "path": "laws/PR/PRAV5983",
+  "members": [
+    {
+      "id": "PRAV5983",
+      "title": "Pravilnik o proženju snežnih plazov",
+      "shortTitle": "Pravilnik o proženju snežnih plazov",
+      "shortCode": "PRAV5983",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3154",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2004-06-28",
+      "validFrom": "2004-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3154",
+      "versions": [
+        {
+          "id": "PRAV5983-original",
+          "shortCode": "PRAV5983",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-28",
+          "effectiveFrom": "2004-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3154",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5983-npb-PRAV5983",
+          "shortCode": "PRAV5983-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-06-28",
+          "effectiveFrom": "2004-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5983",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8307",
+      "title": "Pravilnik o spremembi Pravilnika o proženju snežnih plazov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o proženju snežnih plazov",
+      "shortCode": "PRAV8307",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-0952",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2007-03-06",
+      "validFrom": "2007-03-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0952",
+      "versions": [
+        {
+          "id": "PRAV8307-original",
+          "shortCode": "PRAV8307",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-06",
+          "effectiveFrom": "2007-03-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0952",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

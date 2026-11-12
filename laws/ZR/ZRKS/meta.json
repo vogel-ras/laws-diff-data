@@ -1,0 +1,105 @@
+{
+  "root": "ZRKS",
+  "path": "laws/ZR/ZRKS",
+  "members": [
+    {
+      "id": "ZRKS",
+      "title": "Zakon o Rdečem križu Slovenije",
+      "shortTitle": "Zakon o Rdečem križu Slovenije",
+      "shortCode": "ZRKS",
+      "kind": "zakon",
+      "keywords": [
+        "Rdeči križ",
+        "nevladna organizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0301",
+      "gazette": "Uradni list RS 7/93  str. 274",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-04",
+      "validFrom": "1993-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0301",
+      "versions": [
+        {
+          "id": "ZRKS-original",
+          "shortCode": "ZRKS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/93  str. 274",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0301",
+          "proposer": null
+        },
+        {
+          "id": "ZRKS-amend-ZRKS-A",
+          "shortCode": "ZRKS-A",
+          "label": "Sprememba ZRKS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 79/10  str. 11896",
+          "publishedAt": "2010-10-08",
+          "effectiveFrom": "2010-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRKS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4268",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRKS-A",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o Rdečem križu Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o Rdečem križu Slovenije",
+      "shortCode": "ZRKS-A",
+      "kind": "zakon",
+      "keywords": [
+        "Rdeči križ",
+        "nevladna organizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4268",
+      "gazette": "Uradni list RS 79/10  str. 11896",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-08",
+      "validFrom": "2010-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4268",
+      "versions": [
+        {
+          "id": "ZRKS-A-original",
+          "shortCode": "ZRKS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/10  str. 11896",
+          "publishedAt": "2010-10-08",
+          "effectiveFrom": "2010-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRKS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4268",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "URED4029",
+  "path": "laws/UR/URED4029",
+  "members": [
+    {
+      "id": "URED4029",
+      "title": "Uredba o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortTitle": "Uredba o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortCode": "URED4029",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3405",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-25",
+      "validFrom": "2006-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3405",
+      "versions": [
+        {
+          "id": "URED4029-original",
+          "shortCode": "URED4029",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3405",
+          "proposer": null
+        },
+        {
+          "id": "URED4029-npb-URED4029",
+          "shortCode": "URED4029-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4029",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5753",
+      "title": "Uredba o spremembi Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortTitle": "Uredba o spremembi Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortCode": "URED5753",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0103",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-01-21",
+      "validFrom": "2011-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0103",
+      "versions": [
+        {
+          "id": "URED5753-original",
+          "shortCode": "URED5753",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4029"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0103",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5965",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin medijev",
+      "shortCode": "URED5965",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-0333",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-02-03",
+      "validFrom": "2012-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0333",
+      "versions": [
+        {
+          "id": "URED5965-original",
+          "shortCode": "URED5965",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-03",
+          "effectiveFrom": "2012-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4029"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0333",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

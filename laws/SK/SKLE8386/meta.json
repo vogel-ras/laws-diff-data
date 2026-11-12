@@ -1,0 +1,97 @@
+{
+  "root": "SKLE8386",
+  "path": "laws/SK/SKLE8386",
+  "members": [
+    {
+      "id": "ODLO3073",
+      "title": "Odlok o spremembah Odloka o ustanovitvi Generalnega sekretariata Vlade Republike Slovenije",
+      "shortTitle": "Odlok o spremembah Odloka o ustanovitvi Generalnega sekretariata Vlade Republike Slovenije",
+      "shortCode": "ODLO3073",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2026-01-0365",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0365",
+      "versions": [
+        {
+          "id": "ODLO3073-original",
+          "shortCode": "ODLO3073",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8386"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0365",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8386",
+      "title": "Odlok o ustanovitvi Generalnega sekretariata Vlade Republike Slovenije",
+      "shortTitle": "Odlok o ustanovitvi Generalnega sekretariata Vlade Republike Slovenije",
+      "shortCode": "SKLE8386",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-1099",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-16",
+      "validFrom": "2026-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1099",
+      "versions": [
+        {
+          "id": "SKLE8386-original",
+          "shortCode": "SKLE8386",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-16",
+          "effectiveFrom": "2026-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1099",
+          "proposer": null
+        },
+        {
+          "id": "SKLE8386-npb-SKLE8386",
+          "shortCode": "SKLE8386-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-28",
+          "effectiveFrom": "2026-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=SKLE8386",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

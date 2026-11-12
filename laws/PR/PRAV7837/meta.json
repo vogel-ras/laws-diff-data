@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7837",
+  "path": "laws/PR/PRAV7837",
+  "members": [
+    {
+      "id": "PRAV7837",
+      "title": "Pravilnik o obrazcu potnega lista za tujca",
+      "shortTitle": "Pravilnik o obrazcu potnega lista za tujca",
+      "shortCode": "PRAV7837",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3909",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-26",
+      "validFrom": "2009-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3909",
+      "versions": [
+        {
+          "id": "PRAV7837-original",
+          "shortCode": "PRAV7837",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-26",
+          "effectiveFrom": "2009-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3909",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9426",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu potnega lista za tujca",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu potnega lista za tujca",
+      "shortCode": "PRAV9426",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2385",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-26",
+      "validFrom": "2009-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2385",
+      "versions": [
+        {
+          "id": "PRAV9426-original",
+          "shortCode": "PRAV9426",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-26",
+          "effectiveFrom": "2009-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7837"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2385",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

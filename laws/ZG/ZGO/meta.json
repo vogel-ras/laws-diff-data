@@ -1,0 +1,343 @@
+{
+  "root": "ZGO",
+  "path": "laws/ZG/ZGO",
+  "members": [
+    {
+      "id": "ZGO-1",
+      "title": "Zakon o graditvi objektov",
+      "shortTitle": "Zakon o graditvi objektov",
+      "shortCode": "ZGO-1",
+      "kind": "zakon",
+      "keywords": [
+        "zgradba",
+        "gradbeno dovoljenje",
+        "gradbeništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5387",
+      "gazette": "Uradni list RS 110/2002  str. 13084",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5387",
+      "versions": [
+        {
+          "id": "ZGO-1-original",
+          "shortCode": "ZGO-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13084",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5387",
+          "proposer": null
+        },
+        {
+          "id": "ZGO-1-amend-ZGO-1A",
+          "shortCode": "ZGO-1A",
+          "label": "Sprememba ZGO-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/04  str. 6282",
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2237",
+          "proposer": null
+        },
+        {
+          "id": "ZGO-1-amend-ZGO-1B",
+          "shortCode": "ZGO-1B",
+          "label": "Sprememba ZGO-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 126/07  str. 18714",
+          "publishedAt": "2007-12-31",
+          "effectiveFrom": "2007-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6414",
+          "proposer": null
+        },
+        {
+          "id": "ZGO-1-amend-ZGO-1C",
+          "shortCode": "ZGO-1C",
+          "label": "Sprememba ZGO-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 108/09  str. 14786",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4889",
+          "proposer": null
+        },
+        {
+          "id": "ZGO-1-amend-ZGO-1D",
+          "shortCode": "ZGO-1D",
+          "label": "Sprememba ZGO-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 57/12  str. 5971",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2412",
+          "proposer": null
+        },
+        {
+          "id": "ZGO-1-amend-ZGO-1F",
+          "shortCode": "ZGO-1F",
+          "label": "Sprememba ZGO-1F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 19/15  str. 1985",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0708",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGO-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o graditvi objektov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o graditvi objektov",
+      "shortCode": "ZGO-1A",
+      "kind": "zakon",
+      "keywords": [
+        "gradbeništvo",
+        "zgradba",
+        "stavbno zemljišče"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2237",
+      "gazette": "Uradni list RS 47/04  str. 6282",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2237",
+      "versions": [
+        {
+          "id": "ZGO-1A-original",
+          "shortCode": "ZGO-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/04  str. 6282",
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2237",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGO-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o graditvi objektov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o graditvi objektov",
+      "shortCode": "ZGO-1B",
+      "kind": "zakon",
+      "keywords": [
+        "gradbena politika",
+        "gradbeni predpisi",
+        "zgradba",
+        "gradbeništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-6414",
+      "gazette": "Uradni list RS 126/07  str. 18714",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-31",
+      "validFrom": "2007-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6414",
+      "versions": [
+        {
+          "id": "ZGO-1B-original",
+          "shortCode": "ZGO-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/07  str. 18714",
+          "publishedAt": "2007-12-31",
+          "effectiveFrom": "2007-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGO-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o graditvi objektov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o graditvi objektov",
+      "shortCode": "ZGO-1C",
+      "kind": "zakon",
+      "keywords": [
+        "gradbeništvo",
+        "zgradba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4889",
+      "gazette": "Uradni list RS 108/09  str. 14786",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4889",
+      "versions": [
+        {
+          "id": "ZGO-1C-original",
+          "shortCode": "ZGO-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/09  str. 14786",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4889",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGO-1D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o graditvi objektov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o graditvi objektov",
+      "shortCode": "ZGO-1D",
+      "kind": "zakon",
+      "keywords": [
+        "objekt nizke gradnje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2412",
+      "gazette": "Uradni list RS 57/12  str. 5971",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2412",
+      "versions": [
+        {
+          "id": "ZGO-1D-original",
+          "shortCode": "ZGO-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5971",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2412",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGO-1F",
+      "title": "Zakon o spremembi Zakona o graditvi objektov",
+      "shortTitle": "Zakon o spremembi Zakona o graditvi objektov",
+      "shortCode": "ZGO-1F",
+      "kind": "zakon",
+      "keywords": [
+        "objekt nizke gradnje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0708",
+      "gazette": "Uradni list RS 19/15  str. 1985",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0708",
+      "versions": [
+        {
+          "id": "ZGO-1F-original",
+          "shortCode": "ZGO-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1985",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0708",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

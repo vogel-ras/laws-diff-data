@@ -1,0 +1,121 @@
+{
+  "root": "PRAV10321",
+  "path": "laws/PR/PRAV10321",
+  "members": [
+    {
+      "id": "PRAV10321",
+      "title": "Pravilnik o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortTitle": "Pravilnik o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortCode": "PRAV10321",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-3574",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2010-08-06",
+      "validFrom": "2010-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2010-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3574",
+      "versions": [
+        {
+          "id": "PRAV10321-original",
+          "shortCode": "PRAV10321",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-08-06",
+          "effectiveFrom": "2010-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3574",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10722",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortCode": "PRAV10722",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0973",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2011-03-31",
+      "validFrom": "2011-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0973",
+      "versions": [
+        {
+          "id": "PRAV10722-original",
+          "shortCode": "PRAV10722",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-03-31",
+          "effectiveFrom": "2011-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0973",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12358",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o elektronskem poslovanju v civilnih sodnih postopkih",
+      "shortCode": "PRAV12358",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2732",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-09-18",
+      "validFrom": "2015-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2015-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2732",
+      "versions": [
+        {
+          "id": "PRAV12358-original",
+          "shortCode": "PRAV12358",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-09-18",
+          "effectiveFrom": "2015-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2732",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

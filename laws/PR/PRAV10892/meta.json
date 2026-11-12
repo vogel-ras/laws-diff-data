@@ -1,0 +1,82 @@
+{
+  "root": "PRAV10892",
+  "path": "laws/PR/PRAV10892",
+  "members": [
+    {
+      "id": "PRAV10892",
+      "title": "Pravilnik o označevanju in navodilu za uporabo zdravil za uporabo v humani medicini",
+      "shortTitle": "Pravilnik o označevanju in navodilu za uporabo zdravil za uporabo v humani medicini",
+      "shortCode": "PRAV10892",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0818",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-03-19",
+      "validFrom": "2012-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0818",
+      "versions": [
+        {
+          "id": "PRAV10892-original",
+          "shortCode": "PRAV10892",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-03-19",
+          "effectiveFrom": "2012-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0818",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11366",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o označevanju in navodilu za uporabo zdravil za uporabo v humani medicini",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o označevanju in navodilu za uporabo zdravil za uporabo v humani medicini",
+      "shortCode": "PRAV11366",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2187",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2012-07-09",
+      "validFrom": "2012-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2187",
+      "versions": [
+        {
+          "id": "PRAV11366-original",
+          "shortCode": "PRAV11366",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-07-09",
+          "effectiveFrom": "2012-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10892"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2187",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

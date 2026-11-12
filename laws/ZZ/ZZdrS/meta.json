@@ -1,0 +1,559 @@
+{
+  "root": "ZZdrS",
+  "path": "laws/ZZ/ZZdrS",
+  "members": [
+    {
+      "id": "ZAKO7687",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravniški službi (ZZdrS-F)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravniški službi (ZZdrS-F)",
+      "shortCode": "ZZdrS-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2005",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-20",
+      "validFrom": "2017-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2005",
+      "versions": [
+        {
+          "id": "ZAKO7687-original",
+          "shortCode": "ZZdrS-F",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2005",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9241",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravniški službi (ZZdrS-K)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravniški službi (ZZdrS-K)",
+      "shortCode": "ZZdrS-K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0463",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-19",
+      "validFrom": "2026-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0463",
+      "versions": [
+        {
+          "id": "ZAKO9241-original",
+          "shortCode": "ZZdrS-K",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0463",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS",
+      "title": "Zakon o zdravniški službi",
+      "shortTitle": "Zakon o zdravniški službi",
+      "shortCode": "ZZdrS",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4618",
+      "gazette": "Uradni list RS 98/99  str. 14653",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-03",
+      "validFrom": "1999-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4618",
+      "versions": [
+        {
+          "id": "ZZdrS-original",
+          "shortCode": "ZZdrS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/99  str. 14653",
+          "publishedAt": "1999-12-03",
+          "effectiveFrom": "1999-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4618",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-A",
+          "shortCode": "ZZdrS-A",
+          "label": "Sprememba ZZdrS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/2002  str. 7577",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3227",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-B",
+          "shortCode": "ZZdrS-B",
+          "label": "Sprememba ZZdrS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 15/2003  str. 2111",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0590",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-C",
+          "shortCode": "ZZdrS-C",
+          "label": "Sprememba ZZdrS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 2/04  str. 164",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0066",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-D",
+          "shortCode": "ZZdrS-D",
+          "label": "Sprememba ZZdrS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 47/06  str. 5065",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2029",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZAKO7687",
+          "shortCode": "ZZdrS-F",
+          "label": "Sprememba ZZdrS-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2005",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-G",
+          "shortCode": "ZZdrS-G",
+          "label": "Sprememba ZZdrS-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 49/18  str. 8161",
+          "publishedAt": "2018-07-18",
+          "effectiveFrom": "2018-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2523",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-H",
+          "shortCode": "ZZdrS-H",
+          "label": "Sprememba ZZdrS-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 66/19  str. 7868",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2922",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZZdrS-J",
+          "shortCode": "ZZdrS-J",
+          "label": "Sprememba ZZdrS-J",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 35/24  str. 3045",
+          "publishedAt": "2024-04-26",
+          "effectiveFrom": "2024-04-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1066",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrS-amend-ZAKO9241",
+          "shortCode": "ZZdrS-K",
+          "label": "Sprememba ZZdrS-K",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0463",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortCode": "ZZdrS-A",
+      "kind": "zakon",
+      "keywords": [
+        "zdravnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3227",
+      "gazette": "Uradni list RS 67/2002  str. 7577",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3227",
+      "versions": [
+        {
+          "id": "ZZdrS-A-original",
+          "shortCode": "ZZdrS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7577",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3227",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortCode": "ZZdrS-B",
+      "kind": "zakon",
+      "keywords": [
+        "zdravnik",
+        "delovni čas"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0590",
+      "gazette": "Uradni list RS 15/2003  str. 2111",
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0590",
+      "versions": [
+        {
+          "id": "ZZdrS-B-original",
+          "shortCode": "ZZdrS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/2003  str. 2111",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0590",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortCode": "ZZdrS-C",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača",
+        "plačani dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0066",
+      "gazette": "Uradni list RS 2/04  str. 164",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0066",
+      "versions": [
+        {
+          "id": "ZZdrS-C-original",
+          "shortCode": "ZZdrS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 164",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravniški službi",
+      "shortCode": "ZZdrS-D",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2029",
+      "gazette": "Uradni list RS 47/06  str. 5065",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-09",
+      "validFrom": "2006-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2029",
+      "versions": [
+        {
+          "id": "ZZdrS-D-original",
+          "shortCode": "ZZdrS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/06  str. 5065",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2029",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-G",
+      "title": "Zakon o dopolnitvi Zakona o zdravniški službi",
+      "shortTitle": "Zakon o dopolnitvi Zakona o zdravniški službi",
+      "shortCode": "ZZdrS-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-2523",
+      "gazette": "Uradni list RS 49/18  str. 8161",
+      "issuingBody": null,
+      "adoptedAt": "2018-07-18",
+      "validFrom": "2018-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2523",
+      "versions": [
+        {
+          "id": "ZZdrS-G-original",
+          "shortCode": "ZZdrS-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/18  str. 8161",
+          "publishedAt": "2018-07-18",
+          "effectiveFrom": "2018-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2523",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-H",
+      "title": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o zdravniški službi",
+      "shortCode": "ZZdrS-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2922",
+      "gazette": "Uradni list RS 66/19  str. 7868",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2922",
+      "versions": [
+        {
+          "id": "ZZdrS-H-original",
+          "shortCode": "ZZdrS-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7868",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2922",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrS-J",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o zdravniški službi",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o zdravniški službi",
+      "shortCode": "ZZdrS-J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1066",
+      "gazette": "Uradni list RS 35/24  str. 3045",
+      "issuingBody": null,
+      "adoptedAt": "2024-04-26",
+      "validFrom": "2024-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1066",
+      "versions": [
+        {
+          "id": "ZZdrS-J-original",
+          "shortCode": "ZZdrS-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/24  str. 3045",
+          "publishedAt": "2024-04-26",
+          "effectiveFrom": "2024-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1066",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

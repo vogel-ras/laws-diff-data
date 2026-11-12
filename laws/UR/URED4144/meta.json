@@ -1,0 +1,58 @@
+{
+  "root": "URED4144",
+  "path": "laws/UR/URED4144",
+  "members": [
+    {
+      "id": "URED4144",
+      "title": "Uredba o plačah in drugih prejemkih rezidenčnih projektnih svetovalcev za delo v tujini",
+      "shortTitle": "Uredba o plačah in drugih prejemkih rezidenčnih projektnih svetovalcev za delo v tujini",
+      "shortCode": "URED4144",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3214",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-18",
+      "validFrom": "2006-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3214",
+      "versions": [
+        {
+          "id": "URED4144-original",
+          "shortCode": "URED4144",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-18",
+          "effectiveFrom": "2006-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3214",
+          "proposer": null
+        },
+        {
+          "id": "URED4144-npb-URED4144",
+          "shortCode": "URED4144-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-07-18",
+          "effectiveFrom": "2006-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4144",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

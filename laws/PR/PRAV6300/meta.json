@@ -1,0 +1,97 @@
+{
+  "root": "PRAV6300",
+  "path": "laws/PR/PRAV6300",
+  "members": [
+    {
+      "id": "PRAV6300",
+      "title": "Pravilnik o posebnem delu strokovnega izpita za inšpektorja na posameznih upravnih področjih izvajanja inšpekcijskega nadzora v Prometnem inšpektoratu Republike Slovenije in v Upravi Republike Slovenije za pomorstvo",
+      "shortTitle": "Pravilnik o posebnem delu strokovnega izpita za inšpektorja na posameznih upravnih področjih izvajanja inšpekcijskega nadzora v Prometnem inšpektoratu Republike Slovenije in v Upravi Republike Slovenije za pomorstvo",
+      "shortCode": "PRAV6300",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0527",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-02-24",
+      "validFrom": "2005-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0527",
+      "versions": [
+        {
+          "id": "PRAV6300-original",
+          "shortCode": "PRAV6300",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-24",
+          "effectiveFrom": "2005-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0527",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6300-npb-PRAV6300",
+          "shortCode": "PRAV6300-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-02-24",
+          "effectiveFrom": "2005-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6300",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7580",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o posebnem delu strokovnega izpita za inšpektorja na posameznih upravnih področjih izvajanja inšpekcijskega nadzora v Prometnem inšpektoratu Republike Slovenije in v Upravi Republike Slovenije za pomorstvo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o posebnem delu strokovnega izpita za inšpektorja na posameznih upravnih področjih izvajanja inšpekcijskega nadzora v Prometnem inšpektoratu Republike Slovenije in v Upravi Republike Slovenije za pomorstvo",
+      "shortCode": "PRAV7580",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3464",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2006-07-27",
+      "validFrom": "2006-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3464",
+      "versions": [
+        {
+          "id": "PRAV7580-original",
+          "shortCode": "PRAV7580",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6300"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3464",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

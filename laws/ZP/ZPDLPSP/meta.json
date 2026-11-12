@@ -1,0 +1,111 @@
+{
+  "root": "ZPDLPSP",
+  "path": "laws/ZP/ZPDLPSP",
+  "members": [
+    {
+      "id": "ZPDLPSP",
+      "title": "Zakon o prevzemu dolgov in lastninskem preoblikovanju Splošne plovbe, p.o., Portorož",
+      "shortTitle": "Zakon o prevzemu dolgov in lastninskem preoblikovanju Splošne plovbe, p.o., Portorož",
+      "shortCode": "ZPDLPSP",
+      "kind": "zakon",
+      "keywords": [
+        "pomorski prevoz",
+        "dolg",
+        "trgovsko ladjevje",
+        "terjatev",
+        "družba z omejeno odgovornostjo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0860",
+      "gazette": "Uradni list RS 18/95  str. 1436",
+      "issuingBody": null,
+      "adoptedAt": "1995-03-24",
+      "validFrom": "1995-03-24",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0860",
+      "versions": [
+        {
+          "id": "ZPDLPSP-original",
+          "shortCode": "ZPDLPSP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/95  str. 1436",
+          "publishedAt": "1995-03-24",
+          "effectiveFrom": "1995-03-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0860",
+          "proposer": null
+        },
+        {
+          "id": "ZPDLPSP-amend-ZPDLPSP-A",
+          "shortCode": "ZPDLPSP-A",
+          "label": "Sprememba ZPDLPSP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 69/95  str. 5289",
+          "publishedAt": "1995-12-01",
+          "effectiveFrom": "1995-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDLPSP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3130",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDLPSP-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o prevzemu dolgov in lastninskem preoblikovanju splošne plovbe p.o., Portorož",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o prevzemu dolgov in lastninskem preoblikovanju splošne plovbe p.o., Portorož",
+      "shortCode": "ZPDLPSP-A",
+      "kind": "zakon",
+      "keywords": [
+        "pomorski prevoz",
+        "dolg",
+        "terjatev",
+        "trgovsko ladjevje",
+        "družba z omejeno odgovornostjo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-3130",
+      "gazette": "Uradni list RS 69/95  str. 5289",
+      "issuingBody": null,
+      "adoptedAt": "1995-12-01",
+      "validFrom": "1995-12-01",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3130",
+      "versions": [
+        {
+          "id": "ZPDLPSP-A-original",
+          "shortCode": "ZPDLPSP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/95  str. 5289",
+          "publishedAt": "1995-12-01",
+          "effectiveFrom": "1995-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDLPSP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3130",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

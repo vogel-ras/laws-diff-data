@@ -1,0 +1,82 @@
+{
+  "root": "URED3218",
+  "path": "laws/UR/URED3218",
+  "members": [
+    {
+      "id": "URED3218",
+      "title": "Uredba o javnem financiranju visokošolskih in drugih zavodov od leta 2004 do leta 2010",
+      "shortTitle": "Uredba o javnem financiranju visokošolskih in drugih zavodov od leta 2004 do leta 2010",
+      "shortCode": "URED3218",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-5834",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-10-17",
+      "validFrom": "2008-10-17",
+      "validTo": null,
+      "latestPublishedAt": "2008-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5834",
+      "versions": [
+        {
+          "id": "URED3218-original",
+          "shortCode": "URED3218",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-10-17",
+          "effectiveFrom": "2008-10-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5834",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5508",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o javnem financiranju visokošolskih in drugih zavodov od leta 2004 do leta 2010",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o javnem financiranju visokošolskih in drugih zavodov od leta 2004 do leta 2010",
+      "shortCode": "URED5508",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3342",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3342",
+      "versions": [
+        {
+          "id": "URED5508-original",
+          "shortCode": "URED5508",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3218"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3342",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

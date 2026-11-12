@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9190",
+  "path": "laws/PR/PRAV9190",
+  "members": [
+    {
+      "id": "PRAV9190",
+      "title": "Pravilnik o zaščiti hišnih živali",
+      "shortTitle": "Pravilnik o zaščiti hišnih živali",
+      "shortCode": "PRAV9190",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2571",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2009-07-03",
+      "validFrom": "2009-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2571",
+      "versions": [
+        {
+          "id": "PRAV9190-original",
+          "shortCode": "PRAV9190",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-07-03",
+          "effectiveFrom": "2009-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2571",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9190-npb-PRAV9190",
+          "shortCode": "PRAV9190-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-07-03",
+          "effectiveFrom": "2009-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9190",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

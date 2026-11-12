@@ -1,0 +1,82 @@
+{
+  "root": "URED5223",
+  "path": "laws/UR/URED5223",
+  "members": [
+    {
+      "id": "URED5223",
+      "title": "Uredba o omejitvah in prepovedih zaposlovanja in dela tujcev",
+      "shortTitle": "Uredba o omejitvah in prepovedih zaposlovanja in dela tujcev",
+      "shortCode": "URED5223",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2227",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-06-12",
+      "validFrom": "2009-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2227",
+      "versions": [
+        {
+          "id": "URED5223-original",
+          "shortCode": "URED5223",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-12",
+          "effectiveFrom": "2009-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2227",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5488",
+      "title": "Uredba o spremembi Uredbe o omejitvah in prepovedih zaposlovanja in dela tujcev",
+      "shortTitle": "Uredba o spremembi Uredbe o omejitvah in prepovedih zaposlovanja in dela tujcev",
+      "shortCode": "URED5488",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1611",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-04-23",
+      "validFrom": "2010-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1611",
+      "versions": [
+        {
+          "id": "URED5488-original",
+          "shortCode": "URED5488",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-04-23",
+          "effectiveFrom": "2010-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5223"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1611",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

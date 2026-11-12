@@ -1,0 +1,97 @@
+{
+  "root": "PRAV888",
+  "path": "laws/PR/PRAV888",
+  "members": [
+    {
+      "id": "PRAV2012",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o programu in načinu opravljanja strokovnih izpitov pri Inženirski zbornici Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o programu in načinu opravljanja strokovnih izpitov pri Inženirski zbornici Slovenije",
+      "shortCode": "PRAV2012",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3097",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-08-10",
+      "validFrom": "1999-08-10",
+      "validTo": null,
+      "latestPublishedAt": "1999-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3097",
+      "versions": [
+        {
+          "id": "PRAV2012-original",
+          "shortCode": "PRAV2012",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-08-10",
+          "effectiveFrom": "1999-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV888"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3097",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV888",
+      "title": "Pravilnik o programu in načinu opravljanja strokovnih izpitov pri Inženirski zbornici Slovenije",
+      "shortTitle": "Pravilnik o programu in načinu opravljanja strokovnih izpitov pri Inženirski zbornici Slovenije",
+      "shortCode": "PRAV888",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-1515",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-05-08",
+      "validFrom": "1998-05-08",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1515",
+      "versions": [
+        {
+          "id": "PRAV888-original",
+          "shortCode": "PRAV888",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-05-08",
+          "effectiveFrom": "1998-05-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1515",
+          "proposer": null
+        },
+        {
+          "id": "PRAV888-npb-PRAV888",
+          "shortCode": "PRAV888-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1998-05-08",
+          "effectiveFrom": "1998-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV888",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

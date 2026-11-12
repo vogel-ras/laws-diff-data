@@ -1,0 +1,58 @@
+{
+  "root": "URED1200",
+  "path": "laws/UR/URED1200",
+  "members": [
+    {
+      "id": "URED1200",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz naprav za hlajenje ter naprav za proizvodnjo pare in vroče vode",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz naprav za hlajenje ter naprav za proizvodnjo pare in vroče vode",
+      "shortCode": "URED1200",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1270",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-30",
+      "validFrom": "2000-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1270",
+      "versions": [
+        {
+          "id": "URED1200-original",
+          "shortCode": "URED1200",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1270",
+          "proposer": null
+        },
+        {
+          "id": "URED1200-npb-URED1200",
+          "shortCode": "URED1200-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1200",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

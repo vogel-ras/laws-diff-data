@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12098",
+  "path": "laws/PR/PRAV12098",
+  "members": [
+    {
+      "id": "PRAV12098",
+      "title": "Pravilnik o načinu izvajanja nalog podpore za spletno plačevanje storitev proračunskih uporabnikov prek sistema spletnih plačil, ki ga upravlja Uprava Republike Slovenije za javna plačila",
+      "shortTitle": "Pravilnik o načinu izvajanja nalog podpore za spletno plačevanje storitev proračunskih uporabnikov prek sistema spletnih plačil, ki ga upravlja Uprava Republike Slovenije za javna plačila",
+      "shortCode": "PRAV12098",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-0977",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2014-04-11",
+      "validFrom": "2014-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0977",
+      "versions": [
+        {
+          "id": "PRAV12098-original",
+          "shortCode": "PRAV12098",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0977",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12098-npb-PRAV12098",
+          "shortCode": "PRAV12098-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12098",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12277",
+      "title": "Pravilnik o spremembah Pravilnika o načinu izvajanja nalog podpore za spletno plačevanje storitev proračunskih uporabnikov prek sistema spletnih plačil, ki ga upravlja Uprava Republike Slovenije za javna plačila",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o načinu izvajanja nalog podpore za spletno plačevanje storitev proračunskih uporabnikov prek sistema spletnih plačil, ki ga upravlja Uprava Republike Slovenije za javna plačila",
+      "shortCode": "PRAV12277",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3700",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-12-19",
+      "validFrom": "2014-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3700",
+      "versions": [
+        {
+          "id": "PRAV12277-original",
+          "shortCode": "PRAV12277",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-19",
+          "effectiveFrom": "2014-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12098"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3700",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

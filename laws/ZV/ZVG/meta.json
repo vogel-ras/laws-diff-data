@@ -1,0 +1,163 @@
+{
+  "root": "ZVG",
+  "path": "laws/ZV/ZVG",
+  "members": [
+    {
+      "id": "ZAKO7663",
+      "title": "Zakon o spremembi Zakona o vojnih grobiščih (ZVG-B)",
+      "shortTitle": "Zakon o spremembi Zakona o vojnih grobiščih (ZVG-B)",
+      "shortCode": "ZVG-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1754",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-28",
+      "validFrom": "2017-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1754",
+      "versions": [
+        {
+          "id": "ZAKO7663-original",
+          "shortCode": "ZVG-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-28",
+          "effectiveFrom": "2017-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1754",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVG",
+      "title": "Zakon o vojnih grobiščih",
+      "shortTitle": "Zakon o vojnih grobiščih",
+      "shortCode": "ZVG",
+      "kind": "zakon",
+      "keywords": [
+        "pokopališče",
+        "vojna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3144",
+      "gazette": "Uradni list RS 65/2003  str. 10070",
+      "issuingBody": null,
+      "adoptedAt": "2003-07-04",
+      "validFrom": "2003-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3144",
+      "versions": [
+        {
+          "id": "ZVG-original",
+          "shortCode": "ZVG",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/2003  str. 10070",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3144",
+          "proposer": null
+        },
+        {
+          "id": "ZVG-amend-ZVG-A",
+          "shortCode": "ZVG-A",
+          "label": "Sprememba ZVG-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 72/09  str. 9653",
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3183",
+          "proposer": null
+        },
+        {
+          "id": "ZVG-amend-ZAKO7663",
+          "shortCode": "ZVG-B",
+          "label": "Sprememba ZVG-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-06-28",
+          "effectiveFrom": "2017-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1754",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVG-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vojnih grobiščih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vojnih grobiščih",
+      "shortCode": "ZVG-A",
+      "kind": "zakon",
+      "keywords": [
+        "civilna žrtev",
+        "vojna",
+        "vojni zločin",
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3183",
+      "gazette": "Uradni list RS 72/09  str. 9653",
+      "issuingBody": null,
+      "adoptedAt": "2009-09-18",
+      "validFrom": "2009-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3183",
+      "versions": [
+        {
+          "id": "ZVG-A-original",
+          "shortCode": "ZVG-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/09  str. 9653",
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3183",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

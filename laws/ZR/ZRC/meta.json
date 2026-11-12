@@ -1,0 +1,103 @@
+{
+  "root": "ZRC",
+  "path": "laws/ZR/ZRC",
+  "members": [
+    {
+      "id": "ZRC",
+      "title": "Zakon o računanju časa",
+      "shortTitle": "Zakon o računanju časa",
+      "shortCode": "ZRC",
+      "kind": "zakon",
+      "keywords": [
+        "poletni čas"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0583",
+      "gazette": "Uradni list RS 13/93  str. 557",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0583",
+      "versions": [
+        {
+          "id": "ZRC-original",
+          "shortCode": "ZRC",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 557",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0583",
+          "proposer": null
+        },
+        {
+          "id": "ZRC-amend-ZRC-A",
+          "shortCode": "ZRC-A",
+          "label": "Sprememba ZRC-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0378",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRC-A",
+      "title": "Zakon o spremembah zakona o računanju časa",
+      "shortTitle": "Zakon o spremembah zakona o računanju časa",
+      "shortCode": "ZRC-A",
+      "kind": "zakon",
+      "keywords": [
+        "poletni čas"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0378",
+      "gazette": "Uradni list RS 8/96  str. 617",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0378",
+      "versions": [
+        {
+          "id": "ZRC-A-original",
+          "shortCode": "ZRC-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0378",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

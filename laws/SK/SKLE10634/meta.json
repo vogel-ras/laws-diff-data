@@ -1,0 +1,82 @@
+{
+  "root": "SKLE10634",
+  "path": "laws/SK/SKLE10634",
+  "members": [
+    {
+      "id": "SKLE10634",
+      "title": "Sklep o podrobnejših navodilih za vrednotenje zavarovalno-tehničnih rezervacij",
+      "shortTitle": "Sklep o podrobnejših navodilih za vrednotenje zavarovalno-tehničnih rezervacij",
+      "shortCode": "SKLE10634",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2016-01-0173",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-01-22",
+      "validFrom": "2016-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2016-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0173",
+      "versions": [
+        {
+          "id": "SKLE10634-original",
+          "shortCode": "SKLE10634",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-01-22",
+          "effectiveFrom": "2016-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0173",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12749",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejših navodilih za vrednotenje zavarovalno-tehničnih rezervacij",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejših navodilih za vrednotenje zavarovalno-tehničnih rezervacij",
+      "shortCode": "SKLE12749",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-1565",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2022-05-13",
+      "validFrom": "2022-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2022-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1565",
+      "versions": [
+        {
+          "id": "SKLE12749-original",
+          "shortCode": "SKLE12749",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-05-13",
+          "effectiveFrom": "2022-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1565",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

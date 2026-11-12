@@ -1,0 +1,121 @@
+{
+  "root": "NAVO124",
+  "path": "laws/NA/NAVO124",
+  "members": [
+    {
+      "id": "NAVO124",
+      "title": "Navodilo za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortTitle": "Navodilo za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortCode": "NAVO124",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-2402",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2402",
+      "versions": [
+        {
+          "id": "NAVO124-original",
+          "shortCode": "NAVO124",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE1169",
+      "title": "Sklep o spremembah in dopolnitvah navodila za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortTitle": "Sklep o spremembah in dopolnitvah navodila za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortCode": "SKLE1169",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-3521",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "1999-08-27",
+      "validFrom": "1999-08-27",
+      "validTo": null,
+      "latestPublishedAt": "1999-08-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3521",
+      "versions": [
+        {
+          "id": "SKLE1169-original",
+          "shortCode": "SKLE1169",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-08-27",
+          "effectiveFrom": "1999-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3521",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE476",
+      "title": "Sklep o spremembi navodila za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortTitle": "Sklep o spremembi navodila za izvajanje sklepa o pogojih in načinu opravljanja plačilnega prometa s tujino",
+      "shortCode": "SKLE476",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-4929",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-12-17",
+      "validFrom": "1999-12-17",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4929",
+      "versions": [
+        {
+          "id": "SKLE476-original",
+          "shortCode": "SKLE476",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-12-17",
+          "effectiveFrom": "1999-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4929",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

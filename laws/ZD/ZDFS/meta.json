@@ -1,0 +1,105 @@
+{
+  "root": "ZDFS",
+  "path": "laws/ZD/ZDFS",
+  "members": [
+    {
+      "id": "ZDFS",
+      "title": "Zakon o davku na finančne storitve",
+      "shortTitle": "Zakon o davku na finančne storitve",
+      "shortCode": "ZDFS",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "finančne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3642",
+      "gazette": "Uradni list RS 94/12  str. 9561",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-10",
+      "validFrom": "2012-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3642",
+      "versions": [
+        {
+          "id": "ZDFS-original",
+          "shortCode": "ZDFS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 94/12  str. 9561",
+          "publishedAt": "2012-12-10",
+          "effectiveFrom": "2012-12-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3642",
+          "proposer": null
+        },
+        {
+          "id": "ZDFS-amend-ZDFS-A",
+          "shortCode": "ZDFS-A",
+          "label": "Sprememba ZDFS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 90/14  str. 10185",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3649",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDFS-A",
+      "title": "Zakon o spremembah Zakona o davku na finančne storitve",
+      "shortTitle": "Zakon o spremembah Zakona o davku na finančne storitve",
+      "shortCode": "ZDFS-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "finančne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3649",
+      "gazette": "Uradni list RS 90/14  str. 10185",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-15",
+      "validFrom": "2014-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3649",
+      "versions": [
+        {
+          "id": "ZDFS-A-original",
+          "shortCode": "ZDFS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/14  str. 10185",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3649",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

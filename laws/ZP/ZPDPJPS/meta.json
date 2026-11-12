@@ -1,0 +1,168 @@
+{
+  "root": "ZPDPJPS",
+  "path": "laws/ZP/ZPDPJPS",
+  "members": [
+    {
+      "id": "ZPDPJPS",
+      "title": "Zakon o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortTitle": "Zakon o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortCode": "ZPDPJPS",
+      "kind": "zakon",
+      "keywords": [
+        "javno podjetje",
+        "pravna oseba",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0494",
+      "gazette": "Uradni list RS 12/93  str. 497",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-05",
+      "validFrom": "1993-03-05",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0494",
+      "versions": [
+        {
+          "id": "ZPDPJPS-original",
+          "shortCode": "ZPDPJPS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/93  str. 497",
+          "publishedAt": "1993-03-05",
+          "effectiveFrom": "1993-03-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0494",
+          "proposer": null
+        },
+        {
+          "id": "ZPDPJPS-amend-ZPDPJPS-A",
+          "shortCode": "ZPDPJPS-A",
+          "label": "Sprememba ZPDPJPS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 32/95  str. 2237",
+          "publishedAt": "1995-06-09",
+          "effectiveFrom": "1995-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDPJPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1537",
+          "proposer": null
+        },
+        {
+          "id": "ZPDPJPS-amend-ZPDPJPS-B",
+          "shortCode": "ZPDPJPS-B",
+          "label": "Sprememba ZPDPJPS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 10/98  str. 664",
+          "publishedAt": "1998-02-12",
+          "effectiveFrom": "1998-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDPJPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0438",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDPJPS-A",
+      "title": "Zakon o spremembi zakona o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortTitle": "Zakon o spremembi zakona o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortCode": "ZPDPJPS-A",
+      "kind": "zakon",
+      "keywords": [
+        "javno podjetje",
+        "pravna oseba",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1537",
+      "gazette": "Uradni list RS 32/95  str. 2237",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-09",
+      "validFrom": "1995-06-09",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1537",
+      "versions": [
+        {
+          "id": "ZPDPJPS-A-original",
+          "shortCode": "ZPDPJPS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/95  str. 2237",
+          "publishedAt": "1995-06-09",
+          "effectiveFrom": "1995-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDPJPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1537",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDPJPS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poravnavanju davkov in prispevkov javnega podjetja Slovenske železnice Ljubljana",
+      "shortCode": "ZPDPJPS-B",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "dolg",
+        "železniško omrežje",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0438",
+      "gazette": "Uradni list RS 10/98  str. 664",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-12",
+      "validFrom": "1998-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0438",
+      "versions": [
+        {
+          "id": "ZPDPJPS-B-original",
+          "shortCode": "ZPDPJPS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/98  str. 664",
+          "publishedAt": "1998-02-12",
+          "effectiveFrom": "1998-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDPJPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0438",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

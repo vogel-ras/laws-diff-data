@@ -1,0 +1,58 @@
+{
+  "root": "URED5489",
+  "path": "laws/UR/URED5489",
+  "members": [
+    {
+      "id": "URED5489",
+      "title": "Uredba o državnem prostorskem načrtu za priključek Brezovica na avtocestnem odseku Ljubljana–Vrhnika",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za priključek Brezovica na avtocestnem odseku Ljubljana–Vrhnika",
+      "shortCode": "URED5489",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5228",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-11-14",
+      "validFrom": "2025-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5228",
+      "versions": [
+        {
+          "id": "URED5489-original",
+          "shortCode": "URED5489",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-14",
+          "effectiveFrom": "2025-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5228",
+          "proposer": null
+        },
+        {
+          "id": "URED5489-npb-URED5489",
+          "shortCode": "URED5489-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5489",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "ODRE1048",
+  "path": "laws/OD/ODRE1048",
+  "members": [
+    {
+      "id": "ODRE1048",
+      "title": "Odredba o prepovedi uvoza in prevoza pošiljk domačih in divjih prašičev ter izdelkov in surovin, ki izvirajo od domačih in divjih prašičev iz nekaterih krajev v Republiki Italiji",
+      "shortTitle": "Odredba o prepovedi uvoza in prevoza pošiljk domačih in divjih prašičev ter izdelkov in surovin, ki izvirajo od domačih in divjih prašičev iz nekaterih krajev v Republiki Italiji",
+      "shortCode": "ODRE1048",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1864",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1864",
+      "versions": [
+        {
+          "id": "ODRE1048-original",
+          "shortCode": "ODRE1048",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1864",
+          "proposer": null
+        },
+        {
+          "id": "ODRE1048-npb-ODRE1048",
+          "shortCode": "ODRE1048-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE1048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1049",
+      "title": "Odredba o spremembi odredbe o prepovedi uvoza in prevoza pošiljk domačih in divjih prašičev ter izdelkov in surovin, ki izvirajo od domačih in divjih prašičev iz nekaterih krajev v Republiki Italiji",
+      "shortTitle": "Odredba o spremembi odredbe o prepovedi uvoza in prevoza pošiljk domačih in divjih prašičev ter izdelkov in surovin, ki izvirajo od domačih in divjih prašičev iz nekaterih krajev v Republiki Italiji",
+      "shortCode": "ODRE1049",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1959",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-09-02",
+      "validFrom": "1994-09-02",
+      "validTo": null,
+      "latestPublishedAt": "1994-09-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1959",
+      "versions": [
+        {
+          "id": "ODRE1049-original",
+          "shortCode": "ODRE1049",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-09-02",
+          "effectiveFrom": "1994-09-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1048"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1959",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

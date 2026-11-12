@@ -1,0 +1,155 @@
+{
+  "root": "ZUVRAS",
+  "path": "laws/ZU/ZUVRAS",
+  "members": [
+    {
+      "id": "ZAKO7747",
+      "title": "Zakon o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške (ZUVRAS)",
+      "shortTitle": "Zakon o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške (ZUVRAS)",
+      "shortCode": "ZUVRAS",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3264",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-30",
+      "validFrom": "2024-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3264",
+      "versions": [
+        {
+          "id": "ZAKO7747-amend-ZUVRAS-A",
+          "shortCode": "ZUVRAS-A",
+          "label": "Sprememba ZUVRAS-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6986",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7747"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2614",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7747-amend-ZUVRAS-C",
+          "shortCode": "ZUVRAS-C",
+          "label": "Sprememba ZUVRAS-C",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 62/24  str. 6324",
+          "publishedAt": "2024-07-24",
+          "effectiveFrom": "2024-07-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7747"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2127",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7747-original",
+          "shortCode": "ZUVRAS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2024-07-30",
+          "effectiveFrom": "2024-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3264",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUVRAS-A",
+      "title": "Zakon o spremembah Zakona o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške",
+      "shortTitle": "Zakon o spremembah Zakona o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške",
+      "shortCode": "ZUVRAS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2614",
+      "gazette": "Uradni list RS 59/19  str. 6986",
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2614",
+      "versions": [
+        {
+          "id": "ZUVRAS-A-original",
+          "shortCode": "ZUVRAS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6986",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7747"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2614",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUVRAS-C",
+      "title": "Zakon o spremembah Zakona o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške",
+      "shortTitle": "Zakon o spremembah Zakona o ureditvi določenih vprašanj zaradi končne razsodbe arbitražnega sodišča na podlagi Arbitražnega sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške",
+      "shortCode": "ZUVRAS-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2127",
+      "gazette": "Uradni list RS 62/24  str. 6324",
+      "issuingBody": null,
+      "adoptedAt": "2024-07-24",
+      "validFrom": "2024-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2127",
+      "versions": [
+        {
+          "id": "ZUVRAS-C-original",
+          "shortCode": "ZUVRAS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 62/24  str. 6324",
+          "publishedAt": "2024-07-24",
+          "effectiveFrom": "2024-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7747"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2127",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

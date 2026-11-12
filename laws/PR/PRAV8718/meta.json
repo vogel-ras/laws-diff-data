@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8718",
+  "path": "laws/PR/PRAV8718",
+  "members": [
+    {
+      "id": "PRAV11370",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izobraževanju in usposabljanju na področju varstva pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izobraževanju in usposabljanju na področju varstva pred naravnimi in drugimi nesrečami",
+      "shortCode": "PRAV11370",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-1880",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-06-15",
+      "validFrom": "2012-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1880",
+      "versions": [
+        {
+          "id": "PRAV11370-original",
+          "shortCode": "PRAV11370",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-15",
+          "effectiveFrom": "2012-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8718"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1880",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8718",
+      "title": "Pravilnik o izobraževanju in usposabljanju na področju varstva pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Pravilnik o izobraževanju in usposabljanju na področju varstva pred naravnimi in drugimi nesrečami",
+      "shortCode": "PRAV8718",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-4457",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2009-12-11",
+      "validFrom": "2009-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4457",
+      "versions": [
+        {
+          "id": "PRAV8718-original",
+          "shortCode": "PRAV8718",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-11",
+          "effectiveFrom": "2009-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4457",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8718-npb-PRAV8718",
+          "shortCode": "PRAV8718-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-12-11",
+          "effectiveFrom": "2009-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8718",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

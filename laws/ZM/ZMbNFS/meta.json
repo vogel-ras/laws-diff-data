@@ -1,0 +1,102 @@
+{
+  "root": "ZMbNFS",
+  "path": "laws/ZM/ZMbNFS",
+  "members": [
+    {
+      "id": "ZMbNFS",
+      "title": "Zakon o makrobonitetnem nadzoru finančnega sistema",
+      "shortTitle": "Zakon o makrobonitetnem nadzoru finančnega sistema",
+      "shortCode": "ZMbNFS",
+      "kind": "zakon",
+      "keywords": [
+        "finančna politika",
+        "nadzor bančnega poslovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3597",
+      "gazette": "Uradni list RS 100/13  str. 10935",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-06",
+      "validFrom": "2013-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3597",
+      "versions": [
+        {
+          "id": "ZMbNFS-original",
+          "shortCode": "ZMbNFS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/13  str. 10935",
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3597",
+          "proposer": null
+        },
+        {
+          "id": "ZMbNFS-amend-ZMbNFS-A",
+          "shortCode": "ZMbNFS-A",
+          "label": "Sprememba ZMbNFS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/23  str. 3620",
+          "publishedAt": "2023-04-07",
+          "effectiveFrom": "2023-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMbNFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1143",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMbNFS-A",
+      "title": "Zakon o dopolnitvi Zakona o makrobonitetnem nadzoru finančnega sistema",
+      "shortTitle": "Zakon o dopolnitvi Zakona o makrobonitetnem nadzoru finančnega sistema",
+      "shortCode": "ZMbNFS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1143",
+      "gazette": "Uradni list RS 42/23  str. 3620",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-07",
+      "validFrom": "2023-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1143",
+      "versions": [
+        {
+          "id": "ZMbNFS-A-original",
+          "shortCode": "ZMbNFS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/23  str. 3620",
+          "publishedAt": "2023-04-07",
+          "effectiveFrom": "2023-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMbNFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1143",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

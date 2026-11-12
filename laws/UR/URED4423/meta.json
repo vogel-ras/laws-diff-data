@@ -1,0 +1,82 @@
+{
+  "root": "URED4423",
+  "path": "laws/UR/URED4423",
+  "members": [
+    {
+      "id": "URED4423",
+      "title": "Uredba o izvajanju postopkov pri porabi sredstev evropskega teritorialnega sodelovanja in instrumenta za predpristopno pomoč v Republiki Sloveniji v programskem obdobju 2007-2013",
+      "shortTitle": "Uredba o izvajanju postopkov pri porabi sredstev evropskega teritorialnega sodelovanja in instrumenta za predpristopno pomoč v Republiki Sloveniji v programskem obdobju 2007-2013",
+      "shortCode": "URED4423",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5472",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-03",
+      "validFrom": "2007-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5472",
+      "versions": [
+        {
+          "id": "URED4423-original",
+          "shortCode": "URED4423",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-03",
+          "effectiveFrom": "2007-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5472",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6821",
+      "title": "Uredba o spremembah Uredbe o izvajanju postopkov pri porabi sredstev evropskega teritorialnega sodelovanja in instrumenta za predpristopno pomoč v Republiki Sloveniji v programskem obdobju 2007–2013",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju postopkov pri porabi sredstev evropskega teritorialnega sodelovanja in instrumenta za predpristopno pomoč v Republiki Sloveniji v programskem obdobju 2007–2013",
+      "shortCode": "URED6821",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2434",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-07-18",
+      "validFrom": "2014-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2434",
+      "versions": [
+        {
+          "id": "URED6821-original",
+          "shortCode": "URED6821",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-18",
+          "effectiveFrom": "2014-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4423"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2434",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

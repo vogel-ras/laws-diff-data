@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6367",
+  "path": "laws/PR/PRAV6367",
+  "members": [
+    {
+      "id": "PRAV6367",
+      "title": "Pravilnik o usposabljanju in financiranju mladih raziskovalcev v gospodarstvu",
+      "shortTitle": "Pravilnik o usposabljanju in financiranju mladih raziskovalcev v gospodarstvu",
+      "shortCode": "PRAV6367",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0362",
+      "gazette": null,
+      "issuingBody": "Javna agencija za raziskovalno dejavnost Republike Slovenije",
+      "adoptedAt": "2005-02-10",
+      "validFrom": "2005-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0362",
+      "versions": [
+        {
+          "id": "PRAV6367-original",
+          "shortCode": "PRAV6367",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-10",
+          "effectiveFrom": "2005-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0362",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6942",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o usposabljanju in financiranju mladih raziskovalcev v gospodarstvu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o usposabljanju in financiranju mladih raziskovalcev v gospodarstvu",
+      "shortCode": "PRAV6942",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1981",
+      "gazette": null,
+      "issuingBody": "Javna agencija za raziskovalno dejavnost Republike Slovenije",
+      "adoptedAt": "2005-05-18",
+      "validFrom": "2005-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1981",
+      "versions": [
+        {
+          "id": "PRAV6942-original",
+          "shortCode": "PRAV6942",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-18",
+          "effectiveFrom": "2005-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6367"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1981",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

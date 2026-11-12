@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO42227",
+  "path": "ordinances/MP/MP_ODLO42227",
+  "members": [
+    {
+      "id": "MP_ODLO42227",
+      "title": "Odlok o programu opremljanja stavbnih zemljišč za območje OPPN Park sonce (ODLO)",
+      "shortTitle": "Odlok o programu opremljanja stavbnih zemljišč za območje OPPN Park sonce (ODLO)",
+      "shortCode": "MP_ODLO42227",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2018-01-0671",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0671",
+      "versions": [
+        {
+          "id": "MP_ODLO42227-original",
+          "shortCode": "MP_ODLO42227",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0671",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO46730",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o programu opremljanja stavbnih zemljišč za območje OPPN Park Sonce (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o programu opremljanja stavbnih zemljišč za območje OPPN Park Sonce (ODLO)",
+      "shortCode": "MP_ODLO46730",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Piran",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2022-01-1219",
+      "gazette": null,
+      "issuingBody": "Občina Piran",
+      "adoptedAt": "2022-04-22",
+      "validFrom": "2022-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1219",
+      "versions": [
+        {
+          "id": "MP_ODLO46730-original",
+          "shortCode": "MP_ODLO46730",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-22",
+          "effectiveFrom": "2022-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO42227"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1219",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

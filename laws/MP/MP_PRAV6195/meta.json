@@ -1,0 +1,121 @@
+{
+  "root": "MP_PRAV6195",
+  "path": "laws/MP/MP_PRAV6195",
+  "members": [
+    {
+      "id": "MP_PRAV6195",
+      "title": "Pravilnik o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortTitle": "Pravilnik o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortCode": "MP_PRAV6195",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2017-01-3810",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3810",
+      "versions": [
+        {
+          "id": "MP_PRAV6195-original",
+          "shortCode": "MP_PRAV6195",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3810",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV6433",
+      "title": "Pravilnik o spremembi Pravilnika o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortCode": "MP_PRAV6433",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Pivka",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2019-01-1773",
+      "gazette": null,
+      "issuingBody": "Občina Pivka",
+      "adoptedAt": "2019-06-14",
+      "validFrom": "2019-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1773",
+      "versions": [
+        {
+          "id": "MP_PRAV6433-original",
+          "shortCode": "MP_PRAV6433",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-06-14",
+          "effectiveFrom": "2019-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6195"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1773",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV6972",
+      "title": "Pravilnik o spremembi Pravilnika o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o sofinanciranju ravnanja z azbestnimi odpadki v Občini Pivka (PRAV)",
+      "shortCode": "MP_PRAV6972",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Pivka",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2022-01-2835",
+      "gazette": null,
+      "issuingBody": "Občina Pivka",
+      "adoptedAt": "2022-09-16",
+      "validFrom": "2022-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2835",
+      "versions": [
+        {
+          "id": "MP_PRAV6972-original",
+          "shortCode": "MP_PRAV6972",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-16",
+          "effectiveFrom": "2022-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6195"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2835",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

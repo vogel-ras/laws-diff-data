@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5216",
+  "path": "laws/PR/PRAV5216",
+  "members": [
+    {
+      "id": "PRAV5216",
+      "title": "Pravilnik o higienskih zahtevah za ladijski prevoz posameznih živil po morju",
+      "shortTitle": "Pravilnik o higienskih zahtevah za ladijski prevoz posameznih živil po morju",
+      "shortCode": "PRAV5216",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4031",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-06-11",
+      "validFrom": "2004-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4031",
+      "versions": [
+        {
+          "id": "PRAV5216-original",
+          "shortCode": "PRAV5216",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-11",
+          "effectiveFrom": "2004-06-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4031",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5216-npb-PRAV5216",
+          "shortCode": "PRAV5216-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-01",
+          "effectiveFrom": "2003-09-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5216",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5912",
+      "title": "Pravilnik o spremembah pravilnika o higienskih zahtevah za ladijski prevoz posameznih živil po morju",
+      "shortTitle": "Pravilnik o spremembah pravilnika o higienskih zahtevah za ladijski prevoz posameznih živil po morju",
+      "shortCode": "PRAV5912",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2914",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-06-11",
+      "validFrom": "2004-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2914",
+      "versions": [
+        {
+          "id": "PRAV5912-original",
+          "shortCode": "PRAV5912",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-11",
+          "effectiveFrom": "2004-06-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5216"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2914",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

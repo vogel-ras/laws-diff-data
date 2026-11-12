@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14813",
+  "path": "laws/PR/PRAV14813",
+  "members": [
+    {
+      "id": "PRAV14813",
+      "title": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2022",
+      "shortTitle": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2022",
+      "shortCode": "PRAV14813",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-3124",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2022-10-14",
+      "validFrom": "2022-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3124",
+      "versions": [
+        {
+          "id": "PRAV14813-original",
+          "shortCode": "PRAV14813",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3124",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14813-npb-PRAV14813",
+          "shortCode": "PRAV14813-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14813",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14872",
+      "title": "Pravilnik o spremembah Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2022",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2022",
+      "shortCode": "PRAV14872",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-3731",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2022-11-30",
+      "validFrom": "2022-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3731",
+      "versions": [
+        {
+          "id": "PRAV14872-original",
+          "shortCode": "PRAV14872",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-11-30",
+          "effectiveFrom": "2022-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14813"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3731",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

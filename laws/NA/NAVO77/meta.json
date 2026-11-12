@@ -1,0 +1,82 @@
+{
+  "root": "NAVO77",
+  "path": "laws/NA/NAVO77",
+  "members": [
+    {
+      "id": "NAVO137",
+      "title": "Navodilo o spremembah navodila o sprejemanju in izdajanju slovenskih standardov",
+      "shortTitle": "Navodilo o spremembah navodila o sprejemanju in izdajanju slovenskih standardov",
+      "shortCode": "NAVO137",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-2739",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-07-20",
+      "validFrom": "1999-07-20",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2739",
+      "versions": [
+        {
+          "id": "NAVO137-original",
+          "shortCode": "NAVO137",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-20",
+          "effectiveFrom": "1999-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO77"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2739",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO77",
+      "title": "Navodilo o sprejemanju in izdajanju slovenskih standardov",
+      "shortTitle": "Navodilo o sprejemanju in izdajanju slovenskih standardov",
+      "shortCode": "NAVO77",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-1541",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-06-09",
+      "validFrom": "1995-06-09",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1541",
+      "versions": [
+        {
+          "id": "NAVO77-original",
+          "shortCode": "NAVO77",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-06-09",
+          "effectiveFrom": "1995-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1541",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

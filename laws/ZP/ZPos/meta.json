@@ -1,0 +1,395 @@
+{
+  "root": "ZPos",
+  "path": "laws/ZP/ZPos",
+  "members": [
+    {
+      "id": "ZAKO9381",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poslancih (ZPos-H)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poslancih (ZPos-H)",
+      "shortCode": "ZPos-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0352",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-11",
+      "validFrom": "2026-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0352",
+      "versions": [
+        {
+          "id": "ZAKO9381-original",
+          "shortCode": "ZPos-H",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0352",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos",
+      "title": "Zakon o poslancih",
+      "shortTitle": "Zakon o poslancih",
+      "shortCode": "ZPos",
+      "kind": "zakon",
+      "keywords": [
+        "poslanski status",
+        "parlamentarec",
+        "poslanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2228",
+      "gazette": "Uradni list RS 48/92  str. 2830",
+      "issuingBody": null,
+      "adoptedAt": "1992-10-03",
+      "validFrom": "1992-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2228",
+      "versions": [
+        {
+          "id": "ZPos-original",
+          "shortCode": "ZPos",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/92  str. 2830",
+          "publishedAt": "1992-10-03",
+          "effectiveFrom": "1992-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2228",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZPos-A",
+          "shortCode": "ZPos-A",
+          "label": "Sprememba ZPos-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 123/04  str. 14815",
+          "publishedAt": "2004-11-18",
+          "effectiveFrom": "2004-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5122",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZPos-B",
+          "shortCode": "ZPos-B",
+          "label": "Sprememba ZPos-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 90/05  str. 9233",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3849",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZPos-C",
+          "shortCode": "ZPos-C",
+          "label": "Sprememba ZPos-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 109/08  str. 14355",
+          "publishedAt": "2008-11-19",
+          "effectiveFrom": "2008-11-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4695",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZPos-E",
+          "shortCode": "ZPos-E",
+          "label": "Sprememba ZPos-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 48/12  str. 4910",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2015",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZPos-G",
+          "shortCode": "ZPos-G",
+          "label": "Sprememba ZPos-G",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 95/24  str. 9141",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2868",
+          "proposer": null
+        },
+        {
+          "id": "ZPos-amend-ZAKO9381",
+          "shortCode": "ZPos-H",
+          "label": "Sprememba ZPos-H",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0352",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos-A",
+      "title": "Zakon o dopolnitvi zakona o poslancih",
+      "shortTitle": "Zakon o dopolnitvi zakona o poslancih",
+      "shortCode": "ZPos-A",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarec",
+        "poslanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-5122",
+      "gazette": "Uradni list RS 123/04  str. 14815",
+      "issuingBody": null,
+      "adoptedAt": "2004-11-18",
+      "validFrom": "2004-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5122",
+      "versions": [
+        {
+          "id": "ZPos-A-original",
+          "shortCode": "ZPos-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 123/04  str. 14815",
+          "publishedAt": "2004-11-18",
+          "effectiveFrom": "2004-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5122",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos-B",
+      "title": "Zakon o spremembah zakona o poslancih",
+      "shortTitle": "Zakon o spremembah zakona o poslancih",
+      "shortCode": "ZPos-B",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarec",
+        "poslanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3849",
+      "gazette": "Uradni list RS 90/05  str. 9233",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-10",
+      "validFrom": "2005-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3849",
+      "versions": [
+        {
+          "id": "ZPos-B-original",
+          "shortCode": "ZPos-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/05  str. 9233",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3849",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos-C",
+      "title": "Zakon o spremembi zakona o poslancih",
+      "shortTitle": "Zakon o spremembi zakona o poslancih",
+      "shortCode": "ZPos-C",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarec",
+        "poslanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-4695",
+      "gazette": "Uradni list RS 109/08  str. 14355",
+      "issuingBody": null,
+      "adoptedAt": "2008-11-19",
+      "validFrom": "2008-11-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4695",
+      "versions": [
+        {
+          "id": "ZPos-C-original",
+          "shortCode": "ZPos-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/08  str. 14355",
+          "publishedAt": "2008-11-19",
+          "effectiveFrom": "2008-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4695",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poslancih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poslancih",
+      "shortCode": "ZPos-E",
+      "kind": "zakon",
+      "keywords": [
+        "poslanec",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2015",
+      "gazette": "Uradni list RS 48/12  str. 4910",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-26",
+      "validFrom": "2012-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2015",
+      "versions": [
+        {
+          "id": "ZPos-E-original",
+          "shortCode": "ZPos-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/12  str. 4910",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPos-G",
+      "title": "Zakon o dopolnitvi Zakona o poslancih",
+      "shortTitle": "Zakon o dopolnitvi Zakona o poslancih",
+      "shortCode": "ZPos-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2868",
+      "gazette": "Uradni list RS 95/24  str. 9141",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2868",
+      "versions": [
+        {
+          "id": "ZPos-G-original",
+          "shortCode": "ZPos-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9141",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2868",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

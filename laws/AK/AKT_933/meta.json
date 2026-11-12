@@ -1,0 +1,82 @@
+{
+  "root": "AKT_933",
+  "path": "laws/AK/AKT_933",
+  "members": [
+    {
+      "id": "AKT_933",
+      "title": "Akt o identifikaciji entitet v elektronski izmenjavi podatkov med udeleženci na trgu z električno energijo in zemeljskim plinom",
+      "shortTitle": "Akt o identifikaciji entitet v elektronski izmenjavi podatkov med udeleženci na trgu z električno energijo in zemeljskim plinom",
+      "shortCode": "AKT_933",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2015-01-1620",
+      "gazette": null,
+      "issuingBody": "Agencija za energijo",
+      "adoptedAt": "2015-06-05",
+      "validFrom": "2015-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1620",
+      "versions": [
+        {
+          "id": "AKT_933-original",
+          "shortCode": "AKT_933",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-05",
+          "effectiveFrom": "2015-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1620",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "AKT_986",
+      "title": "Akt o spremembah in dopolnitvah Akta o identifikaciji entitet v elektronski izmenjavi podatkov med udeleženci na trgu z električno energijo in zemeljskim plinom",
+      "shortTitle": "Akt o spremembah in dopolnitvah Akta o identifikaciji entitet v elektronski izmenjavi podatkov med udeleženci na trgu z električno energijo in zemeljskim plinom",
+      "shortCode": "AKT_986",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2016-01-1551",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-05-20",
+      "validFrom": "2016-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1551",
+      "versions": [
+        {
+          "id": "AKT_986-original",
+          "shortCode": "AKT_986",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-05-20",
+          "effectiveFrom": "2016-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_933"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1551",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

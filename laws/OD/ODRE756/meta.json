@@ -1,0 +1,97 @@
+{
+  "root": "ODRE756",
+  "path": "laws/OD/ODRE756",
+  "members": [
+    {
+      "id": "ODRE756",
+      "title": "Odredba o določitvi in uporabi klicnih znakov v okviru 3. svetovnega prvenstva radioamaterjev WRTC - 2000",
+      "shortTitle": "Odredba o določitvi in uporabi klicnih znakov v okviru 3. svetovnega prvenstva radioamaterjev WRTC - 2000",
+      "shortCode": "ODRE756",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-0755",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet in zveze",
+      "adoptedAt": "2000-02-25",
+      "validFrom": "2000-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0755",
+      "versions": [
+        {
+          "id": "ODRE756-original",
+          "shortCode": "ODRE756",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-25",
+          "effectiveFrom": "2000-02-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0755",
+          "proposer": null
+        },
+        {
+          "id": "ODRE756-npb-ODRE756",
+          "shortCode": "ODRE756-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-02-25",
+          "effectiveFrom": "2000-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE756",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE891",
+      "title": "Odredba o spremembi odredbe o določitvi in uporabi klicnih znakov v okviru 3. svetovnega prvenstva radioamaterjev WRTC – 2000",
+      "shortTitle": "Odredba o spremembi odredbe o določitvi in uporabi klicnih znakov v okviru 3. svetovnega prvenstva radioamaterjev WRTC – 2000",
+      "shortCode": "ODRE891",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-1310",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-31",
+      "validFrom": "2000-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1310",
+      "versions": [
+        {
+          "id": "ODRE891-original",
+          "shortCode": "ODRE891",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-31",
+          "effectiveFrom": "2000-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE756"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1310",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11879",
+  "path": "laws/PR/PRAV11879",
+  "members": [
+    {
+      "id": "PRAV11879",
+      "title": "Pravilnik o policijski uniformi in nadomestilih",
+      "shortTitle": "Pravilnik o policijski uniformi in nadomestilih",
+      "shortCode": "PRAV11879",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-0392",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-25",
+      "validFrom": "2026-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0392",
+      "versions": [
+        {
+          "id": "PRAV11879-original",
+          "shortCode": "PRAV11879",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0392",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11879-npb-PRAV11879",
+          "shortCode": "PRAV11879-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-11",
+          "effectiveFrom": "2026-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11879",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13765",
+      "title": "Pravilnik o spremembi Pravilnika o policijski uniformi in nadomestilih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o policijski uniformi in nadomestilih",
+      "shortCode": "PRAV13765",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1307",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-04-26",
+      "validFrom": "2019-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1307",
+      "versions": [
+        {
+          "id": "PRAV13765-original",
+          "shortCode": "PRAV13765",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-26",
+          "effectiveFrom": "2019-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11879"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1307",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15813",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o policijski uniformi in nadomestilih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o policijski uniformi in nadomestilih",
+      "shortCode": "PRAV15813",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0567",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2026-02-24",
+      "validFrom": "2026-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0567",
+      "versions": [
+        {
+          "id": "PRAV15813-original",
+          "shortCode": "PRAV15813",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-24",
+          "effectiveFrom": "2026-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11879"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0567",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

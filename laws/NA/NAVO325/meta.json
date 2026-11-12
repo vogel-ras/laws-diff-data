@@ -1,0 +1,82 @@
+{
+  "root": "NAVO325",
+  "path": "laws/NA/NAVO325",
+  "members": [
+    {
+      "id": "NAVO325",
+      "title": "Navodilo o izvajanju mesečnega statističnega raziskovanja o prejemkih na račune in izdatkih z računov, ki jih vodi Agencija Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortTitle": "Navodilo o izvajanju mesečnega statističnega raziskovanja o prejemkih na račune in izdatkih z računov, ki jih vodi Agencija Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortCode": "NAVO325",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-3228",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-12-08",
+      "validFrom": "1995-12-08",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3228",
+      "versions": [
+        {
+          "id": "NAVO325-original",
+          "shortCode": "NAVO325",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-12-08",
+          "effectiveFrom": "1995-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3228",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO328",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o izvajanju mesečnega statističnega raziskovanja o prejemkih na račune in izdatkih z računov, ki jih vodi Agencija Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o izvajanju mesečnega statističnega raziskovanja o prejemkih na račune in izdatkih z računov, ki jih vodi Agencija Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortCode": "NAVO328",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1998-01-2473",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-07-31",
+      "validFrom": "1998-07-31",
+      "validTo": null,
+      "latestPublishedAt": "1998-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2473",
+      "versions": [
+        {
+          "id": "NAVO328-original",
+          "shortCode": "NAVO328",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-07-31",
+          "effectiveFrom": "1998-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO325"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2473",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

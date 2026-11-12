@@ -1,0 +1,82 @@
+{
+  "root": "NAVO414",
+  "path": "laws/NA/NAVO414",
+  "members": [
+    {
+      "id": "NAVO414",
+      "title": "Navodilo za uveljavljanje finančnih intervencij za ohranjanje in razvoj kmetijstva ter proizvodnje hrane",
+      "shortTitle": "Navodilo za uveljavljanje finančnih intervencij za ohranjanje in razvoj kmetijstva ter proizvodnje hrane",
+      "shortCode": "NAVO414",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1994-01-1608",
+      "gazette": null,
+      "issuingBody": "MINISTRSTVO ZA KMETIJSTVO IN GOZDARSTVO",
+      "adoptedAt": "1994-07-05",
+      "validFrom": "1994-07-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1608",
+      "versions": [
+        {
+          "id": "NAVO414-original",
+          "shortCode": "NAVO414",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-05",
+          "effectiveFrom": "1994-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1608",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO421",
+      "title": "Navodilo o spremembah in dopolnitvah navodila za uveljavljanje finančnih intervencij za ohranjanje in razvoj kmetijstva ter proizvodnje hrane",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila za uveljavljanje finančnih intervencij za ohranjanje in razvoj kmetijstva ter proizvodnje hrane",
+      "shortCode": "NAVO421",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-0722",
+      "gazette": null,
+      "issuingBody": "MINISTRSTVO ZA KMETIJSTVO IN GOZDARSTVO",
+      "adoptedAt": "1995-03-10",
+      "validFrom": "1995-03-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0722",
+      "versions": [
+        {
+          "id": "NAVO421-original",
+          "shortCode": "NAVO421",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-03-10",
+          "effectiveFrom": "1995-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO414"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0722",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

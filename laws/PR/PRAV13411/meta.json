@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13411",
+  "path": "laws/PR/PRAV13411",
+  "members": [
+    {
+      "id": "PRAV13411",
+      "title": "Pravilnik o organiziranju, delovanju in financiranju oddelkov vrtcev, ki izvajajo krajše programe in so financirani iz državnega proračuna",
+      "shortTitle": "Pravilnik o organiziranju, delovanju in financiranju oddelkov vrtcev, ki izvajajo krajše programe in so financirani iz državnega proračuna",
+      "shortCode": "PRAV13411",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2132",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2018-06-22",
+      "validFrom": "2018-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2132",
+      "versions": [
+        {
+          "id": "PRAV13411-original",
+          "shortCode": "PRAV13411",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-22",
+          "effectiveFrom": "2018-06-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2132",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13411-npb-PRAV13411",
+          "shortCode": "PRAV13411-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-22",
+          "effectiveFrom": "2018-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13411",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13991",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o organiziranju, delovanju in financiranju oddelkov vrtcev, ki izvajajo krajše programe in so financirani iz državnega proračuna",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o organiziranju, delovanju in financiranju oddelkov vrtcev, ki izvajajo krajše programe in so financirani iz državnega proračuna",
+      "shortCode": "PRAV13991",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-3022",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2020-11-27",
+      "validFrom": "2020-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3022",
+      "versions": [
+        {
+          "id": "PRAV13991-original",
+          "shortCode": "PRAV13991",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-27",
+          "effectiveFrom": "2020-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13411"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3022",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

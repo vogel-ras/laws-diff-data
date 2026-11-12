@@ -1,0 +1,136 @@
+{
+  "root": "PRAV10544",
+  "path": "laws/PR/PRAV10544",
+  "members": [
+    {
+      "id": "PRAV10544",
+      "title": "Pravilnik o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortTitle": "Pravilnik o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortCode": "PRAV10544",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-1919",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2011-05-27",
+      "validFrom": "2011-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1919",
+      "versions": [
+        {
+          "id": "PRAV10544-original",
+          "shortCode": "PRAV10544",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-27",
+          "effectiveFrom": "2011-05-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1919",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10544-npb-PRAV10544",
+          "shortCode": "PRAV10544-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-05-27",
+          "effectiveFrom": "2011-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10544",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12490",
+      "title": "Pravilnik o spremembah Pravilnika o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortCode": "PRAV12490",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1496",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2015-05-25",
+      "validFrom": "2015-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1496",
+      "versions": [
+        {
+          "id": "PRAV12490-original",
+          "shortCode": "PRAV12490",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-05-25",
+          "effectiveFrom": "2015-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10544"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1496",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14949",
+      "title": "Pravilnik o spremembah Pravilnika o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o pogojih za pridobitev dovoljenja za gojenje konoplje in maka",
+      "shortCode": "PRAV14949",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1856",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-06-02",
+      "validFrom": "2023-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1856",
+      "versions": [
+        {
+          "id": "PRAV14949-original",
+          "shortCode": "PRAV14949",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-02",
+          "effectiveFrom": "2023-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10544"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1856",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

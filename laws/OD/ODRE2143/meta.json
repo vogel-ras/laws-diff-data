@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2143",
+  "path": "laws/OD/ODRE2143",
+  "members": [
+    {
+      "id": "ODRE2143",
+      "title": "Odredba o seznamu potrjenih tehničnih specifikacij za javne ceste",
+      "shortTitle": "Odredba o seznamu potrjenih tehničnih specifikacij za javne ceste",
+      "shortCode": "ODRE2143",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "odredba",
+      "sopNumber": "2012-01-0280",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2012-02-03",
+      "validFrom": "2012-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0280",
+      "versions": [
+        {
+          "id": "ODRE2143-original",
+          "shortCode": "ODRE2143",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-03",
+          "effectiveFrom": "2012-02-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0280",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2143-npb-ODRE2143",
+          "shortCode": "ODRE2143-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-02-03",
+          "effectiveFrom": "2012-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2143",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2181",
+      "title": "Odredba o spremembi Odredbe o seznamu potrjenih tehničnih specifikacij za javne ceste",
+      "shortTitle": "Odredba o spremembi Odredbe o seznamu potrjenih tehničnih specifikacij za javne ceste",
+      "shortCode": "ODRE2181",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "odredba",
+      "sopNumber": "2012-01-1739",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo in prostor",
+      "adoptedAt": "2012-06-01",
+      "validFrom": "2012-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1739",
+      "versions": [
+        {
+          "id": "ODRE2181-original",
+          "shortCode": "ODRE2181",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-01",
+          "effectiveFrom": "2012-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2143"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1739",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZIPRS2425",
+  "path": "laws/ZI/ZIPRS2425",
+  "members": [
+    {
+      "id": "ZIPRS2425",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2024 in 2025",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2024 in 2025",
+      "shortCode": "ZIPRS2425",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3596",
+      "gazette": "Uradni list RS 123/23  str. 10944",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-07",
+      "validFrom": "2023-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3596",
+      "versions": [
+        {
+          "id": "ZIPRS2425-original",
+          "shortCode": "ZIPRS2425",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 123/23  str. 10944",
+          "publishedAt": "2023-12-07",
+          "effectiveFrom": "2023-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3596",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS2425-amend-ZIPRS2425-A",
+          "shortCode": "ZIPRS2425-A",
+          "label": "Sprememba ZIPRS2425-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 12/24  str. 687",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2425"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0295",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2425-A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2024 in 2025",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2024 in 2025",
+      "shortCode": "ZIPRS2425-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0295",
+      "gazette": "Uradni list RS 12/24  str. 687",
+      "issuingBody": null,
+      "adoptedAt": "2024-02-09",
+      "validFrom": "2024-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0295",
+      "versions": [
+        {
+          "id": "ZIPRS2425-A-original",
+          "shortCode": "ZIPRS2425-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/24  str. 687",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2425"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0295",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

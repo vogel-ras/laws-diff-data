@@ -1,0 +1,800 @@
+{
+  "root": "ZSS",
+  "path": "laws/ZS/ZSS",
+  "members": [
+    {
+      "id": "ZSS",
+      "title": "Zakon o sodniški službi",
+      "shortTitle": "Zakon o sodniški službi",
+      "shortCode": "ZSS",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0781",
+      "gazette": "Uradni list RS 19/94  str. 1109",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-13",
+      "validFrom": "1994-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0781",
+      "versions": [
+        {
+          "id": "ZSS-original",
+          "shortCode": "ZSS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/94  str. 1109",
+          "publishedAt": "1994-04-13",
+          "effectiveFrom": "1994-04-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0781",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-A",
+          "shortCode": "ZSS-A",
+          "label": "Sprememba ZSS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 8/96  str. 619",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0383",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-B",
+          "shortCode": "ZSS-B",
+          "label": "Sprememba ZSS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 24/98  str. 1561",
+          "publishedAt": "1998-03-27",
+          "effectiveFrom": "1998-03-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1046",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-C",
+          "shortCode": "ZSS-C",
+          "label": "Sprememba ZSS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 48/2001  str. 5229",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2641",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-D",
+          "shortCode": "ZSS-D",
+          "label": "Sprememba ZSS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 67/2002  str. 7584",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3232",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-E",
+          "shortCode": "ZSS-E",
+          "label": "Sprememba ZSS-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 71/04  str. 8641",
+          "publishedAt": "2004-06-30",
+          "effectiveFrom": "2004-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3164",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-F",
+          "shortCode": "ZSS-F",
+          "label": "Sprememba ZSS-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 17/06  str. 1512",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0625",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-G",
+          "shortCode": "ZSS-G",
+          "label": "Sprememba ZSS-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 127/06  str. 13931",
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5353",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-H",
+          "shortCode": "ZSS-H",
+          "label": "Sprememba ZSS-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 57/07  str. 7748",
+          "publishedAt": "2007-06-29",
+          "effectiveFrom": "2007-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3030",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-J",
+          "shortCode": "ZSS-J",
+          "label": "Sprememba ZSS-J",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 33/11  str. 4387",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1588",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-K",
+          "shortCode": "ZSS-K",
+          "label": "Sprememba ZSS-K",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 46/13  str. 5278",
+          "publishedAt": "2013-05-29",
+          "effectiveFrom": "2013-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1754",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-L",
+          "shortCode": "ZSS-L",
+          "label": "Sprememba ZSS-L",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 63/13  str. 7644",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2515",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-M",
+          "shortCode": "ZSS-M",
+          "label": "Sprememba ZSS-M",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 17/15  str. 1755",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0623",
+          "proposer": null
+        },
+        {
+          "id": "ZSS-amend-ZSS-N",
+          "shortCode": "ZSS-N",
+          "label": "Sprememba ZSS-N",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": "Uradni list RS 76/23  str. 6673",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2389",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortCode": "ZSS-A",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0383",
+      "gazette": "Uradni list RS 8/96  str. 619",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0383",
+      "versions": [
+        {
+          "id": "ZSS-A-original",
+          "shortCode": "ZSS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 619",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0383",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-B",
+      "title": "Zakon o spremembi in dopolnitvi zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o sodniški službi",
+      "shortCode": "ZSS-B",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik",
+        "organizacija sodstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-1046",
+      "gazette": "Uradni list RS 24/98  str. 1561",
+      "issuingBody": null,
+      "adoptedAt": "1998-03-27",
+      "validFrom": "1998-03-27",
+      "validTo": null,
+      "latestPublishedAt": "1998-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1046",
+      "versions": [
+        {
+          "id": "ZSS-B-original",
+          "shortCode": "ZSS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 24/98  str. 1561",
+          "publishedAt": "1998-03-27",
+          "effectiveFrom": "1998-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1046",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-C",
+      "title": "Zakon o spremembi zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembi zakona o sodniški službi",
+      "shortCode": "ZSS-C",
+      "kind": "zakon",
+      "keywords": [
+        "sodišča",
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2641",
+      "gazette": "Uradni list RS 48/2001  str. 5229",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-13",
+      "validFrom": "2001-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2641",
+      "versions": [
+        {
+          "id": "ZSS-C-original",
+          "shortCode": "ZSS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/2001  str. 5229",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2641",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortCode": "ZSS-D",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3232",
+      "gazette": "Uradni list RS 67/2002  str. 7584",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3232",
+      "versions": [
+        {
+          "id": "ZSS-D-original",
+          "shortCode": "ZSS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7584",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3232",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-E",
+      "title": "Zakon o spremembi in dopolnitvi zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o sodniški službi",
+      "shortCode": "ZSS-E",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik",
+        "sodišča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3164",
+      "gazette": "Uradni list RS 71/04  str. 8641",
+      "issuingBody": null,
+      "adoptedAt": "2004-06-30",
+      "validFrom": "2004-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3164",
+      "versions": [
+        {
+          "id": "ZSS-E-original",
+          "shortCode": "ZSS-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/04  str. 8641",
+          "publishedAt": "2004-06-30",
+          "effectiveFrom": "2004-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3164",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortCode": "ZSS-F",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0625",
+      "gazette": "Uradni list RS 17/06  str. 1512",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-17",
+      "validFrom": "2006-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0625",
+      "versions": [
+        {
+          "id": "ZSS-F-original",
+          "shortCode": "ZSS-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/06  str. 1512",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0625",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortCode": "ZSS-G",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5353",
+      "gazette": "Uradni list RS 127/06  str. 13931",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-07",
+      "validFrom": "2006-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5353",
+      "versions": [
+        {
+          "id": "ZSS-G-original",
+          "shortCode": "ZSS-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 127/06  str. 13931",
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5353",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-H",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodniški službi",
+      "shortCode": "ZSS-H",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3030",
+      "gazette": "Uradni list RS 57/07  str. 7748",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-29",
+      "validFrom": "2007-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3030",
+      "versions": [
+        {
+          "id": "ZSS-H-original",
+          "shortCode": "ZSS-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/07  str. 7748",
+          "publishedAt": "2007-06-29",
+          "effectiveFrom": "2007-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3030",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortCode": "ZSS-J",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1588",
+      "gazette": "Uradni list RS 33/11  str. 4387",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-03",
+      "validFrom": "2011-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1588",
+      "versions": [
+        {
+          "id": "ZSS-J-original",
+          "shortCode": "ZSS-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/11  str. 4387",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1588",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-K",
+      "title": "Zakon o dopolnitvi Zakona o sodniški službi",
+      "shortTitle": "Zakon o dopolnitvi Zakona o sodniški službi",
+      "shortCode": "ZSS-K",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1754",
+      "gazette": "Uradni list RS 46/13  str. 5278",
+      "issuingBody": null,
+      "adoptedAt": "2013-05-29",
+      "validFrom": "2013-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1754",
+      "versions": [
+        {
+          "id": "ZSS-K-original",
+          "shortCode": "ZSS-K",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/13  str. 5278",
+          "publishedAt": "2013-05-29",
+          "effectiveFrom": "2013-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1754",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-L",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortCode": "ZSS-L",
+      "kind": "zakon",
+      "keywords": [
+        "sodišča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2515",
+      "gazette": "Uradni list RS 63/13  str. 7644",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2515",
+      "versions": [
+        {
+          "id": "ZSS-L-original",
+          "shortCode": "ZSS-L",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7644",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2515",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-M",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sodniški službi",
+      "shortCode": "ZSS-M",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0623",
+      "gazette": "Uradni list RS 17/15  str. 1755",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-13",
+      "validFrom": "2015-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0623",
+      "versions": [
+        {
+          "id": "ZSS-M-original",
+          "shortCode": "ZSS-M",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/15  str. 1755",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0623",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSS-N",
+      "title": "Zakon o dopolnitvi Zakona o sodniški službi",
+      "shortTitle": "Zakon o dopolnitvi Zakona o sodniški službi",
+      "shortCode": "ZSS-N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2389",
+      "gazette": "Uradni list RS 76/23  str. 6673",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2389",
+      "versions": [
+        {
+          "id": "ZSS-N-original",
+          "shortCode": "ZSS-N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6673",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2389",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

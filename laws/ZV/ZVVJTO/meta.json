@@ -1,0 +1,280 @@
+{
+  "root": "ZVVJTO",
+  "path": "laws/ZV/ZVVJTO",
+  "members": [
+    {
+      "id": "ZVVJTO",
+      "title": "Zakon o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Zakon o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "ZVVJTO",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije",
+        "odškodninski zahtevek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2813",
+      "gazette": "Uradni list RS 58/2002  str. 6065",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-04",
+      "validFrom": "2002-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2813",
+      "versions": [
+        {
+          "id": "ZVVJTO-original",
+          "shortCode": "ZVVJTO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/2002  str. 6065",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2813",
+          "proposer": null
+        },
+        {
+          "id": "ZVVJTO-amend-ZVVJTO-A",
+          "shortCode": "ZVVJTO-A",
+          "label": "Sprememba ZVVJTO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 55/2003  str. 6483",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2757",
+          "proposer": null
+        },
+        {
+          "id": "ZVVJTO-amend-ZVVJTO-B",
+          "shortCode": "ZVVJTO-B",
+          "label": "Sprememba ZVVJTO-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 86/04  str. 10447",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3849",
+          "proposer": null
+        },
+        {
+          "id": "ZVVJTO-amend-ZVVJTO-C",
+          "shortCode": "ZVVJTO-C",
+          "label": "Sprememba ZVVJTO-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 60/06  str. 6554",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2539",
+          "proposer": null
+        },
+        {
+          "id": "ZVVJTO-amend-ZVVJTO-D",
+          "shortCode": "ZVVJTO-D",
+          "label": "Sprememba ZVVJTO-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 33/07  str. 4613",
+          "publishedAt": "2007-04-13",
+          "effectiveFrom": "2007-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1765",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVVJTO-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javnotelekomunikacijsko omrežje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javnotelekomunikacijsko omrežje",
+      "shortCode": "ZVVJTO-A",
+      "kind": "zakon",
+      "keywords": [
+        "odškodninski zahtevek",
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2757",
+      "gazette": "Uradni list RS 55/2003  str. 6483",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-09",
+      "validFrom": "2003-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2757",
+      "versions": [
+        {
+          "id": "ZVVJTO-A-original",
+          "shortCode": "ZVVJTO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/2003  str. 6483",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2757",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVVJTO-B",
+      "title": "Zakon o spremembah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Zakon o spremembah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "ZVVJTO-B",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3849",
+      "gazette": "Uradni list RS 86/04  str. 10447",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3849",
+      "versions": [
+        {
+          "id": "ZVVJTO-B-original",
+          "shortCode": "ZVVJTO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10447",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3849",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVVJTO-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "ZVVJTO-C",
+      "kind": "zakon",
+      "keywords": [
+        "odškodninski zahtevek",
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2539",
+      "gazette": "Uradni list RS 60/06  str. 6554",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2539",
+      "versions": [
+        {
+          "id": "ZVVJTO-C-original",
+          "shortCode": "ZVVJTO-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/06  str. 6554",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2539",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVVJTO-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vračanju vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "ZVVJTO-D",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-1765",
+      "gazette": "Uradni list RS 33/07  str. 4613",
+      "issuingBody": null,
+      "adoptedAt": "2007-04-13",
+      "validFrom": "2007-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1765",
+      "versions": [
+        {
+          "id": "ZVVJTO-D-original",
+          "shortCode": "ZVVJTO-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/07  str. 4613",
+          "publishedAt": "2007-04-13",
+          "effectiveFrom": "2007-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVVJTO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1765",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "root": "ZRPJZ",
+  "path": "laws/ZR/ZRPJZ",
+  "members": [
+    {
+      "id": "ZRPJZ",
+      "title": "Zakon o razmerjih plač v javnih zavodih, državnih organih in v organih lokalnih skupnosti",
+      "shortTitle": "Zakon o razmerjih plač v javnih zavodih, državnih organih in v organih lokalnih skupnosti",
+      "shortCode": "ZRPJZ",
+      "kind": "zakon",
+      "keywords": [
+        "plača",
+        "državni organi",
+        "javna uprava",
+        "lokalna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0727",
+      "gazette": "Uradni list RS 18/94  str. 1014",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-08",
+      "validFrom": "1994-04-08",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0727",
+      "versions": [
+        {
+          "id": "ZRPJZ-original",
+          "shortCode": "ZRPJZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/94  str. 1014",
+          "publishedAt": "1994-04-08",
+          "effectiveFrom": "1994-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0727",
+          "proposer": null
+        },
+        {
+          "id": "ZRPJZ-amend-ZRPJZ-A",
+          "shortCode": "ZRPJZ-A",
+          "label": "Sprememba ZRPJZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 36/96  str. 3073",
+          "publishedAt": "1996-07-12",
+          "effectiveFrom": "1996-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRPJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2347",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRPJZ-A",
+      "title": "Zakon o spremembi zakona o razmerjih plač v javnih zavodih, državnih organih in v organih lokalnih skupnosti",
+      "shortTitle": "Zakon o spremembi zakona o razmerjih plač v javnih zavodih, državnih organih in v organih lokalnih skupnosti",
+      "shortCode": "ZRPJZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "plača",
+        "javna uprava",
+        "državni organi",
+        "lokalna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2347",
+      "gazette": "Uradni list RS 36/96  str. 3073",
+      "issuingBody": null,
+      "adoptedAt": "1996-07-12",
+      "validFrom": "1996-07-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2347",
+      "versions": [
+        {
+          "id": "ZRPJZ-A-original",
+          "shortCode": "ZRPJZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/96  str. 3073",
+          "publishedAt": "1996-07-12",
+          "effectiveFrom": "1996-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRPJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2347",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

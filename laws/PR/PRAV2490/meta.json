@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2490",
+  "path": "laws/PR/PRAV2490",
+  "members": [
+    {
+      "id": "PRAV2490",
+      "title": "Pravilnik o opravljanju strokovnega izpita in preizkusa strokovne usposobljenosti inšpektorja za delo",
+      "shortTitle": "Pravilnik o opravljanju strokovnega izpita in preizkusa strokovne usposobljenosti inšpektorja za delo",
+      "shortCode": "PRAV2490",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-0656",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-03-03",
+      "validFrom": "1995-03-03",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0656",
+      "versions": [
+        {
+          "id": "PRAV2490-original",
+          "shortCode": "PRAV2490",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-03-03",
+          "effectiveFrom": "1995-03-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0656",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6450",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o opravljanju strokovnega izpita in preizkusa strokovne usposobljenosti inšpektorja za delo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o opravljanju strokovnega izpita in preizkusa strokovne usposobljenosti inšpektorja za delo",
+      "shortCode": "PRAV6450",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2674",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2005-06-30",
+      "validFrom": "2005-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2674",
+      "versions": [
+        {
+          "id": "PRAV6450-original",
+          "shortCode": "PRAV6450",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2490"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2674",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "MNKOZN",
+  "path": "laws/MN/MNKOZN",
+  "members": [
+    {
+      "id": "AKT_53",
+      "title": "Akt o notifikaciji nasledstva glede konvencij Organizacije združenih narodov in konvencij, sprejetih v Mednarodni agenciji za atomsko energijo (MNKOZN)",
+      "shortTitle": "Akt o notifikaciji nasledstva glede konvencij Organizacije združenih narodov in konvencij, sprejetih v Mednarodni agenciji za atomsko energijo (MNKOZN)",
+      "shortCode": "MNKOZN",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1992-02-0055",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-07-17",
+      "validFrom": "1992-07-17",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-02-0055",
+      "versions": [
+        {
+          "id": "AKT_53-original",
+          "shortCode": "MNKOZN",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-07-17",
+          "effectiveFrom": "1992-07-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-02-0055",
+          "proposer": null
+        },
+        {
+          "id": "AKT_53-amend-AKT_87",
+          "shortCode": "MNKOZN-A",
+          "label": "Sprememba MNKOZN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-03-27",
+          "effectiveFrom": "1999-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_53"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0007",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "AKT_87",
+      "title": "Akt o spremembi akta o notifikaciji nasledstva glede konvencij Organizacije združenih narodov in konvencij, sprejetih v Mednarodni agenciji za atomsko energijo (MNKOZN-A)",
+      "shortTitle": "Akt o spremembi akta o notifikaciji nasledstva glede konvencij Organizacije združenih narodov in konvencij, sprejetih v Mednarodni agenciji za atomsko energijo (MNKOZN-A)",
+      "shortCode": "MNKOZN-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1999-02-0007",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-03-27",
+      "validFrom": "1999-03-27",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0007",
+      "versions": [
+        {
+          "id": "AKT_87-original",
+          "shortCode": "MNKOZN-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-27",
+          "effectiveFrom": "1999-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_53"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0007",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

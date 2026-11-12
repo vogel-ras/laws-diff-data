@@ -1,0 +1,392 @@
+{
+  "root": "ZIPRS1415",
+  "path": "laws/ZI/ZIPRS1415",
+  "members": [
+    {
+      "id": "ZAKO6966",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (ZIPRS1415-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015 (ZIPRS1415-A)",
+      "shortCode": "ZIPRS1415-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1522",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-05-30",
+      "validFrom": "2014-05-30",
+      "validTo": null,
+      "latestPublishedAt": "2014-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1522",
+      "versions": [
+        {
+          "id": "ZAKO6966-original",
+          "shortCode": "ZIPRS1415-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-05-30",
+          "effectiveFrom": "2014-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1522",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3675",
+      "gazette": "Uradni list RS 101/13  str. 11111",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-09",
+      "validFrom": "2013-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3675",
+      "versions": [
+        {
+          "id": "ZIPRS1415-original",
+          "shortCode": "ZIPRS1415",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/13  str. 11111",
+          "publishedAt": "2013-12-09",
+          "effectiveFrom": "2013-12-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3675",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZAKO6966",
+          "shortCode": "ZIPRS1415-A",
+          "label": "Sprememba ZIPRS1415-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-05-30",
+          "effectiveFrom": "2014-05-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1522",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZIPRS1415-B",
+          "shortCode": "ZIPRS1415-B",
+          "label": "Sprememba ZIPRS1415-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 84/14  str. 9507",
+          "publishedAt": "2014-11-28",
+          "effectiveFrom": "2014-11-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3441",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZIPRS1415-C",
+          "shortCode": "ZIPRS1415-C",
+          "label": "Sprememba ZIPRS1415-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 95/14  str. 10666",
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3952",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZIPRS1415-D",
+          "shortCode": "ZIPRS1415-D",
+          "label": "Sprememba ZIPRS1415-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 14/15  str. 1554",
+          "publishedAt": "2015-02-28",
+          "effectiveFrom": "2015-02-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0506",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZIPRS1415-E",
+          "shortCode": "ZIPRS1415-E",
+          "label": "Sprememba ZIPRS1415-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 46/15  str. 4946",
+          "publishedAt": "2015-06-26",
+          "effectiveFrom": "2015-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1879",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1415-amend-ZIPRS1415-F",
+          "shortCode": "ZIPRS1415-F",
+          "label": "Sprememba ZIPRS1415-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 55/15  str. 6292",
+          "publishedAt": "2015-07-24",
+          "effectiveFrom": "2015-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2279",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415-B",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3441",
+      "gazette": "Uradni list RS 84/14  str. 9507",
+      "issuingBody": null,
+      "adoptedAt": "2014-11-28",
+      "validFrom": "2014-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2014-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3441",
+      "versions": [
+        {
+          "id": "ZIPRS1415-B-original",
+          "shortCode": "ZIPRS1415-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/14  str. 9507",
+          "publishedAt": "2014-11-28",
+          "effectiveFrom": "2014-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3441",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415-C",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3952",
+      "gazette": "Uradni list RS 95/14  str. 10666",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-29",
+      "validFrom": "2014-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3952",
+      "versions": [
+        {
+          "id": "ZIPRS1415-C-original",
+          "shortCode": "ZIPRS1415-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/14  str. 10666",
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3952",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415-D",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0506",
+      "gazette": "Uradni list RS 14/15  str. 1554",
+      "issuingBody": null,
+      "adoptedAt": "2015-02-28",
+      "validFrom": "2015-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2015-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0506",
+      "versions": [
+        {
+          "id": "ZIPRS1415-D-original",
+          "shortCode": "ZIPRS1415-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/15  str. 1554",
+          "publishedAt": "2015-02-28",
+          "effectiveFrom": "2015-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0506",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415-E",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1879",
+      "gazette": "Uradni list RS 46/15  str. 4946",
+      "issuingBody": null,
+      "adoptedAt": "2015-06-26",
+      "validFrom": "2015-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1879",
+      "versions": [
+        {
+          "id": "ZIPRS1415-E-original",
+          "shortCode": "ZIPRS1415-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/15  str. 4946",
+          "publishedAt": "2015-06-26",
+          "effectiveFrom": "2015-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1879",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1415-F",
+      "title": "Zakon o spremembi Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortTitle": "Zakon o spremembi Zakona o izvrševanju proračunov Republike Slovenije za leti 2014 in 2015",
+      "shortCode": "ZIPRS1415-F",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2279",
+      "gazette": "Uradni list RS 55/15  str. 6292",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-24",
+      "validFrom": "2015-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2279",
+      "versions": [
+        {
+          "id": "ZIPRS1415-F-original",
+          "shortCode": "ZIPRS1415-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/15  str. 6292",
+          "publishedAt": "2015-07-24",
+          "effectiveFrom": "2015-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2279",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

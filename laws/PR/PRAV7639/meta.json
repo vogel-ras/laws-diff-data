@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7639",
+  "path": "laws/PR/PRAV7639",
+  "members": [
+    {
+      "id": "PRAV7639",
+      "title": "Pravilnik o merilih za ugotavljanje delovne uspešnosti direktorjev s področja kulture",
+      "shortTitle": "Pravilnik o merilih za ugotavljanje delovne uspešnosti direktorjev s področja kulture",
+      "shortCode": "PRAV7639",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1174",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-17",
+      "validFrom": "2006-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1174",
+      "versions": [
+        {
+          "id": "PRAV7639-original",
+          "shortCode": "PRAV7639",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1174",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8301",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za ugotavljanje delovne uspešnosti direktorjev s področja kulture",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za ugotavljanje delovne uspešnosti direktorjev s področja kulture",
+      "shortCode": "PRAV8301",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2367",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2007-05-18",
+      "validFrom": "2007-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2367",
+      "versions": [
+        {
+          "id": "PRAV8301-original",
+          "shortCode": "PRAV8301",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-18",
+          "effectiveFrom": "2007-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7639"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2367",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

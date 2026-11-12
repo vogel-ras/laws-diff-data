@@ -1,0 +1,82 @@
+{
+  "root": "DRUG56",
+  "path": "laws/DR/DRUG56",
+  "members": [
+    {
+      "id": "DRUG56",
+      "title": "Pravilnik o pogojih, ki jih morajo izpolnjevati laboratoriji za preskušanje inšpekcijskih vzorcev kemikalij ali embalaž za kemikalije",
+      "shortTitle": "Pravilnik o pogojih, ki jih morajo izpolnjevati laboratoriji za preskušanje inšpekcijskih vzorcev kemikalij ali embalaž za kemikalije",
+      "shortCode": "DRUG56",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2000-01-4363",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-11-15",
+      "validFrom": "2000-11-15",
+      "validTo": null,
+      "latestPublishedAt": "2000-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4363",
+      "versions": [
+        {
+          "id": "DRUG56-original",
+          "shortCode": "DRUG56",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-11-15",
+          "effectiveFrom": "2000-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4363",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3646",
+      "title": "Pravilnik o spremembi pravilnika o pogojih, ki jih morajo izpolnjevati laboratoriji za preskušanje inšpekcijskih vzorcev kemikalij ali embalaž za kemikalije",
+      "shortTitle": "Pravilnik o spremembi pravilnika o pogojih, ki jih morajo izpolnjevati laboratoriji za preskušanje inšpekcijskih vzorcev kemikalij ali embalaž za kemikalije",
+      "shortCode": "PRAV3646",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-0742",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-02-23",
+      "validFrom": "2001-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0742",
+      "versions": [
+        {
+          "id": "PRAV3646-original",
+          "shortCode": "PRAV3646",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-23",
+          "effectiveFrom": "2001-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG56"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0742",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

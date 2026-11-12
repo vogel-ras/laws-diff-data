@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5134",
+  "path": "laws/PR/PRAV5134",
+  "members": [
+    {
+      "id": "PRAV5134",
+      "title": "Pravilnik o načinu ogrevanja na območju Mestne občine Ljubljana",
+      "shortTitle": "Pravilnik o načinu ogrevanja na območju Mestne občine Ljubljana",
+      "shortCode": "PRAV5134",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5570",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-24",
+      "validFrom": "2003-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5570",
+      "versions": [
+        {
+          "id": "PRAV5134-original",
+          "shortCode": "PRAV5134",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-24",
+          "effectiveFrom": "2003-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5570",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7056",
+      "title": "Pravilnik o spremembi Pravilnika o načinu ogrevanja na območju Mestne občine Ljubljana",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o načinu ogrevanja na območju Mestne občine Ljubljana",
+      "shortCode": "PRAV7056",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3655",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2005-09-16",
+      "validFrom": "2005-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2005-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3655",
+      "versions": [
+        {
+          "id": "PRAV7056-original",
+          "shortCode": "PRAV7056",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-09-16",
+          "effectiveFrom": "2005-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5134"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3655",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

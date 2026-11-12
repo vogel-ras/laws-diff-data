@@ -1,0 +1,102 @@
+{
+  "root": "ZOPNI",
+  "path": "laws/ZO/ZOPNI",
+  "members": [
+    {
+      "id": "ZAKO6267",
+      "title": "Zakon o odvzemu premoženja nezakonitega izvora (ZOPNI)",
+      "shortTitle": "Zakon o odvzemu premoženja nezakonitega izvora (ZOPNI)",
+      "shortCode": "ZOPNI",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3911",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-11-14",
+      "validFrom": "2011-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2014-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3911",
+      "versions": [
+        {
+          "id": "ZAKO6267-original",
+          "shortCode": "ZOPNI",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-14",
+          "effectiveFrom": "2011-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3911",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO6267-amend-ZOPNI-A",
+          "shortCode": "ZOPNI-A",
+          "label": "Sprememba ZOPNI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 25/14  str. 2898",
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO6267"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0964",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPNI-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvzemu premoženja nezakonitega izvora",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvzemu premoženja nezakonitega izvora",
+      "shortCode": "ZOPNI-A",
+      "kind": "zakon",
+      "keywords": [
+        "zaplemba premoženja",
+        "odvzem predmetov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0964",
+      "gazette": "Uradni list RS 25/14  str. 2898",
+      "issuingBody": null,
+      "adoptedAt": "2014-04-11",
+      "validFrom": "2014-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0964",
+      "versions": [
+        {
+          "id": "ZOPNI-A-original",
+          "shortCode": "ZOPNI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/14  str. 2898",
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO6267"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0964",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

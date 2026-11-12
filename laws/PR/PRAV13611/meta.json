@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13611",
+  "path": "laws/PR/PRAV13611",
+  "members": [
+    {
+      "id": "PRAV13611",
+      "title": "Pravilnik o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih preverjanja",
+      "shortTitle": "Pravilnik o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih preverjanja",
+      "shortCode": "PRAV13611",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1573",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-06-20",
+      "validFrom": "2025-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1573",
+      "versions": [
+        {
+          "id": "PRAV13611-original",
+          "shortCode": "PRAV13611",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-20",
+          "effectiveFrom": "2025-06-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1573",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13611-npb-PRAV13611",
+          "shortCode": "PRAV13611-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-05-31",
+          "effectiveFrom": "2019-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14154",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih preverjanja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o strojevodjih, centrih usposabljanja, ocenjevalcih in centrih preverjanja",
+      "shortCode": "PRAV14154",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-1294",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2021-04-23",
+      "validFrom": "2021-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1294",
+      "versions": [
+        {
+          "id": "PRAV14154-original",
+          "shortCode": "PRAV14154",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-23",
+          "effectiveFrom": "2021-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13611"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1294",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

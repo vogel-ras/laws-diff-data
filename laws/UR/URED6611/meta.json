@@ -1,0 +1,82 @@
+{
+  "root": "URED6611",
+  "path": "laws/UR/URED6611",
+  "members": [
+    {
+      "id": "URED6611",
+      "title": "Uredba o dodeljevanju vlakovnih poti, uporabnini in režimu učinkovitosti na javni železniški infrastrukturi",
+      "shortTitle": "Uredba o dodeljevanju vlakovnih poti, uporabnini in režimu učinkovitosti na javni železniški infrastrukturi",
+      "shortCode": "URED6611",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-1969",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-06-24",
+      "validFrom": "2016-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1969",
+      "versions": [
+        {
+          "id": "URED6611-original",
+          "shortCode": "URED6611",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-06-24",
+          "effectiveFrom": "2016-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1969",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7658",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dodeljevanju vlakovnih poti, uporabnini in režimu učinkovitosti na javni železniški infrastrukturi",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dodeljevanju vlakovnih poti, uporabnini in režimu učinkovitosti na javni železniški infrastrukturi",
+      "shortCode": "URED7658",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-0688",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-03-15",
+      "validFrom": "2019-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2019-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0688",
+      "versions": [
+        {
+          "id": "URED7658-original",
+          "shortCode": "URED7658",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-03-15",
+          "effectiveFrom": "2019-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6611"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0688",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

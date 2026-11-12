@@ -1,0 +1,58 @@
+{
+  "root": "PRAV15226",
+  "path": "laws/PR/PRAV15226",
+  "members": [
+    {
+      "id": "PRAV15226",
+      "title": "Pravilnik o storitvah, kadrovskih pogojih, usposabljanju in superviziji v dolgotrajni oskrbi",
+      "shortTitle": "Pravilnik o storitvah, kadrovskih pogojih, usposabljanju in superviziji v dolgotrajni oskrbi",
+      "shortCode": "PRAV15226",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0400",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za solidarno prihodnost",
+      "adoptedAt": "2024-02-23",
+      "validFrom": "2024-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0400",
+      "versions": [
+        {
+          "id": "PRAV15226-original",
+          "shortCode": "PRAV15226",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-02-23",
+          "effectiveFrom": "2024-02-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0400",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15226-npb-PRAV15226",
+          "shortCode": "PRAV15226-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-02-23",
+          "effectiveFrom": "2024-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15226",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

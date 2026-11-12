@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7259",
+  "path": "laws/PR/PRAV7259",
+  "members": [
+    {
+      "id": "PRAV7259",
+      "title": "Pravilnik o požarnem redu",
+      "shortTitle": "Pravilnik o požarnem redu",
+      "shortCode": "PRAV7259",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2792",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-22",
+      "validFrom": "2026-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2792",
+      "versions": [
+        {
+          "id": "PRAV7259-original",
+          "shortCode": "PRAV7259",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-22",
+          "effectiveFrom": "2026-01-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2792",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7259-npb-PRAV7259",
+          "shortCode": "PRAV7259-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7259",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

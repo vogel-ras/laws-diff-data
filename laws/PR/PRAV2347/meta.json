@@ -1,0 +1,121 @@
+{
+  "root": "PRAV2347",
+  "path": "laws/PR/PRAV2347",
+  "members": [
+    {
+      "id": "PRAV13103",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o oznakah v Slovenski vojski",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o oznakah v Slovenski vojski",
+      "shortCode": "PRAV13103",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0999",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-04-14",
+      "validFrom": "2017-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2017-04-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0999",
+      "versions": [
+        {
+          "id": "PRAV13103-original",
+          "shortCode": "PRAV13103",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-04-14",
+          "effectiveFrom": "2017-04-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2347"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0999",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2347",
+      "title": "Pravilnik o oznakah v Slovenski vojski",
+      "shortTitle": "Pravilnik o oznakah v Slovenski vojski",
+      "shortCode": "PRAV2347",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-0327",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-01-20",
+      "validFrom": "1995-01-20",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0327",
+      "versions": [
+        {
+          "id": "PRAV2347-original",
+          "shortCode": "PRAV2347",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-01-20",
+          "effectiveFrom": "1995-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0327",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4420",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o oznakah v Slovenski vojski",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o oznakah v Slovenski vojski",
+      "shortCode": "PRAV4420",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4784",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2002-11-13",
+      "validFrom": "2002-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4784",
+      "versions": [
+        {
+          "id": "PRAV4420-original",
+          "shortCode": "PRAV4420",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-13",
+          "effectiveFrom": "2002-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2347"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4784",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

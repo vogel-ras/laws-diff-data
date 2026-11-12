@@ -1,0 +1,58 @@
+{
+  "root": "URED8447",
+  "path": "laws/UR/URED8447",
+  "members": [
+    {
+      "id": "URED8447",
+      "title": "Uredba o nadzoru izvajanja predpisov o delovnem času in obveznih počitkih mobilnih delavcev ter o zapisovalni opremi",
+      "shortTitle": "Uredba o nadzoru izvajanja predpisov o delovnem času in obveznih počitkih mobilnih delavcev ter o zapisovalni opremi",
+      "shortCode": "URED8447",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-1631",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-05-20",
+      "validFrom": "2022-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2022-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1631",
+      "versions": [
+        {
+          "id": "URED8447-original",
+          "shortCode": "URED8447",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-05-20",
+          "effectiveFrom": "2022-05-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1631",
+          "proposer": null
+        },
+        {
+          "id": "URED8447-npb-URED8447",
+          "shortCode": "URED8447-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-05-20",
+          "effectiveFrom": "2022-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8447",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

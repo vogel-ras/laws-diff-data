@@ -1,0 +1,58 @@
+{
+  "root": "NAVO221",
+  "path": "laws/NA/NAVO221",
+  "members": [
+    {
+      "id": "NAVO221",
+      "title": "Pravilnik za izdelavo in potrditev etažnega načrta",
+      "shortTitle": "Pravilnik za izdelavo in potrditev etažnega načrta",
+      "shortCode": "NAVO221",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2000-01-0096",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-01-13",
+      "validFrom": "2000-01-13",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0096",
+      "versions": [
+        {
+          "id": "NAVO221-original",
+          "shortCode": "NAVO221",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-13",
+          "effectiveFrom": "2000-01-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0096",
+          "proposer": null
+        },
+        {
+          "id": "NAVO221-npb-NAVO221",
+          "shortCode": "NAVO221-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-01-13",
+          "effectiveFrom": "2000-01-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO221",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

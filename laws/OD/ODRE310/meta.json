@@ -1,0 +1,82 @@
+{
+  "root": "ODRE310",
+  "path": "laws/OD/ODRE310",
+  "members": [
+    {
+      "id": "ODRE310",
+      "title": "Odredba o enotnem zaščitnem znaku",
+      "shortTitle": "Odredba o enotnem zaščitnem znaku",
+      "shortCode": "ODRE310",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1992-01-0337",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1992-02-07",
+      "validFrom": "1992-02-07",
+      "validTo": null,
+      "latestPublishedAt": "1992-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0337",
+      "versions": [
+        {
+          "id": "ODRE310-original",
+          "shortCode": "ODRE310",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-02-07",
+          "effectiveFrom": "1992-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0337",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE311",
+      "title": "Odredba o spremembi odredbe o enotnem zaščitnem znaku",
+      "shortTitle": "Odredba o spremembi odredbe o enotnem zaščitnem znaku",
+      "shortCode": "ODRE311",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1992-01-0412",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1992-02-20",
+      "validFrom": "1992-02-20",
+      "validTo": null,
+      "latestPublishedAt": "1992-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0412",
+      "versions": [
+        {
+          "id": "ODRE311-original",
+          "shortCode": "ODRE311",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-02-20",
+          "effectiveFrom": "1992-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE310"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0412",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

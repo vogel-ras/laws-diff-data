@@ -1,0 +1,229 @@
+{
+  "root": "ZIntPK",
+  "path": "laws/ZI/ZIntPK",
+  "members": [
+    {
+      "id": "ZIntPK",
+      "title": "Zakon o integriteti in preprečevanju korupcije",
+      "shortTitle": "Zakon o integriteti in preprečevanju korupcije",
+      "shortCode": "ZIntPK",
+      "kind": "zakon",
+      "keywords": [
+        "korupcija",
+        "javni uslužbenec",
+        "javna uprava",
+        "interesna skupina",
+        "navzkrižje interesov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2226",
+      "gazette": "Uradni list RS 45/10  str. 6581",
+      "issuingBody": null,
+      "adoptedAt": "2010-06-04",
+      "validFrom": "2010-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2226",
+      "versions": [
+        {
+          "id": "ZIntPK-original",
+          "shortCode": "ZIntPK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/10  str. 6581",
+          "publishedAt": "2010-06-04",
+          "effectiveFrom": "2010-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2226",
+          "proposer": null
+        },
+        {
+          "id": "ZIntPK-amend-ZIntPK-A",
+          "shortCode": "ZIntPK-A",
+          "label": "Sprememba ZIntPK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 26/11  str. 3408",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1154",
+          "proposer": null
+        },
+        {
+          "id": "ZIntPK-amend-ZIntPK-B",
+          "shortCode": "ZIntPK-B",
+          "label": "Sprememba ZIntPK-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 43/11  str. 5690",
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2043",
+          "proposer": null
+        },
+        {
+          "id": "ZIntPK-amend-ZIntPK-C",
+          "shortCode": "ZIntPK-C",
+          "label": "Sprememba ZIntPK-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 158/20  str. 6733",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2765",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIntPK-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortCode": "ZIntPK-A",
+      "kind": "zakon",
+      "keywords": [
+        "javni uslužbenec",
+        "korupcija",
+        "javna uprava",
+        "interesna skupina",
+        "navzkrižje interesov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1154",
+      "gazette": "Uradni list RS 26/11  str. 3408",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1154",
+      "versions": [
+        {
+          "id": "ZIntPK-A-original",
+          "shortCode": "ZIntPK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3408",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1154",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIntPK-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortCode": "ZIntPK-B",
+      "kind": "zakon",
+      "keywords": [
+        "javni uslužbenec",
+        "javna uprava",
+        "korupcija",
+        "navzkrižje interesov",
+        "interesna skupina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-2043",
+      "gazette": "Uradni list RS 43/11  str. 5690",
+      "issuingBody": null,
+      "adoptedAt": "2011-06-03",
+      "validFrom": "2011-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2043",
+      "versions": [
+        {
+          "id": "ZIntPK-B-original",
+          "shortCode": "ZIntPK-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/11  str. 5690",
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2043",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIntPK-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o integriteti in preprečevanju korupcije",
+      "shortCode": "ZIntPK-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2765",
+      "gazette": "Uradni list RS 158/20  str. 6733",
+      "issuingBody": null,
+      "adoptedAt": "2020-11-02",
+      "validFrom": "2020-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2765",
+      "versions": [
+        {
+          "id": "ZIntPK-C-original",
+          "shortCode": "ZIntPK-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 158/20  str. 6733",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIntPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2765",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

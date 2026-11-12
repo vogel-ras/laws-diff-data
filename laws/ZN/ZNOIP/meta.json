@@ -1,0 +1,103 @@
+{
+  "root": "ZNOIP",
+  "path": "laws/ZN/ZNOIP",
+  "members": [
+    {
+      "id": "ZNOIP",
+      "title": "Zakon o načinu obračunavanja in izplačevanja plač",
+      "shortTitle": "Zakon o načinu obračunavanja in izplačevanja plač",
+      "shortCode": "ZNOIP",
+      "kind": "zakon",
+      "keywords": [
+        "plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0590",
+      "gazette": "Uradni list RS 13/93  str. 568",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1993-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0590",
+      "versions": [
+        {
+          "id": "ZNOIP-original",
+          "shortCode": "ZNOIP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 568",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0590",
+          "proposer": null
+        },
+        {
+          "id": "ZNOIP-amend-ZNOIP-A",
+          "shortCode": "ZNOIP-A",
+          "label": "Sprememba ZNOIP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 17/93  str. 813",
+          "publishedAt": "1993-04-05",
+          "effectiveFrom": "1993-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNOIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0802",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNOIP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o načinu obračunavanja in izplačevanja plač",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o načinu obračunavanja in izplačevanja plač",
+      "shortCode": "ZNOIP-A",
+      "kind": "zakon",
+      "keywords": [
+        "plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0802",
+      "gazette": "Uradni list RS 17/93  str. 813",
+      "issuingBody": null,
+      "adoptedAt": "1993-04-05",
+      "validFrom": "1993-04-05",
+      "validTo": null,
+      "latestPublishedAt": "1993-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0802",
+      "versions": [
+        {
+          "id": "ZNOIP-A-original",
+          "shortCode": "ZNOIP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/93  str. 813",
+          "publishedAt": "1993-04-05",
+          "effectiveFrom": "1993-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNOIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0802",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

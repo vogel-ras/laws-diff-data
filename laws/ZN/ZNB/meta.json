@@ -1,0 +1,215 @@
+{
+  "root": "ZNB",
+  "path": "laws/ZN/ZNB",
+  "members": [
+    {
+      "id": "ZNB",
+      "title": "Zakon o nalezljivih boleznih",
+      "shortTitle": "Zakon o nalezljivih boleznih",
+      "shortCode": "ZNB",
+      "kind": "zakon",
+      "keywords": [
+        "nalezljiva bolezen"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-3133",
+      "gazette": "Uradni list RS 69/95  str. 5291",
+      "issuingBody": null,
+      "adoptedAt": "1995-12-01",
+      "validFrom": "1995-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3133",
+      "versions": [
+        {
+          "id": "ZNB-original",
+          "shortCode": "ZNB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/95  str. 5291",
+          "publishedAt": "1995-12-01",
+          "effectiveFrom": "1995-12-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3133",
+          "proposer": null
+        },
+        {
+          "id": "ZNB-amend-ZNB-A",
+          "shortCode": "ZNB-A",
+          "label": "Sprememba ZNB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 119/05  str. 13645",
+          "publishedAt": "2005-12-28",
+          "effectiveFrom": "2005-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5311",
+          "proposer": null
+        },
+        {
+          "id": "ZNB-amend-ZNB-B",
+          "shortCode": "ZNB-B",
+          "label": "Sprememba ZNB-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 142/20  str. 6175",
+          "publishedAt": "2020-10-14",
+          "effectiveFrom": "2020-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2523",
+          "proposer": null
+        },
+        {
+          "id": "ZNB-amend-ZNB-D",
+          "shortCode": "ZNB-D",
+          "label": "Sprememba ZNB-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 125/22  str. 8615",
+          "publishedAt": "2022-09-30",
+          "effectiveFrom": "2022-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2917",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNB-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o nalezljivih boleznih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o nalezljivih boleznih",
+      "shortCode": "ZNB-A",
+      "kind": "zakon",
+      "keywords": [
+        "nalezljiva bolezen"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-5311",
+      "gazette": "Uradni list RS 119/05  str. 13645",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-28",
+      "validFrom": "2005-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5311",
+      "versions": [
+        {
+          "id": "ZNB-A-original",
+          "shortCode": "ZNB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 119/05  str. 13645",
+          "publishedAt": "2005-12-28",
+          "effectiveFrom": "2005-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5311",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNB-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih",
+      "shortCode": "ZNB-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2523",
+      "gazette": "Uradni list RS 142/20  str. 6175",
+      "issuingBody": null,
+      "adoptedAt": "2020-10-14",
+      "validFrom": "2020-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2523",
+      "versions": [
+        {
+          "id": "ZNB-B-original",
+          "shortCode": "ZNB-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 142/20  str. 6175",
+          "publishedAt": "2020-10-14",
+          "effectiveFrom": "2020-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2523",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNB-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nalezljivih boleznih",
+      "shortCode": "ZNB-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-2917",
+      "gazette": "Uradni list RS 125/22  str. 8615",
+      "issuingBody": null,
+      "adoptedAt": "2022-09-30",
+      "validFrom": "2022-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2917",
+      "versions": [
+        {
+          "id": "ZNB-D-original",
+          "shortCode": "ZNB-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 125/22  str. 8615",
+          "publishedAt": "2022-09-30",
+          "effectiveFrom": "2022-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2917",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

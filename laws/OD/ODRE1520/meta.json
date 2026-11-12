@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1520",
+  "path": "laws/OD/ODRE1520",
+  "members": [
+    {
+      "id": "ODRE1520",
+      "title": "Odredba o določitvi primerov, ko zaposlitev tujca zaradi narave dela ni vezana na trg dela",
+      "shortTitle": "Odredba o določitvi primerov, ko zaposlitev tujca zaradi narave dela ni vezana na trg dela",
+      "shortCode": "ODRE1520",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-0430",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2001-02-01",
+      "validFrom": "2001-02-01",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0430",
+      "versions": [
+        {
+          "id": "ODRE1520-original",
+          "shortCode": "ODRE1520",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-01",
+          "effectiveFrom": "2001-02-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0430",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1958",
+      "title": "Odredba o spremembi Odredbe o določitvi primerov, ko zaposlitev tujca zaradi narave dela ni vezana na trg dela",
+      "shortTitle": "Odredba o spremembi Odredbe o določitvi primerov, ko zaposlitev tujca zaradi narave dela ni vezana na trg dela",
+      "shortCode": "ODRE1958",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2005-01-4107",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-10-25",
+      "validFrom": "2005-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4107",
+      "versions": [
+        {
+          "id": "ODRE1958-original",
+          "shortCode": "ODRE1958",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-25",
+          "effectiveFrom": "2005-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1520"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4107",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

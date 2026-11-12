@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4372",
+  "path": "laws/PR/PRAV4372",
+  "members": [
+    {
+      "id": "PRAV4372",
+      "title": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2002",
+      "shortTitle": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2002",
+      "shortCode": "PRAV4372",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4401",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-10-18",
+      "validFrom": "2002-10-18",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4401",
+      "versions": [
+        {
+          "id": "PRAV4372-original",
+          "shortCode": "PRAV4372",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-18",
+          "effectiveFrom": "2002-10-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4401",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4444",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2002",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2002",
+      "shortCode": "PRAV4444",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5077",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2002-11-22",
+      "validFrom": "2002-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5077",
+      "versions": [
+        {
+          "id": "PRAV4444-original",
+          "shortCode": "PRAV4444",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-22",
+          "effectiveFrom": "2002-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4372"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5077",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

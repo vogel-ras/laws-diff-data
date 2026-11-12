@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO45812",
+  "path": "ordinances/MP/MP_ODLO45812",
+  "members": [
+    {
+      "id": "MP_ODLO45812",
+      "title": "Odlok o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Miren - Kostanjevica (ODLO)",
+      "shortTitle": "Odlok o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Miren - Kostanjevica (ODLO)",
+      "shortCode": "MP_ODLO45812",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-1912",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1912",
+      "versions": [
+        {
+          "id": "MP_ODLO45812-original",
+          "shortCode": "MP_ODLO45812",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1912",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO51076",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Miren - Kostanjevica (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Miren - Kostanjevica (ODLO)",
+      "shortCode": "MP_ODLO51076",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Miren - Kostanjevica",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-1882",
+      "gazette": null,
+      "issuingBody": "Občina Miren - Kostanjevica",
+      "adoptedAt": "2024-06-28",
+      "validFrom": "2024-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1882",
+      "versions": [
+        {
+          "id": "MP_ODLO51076-original",
+          "shortCode": "MP_ODLO51076",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO45812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1882",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2404",
+  "path": "laws/PR/PRAV2404",
+  "members": [
+    {
+      "id": "PRAV2404",
+      "title": "Pravilnik o meroslovnih zahtevah za nadzorne naprave za kontrolo dela voznika in gibanja vozila v cestnem prometu",
+      "shortTitle": "Pravilnik o meroslovnih zahtevah za nadzorne naprave za kontrolo dela voznika in gibanja vozila v cestnem prometu",
+      "shortCode": "PRAV2404",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-2800",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-09-04",
+      "validFrom": "1998-09-04",
+      "validTo": null,
+      "latestPublishedAt": "1998-09-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2800",
+      "versions": [
+        {
+          "id": "PRAV2404-original",
+          "shortCode": "PRAV2404",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-09-04",
+          "effectiveFrom": "1998-09-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2800",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2540",
+      "title": "Pravilnik o spremembi pravilnika o meroslovnih zahtevah za nadzorne naprave za kontrolo dela voznika in gibanja vozila v cestnem prometu",
+      "shortTitle": "Pravilnik o spremembi pravilnika o meroslovnih zahtevah za nadzorne naprave za kontrolo dela voznika in gibanja vozila v cestnem prometu",
+      "shortCode": "PRAV2540",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0757",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-02-25",
+      "validFrom": "2000-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0757",
+      "versions": [
+        {
+          "id": "PRAV2540-original",
+          "shortCode": "PRAV2540",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-25",
+          "effectiveFrom": "2000-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2404"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0757",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

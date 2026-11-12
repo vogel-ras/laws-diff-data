@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11835",
+  "path": "laws/PR/PRAV11835",
+  "members": [
+    {
+      "id": "PRAV11835",
+      "title": "Pravilnik o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortTitle": "Pravilnik o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortCode": "PRAV11835",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-3192",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2013-10-25",
+      "validFrom": "2013-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3192",
+      "versions": [
+        {
+          "id": "PRAV11835-original",
+          "shortCode": "PRAV11835",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-10-25",
+          "effectiveFrom": "2013-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3192",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11835-npb-PRAV11835",
+          "shortCode": "PRAV11835-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-10-25",
+          "effectiveFrom": "2013-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11835",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14312",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortCode": "PRAV14312",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2339",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2021-07-09",
+      "validFrom": "2021-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2339",
+      "versions": [
+        {
+          "id": "PRAV14312-original",
+          "shortCode": "PRAV14312",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-07-09",
+          "effectiveFrom": "2021-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11835"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2339",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14995",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodatni strokovni in fizični pomoči za otroke s posebnimi potrebami",
+      "shortCode": "PRAV14995",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1353",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-04-21",
+      "validFrom": "2023-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1353",
+      "versions": [
+        {
+          "id": "PRAV14995-original",
+          "shortCode": "PRAV14995",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-04-21",
+          "effectiveFrom": "2023-04-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11835"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1353",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED5367",
+  "path": "laws/UR/URED5367",
+  "members": [
+    {
+      "id": "URED5367",
+      "title": "Uredba o sodelovanju državnega tožilstva, policije in drugih pristojnih državnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin",
+      "shortTitle": "Uredba o sodelovanju državnega tožilstva, policije in drugih pristojnih državnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin",
+      "shortCode": "URED5367",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-4491",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-30",
+      "validFrom": "2025-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4491",
+      "versions": [
+        {
+          "id": "URED5367-original",
+          "shortCode": "URED5367",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-30",
+          "effectiveFrom": "2025-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4491",
+          "proposer": null
+        },
+        {
+          "id": "URED5367-npb-URED5367",
+          "shortCode": "URED5367-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-10-22",
+          "effectiveFrom": "2010-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5367",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9820",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sodelovanju državnega tožilstva, policije in drugih pristojnih državnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sodelovanju državnega tožilstva, policije in drugih pristojnih državnih organov in institucij pri odkrivanju in pregonu storilcev kaznivih dejanj ter delovanju specializiranih in skupnih preiskovalnih skupin",
+      "shortCode": "URED9820",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-2359",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-19",
+      "validFrom": "2026-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2359",
+      "versions": [
+        {
+          "id": "URED9820-original",
+          "shortCode": "URED9820",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-19",
+          "effectiveFrom": "2026-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5367"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2359",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

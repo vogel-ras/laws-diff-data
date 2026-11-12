@@ -1,0 +1,58 @@
+{
+  "root": "PRAV14047",
+  "path": "laws/PR/PRAV14047",
+  "members": [
+    {
+      "id": "PRAV14047",
+      "title": "Pravilnik o znamki",
+      "shortTitle": "Pravilnik o znamki",
+      "shortCode": "PRAV14047",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-1646",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarski razvoj in tehnologijo",
+      "adoptedAt": "2020-07-03",
+      "validFrom": "2020-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1646",
+      "versions": [
+        {
+          "id": "PRAV14047-original",
+          "shortCode": "PRAV14047",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-07-03",
+          "effectiveFrom": "2020-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1646",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14047-npb-PRAV14047",
+          "shortCode": "PRAV14047-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-07-03",
+          "effectiveFrom": "2020-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14047",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

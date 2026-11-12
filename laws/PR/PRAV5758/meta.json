@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5758",
+  "path": "laws/PR/PRAV5758",
+  "members": [
+    {
+      "id": "PRAV5758",
+      "title": "Pravilnik o postopku redne overitve merilnikov krvnega tlaka",
+      "shortTitle": "Pravilnik o postopku redne overitve merilnikov krvnega tlaka",
+      "shortCode": "PRAV5758",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1013",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2004-03-15",
+      "validFrom": "2004-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1013",
+      "versions": [
+        {
+          "id": "PRAV5758-original",
+          "shortCode": "PRAV5758",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-15",
+          "effectiveFrom": "2004-03-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1013",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5758-npb-PRAV5758",
+          "shortCode": "PRAV5758-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-15",
+          "effectiveFrom": "2004-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5758",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7293",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku redne overitve merilnikov krvnega tlaka",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku redne overitve merilnikov krvnega tlaka",
+      "shortCode": "PRAV7293",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1530",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-04-07",
+      "validFrom": "2006-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1530",
+      "versions": [
+        {
+          "id": "PRAV7293-original",
+          "shortCode": "PRAV7293",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-07",
+          "effectiveFrom": "2006-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5758"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1530",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "ODLO236",
+  "path": "ordinances/OD/ODLO236",
+  "members": [
+    {
+      "id": "ODLO1337",
+      "title": "Odlok o spremembi odloka o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1337",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-5030",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-11-24",
+      "validFrom": "2003-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5030",
+      "versions": [
+        {
+          "id": "ODLO1337-original",
+          "shortCode": "ODLO1337",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-24",
+          "effectiveFrom": "2003-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO236"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5030",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO236",
+      "title": "Odlok o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Cerkve Marijinega oznanjenja v Crngrobu za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO236",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3815",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-09",
+      "validFrom": "2026-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3815",
+      "versions": [
+        {
+          "id": "ODLO236-original",
+          "shortCode": "ODLO236",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-09",
+          "effectiveFrom": "2026-02-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3815",
+          "proposer": null
+        },
+        {
+          "id": "ODLO236-npb-ODLO236",
+          "shortCode": "ODLO236-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO236",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

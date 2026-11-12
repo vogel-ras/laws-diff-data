@@ -1,0 +1,165 @@
+{
+  "root": "ZIPRS1112",
+  "path": "laws/ZI/ZIPRS1112",
+  "members": [
+    {
+      "id": "ZIPRS1112",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortCode": "ZIPRS1112",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "državni proračun",
+        "proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5014",
+      "gazette": "Uradni list RS 96/10  str. 14994",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-01",
+      "validFrom": "2010-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5014",
+      "versions": [
+        {
+          "id": "ZIPRS1112-original",
+          "shortCode": "ZIPRS1112",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/10  str. 14994",
+          "publishedAt": "2010-12-01",
+          "effectiveFrom": "2010-12-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5014",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1112-amend-ZIPRS1112-A",
+          "shortCode": "ZIPRS1112-A",
+          "label": "Sprememba ZIPRS1112-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 4/11  str. 333",
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS1112"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0100",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS1112-amend-ZIPRS1112-B",
+          "shortCode": "ZIPRS1112-B",
+          "label": "Sprememba ZIPRS1112-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 37/12  str. 3818",
+          "publishedAt": "2012-05-21",
+          "effectiveFrom": "2012-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1112"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1616",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1112-A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortCode": "ZIPRS1112-A",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0100",
+      "gazette": "Uradni list RS 4/11  str. 333",
+      "issuingBody": null,
+      "adoptedAt": "2011-01-21",
+      "validFrom": "2011-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0100",
+      "versions": [
+        {
+          "id": "ZIPRS1112-A-original",
+          "shortCode": "ZIPRS1112-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 4/11  str. 333",
+          "publishedAt": "2011-01-21",
+          "effectiveFrom": "2011-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1112"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0100",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1112-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2011 in 2012",
+      "shortCode": "ZIPRS1112-B",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1616",
+      "gazette": "Uradni list RS 37/12  str. 3818",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-21",
+      "validFrom": "2012-05-21",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1616",
+      "versions": [
+        {
+          "id": "ZIPRS1112-B-original",
+          "shortCode": "ZIPRS1112-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/12  str. 3818",
+          "publishedAt": "2012-05-21",
+          "effectiveFrom": "2012-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS1112"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1616",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

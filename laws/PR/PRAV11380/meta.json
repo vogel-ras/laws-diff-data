@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11380",
+  "path": "laws/PR/PRAV11380",
+  "members": [
+    {
+      "id": "PRAV11380",
+      "title": "Pravilnik o dokumentaciji v vrtcih",
+      "shortTitle": "Pravilnik o dokumentaciji v vrtcih",
+      "shortCode": "PRAV11380",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2531",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-05-19",
+      "validFrom": "2025-05-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2531",
+      "versions": [
+        {
+          "id": "PRAV11380-original",
+          "shortCode": "PRAV11380",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-19",
+          "effectiveFrom": "2025-05-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2531",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11380-npb-PRAV11380",
+          "shortCode": "PRAV11380-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-14",
+          "effectiveFrom": "2026-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11380",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16082",
+      "title": "Pravilnik o spremembi Pravilnika o dokumentaciji v vrtcih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o dokumentaciji v vrtcih",
+      "shortCode": "PRAV16082",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0599",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za vzgojo in izobraževanje",
+      "adoptedAt": "2026-02-27",
+      "validFrom": "2026-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0599",
+      "versions": [
+        {
+          "id": "PRAV16082-original",
+          "shortCode": "PRAV16082",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-27",
+          "effectiveFrom": "2026-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11380"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0599",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

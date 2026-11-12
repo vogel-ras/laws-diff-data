@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12440",
+  "path": "laws/PR/PRAV12440",
+  "members": [
+    {
+      "id": "PRAV12440",
+      "title": "Pravilnik o nošenju uniforme v Finančni upravi Republike Slovenije",
+      "shortTitle": "Pravilnik o nošenju uniforme v Finančni upravi Republike Slovenije",
+      "shortCode": "PRAV12440",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1116",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-11",
+      "validFrom": "2024-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1116",
+      "versions": [
+        {
+          "id": "PRAV12440-original",
+          "shortCode": "PRAV12440",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-11",
+          "effectiveFrom": "2024-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1116",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12440-npb-PRAV12440",
+          "shortCode": "PRAV12440-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-04-17",
+          "effectiveFrom": "2015-04-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13755",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o nošenju uniforme v Finančni upravi Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o nošenju uniforme v Finančni upravi Republike Slovenije",
+      "shortCode": "PRAV13755",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1512",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-05-24",
+      "validFrom": "2019-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1512",
+      "versions": [
+        {
+          "id": "PRAV13755-original",
+          "shortCode": "PRAV13755",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-24",
+          "effectiveFrom": "2019-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12440"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1512",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

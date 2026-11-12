@@ -1,0 +1,97 @@
+{
+  "root": "ODRE976",
+  "path": "laws/OD/ODRE976",
+  "members": [
+    {
+      "id": "ODRE976",
+      "title": "Odredba o pogojih sklepanja poslov z vrednostnimi papirji, ki kotirajo na Ljubljanski borzi. d.d. Ljubljana",
+      "shortTitle": "Odredba o pogojih sklepanja poslov z vrednostnimi papirji, ki kotirajo na Ljubljanski borzi. d.d. Ljubljana",
+      "shortCode": "ODRE976",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1992-01-2768",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-07-22",
+      "validFrom": "1993-07-22",
+      "validTo": null,
+      "latestPublishedAt": "1993-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2768",
+      "versions": [
+        {
+          "id": "ODRE976-original",
+          "shortCode": "ODRE976",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-07-22",
+          "effectiveFrom": "1993-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2768",
+          "proposer": null
+        },
+        {
+          "id": "ODRE976-npb-ODRE976",
+          "shortCode": "ODRE976-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1992-12-24",
+          "effectiveFrom": "1992-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE978",
+      "title": "Odredba o spremembi odredbe o pogojih sklepanja poslov z vrednostnimi papirji, ki kotirajo na Ljubljanski borzi. d.d. Ljubljana",
+      "shortTitle": "Odredba o spremembi odredbe o pogojih sklepanja poslov z vrednostnimi papirji, ki kotirajo na Ljubljanski borzi. d.d. Ljubljana",
+      "shortCode": "ODRE978",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1993-01-2012",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-10-01",
+      "validFrom": "1993-10-01",
+      "validTo": null,
+      "latestPublishedAt": "1993-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2012",
+      "versions": [
+        {
+          "id": "ODRE978-original",
+          "shortCode": "ODRE978",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-10-01",
+          "effectiveFrom": "1993-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2012",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

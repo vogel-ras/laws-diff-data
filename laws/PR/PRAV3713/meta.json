@@ -1,0 +1,58 @@
+{
+  "root": "PRAV3713",
+  "path": "laws/PR/PRAV3713",
+  "members": [
+    {
+      "id": "PRAV3713",
+      "title": "Pravilnik o pitni vodi",
+      "shortTitle": "Pravilnik o pitni vodi",
+      "shortCode": "PRAV3713",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0865",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-04-09",
+      "validFrom": "2004-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0865",
+      "versions": [
+        {
+          "id": "PRAV3713-original",
+          "shortCode": "PRAV3713",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-09",
+          "effectiveFrom": "2004-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0865",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3713-npb-PRAV3713",
+          "shortCode": "PRAV3713-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 6)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-01",
+          "effectiveFrom": "2004-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3713",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

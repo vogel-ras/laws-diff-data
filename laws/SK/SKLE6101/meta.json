@@ -1,0 +1,82 @@
+{
+  "root": "SKLE6101",
+  "path": "laws/SK/SKLE6101",
+  "members": [
+    {
+      "id": "SKLE6101",
+      "title": "Sklep o odprtju Konzulata Republike Slovenije v Harkovu",
+      "shortTitle": "Sklep o odprtju Konzulata Republike Slovenije v Harkovu",
+      "shortCode": "SKLE6101",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-4146",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-09-04",
+      "validFrom": "2007-09-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-09-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4146",
+      "versions": [
+        {
+          "id": "SKLE6101-original",
+          "shortCode": "SKLE6101",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-09-04",
+          "effectiveFrom": "2007-09-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4146",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8061",
+      "title": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Harkovu",
+      "shortTitle": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Harkovu",
+      "shortCode": "SKLE8061",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-4413",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-10-22",
+      "validFrom": "2010-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4413",
+      "versions": [
+        {
+          "id": "SKLE8061-original",
+          "shortCode": "SKLE8061",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-10-22",
+          "effectiveFrom": "2010-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE6101"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4413",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

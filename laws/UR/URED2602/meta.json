@@ -1,0 +1,58 @@
+{
+  "root": "URED2602",
+  "path": "laws/UR/URED2602",
+  "members": [
+    {
+      "id": "URED2602",
+      "title": "Uredba o zatočišču za živali prosto živečih vrst",
+      "shortTitle": "Uredba o zatočišču za živali prosto živečih vrst",
+      "shortCode": "URED2602",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-4893",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-11-20",
+      "validFrom": "2002-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4893",
+      "versions": [
+        {
+          "id": "URED2602-original",
+          "shortCode": "URED2602",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4893",
+          "proposer": null
+        },
+        {
+          "id": "URED2602-npb-URED2602",
+          "shortCode": "URED2602-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2602",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

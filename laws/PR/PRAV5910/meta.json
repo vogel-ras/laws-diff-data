@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5910",
+  "path": "laws/PR/PRAV5910",
+  "members": [
+    {
+      "id": "PRAV11345",
+      "title": "Pravilnik o spremembi Pravilnika o rekreacijskih plovilih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o rekreacijskih plovilih",
+      "shortCode": "PRAV11345",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2069",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarski razvoj in tehnologijo",
+      "adoptedAt": "2012-06-29",
+      "validFrom": "2012-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2069",
+      "versions": [
+        {
+          "id": "PRAV11345-original",
+          "shortCode": "PRAV11345",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-29",
+          "effectiveFrom": "2012-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5910"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2069",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5910",
+      "title": "Pravilnik o rekreacijskih plovilih",
+      "shortTitle": "Pravilnik o rekreacijskih plovilih",
+      "shortCode": "PRAV5910",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4637",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2004-10-15",
+      "validFrom": "2004-10-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4637",
+      "versions": [
+        {
+          "id": "PRAV5910-original",
+          "shortCode": "PRAV5910",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-15",
+          "effectiveFrom": "2004-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4637",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

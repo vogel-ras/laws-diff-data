@@ -1,0 +1,97 @@
+{
+  "root": "URED5336",
+  "path": "laws/UR/URED5336",
+  "members": [
+    {
+      "id": "URED5336",
+      "title": "Uredba o izvajanju uredbe (ES) o aditivih za živila",
+      "shortTitle": "Uredba o izvajanju uredbe (ES) o aditivih za živila",
+      "shortCode": "URED5336",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0548",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-22",
+      "validFrom": "2025-08-22",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0548",
+      "versions": [
+        {
+          "id": "URED5336-original",
+          "shortCode": "URED5336",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-22",
+          "effectiveFrom": "2025-08-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0548",
+          "proposer": null
+        },
+        {
+          "id": "URED5336-npb-URED5336",
+          "shortCode": "URED5336-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-02-25",
+          "effectiveFrom": "2011-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5336",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6055",
+      "title": "Uredba o spremembah Uredbe o izvajanju uredbe (ES) o aditivih za živila",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju uredbe (ES) o aditivih za živila",
+      "shortCode": "URED6055",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-3448",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-11-16",
+      "validFrom": "2012-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3448",
+      "versions": [
+        {
+          "id": "URED6055-original",
+          "shortCode": "URED6055",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-11-16",
+          "effectiveFrom": "2012-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5336"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3448",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

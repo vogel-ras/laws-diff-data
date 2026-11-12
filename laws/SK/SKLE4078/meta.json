@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4078",
+  "path": "laws/SK/SKLE4078",
+  "members": [
+    {
+      "id": "SKLE4078",
+      "title": "Sklep o podrobnejši vsebini in načinu izdelave seznama povezanih oseb",
+      "shortTitle": "Sklep o podrobnejši vsebini in načinu izdelave seznama povezanih oseb",
+      "shortCode": "SKLE4078",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3842",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-08-14",
+      "validFrom": "2003-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3842",
+      "versions": [
+        {
+          "id": "SKLE4078-original",
+          "shortCode": "SKLE4078",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-14",
+          "effectiveFrom": "2003-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3842",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE7806",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini in načinu izdelave seznama povezanih oseb",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini in načinu izdelave seznama povezanih oseb",
+      "shortCode": "SKLE7806",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2008-01-4284",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-10-24",
+      "validFrom": "2008-10-24",
+      "validTo": null,
+      "latestPublishedAt": "2008-10-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4284",
+      "versions": [
+        {
+          "id": "SKLE7806-original",
+          "shortCode": "SKLE7806",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-10-24",
+          "effectiveFrom": "2008-10-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4078"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4284",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

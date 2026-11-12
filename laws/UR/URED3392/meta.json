@@ -1,0 +1,58 @@
+{
+  "root": "URED3392",
+  "path": "laws/UR/URED3392",
+  "members": [
+    {
+      "id": "URED3392",
+      "title": "Uredba o posredovanju podatkov in poročanju o dodeljenih državnih pomočeh in pomočeh po pravilu »de minimis«",
+      "shortTitle": "Uredba o posredovanju podatkov in poročanju o dodeljenih državnih pomočeh in pomočeh po pravilu »de minimis«",
+      "shortCode": "URED3392",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2807",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-06-04",
+      "validFrom": "2004-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2807",
+      "versions": [
+        {
+          "id": "URED3392-original",
+          "shortCode": "URED3392",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2807",
+          "proposer": null
+        },
+        {
+          "id": "URED3392-npb-URED3392",
+          "shortCode": "URED3392-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3392",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

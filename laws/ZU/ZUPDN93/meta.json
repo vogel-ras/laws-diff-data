@@ -1,0 +1,107 @@
+{
+  "root": "ZUPDN93",
+  "path": "laws/ZU/ZUPDN93",
+  "members": [
+    {
+      "id": "ZUPDN93",
+      "title": "Zakon o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti v letu 1993",
+      "shortTitle": "Zakon o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti v letu 1993",
+      "shortCode": "ZUPDN93",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "socialna varnost",
+        "zavarovanje za primer brezposelnosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0493",
+      "gazette": "Uradni list RS 12/93  str. 498",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-05",
+      "validFrom": "1993-03-05",
+      "validTo": null,
+      "latestPublishedAt": "1993-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0493",
+      "versions": [
+        {
+          "id": "ZUPDN93-original",
+          "shortCode": "ZUPDN93",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/93  str. 498",
+          "publishedAt": "1993-03-05",
+          "effectiveFrom": "1993-03-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0493",
+          "proposer": null
+        },
+        {
+          "id": "ZUPDN93-amend-ZUPDN93-A",
+          "shortCode": "ZUPDN93-A",
+          "label": "Sprememba ZUPDN93-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 12/93  str. 814",
+          "publishedAt": "1993-04-05",
+          "effectiveFrom": "1993-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPDN93"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0803",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUPDN93-A",
+      "title": "Zakon o spremembah zakona o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti v letu 1993",
+      "shortTitle": "Zakon o spremembah zakona o usklajevanju pokojnin in denarnih nadomestil za primer brezposelnosti v letu 1993",
+      "shortCode": "ZUPDN93-A",
+      "kind": "zakon",
+      "keywords": [
+        "socialna varnost",
+        "sistem pokojninskega zavarovanja",
+        "zavarovanje za primer brezposelnosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0803",
+      "gazette": "Uradni list RS 12/93  str. 814",
+      "issuingBody": null,
+      "adoptedAt": "1993-04-05",
+      "validFrom": "1993-04-05",
+      "validTo": null,
+      "latestPublishedAt": "1993-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0803",
+      "versions": [
+        {
+          "id": "ZUPDN93-A-original",
+          "shortCode": "ZUPDN93-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/93  str. 814",
+          "publishedAt": "1993-04-05",
+          "effectiveFrom": "1993-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPDN93"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0803",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

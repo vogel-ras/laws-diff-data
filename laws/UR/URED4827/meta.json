@@ -1,0 +1,58 @@
+{
+  "root": "URED4827",
+  "path": "laws/UR/URED4827",
+  "members": [
+    {
+      "id": "URED4827",
+      "title": "Uredba o državnem lokacijskem načrtu za daljnovod 2 x 110 kV Murska Sobota - Mačkovci",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za daljnovod 2 x 110 kV Murska Sobota - Mačkovci",
+      "shortCode": "URED4827",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2565",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-17",
+      "validFrom": "2026-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2565",
+      "versions": [
+        {
+          "id": "URED4827-original",
+          "shortCode": "URED4827",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-17",
+          "effectiveFrom": "2026-03-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2565",
+          "proposer": null
+        },
+        {
+          "id": "URED4827-npb-URED4827",
+          "shortCode": "URED4827-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-28",
+          "effectiveFrom": "2026-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4827",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

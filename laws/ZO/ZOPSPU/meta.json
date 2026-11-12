@@ -1,0 +1,202 @@
+{
+  "root": "ZOPSPU",
+  "path": "laws/ZO/ZOPSPU",
+  "members": [
+    {
+      "id": "ZOPSPU",
+      "title": "Zakon o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Zakon o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "ZOPSPU",
+      "kind": "zakon",
+      "keywords": [
+        "finančna zakonodaja",
+        "proračun",
+        "opravljanje storitev",
+        "plačilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3271",
+      "gazette": "Uradni list RS 59/10  str. 8887",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3271",
+      "versions": [
+        {
+          "id": "ZOPSPU-original",
+          "shortCode": "ZOPSPU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/10  str. 8887",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3271",
+          "proposer": null
+        },
+        {
+          "id": "ZOPSPU-amend-ZOPSPU-A",
+          "shortCode": "ZOPSPU-A",
+          "label": "Sprememba ZOPSPU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 111/13  str. 13153",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPSPU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4128",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPSPU-1",
+      "title": "Zakon o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Zakon o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "ZOPSPU-1",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-3228",
+      "gazette": "Uradni list RS 77/16  str. 11023",
+      "issuingBody": null,
+      "adoptedAt": "2016-12-02",
+      "validFrom": "2016-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3228",
+      "versions": [
+        {
+          "id": "ZOPSPU-1-original",
+          "shortCode": "ZOPSPU-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/16  str. 11023",
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3228",
+          "proposer": null
+        },
+        {
+          "id": "ZOPSPU-1-amend-ZOPSPU-1A",
+          "shortCode": "ZOPSPU-1A",
+          "label": "Sprememba ZOPSPU-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/19  str. 5897",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPSPU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPSPU-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "ZOPSPU-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2291",
+      "gazette": "Uradni list RS 47/19  str. 5897",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-26",
+      "validFrom": "2019-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2291",
+      "versions": [
+        {
+          "id": "ZOPSPU-1A-original",
+          "shortCode": "ZOPSPU-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/19  str. 5897",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPSPU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPSPU-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o opravljanju plačilnih storitev za proračunske uporabnike",
+      "shortCode": "ZOPSPU-A",
+      "kind": "zakon",
+      "keywords": [
+        "proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4128",
+      "gazette": "Uradni list RS 111/13  str. 13153",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4128",
+      "versions": [
+        {
+          "id": "ZOPSPU-A-original",
+          "shortCode": "ZOPSPU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/13  str. 13153",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPSPU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4128",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

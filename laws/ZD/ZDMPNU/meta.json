@@ -1,0 +1,104 @@
+{
+  "root": "ZDMPNU",
+  "path": "laws/ZD/ZDMPNU",
+  "members": [
+    {
+      "id": "ZDMPNU",
+      "title": "Zakon o določitvi minimalne plače in o načinu usklajevanja plač",
+      "shortTitle": "Zakon o določitvi minimalne plače in o načinu usklajevanja plač",
+      "shortCode": "ZDMPNU",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2259",
+      "gazette": "Uradni list RS 40/97  str. 3746",
+      "issuingBody": null,
+      "adoptedAt": "1997-07-04",
+      "validFrom": "1997-07-04",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2259",
+      "versions": [
+        {
+          "id": "ZDMPNU-original",
+          "shortCode": "ZDMPNU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/97  str. 3746",
+          "publishedAt": "1997-07-04",
+          "effectiveFrom": "1997-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2259",
+          "proposer": null
+        },
+        {
+          "id": "ZDMPNU-amend-ZDMPNU-A",
+          "shortCode": "ZDMPNU-A",
+          "label": "Sprememba ZDMPNU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/98  str. 648",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDMPNU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0430",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDMPNU-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o določitvi minimalne plače in o načinu usklajevanja plač",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o določitvi minimalne plače in o načinu usklajevanja plač",
+      "shortCode": "ZDMPNU-A",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača",
+        "plačna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0430",
+      "gazette": "Uradni list RS 9/98  str. 648",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-06",
+      "validFrom": "1998-02-06",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0430",
+      "versions": [
+        {
+          "id": "ZDMPNU-A-original",
+          "shortCode": "ZDMPNU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/98  str. 648",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDMPNU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0430",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

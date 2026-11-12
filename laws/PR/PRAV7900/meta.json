@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7900",
+  "path": "laws/PR/PRAV7900",
+  "members": [
+    {
+      "id": "PRAV7900",
+      "title": "Pravilnik o institucijah za izdajanje poročil o preizkusu igralne naprave",
+      "shortTitle": "Pravilnik o institucijah za izdajanje poročil o preizkusu igralne naprave",
+      "shortCode": "PRAV7900",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-0396",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2007-02-02",
+      "validFrom": "2007-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0396",
+      "versions": [
+        {
+          "id": "PRAV7900-original",
+          "shortCode": "PRAV7900",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0396",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7900-npb-PRAV7900",
+          "shortCode": "PRAV7900-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7900",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

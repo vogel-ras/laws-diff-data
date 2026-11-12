@@ -1,0 +1,175 @@
+{
+  "root": "URED4797",
+  "path": "laws/UR/URED4797",
+  "members": [
+    {
+      "id": "URED4797",
+      "title": "Uredba o napredovanju javnih uslužbencev v plačne razrede",
+      "shortTitle": "Uredba o napredovanju javnih uslužbencev v plačne razrede",
+      "shortCode": "URED4797",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2136",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-20",
+      "validFrom": "2024-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2136",
+      "versions": [
+        {
+          "id": "URED4797-original",
+          "shortCode": "URED4797",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-20",
+          "effectiveFrom": "2024-11-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2136",
+          "proposer": null
+        },
+        {
+          "id": "URED4797-npb-URED4797",
+          "shortCode": "URED4797-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 5)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-05-23",
+          "effectiveFrom": "2008-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4797",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4993",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortCode": "URED4993",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3920",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-09-26",
+      "validFrom": "2008-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3920",
+      "versions": [
+        {
+          "id": "URED4993-original",
+          "shortCode": "URED4993",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-26",
+          "effectiveFrom": "2008-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4797"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3920",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7888",
+      "title": "Uredba o spremembi Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortTitle": "Uredba o spremembi Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortCode": "URED7888",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-0921",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-04-05",
+      "validFrom": "2019-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0921",
+      "versions": [
+        {
+          "id": "URED7888-original",
+          "shortCode": "URED7888",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4797"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0921",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8342",
+      "title": "Uredba o spremembah Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortTitle": "Uredba o spremembah Uredbe o napredovanju javnih uslužbencev v plačne razrede",
+      "shortCode": "URED8342",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-2582",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-07-23",
+      "validFrom": "2021-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2582",
+      "versions": [
+        {
+          "id": "URED8342-original",
+          "shortCode": "URED8342",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-07-23",
+          "effectiveFrom": "2021-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4797"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2582",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

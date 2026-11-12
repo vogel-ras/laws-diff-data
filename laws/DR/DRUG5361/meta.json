@@ -1,0 +1,121 @@
+{
+  "root": "DRUG5361",
+  "path": "laws/DR/DRUG5361",
+  "members": [
+    {
+      "id": "DRUG5361",
+      "title": "Pravilnik o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortTitle": "Pravilnik o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortCode": "DRUG5361",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2024-01-3800",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-06",
+      "validFrom": "2025-01-06",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3800",
+      "versions": [
+        {
+          "id": "DRUG5361-original",
+          "shortCode": "DRUG5361",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-06",
+          "effectiveFrom": "2025-01-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3800",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15649",
+      "title": "Pravilnik o spremembah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortCode": "PRAV15649",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0037",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-14",
+      "validFrom": "2025-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0037",
+      "versions": [
+        {
+          "id": "PRAV15649-original",
+          "shortCode": "PRAV15649",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-14",
+          "effectiveFrom": "2025-01-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG5361"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0037",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16334",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede na Državnem odvetništvu Republike Slovenije",
+      "shortCode": "PRAV16334",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-2192",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-09-30",
+      "validFrom": "2026-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2192",
+      "versions": [
+        {
+          "id": "PRAV16334-original",
+          "shortCode": "PRAV16334",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-09-30",
+          "effectiveFrom": "2026-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG5361"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2192",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

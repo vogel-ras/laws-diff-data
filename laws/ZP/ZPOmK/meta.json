@@ -1,0 +1,636 @@
+{
+  "root": "ZPOmK",
+  "path": "laws/ZP/ZPOmK",
+  "members": [
+    {
+      "id": "ZAKO5071",
+      "title": "Zakon o preprečevanju omejevanja konkurence (ZPOmK-1)",
+      "shortTitle": "Zakon o preprečevanju omejevanja konkurence (ZPOmK-1)",
+      "shortCode": "ZPOmK-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1459",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-04-11",
+      "validFrom": "2008-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2017-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1459",
+      "versions": [
+        {
+          "id": "ZAKO5071-original",
+          "shortCode": "ZPOmK-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-11",
+          "effectiveFrom": "2008-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1459",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZPOmK-1A",
+          "shortCode": "ZPOmK-1A",
+          "label": "Sprememba ZPOmK-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/09  str. 5565",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1922",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZPOmK-1B",
+          "shortCode": "ZPOmK-1B",
+          "label": "Sprememba ZPOmK-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 26/11  str. 3404",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1153",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZAKO6235",
+          "shortCode": "ZPOmK-1C",
+          "label": "Sprememba ZPOmK-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2011-11-02",
+          "effectiveFrom": "2011-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3725",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZPOmK-1D",
+          "shortCode": "ZPOmK-1D",
+          "label": "Sprememba ZPOmK-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 57/12  str. 5946",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2401",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZAKO6615",
+          "shortCode": "ZPOmK-1E",
+          "label": "Sprememba ZPOmK-1E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2014-05-09",
+          "effectiveFrom": "2014-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1353",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5071-amend-ZAKO7319",
+          "shortCode": "ZPOmK-1G",
+          "label": "Sprememba ZPOmK-1G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": null,
+          "publishedAt": "2017-05-03",
+          "effectiveFrom": "2017-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO6235",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1C)",
+      "shortCode": "ZPOmK-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3725",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-11-02",
+      "validFrom": "2011-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3725",
+      "versions": [
+        {
+          "id": "ZAKO6235-original",
+          "shortCode": "ZPOmK-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-02",
+          "effectiveFrom": "2011-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3725",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO6615",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1E)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1E)",
+      "shortCode": "ZPOmK-1E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1353",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-05-09",
+      "validFrom": "2014-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2014-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1353",
+      "versions": [
+        {
+          "id": "ZAKO6615-original",
+          "shortCode": "ZPOmK-1E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-05-09",
+          "effectiveFrom": "2014-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1353",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7319",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1G)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence (ZPOmK-1G)",
+      "shortCode": "ZPOmK-1G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1208",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-05-03",
+      "validFrom": "2017-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2017-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1208",
+      "versions": [
+        {
+          "id": "ZAKO7319-original",
+          "shortCode": "ZPOmK-1G",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-05-03",
+          "effectiveFrom": "2017-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK",
+      "title": "Zakon o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK",
+      "kind": "zakon",
+      "keywords": [
+        "omejevanje konkurence"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2649",
+      "gazette": "Uradni list RS 56/99  str. 7044",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-13",
+      "validFrom": "1999-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2649",
+      "versions": [
+        {
+          "id": "ZPOmK-original",
+          "shortCode": "ZPOmK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/99  str. 7044",
+          "publishedAt": "1999-07-13",
+          "effectiveFrom": "1999-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2649",
+          "proposer": null
+        },
+        {
+          "id": "ZPOmK-amend-ZPOmK-A",
+          "shortCode": "ZPOmK-A",
+          "label": "Sprememba ZPOmK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/04  str. 4451",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOmK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1599",
+          "proposer": null
+        },
+        {
+          "id": "ZPOmK-amend-ZPOmK-B",
+          "shortCode": "ZPOmK-B",
+          "label": "Sprememba ZPOmK-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 40/07  str. 5537",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOmK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2170",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-1A",
+      "kind": "zakon",
+      "keywords": [
+        "omejevanje konkurence"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1922",
+      "gazette": "Uradni list RS 40/09  str. 5565",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-29",
+      "validFrom": "2009-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1922",
+      "versions": [
+        {
+          "id": "ZPOmK-1A-original",
+          "shortCode": "ZPOmK-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/09  str. 5565",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1922",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-1B",
+      "kind": "zakon",
+      "keywords": [
+        "omejevanje konkurence",
+        "konkurenčno pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1153",
+      "gazette": "Uradni list RS 26/11  str. 3404",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1153",
+      "versions": [
+        {
+          "id": "ZPOmK-1B-original",
+          "shortCode": "ZPOmK-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3404",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1153",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-1D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-1D",
+      "kind": "zakon",
+      "keywords": [
+        "konkurenca"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2401",
+      "gazette": "Uradni list RS 57/12  str. 5946",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2401",
+      "versions": [
+        {
+          "id": "ZPOmK-1D-original",
+          "shortCode": "ZPOmK-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5946",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2401",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-2",
+      "title": "Zakon o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3082",
+      "gazette": "Uradni list RS 130/22  str. 9661",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3082",
+      "versions": [
+        {
+          "id": "ZPOmK-2-original",
+          "shortCode": "ZPOmK-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/22  str. 9661",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3082",
+          "proposer": null
+        },
+        {
+          "id": "ZPOmK-2-amend-ZPOmK-2A",
+          "shortCode": "ZPOmK-2A",
+          "label": "Sprememba ZPOmK-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 12/24  str. 682",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOmK-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-2A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0291",
+      "gazette": "Uradni list RS 12/24  str. 682",
+      "issuingBody": null,
+      "adoptedAt": "2024-02-09",
+      "validFrom": "2024-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0291",
+      "versions": [
+        {
+          "id": "ZPOmK-2A-original",
+          "shortCode": "ZPOmK-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/24  str. 682",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOmK-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-A",
+      "kind": "zakon",
+      "keywords": [
+        "omejevanje konkurence"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1599",
+      "gazette": "Uradni list RS 37/04  str. 4451",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1599",
+      "versions": [
+        {
+          "id": "ZPOmK-A-original",
+          "shortCode": "ZPOmK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4451",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOmK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1599",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOmK-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o preprečevanju omejevanja konkurence",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o preprečevanju omejevanja konkurence",
+      "shortCode": "ZPOmK-B",
+      "kind": "zakon",
+      "keywords": [
+        "konkurenca",
+        "omejevanje konkurence",
+        "konkurenčno pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2170",
+      "gazette": "Uradni list RS 40/07  str. 5537",
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2170",
+      "versions": [
+        {
+          "id": "ZPOmK-B-original",
+          "shortCode": "ZPOmK-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/07  str. 5537",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOmK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2170",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

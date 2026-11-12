@@ -1,0 +1,99 @@
+{
+  "root": "ZUNPEOVE",
+  "path": "laws/ZU/ZUNPEOVE",
+  "members": [
+    {
+      "id": "ZUNPEOVE",
+      "title": "Zakon o uvajanju naprav za proizvodnjo električne energije iz obnovljivih virov energije",
+      "shortTitle": "Zakon o uvajanju naprav za proizvodnjo električne energije iz obnovljivih virov energije",
+      "shortCode": "ZUNPEOVE",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2478",
+      "gazette": "Uradni list RS 78/23  str. 6841",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-19",
+      "validFrom": "2023-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2478",
+      "versions": [
+        {
+          "id": "ZUNPEOVE-original",
+          "shortCode": "ZUNPEOVE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/23  str. 6841",
+          "publishedAt": "2023-07-19",
+          "effectiveFrom": "2023-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2478",
+          "proposer": null
+        },
+        {
+          "id": "ZUNPEOVE-amend-ZUNPEOVE-A",
+          "shortCode": "ZUNPEOVE-A",
+          "label": "Sprememba ZUNPEOVE-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 95/24  str. 9144",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUNPEOVE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2872",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUNPEOVE-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o uvajanju naprav za proizvodnjo električne energije iz obnovljivih virov energije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o uvajanju naprav za proizvodnjo električne energije iz obnovljivih virov energije",
+      "shortCode": "ZUNPEOVE-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2872",
+      "gazette": "Uradni list RS 95/24  str. 9144",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2872",
+      "versions": [
+        {
+          "id": "ZUNPEOVE-A-original",
+          "shortCode": "ZUNPEOVE-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9144",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUNPEOVE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2872",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

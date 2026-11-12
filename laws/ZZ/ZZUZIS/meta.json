@@ -1,0 +1,105 @@
+{
+  "root": "ZZUZIS",
+  "path": "laws/ZZ/ZZUZIS",
+  "members": [
+    {
+      "id": "ZZUZIS",
+      "title": "Zakon o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili",
+      "shortTitle": "Zakon o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili",
+      "shortCode": "ZZUZIS",
+      "kind": "zakon",
+      "keywords": [
+        "varnost živil",
+        "prehrana ljudi",
+        "živilska inšpekcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2452",
+      "gazette": "Uradni list RS 52/2000  str. 6949",
+      "issuingBody": null,
+      "adoptedAt": "2000-06-13",
+      "validFrom": "2000-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2452",
+      "versions": [
+        {
+          "id": "ZZUZIS-original",
+          "shortCode": "ZZUZIS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/2000  str. 6949",
+          "publishedAt": "2000-06-13",
+          "effectiveFrom": "2000-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2452",
+          "proposer": null
+        },
+        {
+          "id": "ZZUZIS-amend-ZZUZIS-A",
+          "shortCode": "ZZUZIS-A",
+          "label": "Sprememba ZZUZIS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/2002  str. 4072",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZUZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2005",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZUZIS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili - EU",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni ustreznosti živil in izdelkov ter snovi, ki prihajajo v stik z živili - EU",
+      "shortCode": "ZZUZIS-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2005",
+      "gazette": "Uradni list RS 42/2002  str. 4072",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-15",
+      "validFrom": "2002-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2005",
+      "versions": [
+        {
+          "id": "ZZUZIS-A-original",
+          "shortCode": "ZZUZIS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2002  str. 4072",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZUZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2005",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

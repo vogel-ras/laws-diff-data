@@ -1,0 +1,97 @@
+{
+  "root": "URED2763",
+  "path": "laws/UR/URED2763",
+  "members": [
+    {
+      "id": "URED2763",
+      "title": "Uredba o koncesiji za rabo reke Save za proizvodnjo električne energije v hidroelektrarnah HE Moste, HE Mavčiče in HE Medvode",
+      "shortTitle": "Uredba o koncesiji za rabo reke Save za proizvodnjo električne energije v hidroelektrarnah HE Moste, HE Mavčiče in HE Medvode",
+      "shortCode": "URED2763",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0559",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-02-07",
+      "validFrom": "2003-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0559",
+      "versions": [
+        {
+          "id": "URED2763-original",
+          "shortCode": "URED2763",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-07",
+          "effectiveFrom": "2003-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0559",
+          "proposer": null
+        },
+        {
+          "id": "URED2763-npb-URED2763",
+          "shortCode": "URED2763-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-02-07",
+          "effectiveFrom": "2003-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2763",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8073",
+      "title": "Uredba o spremembi Uredbe o koncesiji za rabo reke Save za proizvodnjo električne energije v hidroelektrarnah HE Moste, HE Mavčiče in HE Medvode",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesiji za rabo reke Save za proizvodnjo električne energije v hidroelektrarnah HE Moste, HE Mavčiče in HE Medvode",
+      "shortCode": "URED8073",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2530",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-10-15",
+      "validFrom": "2020-10-15",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2530",
+      "versions": [
+        {
+          "id": "URED8073-original",
+          "shortCode": "URED8073",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-15",
+          "effectiveFrom": "2020-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2763"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2530",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

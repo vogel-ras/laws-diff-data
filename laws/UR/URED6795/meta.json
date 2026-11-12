@@ -1,0 +1,97 @@
+{
+  "root": "URED6795",
+  "path": "laws/UR/URED6795",
+  "members": [
+    {
+      "id": "URED6795",
+      "title": "Uredba o izvajanju Sklepa o mehanizmu Unije na področju civilne zaščite",
+      "shortTitle": "Uredba o izvajanju Sklepa o mehanizmu Unije na področju civilne zaščite",
+      "shortCode": "URED6795",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2677",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-08-14",
+      "validFrom": "2014-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2014-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2677",
+      "versions": [
+        {
+          "id": "URED6795-original",
+          "shortCode": "URED6795",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-08-14",
+          "effectiveFrom": "2014-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2677",
+          "proposer": null
+        },
+        {
+          "id": "URED6795-npb-URED6795",
+          "shortCode": "URED6795-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-08-14",
+          "effectiveFrom": "2014-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6795",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7225",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Sklepa o mehanizmu Unije na področju civilne zaščite",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Sklepa o mehanizmu Unije na področju civilne zaščite",
+      "shortCode": "URED7225",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0652",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-03-17",
+      "validFrom": "2017-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0652",
+      "versions": [
+        {
+          "id": "URED7225-original",
+          "shortCode": "URED7225",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-17",
+          "effectiveFrom": "2017-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6795"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0652",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

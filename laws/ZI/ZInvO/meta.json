@@ -1,0 +1,101 @@
+{
+  "root": "ZInvO",
+  "path": "laws/ZI/ZInvO",
+  "members": [
+    {
+      "id": "ZInvO",
+      "title": "Zakon o invalidskih organizacijah",
+      "shortTitle": "Zakon o invalidskih organizacijah",
+      "shortCode": "ZInvO",
+      "kind": "zakon",
+      "keywords": [
+        "invalid"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5311",
+      "gazette": "Uradni list RS 108/2002  str. 12900",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-12",
+      "validFrom": "2002-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5311",
+      "versions": [
+        {
+          "id": "ZInvO-original",
+          "shortCode": "ZInvO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/2002  str. 12900",
+          "publishedAt": "2002-12-12",
+          "effectiveFrom": "2002-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5311",
+          "proposer": null
+        },
+        {
+          "id": "ZInvO-amend-ZInvO-A",
+          "shortCode": "ZInvO-A",
+          "label": "Sprememba ZInvO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 95/24  str. 9143",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZInvO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2870",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZInvO-A",
+      "title": "Zakon o spremembi Zakona o invalidskih organizacijah",
+      "shortTitle": "Zakon o spremembi Zakona o invalidskih organizacijah",
+      "shortCode": "ZInvO-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2870",
+      "gazette": "Uradni list RS 95/24  str. 9143",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2870",
+      "versions": [
+        {
+          "id": "ZInvO-A-original",
+          "shortCode": "ZInvO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9143",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZInvO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2870",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

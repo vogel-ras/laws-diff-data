@@ -1,0 +1,136 @@
+{
+  "root": "PRAV3139",
+  "path": "laws/PR/PRAV3139",
+  "members": [
+    {
+      "id": "PRAV3139",
+      "title": "Pravilnik o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortTitle": "Pravilnik o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortCode": "PRAV3139",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3426",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3426",
+      "versions": [
+        {
+          "id": "PRAV3139-original",
+          "shortCode": "PRAV3139",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3426",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3139-npb-PRAV3139",
+          "shortCode": "PRAV3139-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-10-10",
+          "effectiveFrom": "2009-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3139",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7454",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortCode": "PRAV7454",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5376",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2006-12-07",
+      "validFrom": "2006-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5376",
+      "versions": [
+        {
+          "id": "PRAV7454-original",
+          "shortCode": "PRAV7454",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3139"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5376",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9318",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju vzgojnega ukrepa oddaje mladoletnika v prevzgojni dom",
+      "shortCode": "PRAV9318",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3248",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-25",
+      "validFrom": "2009-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3248",
+      "versions": [
+        {
+          "id": "PRAV9318-original",
+          "shortCode": "PRAV9318",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-25",
+          "effectiveFrom": "2009-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3139"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3248",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

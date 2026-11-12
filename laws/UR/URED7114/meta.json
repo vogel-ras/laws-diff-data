@@ -1,0 +1,97 @@
+{
+  "root": "URED7114",
+  "path": "laws/UR/URED7114",
+  "members": [
+    {
+      "id": "URED7114",
+      "title": "Uredba o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50 za ogrevanje in potrebe kopališča Terme Lendava",
+      "shortTitle": "Uredba o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50 za ogrevanje in potrebe kopališča Terme Lendava",
+      "shortCode": "URED7114",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3350",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-11-06",
+      "validFrom": "2015-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3350",
+      "versions": [
+        {
+          "id": "URED7114-original",
+          "shortCode": "URED7114",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3350",
+          "proposer": null
+        },
+        {
+          "id": "URED7114-npb-URED7114",
+          "shortCode": "URED7114-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7114",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7933",
+      "title": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50 za ogrevanje in potrebe kopališča Terme Lendava",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode iz vrtin Le-1g/97, Pt-20/49 in Pt-74/50 za ogrevanje in potrebe kopališča Terme Lendava",
+      "shortCode": "URED7933",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2280",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-07-19",
+      "validFrom": "2019-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2280",
+      "versions": [
+        {
+          "id": "URED7933-original",
+          "shortCode": "URED7933",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7114"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2280",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

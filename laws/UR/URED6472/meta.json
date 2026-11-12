@@ -1,0 +1,136 @@
+{
+  "root": "URED6472",
+  "path": "laws/UR/URED6472",
+  "members": [
+    {
+      "id": "URED6472",
+      "title": "Uredba o pooblastilih pomorščakov",
+      "shortTitle": "Uredba o pooblastilih pomorščakov",
+      "shortCode": "URED6472",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-3481",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-11-28",
+      "validFrom": "2014-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2014-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3481",
+      "versions": [
+        {
+          "id": "URED6472-original",
+          "shortCode": "URED6472",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-11-28",
+          "effectiveFrom": "2014-11-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3481",
+          "proposer": null
+        },
+        {
+          "id": "URED6472-npb-URED6472",
+          "shortCode": "URED6472-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-11-28",
+          "effectiveFrom": "2014-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6472",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8216",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o pooblastilih pomorščakov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o pooblastilih pomorščakov",
+      "shortCode": "URED8216",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-2728",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-08-20",
+      "validFrom": "2021-08-20",
+      "validTo": null,
+      "latestPublishedAt": "2021-08-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2728",
+      "versions": [
+        {
+          "id": "URED8216-original",
+          "shortCode": "URED8216",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-08-20",
+          "effectiveFrom": "2021-08-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6472"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2728",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9818",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o pooblastilih pomorščakov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o pooblastilih pomorščakov",
+      "shortCode": "URED9818",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-2216",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-02",
+      "validFrom": "2026-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2216",
+      "versions": [
+        {
+          "id": "URED9818-original",
+          "shortCode": "URED9818",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-02",
+          "effectiveFrom": "2026-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6472"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2216",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2334",
+  "path": "laws/PR/PRAV2334",
+  "members": [
+    {
+      "id": "PRAV2334",
+      "title": "Pravilnik o vinu z oznako priznanega tradicionalnega poimenovanja - cviček",
+      "shortTitle": "Pravilnik o vinu z oznako priznanega tradicionalnega poimenovanja - cviček",
+      "shortCode": "PRAV2334",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0132",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2000-01-14",
+      "validFrom": "2000-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0132",
+      "versions": [
+        {
+          "id": "PRAV2334-original",
+          "shortCode": "PRAV2334",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-14",
+          "effectiveFrom": "2000-01-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5916",
+      "title": "Pravilnik o spremembi Pravilnika o vinu z oznako priznanega tradicionalnega poimenovanja - cviček",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vinu z oznako priznanega tradicionalnega poimenovanja - cviček",
+      "shortCode": "PRAV5916",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3000",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-06-18",
+      "validFrom": "2004-06-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3000",
+      "versions": [
+        {
+          "id": "PRAV5916-original",
+          "shortCode": "PRAV5916",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-18",
+          "effectiveFrom": "2004-06-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2334"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3000",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

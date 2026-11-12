@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12361",
+  "path": "laws/PR/PRAV12361",
+  "members": [
+    {
+      "id": "PRAV12361",
+      "title": "Pravilnik o obliki in navodilu za pripravo letnega programa dela državnega tožilstva",
+      "shortTitle": "Pravilnik o obliki in navodilu za pripravo letnega programa dela državnega tožilstva",
+      "shortCode": "PRAV12361",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3919",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-14",
+      "validFrom": "2025-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3919",
+      "versions": [
+        {
+          "id": "PRAV12361-original",
+          "shortCode": "PRAV12361",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-14",
+          "effectiveFrom": "2025-01-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3919",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12361-npb-PRAV12361",
+          "shortCode": "PRAV12361-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-21",
+          "effectiveFrom": "2015-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12361",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15552",
+      "title": "Pravilnik o spremembah Pravilnika o obliki in navodilu za pripravo letnega programa dela državnega tožilstva",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o obliki in navodilu za pripravo letnega programa dela državnega tožilstva",
+      "shortCode": "PRAV15552",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0028",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-14",
+      "validFrom": "2025-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0028",
+      "versions": [
+        {
+          "id": "PRAV15552-original",
+          "shortCode": "PRAV15552",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-14",
+          "effectiveFrom": "2025-01-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12361"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0028",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

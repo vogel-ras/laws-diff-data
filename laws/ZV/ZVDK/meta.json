@@ -1,0 +1,107 @@
+{
+  "root": "ZVDK",
+  "path": "laws/ZV/ZVDK",
+  "members": [
+    {
+      "id": "ZVDK",
+      "title": "Zakon o valorizaciji denarnih kazni za kazniva dejanja in gospodarske prestopke ter drugih denarnih zneskov",
+      "shortTitle": "Zakon o valorizaciji denarnih kazni za kazniva dejanja in gospodarske prestopke ter drugih denarnih zneskov",
+      "shortCode": "ZVDK",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarski prekršek",
+        "kazenski postopek",
+        "denarna kazen"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2515",
+      "gazette": "Uradni list RS 55/92  str. 3124",
+      "issuingBody": null,
+      "adoptedAt": "1992-11-20",
+      "validFrom": "1992-11-20",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2515",
+      "versions": [
+        {
+          "id": "ZVDK-original",
+          "shortCode": "ZVDK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/92  str. 3124",
+          "publishedAt": "1992-11-20",
+          "effectiveFrom": "1992-11-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2515",
+          "proposer": null
+        },
+        {
+          "id": "ZVDK-amend-ZVDK-A",
+          "shortCode": "ZVDK-A",
+          "label": "Sprememba ZVDK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 66/93  str. 3217",
+          "publishedAt": "1993-12-10",
+          "effectiveFrom": "1993-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDK-A",
+      "title": "Zakon o spremembah zakona o valorizaciji denarnih kazni za kazniva dejanja in gospodarske prestopke ter drugih denarnih zneskov",
+      "shortTitle": "Zakon o spremembah zakona o valorizaciji denarnih kazni za kazniva dejanja in gospodarske prestopke ter drugih denarnih zneskov",
+      "shortCode": "ZVDK-A",
+      "kind": "zakon",
+      "keywords": [
+        "denarna kazen",
+        "gospodarski prekršek",
+        "kazenski postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2402",
+      "gazette": "Uradni list RS 66/93  str. 3217",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-10",
+      "validFrom": "1993-12-10",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2402",
+      "versions": [
+        {
+          "id": "ZVDK-A-original",
+          "shortCode": "ZVDK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/93  str. 3217",
+          "publishedAt": "1993-12-10",
+          "effectiveFrom": "1993-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2402",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

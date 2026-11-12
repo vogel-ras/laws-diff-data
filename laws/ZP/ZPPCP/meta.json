@@ -1,0 +1,108 @@
+{
+  "root": "ZPPCP",
+  "path": "laws/ZP/ZPPCP",
+  "members": [
+    {
+      "id": "ZPPCP-1",
+      "title": "Zakon o prevoznih pogodbah v cestnem prometu",
+      "shortTitle": "Zakon o prevoznih pogodbah v cestnem prometu",
+      "shortCode": "ZPPCP-1",
+      "kind": "zakon",
+      "keywords": [
+        "cestni promet",
+        "prevozna pogodba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5386",
+      "gazette": "Uradni list RS 126/03  str. 17252",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5386",
+      "versions": [
+        {
+          "id": "ZPPCP-1-original",
+          "shortCode": "ZPPCP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/03  str. 17252",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5386",
+          "proposer": null
+        },
+        {
+          "id": "ZPPCP-1-amend-ZPPCP-1A",
+          "shortCode": "ZPPCP-1A",
+          "label": "Sprememba ZPPCP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 102/07  str. 13767",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPCP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5068",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPCP-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o prevoznih pogodbah v cestnem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o prevoznih pogodbah v cestnem prometu",
+      "shortCode": "ZPPCP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "cestni prevoz",
+        "prevozna pogodba",
+        "prevoz blaga",
+        "cena prevoza",
+        "prevoz za najem ali plačilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5068",
+      "gazette": "Uradni list RS 102/07  str. 13767",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5068",
+      "versions": [
+        {
+          "id": "ZPPCP-1A-original",
+          "shortCode": "ZPPCP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13767",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPCP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5068",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7864",
+  "path": "laws/PR/PRAV7864",
+  "members": [
+    {
+      "id": "PRAV7864",
+      "title": "Pravilnik o službeni izkaznici in znački občinskega inšpektorja",
+      "shortTitle": "Pravilnik o službeni izkaznici in znački občinskega inšpektorja",
+      "shortCode": "PRAV7864",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4737",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-05",
+      "validFrom": "2009-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4737",
+      "versions": [
+        {
+          "id": "PRAV7864-original",
+          "shortCode": "PRAV7864",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4737",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9682",
+      "title": "Pravilnik o spremembah Pravilnika o službeni izkaznici in znački občinskega inšpektorja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o službeni izkaznici in znački občinskega inšpektorja",
+      "shortCode": "PRAV9682",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2047",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-05",
+      "validFrom": "2009-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2047",
+      "versions": [
+        {
+          "id": "PRAV9682-original",
+          "shortCode": "PRAV9682",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7864"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2047",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED7485",
+  "path": "laws/UR/URED7485",
+  "members": [
+    {
+      "id": "URED7485",
+      "title": "Uredba o obvezni občinski gospodarski javni službi zbiranja komunalnih odpadkov",
+      "shortTitle": "Uredba o obvezni občinski gospodarski javni službi zbiranja komunalnih odpadkov",
+      "shortCode": "URED7485",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-1836",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-06-30",
+      "validFrom": "2017-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1836",
+      "versions": [
+        {
+          "id": "URED7485-original",
+          "shortCode": "URED7485",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-30",
+          "effectiveFrom": "2017-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1836",
+          "proposer": null
+        },
+        {
+          "id": "URED7485-npb-URED7485",
+          "shortCode": "URED7485-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-06-30",
+          "effectiveFrom": "2017-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7485",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7593",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o obvezni občinski gospodarski javni službi zbiranja komunalnih odpadkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o obvezni občinski gospodarski javni službi zbiranja komunalnih odpadkov",
+      "shortCode": "URED7593",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-2949",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-09-12",
+      "validFrom": "2018-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2949",
+      "versions": [
+        {
+          "id": "URED7593-original",
+          "shortCode": "URED7593",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-12",
+          "effectiveFrom": "2018-09-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7485"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2949",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

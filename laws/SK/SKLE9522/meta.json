@@ -1,0 +1,82 @@
+{
+  "root": "SKLE9522",
+  "path": "laws/SK/SKLE9522",
+  "members": [
+    {
+      "id": "SKLE9522",
+      "title": "Sklep o nalogah komisij Državnega sveta Republike Slovenije",
+      "shortTitle": "Sklep o nalogah komisij Državnega sveta Republike Slovenije",
+      "shortCode": "SKLE9522",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2012-01-3963",
+      "gazette": null,
+      "issuingBody": "Državni svet RS",
+      "adoptedAt": "2012-12-24",
+      "validFrom": "2012-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3963",
+      "versions": [
+        {
+          "id": "SKLE9522-original",
+          "shortCode": "SKLE9522",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-24",
+          "effectiveFrom": "2012-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3963",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9594",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o nalogah komisij Državnega sveta Republike Slovenije",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o nalogah komisij Državnega sveta Republike Slovenije",
+      "shortCode": "SKLE9594",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2013-01-0657",
+      "gazette": null,
+      "issuingBody": "Državni svet RS",
+      "adoptedAt": "2013-03-04",
+      "validFrom": "2013-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0657",
+      "versions": [
+        {
+          "id": "SKLE9594-original",
+          "shortCode": "SKLE9594",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-03-04",
+          "effectiveFrom": "2013-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE9522"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0657",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

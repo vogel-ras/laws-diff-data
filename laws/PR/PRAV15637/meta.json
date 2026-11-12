@@ -1,0 +1,136 @@
+{
+  "root": "PRAV15637",
+  "path": "laws/PR/PRAV15637",
+  "members": [
+    {
+      "id": "PRAV15637",
+      "title": "Pravilnik o obračunu davčnih odtegljajev",
+      "shortTitle": "Pravilnik o obračunu davčnih odtegljajev",
+      "shortCode": "PRAV15637",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0139",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-27",
+      "validFrom": "2025-01-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0139",
+      "versions": [
+        {
+          "id": "PRAV15637-original",
+          "shortCode": "PRAV15637",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-27",
+          "effectiveFrom": "2025-01-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0139",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15637-npb-PRAV15637",
+          "shortCode": "PRAV15637-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-07",
+          "effectiveFrom": "2026-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15637",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15704",
+      "title": "Pravilnik o spremembi Pravilnika o obračunu davčnih odtegljajev",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o obračunu davčnih odtegljajev",
+      "shortCode": "PRAV15704",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-1408",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2025-05-23",
+      "validFrom": "2025-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1408",
+      "versions": [
+        {
+          "id": "PRAV15704-original",
+          "shortCode": "PRAV15704",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-23",
+          "effectiveFrom": "2025-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15637"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1408",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16026",
+      "title": "Pravilnik o spremembi Pravilnika o obračunu davčnih odtegljajev",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o obračunu davčnih odtegljajev",
+      "shortCode": "PRAV16026",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0127",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2026-01-23",
+      "validFrom": "2026-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0127",
+      "versions": [
+        {
+          "id": "PRAV16026-original",
+          "shortCode": "PRAV16026",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-23",
+          "effectiveFrom": "2026-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15637"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0127",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED7345",
+  "path": "laws/UR/URED7345",
+  "members": [
+    {
+      "id": "URED7345",
+      "title": "Uredba o začasnih izrednih ukrepih na trgu s svežim sadjem in zelenjavo",
+      "shortTitle": "Uredba o začasnih izrednih ukrepih na trgu s svežim sadjem in zelenjavo",
+      "shortCode": "URED7345",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-2030",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-06-30",
+      "validFrom": "2016-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2030",
+      "versions": [
+        {
+          "id": "URED7345-original",
+          "shortCode": "URED7345",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2030",
+          "proposer": null
+        },
+        {
+          "id": "URED7345-npb-URED7345",
+          "shortCode": "URED7345-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7345",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

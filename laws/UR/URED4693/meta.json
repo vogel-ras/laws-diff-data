@@ -1,0 +1,136 @@
+{
+  "root": "URED4693",
+  "path": "laws/UR/URED4693",
+  "members": [
+    {
+      "id": "URED4693",
+      "title": "Uredba o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortTitle": "Uredba o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortCode": "URED4693",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1891",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-05-05",
+      "validFrom": "2008-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1891",
+      "versions": [
+        {
+          "id": "URED4693-original",
+          "shortCode": "URED4693",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-05",
+          "effectiveFrom": "2008-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1891",
+          "proposer": null
+        },
+        {
+          "id": "URED4693-npb-URED4693",
+          "shortCode": "URED4693-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-05-05",
+          "effectiveFrom": "2008-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4693",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5721",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortCode": "URED5721",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1405",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-04-22",
+      "validFrom": "2011-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1405",
+      "versions": [
+        {
+          "id": "URED5721-original",
+          "shortCode": "URED5721",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-22",
+          "effectiveFrom": "2011-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4693"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1405",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8178",
+      "title": "Uredba o spremembi Uredbe o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortTitle": "Uredba o spremembi Uredbe o ravnanju z odpadki iz rudarskih in drugih dejavnosti izkoriščanja mineralnih surovin",
+      "shortCode": "URED8178",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-1346",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-04-23",
+      "validFrom": "2021-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1346",
+      "versions": [
+        {
+          "id": "URED8178-original",
+          "shortCode": "URED8178",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-23",
+          "effectiveFrom": "2021-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4693"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1346",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

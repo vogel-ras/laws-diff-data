@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5283",
+  "path": "laws/PR/PRAV5283",
+  "members": [
+    {
+      "id": "PRAV5283",
+      "title": "Pravilnik o obrazcu za priglasitev dobaviteljev kozmetičnih proizvodov in načinu sporočanja o novih kozmetičnih proizvodih pred prvim dajanjem v promet",
+      "shortTitle": "Pravilnik o obrazcu za priglasitev dobaviteljev kozmetičnih proizvodov in načinu sporočanja o novih kozmetičnih proizvodih pred prvim dajanjem v promet",
+      "shortCode": "PRAV5283",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4990",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4990",
+      "versions": [
+        {
+          "id": "PRAV5283-original",
+          "shortCode": "PRAV5283",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4990",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8233",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu za priglasitev dobaviteljev kozmetičnih proizvodov in načinu sporočanja o novih kozmetičnih proizvodih pred prvim dajanjem v promet",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu za priglasitev dobaviteljev kozmetičnih proizvodov in načinu sporočanja o novih kozmetičnih proizvodih pred prvim dajanjem v promet",
+      "shortCode": "PRAV8233",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2178",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2178",
+      "versions": [
+        {
+          "id": "PRAV8233-original",
+          "shortCode": "PRAV8233",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5283"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2178",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

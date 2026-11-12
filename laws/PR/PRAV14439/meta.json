@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14439",
+  "path": "laws/PR/PRAV14439",
+  "members": [
+    {
+      "id": "PRAV14439",
+      "title": "Pravilnik o zagotavljanju sledljivosti porekla za nepredpakirano sveže, ohlajeno in zamrznjeno goveje, prašičje, ovčje, kozje in perutninsko meso",
+      "shortTitle": "Pravilnik o zagotavljanju sledljivosti porekla za nepredpakirano sveže, ohlajeno in zamrznjeno goveje, prašičje, ovčje, kozje in perutninsko meso",
+      "shortCode": "PRAV14439",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-1189",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-09",
+      "validFrom": "2024-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1189",
+      "versions": [
+        {
+          "id": "PRAV14439-original",
+          "shortCode": "PRAV14439",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-09",
+          "effectiveFrom": "2024-07-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1189",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14439-npb-PRAV14439",
+          "shortCode": "PRAV14439-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-04-20",
+          "effectiveFrom": "2022-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14439",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15798",
+      "title": "Pravilnik o spremembah Pravilnika o zagotavljanju sledljivosti porekla za nepredpakirano sveže, ohlajeno in zamrznjeno goveje, prašičje, ovčje, kozje in perutninsko meso",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o zagotavljanju sledljivosti porekla za nepredpakirano sveže, ohlajeno in zamrznjeno goveje, prašičje, ovčje, kozje in perutninsko meso",
+      "shortCode": "PRAV15798",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2637",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2025-10-03",
+      "validFrom": "2025-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2637",
+      "versions": [
+        {
+          "id": "PRAV15798-original",
+          "shortCode": "PRAV15798",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-03",
+          "effectiveFrom": "2025-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14439"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2637",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

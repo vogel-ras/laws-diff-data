@@ -1,0 +1,159 @@
+{
+  "root": "ZCRP",
+  "path": "laws/ZC/ZCRP",
+  "members": [
+    {
+      "id": "ZCRP",
+      "title": "Zakon o centralnem registru prebivalstva",
+      "shortTitle": "Zakon o centralnem registru prebivalstva",
+      "shortCode": "ZCRP",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-0002",
+      "gazette": "Uradni list RS 1/99  str. 2",
+      "issuingBody": null,
+      "adoptedAt": "1999-01-09",
+      "validFrom": "1999-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0002",
+      "versions": [
+        {
+          "id": "ZCRP-original",
+          "shortCode": "ZCRP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/99  str. 2",
+          "publishedAt": "1999-01-09",
+          "effectiveFrom": "1999-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0002",
+          "proposer": null
+        },
+        {
+          "id": "ZCRP-amend-ZCRP-A",
+          "shortCode": "ZCRP-A",
+          "label": "Sprememba ZCRP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/06  str. 4149",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZCRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1678",
+          "proposer": null
+        },
+        {
+          "id": "ZCRP-amend-ZCRP-B",
+          "shortCode": "ZCRP-B",
+          "label": "Sprememba ZCRP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 32/24  str. 2699",
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0916",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCRP-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o centralnem registru prebivalstva",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o centralnem registru prebivalstva",
+      "shortCode": "ZCRP-A",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1678",
+      "gazette": "Uradni list RS 39/06  str. 4149",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-13",
+      "validFrom": "2006-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1678",
+      "versions": [
+        {
+          "id": "ZCRP-A-original",
+          "shortCode": "ZCRP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/06  str. 4149",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1678",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCRP-B",
+      "title": "Zakon o spremembi Zakona o centralnem registru prebivalstva",
+      "shortTitle": "Zakon o spremembi Zakona o centralnem registru prebivalstva",
+      "shortCode": "ZCRP-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0916",
+      "gazette": "Uradni list RS 32/24  str. 2699",
+      "issuingBody": null,
+      "adoptedAt": "2024-04-12",
+      "validFrom": "2024-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0916",
+      "versions": [
+        {
+          "id": "ZCRP-B-original",
+          "shortCode": "ZCRP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/24  str. 2699",
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0916",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

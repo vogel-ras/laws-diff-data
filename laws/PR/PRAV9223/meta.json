@@ -1,0 +1,82 @@
+{
+  "root": "PRAV9223",
+  "path": "laws/PR/PRAV9223",
+  "members": [
+    {
+      "id": "PRAV9223",
+      "title": "Pravilnik o napredovanju javnih uslužbencev v plačne razrede pri Informacijskem pooblaščencu",
+      "shortTitle": "Pravilnik o napredovanju javnih uslužbencev v plačne razrede pri Informacijskem pooblaščencu",
+      "shortCode": "PRAV9223",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3667",
+      "gazette": null,
+      "issuingBody": "Informacijski pooblaščenec",
+      "adoptedAt": "2008-08-25",
+      "validFrom": "2008-08-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3667",
+      "versions": [
+        {
+          "id": "PRAV9223-original",
+          "shortCode": "PRAV9223",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-25",
+          "effectiveFrom": "2008-08-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3667",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9788",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o napredovanju javnih uslužbencev v plačne razrede pri Informacijskem pooblaščencu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o napredovanju javnih uslužbencev v plačne razrede pri Informacijskem pooblaščencu",
+      "shortCode": "PRAV9788",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2341",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-23",
+      "validFrom": "2009-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2341",
+      "versions": [
+        {
+          "id": "PRAV9788-original",
+          "shortCode": "PRAV9788",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-23",
+          "effectiveFrom": "2009-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9223"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2341",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

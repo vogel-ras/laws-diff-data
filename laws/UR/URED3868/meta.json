@@ -1,0 +1,82 @@
+{
+  "root": "URED3868",
+  "path": "laws/UR/URED3868",
+  "members": [
+    {
+      "id": "URED3868",
+      "title": "Uredba o koncesiji za opravljanje obvezne državne gospodarske javne službe vzdrževanja vodnih in priobalnih zemljišč morja",
+      "shortTitle": "Uredba o koncesiji za opravljanje obvezne državne gospodarske javne službe vzdrževanja vodnih in priobalnih zemljišč morja",
+      "shortCode": "URED3868",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3111",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-22",
+      "validFrom": "2005-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3111",
+      "versions": [
+        {
+          "id": "URED3868-original",
+          "shortCode": "URED3868",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-22",
+          "effectiveFrom": "2005-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3111",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3930",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za opravljanje obvezne državne gospodarske javne službe vzdrževanja vodnih in priobalnih zemljišč morja",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za opravljanje obvezne državne gospodarske javne službe vzdrževanja vodnih in priobalnih zemljišč morja",
+      "shortCode": "URED3930",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4405",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4405",
+      "versions": [
+        {
+          "id": "URED3930-original",
+          "shortCode": "URED3930",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3868"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4405",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

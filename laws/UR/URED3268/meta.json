@@ -1,0 +1,82 @@
+{
+  "root": "URED3268",
+  "path": "laws/UR/URED3268",
+  "members": [
+    {
+      "id": "URED3268",
+      "title": "Uredba o plačilih za ukrepe Programa razvoja podeželja 2004-2006 za leto 2004",
+      "shortTitle": "Uredba o plačilih za ukrepe Programa razvoja podeželja 2004-2006 za leto 2004",
+      "shortCode": "URED3268",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1010",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-15",
+      "validFrom": "2004-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1010",
+      "versions": [
+        {
+          "id": "URED3268-original",
+          "shortCode": "URED3268",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-15",
+          "effectiveFrom": "2004-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3509",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za ukrepe Programa razvoja podeželja 2004-2006 za leto 2004",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za ukrepe Programa razvoja podeželja 2004-2006 za leto 2004",
+      "shortCode": "URED3509",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4782",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-10-26",
+      "validFrom": "2004-10-26",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4782",
+      "versions": [
+        {
+          "id": "URED3509-original",
+          "shortCode": "URED3509",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-26",
+          "effectiveFrom": "2004-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3268"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4782",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

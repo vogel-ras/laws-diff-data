@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12648",
+  "path": "laws/PR/PRAV12648",
+  "members": [
+    {
+      "id": "PRAV12648",
+      "title": "Pravilnik o izvrševanju Zakona o prijavi prebivališča",
+      "shortTitle": "Pravilnik o izvrševanju Zakona o prijavi prebivališča",
+      "shortCode": "PRAV12648",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-1943",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2017-07-14",
+      "validFrom": "2017-07-14",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1943",
+      "versions": [
+        {
+          "id": "PRAV12648-original",
+          "shortCode": "PRAV12648",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-14",
+          "effectiveFrom": "2017-07-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1943",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12648-npb-PRAV12648",
+          "shortCode": "PRAV12648-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-07-14",
+          "effectiveFrom": "2017-07-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

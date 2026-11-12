@@ -1,0 +1,97 @@
+{
+  "root": "PRAV3144",
+  "path": "laws/PR/PRAV3144",
+  "members": [
+    {
+      "id": "PRAV3144",
+      "title": "Pravilnik o zdravstvenih zahtevah za osebe, ki pri delu v proizvodnji in prometu z živili prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o zdravstvenih zahtevah za osebe, ki pri delu v proizvodnji in prometu z živili prihajajo v stik z živili",
+      "shortCode": "PRAV3144",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3941",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-03",
+      "validFrom": "2009-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3941",
+      "versions": [
+        {
+          "id": "PRAV3144-original",
+          "shortCode": "PRAV3144",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-03",
+          "effectiveFrom": "2009-04-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3941",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3144-npb-PRAV3144",
+          "shortCode": "PRAV3144-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3144",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9617",
+      "title": "Pravilnik o spremembi Pravilnika o zdravstvenih zahtevah za osebe, ki pri delu v proizvodnji in prometu z živili prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o zdravstvenih zahtevah za osebe, ki pri delu v proizvodnji in prometu z živili prihajajo v stik z živili",
+      "shortCode": "PRAV9617",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1066",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-03",
+      "validFrom": "2009-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1066",
+      "versions": [
+        {
+          "id": "PRAV9617-original",
+          "shortCode": "PRAV9617",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-03",
+          "effectiveFrom": "2009-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3144"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1066",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

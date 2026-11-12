@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4705",
+  "path": "laws/PR/PRAV4705",
+  "members": [
+    {
+      "id": "PRAV4705",
+      "title": "Pravilnik o vodenju evidence o upravnem postopku",
+      "shortTitle": "Pravilnik o vodenju evidence o upravnem postopku",
+      "shortCode": "PRAV4705",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0724",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-01-24",
+      "validFrom": "2006-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0724",
+      "versions": [
+        {
+          "id": "PRAV4705-original",
+          "shortCode": "PRAV4705",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0724",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4705-npb-PRAV4705",
+          "shortCode": "PRAV4705-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-02-21",
+          "effectiveFrom": "2003-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4705",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7243",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju evidence o upravnem postopku",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju evidence o upravnem postopku",
+      "shortCode": "PRAV7243",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0272",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2006-01-24",
+      "validFrom": "2006-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0272",
+      "versions": [
+        {
+          "id": "PRAV7243-original",
+          "shortCode": "PRAV7243",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4705"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0272",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

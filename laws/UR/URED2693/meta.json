@@ -1,0 +1,121 @@
+{
+  "root": "URED2693",
+  "path": "laws/UR/URED2693",
+  "members": [
+    {
+      "id": "URED2693",
+      "title": "Uredba o neposrednih podporah za ovce in koze",
+      "shortTitle": "Uredba o neposrednih podporah za ovce in koze",
+      "shortCode": "URED2693",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0287",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0287",
+      "versions": [
+        {
+          "id": "URED2693-original",
+          "shortCode": "URED2693",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0287",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3787",
+      "title": "Uredba o spremembah Uredbe o neposrednih podporah za ovce in koze",
+      "shortTitle": "Uredba o spremembah Uredbe o neposrednih podporah za ovce in koze",
+      "shortCode": "URED3787",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0752",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-03-04",
+      "validFrom": "2005-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0752",
+      "versions": [
+        {
+          "id": "URED3787-original",
+          "shortCode": "URED3787",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-03-04",
+          "effectiveFrom": "2005-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2693"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0752",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3949",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o neposrednih podporah za ovce in koze",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o neposrednih podporah za ovce in koze",
+      "shortCode": "URED3949",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-5016",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-16",
+      "validFrom": "2005-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5016",
+      "versions": [
+        {
+          "id": "URED3949-original",
+          "shortCode": "URED3949",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-16",
+          "effectiveFrom": "2005-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2693"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5016",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

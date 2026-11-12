@@ -1,0 +1,84 @@
+{
+  "root": "ZOLMP",
+  "path": "laws/ZO/ZOLMP",
+  "members": [
+    {
+      "id": "ZOLMP",
+      "title": "Zakon o overitvi listin v mednarodnem prometu",
+      "shortTitle": "Zakon o overitvi listin v mednarodnem prometu",
+      "shortCode": "ZOLMP",
+      "kind": "zakon",
+      "keywords": [
+        "dokument"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3467",
+      "gazette": "Uradni list RS 64/2001  str. 6577",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3467",
+      "versions": [
+        {
+          "id": "ZOLMP-original",
+          "shortCode": "ZOLMP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6577",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3467",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOLMP-1",
+      "title": "Zakon o overitvi listin v mednarodnem prometu",
+      "shortTitle": "Zakon o overitvi listin v mednarodnem prometu",
+      "shortCode": "ZOLMP-1",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodni prevoz"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-0405",
+      "gazette": "Uradni list RS 9/17  str. 1320",
+      "issuingBody": null,
+      "adoptedAt": "2017-02-24",
+      "validFrom": "2017-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0405",
+      "versions": [
+        {
+          "id": "ZOLMP-1-original",
+          "shortCode": "ZOLMP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/17  str. 1320",
+          "publishedAt": "2017-02-24",
+          "effectiveFrom": "2017-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0405",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

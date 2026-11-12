@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9873",
+  "path": "laws/PR/PRAV9873",
+  "members": [
+    {
+      "id": "PRAV9873",
+      "title": "Pravilnik o izdajanju poštnih vrednotnic",
+      "shortTitle": "Pravilnik o izdajanju poštnih vrednotnic",
+      "shortCode": "PRAV9873",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0908",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za visoko šolstvo, znanost in tehnologijo",
+      "adoptedAt": "2010-03-19",
+      "validFrom": "2010-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0908",
+      "versions": [
+        {
+          "id": "PRAV9873-original",
+          "shortCode": "PRAV9873",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0908",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9873-npb-PRAV9873",
+          "shortCode": "PRAV9873-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9873",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

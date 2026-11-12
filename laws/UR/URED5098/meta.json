@@ -1,0 +1,82 @@
+{
+  "root": "URED5098",
+  "path": "laws/UR/URED5098",
+  "members": [
+    {
+      "id": "URED5098",
+      "title": "Uredba o vsebini obrazca za priglasitev koncentracije podjetij",
+      "shortTitle": "Uredba o vsebini obrazca za priglasitev koncentracije podjetij",
+      "shortCode": "URED5098",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1703",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1703",
+      "versions": [
+        {
+          "id": "URED5098-original",
+          "shortCode": "URED5098",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1703",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6484",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vsebini obrazca za priglasitev koncentracije podjetij",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vsebini obrazca za priglasitev koncentracije podjetij",
+      "shortCode": "URED6484",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-0031",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-01-10",
+      "validFrom": "2014-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2014-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0031",
+      "versions": [
+        {
+          "id": "URED6484-original",
+          "shortCode": "URED6484",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-01-10",
+          "effectiveFrom": "2014-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5098"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0031",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "root": "PRAV2375",
+  "path": "laws/PR/PRAV2375",
+  "members": [
+    {
+      "id": "PRAV2375",
+      "title": "Pravilnik o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortTitle": "Pravilnik o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortCode": "PRAV2375",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-0733",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-03-05",
+      "validFrom": "1998-03-05",
+      "validTo": null,
+      "latestPublishedAt": "1998-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0733",
+      "versions": [
+        {
+          "id": "PRAV2375-original",
+          "shortCode": "PRAV2375",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-03-05",
+          "effectiveFrom": "1998-03-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0733",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2375-npb-PRAV2375",
+          "shortCode": "PRAV2375-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1998-03-05",
+          "effectiveFrom": "1998-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2375",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2594",
+      "title": "Pravilnik o spremembi pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortTitle": "Pravilnik o spremembi pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortCode": "PRAV2594",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-1119",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-23",
+      "validFrom": "2000-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1119",
+      "versions": [
+        {
+          "id": "PRAV2594-original",
+          "shortCode": "PRAV2594",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-23",
+          "effectiveFrom": "2000-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2375"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1119",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3827",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortCode": "PRAV3827",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-2224",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2001-05-18",
+      "validFrom": "2001-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2224",
+      "versions": [
+        {
+          "id": "PRAV3827-original",
+          "shortCode": "PRAV3827",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-18",
+          "effectiveFrom": "2001-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2375"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2224",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7226",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih normativih za zaklonišča in zaklonilnike",
+      "shortCode": "PRAV7226",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2849",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2006-06-27",
+      "validFrom": "2006-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2849",
+      "versions": [
+        {
+          "id": "PRAV7226-original",
+          "shortCode": "PRAV7226",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-27",
+          "effectiveFrom": "2006-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2375"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2849",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

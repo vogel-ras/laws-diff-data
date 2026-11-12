@@ -1,0 +1,121 @@
+{
+  "root": "PRAV1064",
+  "path": "laws/PR/PRAV1064",
+  "members": [
+    {
+      "id": "PRAV1064",
+      "title": "Pravilnik o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortTitle": "Pravilnik o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortCode": "PRAV1064",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2191",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-08",
+      "validFrom": "1999-06-08",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2191",
+      "versions": [
+        {
+          "id": "PRAV1064-original",
+          "shortCode": "PRAV1064",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-08",
+          "effectiveFrom": "1999-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2191",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3166",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortCode": "PRAV3166",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3683",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-09-08",
+      "validFrom": "2000-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3683",
+      "versions": [
+        {
+          "id": "PRAV3166-original",
+          "shortCode": "PRAV3166",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-08",
+          "effectiveFrom": "2000-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1064"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3683",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5546",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o registru pridelovalcev grozdja in vina in katastru vinogradov",
+      "shortCode": "PRAV5546",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0203",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-01-22",
+      "validFrom": "2004-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0203",
+      "versions": [
+        {
+          "id": "PRAV5546-original",
+          "shortCode": "PRAV5546",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-22",
+          "effectiveFrom": "2004-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1064"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0203",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "ODRE215",
+  "path": "laws/OD/ODRE215",
+  "members": [
+    {
+      "id": "ODRE215",
+      "title": "Pravilnik o protieksplozijski zaščiti",
+      "shortTitle": "Pravilnik o protieksplozijski zaščiti",
+      "shortCode": "ODRE215",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-4272",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-10-25",
+      "validFrom": "2002-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4272",
+      "versions": [
+        {
+          "id": "ODRE215-original",
+          "shortCode": "ODRE215",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-25",
+          "effectiveFrom": "2002-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4272",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10446",
+      "title": "Pravilnik o spremembi Pravilnika o protieksplozijski zaščiti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o protieksplozijski zaščiti",
+      "shortCode": "PRAV10446",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0006",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2011-01-07",
+      "validFrom": "2011-01-07",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0006",
+      "versions": [
+        {
+          "id": "PRAV10446-original",
+          "shortCode": "PRAV10446",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-01-07",
+          "effectiveFrom": "2011-01-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE215"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0006",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10922",
+      "title": "Pravilnik o spremembi Pravilnika o protieksplozijski zaščiti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o protieksplozijski zaščiti",
+      "shortCode": "PRAV10922",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-4424",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2011-12-16",
+      "validFrom": "2011-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4424",
+      "versions": [
+        {
+          "id": "PRAV10922-original",
+          "shortCode": "PRAV10922",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-16",
+          "effectiveFrom": "2011-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE215"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4424",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

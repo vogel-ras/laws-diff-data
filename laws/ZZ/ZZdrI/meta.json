@@ -1,0 +1,161 @@
+{
+  "root": "ZZdrI",
+  "path": "laws/ZZ/ZZdrI",
+  "members": [
+    {
+      "id": "ZZdrI",
+      "title": "Zakon o zdravstveni inšpekciji",
+      "shortTitle": "Zakon o zdravstveni inšpekciji",
+      "shortCode": "ZZdrI",
+      "kind": "zakon",
+      "keywords": [
+        "javno zdravje",
+        "zdravstveni nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4693",
+      "gazette": "Uradni list RS 99/99  str. 14758",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-09",
+      "validFrom": "1999-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4693",
+      "versions": [
+        {
+          "id": "ZZdrI-original",
+          "shortCode": "ZZdrI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/99  str. 14758",
+          "publishedAt": "1999-12-09",
+          "effectiveFrom": "1999-12-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4693",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrI-amend-ZZdrI-A",
+          "shortCode": "ZZdrI-A",
+          "label": "Sprememba ZZdrI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 2/04  str. 161",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZdrI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0064",
+          "proposer": null
+        },
+        {
+          "id": "ZZdrI-amend-ZZdrI-B",
+          "shortCode": "ZZdrI-B",
+          "label": "Sprememba ZZdrI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 39/06  str. 4151",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1681",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni inšpekciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni inšpekciji",
+      "shortCode": "ZZdrI-A",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena politika",
+        "nadzorni organ"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0064",
+      "gazette": "Uradni list RS 2/04  str. 161",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0064",
+      "versions": [
+        {
+          "id": "ZZdrI-A-original",
+          "shortCode": "ZZdrI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 161",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0064",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdrI-B",
+      "title": "Zakon o spremembi zakona o zdravstveni inšpekciji",
+      "shortTitle": "Zakon o spremembi zakona o zdravstveni inšpekciji",
+      "shortCode": "ZZdrI-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1681",
+      "gazette": "Uradni list RS 39/06  str. 4151",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-13",
+      "validFrom": "2006-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1681",
+      "versions": [
+        {
+          "id": "ZZdrI-B-original",
+          "shortCode": "ZZdrI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/06  str. 4151",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdrI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1681",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

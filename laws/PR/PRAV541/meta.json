@@ -1,0 +1,82 @@
+{
+  "root": "PRAV541",
+  "path": "laws/PR/PRAV541",
+  "members": [
+    {
+      "id": "PRAV1060",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o označevanju zdravil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o označevanju zdravil",
+      "shortCode": "PRAV1060",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2001",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1999-05-28",
+      "validFrom": "1999-05-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2001",
+      "versions": [
+        {
+          "id": "PRAV1060-original",
+          "shortCode": "PRAV1060",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-05-28",
+          "effectiveFrom": "1999-05-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV541"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2001",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV541",
+      "title": "Pravilnik o označevanju zdravil",
+      "shortTitle": "Pravilnik o označevanju zdravil",
+      "shortCode": "PRAV541",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-1724",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1998-05-19",
+      "validFrom": "1998-05-19",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1724",
+      "versions": [
+        {
+          "id": "PRAV541-original",
+          "shortCode": "PRAV541",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-05-19",
+          "effectiveFrom": "1998-05-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1724",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

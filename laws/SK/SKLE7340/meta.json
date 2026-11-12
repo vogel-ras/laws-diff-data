@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7340",
+  "path": "laws/SK/SKLE7340",
+  "members": [
+    {
+      "id": "SKLE7340",
+      "title": "Sklep o vodenju, pogojih za vpis in javni dostopnosti registra odvisnih borznoposredniških zastopnikov",
+      "shortTitle": "Sklep o vodenju, pogojih za vpis in javni dostopnosti registra odvisnih borznoposredniških zastopnikov",
+      "shortCode": "SKLE7340",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-5258",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2007-11-21",
+      "validFrom": "2007-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5258",
+      "versions": [
+        {
+          "id": "SKLE7340-original",
+          "shortCode": "SKLE7340",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-21",
+          "effectiveFrom": "2007-11-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5258",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE7669",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o vodenju, pogojih za vpis in javni dostopnosti registra odvisnih borznoposredniških zastopnikov",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o vodenju, pogojih za vpis in javni dostopnosti registra odvisnih borznoposredniških zastopnikov",
+      "shortCode": "SKLE7669",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2008-01-2277",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2008-06-02",
+      "validFrom": "2008-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2277",
+      "versions": [
+        {
+          "id": "SKLE7669-original",
+          "shortCode": "SKLE7669",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-02",
+          "effectiveFrom": "2008-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7340"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2277",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

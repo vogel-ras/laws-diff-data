@@ -1,0 +1,97 @@
+{
+  "root": "PRAV3841",
+  "path": "laws/PR/PRAV3841",
+  "members": [
+    {
+      "id": "PRAV15532",
+      "title": "Pravilnik o spremembi Pravilnika o šolskem redu za glasbene šole",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o šolskem redu za glasbene šole",
+      "shortCode": "PRAV15532",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2947",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-18",
+      "validFrom": "2024-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2947",
+      "versions": [
+        {
+          "id": "PRAV15532-original",
+          "shortCode": "PRAV15532",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-18",
+          "effectiveFrom": "2024-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3841"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2947",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3841",
+      "title": "Pravilnik o šolskem redu za glasbene šole",
+      "shortTitle": "Pravilnik o šolskem redu za glasbene šole",
+      "shortCode": "PRAV3841",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-2486",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-18",
+      "validFrom": "2024-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2486",
+      "versions": [
+        {
+          "id": "PRAV3841-original",
+          "shortCode": "PRAV3841",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-18",
+          "effectiveFrom": "2024-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2486",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3841-npb-PRAV3841",
+          "shortCode": "PRAV3841-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-06-01",
+          "effectiveFrom": "2001-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3841",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

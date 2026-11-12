@@ -1,0 +1,200 @@
+{
+  "root": "ZPPDen",
+  "path": "laws/ZP/ZPPDen",
+  "members": [
+    {
+      "id": "ZPPDen",
+      "title": "Zakon o preprečevanju pranja denarja",
+      "shortTitle": "Zakon o preprečevanju pranja denarja",
+      "shortCode": "ZPPDen",
+      "kind": "zakon",
+      "keywords": [
+        "pranje denarja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1474",
+      "gazette": "Uradni list RS 36/94  str. 2341",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-22",
+      "validFrom": "1994-06-22",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1474",
+      "versions": [
+        {
+          "id": "ZPPDen-original",
+          "shortCode": "ZPPDen",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/94  str. 2341",
+          "publishedAt": "1994-06-22",
+          "effectiveFrom": "1994-06-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1474",
+          "proposer": null
+        },
+        {
+          "id": "ZPPDen-amend-ZPPDen-A",
+          "shortCode": "ZPPDen-A",
+          "label": "Sprememba ZPPDen-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 63/95  str. 4938",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2921",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPDen-1",
+      "title": "Zakon o preprečevanju pranja denarja",
+      "shortTitle": "Zakon o preprečevanju pranja denarja",
+      "shortCode": "ZPPDen-1",
+      "kind": "zakon",
+      "keywords": [
+        "pranje denarja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4104",
+      "gazette": "Uradni list RS 79/2001  str. 8045",
+      "issuingBody": null,
+      "adoptedAt": "2001-10-10",
+      "validFrom": "2001-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4104",
+      "versions": [
+        {
+          "id": "ZPPDen-1-original",
+          "shortCode": "ZPPDen-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/2001  str. 8045",
+          "publishedAt": "2001-10-10",
+          "effectiveFrom": "2001-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4104",
+          "proposer": null
+        },
+        {
+          "id": "ZPPDen-1-amend-ZPPDen-1A",
+          "shortCode": "ZPPDen-1A",
+          "label": "Sprememba ZPPDen-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2002  str. 6094",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPDen-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2835",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPDen-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o preprečevanju pranja denarja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o preprečevanju pranja denarja",
+      "shortCode": "ZPPDen-1A",
+      "kind": "zakon",
+      "keywords": [
+        "pranje denarja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2835",
+      "gazette": "Uradni list RS 59/2002  str. 6094",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2835",
+      "versions": [
+        {
+          "id": "ZPPDen-1A-original",
+          "shortCode": "ZPPDen-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6094",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPDen-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2835",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPDen-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o preprečevanju pranja denarja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o preprečevanju pranja denarja",
+      "shortCode": "ZPPDen-A",
+      "kind": "zakon",
+      "keywords": [
+        "pranje denarja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2921",
+      "gazette": "Uradni list RS 63/95  str. 4938",
+      "issuingBody": null,
+      "adoptedAt": "1995-11-06",
+      "validFrom": "1995-11-06",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2921",
+      "versions": [
+        {
+          "id": "ZPPDen-A-original",
+          "shortCode": "ZPPDen-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/95  str. 4938",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2921",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

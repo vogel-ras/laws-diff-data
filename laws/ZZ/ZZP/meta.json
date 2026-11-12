@@ -1,0 +1,227 @@
+{
+  "root": "ZZP",
+  "path": "laws/ZZ/ZZP",
+  "members": [
+    {
+      "id": "ZZP",
+      "title": "Zakon o zunanjetrgovinskem poslovanju",
+      "shortTitle": "Zakon o zunanjetrgovinskem poslovanju",
+      "shortCode": "ZZP",
+      "kind": "zakon",
+      "keywords": [
+        "izvoz",
+        "uvoz",
+        "zunanja trgovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0588",
+      "gazette": "Uradni list RS 13/93  str. 561",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0588",
+      "versions": [
+        {
+          "id": "ZZP-original",
+          "shortCode": "ZZP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 561",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0588",
+          "proposer": null
+        },
+        {
+          "id": "ZZP-amend-ZZP-A",
+          "shortCode": "ZZP-A",
+          "label": "Sprememba ZZP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 66/93  str. 3218",
+          "publishedAt": "1993-12-10",
+          "effectiveFrom": "1993-12-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2403",
+          "proposer": null
+        },
+        {
+          "id": "ZZP-amend-ZZP-B",
+          "shortCode": "ZZP-B",
+          "label": "Sprememba ZZP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 7/94  str. 413",
+          "publishedAt": "1994-02-16",
+          "effectiveFrom": "1994-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0311",
+          "proposer": null
+        },
+        {
+          "id": "ZZP-amend-ZZP-C",
+          "shortCode": "ZZP-C",
+          "label": "Sprememba ZZP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 58/95  str. 4655",
+          "publishedAt": "1995-10-13",
+          "effectiveFrom": "1995-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2697",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortCode": "ZZP-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvoz",
+        "uvoz",
+        "zunanja trgovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2403",
+      "gazette": "Uradni list RS 66/93  str. 3218",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-10",
+      "validFrom": "1993-12-10",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2403",
+      "versions": [
+        {
+          "id": "ZZP-A-original",
+          "shortCode": "ZZP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/93  str. 3218",
+          "publishedAt": "1993-12-10",
+          "effectiveFrom": "1993-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZP-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortCode": "ZZP-B",
+      "kind": "zakon",
+      "keywords": [
+        "izvoz",
+        "uvoz",
+        "zunanja trgovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0311",
+      "gazette": "Uradni list RS 7/94  str. 413",
+      "issuingBody": null,
+      "adoptedAt": "1994-02-16",
+      "validFrom": "1994-02-16",
+      "validTo": null,
+      "latestPublishedAt": "1994-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0311",
+      "versions": [
+        {
+          "id": "ZZP-B-original",
+          "shortCode": "ZZP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/94  str. 413",
+          "publishedAt": "1994-02-16",
+          "effectiveFrom": "1994-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0311",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zunanjetrgovinskem poslovanju",
+      "shortCode": "ZZP-C",
+      "kind": "zakon",
+      "keywords": [
+        "uvoz",
+        "izvoz",
+        "zunanja trgovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2697",
+      "gazette": "Uradni list RS 58/95  str. 4655",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-13",
+      "validFrom": "1995-10-13",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2697",
+      "versions": [
+        {
+          "id": "ZZP-C-original",
+          "shortCode": "ZZP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/95  str. 4655",
+          "publishedAt": "1995-10-13",
+          "effectiveFrom": "1995-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2697",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

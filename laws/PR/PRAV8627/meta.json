@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8627",
+  "path": "laws/PR/PRAV8627",
+  "members": [
+    {
+      "id": "PRAV8627",
+      "title": "Pravilnik o vsebini in postopku vodenja registra delodajalcev, ki izvajajo praktično izobraževanje študentov v višjem strokovnem izobraževanju",
+      "shortTitle": "Pravilnik o vsebini in postopku vodenja registra delodajalcev, ki izvajajo praktično izobraževanje študentov v višjem strokovnem izobraževanju",
+      "shortCode": "PRAV8627",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0977",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-02-27",
+      "validFrom": "2009-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0977",
+      "versions": [
+        {
+          "id": "PRAV8627-original",
+          "shortCode": "PRAV8627",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0977",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8627-npb-PRAV8627",
+          "shortCode": "PRAV8627-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-14",
+          "effectiveFrom": "2008-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8627",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9654",
+      "title": "Pravilnik o spremembi Pravilnika o vsebini in postopku vodenja registra delodajalcev, ki izvajajo praktično izobraževanje študentov v višjem strokovnem izobraževanju",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vsebini in postopku vodenja registra delodajalcev, ki izvajajo praktično izobraževanje študentov v višjem strokovnem izobraževanju",
+      "shortCode": "PRAV9654",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0569",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2009-02-27",
+      "validFrom": "2009-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0569",
+      "versions": [
+        {
+          "id": "PRAV9654-original",
+          "shortCode": "PRAV9654",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8627"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0569",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

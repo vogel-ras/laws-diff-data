@@ -1,0 +1,82 @@
+{
+  "root": "NAVO982",
+  "path": "laws/NA/NAVO982",
+  "members": [
+    {
+      "id": "NAVO1027",
+      "title": "Navodilo o spremembi Navodila za poročanje upravljavcev plačilnih sistemov",
+      "shortTitle": "Navodilo o spremembi Navodila za poročanje upravljavcev plačilnih sistemov",
+      "shortCode": "NAVO1027",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2011-01-3176",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2011-09-23",
+      "validFrom": "2011-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2011-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3176",
+      "versions": [
+        {
+          "id": "NAVO1027-original",
+          "shortCode": "NAVO1027",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-23",
+          "effectiveFrom": "2011-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO982"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3176",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO982",
+      "title": "Navodilo za poročanje upravljavcev plačilnih sistemov",
+      "shortTitle": "Navodilo za poročanje upravljavcev plačilnih sistemov",
+      "shortCode": "NAVO982",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2009-01-3814",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-09-23",
+      "validFrom": "2011-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2011-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3814",
+      "versions": [
+        {
+          "id": "NAVO982-original",
+          "shortCode": "NAVO982",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-23",
+          "effectiveFrom": "2011-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3814",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

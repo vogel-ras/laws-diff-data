@@ -1,0 +1,82 @@
+{
+  "root": "SKLE10916",
+  "path": "laws/SK/SKLE10916",
+  "members": [
+    {
+      "id": "SKLE10916",
+      "title": "Sklep o uporabi smernic in priporočil Evropskega bančnega organa",
+      "shortTitle": "Sklep o uporabi smernic in priporočil Evropskega bančnega organa",
+      "shortCode": "SKLE10916",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2016-01-3075",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2016-11-18",
+      "validFrom": "2016-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3075",
+      "versions": [
+        {
+          "id": "SKLE10916-original",
+          "shortCode": "SKLE10916",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-11-18",
+          "effectiveFrom": "2016-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3075",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12216",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o uporabi smernic in priporočil Evropskega bančnega organa",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o uporabi smernic in priporočil Evropskega bančnega organa",
+      "shortCode": "SKLE12216",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2020-01-2705",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2020-10-26",
+      "validFrom": "2020-10-26",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2705",
+      "versions": [
+        {
+          "id": "SKLE12216-original",
+          "shortCode": "SKLE12216",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-26",
+          "effectiveFrom": "2020-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10916"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2705",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED8419",
+  "path": "laws/UR/URED8419",
+  "members": [
+    {
+      "id": "URED8419",
+      "title": "Uredba o določitvi najvišjih cen zdravstvenih storitev hitrega antigenskega testiranja in najvišjih cen hitrih antigenskih testov za samotestiranje",
+      "shortTitle": "Uredba o določitvi najvišjih cen zdravstvenih storitev hitrega antigenskega testiranja in najvišjih cen hitrih antigenskih testov za samotestiranje",
+      "shortCode": "URED8419",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-3458",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-11-06",
+      "validFrom": "2021-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2021-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3458",
+      "versions": [
+        {
+          "id": "URED8419-original",
+          "shortCode": "URED8419",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-11-06",
+          "effectiveFrom": "2021-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3458",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8563",
+      "title": "Uredba o spremembi Uredbe o določitvi najvišjih cen zdravstvenih storitev hitrega antigenskega testiranja in najvišjih cen hitrih antigenskih testov za samotestiranje",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi najvišjih cen zdravstvenih storitev hitrega antigenskega testiranja in najvišjih cen hitrih antigenskih testov za samotestiranje",
+      "shortCode": "URED8563",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-1345",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-04-29",
+      "validFrom": "2022-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1345",
+      "versions": [
+        {
+          "id": "URED8563-original",
+          "shortCode": "URED8563",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-29",
+          "effectiveFrom": "2022-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8419"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1345",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

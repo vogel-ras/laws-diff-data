@@ -1,0 +1,82 @@
+{
+  "root": "ODRE218",
+  "path": "laws/OD/ODRE218",
+  "members": [
+    {
+      "id": "ODRE218",
+      "title": "Odredba o enostavnih tlačnih posodah",
+      "shortTitle": "Odredba o enostavnih tlačnih posodah",
+      "shortCode": "ODRE218",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2002-01-0466",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-28",
+      "validFrom": "2006-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0466",
+      "versions": [
+        {
+          "id": "ODRE218-original",
+          "shortCode": "ODRE218",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-28",
+          "effectiveFrom": "2006-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7979",
+      "title": "Pravilnik o spremembi Odredbe o enostavnih tlačnih posodah",
+      "shortTitle": "Pravilnik o spremembi Odredbe o enostavnih tlačnih posodah",
+      "shortCode": "PRAV7979",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-6016",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-28",
+      "validFrom": "2006-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6016",
+      "versions": [
+        {
+          "id": "PRAV7979-original",
+          "shortCode": "PRAV7979",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-28",
+          "effectiveFrom": "2006-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE218"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6016",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "root": "ZPORVAD",
+  "path": "laws/ZP/ZPORVAD",
+  "members": [
+    {
+      "id": "ZPORVAD",
+      "title": "Zakon o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortTitle": "Zakon o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortCode": "ZPORVAD",
+      "kind": "zakon",
+      "keywords": [
+        "avdiovizualna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1696",
+      "gazette": "Uradni list RS 42/94  str. 2765",
+      "issuingBody": null,
+      "adoptedAt": "1994-07-13",
+      "validFrom": "1994-07-13",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1696",
+      "versions": [
+        {
+          "id": "ZPORVAD-original",
+          "shortCode": "ZPORVAD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/94  str. 2765",
+          "publishedAt": "1994-07-13",
+          "effectiveFrom": "1994-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1696",
+          "proposer": null
+        },
+        {
+          "id": "ZPORVAD-amend-ZPORVAD-A",
+          "shortCode": "ZPORVAD-A",
+          "label": "Sprememba ZPORVAD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 50/94  str. 3075",
+          "publishedAt": "1994-08-12",
+          "effectiveFrom": "1994-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPORVAD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1867",
+          "proposer": null
+        },
+        {
+          "id": "ZPORVAD-amend-ZPORVAD-B",
+          "shortCode": "ZPORVAD-B",
+          "label": "Sprememba ZPORVAD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 1/95  str. 1",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPORVAD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0001",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPORVAD-A",
+      "title": "Zakon o dopolnitvi zakona o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortTitle": "Zakon o dopolnitvi zakona o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortCode": "ZPORVAD-A",
+      "kind": "zakon",
+      "keywords": [
+        "avdiovizualna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1867",
+      "gazette": "Uradni list RS 50/94  str. 3075",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-12",
+      "validFrom": "1994-08-12",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1867",
+      "versions": [
+        {
+          "id": "ZPORVAD-A-original",
+          "shortCode": "ZPORVAD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/94  str. 3075",
+          "publishedAt": "1994-08-12",
+          "effectiveFrom": "1994-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPORVAD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1867",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPORVAD-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pogojih za opravljanje reproduktivne video in avdio dejavnosti",
+      "shortCode": "ZPORVAD-B",
+      "kind": "zakon",
+      "keywords": [
+        "avdiovizualna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0001",
+      "gazette": "Uradni list RS 1/95  str. 1",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0001",
+      "versions": [
+        {
+          "id": "ZPORVAD-B-original",
+          "shortCode": "ZPORVAD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 1",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPORVAD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0001",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

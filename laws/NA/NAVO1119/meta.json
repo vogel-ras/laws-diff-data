@@ -1,0 +1,82 @@
+{
+  "root": "NAVO1119",
+  "path": "laws/NA/NAVO1119",
+  "members": [
+    {
+      "id": "NAVO1119",
+      "title": "Navodilo o predložitvi letnih in zaključnih poročil ter drugih podatkov poslovnih subjektov",
+      "shortTitle": "Navodilo o predložitvi letnih in zaključnih poročil ter drugih podatkov poslovnih subjektov",
+      "shortCode": "NAVO1119",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2016-01-3784",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-22",
+      "validFrom": "2026-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3784",
+      "versions": [
+        {
+          "id": "NAVO1119-original",
+          "shortCode": "NAVO1119",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-22",
+          "effectiveFrom": "2026-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3784",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO1144",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila o predložitvi letnih in zaključnih poročil ter drugih podatkov poslovnih subjektov",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila o predložitvi letnih in zaključnih poročil ter drugih podatkov poslovnih subjektov",
+      "shortCode": "NAVO1144",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2017-01-3725",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-22",
+      "validFrom": "2017-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3725",
+      "versions": [
+        {
+          "id": "NAVO1144-original",
+          "shortCode": "NAVO1144",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-22",
+          "effectiveFrom": "2017-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO1119"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3725",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

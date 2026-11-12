@@ -1,0 +1,97 @@
+{
+  "root": "NAVO233",
+  "path": "laws/NA/NAVO233",
+  "members": [
+    {
+      "id": "NAVO233",
+      "title": "Navodilo o vojaški evidenci",
+      "shortTitle": "Navodilo o vojaški evidenci",
+      "shortCode": "NAVO233",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1992-01-2036",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-30",
+      "validFrom": "2026-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2036",
+      "versions": [
+        {
+          "id": "NAVO233-original",
+          "shortCode": "NAVO233",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-30",
+          "effectiveFrom": "2026-01-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2036",
+          "proposer": null
+        },
+        {
+          "id": "NAVO233-npb-NAVO233",
+          "shortCode": "NAVO233-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1992-08-31",
+          "effectiveFrom": "1992-08-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO233",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO234",
+      "title": "Navodilo o spremembah navodila o vojaški evidenci",
+      "shortTitle": "Navodilo o spremembah navodila o vojaški evidenci",
+      "shortCode": "NAVO234",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1994-01-0905",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-04-22",
+      "validFrom": "1994-04-22",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0905",
+      "versions": [
+        {
+          "id": "NAVO234-original",
+          "shortCode": "NAVO234",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-04-22",
+          "effectiveFrom": "1994-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO233"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0905",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

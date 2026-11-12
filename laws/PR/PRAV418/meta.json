@@ -1,0 +1,97 @@
+{
+  "root": "PRAV418",
+  "path": "laws/PR/PRAV418",
+  "members": [
+    {
+      "id": "PRAV418",
+      "title": "Pravilnik o zahtevah za zagotavljanje varnosti in zdravja delavcev na delovnih mestih",
+      "shortTitle": "Pravilnik o zahtevah za zagotavljanje varnosti in zdravja delavcev na delovnih mestih",
+      "shortCode": "PRAV418",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-4280",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "1999-11-04",
+      "validFrom": "1999-11-04",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4280",
+      "versions": [
+        {
+          "id": "PRAV418-original",
+          "shortCode": "PRAV418",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4280",
+          "proposer": null
+        },
+        {
+          "id": "PRAV418-npb-PRAV418",
+          "shortCode": "PRAV418-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV418",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6840",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o zahtevah za zagotavljanje varnosti in zdravja delavcev na delovnih mestih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o zahtevah za zagotavljanje varnosti in zdravja delavcev na delovnih mestih",
+      "shortCode": "PRAV6840",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1395",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2005-04-19",
+      "validFrom": "2005-04-19",
+      "validTo": null,
+      "latestPublishedAt": "2005-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1395",
+      "versions": [
+        {
+          "id": "PRAV6840-original",
+          "shortCode": "PRAV6840",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-04-19",
+          "effectiveFrom": "2005-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV418"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1395",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

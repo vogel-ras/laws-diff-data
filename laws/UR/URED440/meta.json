@@ -1,0 +1,97 @@
+{
+  "root": "URED440",
+  "path": "laws/UR/URED440",
+  "members": [
+    {
+      "id": "URED1205",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o lokacijskem načrtu za odsek avtomobilske ceste Višnja Gora-Bič",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o lokacijskem načrtu za odsek avtomobilske ceste Višnja Gora-Bič",
+      "shortCode": "URED1205",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1395",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-03-31",
+      "validFrom": "2000-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1395",
+      "versions": [
+        {
+          "id": "URED1205-original",
+          "shortCode": "URED1205",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-31",
+          "effectiveFrom": "2000-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED440"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1395",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED440",
+      "title": "Uredba o lokacijskem načrtu za odsek avtomobilske ceste Višnja Gora-Bič",
+      "shortTitle": "Uredba o lokacijskem načrtu za odsek avtomobilske ceste Višnja Gora-Bič",
+      "shortCode": "URED440",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-2297",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-07-05",
+      "validFrom": "1996-07-05",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2297",
+      "versions": [
+        {
+          "id": "URED440-original",
+          "shortCode": "URED440",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-07-05",
+          "effectiveFrom": "1996-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2297",
+          "proposer": null
+        },
+        {
+          "id": "URED440-npb-URED440",
+          "shortCode": "URED440-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1996-07-05",
+          "effectiveFrom": "1996-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED440",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

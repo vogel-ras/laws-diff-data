@@ -1,0 +1,97 @@
+{
+  "root": "URED2858",
+  "path": "laws/UR/URED2858",
+  "members": [
+    {
+      "id": "URED2858",
+      "title": "Uredba o določitvi obrambnih potreb",
+      "shortTitle": "Uredba o določitvi obrambnih potreb",
+      "shortCode": "URED2858",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1221",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-27",
+      "validFrom": "2003-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1221",
+      "versions": [
+        {
+          "id": "URED2858-original",
+          "shortCode": "URED2858",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-27",
+          "effectiveFrom": "2003-03-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1221",
+          "proposer": null
+        },
+        {
+          "id": "URED2858-npb-URED2858",
+          "shortCode": "URED2858-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-27",
+          "effectiveFrom": "2003-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2858",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9440",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o določitvi obrambnih potreb",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o določitvi obrambnih potreb",
+      "shortCode": "URED9440",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-3104",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-11-12",
+      "validFrom": "2025-11-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3104",
+      "versions": [
+        {
+          "id": "URED9440-original",
+          "shortCode": "URED9440",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-12",
+          "effectiveFrom": "2025-11-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2858"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3104",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "root": "ZJNPOV",
+  "path": "laws/ZJ/ZJNPOV",
+  "members": [
+    {
+      "id": "ZJNPOV",
+      "title": "Zakon o javnem naročanju na področju obrambe in varnosti",
+      "shortTitle": "Zakon o javnem naročanju na področju obrambe in varnosti",
+      "shortCode": "ZJNPOV",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo",
+        "obrambna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3525",
+      "gazette": "Uradni list RS 90/12  str. 9267",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-30",
+      "validFrom": "2012-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3525",
+      "versions": [
+        {
+          "id": "ZJNPOV-original",
+          "shortCode": "ZJNPOV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/12  str. 9267",
+          "publishedAt": "2012-11-30",
+          "effectiveFrom": "2012-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3525",
+          "proposer": null
+        },
+        {
+          "id": "ZJNPOV-amend-ZJNPOV-A",
+          "shortCode": "ZJNPOV-A",
+          "label": "Sprememba ZJNPOV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 52/16  str. 7677",
+          "publishedAt": "2016-07-29",
+          "effectiveFrom": "2016-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJNPOV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2297",
+          "proposer": null
+        },
+        {
+          "id": "ZJNPOV-amend-ZJNPOV-B",
+          "shortCode": "ZJNPOV-B",
+          "label": "Sprememba ZJNPOV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 122/23  str. 10491",
+          "publishedAt": "2023-12-05",
+          "effectiveFrom": "2023-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJNPOV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3591",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJNPOV-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnem naročanju na področju obrambe in varnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnem naročanju na področju obrambe in varnosti",
+      "shortCode": "ZJNPOV-A",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo",
+        "obrambna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2297",
+      "gazette": "Uradni list RS 52/16  str. 7677",
+      "issuingBody": null,
+      "adoptedAt": "2016-07-29",
+      "validFrom": "2016-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2297",
+      "versions": [
+        {
+          "id": "ZJNPOV-A-original",
+          "shortCode": "ZJNPOV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/16  str. 7677",
+          "publishedAt": "2016-07-29",
+          "effectiveFrom": "2016-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJNPOV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2297",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJNPOV-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnem naročanju na področju obrambe in varnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnem naročanju na področju obrambe in varnosti",
+      "shortCode": "ZJNPOV-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3591",
+      "gazette": "Uradni list RS 122/23  str. 10491",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-05",
+      "validFrom": "2023-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3591",
+      "versions": [
+        {
+          "id": "ZJNPOV-B-original",
+          "shortCode": "ZJNPOV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 122/23  str. 10491",
+          "publishedAt": "2023-12-05",
+          "effectiveFrom": "2023-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJNPOV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3591",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED731",
+  "path": "laws/UR/URED731",
+  "members": [
+    {
+      "id": "URED731",
+      "title": "Uredba o varstvu samoniklih gliv",
+      "shortTitle": "Uredba o varstvu samoniklih gliv",
+      "shortCode": "URED731",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-2689",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-08-14",
+      "validFrom": "1998-08-14",
+      "validTo": null,
+      "latestPublishedAt": "1998-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2689",
+      "versions": [
+        {
+          "id": "URED731-original",
+          "shortCode": "URED731",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2689",
+          "proposer": null
+        },
+        {
+          "id": "URED731-npb-URED731",
+          "shortCode": "URED731-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED731",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

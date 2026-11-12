@@ -1,0 +1,141 @@
+{
+  "root": "ZGeoD",
+  "path": "laws/ZG/ZGeoD",
+  "members": [
+    {
+      "id": "ZAKO5335",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o geodetski dejavnosti (ZGeoD-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o geodetski dejavnosti (ZGeoD-A)",
+      "shortCode": "ZGeoD-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1986",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-05-09",
+      "validFrom": "2008-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1986",
+      "versions": [
+        {
+          "id": "ZAKO5335-original",
+          "shortCode": "ZGeoD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-09",
+          "effectiveFrom": "2008-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGeoD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1986",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGeoD",
+      "title": "Zakon o geodetski dejavnosti",
+      "shortTitle": "Zakon o geodetski dejavnosti",
+      "shortCode": "ZGeoD",
+      "kind": "zakon",
+      "keywords": [
+        "urejanje prostora"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0408",
+      "gazette": "Uradni list RS 8/2000  str. 949",
+      "issuingBody": null,
+      "adoptedAt": "2000-01-31",
+      "validFrom": "2000-01-31",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0408",
+      "versions": [
+        {
+          "id": "ZGeoD-original",
+          "shortCode": "ZGeoD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/2000  str. 949",
+          "publishedAt": "2000-01-31",
+          "effectiveFrom": "2000-01-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0408",
+          "proposer": null
+        },
+        {
+          "id": "ZGeoD-amend-ZAKO5335",
+          "shortCode": "ZGeoD-A",
+          "label": "Sprememba ZGeoD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-05-09",
+          "effectiveFrom": "2008-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGeoD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1986",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGeoD-1",
+      "title": "Zakon o geodetski dejavnosti",
+      "shortTitle": "Zakon o geodetski dejavnosti",
+      "shortCode": "ZGeoD-1",
+      "kind": "zakon",
+      "keywords": [
+        "urejanje prostora",
+        "nepremičnine"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4216",
+      "gazette": "Uradni list RS 77/10  str. 11281",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-04",
+      "validFrom": "2010-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4216",
+      "versions": [
+        {
+          "id": "ZGeoD-1-original",
+          "shortCode": "ZGeoD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/10  str. 11281",
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4216",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "root": "ZZSOK",
+  "path": "laws/ZZ/ZZSOK",
+  "members": [
+    {
+      "id": "ZZSOK",
+      "title": "Zakon o zagotavljanju sredstev za odplačilo kreditov za trajna obratna sredstva in kreditov za izvedbo nujnih investicijskih del Slovenskih železarn",
+      "shortTitle": "Zakon o zagotavljanju sredstev za odplačilo kreditov za trajna obratna sredstva in kreditov za izvedbo nujnih investicijskih del Slovenskih železarn",
+      "shortCode": "ZZSOK",
+      "kind": "zakon",
+      "keywords": [
+        "odplačevanje",
+        "kredit",
+        "investicijski stroški",
+        "železarska in jeklarska industrija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2510",
+      "gazette": "Uradni list RS 70/94  str. 3916",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-11",
+      "validFrom": "1994-11-11",
+      "validTo": null,
+      "latestPublishedAt": "1995-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2510",
+      "versions": [
+        {
+          "id": "ZZSOK-original",
+          "shortCode": "ZZSOK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/94  str. 3916",
+          "publishedAt": "1994-11-11",
+          "effectiveFrom": "1994-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2510",
+          "proposer": null
+        },
+        {
+          "id": "ZZSOK-amend-ZZSOK-A",
+          "shortCode": "ZZSOK-A",
+          "label": "Sprememba ZZSOK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 13/95  str. 1097",
+          "publishedAt": "1995-04-03",
+          "effectiveFrom": "1995-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSOK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0650",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSOK-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o zagotavljanju sredstev za odplačilo kreditov za trajna obratna sredsva in kreditov za izvedbo nujnih investicijskih del Slovenskih železarn",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o zagotavljanju sredstev za odplačilo kreditov za trajna obratna sredsva in kreditov za izvedbo nujnih investicijskih del Slovenskih železarn",
+      "shortCode": "ZZSOK-A",
+      "kind": "zakon",
+      "keywords": [
+        "odplačevanje",
+        "kredit",
+        "investicijski stroški",
+        "železarska in jeklarska industrija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0650",
+      "gazette": "Uradni list RS 13/95  str. 1097",
+      "issuingBody": null,
+      "adoptedAt": "1995-04-03",
+      "validFrom": "1995-04-03",
+      "validTo": null,
+      "latestPublishedAt": "1995-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0650",
+      "versions": [
+        {
+          "id": "ZZSOK-A-original",
+          "shortCode": "ZZSOK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/95  str. 1097",
+          "publishedAt": "1995-04-03",
+          "effectiveFrom": "1995-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSOK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0650",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

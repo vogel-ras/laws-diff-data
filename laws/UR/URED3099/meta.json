@@ -1,0 +1,82 @@
+{
+  "root": "URED3099",
+  "path": "laws/UR/URED3099",
+  "members": [
+    {
+      "id": "URED3099",
+      "title": "Uredba o merilih za določitev višine nadomestila zaradi omejene rabe prostora na območju jedrskega objekta",
+      "shortTitle": "Uredba o merilih za določitev višine nadomestila zaradi omejene rabe prostora na območju jedrskega objekta",
+      "shortCode": "URED3099",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-5835",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-12-30",
+      "validFrom": "2003-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5835",
+      "versions": [
+        {
+          "id": "URED3099-original",
+          "shortCode": "URED3099",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-30",
+          "effectiveFrom": "2003-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5835",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4809",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora na območju jedrskega objekta",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora na območju jedrskega objekta",
+      "shortCode": "URED4809",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-4242",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-10-20",
+      "validFrom": "2008-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2008-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4242",
+      "versions": [
+        {
+          "id": "URED4809-original",
+          "shortCode": "URED4809",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-10-20",
+          "effectiveFrom": "2008-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3099"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4242",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

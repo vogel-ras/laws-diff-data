@@ -1,0 +1,281 @@
+{
+  "root": "ZLPLS",
+  "path": "laws/ZL/ZLPLS",
+  "members": [
+    {
+      "id": "ZLPLS",
+      "title": "Zakon o lastninskem preoblikovanju Loterije Slovenije",
+      "shortTitle": "Zakon o lastninskem preoblikovanju Loterije Slovenije",
+      "shortCode": "ZLPLS",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2704",
+      "gazette": "Uradni list RS 44/96  str. 3802",
+      "issuingBody": null,
+      "adoptedAt": "1996-08-09",
+      "validFrom": "1996-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2704",
+      "versions": [
+        {
+          "id": "ZLPLS-original",
+          "shortCode": "ZLPLS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/96  str. 3802",
+          "publishedAt": "1996-08-09",
+          "effectiveFrom": "1996-08-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2704",
+          "proposer": null
+        },
+        {
+          "id": "ZLPLS-amend-ZLPLS-A",
+          "shortCode": "ZLPLS-A",
+          "label": "Sprememba ZLPLS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/97  str. 4169",
+          "publishedAt": "1997-08-01",
+          "effectiveFrom": "1997-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2506",
+          "proposer": null
+        },
+        {
+          "id": "ZLPLS-amend-ZLPLS-B",
+          "shortCode": "ZLPLS-B",
+          "label": "Sprememba ZLPLS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 102/07  str. 13773",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5072",
+          "proposer": null
+        },
+        {
+          "id": "ZLPLS-amend-ZLPLS-C",
+          "shortCode": "ZLPLS-C",
+          "label": "Sprememba ZLPLS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 26/11  str. 3411",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1158",
+          "proposer": null
+        },
+        {
+          "id": "ZLPLS-amend-ZLPLS-E",
+          "shortCode": "ZLPLS-E",
+          "label": "Sprememba ZLPLS-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 58/12  str. 6067",
+          "publishedAt": "2012-07-31",
+          "effectiveFrom": "2012-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLPLS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortCode": "ZLPLS-A",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2506",
+      "gazette": "Uradni list RS 47/97  str. 4169",
+      "issuingBody": null,
+      "adoptedAt": "1997-08-01",
+      "validFrom": "1997-08-01",
+      "validTo": null,
+      "latestPublishedAt": "1997-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2506",
+      "versions": [
+        {
+          "id": "ZLPLS-A-original",
+          "shortCode": "ZLPLS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/97  str. 4169",
+          "publishedAt": "1997-08-01",
+          "effectiveFrom": "1997-08-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2506",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLPLS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortCode": "ZLPLS-B",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5072",
+      "gazette": "Uradni list RS 102/07  str. 13773",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5072",
+      "versions": [
+        {
+          "id": "ZLPLS-B-original",
+          "shortCode": "ZLPLS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13773",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5072",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLPLS-C",
+      "title": "Zakon o spremembi Zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortTitle": "Zakon o spremembi Zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortCode": "ZLPLS-C",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1158",
+      "gazette": "Uradni list RS 26/11  str. 3411",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1158",
+      "versions": [
+        {
+          "id": "ZLPLS-C-original",
+          "shortCode": "ZLPLS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3411",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1158",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLPLS-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o lastninskem preoblikovanju Loterije Slovenije",
+      "shortCode": "ZLPLS-E",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2469",
+      "gazette": "Uradni list RS 58/12  str. 6067",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-31",
+      "validFrom": "2012-07-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2469",
+      "versions": [
+        {
+          "id": "ZLPLS-E-original",
+          "shortCode": "ZLPLS-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/12  str. 6067",
+          "publishedAt": "2012-07-31",
+          "effectiveFrom": "2012-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLPLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2469",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

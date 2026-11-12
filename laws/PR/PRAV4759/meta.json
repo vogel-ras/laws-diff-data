@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4759",
+  "path": "laws/PR/PRAV4759",
+  "members": [
+    {
+      "id": "PRAV4759",
+      "title": "Pravilnik o kakovosti kefirja",
+      "shortTitle": "Pravilnik o kakovosti kefirja",
+      "shortCode": "PRAV4759",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3222",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-07-07",
+      "validFrom": "2003-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3222",
+      "versions": [
+        {
+          "id": "PRAV4759-original",
+          "shortCode": "PRAV4759",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-07",
+          "effectiveFrom": "2003-07-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3222",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4759-npb-PRAV4759",
+          "shortCode": "PRAV4759-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-07",
+          "effectiveFrom": "2003-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4759",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6228",
+      "title": "Pravilnik o spremembi Pravilnika o kakovosti kefirja",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o kakovosti kefirja",
+      "shortCode": "PRAV6228",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5331",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-11-25",
+      "validFrom": "2004-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5331",
+      "versions": [
+        {
+          "id": "PRAV6228-original",
+          "shortCode": "PRAV6228",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-25",
+          "effectiveFrom": "2004-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4759"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5331",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

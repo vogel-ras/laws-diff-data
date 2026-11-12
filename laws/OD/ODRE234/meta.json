@@ -1,0 +1,82 @@
+{
+  "root": "ODRE234",
+  "path": "laws/OD/ODRE234",
+  "members": [
+    {
+      "id": "ODRE234",
+      "title": "Odredba o homologiranju vozil glede na preprečevanje nevarnosti požara (št. 34.00)",
+      "shortTitle": "Odredba o homologiranju vozil glede na preprečevanje nevarnosti požara (št. 34.00)",
+      "shortCode": "ODRE234",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1996-01-0746",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-03-15",
+      "validFrom": "1996-03-15",
+      "validTo": null,
+      "latestPublishedAt": "1996-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0746",
+      "versions": [
+        {
+          "id": "ODRE234-original",
+          "shortCode": "ODRE234",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-03-15",
+          "effectiveFrom": "1996-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0746",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE724",
+      "title": "Odredba o spremembi odredbe o homologiranju vozil glede na preprečevanje nevarnosti požara (št. 34.01)",
+      "shortTitle": "Odredba o spremembi odredbe o homologiranju vozil glede na preprečevanje nevarnosti požara (št. 34.01)",
+      "shortCode": "ODRE724",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1999-01-4490",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-11-19",
+      "validFrom": "1999-11-19",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4490",
+      "versions": [
+        {
+          "id": "ODRE724-original",
+          "shortCode": "ODRE724",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-11-19",
+          "effectiveFrom": "1999-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE234"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4490",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

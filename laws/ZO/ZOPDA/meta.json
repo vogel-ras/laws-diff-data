@@ -1,0 +1,161 @@
+{
+  "root": "ZOPDA",
+  "path": "laws/ZO/ZOPDA",
+  "members": [
+    {
+      "id": "ZAKO9341",
+      "title": "Zakon o spremembi Zakona o odpravljanju posledic dela z azbestom (ZOPDA-C)",
+      "shortTitle": "Zakon o spremembi Zakona o odpravljanju posledic dela z azbestom (ZOPDA-C)",
+      "shortCode": "ZOPDA-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-2225",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-02",
+      "validFrom": "2026-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2225",
+      "versions": [
+        {
+          "id": "ZAKO9341-original",
+          "shortCode": "ZOPDA-C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-02",
+          "effectiveFrom": "2026-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPDA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2225",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPDA",
+      "title": "Zakon o odpravljanju posledic dela z azbestom",
+      "shortTitle": "Zakon o odpravljanju posledic dela z azbestom",
+      "shortCode": "ZOPDA",
+      "kind": "zakon",
+      "keywords": [
+        "azbest",
+        "nevarna snov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1556",
+      "gazette": "Uradni list RS 38/06  str. 3953",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-11",
+      "validFrom": "2006-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1556",
+      "versions": [
+        {
+          "id": "ZOPDA-original",
+          "shortCode": "ZOPDA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/06  str. 3953",
+          "publishedAt": "2006-04-11",
+          "effectiveFrom": "2006-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1556",
+          "proposer": null
+        },
+        {
+          "id": "ZOPDA-amend-ZOPDA-A",
+          "shortCode": "ZOPDA-A",
+          "label": "Sprememba ZOPDA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 139/06  str. 16165",
+          "publishedAt": "2006-12-29",
+          "effectiveFrom": "2006-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPDA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6041",
+          "proposer": null
+        },
+        {
+          "id": "ZOPDA-amend-ZAKO9341",
+          "shortCode": "ZOPDA-C",
+          "label": "Sprememba ZAKO9341",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2026-10-02",
+          "effectiveFrom": "2026-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPDA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2225",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPDA-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odpravljanju posledic dela z azbestom",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odpravljanju posledic dela z azbestom",
+      "shortCode": "ZOPDA-A",
+      "kind": "zakon",
+      "keywords": [
+        "azbest",
+        "nevarna snov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-6041",
+      "gazette": "Uradni list RS 139/06  str. 16165",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-29",
+      "validFrom": "2006-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6041",
+      "versions": [
+        {
+          "id": "ZOPDA-A-original",
+          "shortCode": "ZOPDA-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/06  str. 16165",
+          "publishedAt": "2006-12-29",
+          "effectiveFrom": "2006-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPDA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6041",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

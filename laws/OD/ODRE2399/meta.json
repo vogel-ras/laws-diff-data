@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2399",
+  "path": "laws/OD/ODRE2399",
+  "members": [
+    {
+      "id": "ODRE2399",
+      "title": "Odredba o določitvi programa usposabljanja in kataloga znanj in spretnosti za neposredno preverjanje kandidatov za člane komisij za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij za pridobitev licence",
+      "shortTitle": "Odredba o določitvi programa usposabljanja in kataloga znanj in spretnosti za neposredno preverjanje kandidatov za člane komisij za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij za pridobitev licence",
+      "shortCode": "ODRE2399",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2017-01-1271",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-07-31",
+      "validFrom": "2025-07-31",
+      "validTo": null,
+      "latestPublishedAt": "2025-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1271",
+      "versions": [
+        {
+          "id": "ODRE2399-original",
+          "shortCode": "ODRE2399",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-07-31",
+          "effectiveFrom": "2025-07-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1271",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2399-npb-ODRE2399",
+          "shortCode": "ODRE2399-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-05-12",
+          "effectiveFrom": "2017-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2399",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2603",
+      "title": "Odredba o spremembah Odredbe o določitvi programa usposabljanja in kataloga znanj in spretnosti za neposredno preverjanje kandidatov za člane komisij za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij za pridobitev licence",
+      "shortTitle": "Odredba o spremembah Odredbe o določitvi programa usposabljanja in kataloga znanj in spretnosti za neposredno preverjanje kandidatov za člane komisij za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij za pridobitev licence",
+      "shortCode": "ODRE2603",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2021-01-0350",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2021-02-05",
+      "validFrom": "2021-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0350",
+      "versions": [
+        {
+          "id": "ODRE2603-original",
+          "shortCode": "ODRE2603",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-02-05",
+          "effectiveFrom": "2021-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2399"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0350",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

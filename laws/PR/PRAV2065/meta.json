@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2065",
+  "path": "laws/PR/PRAV2065",
+  "members": [
+    {
+      "id": "PRAV2065",
+      "title": "Pravilnik o načinu in oblikah izvajanja pooblastil Ministrstva za notranje zadeve v razmerju do policije na področju usmerjanja in nadzora policije in o pooblastilih delavcev, ki izvajajo nadzor nad delom policije",
+      "shortTitle": "Pravilnik o načinu in oblikah izvajanja pooblastil Ministrstva za notranje zadeve v razmerju do policije na področju usmerjanja in nadzora policije in o pooblastilih delavcev, ki izvajajo nadzor nad delom policije",
+      "shortCode": "PRAV2065",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3699",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-09-24",
+      "validFrom": "1999-09-24",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3699",
+      "versions": [
+        {
+          "id": "PRAV2065-original",
+          "shortCode": "PRAV2065",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-24",
+          "effectiveFrom": "1999-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3699",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3939",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu in oblikah izvajanja pooblastil Ministrstva za notranje zadeve v razmerju do policije na področju usmerjanja in nadzora policije in o pooblastilih delavcev, ki izvajajo nadzor nad delom policije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu in oblikah izvajanja pooblastil Ministrstva za notranje zadeve v razmerju do policije na področju usmerjanja in nadzora policije in o pooblastilih delavcev, ki izvajajo nadzor nad delom policije",
+      "shortCode": "PRAV3939",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3651",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2001-08-17",
+      "validFrom": "2001-08-17",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3651",
+      "versions": [
+        {
+          "id": "PRAV3939-original",
+          "shortCode": "PRAV3939",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-17",
+          "effectiveFrom": "2001-08-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2065"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3651",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

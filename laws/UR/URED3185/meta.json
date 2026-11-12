@@ -1,0 +1,97 @@
+{
+  "root": "URED3185",
+  "path": "laws/UR/URED3185",
+  "members": [
+    {
+      "id": "URED3185",
+      "title": "Uredba o kriterijih za razporejanje državljanov",
+      "shortTitle": "Uredba o kriterijih za razporejanje državljanov",
+      "shortCode": "URED3185",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3539",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-16",
+      "validFrom": "2026-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3539",
+      "versions": [
+        {
+          "id": "URED3185-original",
+          "shortCode": "URED3185",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-16",
+          "effectiveFrom": "2026-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3539",
+          "proposer": null
+        },
+        {
+          "id": "URED3185-npb-URED3185",
+          "shortCode": "URED3185-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-28",
+          "effectiveFrom": "2026-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3185",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9441",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o kriterijih za razporejanje državljanov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o kriterijih za razporejanje državljanov",
+      "shortCode": "URED9441",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0364",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0364",
+      "versions": [
+        {
+          "id": "URED9441-original",
+          "shortCode": "URED9441",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3185"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0364",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

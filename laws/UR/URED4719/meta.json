@@ -1,0 +1,82 @@
+{
+  "root": "URED4719",
+  "path": "laws/UR/URED4719",
+  "members": [
+    {
+      "id": "URED4719",
+      "title": "Uredba o vrstah objektov glede na zahtevnost",
+      "shortTitle": "Uredba o vrstah objektov glede na zahtevnost",
+      "shortCode": "URED4719",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1567",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-04-15",
+      "validFrom": "2008-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1567",
+      "versions": [
+        {
+          "id": "URED4719-original",
+          "shortCode": "URED4719",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-15",
+          "effectiveFrom": "2008-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1567",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4983",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vrstah objektov glede na zahtevnost",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vrstah objektov glede na zahtevnost",
+      "shortCode": "URED4983",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-4202",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-10-17",
+      "validFrom": "2008-10-17",
+      "validTo": null,
+      "latestPublishedAt": "2008-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4202",
+      "versions": [
+        {
+          "id": "URED4983-original",
+          "shortCode": "URED4983",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-10-17",
+          "effectiveFrom": "2008-10-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4719"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4202",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

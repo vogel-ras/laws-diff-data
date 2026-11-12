@@ -1,0 +1,103 @@
+{
+  "root": "ZKozP",
+  "path": "laws/ZK/ZKozP",
+  "members": [
+    {
+      "id": "ZKozP",
+      "title": "Zakon o kozmetičnih proizvodih",
+      "shortTitle": "Zakon o kozmetičnih proizvodih",
+      "shortCode": "ZKozP",
+      "kind": "zakon",
+      "keywords": [
+        "kozmetični izdelek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3057",
+      "gazette": "Uradni list RS 66/2000  str. 8208",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3057",
+      "versions": [
+        {
+          "id": "ZKozP-original",
+          "shortCode": "ZKozP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/2000  str. 8208",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3057",
+          "proposer": null
+        },
+        {
+          "id": "ZKozP-amend-ZKozP-A",
+          "shortCode": "ZKozP-A",
+          "label": "Sprememba ZKozP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/2003  str. 10067",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKozP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3143",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKozP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o kozmetičnih proizvodih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o kozmetičnih proizvodih",
+      "shortCode": "ZKozP-A",
+      "kind": "zakon",
+      "keywords": [
+        "kozmetični izdelek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3143",
+      "gazette": "Uradni list RS 65/2003  str. 10067",
+      "issuingBody": null,
+      "adoptedAt": "2003-07-04",
+      "validFrom": "2003-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3143",
+      "versions": [
+        {
+          "id": "ZKozP-A-original",
+          "shortCode": "ZKozP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/2003  str. 10067",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKozP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3143",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

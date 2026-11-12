@@ -1,0 +1,107 @@
+{
+  "root": "ZIPRS0405",
+  "path": "laws/ZI/ZIPRS0405",
+  "members": [
+    {
+      "id": "ZIPRS0405",
+      "title": "Zakon o izvrševanju proračuna Republike Slovenije za leti 2004 in 2005",
+      "shortTitle": "Zakon o izvrševanju proračuna Republike Slovenije za leti 2004 in 2005",
+      "shortCode": "ZIPRS0405",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5512",
+      "gazette": "Uradni list RS 130/03  str. 18516",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-23",
+      "validFrom": "2003-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5512",
+      "versions": [
+        {
+          "id": "ZIPRS0405-original",
+          "shortCode": "ZIPRS0405",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/03  str. 18516",
+          "publishedAt": "2003-12-23",
+          "effectiveFrom": "2003-12-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5512",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0405-amend-ZIPRS0405-A",
+          "shortCode": "ZIPRS0405-A",
+          "label": "Sprememba ZIPRS0405-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 61/05  str. 6308",
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0405"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2660",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0405-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leti 2004 in 2005",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leti 2004 in 2005",
+      "shortCode": "ZIPRS0405-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "javne finance",
+        "proračun",
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2660",
+      "gazette": "Uradni list RS 61/05  str. 6308",
+      "issuingBody": null,
+      "adoptedAt": "2005-06-30",
+      "validFrom": "2005-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2660",
+      "versions": [
+        {
+          "id": "ZIPRS0405-A-original",
+          "shortCode": "ZIPRS0405-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/05  str. 6308",
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0405"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2660",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

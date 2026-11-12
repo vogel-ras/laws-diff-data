@@ -1,0 +1,105 @@
+{
+  "root": "ZPDUT",
+  "path": "laws/ZP/ZPDUT",
+  "members": [
+    {
+      "id": "ZPDUT",
+      "title": "Zakon o plačevanju določenih upravnih taks",
+      "shortTitle": "Zakon o plačevanju določenih upravnih taks",
+      "shortCode": "ZPDUT",
+      "kind": "zakon",
+      "keywords": [
+        "kolkovina",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1448",
+      "gazette": "Uradni list RS 34/91  str. 1459",
+      "issuingBody": null,
+      "adoptedAt": "1991-12-31",
+      "validFrom": "1991-12-31",
+      "validTo": null,
+      "latestPublishedAt": "1993-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1448",
+      "versions": [
+        {
+          "id": "ZPDUT-original",
+          "shortCode": "ZPDUT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 34/91  str. 1459",
+          "publishedAt": "1991-12-31",
+          "effectiveFrom": "1991-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1448",
+          "proposer": null
+        },
+        {
+          "id": "ZPDUT-amend-ZPDUT-A",
+          "shortCode": "ZPDUT-A",
+          "label": "Sprememba ZPDUT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 13/93  str. 558",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0584",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDUT-A",
+      "title": "Zakon o spremembi zakona o plačevanju določenih upravnih taks",
+      "shortTitle": "Zakon o spremembi zakona o plačevanju določenih upravnih taks",
+      "shortCode": "ZPDUT-A",
+      "kind": "zakon",
+      "keywords": [
+        "kolkovina",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0584",
+      "gazette": "Uradni list RS 13/93  str. 558",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1993-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0584",
+      "versions": [
+        {
+          "id": "ZPDUT-A-original",
+          "shortCode": "ZPDUT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 558",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0584",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

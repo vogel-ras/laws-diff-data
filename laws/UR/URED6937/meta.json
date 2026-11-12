@@ -1,0 +1,58 @@
+{
+  "root": "URED6937",
+  "path": "laws/UR/URED6937",
+  "members": [
+    {
+      "id": "URED6937",
+      "title": "Uredba o upravnem poslovanju",
+      "shortTitle": "Uredba o upravnem poslovanju",
+      "shortCode": "URED6937",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0353",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2018-02-16",
+      "validFrom": "2018-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0353",
+      "versions": [
+        {
+          "id": "URED6937-original",
+          "shortCode": "URED6937",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-16",
+          "effectiveFrom": "2018-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0353",
+          "proposer": null
+        },
+        {
+          "id": "URED6937-npb-URED6937",
+          "shortCode": "URED6937-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 8)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-02-16",
+          "effectiveFrom": "2018-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6937",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE12313",
+  "path": "laws/SK/SKLE12313",
+  "members": [
+    {
+      "id": "SKLE12313",
+      "title": "Sklep o podaljšanju ukrepa odloga izvršbe",
+      "shortTitle": "Sklep o podaljšanju ukrepa odloga izvršbe",
+      "shortCode": "SKLE12313",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-0239",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-03-16",
+      "validFrom": "2021-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0239",
+      "versions": [
+        {
+          "id": "SKLE12313-original",
+          "shortCode": "SKLE12313",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-16",
+          "effectiveFrom": "2021-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0239",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12367",
+      "title": "Sklep o spremembi Sklepa o podaljšanju ukrepa odloga izvršbe",
+      "shortTitle": "Sklep o spremembi Sklepa o podaljšanju ukrepa odloga izvršbe",
+      "shortCode": "SKLE12367",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-0795",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-03-16",
+      "validFrom": "2021-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0795",
+      "versions": [
+        {
+          "id": "SKLE12367-original",
+          "shortCode": "SKLE12367",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-16",
+          "effectiveFrom": "2021-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE12313"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0795",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

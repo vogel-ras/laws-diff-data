@@ -1,0 +1,85 @@
+{
+  "root": "ZCT",
+  "path": "laws/ZC/ZCT",
+  "members": [
+    {
+      "id": "ZCT",
+      "title": "Zakon o carinski tarifi",
+      "shortTitle": "Zakon o carinski tarifi",
+      "shortCode": "ZCT",
+      "kind": "zakon",
+      "keywords": [
+        "carina",
+        "carinska tarifa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-3428",
+      "gazette": "Uradni list RS 74/95  str. 5701",
+      "issuingBody": null,
+      "adoptedAt": "1995-12-23",
+      "validFrom": "1995-12-23",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3428",
+      "versions": [
+        {
+          "id": "ZCT-original",
+          "shortCode": "ZCT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 74/95  str. 5701",
+          "publishedAt": "1995-12-23",
+          "effectiveFrom": "1995-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3428",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCT-1",
+      "title": "Zakon o carinski tarifi",
+      "shortTitle": "Zakon o carinski tarifi",
+      "shortCode": "ZCT-1",
+      "kind": "zakon",
+      "keywords": [
+        "carinska tarifa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3055",
+      "gazette": "Uradni list RS 66/2000  str. 8202",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3055",
+      "versions": [
+        {
+          "id": "ZCT-1-original",
+          "shortCode": "ZCT-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/2000  str. 8202",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3055",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

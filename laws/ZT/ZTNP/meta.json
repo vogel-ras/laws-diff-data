@@ -1,0 +1,158 @@
+{
+  "root": "ZTNP",
+  "path": "laws/ZT/ZTNP",
+  "members": [
+    {
+      "id": "ZAKO7642",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Triglavskem narodnem parku (ZTNP-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Triglavskem narodnem parku (ZTNP-1A)",
+      "shortCode": "ZTNP-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2881",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-10-26",
+      "validFrom": "2017-10-26",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2881",
+      "versions": [
+        {
+          "id": "ZAKO7642-original",
+          "shortCode": "ZTNP-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-10-26",
+          "effectiveFrom": "2017-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTNP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2881",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTNP-1",
+      "title": "Zakon o Triglavskem narodnem parku",
+      "shortTitle": "Zakon o Triglavskem narodnem parku",
+      "shortCode": "ZTNP-1",
+      "kind": "zakon",
+      "keywords": [
+        "narodni park",
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2821",
+      "gazette": "Uradni list RS 52/10  str. 7697",
+      "issuingBody": null,
+      "adoptedAt": "2010-06-30",
+      "validFrom": "2010-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2821",
+      "versions": [
+        {
+          "id": "ZTNP-1-original",
+          "shortCode": "ZTNP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/10  str. 7697",
+          "publishedAt": "2010-06-30",
+          "effectiveFrom": "2010-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2821",
+          "proposer": null
+        },
+        {
+          "id": "ZTNP-1-amend-ZAKO7642",
+          "shortCode": "ZTNP-1A",
+          "label": "Sprememba ZTNP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-10-26",
+          "effectiveFrom": "2017-10-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZTNP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2881",
+          "proposer": null
+        },
+        {
+          "id": "ZTNP-1-amend-ZTNP-1B",
+          "shortCode": "ZTNP-1B",
+          "label": "Sprememba ZTNP-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 82/20  str. 2869",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTNP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1234",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTNP-1B",
+      "title": "Zakon o spremembi Zakona o Triglavskem narodnem parku",
+      "shortTitle": "Zakon o spremembi Zakona o Triglavskem narodnem parku",
+      "shortCode": "ZTNP-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1234",
+      "gazette": "Uradni list RS 82/20  str. 2869",
+      "issuingBody": null,
+      "adoptedAt": "2020-06-05",
+      "validFrom": "2020-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1234",
+      "versions": [
+        {
+          "id": "ZTNP-1B-original",
+          "shortCode": "ZTNP-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/20  str. 2869",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTNP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1234",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

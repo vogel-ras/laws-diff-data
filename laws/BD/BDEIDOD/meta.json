@@ -1,0 +1,111 @@
+{
+  "root": "BDEIDOD",
+  "path": "laws/BD/BDEIDOD",
+  "members": [
+    {
+      "id": "BDEIDOD",
+      "title": "Zakon o ratifikaciji Sporazuma med Republiko Slovenijo in Zvezno republiko Nemčijo o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma med Republiko Slovenijo in Zvezno republiko Nemčijo o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja",
+      "shortCode": "BDEIDOD",
+      "kind": "zakon",
+      "keywords": [
+        "davek od dohodkov iz dejavnosti",
+        "davek od premoženja",
+        "dvojna obdavčitev",
+        "Nemčija",
+        "ratifikacija sporazuma"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-02-0131",
+      "gazette": "Uradni list RS MP 22/06  str. 1712",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-12",
+      "validFrom": "2006-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0131",
+      "versions": [
+        {
+          "id": "BDEIDOD-original",
+          "shortCode": "BDEIDOD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 22/06  str. 1712",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0131",
+          "proposer": null
+        },
+        {
+          "id": "BDEIDOD-amend-BDEIDOD-A",
+          "shortCode": "BDEIDOD-A",
+          "label": "Sprememba BDEIDOD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 14/11  str. 771",
+          "publishedAt": "2011-11-18",
+          "effectiveFrom": "2011-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BDEIDOD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-02-0094",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BDEIDOD-A",
+      "title": "Zakon o ratifikaciji Protokola o spremembah Sporazuma z dne 3. maja 2006 med Republiko Slovenijo in Zvezno republiko Nemčijo o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja",
+      "shortTitle": "Zakon o ratifikaciji Protokola o spremembah Sporazuma z dne 3. maja 2006 med Republiko Slovenijo in Zvezno republiko Nemčijo o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja",
+      "shortCode": "BDEIDOD-A",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Nemčija",
+        "dvojna obdavčitev",
+        "davek od dohodkov iz dejavnosti",
+        "davek od premoženja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-02-0094",
+      "gazette": "Uradni list RS MP 14/11  str. 771",
+      "issuingBody": null,
+      "adoptedAt": "2011-11-18",
+      "validFrom": "2011-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-02-0094",
+      "versions": [
+        {
+          "id": "BDEIDOD-A-original",
+          "shortCode": "BDEIDOD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 14/11  str. 771",
+          "publishedAt": "2011-11-18",
+          "effectiveFrom": "2011-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BDEIDOD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-02-0094",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

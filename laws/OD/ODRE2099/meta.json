@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2099",
+  "path": "laws/OD/ODRE2099",
+  "members": [
+    {
+      "id": "ODRE2099",
+      "title": "Pravilnik o izobrazbi predavateljev višje strokovne šole in drugih strokovnih delavcev v višjem strokovnem izobraževanju",
+      "shortTitle": "Pravilnik o izobrazbi predavateljev višje strokovne šole in drugih strokovnih delavcev v višjem strokovnem izobraževanju",
+      "shortCode": "ODRE2099",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2011-01-1760",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2011-05-13",
+      "validFrom": "2011-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1760",
+      "versions": [
+        {
+          "id": "ODRE2099-original",
+          "shortCode": "ODRE2099",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-13",
+          "effectiveFrom": "2011-05-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1760",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2099-npb-ODRE2099",
+          "shortCode": "ODRE2099-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-05-13",
+          "effectiveFrom": "2011-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2099",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14377",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izobrazbi predavateljev višje strokovne šole in drugih strokovnih delavcev v višjem strokovnem izobraževanju",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izobrazbi predavateljev višje strokovne šole in drugih strokovnih delavcev v višjem strokovnem izobraževanju",
+      "shortCode": "PRAV14377",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2720",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2021-08-18",
+      "validFrom": "2021-08-18",
+      "validTo": null,
+      "latestPublishedAt": "2021-08-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2720",
+      "versions": [
+        {
+          "id": "PRAV14377-original",
+          "shortCode": "PRAV14377",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-08-18",
+          "effectiveFrom": "2021-08-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2099"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2720",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

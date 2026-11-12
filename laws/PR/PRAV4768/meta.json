@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4768",
+  "path": "laws/PR/PRAV4768",
+  "members": [
+    {
+      "id": "PRAV10871",
+      "title": "Pravilnik o spremembi Pravilnika o varnosti dvigal",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o varnosti dvigal",
+      "shortCode": "PRAV10871",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-3450",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-10-14",
+      "validFrom": "2011-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2011-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3450",
+      "versions": [
+        {
+          "id": "PRAV10871-original",
+          "shortCode": "PRAV10871",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-14",
+          "effectiveFrom": "2011-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4768"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3450",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4768",
+      "title": "Pravilnik o varnosti dvigal",
+      "shortTitle": "Pravilnik o varnosti dvigal",
+      "shortCode": "PRAV4768",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4329",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2003-10-10",
+      "validFrom": "2003-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4329",
+      "versions": [
+        {
+          "id": "PRAV4768-original",
+          "shortCode": "PRAV4768",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-10-10",
+          "effectiveFrom": "2003-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4329",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

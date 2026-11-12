@@ -1,0 +1,121 @@
+{
+  "root": "URED3144",
+  "path": "laws/UR/URED3144",
+  "members": [
+    {
+      "id": "URED3144",
+      "title": "Uredba o ureditvi trga s poljščinami",
+      "shortTitle": "Uredba o ureditvi trga s poljščinami",
+      "shortCode": "URED3144",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0932",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-10",
+      "validFrom": "2004-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0932",
+      "versions": [
+        {
+          "id": "URED3144-original",
+          "shortCode": "URED3144",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0932",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3493",
+      "title": "Uredba o spremembah Uredbe o ureditvi trga s poljščinami",
+      "shortTitle": "Uredba o spremembah Uredbe o ureditvi trga s poljščinami",
+      "shortCode": "URED3493",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4549",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-10-08",
+      "validFrom": "2004-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4549",
+      "versions": [
+        {
+          "id": "URED3493-original",
+          "shortCode": "URED3493",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-08",
+          "effectiveFrom": "2004-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3144"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4549",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3565",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o ureditvi trga s poljščinami",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o ureditvi trga s poljščinami",
+      "shortCode": "URED3565",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-5390",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-12-03",
+      "validFrom": "2004-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5390",
+      "versions": [
+        {
+          "id": "URED3565-original",
+          "shortCode": "URED3565",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-03",
+          "effectiveFrom": "2004-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3144"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5390",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

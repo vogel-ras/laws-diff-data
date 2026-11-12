@@ -1,0 +1,82 @@
+{
+  "root": "PRAV766",
+  "path": "laws/PR/PRAV766",
+  "members": [
+    {
+      "id": "PRAV766",
+      "title": "Pravilnik o cepljenju, zaščiti z zdravili in varstvu pred vnosom in razširjenjem nalezljivih bolezni",
+      "shortTitle": "Pravilnik o cepljenju, zaščiti z zdravili in varstvu pred vnosom in razširjenjem nalezljivih bolezni",
+      "shortCode": "PRAV766",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-0827",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1999-03-19",
+      "validFrom": "1999-03-19",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0827",
+      "versions": [
+        {
+          "id": "PRAV766-original",
+          "shortCode": "PRAV766",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-19",
+          "effectiveFrom": "1999-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0827",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7765",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o cepljenju, zaščiti z zdravili in varstvu pred vnosom in razširjenjem nalezljivih bolezni",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o cepljenju, zaščiti z zdravili in varstvu pred vnosom in razširjenjem nalezljivih bolezni",
+      "shortCode": "PRAV7765",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3974",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2006-09-01",
+      "validFrom": "2006-09-01",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3974",
+      "versions": [
+        {
+          "id": "PRAV7765-original",
+          "shortCode": "PRAV7765",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-01",
+          "effectiveFrom": "2006-09-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV766"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3974",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

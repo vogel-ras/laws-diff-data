@@ -1,0 +1,82 @@
+{
+  "root": "SKLE1115",
+  "path": "laws/SK/SKLE1115",
+  "members": [
+    {
+      "id": "SKLE1115",
+      "title": "Sklep o razglasitvi gozdov s posebnim namenom",
+      "shortTitle": "Sklep o razglasitvi gozdov s posebnim namenom",
+      "shortCode": "SKLE1115",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1994-01-2899",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-12-23",
+      "validFrom": "1994-12-23",
+      "validTo": null,
+      "latestPublishedAt": "1994-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2899",
+      "versions": [
+        {
+          "id": "SKLE1115-original",
+          "shortCode": "SKLE1115",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-12-23",
+          "effectiveFrom": "1994-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2899",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE1116",
+      "title": "Sklep o spremembi sklepa o razglasitvi gozdov s posebnim namenom",
+      "shortTitle": "Sklep o spremembi sklepa o razglasitvi gozdov s posebnim namenom",
+      "shortCode": "SKLE1116",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1995-01-1708",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-06-23",
+      "validFrom": "1995-06-23",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1708",
+      "versions": [
+        {
+          "id": "SKLE1116-original",
+          "shortCode": "SKLE1116",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-06-23",
+          "effectiveFrom": "1995-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1115"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1708",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

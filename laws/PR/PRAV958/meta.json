@@ -1,0 +1,82 @@
+{
+  "root": "PRAV958",
+  "path": "laws/PR/PRAV958",
+  "members": [
+    {
+      "id": "PRAV958",
+      "title": "Pravilnik o infrastrukturnih raziskovalnih centrih",
+      "shortTitle": "Pravilnik o infrastrukturnih raziskovalnih centrih",
+      "shortCode": "PRAV958",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1994-01-2421",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-10-28",
+      "validFrom": "1994-10-28",
+      "validTo": null,
+      "latestPublishedAt": "1994-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2421",
+      "versions": [
+        {
+          "id": "PRAV958-original",
+          "shortCode": "PRAV958",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-10-28",
+          "effectiveFrom": "1994-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2421",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV968",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o infrastrukturnih raziskovalnih centrih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o infrastrukturnih raziskovalnih centrih",
+      "shortCode": "PRAV968",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-2496",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-09-15",
+      "validFrom": "1995-09-15",
+      "validTo": null,
+      "latestPublishedAt": "1995-09-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2496",
+      "versions": [
+        {
+          "id": "PRAV968-original",
+          "shortCode": "PRAV968",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-09-15",
+          "effectiveFrom": "1995-09-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV958"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2496",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

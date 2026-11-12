@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4426",
+  "path": "laws/PR/PRAV4426",
+  "members": [
+    {
+      "id": "PRAV4426",
+      "title": "Pravilnik o tehničnih ukrepih in zahtevah za varno obratovanje kopališč in za varstvo pred utopitvami na kopališčih",
+      "shortTitle": "Pravilnik o tehničnih ukrepih in zahtevah za varno obratovanje kopališč in za varstvo pred utopitvami na kopališčih",
+      "shortCode": "PRAV4426",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4083",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2003-09-11",
+      "validFrom": "2003-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4083",
+      "versions": [
+        {
+          "id": "PRAV4426-original",
+          "shortCode": "PRAV4426",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4083",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4426-npb-PRAV4426",
+          "shortCode": "PRAV4426-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4426",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6962",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih ukrepih in zahtevah za varno obratovanje kopališč in za varstvo pred utopitvami na kopališčih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih ukrepih in zahtevah za varno obratovanje kopališč in za varstvo pred utopitvami na kopališčih",
+      "shortCode": "PRAV6962",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2359",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-05-30",
+      "validFrom": "2006-05-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2359",
+      "versions": [
+        {
+          "id": "PRAV6962-original",
+          "shortCode": "PRAV6962",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-30",
+          "effectiveFrom": "2006-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4426"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2359",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

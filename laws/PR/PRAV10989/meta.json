@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10989",
+  "path": "laws/PR/PRAV10989",
+  "members": [
+    {
+      "id": "PRAV10989",
+      "title": "Pravilnik o registraciji, označevanju, plovnosti ter listinah in knjigah vojaških zrakoplovov",
+      "shortTitle": "Pravilnik o registraciji, označevanju, plovnosti ter listinah in knjigah vojaških zrakoplovov",
+      "shortCode": "PRAV10989",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-1844",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2016-06-17",
+      "validFrom": "2016-06-17",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1844",
+      "versions": [
+        {
+          "id": "PRAV10989-original",
+          "shortCode": "PRAV10989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-06-17",
+          "effectiveFrom": "2016-06-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1844",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10989-npb-PRAV10989",
+          "shortCode": "PRAV10989-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-06-17",
+          "effectiveFrom": "2016-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10989",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14932",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o registraciji, označevanju, plovnosti ter listinah in knjigah vojaških zrakoplovov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o registraciji, označevanju, plovnosti ter listinah in knjigah vojaških zrakoplovov",
+      "shortCode": "PRAV14932",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1575",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1575",
+      "versions": [
+        {
+          "id": "PRAV14932-original",
+          "shortCode": "PRAV14932",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10989"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1575",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

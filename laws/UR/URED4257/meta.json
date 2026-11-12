@@ -1,0 +1,82 @@
+{
+  "root": "URED4257",
+  "path": "laws/UR/URED4257",
+  "members": [
+    {
+      "id": "URED4257",
+      "title": "Uredba o ravnanju z odpadno električno in elektronsko opremo",
+      "shortTitle": "Uredba o ravnanju z odpadno električno in elektronsko opremo",
+      "shortCode": "URED4257",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4588",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-10-17",
+      "validFrom": "2006-10-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4588",
+      "versions": [
+        {
+          "id": "URED4257-original",
+          "shortCode": "URED4257",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-17",
+          "effectiveFrom": "2006-10-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4588",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5568",
+      "title": "Uredba o spremembah Uredbe o ravnanju z odpadno električno in elektronsko opremo",
+      "shortTitle": "Uredba o spremembah Uredbe o ravnanju z odpadno električno in elektronsko opremo",
+      "shortCode": "URED5568",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5150",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-10",
+      "validFrom": "2010-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5150",
+      "versions": [
+        {
+          "id": "URED5568-original",
+          "shortCode": "URED5568",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-10",
+          "effectiveFrom": "2010-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4257"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5150",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

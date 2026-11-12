@@ -1,0 +1,82 @@
+{
+  "root": "URED1579",
+  "path": "laws/UR/URED1579",
+  "members": [
+    {
+      "id": "URED1579",
+      "title": "Uredba o listi A obrtnih dejavnosti in listi B obrti podobnih dejavnosti",
+      "shortTitle": "Uredba o listi A obrtnih dejavnosti in listi B obrti podobnih dejavnosti",
+      "shortCode": "URED1579",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-4462",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-11-24",
+      "validFrom": "2000-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2000-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4462",
+      "versions": [
+        {
+          "id": "URED1579-original",
+          "shortCode": "URED1579",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-11-24",
+          "effectiveFrom": "2000-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4462",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1600",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o listi A obrtnih dejavnosti in listi B obrti podobnih dejavnosti",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o listi A obrtnih dejavnosti in listi B obrti podobnih dejavnosti",
+      "shortCode": "URED1600",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-0962",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-03-07",
+      "validFrom": "2001-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0962",
+      "versions": [
+        {
+          "id": "URED1600-original",
+          "shortCode": "URED1600",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-03-07",
+          "effectiveFrom": "2001-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1579"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0962",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

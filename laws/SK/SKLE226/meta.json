@@ -1,0 +1,82 @@
+{
+  "root": "SKLE226",
+  "path": "laws/SK/SKLE226",
+  "members": [
+    {
+      "id": "SKLE226",
+      "title": "Sklep o postopkih za odpiranje deviznih računov rezidentov pri pooblaščenih bankah",
+      "shortTitle": "Sklep o postopkih za odpiranje deviznih računov rezidentov pri pooblaščenih bankah",
+      "shortCode": "SKLE226",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-2393",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2393",
+      "versions": [
+        {
+          "id": "SKLE226-original",
+          "shortCode": "SKLE226",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2393",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE642",
+      "title": "Sklep o spremembi sklepa o postopkih za odpiranje deviznih računov rezidentov pri pooblaščenih bankah",
+      "shortTitle": "Sklep o spremembi sklepa o postopkih za odpiranje deviznih računov rezidentov pri pooblaščenih bankah",
+      "shortCode": "SKLE642",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-0705",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-02-23",
+      "validFrom": "2000-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0705",
+      "versions": [
+        {
+          "id": "SKLE642-original",
+          "shortCode": "SKLE642",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-23",
+          "effectiveFrom": "2000-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE226"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0705",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "root": "BHRI",
+  "path": "laws/BH/BHRI",
+  "members": [
+    {
+      "id": "BHRI",
+      "title": "Zakon o ratifikaciji Pogodbe med Republiko Slovenijo in Republiko Hrvaško o izročitvi",
+      "shortTitle": "Zakon o ratifikaciji Pogodbe med Republiko Slovenijo in Republiko Hrvaško o izročitvi",
+      "shortCode": "BHRI",
+      "kind": "zakon",
+      "keywords": [
+        "dvostranski sporazum",
+        "Slovenija",
+        "Hrvaška",
+        "izročitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-02-0011",
+      "gazette": "Uradni list RS MP 2/95  str. 40",
+      "issuingBody": null,
+      "adoptedAt": "1995-02-18",
+      "validFrom": "1995-02-18",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0011",
+      "versions": [
+        {
+          "id": "BHRI-original",
+          "shortCode": "BHRI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 2/95  str. 40",
+          "publishedAt": "1995-02-18",
+          "effectiveFrom": "1995-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0011",
+          "proposer": null
+        },
+        {
+          "id": "BHRI-amend-BHRI-A",
+          "shortCode": "BHRI-A",
+          "label": "Sprememba BHRI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 14/95  str. 897",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BHRI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0070",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BHRI-A",
+      "title": "Zakon o spremembi zakona o ratifikaciji Pogodbe med Republiko Slovenijo in Republiko Hrvaško o izročitvi",
+      "shortTitle": "Zakon o spremembi zakona o ratifikaciji Pogodbe med Republiko Slovenijo in Republiko Hrvaško o izročitvi",
+      "shortCode": "BHRI-A",
+      "kind": "zakon",
+      "keywords": [
+        "dvostranski sporazum",
+        "Slovenija",
+        "Hrvaška",
+        "izročitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-02-0070",
+      "gazette": "Uradni list RS MP 14/95  str. 897",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-20",
+      "validFrom": "1995-10-20",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0070",
+      "versions": [
+        {
+          "id": "BHRI-A-original",
+          "shortCode": "BHRI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 14/95  str. 897",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BHRI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0070",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

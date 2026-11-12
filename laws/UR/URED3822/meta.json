@@ -1,0 +1,97 @@
+{
+  "root": "URED3822",
+  "path": "laws/UR/URED3822",
+  "members": [
+    {
+      "id": "URED3822",
+      "title": "Uredba o omejevalnih ukrepih proti Mjanmaru (Burmi)",
+      "shortTitle": "Uredba o omejevalnih ukrepih proti Mjanmaru (Burmi)",
+      "shortCode": "URED3822",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4693",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-02",
+      "validFrom": "2005-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4693",
+      "versions": [
+        {
+          "id": "URED3822-original",
+          "shortCode": "URED3822",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-02",
+          "effectiveFrom": "2005-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4693",
+          "proposer": null
+        },
+        {
+          "id": "URED3822-npb-URED3822",
+          "shortCode": "URED3822-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-12-02",
+          "effectiveFrom": "2005-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3822",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4559",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o omejevalnih ukrepih proti Mjanmaru (Burmi)",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o omejevalnih ukrepih proti Mjanmaru (Burmi)",
+      "shortCode": "URED4559",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-4704",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-10-16",
+      "validFrom": "2007-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4704",
+      "versions": [
+        {
+          "id": "URED4559-original",
+          "shortCode": "URED4559",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-10-16",
+          "effectiveFrom": "2007-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3822"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4704",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

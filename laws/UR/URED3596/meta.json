@@ -1,0 +1,97 @@
+{
+  "root": "URED3596",
+  "path": "laws/UR/URED3596",
+  "members": [
+    {
+      "id": "URED3596",
+      "title": "Uredba o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o detergentih",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o detergentih",
+      "shortCode": "URED3596",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2890",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-13",
+      "validFrom": "2005-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2890",
+      "versions": [
+        {
+          "id": "URED3596-original",
+          "shortCode": "URED3596",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-13",
+          "effectiveFrom": "2005-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2890",
+          "proposer": null
+        },
+        {
+          "id": "URED3596-npb-URED3596",
+          "shortCode": "URED3596-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-07-13",
+          "effectiveFrom": "2005-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3596",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6848",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o detergentih",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o detergentih",
+      "shortCode": "URED6848",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-0119",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-01-23",
+      "validFrom": "2015-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2015-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0119",
+      "versions": [
+        {
+          "id": "URED6848-original",
+          "shortCode": "URED6848",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-01-23",
+          "effectiveFrom": "2015-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3596"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0119",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

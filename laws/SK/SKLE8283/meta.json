@@ -1,0 +1,82 @@
+{
+  "root": "SKLE8283",
+  "path": "laws/SK/SKLE8283",
+  "members": [
+    {
+      "id": "SKLE8283",
+      "title": "Sklep o letnem poročilu vzajemnega pokojninskega sklada",
+      "shortTitle": "Sklep o letnem poročilu vzajemnega pokojninskega sklada",
+      "shortCode": "SKLE8283",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-4290",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2009-12-04",
+      "validFrom": "2009-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4290",
+      "versions": [
+        {
+          "id": "SKLE8283-original",
+          "shortCode": "SKLE8283",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-04",
+          "effectiveFrom": "2009-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4290",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9356",
+      "title": "Sklep o spremembah Sklepa o letnem poročilu vzajemnega pokojninskega sklada",
+      "shortTitle": "Sklep o spremembah Sklepa o letnem poročilu vzajemnega pokojninskega sklada",
+      "shortCode": "SKLE9356",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2012-01-1785",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2012-06-08",
+      "validFrom": "2012-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1785",
+      "versions": [
+        {
+          "id": "SKLE9356-original",
+          "shortCode": "SKLE9356",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-08",
+          "effectiveFrom": "2012-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8283"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1785",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

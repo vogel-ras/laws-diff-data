@@ -1,0 +1,82 @@
+{
+  "root": "URED4896",
+  "path": "laws/UR/URED4896",
+  "members": [
+    {
+      "id": "URED4896",
+      "title": "Uredba o izvajanju Odločbe Komisije o zahtevi glede opozorila na magnetnih igračah, ki se dajejo na trg ali se dajo na voljo na trgu",
+      "shortTitle": "Uredba o izvajanju Odločbe Komisije o zahtevi glede opozorila na magnetnih igračah, ki se dajejo na trg ali se dajo na voljo na trgu",
+      "shortCode": "URED4896",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3277",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-07-18",
+      "validFrom": "2008-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3277",
+      "versions": [
+        {
+          "id": "URED4896-original",
+          "shortCode": "URED4896",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-18",
+          "effectiveFrom": "2008-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3277",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4998",
+      "title": "Uredba o spremembi Uredbe o izvajanju Odločbe Komisije o zahtevi glede opozorila na magnetnih igračah, ki se dajejo na trg ali se dajo na voljo na trgu",
+      "shortTitle": "Uredba o spremembi Uredbe o izvajanju Odločbe Komisije o zahtevi glede opozorila na magnetnih igračah, ki se dajejo na trg ali se dajo na voljo na trgu",
+      "shortCode": "URED4998",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-5232",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-12-19",
+      "validFrom": "2008-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5232",
+      "versions": [
+        {
+          "id": "URED4998-original",
+          "shortCode": "URED4998",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-19",
+          "effectiveFrom": "2008-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4896"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5232",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,263 @@
+{
+  "root": "ZZZ",
+  "path": "laws/ZZ/ZZZ",
+  "members": [
+    {
+      "id": "ZZZ",
+      "title": "Zakon o zunanjih zadevah",
+      "shortTitle": "Zakon o zunanjih zadevah",
+      "shortCode": "ZZZ",
+      "kind": "zakon",
+      "keywords": [
+        "zunanja politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0013",
+      "gazette": "Uradni list RS 1/91  str. 29",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0013",
+      "versions": [
+        {
+          "id": "ZZZ-original",
+          "shortCode": "ZZZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 29",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0013",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZ-1",
+      "title": "Zakon o zunanjih zadevah",
+      "shortTitle": "Zakon o zunanjih zadevah",
+      "shortCode": "ZZZ-1",
+      "kind": "zakon",
+      "keywords": [
+        "diplomatsko predstavništvo",
+        "konzulat",
+        "diplomatski poklic",
+        "ministrstvo",
+        "zunanja politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2549",
+      "gazette": "Uradni list RS 45/2001  str. 5068",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-07",
+      "validFrom": "2001-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2549",
+      "versions": [
+        {
+          "id": "ZZZ-1-original",
+          "shortCode": "ZZZ-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/2001  str. 5068",
+          "publishedAt": "2001-06-07",
+          "effectiveFrom": "2001-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2549",
+          "proposer": null
+        },
+        {
+          "id": "ZZZ-1-amend-ZZZ-1A",
+          "shortCode": "ZZZ-1A",
+          "label": "Sprememba ZZZ-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 78/2003  str. 11618",
+          "publishedAt": "2003-08-08",
+          "effectiveFrom": "2003-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3699",
+          "proposer": null
+        },
+        {
+          "id": "ZZZ-1-amend-ZZZ-1C",
+          "shortCode": "ZZZ-1C",
+          "label": "Sprememba ZZZ-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 108/09  str. 14770",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4887",
+          "proposer": null
+        },
+        {
+          "id": "ZZZ-1-amend-ZZZ-1D",
+          "shortCode": "ZZZ-1D",
+          "label": "Sprememba ZZZ-1D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 31/15  str. 3510",
+          "publishedAt": "2015-05-04",
+          "effectiveFrom": "2015-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1300",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZ-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zunanjih zadevah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zunanjih zadevah",
+      "shortCode": "ZZZ-1A",
+      "kind": "zakon",
+      "keywords": [
+        "diplomatsko predstavništvo",
+        "diplomatski odnosi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3699",
+      "gazette": "Uradni list RS 78/2003  str. 11618",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-08",
+      "validFrom": "2003-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3699",
+      "versions": [
+        {
+          "id": "ZZZ-1A-original",
+          "shortCode": "ZZZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/2003  str. 11618",
+          "publishedAt": "2003-08-08",
+          "effectiveFrom": "2003-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3699",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZ-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zunanjih zadevah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zunanjih zadevah",
+      "shortCode": "ZZZ-1C",
+      "kind": "zakon",
+      "keywords": [
+        "zunanja politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4887",
+      "gazette": "Uradni list RS 108/09  str. 14770",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4887",
+      "versions": [
+        {
+          "id": "ZZZ-1C-original",
+          "shortCode": "ZZZ-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/09  str. 14770",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4887",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZ-1D",
+      "title": "Zakon o spremembah Zakona o zunanjih zadevah",
+      "shortTitle": "Zakon o spremembah Zakona o zunanjih zadevah",
+      "shortCode": "ZZZ-1D",
+      "kind": "zakon",
+      "keywords": [
+        "zunanja politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1300",
+      "gazette": "Uradni list RS 31/15  str. 3510",
+      "issuingBody": null,
+      "adoptedAt": "2015-05-04",
+      "validFrom": "2015-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1300",
+      "versions": [
+        {
+          "id": "ZZZ-1D-original",
+          "shortCode": "ZZZ-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/15  str. 3510",
+          "publishedAt": "2015-05-04",
+          "effectiveFrom": "2015-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1300",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

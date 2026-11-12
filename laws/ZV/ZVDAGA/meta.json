@@ -1,0 +1,104 @@
+{
+  "root": "ZVDAGA",
+  "path": "laws/ZV/ZVDAGA",
+  "members": [
+    {
+      "id": "ZVDAGA",
+      "title": "Zakon o varstvu dokumentarnega in arhivskega gradiva ter arhivih",
+      "shortTitle": "Zakon o varstvu dokumentarnega in arhivskega gradiva ter arhivih",
+      "shortCode": "ZVDAGA",
+      "kind": "zakon",
+      "keywords": [
+        "arhiv",
+        "evidenca dokumentarnega gradiva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1229",
+      "gazette": "Uradni list RS 30/06  str. 3125",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-23",
+      "validFrom": "2006-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1229",
+      "versions": [
+        {
+          "id": "ZVDAGA-original",
+          "shortCode": "ZVDAGA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/06  str. 3125",
+          "publishedAt": "2006-03-23",
+          "effectiveFrom": "2006-03-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1229",
+          "proposer": null
+        },
+        {
+          "id": "ZVDAGA-amend-ZVDAGA-A",
+          "shortCode": "ZVDAGA-A",
+          "label": "Sprememba ZVDAGA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 51/14  str. 5743",
+          "publishedAt": "2014-07-07",
+          "effectiveFrom": "2014-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDAGA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2170",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDAGA-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu dokumentarnega in arhivskega gradiva ter arhivih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu dokumentarnega in arhivskega gradiva ter arhivih",
+      "shortCode": "ZVDAGA-A",
+      "kind": "zakon",
+      "keywords": [
+        "arhiv"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-2170",
+      "gazette": "Uradni list RS 51/14  str. 5743",
+      "issuingBody": null,
+      "adoptedAt": "2014-07-07",
+      "validFrom": "2014-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2170",
+      "versions": [
+        {
+          "id": "ZVDAGA-A-original",
+          "shortCode": "ZVDAGA-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/14  str. 5743",
+          "publishedAt": "2014-07-07",
+          "effectiveFrom": "2014-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDAGA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2170",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

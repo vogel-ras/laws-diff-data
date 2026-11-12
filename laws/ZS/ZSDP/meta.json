@@ -1,0 +1,609 @@
+{
+  "root": "ZSDP",
+  "path": "laws/ZS/ZSDP",
+  "members": [
+    {
+      "id": "ZAKO5340",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-C)",
+      "shortCode": "ZSDP-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-0306",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-01-30",
+      "validFrom": "2008-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0306",
+      "versions": [
+        {
+          "id": "ZAKO5340-original",
+          "shortCode": "ZSDP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-30",
+          "effectiveFrom": "2008-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7717",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-1B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-1B)",
+      "shortCode": "ZSDP-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0587",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-28",
+      "validFrom": "2018-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0587",
+      "versions": [
+        {
+          "id": "ZAKO7717-original",
+          "shortCode": "ZSDP-1B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-28",
+          "effectiveFrom": "2018-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0587",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9111",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-1H)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih (ZSDP-1H)",
+      "shortCode": "ZSDP-1H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0460",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-19",
+      "validFrom": "2026-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0460",
+      "versions": [
+        {
+          "id": "ZAKO9111-original",
+          "shortCode": "ZSDP-1H",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0460",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP",
+      "title": "Zakon o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP",
+      "kind": "zakon",
+      "keywords": [
+        "družina",
+        "otrok",
+        "porodniški dopust",
+        "starševski dodatki",
+        "starševski dopust",
+        "družinski proračun",
+        "otroško varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4794",
+      "gazette": "Uradni list RS 97/2001  str. 9345",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-04",
+      "validFrom": "2001-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4794",
+      "versions": [
+        {
+          "id": "ZSDP-original",
+          "shortCode": "ZSDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/2001  str. 9345",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4794",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-amend-ZSDP-A",
+          "shortCode": "ZSDP-A",
+          "label": "Sprememba ZSDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/2003  str. 11417",
+          "publishedAt": "2003-08-04",
+          "effectiveFrom": "2003-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3647",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-amend-ZSDP-B",
+          "shortCode": "ZSDP-B",
+          "label": "Sprememba ZSDP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 47/06  str. 5059",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2026",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-amend-ZAKO5340",
+          "shortCode": "ZSDP-C",
+          "label": "Sprememba ZSDP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2008-01-30",
+          "effectiveFrom": "2008-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-1",
+      "title": "Zakon o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-1",
+      "kind": "zakon",
+      "keywords": [
+        "družina",
+        "prejemek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-1068",
+      "gazette": "Uradni list RS 26/14  str. 3055",
+      "issuingBody": null,
+      "adoptedAt": "2014-04-14",
+      "validFrom": "2014-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1068",
+      "versions": [
+        {
+          "id": "ZSDP-1-original",
+          "shortCode": "ZSDP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/14  str. 3055",
+          "publishedAt": "2014-04-14",
+          "effectiveFrom": "2014-04-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1068",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZSDP-1A",
+          "shortCode": "ZSDP-1A",
+          "label": "Sprememba ZSDP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 90/15  str. 10114",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3502",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZAKO7717",
+          "shortCode": "ZSDP-1B",
+          "label": "Sprememba ZSDP-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2018-02-28",
+          "effectiveFrom": "2018-02-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0587",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZSDP-1C",
+          "shortCode": "ZSDP-1C",
+          "label": "Sprememba ZSDP-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 81/19  str. 10789",
+          "publishedAt": "2019-12-27",
+          "effectiveFrom": "2019-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3720",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZSDP-1D",
+          "shortCode": "ZSDP-1D",
+          "label": "Sprememba ZSDP-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 158/20  str. 6733",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2764",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZSDP-1F",
+          "shortCode": "ZSDP-1F",
+          "label": "Sprememba ZSDP-1F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 153/22  str. 12469",
+          "publishedAt": "2022-12-06",
+          "effectiveFrom": "2022-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3793",
+          "proposer": null
+        },
+        {
+          "id": "ZSDP-1-amend-ZAKO9111",
+          "shortCode": "ZSDP-1H",
+          "label": "Sprememba ZSDP-1H",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0460",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "družina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3502",
+      "gazette": "Uradni list RS 90/15  str. 10114",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-27",
+      "validFrom": "2015-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3502",
+      "versions": [
+        {
+          "id": "ZSDP-1A-original",
+          "shortCode": "ZSDP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/15  str. 10114",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3502",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3720",
+      "gazette": "Uradni list RS 81/19  str. 10789",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-27",
+      "validFrom": "2019-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3720",
+      "versions": [
+        {
+          "id": "ZSDP-1C-original",
+          "shortCode": "ZSDP-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/19  str. 10789",
+          "publishedAt": "2019-12-27",
+          "effectiveFrom": "2019-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3720",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-1D",
+      "title": "Zakon o spremembi Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembi Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2764",
+      "gazette": "Uradni list RS 158/20  str. 6733",
+      "issuingBody": null,
+      "adoptedAt": "2020-11-02",
+      "validFrom": "2020-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2764",
+      "versions": [
+        {
+          "id": "ZSDP-1D-original",
+          "shortCode": "ZSDP-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 158/20  str. 6733",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2764",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-1F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-1F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3793",
+      "gazette": "Uradni list RS 153/22  str. 12469",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-06",
+      "validFrom": "2022-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3793",
+      "versions": [
+        {
+          "id": "ZSDP-1F-original",
+          "shortCode": "ZSDP-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 153/22  str. 12469",
+          "publishedAt": "2022-12-06",
+          "effectiveFrom": "2022-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3793",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "družinska politika",
+        "starševske dolžnosti",
+        "starševske pravice",
+        "starševski dodatki",
+        "porodniški dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3647",
+      "gazette": "Uradni list RS 76/2003  str. 11417",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-04",
+      "validFrom": "2003-08-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3647",
+      "versions": [
+        {
+          "id": "ZSDP-A-original",
+          "shortCode": "ZSDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/2003  str. 11417",
+          "publishedAt": "2003-08-04",
+          "effectiveFrom": "2003-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3647",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDP-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o starševskem varstvu in družinskih prejemkih",
+      "shortCode": "ZSDP-B",
+      "kind": "zakon",
+      "keywords": [
+        "družinska politika",
+        "starševske dolžnosti",
+        "starševske pravice",
+        "starševski dodatki",
+        "porodniški dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2026",
+      "gazette": "Uradni list RS 47/06  str. 5059",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-09",
+      "validFrom": "2006-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2026",
+      "versions": [
+        {
+          "id": "ZSDP-B-original",
+          "shortCode": "ZSDP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/06  str. 5059",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2026",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

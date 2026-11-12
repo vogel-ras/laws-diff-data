@@ -1,0 +1,58 @@
+{
+  "root": "PRAV365",
+  "path": "laws/PR/PRAV365",
+  "members": [
+    {
+      "id": "PRAV365",
+      "title": "Pravilnik o pogojih za določitev živali - darovalk jajčnih celic in zarodkov",
+      "shortTitle": "Pravilnik o pogojih za določitev živali - darovalk jajčnih celic in zarodkov",
+      "shortCode": "PRAV365",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2604",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "1999-07-09",
+      "validFrom": "1999-07-09",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2604",
+      "versions": [
+        {
+          "id": "PRAV365-original",
+          "shortCode": "PRAV365",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-09",
+          "effectiveFrom": "1999-07-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2604",
+          "proposer": null
+        },
+        {
+          "id": "PRAV365-npb-PRAV365",
+          "shortCode": "PRAV365-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-07-09",
+          "effectiveFrom": "1999-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV365",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

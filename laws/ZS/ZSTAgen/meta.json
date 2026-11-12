@@ -1,0 +1,136 @@
+{
+  "root": "ZSTAgen",
+  "path": "laws/ZS/ZSTAgen",
+  "members": [
+    {
+      "id": "ZAKO5868",
+      "title": "Zakon o Slovenski tiskovni agenciji (ZSTAgen)",
+      "shortTitle": "Zakon o Slovenski tiskovni agenciji (ZSTAgen)",
+      "shortCode": "ZSTAgen",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2361",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-06-27",
+      "validFrom": "2011-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2361",
+      "versions": [
+        {
+          "id": "ZAKO5868-original",
+          "shortCode": "ZSTAgen",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-27",
+          "effectiveFrom": "2011-06-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2361",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5868-amend-ZSTAgen-A",
+          "shortCode": "ZSTAgen-A",
+          "label": "Sprememba ZSTAgen-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 36/21  str. 2424",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5868"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0715",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9049",
+      "title": "Zakon o Slovenski tiskovni agenciji (ZSTAgen-1)",
+      "shortTitle": "Zakon o Slovenski tiskovni agenciji (ZSTAgen-1)",
+      "shortCode": "ZSTAgen-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0453",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-19",
+      "validFrom": "2026-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0453",
+      "versions": [
+        {
+          "id": "ZAKO9049-original",
+          "shortCode": "ZSTAgen-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0453",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSTAgen-A",
+      "title": "Zakon o dopolnitvi Zakona o Slovenski tiskovni agenciji",
+      "shortTitle": "Zakon o dopolnitvi Zakona o Slovenski tiskovni agenciji",
+      "shortCode": "ZSTAgen-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0715",
+      "gazette": "Uradni list RS 36/21  str. 2424",
+      "issuingBody": null,
+      "adoptedAt": "2021-03-12",
+      "validFrom": "2021-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0715",
+      "versions": [
+        {
+          "id": "ZSTAgen-A-original",
+          "shortCode": "ZSTAgen-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/21  str. 2424",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5868"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0715",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

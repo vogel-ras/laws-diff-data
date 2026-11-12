@@ -1,0 +1,201 @@
+{
+  "root": "ZSFR",
+  "path": "laws/ZS/ZSFR",
+  "members": [
+    {
+      "id": "ZAKO5383",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov iz Nuklearne elektrarne Krško (ZSFR-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov iz Nuklearne elektrarne Krško (ZSFR-B)",
+      "shortCode": "ZSFR-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2964",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2964",
+      "versions": [
+        {
+          "id": "ZAKO5383-original",
+          "shortCode": "ZSFR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSFR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2964",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSFR",
+      "title": "Zakon o skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov iz Nuklearne elektrarne Krško",
+      "shortTitle": "Zakon o skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov iz Nuklearne elektrarne Krško",
+      "shortCode": "ZSFR",
+      "kind": "zakon",
+      "keywords": [
+        "jedrska elektrarna",
+        "radioaktivni odpadki",
+        "radioaktivno onesnaževanje",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2681",
+      "gazette": "Uradni list RS 75/94  str. 4262",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-02",
+      "validFrom": "1994-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2681",
+      "versions": [
+        {
+          "id": "ZSFR-original",
+          "shortCode": "ZSFR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/94  str. 4262",
+          "publishedAt": "1994-12-02",
+          "effectiveFrom": "1994-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2681",
+          "proposer": null
+        },
+        {
+          "id": "ZSFR-amend-ZSFR-A",
+          "shortCode": "ZSFR-A",
+          "label": "Sprememba ZSFR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 24/2003  str. 2790",
+          "publishedAt": "2003-03-07",
+          "effectiveFrom": "2003-03-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSFR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0901",
+          "proposer": null
+        },
+        {
+          "id": "ZSFR-amend-ZAKO5383",
+          "shortCode": "ZSFR-B",
+          "label": "Sprememba ZSFR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSFR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2964",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSFR-1",
+      "title": "Zakon o Javnem skladu Republike Slovenije za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov in izrabljenega goriva iz Nuklearne elektrarne Krško",
+      "shortTitle": "Zakon o Javnem skladu Republike Slovenije za financiranje razgradnje Nuklearne elektrarne Krško in odlaganja radioaktivnih odpadkov in izrabljenega goriva iz Nuklearne elektrarne Krško",
+      "shortCode": "ZSFR-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3085",
+      "gazette": "Uradni list RS 130/22  str. 9731",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3085",
+      "versions": [
+        {
+          "id": "ZSFR-1-original",
+          "shortCode": "ZSFR-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/22  str. 9731",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3085",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSFR-A",
+      "title": "Zakon o spremembah zakona o Skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganju radioaktivnih odpadkov iz Nuklearne elektrarne Krško",
+      "shortTitle": "Zakon o spremembah zakona o Skladu za financiranje razgradnje Nuklearne elektrarne Krško in odlaganju radioaktivnih odpadkov iz Nuklearne elektrarne Krško",
+      "shortCode": "ZSFR-A",
+      "kind": "zakon",
+      "keywords": [
+        "jedrska elektrarna",
+        "financiranje",
+        "radioaktivni odpadki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0901",
+      "gazette": "Uradni list RS 24/2003  str. 2790",
+      "issuingBody": null,
+      "adoptedAt": "2003-03-07",
+      "validFrom": "2003-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0901",
+      "versions": [
+        {
+          "id": "ZSFR-A-original",
+          "shortCode": "ZSFR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 24/2003  str. 2790",
+          "publishedAt": "2003-03-07",
+          "effectiveFrom": "2003-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSFR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0901",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

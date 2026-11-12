@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5974",
+  "path": "laws/PR/PRAV5974",
+  "members": [
+    {
+      "id": "PRAV5974",
+      "title": "Pravilnik o načinu označevanja in zavarovanja del na javnih cestah in ovir v cestnem prometu",
+      "shortTitle": "Pravilnik o načinu označevanja in zavarovanja del na javnih cestah in ovir v cestnem prometu",
+      "shortCode": "PRAV5974",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5008",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-09-12",
+      "validFrom": "2008-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5008",
+      "versions": [
+        {
+          "id": "PRAV5974-original",
+          "shortCode": "PRAV5974",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-12",
+          "effectiveFrom": "2008-09-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5008",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9020",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu označevanja in zavarovanja del na javnih cestah in ovir v cestnem prometu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu označevanja in zavarovanja del na javnih cestah in ovir v cestnem prometu",
+      "shortCode": "PRAV9020",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3776",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2008-09-12",
+      "validFrom": "2008-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3776",
+      "versions": [
+        {
+          "id": "PRAV9020-original",
+          "shortCode": "PRAV9020",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-12",
+          "effectiveFrom": "2008-09-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5974"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3776",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

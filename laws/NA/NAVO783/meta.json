@@ -1,0 +1,82 @@
+{
+  "root": "NAVO783",
+  "path": "laws/NA/NAVO783",
+  "members": [
+    {
+      "id": "NAVO783",
+      "title": "Navodilo za izvajanje statističnih raziskovanj pridelovalne zmogljivosti intenzivnih sadovnjakov",
+      "shortTitle": "Navodilo za izvajanje statističnih raziskovanj pridelovalne zmogljivosti intenzivnih sadovnjakov",
+      "shortCode": "NAVO783",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2006-01-0780",
+      "gazette": null,
+      "issuingBody": "Statistični urad Republike Slovenije",
+      "adoptedAt": "2006-02-24",
+      "validFrom": "2006-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0780",
+      "versions": [
+        {
+          "id": "NAVO783-original",
+          "shortCode": "NAVO783",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0780",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO858",
+      "title": "Navodilo o spremembah Navodila za izvajanje statističnih raziskovanj pridelovalne zmogljivosti intenzivnih sadovnjakov",
+      "shortTitle": "Navodilo o spremembah Navodila za izvajanje statističnih raziskovanj pridelovalne zmogljivosti intenzivnih sadovnjakov",
+      "shortCode": "NAVO858",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2007-01-2182",
+      "gazette": null,
+      "issuingBody": "Statistični urad Republike Slovenije",
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2182",
+      "versions": [
+        {
+          "id": "NAVO858-original",
+          "shortCode": "NAVO858",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO783"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2182",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

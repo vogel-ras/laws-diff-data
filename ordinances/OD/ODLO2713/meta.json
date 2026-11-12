@@ -1,0 +1,58 @@
+{
+  "root": "ODLO2713",
+  "path": "ordinances/OD/ODLO2713",
+  "members": [
+    {
+      "id": "ODLO2713",
+      "title": "Odlok o Svetu za nacionalno varnost",
+      "shortTitle": "Odlok o Svetu za nacionalno varnost",
+      "shortCode": "ODLO2713",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2022-01-3323",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-10-28",
+      "validFrom": "2022-10-28",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3323",
+      "versions": [
+        {
+          "id": "ODLO2713-original",
+          "shortCode": "ODLO2713",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-28",
+          "effectiveFrom": "2022-10-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3323",
+          "proposer": null
+        },
+        {
+          "id": "ODLO2713-npb-ODLO2713",
+          "shortCode": "ODLO2713-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-10-28",
+          "effectiveFrom": "2022-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO2713",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

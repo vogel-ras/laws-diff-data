@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5633",
+  "path": "laws/PR/PRAV5633",
+  "members": [
+    {
+      "id": "PRAV5633",
+      "title": "Pravilnik o vrstah finančnih zavarovanj, s katerimi ponudnik zavaruje izpolnitev svoje obveznosti v postopku oddaje javnega naročila",
+      "shortTitle": "Pravilnik o vrstah finančnih zavarovanj, s katerimi ponudnik zavaruje izpolnitev svoje obveznosti v postopku oddaje javnega naročila",
+      "shortCode": "PRAV5633",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1078",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1078",
+      "versions": [
+        {
+          "id": "PRAV5633-original",
+          "shortCode": "PRAV5633",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1078",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5977",
+      "title": "Pravilnik o spremembah Pravilnika o vrstah finančnih zavarovanj, s katerimi ponudnik zavaruje izpolnitev svoje obveznosti v postopku oddaje javnega naročila",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o vrstah finančnih zavarovanj, s katerimi ponudnik zavaruje izpolnitev svoje obveznosti v postopku oddaje javnega naročila",
+      "shortCode": "PRAV5977",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3898",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-08-06",
+      "validFrom": "2004-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3898",
+      "versions": [
+        {
+          "id": "PRAV5977-original",
+          "shortCode": "PRAV5977",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-06",
+          "effectiveFrom": "2004-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5633"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3898",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

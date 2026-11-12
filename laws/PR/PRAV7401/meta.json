@@ -1,0 +1,97 @@
+{
+  "root": "PRAV7401",
+  "path": "laws/PR/PRAV7401",
+  "members": [
+    {
+      "id": "PRAV7401",
+      "title": "Pravilnik o merilih in postopku za določitev višine subvencije plače za invalide",
+      "shortTitle": "Pravilnik o merilih in postopku za določitev višine subvencije plače za invalide",
+      "shortCode": "PRAV7401",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-5163",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-12-23",
+      "validFrom": "2005-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5163",
+      "versions": [
+        {
+          "id": "PRAV7401-original",
+          "shortCode": "PRAV7401",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-23",
+          "effectiveFrom": "2005-12-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5163",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7401-npb-PRAV7401",
+          "shortCode": "PRAV7401-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-12-23",
+          "effectiveFrom": "2005-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7401",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9018",
+      "title": "Pravilnik o spremembi Pravilnika o merilih in postopku za določitev višine subvencije plače za invalide",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o merilih in postopku za določitev višine subvencije plače za invalide",
+      "shortCode": "PRAV9018",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-1687",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2008-04-23",
+      "validFrom": "2008-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1687",
+      "versions": [
+        {
+          "id": "PRAV9018-original",
+          "shortCode": "PRAV9018",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-23",
+          "effectiveFrom": "2008-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7401"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1687",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

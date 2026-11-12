@@ -1,0 +1,233 @@
+{
+  "root": "ZEC",
+  "path": "laws/ZE/ZEC",
+  "members": [
+    {
+      "id": "ZEC",
+      "title": "Zakon o ekonomskih conah",
+      "shortTitle": "Zakon o ekonomskih conah",
+      "shortCode": "ZEC",
+      "kind": "zakon",
+      "keywords": [
+        "prosta cona",
+        "industrijska prosta cona",
+        "davčna olajšava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-1947",
+      "gazette": "Uradni list RS 45/98  str. 3189",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-12",
+      "validFrom": "1998-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1947",
+      "versions": [
+        {
+          "id": "ZEC-original",
+          "shortCode": "ZEC",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/98  str. 3189",
+          "publishedAt": "1998-06-12",
+          "effectiveFrom": "1998-06-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1947",
+          "proposer": null
+        },
+        {
+          "id": "ZEC-amend-ZEC-A",
+          "shortCode": "ZEC-A",
+          "label": "Sprememba ZEC-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 97/2001  str. 9359",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4795",
+          "proposer": null
+        },
+        {
+          "id": "ZEC-amend-ZEC-B",
+          "shortCode": "ZEC-B",
+          "label": "Sprememba ZEC-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 12/07  str. 1409",
+          "publishedAt": "2007-02-12",
+          "effectiveFrom": "2007-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0565",
+          "proposer": null
+        },
+        {
+          "id": "ZEC-amend-ZEC-C",
+          "shortCode": "ZEC-C",
+          "label": "Sprememba ZEC-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 19/10  str. 2275",
+          "publishedAt": "2010-03-12",
+          "effectiveFrom": "2010-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0807",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEC-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ekonomskih conah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ekonomskih conah",
+      "shortCode": "ZEC-A",
+      "kind": "zakon",
+      "keywords": [
+        "davčna olajšava",
+        "prosta cona",
+        "državna pomoč",
+        "regionalna pomoč",
+        "gospodarska podpora"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4795",
+      "gazette": "Uradni list RS 97/2001  str. 9359",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-04",
+      "validFrom": "2001-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4795",
+      "versions": [
+        {
+          "id": "ZEC-A-original",
+          "shortCode": "ZEC-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/2001  str. 9359",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4795",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEC-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ekonomskih conah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ekonomskih conah",
+      "shortCode": "ZEC-B",
+      "kind": "zakon",
+      "keywords": [
+        "davčna olajšava",
+        "državna pomoč",
+        "gospodarska podpora",
+        "prosta cona",
+        "regionalna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-0565",
+      "gazette": "Uradni list RS 12/07  str. 1409",
+      "issuingBody": null,
+      "adoptedAt": "2007-02-12",
+      "validFrom": "2007-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0565",
+      "versions": [
+        {
+          "id": "ZEC-B-original",
+          "shortCode": "ZEC-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/07  str. 1409",
+          "publishedAt": "2007-02-12",
+          "effectiveFrom": "2007-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0565",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEC-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o ekonomskih conah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o ekonomskih conah",
+      "shortCode": "ZEC-C",
+      "kind": "zakon",
+      "keywords": [
+        "davčna olajšava",
+        "državna pomoč",
+        "gospodarska podpora",
+        "prosta cona",
+        "regionalni razvoj"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0807",
+      "gazette": "Uradni list RS 19/10  str. 2275",
+      "issuingBody": null,
+      "adoptedAt": "2010-03-12",
+      "validFrom": "2010-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0807",
+      "versions": [
+        {
+          "id": "ZEC-C-original",
+          "shortCode": "ZEC-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/10  str. 2275",
+          "publishedAt": "2010-03-12",
+          "effectiveFrom": "2010-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0807",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

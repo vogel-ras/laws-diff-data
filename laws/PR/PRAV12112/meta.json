@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12112",
+  "path": "laws/PR/PRAV12112",
+  "members": [
+    {
+      "id": "PRAV12112",
+      "title": "Pravilnik o prvih meritvah in obratovalnem monitoringu odpadnih voda",
+      "shortTitle": "Pravilnik o prvih meritvah in obratovalnem monitoringu odpadnih voda",
+      "shortCode": "PRAV12112",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3849",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2014-12-24",
+      "validFrom": "2014-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3849",
+      "versions": [
+        {
+          "id": "PRAV12112-original",
+          "shortCode": "PRAV12112",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-24",
+          "effectiveFrom": "2014-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3849",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12112-npb-PRAV12112",
+          "shortCode": "PRAV12112-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-12-24",
+          "effectiveFrom": "2014-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12112",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12496",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o prvih meritvah in obratovalnem monitoringu odpadnih voda",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o prvih meritvah in obratovalnem monitoringu odpadnih voda",
+      "shortCode": "PRAV12496",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3858",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2015-12-18",
+      "validFrom": "2015-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3858",
+      "versions": [
+        {
+          "id": "PRAV12496-original",
+          "shortCode": "PRAV12496",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-18",
+          "effectiveFrom": "2015-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12112"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3858",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

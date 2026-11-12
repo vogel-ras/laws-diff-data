@@ -1,0 +1,97 @@
+{
+  "root": "URED7953",
+  "path": "laws/UR/URED7953",
+  "members": [
+    {
+      "id": "URED7953",
+      "title": "Uredba o izvajanju uredbe (EU) o uradnem nadzoru in drugih uradnih dejavnostih na področju živil, krme, zdravja in dobrobiti živali ter zdravja rastlin in fitofarmacevtskih sredstev",
+      "shortTitle": "Uredba o izvajanju uredbe (EU) o uradnem nadzoru in drugih uradnih dejavnostih na področju živil, krme, zdravja in dobrobiti živali ter zdravja rastlin in fitofarmacevtskih sredstev",
+      "shortCode": "URED7953",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2315",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-09-25",
+      "validFrom": "2020-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2315",
+      "versions": [
+        {
+          "id": "URED7953-original",
+          "shortCode": "URED7953",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-09-25",
+          "effectiveFrom": "2020-09-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2315",
+          "proposer": null
+        },
+        {
+          "id": "URED7953-npb-URED7953",
+          "shortCode": "URED7953-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-04-27",
+          "effectiveFrom": "2024-04-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7953",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8501",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredbe (EU) o uradnem nadzoru in drugih uradnih dejavnostih na področju živil, krme, zdravja in dobrobiti živali ter zdravja rastlin in fitofarmacevtskih sredstev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredbe (EU) o uradnem nadzoru in drugih uradnih dejavnostih na področju živil, krme, zdravja in dobrobiti živali ter zdravja rastlin in fitofarmacevtskih sredstev",
+      "shortCode": "URED8501",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0919",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-04-12",
+      "validFrom": "2024-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0919",
+      "versions": [
+        {
+          "id": "URED8501-original",
+          "shortCode": "URED8501",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7953"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0919",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

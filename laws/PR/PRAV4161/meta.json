@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4161",
+  "path": "laws/PR/PRAV4161",
+  "members": [
+    {
+      "id": "PRAV4161",
+      "title": "Pravilnik o meroslovnih zahtevah za hladilne posode za mleko (bazenske hladilnike), mlekomere in merilne posode",
+      "shortTitle": "Pravilnik o meroslovnih zahtevah za hladilne posode za mleko (bazenske hladilnike), mlekomere in merilne posode",
+      "shortCode": "PRAV4161",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1150",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2002-03-26",
+      "validFrom": "2002-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1150",
+      "versions": [
+        {
+          "id": "PRAV4161-original",
+          "shortCode": "PRAV4161",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-26",
+          "effectiveFrom": "2002-03-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1150",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4161-npb-PRAV4161",
+          "shortCode": "PRAV4161-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-03-26",
+          "effectiveFrom": "2002-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4161",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5363",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o meroslovnih zahtevah za hladilne posode za mleko (bazenske hladilnike), mlekomere in merilne posode",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o meroslovnih zahtevah za hladilne posode za mleko (bazenske hladilnike), mlekomere in merilne posode",
+      "shortCode": "PRAV5363",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4985",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-11-21",
+      "validFrom": "2003-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4985",
+      "versions": [
+        {
+          "id": "PRAV5363-original",
+          "shortCode": "PRAV5363",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-21",
+          "effectiveFrom": "2003-11-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4161"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4985",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

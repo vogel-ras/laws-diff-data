@@ -1,0 +1,136 @@
+{
+  "root": "PRAV10840",
+  "path": "laws/PR/PRAV10840",
+  "members": [
+    {
+      "id": "PRAV10840",
+      "title": "Pravilnik o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortTitle": "Pravilnik o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortCode": "PRAV10840",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-3165",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2011-09-23",
+      "validFrom": "2011-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2011-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3165",
+      "versions": [
+        {
+          "id": "PRAV10840-original",
+          "shortCode": "PRAV10840",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-23",
+          "effectiveFrom": "2011-09-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3165",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10840-npb-PRAV10840",
+          "shortCode": "PRAV10840-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-09-23",
+          "effectiveFrom": "2011-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10840",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12533",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortCode": "PRAV12533",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2775",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2015-09-25",
+      "validFrom": "2015-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2015-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2775",
+      "versions": [
+        {
+          "id": "PRAV12533-original",
+          "shortCode": "PRAV12533",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-09-25",
+          "effectiveFrom": "2015-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10840"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2775",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13767",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih za izvajanje storitev za trg dela in metodologiji za oblikovanje cen teh storitev",
+      "shortCode": "PRAV13767",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2231",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-07-02",
+      "validFrom": "2021-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2021-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2231",
+      "versions": [
+        {
+          "id": "PRAV13767-original",
+          "shortCode": "PRAV13767",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-07-02",
+          "effectiveFrom": "2021-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10840"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2231",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

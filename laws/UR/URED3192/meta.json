@@ -1,0 +1,136 @@
+{
+  "root": "URED3192",
+  "path": "laws/UR/URED3192",
+  "members": [
+    {
+      "id": "URED3192",
+      "title": "Uredba o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortTitle": "Uredba o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortCode": "URED3192",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2215",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2215",
+      "versions": [
+        {
+          "id": "URED3192-original",
+          "shortCode": "URED3192",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2215",
+          "proposer": null
+        },
+        {
+          "id": "URED3192-npb-URED3192",
+          "shortCode": "URED3192-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3192",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3516",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortCode": "URED3516",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4597",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-10-11",
+      "validFrom": "2004-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4597",
+      "versions": [
+        {
+          "id": "URED3516-original",
+          "shortCode": "URED3516",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-11",
+          "effectiveFrom": "2004-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3192"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4597",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5188",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o zavarovanih prosto živečih rastlinskih vrstah",
+      "shortCode": "URED5188",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1713",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1713",
+      "versions": [
+        {
+          "id": "URED5188-original",
+          "shortCode": "URED5188",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3192"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1713",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

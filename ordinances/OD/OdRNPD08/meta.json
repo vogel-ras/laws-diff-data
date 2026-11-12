@@ -1,0 +1,99 @@
+{
+  "root": "OdRNPD08",
+  "path": "ordinances/OD/OdRNPD08",
+  "members": [
+    {
+      "id": "ODLO1536",
+      "title": "Odlok o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2008 (OdRNPD08)",
+      "shortTitle": "Odlok o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2008 (OdRNPD08)",
+      "shortCode": "OdRNPD08",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2007-01-5701",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2007-12-13",
+      "validFrom": "2007-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5701",
+      "versions": [
+        {
+          "id": "ODLO1536-original",
+          "shortCode": "OdRNPD08",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-13",
+          "effectiveFrom": "2007-12-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5701",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1536-amend-ODLO1567",
+          "shortCode": "OdRNPD08-A",
+          "label": "Sprememba OdRNPD08-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-06-24",
+          "effectiveFrom": "2008-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1536"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2692",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1567",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2008 (OdRNPD08-A)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2008 (OdRNPD08-A)",
+      "shortCode": "OdRNPD08-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2008-01-2692",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-06-24",
+      "validFrom": "2008-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2692",
+      "versions": [
+        {
+          "id": "ODLO1567-original",
+          "shortCode": "OdRNPD08-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-24",
+          "effectiveFrom": "2008-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1536"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2692",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV8771",
+  "path": "laws/PR/PRAV8771",
+  "members": [
+    {
+      "id": "PRAV8771",
+      "title": "Pravilnik o natančnejših zahtevah in postopku za ugotavljanje medsebojne zamenljivosti zdravil",
+      "shortTitle": "Pravilnik o natančnejših zahtevah in postopku za ugotavljanje medsebojne zamenljivosti zdravil",
+      "shortCode": "PRAV8771",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3732",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2008-09-05",
+      "validFrom": "2008-09-05",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3732",
+      "versions": [
+        {
+          "id": "PRAV8771-original",
+          "shortCode": "PRAV8771",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-05",
+          "effectiveFrom": "2008-09-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3732",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9743",
+      "title": "Pravilnik o spremembi Pravilnika o natančnejših zahtevah in postopku za ugotavljanje medsebojne zamenljivosti zdravil",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o natančnejših zahtevah in postopku za ugotavljanje medsebojne zamenljivosti zdravil",
+      "shortCode": "PRAV9743",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2993",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2009-08-07",
+      "validFrom": "2009-08-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2993",
+      "versions": [
+        {
+          "id": "PRAV9743-original",
+          "shortCode": "PRAV9743",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-07",
+          "effectiveFrom": "2009-08-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8771"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2993",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

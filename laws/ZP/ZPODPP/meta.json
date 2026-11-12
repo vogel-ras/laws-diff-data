@@ -1,0 +1,107 @@
+{
+  "root": "ZPODPP",
+  "path": "laws/ZP/ZPODPP",
+  "members": [
+    {
+      "id": "ZPODPP",
+      "title": "Zakon o poravnavanju odloženih davkov in prispevkov za podjetja, ki so družbeni kapital prenesla na Sklad Republike Slovenije za razvoj",
+      "shortTitle": "Zakon o poravnavanju odloženih davkov in prispevkov za podjetja, ki so družbeni kapital prenesla na Sklad Republike Slovenije za razvoj",
+      "shortCode": "ZPODPP",
+      "kind": "zakon",
+      "keywords": [
+        "prenos kapitala",
+        "davek",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0296",
+      "gazette": "Uradni list RS 7/93  str. 267",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-04",
+      "validFrom": "1993-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0296",
+      "versions": [
+        {
+          "id": "ZPODPP-original",
+          "shortCode": "ZPODPP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/93  str. 267",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0296",
+          "proposer": null
+        },
+        {
+          "id": "ZPODPP-amend-ZPODPP-A",
+          "shortCode": "ZPODPP-A",
+          "label": "Sprememba ZPODPP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 69/94  str. 3844",
+          "publishedAt": "1994-11-05",
+          "effectiveFrom": "1994-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPODPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2470",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPODPP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poravnavanju odloženih davkov in prispevkov za podjetja, ki so družbeni kapital prenesla na Sklad Republike Slovenije za razvoj",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poravnavanju odloženih davkov in prispevkov za podjetja, ki so družbeni kapital prenesla na Sklad Republike Slovenije za razvoj",
+      "shortCode": "ZPODPP-A",
+      "kind": "zakon",
+      "keywords": [
+        "prenos kapitala",
+        "davek",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2470",
+      "gazette": "Uradni list RS 69/94  str. 3844",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-05",
+      "validFrom": "1994-11-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2470",
+      "versions": [
+        {
+          "id": "ZPODPP-A-original",
+          "shortCode": "ZPODPP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/94  str. 3844",
+          "publishedAt": "1994-11-05",
+          "effectiveFrom": "1994-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPODPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2470",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED1203",
+  "path": "laws/UR/URED1203",
+  "members": [
+    {
+      "id": "URED1203",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za pridobivanje premoga in proizvodnjo briketov ter koksa",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za pridobivanje premoga in proizvodnjo briketov ter koksa",
+      "shortCode": "URED1203",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1274",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-30",
+      "validFrom": "2000-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1274",
+      "versions": [
+        {
+          "id": "URED1203-original",
+          "shortCode": "URED1203",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1274",
+          "proposer": null
+        },
+        {
+          "id": "URED1203-npb-URED1203",
+          "shortCode": "URED1203-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1203",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

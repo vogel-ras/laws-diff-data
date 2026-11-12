@@ -1,0 +1,82 @@
+{
+  "root": "URED3442",
+  "path": "laws/UR/URED3442",
+  "members": [
+    {
+      "id": "URED3442",
+      "title": "Uredba o uporabi plovil na motorni pogon na reki Ljubljanici",
+      "shortTitle": "Uredba o uporabi plovil na motorni pogon na reki Ljubljanici",
+      "shortCode": "URED3442",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3765",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-07-30",
+      "validFrom": "2004-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3765",
+      "versions": [
+        {
+          "id": "URED3442-original",
+          "shortCode": "URED3442",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-30",
+          "effectiveFrom": "2004-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3765",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4511",
+      "title": "Uredba o spremembah Uredbe o uporabi plovil na motorni pogon na reki Ljubljanici",
+      "shortTitle": "Uredba o spremembah Uredbe o uporabi plovil na motorni pogon na reki Ljubljanici",
+      "shortCode": "URED4511",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2423",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-05-21",
+      "validFrom": "2007-05-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2423",
+      "versions": [
+        {
+          "id": "URED4511-original",
+          "shortCode": "URED4511",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-21",
+          "effectiveFrom": "2007-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3442"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2423",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

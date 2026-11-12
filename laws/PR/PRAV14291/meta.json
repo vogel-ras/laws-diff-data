@@ -1,0 +1,58 @@
+{
+  "root": "PRAV14291",
+  "path": "laws/PR/PRAV14291",
+  "members": [
+    {
+      "id": "PRAV14291",
+      "title": "Pravilnik o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortTitle": "Pravilnik o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortCode": "PRAV14291",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-3274",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2021-10-22",
+      "validFrom": "2021-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3274",
+      "versions": [
+        {
+          "id": "PRAV14291-original",
+          "shortCode": "PRAV14291",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3274",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14291-npb-PRAV14291",
+          "shortCode": "PRAV14291-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14291",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

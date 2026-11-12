@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4639",
+  "path": "laws/SK/SKLE4639",
+  "members": [
+    {
+      "id": "SKLE4639",
+      "title": "Sklep o ustanovitvi Javne agencije Republike Slovenije za energijo",
+      "shortTitle": "Sklep o ustanovitvi Javne agencije Republike Slovenije za energijo",
+      "shortCode": "SKLE4639",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-2876",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-06-10",
+      "validFrom": "2004-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2876",
+      "versions": [
+        {
+          "id": "SKLE4639-original",
+          "shortCode": "SKLE4639",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-10",
+          "effectiveFrom": "2004-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2876",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9796",
+      "title": "Sklep o spremembi Sklepa o ustanovitvi Javne agencije Republike Slovenije za energijo",
+      "shortTitle": "Sklep o spremembi Sklepa o ustanovitvi Javne agencije Republike Slovenije za energijo",
+      "shortCode": "SKLE9796",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2013-01-2572",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2572",
+      "versions": [
+        {
+          "id": "SKLE9796-original",
+          "shortCode": "SKLE9796",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4639"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2572",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

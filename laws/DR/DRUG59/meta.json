@@ -1,0 +1,160 @@
+{
+  "root": "DRUG59",
+  "path": "laws/DR/DRUG59",
+  "members": [
+    {
+      "id": "DRUG59",
+      "title": "Pravilnik o varnosti igrač",
+      "shortTitle": "Pravilnik o varnosti igrač",
+      "shortCode": "DRUG59",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2003-01-3047",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-06-27",
+      "validFrom": "2003-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3047",
+      "versions": [
+        {
+          "id": "DRUG59-original",
+          "shortCode": "DRUG59",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3047",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5464",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o varnosti igrač",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o varnosti igrač",
+      "shortCode": "PRAV5464",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1549",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-04-09",
+      "validFrom": "2004-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1549",
+      "versions": [
+        {
+          "id": "PRAV5464-original",
+          "shortCode": "PRAV5464",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-09",
+          "effectiveFrom": "2004-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG59"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1549",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8376",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti igrač",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti igrač",
+      "shortCode": "PRAV8376",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2566",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2007-05-31",
+      "validFrom": "2007-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2566",
+      "versions": [
+        {
+          "id": "PRAV8376-original",
+          "shortCode": "PRAV8376",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-31",
+          "effectiveFrom": "2007-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG59"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2566",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9937",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti igrač",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti igrač",
+      "shortCode": "PRAV9937",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0985",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-03-22",
+      "validFrom": "2010-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0985",
+      "versions": [
+        {
+          "id": "PRAV9937-original",
+          "shortCode": "PRAV9937",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-22",
+          "effectiveFrom": "2010-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG59"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0985",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

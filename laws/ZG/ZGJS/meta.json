@@ -1,0 +1,45 @@
+{
+  "root": "ZGJS",
+  "path": "laws/ZG/ZGJS",
+  "members": [
+    {
+      "id": "ZGJS",
+      "title": "Zakon o gospodarskih javnih službah",
+      "shortTitle": "Zakon o gospodarskih javnih službah",
+      "shortCode": "ZGJS",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska javna služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1350",
+      "gazette": "Uradni list RS 32/93  str. 1741",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-17",
+      "validFrom": "1993-06-17",
+      "validTo": null,
+      "latestPublishedAt": "1993-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1350",
+      "versions": [
+        {
+          "id": "ZGJS-original",
+          "shortCode": "ZGJS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/93  str. 1741",
+          "publishedAt": "1993-06-17",
+          "effectiveFrom": "1993-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1350",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

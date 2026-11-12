@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO44731",
+  "path": "ordinances/MP/MP_ODLO44731",
+  "members": [
+    {
+      "id": "MP_ODLO44731",
+      "title": "Odlok o sofinanciranju športa v Občini Miren - Kostanjevica (ODLO)",
+      "shortTitle": "Odlok o sofinanciranju športa v Občini Miren - Kostanjevica (ODLO)",
+      "shortCode": "MP_ODLO44731",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2020-01-1685",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1685",
+      "versions": [
+        {
+          "id": "MP_ODLO44731-original",
+          "shortCode": "MP_ODLO44731",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1685",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO45699",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o sofinanciranju športa v Občini Miren - Kostanjevica (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o sofinanciranju športa v Občini Miren - Kostanjevica (ODLO)",
+      "shortCode": "MP_ODLO45699",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Miren - Kostanjevica",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-1503",
+      "gazette": null,
+      "issuingBody": "Občina Miren - Kostanjevica",
+      "adoptedAt": "2021-05-07",
+      "validFrom": "2021-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2021-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1503",
+      "versions": [
+        {
+          "id": "MP_ODLO45699-original",
+          "shortCode": "MP_ODLO45699",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-05-07",
+          "effectiveFrom": "2021-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO44731"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1503",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

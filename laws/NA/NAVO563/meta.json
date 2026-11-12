@@ -1,0 +1,82 @@
+{
+  "root": "NAVO563",
+  "path": "laws/NA/NAVO563",
+  "members": [
+    {
+      "id": "NAVO563",
+      "title": "Navodilo o vsebini programov promocije vina in o načinu pridobitve podpore za promocijo vina",
+      "shortTitle": "Navodilo o vsebini programov promocije vina in o načinu pridobitve podpore za promocijo vina",
+      "shortCode": "NAVO563",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2002-01-0187",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2002-01-18",
+      "validFrom": "2002-01-18",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0187",
+      "versions": [
+        {
+          "id": "NAVO563-original",
+          "shortCode": "NAVO563",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-01-18",
+          "effectiveFrom": "2002-01-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0187",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4730",
+      "title": "Pravilnik o spremembah in dopolnitvah navodila o vsebini programov promocije vina in o načinu pridobitve podpore za promocijo vina",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah navodila o vsebini programov promocije vina in o načinu pridobitve podpore za promocijo vina",
+      "shortCode": "PRAV4730",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-1229",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-03-27",
+      "validFrom": "2003-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1229",
+      "versions": [
+        {
+          "id": "PRAV4730-original",
+          "shortCode": "PRAV4730",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-27",
+          "effectiveFrom": "2003-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO563"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1229",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

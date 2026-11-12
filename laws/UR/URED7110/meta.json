@@ -1,0 +1,97 @@
+{
+  "root": "URED7110",
+  "path": "laws/UR/URED7110",
+  "members": [
+    {
+      "id": "URED7110",
+      "title": "Uredba o koncesiji za rabo termalne vode za potrebe kopališč Thermane d. d. iz vrtin K-1/72, K-2/95 in V-7/67",
+      "shortTitle": "Uredba o koncesiji za rabo termalne vode za potrebe kopališč Thermane d. d. iz vrtin K-1/72, K-2/95 in V-7/67",
+      "shortCode": "URED7110",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3348",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-11-06",
+      "validFrom": "2015-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3348",
+      "versions": [
+        {
+          "id": "URED7110-original",
+          "shortCode": "URED7110",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3348",
+          "proposer": null
+        },
+        {
+          "id": "URED7110-npb-URED7110",
+          "shortCode": "URED7110-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7110",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8444",
+      "title": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode za potrebe kopališč Thermane d. d. iz vrtin K-1/72, K-2/95 in V-7/67",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode za potrebe kopališč Thermane d. d. iz vrtin K-1/72, K-2/95 in V-7/67",
+      "shortCode": "URED8444",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-0372",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-02-18",
+      "validFrom": "2022-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0372",
+      "versions": [
+        {
+          "id": "URED8444-original",
+          "shortCode": "URED8444",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-18",
+          "effectiveFrom": "2022-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7110"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0372",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

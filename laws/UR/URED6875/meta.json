@@ -1,0 +1,97 @@
+{
+  "root": "URED6875",
+  "path": "laws/UR/URED6875",
+  "members": [
+    {
+      "id": "URED6875",
+      "title": "Uredba o določitvi mejnih prehodov v Republiki Sloveniji",
+      "shortTitle": "Uredba o določitvi mejnih prehodov v Republiki Sloveniji",
+      "shortCode": "URED6875",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-0676",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-03-16",
+      "validFrom": "2015-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0676",
+      "versions": [
+        {
+          "id": "URED6875-original",
+          "shortCode": "URED6875",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-03-16",
+          "effectiveFrom": "2015-03-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0676",
+          "proposer": null
+        },
+        {
+          "id": "URED6875-npb-URED6875",
+          "shortCode": "URED6875-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-03-16",
+          "effectiveFrom": "2015-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6875",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8777",
+      "title": "Uredba o spremembah Uredbe o določitvi mejnih prehodov v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi mejnih prehodov v Republiki Sloveniji",
+      "shortCode": "URED8777",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-1614",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1614",
+      "versions": [
+        {
+          "id": "URED8777-original",
+          "shortCode": "URED8777",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6875"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1614",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

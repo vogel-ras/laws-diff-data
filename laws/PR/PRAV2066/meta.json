@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2066",
+  "path": "laws/PR/PRAV2066",
+  "members": [
+    {
+      "id": "PRAV2066",
+      "title": "Pravilnik o pogojih, ki jih morajo izpolnjevati vozila in vozniki vozil, s katerimi se vozijo skupine otrok",
+      "shortTitle": "Pravilnik o pogojih, ki jih morajo izpolnjevati vozila in vozniki vozil, s katerimi se vozijo skupine otrok",
+      "shortCode": "PRAV2066",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3701",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-09-24",
+      "validFrom": "1999-09-24",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3701",
+      "versions": [
+        {
+          "id": "PRAV2066-original",
+          "shortCode": "PRAV2066",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-24",
+          "effectiveFrom": "1999-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3701",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3001",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih, ki jih morajo izpolnjevati vozila in vozniki vozil, s katerimi se vozijo skupine otrok",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih, ki jih morajo izpolnjevati vozila in vozniki vozil, s katerimi se vozijo skupine otrok",
+      "shortCode": "PRAV3001",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2652",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-06-29",
+      "validFrom": "2000-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2652",
+      "versions": [
+        {
+          "id": "PRAV3001-original",
+          "shortCode": "PRAV3001",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-29",
+          "effectiveFrom": "2000-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2066"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2652",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

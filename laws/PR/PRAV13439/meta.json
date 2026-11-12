@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13439",
+  "path": "laws/PR/PRAV13439",
+  "members": [
+    {
+      "id": "PRAV13439",
+      "title": "Pravilnik o sistemskem nadzoru v zdravstvu",
+      "shortTitle": "Pravilnik o sistemskem nadzoru v zdravstvu",
+      "shortCode": "PRAV13439",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1924",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2018-06-08",
+      "validFrom": "2018-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1924",
+      "versions": [
+        {
+          "id": "PRAV13439-original",
+          "shortCode": "PRAV13439",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1924",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13439-npb-PRAV13439",
+          "shortCode": "PRAV13439-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13439",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14795",
+      "title": "Pravilnik o spremembah Pravilnika o sistemskem nadzoru v zdravstvu",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o sistemskem nadzoru v zdravstvu",
+      "shortCode": "PRAV14795",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2895",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2022-09-23",
+      "validFrom": "2022-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2895",
+      "versions": [
+        {
+          "id": "PRAV14795-original",
+          "shortCode": "PRAV14795",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-23",
+          "effectiveFrom": "2022-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13439"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2895",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

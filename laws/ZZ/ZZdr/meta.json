@@ -1,0 +1,239 @@
+{
+  "root": "ZZdr",
+  "path": "laws/ZZ/ZZdr",
+  "members": [
+    {
+      "id": "ZAKO5328",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravilih (ZZdr-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravilih (ZZdr-1A)",
+      "shortCode": "ZZdr-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1989",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-05-09",
+      "validFrom": "2008-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1989",
+      "versions": [
+        {
+          "id": "ZAKO5328-original",
+          "shortCode": "ZZdr-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-09",
+          "effectiveFrom": "2008-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdr-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1989",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdr",
+      "title": "Zakon o zdravilih",
+      "shortTitle": "Zakon o zdravilih",
+      "shortCode": "ZZdr",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo",
+        "nadzor zdravil",
+        "farmacevtska zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0413",
+      "gazette": "Uradni list RS 9/96  str. 661",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-16",
+      "validFrom": "1996-02-16",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0413",
+      "versions": [
+        {
+          "id": "ZZdr-original",
+          "shortCode": "ZZdr",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/96  str. 661",
+          "publishedAt": "1996-02-16",
+          "effectiveFrom": "1996-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0413",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdr-1",
+      "title": "Zakon o zdravilih",
+      "shortTitle": "Zakon o zdravilih",
+      "shortCode": "ZZdr-1",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo",
+        "nadzor zdravil",
+        "farmacevtska zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1266",
+      "gazette": "Uradni list RS 31/06  str. 3217",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-24",
+      "validFrom": "2006-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1266",
+      "versions": [
+        {
+          "id": "ZZdr-1-original",
+          "shortCode": "ZZdr-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/06  str. 3217",
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1266",
+          "proposer": null
+        },
+        {
+          "id": "ZZdr-1-amend-ZAKO5328",
+          "shortCode": "ZZdr-1A",
+          "label": "Sprememba ZZdr-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-05-09",
+          "effectiveFrom": "2008-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdr-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1989",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdr-2",
+      "title": "Zakon o zdravilih",
+      "shortTitle": "Zakon o zdravilih",
+      "shortCode": "ZZdr-2",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0539",
+      "gazette": "Uradni list RS 17/14  str. 1894",
+      "issuingBody": null,
+      "adoptedAt": "2014-03-07",
+      "validFrom": "2014-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0539",
+      "versions": [
+        {
+          "id": "ZZdr-2-original",
+          "shortCode": "ZZdr-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/14  str. 1894",
+          "publishedAt": "2014-03-07",
+          "effectiveFrom": "2014-03-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0539",
+          "proposer": null
+        },
+        {
+          "id": "ZZdr-2-amend-ZZdr-2A",
+          "shortCode": "ZZdr-2A",
+          "label": "Sprememba ZZdr-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 66/19  str. 7869",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdr-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2923",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZdr-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravilih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravilih",
+      "shortCode": "ZZdr-2A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2923",
+      "gazette": "Uradni list RS 66/19  str. 7869",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2923",
+      "versions": [
+        {
+          "id": "ZZdr-2A-original",
+          "shortCode": "ZZdr-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7869",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZdr-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2923",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

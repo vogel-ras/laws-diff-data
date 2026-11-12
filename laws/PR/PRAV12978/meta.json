@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12978",
+  "path": "laws/PR/PRAV12978",
+  "members": [
+    {
+      "id": "PRAV12978",
+      "title": "Pravilnik o pogojih in postopkih oprostitve trošarine za energetsko intenzivna podjetja",
+      "shortTitle": "Pravilnik o pogojih in postopkih oprostitve trošarine za energetsko intenzivna podjetja",
+      "shortCode": "PRAV12978",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-3571",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-30",
+      "validFrom": "2024-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3571",
+      "versions": [
+        {
+          "id": "PRAV12978-original",
+          "shortCode": "PRAV12978",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-10-30",
+          "effectiveFrom": "2024-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3571",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12978-npb-PRAV12978",
+          "shortCode": "PRAV12978-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-23",
+          "effectiveFrom": "2016-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12978",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15559",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in postopkih oprostitve trošarine za energetsko intenzivna podjetja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in postopkih oprostitve trošarine za energetsko intenzivna podjetja",
+      "shortCode": "PRAV15559",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2821",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-04",
+      "validFrom": "2024-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2821",
+      "versions": [
+        {
+          "id": "PRAV15559-original",
+          "shortCode": "PRAV15559",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-04",
+          "effectiveFrom": "2024-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12978"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2821",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

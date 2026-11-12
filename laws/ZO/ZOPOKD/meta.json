@@ -1,0 +1,166 @@
+{
+  "root": "ZOPOKD",
+  "path": "laws/ZO/ZOPOKD",
+  "members": [
+    {
+      "id": "ZOPOKD",
+      "title": "Zakon o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortTitle": "Zakon o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortCode": "ZOPOKD",
+      "kind": "zakon",
+      "keywords": [
+        "pravna oseba",
+        "kaznivo dejanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2791",
+      "gazette": "Uradni list RS 59/99  str. 7529",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-23",
+      "validFrom": "1999-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2791",
+      "versions": [
+        {
+          "id": "ZOPOKD-original",
+          "shortCode": "ZOPOKD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/99  str. 7529",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2791",
+          "proposer": null
+        },
+        {
+          "id": "ZOPOKD-amend-ZOPOKD-A",
+          "shortCode": "ZOPOKD-A",
+          "label": "Sprememba ZOPOKD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 50/04  str. 6706",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOPOKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2294",
+          "proposer": null
+        },
+        {
+          "id": "ZOPOKD-amend-ZOPOKD-C",
+          "shortCode": "ZOPOKD-C",
+          "label": "Sprememba ZOPOKD-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 57/12  str. 5950",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPOKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPOKD-A",
+      "title": "Zakon o spremembah zakona o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortTitle": "Zakon o spremembah zakona o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortCode": "ZOPOKD-A",
+      "kind": "zakon",
+      "keywords": [
+        "odgovornost",
+        "pravna oseba",
+        "kaznivo dejanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2294",
+      "gazette": "Uradni list RS 50/04  str. 6706",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-06",
+      "validFrom": "2004-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2294",
+      "versions": [
+        {
+          "id": "ZOPOKD-A-original",
+          "shortCode": "ZOPOKD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/04  str. 6706",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPOKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2294",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPOKD-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odgovornosti pravnih oseb za kazniva dejanja",
+      "shortCode": "ZOPOKD-C",
+      "kind": "zakon",
+      "keywords": [
+        "pravna oseba",
+        "odgovornost",
+        "kaznivo dejanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2402",
+      "gazette": "Uradni list RS 57/12  str. 5950",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2402",
+      "versions": [
+        {
+          "id": "ZOPOKD-C-original",
+          "shortCode": "ZOPOKD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5950",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPOKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2402",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

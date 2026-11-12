@@ -1,0 +1,136 @@
+{
+  "root": "PRAV10342",
+  "path": "laws/PR/PRAV10342",
+  "members": [
+    {
+      "id": "PRAV10342",
+      "title": "Pravilnik o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortTitle": "Pravilnik o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortCode": "PRAV10342",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5780",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-31",
+      "validFrom": "2010-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5780",
+      "versions": [
+        {
+          "id": "PRAV10342-original",
+          "shortCode": "PRAV10342",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-31",
+          "effectiveFrom": "2010-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5780",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10342-npb-PRAV10342",
+          "shortCode": "PRAV10342-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-31",
+          "effectiveFrom": "2010-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10342",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13885",
+      "title": "Pravilnik o spremembah Pravilnika o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortCode": "PRAV13885",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0109",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-01-24",
+      "validFrom": "2020-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0109",
+      "versions": [
+        {
+          "id": "PRAV13885-original",
+          "shortCode": "PRAV13885",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-01-24",
+          "effectiveFrom": "2020-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10342"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0109",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15122",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrščanju živil za posebne zdravstvene namene na listo",
+      "shortCode": "PRAV15122",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-3528",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-12-01",
+      "validFrom": "2023-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3528",
+      "versions": [
+        {
+          "id": "PRAV15122-original",
+          "shortCode": "PRAV15122",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-01",
+          "effectiveFrom": "2023-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10342"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3528",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

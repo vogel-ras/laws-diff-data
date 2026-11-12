@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6444",
+  "path": "laws/PR/PRAV6444",
+  "members": [
+    {
+      "id": "PRAV6444",
+      "title": "Pravilnik o obrazcih zahteve za oprostitev plačila socialno varstvene storitve",
+      "shortTitle": "Pravilnik o obrazcih zahteve za oprostitev plačila socialno varstvene storitve",
+      "shortCode": "PRAV6444",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2359",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-06-06",
+      "validFrom": "2005-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2359",
+      "versions": [
+        {
+          "id": "PRAV6444-original",
+          "shortCode": "PRAV6444",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-06",
+          "effectiveFrom": "2005-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2359",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7832",
+      "title": "Pravilnik o spremembah Pravilnika o obrazcih zahteve za oprostitev plačila socialno varstvene storitve",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o obrazcih zahteve za oprostitev plačila socialno varstvene storitve",
+      "shortCode": "PRAV7832",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-1288",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2007-03-23",
+      "validFrom": "2007-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1288",
+      "versions": [
+        {
+          "id": "PRAV7832-original",
+          "shortCode": "PRAV7832",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-23",
+          "effectiveFrom": "2007-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6444"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1288",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

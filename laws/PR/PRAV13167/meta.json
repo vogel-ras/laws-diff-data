@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13167",
+  "path": "laws/PR/PRAV13167",
+  "members": [
+    {
+      "id": "PRAV13167",
+      "title": "Pravilnik o licencah magistrov farmacije",
+      "shortTitle": "Pravilnik o licencah magistrov farmacije",
+      "shortCode": "PRAV13167",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1921",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2018-06-08",
+      "validFrom": "2018-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1921",
+      "versions": [
+        {
+          "id": "PRAV13167-original",
+          "shortCode": "PRAV13167",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1921",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13167-npb-PRAV13167",
+          "shortCode": "PRAV13167-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13167",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15880",
+      "title": "Pravilnik o spremembah Pravilnika o licencah magistrov farmacije",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o licencah magistrov farmacije",
+      "shortCode": "PRAV15880",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-3112",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2025-11-14",
+      "validFrom": "2025-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3112",
+      "versions": [
+        {
+          "id": "PRAV15880-original",
+          "shortCode": "PRAV15880",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-14",
+          "effectiveFrom": "2025-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13167"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3112",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

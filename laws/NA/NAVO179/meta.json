@@ -1,0 +1,82 @@
+{
+  "root": "NAVO179",
+  "path": "laws/NA/NAVO179",
+  "members": [
+    {
+      "id": "NAVO179",
+      "title": "Navodilo o postopku za uveljavljanje pravice do nadomestila preživnine",
+      "shortTitle": "Navodilo o postopku za uveljavljanje pravice do nadomestila preživnine",
+      "shortCode": "NAVO179",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-3785",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-10-01",
+      "validFrom": "1999-10-01",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3785",
+      "versions": [
+        {
+          "id": "NAVO179-original",
+          "shortCode": "NAVO179",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-01",
+          "effectiveFrom": "1999-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3785",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO933",
+      "title": "Navodilo o spremembah Navodila o postopku za uveljavljanje pravice do nadomestila preživnine",
+      "shortTitle": "Navodilo o spremembah Navodila o postopku za uveljavljanje pravice do nadomestila preživnine",
+      "shortCode": "NAVO933",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2008-01-3666",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-25",
+      "validFrom": "2008-08-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3666",
+      "versions": [
+        {
+          "id": "NAVO933-original",
+          "shortCode": "NAVO933",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-25",
+          "effectiveFrom": "2008-08-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO179"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3666",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

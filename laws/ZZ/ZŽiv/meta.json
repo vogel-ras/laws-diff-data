@@ -1,0 +1,103 @@
+{
+  "root": "ZŽiv",
+  "path": "laws/ZZ/ZŽiv",
+  "members": [
+    {
+      "id": "Z_iv",
+      "title": "Zakon o živinoreji",
+      "shortTitle": "Zakon o živinoreji",
+      "shortCode": "ZŽiv",
+      "kind": "zakon",
+      "keywords": [
+        "živinoreja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0716",
+      "gazette": "Uradni list RS 18/2002  str. 1325",
+      "issuingBody": null,
+      "adoptedAt": "2002-02-28",
+      "validFrom": "2002-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0716",
+      "versions": [
+        {
+          "id": "Z_iv-original",
+          "shortCode": "ZŽiv",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/2002  str. 1325",
+          "publishedAt": "2002-02-28",
+          "effectiveFrom": "2002-02-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0716",
+          "proposer": null
+        },
+        {
+          "id": "Z_iv-amend-Z_iv-A",
+          "shortCode": "ZŽiv-A",
+          "label": "Sprememba Z_iv-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 45/15  str. 4883",
+          "publishedAt": "2015-06-24",
+          "effectiveFrom": "2015-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_iv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1853",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "Z_iv-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o živinoreji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o živinoreji",
+      "shortCode": "ZŽiv-A",
+      "kind": "zakon",
+      "keywords": [
+        "živinoreja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1853",
+      "gazette": "Uradni list RS 45/15  str. 4883",
+      "issuingBody": null,
+      "adoptedAt": "2015-06-24",
+      "validFrom": "2015-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1853",
+      "versions": [
+        {
+          "id": "Z_iv-A-original",
+          "shortCode": "ZŽiv-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/15  str. 4883",
+          "publishedAt": "2015-06-24",
+          "effectiveFrom": "2015-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_iv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1853",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10509",
+  "path": "laws/PR/PRAV10509",
+  "members": [
+    {
+      "id": "PRAV10509",
+      "title": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2011–2020)",
+      "shortTitle": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2011–2020)",
+      "shortCode": "PRAV10509",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0166",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2012-01-23",
+      "validFrom": "2012-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2012-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0166",
+      "versions": [
+        {
+          "id": "PRAV10509-original",
+          "shortCode": "PRAV10509",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-01-23",
+          "effectiveFrom": "2012-01-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0166",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10509-npb-PRAV10509",
+          "shortCode": "PRAV10509-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-01-23",
+          "effectiveFrom": "2012-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10509",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

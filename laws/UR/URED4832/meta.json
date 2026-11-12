@@ -1,0 +1,97 @@
+{
+  "root": "URED4832",
+  "path": "laws/UR/URED4832",
+  "members": [
+    {
+      "id": "URED4832",
+      "title": "Uredba o sežiganju odpadkov",
+      "shortTitle": "Uredba o sežiganju odpadkov",
+      "shortCode": "URED4832",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2966",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2966",
+      "versions": [
+        {
+          "id": "URED4832-original",
+          "shortCode": "URED4832",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2966",
+          "proposer": null
+        },
+        {
+          "id": "URED4832-npb-URED4832",
+          "shortCode": "URED4832-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4832",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5120",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sežiganju odpadkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sežiganju odpadkov",
+      "shortCode": "URED5120",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1989",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-06-01",
+      "validFrom": "2009-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1989",
+      "versions": [
+        {
+          "id": "URED5120-original",
+          "shortCode": "URED5120",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4832"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1989",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

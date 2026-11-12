@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2010",
+  "path": "laws/SK/SKLE2010",
+  "members": [
+    {
+      "id": "SKLE2010",
+      "title": "Sklep o organizaciji in delovnem področju Centra Vlade Republike Slovenije za informatiko",
+      "shortTitle": "Sklep o organizaciji in delovnem področju Centra Vlade Republike Slovenije za informatiko",
+      "shortCode": "SKLE2010",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-0849",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-23",
+      "validFrom": "2001-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0849",
+      "versions": [
+        {
+          "id": "SKLE2010-original",
+          "shortCode": "SKLE2010",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-23",
+          "effectiveFrom": "2001-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0849",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5256",
+      "title": "Sklep o spremembi Sklepa o organizaciji in delovnem področju Centra Vlade Republike Slovenije za informatiko",
+      "shortTitle": "Sklep o spremembi Sklepa o organizaciji in delovnem področju Centra Vlade Republike Slovenije za informatiko",
+      "shortCode": "SKLE5256",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-5618",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-12-10",
+      "validFrom": "2004-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5618",
+      "versions": [
+        {
+          "id": "SKLE5256-original",
+          "shortCode": "SKLE5256",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-10",
+          "effectiveFrom": "2004-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5618",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

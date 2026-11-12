@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8761",
+  "path": "laws/PR/PRAV8761",
+  "members": [
+    {
+      "id": "PRAV10339",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o oglaševanju zdravil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o oglaševanju zdravil",
+      "shortCode": "PRAV10339",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5474",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-24",
+      "validFrom": "2010-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5474",
+      "versions": [
+        {
+          "id": "PRAV10339-original",
+          "shortCode": "PRAV10339",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-24",
+          "effectiveFrom": "2010-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8761"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5474",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8761",
+      "title": "Pravilnik o oglaševanju zdravil",
+      "shortTitle": "Pravilnik o oglaševanju zdravil",
+      "shortCode": "PRAV8761",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4487",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2008-11-07",
+      "validFrom": "2008-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4487",
+      "versions": [
+        {
+          "id": "PRAV8761-original",
+          "shortCode": "PRAV8761",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-07",
+          "effectiveFrom": "2008-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4487",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8761-npb-PRAV8761",
+          "shortCode": "PRAV8761-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-11-07",
+          "effectiveFrom": "2008-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8761",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

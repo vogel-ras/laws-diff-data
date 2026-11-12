@@ -1,0 +1,82 @@
+{
+  "root": "URED3435",
+  "path": "laws/UR/URED3435",
+  "members": [
+    {
+      "id": "URED3435",
+      "title": "Uredba o ravnanju s snovmi, ki povzročajo tanjšanje ozonskega plašča",
+      "shortTitle": "Uredba o ravnanju s snovmi, ki povzročajo tanjšanje ozonskega plašča",
+      "shortCode": "URED3435",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4346",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-09-17",
+      "validFrom": "2004-09-17",
+      "validTo": null,
+      "latestPublishedAt": "2004-09-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4346",
+      "versions": [
+        {
+          "id": "URED3435-original",
+          "shortCode": "URED3435",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-09-17",
+          "effectiveFrom": "2004-09-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4346",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4470",
+      "title": "Uredba o spremembah Uredbe o ravnanju s snovmi, ki povzročajo tanjšanje ozonskega plašča",
+      "shortTitle": "Uredba o spremembah Uredbe o ravnanju s snovmi, ki povzročajo tanjšanje ozonskega plašča",
+      "shortCode": "URED4470",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2111",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-05-04",
+      "validFrom": "2007-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2111",
+      "versions": [
+        {
+          "id": "URED4470-original",
+          "shortCode": "URED4470",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-04",
+          "effectiveFrom": "2007-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3435"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2111",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

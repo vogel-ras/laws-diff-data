@@ -1,0 +1,97 @@
+{
+  "root": "URED7196",
+  "path": "laws/UR/URED7196",
+  "members": [
+    {
+      "id": "URED7196",
+      "title": "Uredba o koncesiji za rabo vode za proizvodnjo pijač v Drogi Kolinski d. d. iz vrtine G-4/70",
+      "shortTitle": "Uredba o koncesiji za rabo vode za proizvodnjo pijač v Drogi Kolinski d. d. iz vrtine G-4/70",
+      "shortCode": "URED7196",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-4106",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-24",
+      "validFrom": "2015-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4106",
+      "versions": [
+        {
+          "id": "URED7196-original",
+          "shortCode": "URED7196",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4106",
+          "proposer": null
+        },
+        {
+          "id": "URED7196-npb-URED7196",
+          "shortCode": "URED7196-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7196",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7795",
+      "title": "Uredba o spremembi Uredbe o koncesiji za rabo vode za proizvodnjo pijač v Drogi Kolinski d. d. iz vrtine G-4/70",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesiji za rabo vode za proizvodnjo pijač v Drogi Kolinski d. d. iz vrtine G-4/70",
+      "shortCode": "URED7795",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-0589",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-03-08",
+      "validFrom": "2019-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2019-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0589",
+      "versions": [
+        {
+          "id": "URED7795-original",
+          "shortCode": "URED7795",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-03-08",
+          "effectiveFrom": "2019-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7196"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0589",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "DP2017",
+  "path": "laws/DP/DP2017",
+  "members": [
+    {
+      "id": "DRPR17",
+      "title": "Proračun Republike Slovenije za leto 2017 (DP2017)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2017 (DP2017)",
+      "shortCode": "DP2017",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2015-01-3771",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-12-11",
+      "validFrom": "2015-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3771",
+      "versions": [
+        {
+          "id": "DRPR17-original",
+          "shortCode": "DP2017",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3771",
+          "proposer": null
+        },
+        {
+          "id": "DRPR17-amend-RDRP23",
+          "shortCode": "DP2017-A",
+          "label": "Sprememba DP2017-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-15",
+          "effectiveFrom": "2016-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3384",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "RDRP23",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2017 (DP2017-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2017 (DP2017-A)",
+      "shortCode": "DP2017-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2016-01-3384",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-12-15",
+      "validFrom": "2016-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3384",
+      "versions": [
+        {
+          "id": "RDRP23-original",
+          "shortCode": "DP2017-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-15",
+          "effectiveFrom": "2016-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3384",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

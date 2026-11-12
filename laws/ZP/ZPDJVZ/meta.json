@@ -1,0 +1,105 @@
+{
+  "root": "ZPDJVZ",
+  "path": "laws/ZP/ZPDJVZ",
+  "members": [
+    {
+      "id": "ZPDJVZ",
+      "title": "Zakon o plačah delavcev v javnih vzgojnoizobraževalnih zavodih",
+      "shortTitle": "Zakon o plačah delavcev v javnih vzgojnoizobraževalnih zavodih",
+      "shortCode": "ZPDJVZ",
+      "kind": "zakon",
+      "keywords": [
+        "plača",
+        "izobraževalni zavod"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0805",
+      "gazette": "Uradni list RS 16/92  str. 1268",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-31",
+      "validFrom": "1992-03-31",
+      "validTo": null,
+      "latestPublishedAt": "1993-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0805",
+      "versions": [
+        {
+          "id": "ZPDJVZ-original",
+          "shortCode": "ZPDJVZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/92  str. 1268",
+          "publishedAt": "1992-03-31",
+          "effectiveFrom": "1992-03-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0805",
+          "proposer": null
+        },
+        {
+          "id": "ZPDJVZ-amend-ZPDJVZ-A",
+          "shortCode": "ZPDJVZ-A",
+          "label": "Sprememba ZPDJVZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/93  str. 2372",
+          "publishedAt": "1993-07-22",
+          "effectiveFrom": "1993-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDJVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1697",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDJVZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o plačah delavcev v javnih vzgojnoizobraževalnih zavodih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o plačah delavcev v javnih vzgojnoizobraževalnih zavodih",
+      "shortCode": "ZPDJVZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "plača",
+        "izobraževalni zavod"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1697",
+      "gazette": "Uradni list RS 42/93  str. 2372",
+      "issuingBody": null,
+      "adoptedAt": "1993-07-22",
+      "validFrom": "1993-07-22",
+      "validTo": null,
+      "latestPublishedAt": "1993-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1697",
+      "versions": [
+        {
+          "id": "ZPDJVZ-A-original",
+          "shortCode": "ZPDJVZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/93  str. 2372",
+          "publishedAt": "1993-07-22",
+          "effectiveFrom": "1993-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDJVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1697",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

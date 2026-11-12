@@ -1,0 +1,82 @@
+{
+  "root": "URED829",
+  "path": "laws/UR/URED829",
+  "members": [
+    {
+      "id": "URED829",
+      "title": "Uredba o načinu, rokih in pogojih razdelitve kontingentov za uvoz blaga",
+      "shortTitle": "Uredba o načinu, rokih in pogojih razdelitve kontingentov za uvoz blaga",
+      "shortCode": "URED829",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-0728",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-03-26",
+      "validFrom": "1993-03-26",
+      "validTo": null,
+      "latestPublishedAt": "1993-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0728",
+      "versions": [
+        {
+          "id": "URED829-original",
+          "shortCode": "URED829",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-03-26",
+          "effectiveFrom": "1993-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0728",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED837",
+      "title": "Uredba o spremembi uredbe o načinu, rokih in pogojih razdelitve kontingentov za uvoz blaga",
+      "shortTitle": "Uredba o spremembi uredbe o načinu, rokih in pogojih razdelitve kontingentov za uvoz blaga",
+      "shortCode": "URED837",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-3210",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-12-01",
+      "validFrom": "1995-12-01",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3210",
+      "versions": [
+        {
+          "id": "URED837-original",
+          "shortCode": "URED837",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-12-01",
+          "effectiveFrom": "1995-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED829"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3210",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

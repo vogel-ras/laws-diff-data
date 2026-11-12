@@ -1,0 +1,97 @@
+{
+  "root": "URED245",
+  "path": "laws/UR/URED245",
+  "members": [
+    {
+      "id": "URED245",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz postaj za preskrbo motornih vozil z gorivi, objektov za vzdrževanje in popravila motornih vozil ter pralnic za motorna vozila",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz postaj za preskrbo motornih vozil z gorivi, objektov za vzdrževanje in popravila motornih vozil ter pralnic za motorna vozila",
+      "shortCode": "URED245",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-0431",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-02-18",
+      "validFrom": "1999-02-18",
+      "validTo": null,
+      "latestPublishedAt": "1999-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0431",
+      "versions": [
+        {
+          "id": "URED245-original",
+          "shortCode": "URED245",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-02-18",
+          "effectiveFrom": "1999-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0431",
+          "proposer": null
+        },
+        {
+          "id": "URED245-npb-URED245",
+          "shortCode": "URED245-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-02-18",
+          "effectiveFrom": "1999-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED245",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3332",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadnih vod iz postaj za preskrbo motornih vozil z gorivi, objektov za vzdrževanje in popravila motornih vozil ter pralnic za motorna vozila",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadnih vod iz postaj za preskrbo motornih vozil z gorivi, objektov za vzdrževanje in popravila motornih vozil ter pralnic za motorna vozila",
+      "shortCode": "URED3332",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1669",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-20",
+      "validFrom": "2004-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1669",
+      "versions": [
+        {
+          "id": "URED3332-original",
+          "shortCode": "URED3332",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED245"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1669",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

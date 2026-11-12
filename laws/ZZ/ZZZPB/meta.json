@@ -1,0 +1,406 @@
+{
+  "root": "ZZZPB",
+  "path": "laws/ZZ/ZZZPB",
+  "members": [
+    {
+      "id": "ZAKO1239",
+      "title": "Zakon o zaposlovanju in zavarovanju za primer brezposelnosti (ZZZPB)",
+      "shortTitle": "Zakon o zaposlovanju in zavarovanju za primer brezposelnosti (ZZZPB)",
+      "shortCode": "ZZZPB",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1991-03-0223",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-02-08",
+      "validFrom": "1991-02-08",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-0223",
+      "versions": [
+        {
+          "id": "ZAKO1239-original",
+          "shortCode": "ZZZPB",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-02-08",
+          "effectiveFrom": "1991-02-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-0223",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-A",
+          "shortCode": "ZZZPB-A",
+          "label": "Sprememba ZZZPB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 12/92  str. 799",
+          "publishedAt": "1992-03-13",
+          "effectiveFrom": "1992-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0672",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-B",
+          "shortCode": "ZZZPB-B",
+          "label": "Sprememba ZZZPB-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 71/93  str. 3692",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2575",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-C",
+          "shortCode": "ZZZPB-C",
+          "label": "Sprememba ZZZPB-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 38/94  str. 2446",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1522",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-D",
+          "shortCode": "ZZZPB-D",
+          "label": "Sprememba ZZZPB-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 69/98  str. 5225",
+          "publishedAt": "1998-10-09",
+          "effectiveFrom": "1998-10-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3370",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-E",
+          "shortCode": "ZZZPB-E",
+          "label": "Sprememba ZZZPB-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 67/2002  str. 7579",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3229",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO1239-amend-ZZZPB-F",
+          "shortCode": "ZZZPB-F",
+          "label": "Sprememba ZZZPB-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 79/06  str. 8528",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3456",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-A",
+      "kind": "zakon",
+      "keywords": [
+        "brezposelna oseba",
+        "zavarovanje za primer brezposelnosti",
+        "socialna varnost",
+        "socialnovarstvena dajatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0672",
+      "gazette": "Uradni list RS 12/92  str. 799",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-13",
+      "validFrom": "1992-03-13",
+      "validTo": null,
+      "latestPublishedAt": "1992-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0672",
+      "versions": [
+        {
+          "id": "ZZZPB-A-original",
+          "shortCode": "ZZZPB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/92  str. 799",
+          "publishedAt": "1992-03-13",
+          "effectiveFrom": "1992-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0672",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-B",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovanje za primer brezposelnosti",
+        "brezposelna oseba",
+        "socialna varnost",
+        "socialnovarstvena dajatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2575",
+      "gazette": "Uradni list RS 71/93  str. 3692",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-30",
+      "validFrom": "1993-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2575",
+      "versions": [
+        {
+          "id": "ZZZPB-B-original",
+          "shortCode": "ZZZPB-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/93  str. 3692",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2575",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-C",
+      "kind": "zakon",
+      "keywords": [
+        "brezposelna oseba",
+        "zavarovanje za primer brezposelnosti",
+        "socialna varnost",
+        "socialnovarstvena dajatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1522",
+      "gazette": "Uradni list RS 38/94  str. 2446",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1522",
+      "versions": [
+        {
+          "id": "ZZZPB-C-original",
+          "shortCode": "ZZZPB-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/94  str. 2446",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1522",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-D",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovanje za primer brezposelnosti",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3370",
+      "gazette": "Uradni list RS 69/98  str. 5225",
+      "issuingBody": null,
+      "adoptedAt": "1998-10-09",
+      "validFrom": "1998-10-09",
+      "validTo": null,
+      "latestPublishedAt": "1998-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3370",
+      "versions": [
+        {
+          "id": "ZZZPB-D-original",
+          "shortCode": "ZZZPB-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/98  str. 5225",
+          "publishedAt": "1998-10-09",
+          "effectiveFrom": "1998-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3370",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-E",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovanje za primer brezposelnosti",
+        "brezposelnost",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3229",
+      "gazette": "Uradni list RS 67/2002  str. 7579",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3229",
+      "versions": [
+        {
+          "id": "ZZZPB-E-original",
+          "shortCode": "ZZZPB-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7579",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3229",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPB-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in zavarovanju za primer brezposelnosti",
+      "shortCode": "ZZZPB-F",
+      "kind": "zakon",
+      "keywords": [
+        "brezposelna oseba",
+        "zavarovanje za primer brezposelnosti",
+        "socialna varnost",
+        "socialnovarstvena dajatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3456",
+      "gazette": "Uradni list RS 79/06  str. 8528",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-27",
+      "validFrom": "2006-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3456",
+      "versions": [
+        {
+          "id": "ZZZPB-F-original",
+          "shortCode": "ZZZPB-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/06  str. 8528",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO1239"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3456",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

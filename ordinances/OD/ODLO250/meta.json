@@ -1,0 +1,97 @@
+{
+  "root": "ODLO250",
+  "path": "ordinances/OD/ODLO250",
+  "members": [
+    {
+      "id": "ODLO1189",
+      "title": "Odlok o spremembi odloka o razglasitvi samostana na Sartorijevi 9 v Kopru za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi samostana na Sartorijevi 9 v Kopru za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1189",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-2700",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-06-27",
+      "validFrom": "2002-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2700",
+      "versions": [
+        {
+          "id": "ODLO1189-original",
+          "shortCode": "ODLO1189",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-27",
+          "effectiveFrom": "2002-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO250"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2700",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO250",
+      "title": "Odlok o razglasitvi samostana na Sartorijevi 9 v Kopru za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi samostana na Sartorijevi 9 v Kopru za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO250",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3829",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-17",
+      "validFrom": "2026-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3829",
+      "versions": [
+        {
+          "id": "ODLO250-original",
+          "shortCode": "ODLO250",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-17",
+          "effectiveFrom": "2026-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3829",
+          "proposer": null
+        },
+        {
+          "id": "ODLO250-npb-ODLO250",
+          "shortCode": "ODLO250-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO250",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE11800",
+  "path": "laws/SK/SKLE11800",
+  "members": [
+    {
+      "id": "SKLE11800",
+      "title": "Sklep o osnovnih zahtevah kakovosti za medicinske pripomočke iz obveznega zdravstvenega zavarovanja",
+      "shortTitle": "Sklep o osnovnih zahtevah kakovosti za medicinske pripomočke iz obveznega zdravstvenega zavarovanja",
+      "shortCode": "SKLE11800",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2020-01-0111",
+      "gazette": null,
+      "issuingBody": "Zavod za zdravstveno zavarovanje Slovenije",
+      "adoptedAt": "2020-01-24",
+      "validFrom": "2020-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0111",
+      "versions": [
+        {
+          "id": "SKLE11800-original",
+          "shortCode": "SKLE11800",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-01-24",
+          "effectiveFrom": "2020-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0111",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13456",
+      "title": "Sklep o spremembi Sklepa o osnovnih zahtevah kakovosti za medicinske pripomočke iz obveznega zdravstvenega zavarovanja",
+      "shortTitle": "Sklep o spremembi Sklepa o osnovnih zahtevah kakovosti za medicinske pripomočke iz obveznega zdravstvenega zavarovanja",
+      "shortCode": "SKLE13456",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-4107",
+      "gazette": null,
+      "issuingBody": "Zavod za zdravstveno zavarovanje Slovenije",
+      "adoptedAt": "2023-12-27",
+      "validFrom": "2023-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4107",
+      "versions": [
+        {
+          "id": "SKLE13456-original",
+          "shortCode": "SKLE13456",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE11800"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4107",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

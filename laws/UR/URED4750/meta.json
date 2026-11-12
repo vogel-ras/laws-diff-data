@@ -1,0 +1,82 @@
+{
+  "root": "URED4750",
+  "path": "laws/UR/URED4750",
+  "members": [
+    {
+      "id": "URED4750",
+      "title": "Uredba o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2008-2010 za leto 2009",
+      "shortTitle": "Uredba o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2008-2010 za leto 2009",
+      "shortCode": "URED4750",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-4847",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-11-28",
+      "validFrom": "2008-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4847",
+      "versions": [
+        {
+          "id": "URED4750-original",
+          "shortCode": "URED4750",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-28",
+          "effectiveFrom": "2008-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4847",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5208",
+      "title": "Uredba o spremembi Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2008-2010 za leto 2009",
+      "shortTitle": "Uredba o spremembi Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2008-2010 za leto 2009",
+      "shortCode": "URED5208",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1262",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-04-10",
+      "validFrom": "2009-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1262",
+      "versions": [
+        {
+          "id": "URED5208-original",
+          "shortCode": "URED5208",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4750"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1262",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

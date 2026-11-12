@@ -1,0 +1,82 @@
+{
+  "root": "URED4351",
+  "path": "laws/UR/URED4351",
+  "members": [
+    {
+      "id": "URED4351",
+      "title": "Uredba o integraciji tujcev",
+      "shortTitle": "Uredba o integraciji tujcev",
+      "shortCode": "URED4351",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2821",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-06-30",
+      "validFrom": "2008-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2821",
+      "versions": [
+        {
+          "id": "URED4351-original",
+          "shortCode": "URED4351",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2821",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5310",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o integraciji tujcev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o integraciji tujcev",
+      "shortCode": "URED5310",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-4660",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-11-02",
+      "validFrom": "2010-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4660",
+      "versions": [
+        {
+          "id": "URED5310-original",
+          "shortCode": "URED5310",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-02",
+          "effectiveFrom": "2010-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4660",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

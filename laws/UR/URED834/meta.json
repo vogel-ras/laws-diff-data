@@ -1,0 +1,82 @@
+{
+  "root": "URED834",
+  "path": "laws/UR/URED834",
+  "members": [
+    {
+      "id": "URED834",
+      "title": "Uredba o razvrstitvi blaga v oblike izvoza in uvoza",
+      "shortTitle": "Uredba o razvrstitvi blaga v oblike izvoza in uvoza",
+      "shortCode": "URED834",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-1686",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-07-21",
+      "validFrom": "1993-07-21",
+      "validTo": null,
+      "latestPublishedAt": "1993-07-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1686",
+      "versions": [
+        {
+          "id": "URED834-original",
+          "shortCode": "URED834",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-07-21",
+          "effectiveFrom": "1993-07-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1686",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED835",
+      "title": "Uredba o spremembi uredbe o razvrstitvi blaga v oblike izvoza in uvoza",
+      "shortTitle": "Uredba o spremembi uredbe o razvrstitvi blaga v oblike izvoza in uvoza",
+      "shortCode": "URED835",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-1794",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-07-31",
+      "validFrom": "1993-07-31",
+      "validTo": null,
+      "latestPublishedAt": "1993-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1794",
+      "versions": [
+        {
+          "id": "URED835-original",
+          "shortCode": "URED835",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-07-31",
+          "effectiveFrom": "1993-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED834"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1794",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

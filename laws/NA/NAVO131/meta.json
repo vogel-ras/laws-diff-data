@@ -1,0 +1,82 @@
+{
+  "root": "NAVO131",
+  "path": "laws/NA/NAVO131",
+  "members": [
+    {
+      "id": "NAVO131",
+      "title": "Navodilo za izvajanje sklepa o načinu in pogojih poročanja o kreditnih poslih med rezidenti in nerezidenti",
+      "shortTitle": "Navodilo za izvajanje sklepa o načinu in pogojih poročanja o kreditnih poslih med rezidenti in nerezidenti",
+      "shortCode": "NAVO131",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-2416",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2416",
+      "versions": [
+        {
+          "id": "NAVO131-original",
+          "shortCode": "NAVO131",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2416",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE261",
+      "title": "Sklep o spremembi navodila za izvajanje sklepa o načinu in pogojih poročanja o kreditnih poslih med rezidenti in nerezidenti",
+      "shortTitle": "Sklep o spremembi navodila za izvajanje sklepa o načinu in pogojih poročanja o kreditnih poslih med rezidenti in nerezidenti",
+      "shortCode": "SKLE261",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-2930",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "1999-07-30",
+      "validFrom": "1999-07-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2930",
+      "versions": [
+        {
+          "id": "SKLE261-original",
+          "shortCode": "SKLE261",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-30",
+          "effectiveFrom": "1999-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO131"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2930",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

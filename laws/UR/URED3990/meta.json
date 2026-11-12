@@ -1,0 +1,58 @@
+{
+  "root": "URED3990",
+  "path": "laws/UR/URED3990",
+  "members": [
+    {
+      "id": "URED3990",
+      "title": "Uredba o požarni taksi",
+      "shortTitle": "Uredba o požarni taksi",
+      "shortCode": "URED3990",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-1397",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-03-31",
+      "validFrom": "2006-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1397",
+      "versions": [
+        {
+          "id": "URED3990-original",
+          "shortCode": "URED3990",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-31",
+          "effectiveFrom": "2006-03-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1397",
+          "proposer": null
+        },
+        {
+          "id": "URED3990-npb-URED3990",
+          "shortCode": "URED3990-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-03-31",
+          "effectiveFrom": "2006-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3990",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED342",
+  "path": "laws/UR/URED342",
+  "members": [
+    {
+      "id": "URED342",
+      "title": "Uredba o načinu določanja osebne identifikacijske številke",
+      "shortTitle": "Uredba o načinu določanja osebne identifikacijske številke",
+      "shortCode": "URED342",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-0345",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-02-10",
+      "validFrom": "1999-02-10",
+      "validTo": null,
+      "latestPublishedAt": "1999-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0345",
+      "versions": [
+        {
+          "id": "URED342-original",
+          "shortCode": "URED342",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-02-10",
+          "effectiveFrom": "1999-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0345",
+          "proposer": null
+        },
+        {
+          "id": "URED342-npb-URED342",
+          "shortCode": "URED342-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-02-10",
+          "effectiveFrom": "1999-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED342",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

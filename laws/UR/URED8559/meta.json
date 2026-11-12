@@ -1,0 +1,82 @@
+{
+  "root": "URED8559",
+  "path": "laws/UR/URED8559",
+  "members": [
+    {
+      "id": "URED8559",
+      "title": "Uredba o registru pravnih aktov lokalnih skupnosti",
+      "shortTitle": "Uredba o registru pravnih aktov lokalnih skupnosti",
+      "shortCode": "URED8559",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2593",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-07-29",
+      "validFrom": "2022-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2593",
+      "versions": [
+        {
+          "id": "URED8559-original",
+          "shortCode": "URED8559",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-29",
+          "effectiveFrom": "2022-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2593",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8968",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o registru pravnih aktov lokalnih skupnosti",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o registru pravnih aktov lokalnih skupnosti",
+      "shortCode": "URED8968",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0109",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-01-19",
+      "validFrom": "2024-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0109",
+      "versions": [
+        {
+          "id": "URED8968-original",
+          "shortCode": "URED8968",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-01-19",
+          "effectiveFrom": "2024-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8559"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0109",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

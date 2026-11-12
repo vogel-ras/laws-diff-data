@@ -1,0 +1,82 @@
+{
+  "root": "URED3578",
+  "path": "laws/UR/URED3578",
+  "members": [
+    {
+      "id": "URED3578",
+      "title": "Uredba o določitvi davčnih uradov Davčne uprave Republike Slovenije",
+      "shortTitle": "Uredba o določitvi davčnih uradov Davčne uprave Republike Slovenije",
+      "shortCode": "URED3578",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-6208",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-12-30",
+      "validFrom": "2004-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-6208",
+      "versions": [
+        {
+          "id": "URED3578-original",
+          "shortCode": "URED3578",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-30",
+          "effectiveFrom": "2004-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-6208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4068",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o določitvi davčnih uradov Davčne uprave Republike Slovenije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o določitvi davčnih uradov Davčne uprave Republike Slovenije",
+      "shortCode": "URED4068",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-5415",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-29",
+      "validFrom": "2005-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5415",
+      "versions": [
+        {
+          "id": "URED4068-original",
+          "shortCode": "URED4068",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-29",
+          "effectiveFrom": "2005-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3578"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5415",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

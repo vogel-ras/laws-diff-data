@@ -1,0 +1,136 @@
+{
+  "root": "URED1025",
+  "path": "laws/UR/URED1025",
+  "members": [
+    {
+      "id": "URED1025",
+      "title": "Uredba o načinu izvedbe postopkov revizije",
+      "shortTitle": "Uredba o načinu izvedbe postopkov revizije",
+      "shortCode": "URED1025",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-0389",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-02-18",
+      "validFrom": "1993-02-18",
+      "validTo": null,
+      "latestPublishedAt": "1993-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0389",
+      "versions": [
+        {
+          "id": "URED1025-original",
+          "shortCode": "URED1025",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-02-18",
+          "effectiveFrom": "1993-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0389",
+          "proposer": null
+        },
+        {
+          "id": "URED1025-npb-URED1025",
+          "shortCode": "URED1025-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1993-02-18",
+          "effectiveFrom": "1993-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1025",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1026",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o načinu izvedbe postopkov revizije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o načinu izvedbe postopkov revizije",
+      "shortCode": "URED1026",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-1714",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-07-15",
+      "validFrom": "1994-07-15",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1714",
+      "versions": [
+        {
+          "id": "URED1026-original",
+          "shortCode": "URED1026",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-15",
+          "effectiveFrom": "1994-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1025"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1714",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1027",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o načinu izvedbe postopkov revizije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o načinu izvedbe postopkov revizije",
+      "shortCode": "URED1027",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-2259",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-11-12",
+      "validFrom": "1993-11-12",
+      "validTo": null,
+      "latestPublishedAt": "1993-11-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2259",
+      "versions": [
+        {
+          "id": "URED1027-original",
+          "shortCode": "URED1027",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-11-12",
+          "effectiveFrom": "1993-11-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1025"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2259",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

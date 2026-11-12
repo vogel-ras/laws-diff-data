@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12991",
+  "path": "laws/PR/PRAV12991",
+  "members": [
+    {
+      "id": "PRAV12991",
+      "title": "Pravilnik o spodbujanju vlaganj v avdiovizualno produkcijo",
+      "shortTitle": "Pravilnik o spodbujanju vlaganj v avdiovizualno produkcijo",
+      "shortCode": "PRAV12991",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0348",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2017-02-15",
+      "validFrom": "2017-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0348",
+      "versions": [
+        {
+          "id": "PRAV12991-original",
+          "shortCode": "PRAV12991",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-02-15",
+          "effectiveFrom": "2017-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0348",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12991-npb-PRAV12991",
+          "shortCode": "PRAV12991-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-02-15",
+          "effectiveFrom": "2017-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12991",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14204",
+      "title": "Pravilnik o spremembah Pravilnika o spodbujanju vlaganj v avdiovizualno produkcijo",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o spodbujanju vlaganj v avdiovizualno produkcijo",
+      "shortCode": "PRAV14204",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-4143",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2021-12-24",
+      "validFrom": "2021-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4143",
+      "versions": [
+        {
+          "id": "PRAV14204-original",
+          "shortCode": "PRAV14204",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-24",
+          "effectiveFrom": "2021-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12991"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4143",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

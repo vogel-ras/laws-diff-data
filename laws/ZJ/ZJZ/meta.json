@@ -1,0 +1,341 @@
+{
+  "root": "ZJZ",
+  "path": "laws/ZJ/ZJZ",
+  "members": [
+    {
+      "id": "ZJZ",
+      "title": "Zakon o javnih zbiranjih",
+      "shortTitle": "Zakon o javnih zbiranjih",
+      "shortCode": "ZJZ",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2834",
+      "gazette": "Uradni list RS 59/2002  str. 6089",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2834",
+      "versions": [
+        {
+          "id": "ZJZ-original",
+          "shortCode": "ZJZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6089",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2834",
+          "proposer": null
+        },
+        {
+          "id": "ZJZ-amend-ZJZ-A",
+          "shortCode": "ZJZ-A",
+          "label": "Sprememba ZJZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 60/05  str. 5933",
+          "publishedAt": "2005-06-24",
+          "effectiveFrom": "2005-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2622",
+          "proposer": null
+        },
+        {
+          "id": "ZJZ-amend-ZJZ-B",
+          "shortCode": "ZJZ-B",
+          "label": "Sprememba ZJZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 90/05  str. 9234",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3851",
+          "proposer": null
+        },
+        {
+          "id": "ZJZ-amend-ZJZ-C",
+          "shortCode": "ZJZ-C",
+          "label": "Sprememba ZJZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 85/09  str. 11353",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3790",
+          "proposer": null
+        },
+        {
+          "id": "ZJZ-amend-ZJZ-D",
+          "shortCode": "ZJZ-D",
+          "label": "Sprememba ZJZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 59/10  str. 8901",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3277",
+          "proposer": null
+        },
+        {
+          "id": "ZJZ-amend-ZJZ-E",
+          "shortCode": "ZJZ-E",
+          "label": "Sprememba ZJZ-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 39/11  str. 5253",
+          "publishedAt": "2011-05-25",
+          "effectiveFrom": "2011-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1903",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o javnih zbiranjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o javnih zbiranjih",
+      "shortCode": "ZJZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2622",
+      "gazette": "Uradni list RS 60/05  str. 5933",
+      "issuingBody": null,
+      "adoptedAt": "2005-06-24",
+      "validFrom": "2005-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2622",
+      "versions": [
+        {
+          "id": "ZJZ-A-original",
+          "shortCode": "ZJZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/05  str. 5933",
+          "publishedAt": "2005-06-24",
+          "effectiveFrom": "2005-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJZ-B",
+      "title": "Zakon o dopolnitvah zakona o javnih zbiranjih",
+      "shortTitle": "Zakon o dopolnitvah zakona o javnih zbiranjih",
+      "shortCode": "ZJZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3851",
+      "gazette": "Uradni list RS 90/05  str. 9234",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-10",
+      "validFrom": "2005-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3851",
+      "versions": [
+        {
+          "id": "ZJZ-B-original",
+          "shortCode": "ZJZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/05  str. 9234",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJZ-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnih zbiranjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnih zbiranjih",
+      "shortCode": "ZJZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3790",
+      "gazette": "Uradni list RS 85/09  str. 11353",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3790",
+      "versions": [
+        {
+          "id": "ZJZ-C-original",
+          "shortCode": "ZJZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/09  str. 11353",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3790",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJZ-D",
+      "title": "Zakon o dopolnitvi Zakona o javnih zbiranjih",
+      "shortTitle": "Zakon o dopolnitvi Zakona o javnih zbiranjih",
+      "shortCode": "ZJZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3277",
+      "gazette": "Uradni list RS 59/10  str. 8901",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3277",
+      "versions": [
+        {
+          "id": "ZJZ-D-original",
+          "shortCode": "ZJZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/10  str. 8901",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3277",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJZ-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnih zbiranjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnih zbiranjih",
+      "shortCode": "ZJZ-E",
+      "kind": "zakon",
+      "keywords": [
+        "javni red",
+        "svoboda zbiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1903",
+      "gazette": "Uradni list RS 39/11  str. 5253",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-25",
+      "validFrom": "2011-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1903",
+      "versions": [
+        {
+          "id": "ZJZ-E-original",
+          "shortCode": "ZJZ-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/11  str. 5253",
+          "publishedAt": "2011-05-25",
+          "effectiveFrom": "2011-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1903",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

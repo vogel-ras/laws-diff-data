@@ -1,0 +1,82 @@
+{
+  "root": "NAVO943",
+  "path": "laws/NA/NAVO943",
+  "members": [
+    {
+      "id": "NAVO1036",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za elektronsko posredovanje poročil o kapitalu in kapitalskih zahtevah",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za elektronsko posredovanje poročil o kapitalu in kapitalskih zahtevah",
+      "shortCode": "NAVO1036",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2011-01-4615",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2011-12-23",
+      "validFrom": "2011-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4615",
+      "versions": [
+        {
+          "id": "NAVO1036-original",
+          "shortCode": "NAVO1036",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-23",
+          "effectiveFrom": "2011-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO943"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4615",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO943",
+      "title": "Navodilo za elektronsko posredovanje poročil o kapitalu in kapitalskih zahtevah",
+      "shortTitle": "Navodilo za elektronsko posredovanje poročil o kapitalu in kapitalskih zahtevah",
+      "shortCode": "NAVO943",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2008-01-4147",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-23",
+      "validFrom": "2011-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4147",
+      "versions": [
+        {
+          "id": "NAVO943-original",
+          "shortCode": "NAVO943",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-23",
+          "effectiveFrom": "2011-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4147",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

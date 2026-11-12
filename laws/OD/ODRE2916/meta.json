@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2916",
+  "path": "laws/OD/ODRE2916",
+  "members": [
+    {
+      "id": "ODRE2916",
+      "title": "Odredba o izvajanju sistematičnega spremljanja zdravstvenega stanja živali, programov izkoreninjenja bolezni živali ter cepljenj živali v letu 2025",
+      "shortTitle": "Odredba o izvajanju sistematičnega spremljanja zdravstvenega stanja živali, programov izkoreninjenja bolezni živali ter cepljenj živali v letu 2025",
+      "shortCode": "ODRE2916",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2024-01-3447",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2024-12-20",
+      "validFrom": "2024-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3447",
+      "versions": [
+        {
+          "id": "ODRE2916-original",
+          "shortCode": "ODRE2916",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3447",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2916-npb-ODRE2916",
+          "shortCode": "ODRE2916-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2916",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2941",
+      "title": "Odredba o spremembi Odredbe o izvajanju sistematičnega spremljanja zdravstvenega stanja živali, programov izkoreninjenja bolezni živali ter cepljenj živali v letu 2025",
+      "shortTitle": "Odredba o spremembi Odredbe o izvajanju sistematičnega spremljanja zdravstvenega stanja živali, programov izkoreninjenja bolezni živali ter cepljenj živali v letu 2025",
+      "shortCode": "ODRE2941",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2025-01-1912",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2025-06-27",
+      "validFrom": "2025-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1912",
+      "versions": [
+        {
+          "id": "ODRE2941-original",
+          "shortCode": "ODRE2941",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-27",
+          "effectiveFrom": "2025-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2916"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1912",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

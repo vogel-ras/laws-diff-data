@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5875",
+  "path": "laws/PR/PRAV5875",
+  "members": [
+    {
+      "id": "PRAV5875",
+      "title": "Pravilnik o diplomatskem izpitu",
+      "shortTitle": "Pravilnik o diplomatskem izpitu",
+      "shortCode": "PRAV5875",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1541",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zunanje zadeve",
+      "adoptedAt": "2004-04-08",
+      "validFrom": "2004-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1541",
+      "versions": [
+        {
+          "id": "PRAV5875-original",
+          "shortCode": "PRAV5875",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-08",
+          "effectiveFrom": "2004-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7077",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatskem izpitu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatskem izpitu",
+      "shortCode": "PRAV7077",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3345",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-08-09",
+      "validFrom": "2005-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3345",
+      "versions": [
+        {
+          "id": "PRAV7077-original",
+          "shortCode": "PRAV7077",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-09",
+          "effectiveFrom": "2005-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5875"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3345",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

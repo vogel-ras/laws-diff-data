@@ -1,0 +1,221 @@
+{
+  "root": "ZNPosr",
+  "path": "laws/ZN/ZNPosr",
+  "members": [
+    {
+      "id": "ZNPosr",
+      "title": "Zakon o nepremičninskem posredovanju",
+      "shortTitle": "Zakon o nepremičninskem posredovanju",
+      "shortCode": "ZNPosr",
+      "kind": "zakon",
+      "keywords": [
+        "nepremičnine",
+        "nepremičninska družba",
+        "nepremičninski trg"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2010",
+      "gazette": "Uradni list RS 42/2003  str. 4793",
+      "issuingBody": null,
+      "adoptedAt": "2003-05-09",
+      "validFrom": "2003-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2010",
+      "versions": [
+        {
+          "id": "ZNPosr-original",
+          "shortCode": "ZNPosr",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2003  str. 4793",
+          "publishedAt": "2003-05-09",
+          "effectiveFrom": "2003-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2010",
+          "proposer": null
+        },
+        {
+          "id": "ZNPosr-amend-ZNPosr-A",
+          "shortCode": "ZNPosr-A",
+          "label": "Sprememba ZNPosr-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/06  str. 5056",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2025",
+          "proposer": null
+        },
+        {
+          "id": "ZNPosr-amend-ZNPosr-B",
+          "shortCode": "ZNPosr-B",
+          "label": "Sprememba ZNPosr-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 49/11  str. 6701",
+          "publishedAt": "2011-06-24",
+          "effectiveFrom": "2011-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2354",
+          "proposer": null
+        },
+        {
+          "id": "ZNPosr-amend-ZNPosr-C",
+          "shortCode": "ZNPosr-C",
+          "label": "Sprememba ZNPosr-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 47/19  str. 5887",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2285",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPosr-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o nepremičninskem posredovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o nepremičninskem posredovanju",
+      "shortCode": "ZNPosr-A",
+      "kind": "zakon",
+      "keywords": [
+        "nepremičnine",
+        "posrednik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2025",
+      "gazette": "Uradni list RS 47/06  str. 5056",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-09",
+      "validFrom": "2006-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2025",
+      "versions": [
+        {
+          "id": "ZNPosr-A-original",
+          "shortCode": "ZNPosr-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/06  str. 5056",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2025",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPosr-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nepremičninskem posredovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nepremičninskem posredovanju",
+      "shortCode": "ZNPosr-B",
+      "kind": "zakon",
+      "keywords": [
+        "posrednik",
+        "nepremičnine"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-2354",
+      "gazette": "Uradni list RS 49/11  str. 6701",
+      "issuingBody": null,
+      "adoptedAt": "2011-06-24",
+      "validFrom": "2011-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2354",
+      "versions": [
+        {
+          "id": "ZNPosr-B-original",
+          "shortCode": "ZNPosr-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/11  str. 6701",
+          "publishedAt": "2011-06-24",
+          "effectiveFrom": "2011-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2354",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPosr-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nepremičninskem posredovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nepremičninskem posredovanju",
+      "shortCode": "ZNPosr-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2285",
+      "gazette": "Uradni list RS 47/19  str. 5887",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-26",
+      "validFrom": "2019-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2285",
+      "versions": [
+        {
+          "id": "ZNPosr-C-original",
+          "shortCode": "ZNPosr-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/19  str. 5887",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPosr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2285",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

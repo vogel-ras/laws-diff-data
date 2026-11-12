@@ -1,0 +1,82 @@
+{
+  "root": "URED5004",
+  "path": "laws/UR/URED5004",
+  "members": [
+    {
+      "id": "URED5004",
+      "title": "Uredba o plačilih za kmetijsko okoljske ukrepe iz Programa razvoja podeželja za Republiko Slovenijo 2004-2006 v letih 2009-2010",
+      "shortTitle": "Uredba o plačilih za kmetijsko okoljske ukrepe iz Programa razvoja podeželja za Republiko Slovenijo 2004-2006 v letih 2009-2010",
+      "shortCode": "URED5004",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0340",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-13",
+      "validFrom": "2009-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0340",
+      "versions": [
+        {
+          "id": "URED5004-original",
+          "shortCode": "URED5004",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-13",
+          "effectiveFrom": "2009-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0340",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5162",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za kmetijsko okoljske ukrepe iz Programa razvoja podeželja za Republiko Slovenijo 2004–2006 v letih 2009–2010",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za kmetijsko okoljske ukrepe iz Programa razvoja podeželja za Republiko Slovenijo 2004–2006 v letih 2009–2010",
+      "shortCode": "URED5162",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-0639",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-02-26",
+      "validFrom": "2010-02-26",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0639",
+      "versions": [
+        {
+          "id": "URED5162-original",
+          "shortCode": "URED5162",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-02-26",
+          "effectiveFrom": "2010-02-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5004"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0639",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

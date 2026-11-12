@@ -1,0 +1,82 @@
+{
+  "root": "MP_PRAV6527",
+  "path": "laws/MP/MP_PRAV6527",
+  "members": [
+    {
+      "id": "MP_PRAV6527",
+      "title": "Pravilnik o postopku oddaje prostora v Hiši dobre volje Deskle v občasno uporabo (PRAV)",
+      "shortTitle": "Pravilnik o postopku oddaje prostora v Hiši dobre volje Deskle v občasno uporabo (PRAV)",
+      "shortCode": "MP_PRAV6527",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2020-01-0254",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0254",
+      "versions": [
+        {
+          "id": "MP_PRAV6527-original",
+          "shortCode": "MP_PRAV6527",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0254",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV7063",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku oddaje prostora v Hiši dobre volje Deskle v občasno uporabo (PRAV)",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku oddaje prostora v Hiši dobre volje Deskle v občasno uporabo (PRAV)",
+      "shortCode": "MP_PRAV7063",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Kanal",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2023-01-1543",
+      "gazette": null,
+      "issuingBody": "Občina Kanal",
+      "adoptedAt": "2023-04-28",
+      "validFrom": "2023-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1543",
+      "versions": [
+        {
+          "id": "MP_PRAV7063-original",
+          "shortCode": "MP_PRAV7063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6527"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1543",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

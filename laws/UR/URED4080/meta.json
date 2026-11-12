@@ -1,0 +1,82 @@
+{
+  "root": "URED4080",
+  "path": "laws/UR/URED4080",
+  "members": [
+    {
+      "id": "URED4080",
+      "title": "Uredba o začasnih ukrepih za zavarovanje urejanja prostora na podlagi Programa priprave državnega lokacijskega načrta za avtocesto na odseku Koseze-Kozarje",
+      "shortTitle": "Uredba o začasnih ukrepih za zavarovanje urejanja prostora na podlagi Programa priprave državnega lokacijskega načrta za avtocesto na odseku Koseze-Kozarje",
+      "shortCode": "URED4080",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-0465",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-02-03",
+      "validFrom": "2006-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0465",
+      "versions": [
+        {
+          "id": "URED4080-original",
+          "shortCode": "URED4080",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-03",
+          "effectiveFrom": "2006-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0465",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4545",
+      "title": "Uredba o spremembi Uredbe o začasnih ukrepih za zavarovanje urejanja prostora na podlagi Programa priprave državnega lokacijskega načrta za avtocesto na odseku Koseze-Kozarje",
+      "shortTitle": "Uredba o spremembi Uredbe o začasnih ukrepih za zavarovanje urejanja prostora na podlagi Programa priprave državnega lokacijskega načrta za avtocesto na odseku Koseze-Kozarje",
+      "shortCode": "URED4545",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2721",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-06-08",
+      "validFrom": "2007-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2721",
+      "versions": [
+        {
+          "id": "URED4545-original",
+          "shortCode": "URED4545",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4080"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2721",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

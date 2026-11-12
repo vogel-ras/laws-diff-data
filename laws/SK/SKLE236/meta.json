@@ -1,0 +1,82 @@
+{
+  "root": "SKLE236",
+  "path": "laws/SK/SKLE236",
+  "members": [
+    {
+      "id": "SKLE236",
+      "title": "Sklep o opravljanju menjalniških poslov",
+      "shortTitle": "Sklep o opravljanju menjalniških poslov",
+      "shortCode": "SKLE236",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-2408",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2408",
+      "versions": [
+        {
+          "id": "SKLE236-original",
+          "shortCode": "SKLE236",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2408",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9166",
+      "title": "Sklep o spremembah Sklepa o opravljanju menjalniških poslov",
+      "shortTitle": "Sklep o spremembah Sklepa o opravljanju menjalniških poslov",
+      "shortCode": "SKLE9166",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-4270",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-09",
+      "validFrom": "2011-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4270",
+      "versions": [
+        {
+          "id": "SKLE9166-original",
+          "shortCode": "SKLE9166",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-09",
+          "effectiveFrom": "2011-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE236"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4270",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

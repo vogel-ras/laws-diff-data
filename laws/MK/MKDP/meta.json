@@ -1,0 +1,101 @@
+{
+  "root": "MKDP",
+  "path": "laws/MK/MKDP",
+  "members": [
+    {
+      "id": "MKDP",
+      "title": "Zakon o ratifikaciji Konvencije o delu v pomorstvu, 2006 (Konvencija MOD št. 186)",
+      "shortTitle": "Zakon o ratifikaciji Konvencije o delu v pomorstvu, 2006 (Konvencija MOD št. 186)",
+      "shortCode": "MKDP",
+      "kind": "zakon",
+      "keywords": [
+        "pomorska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-02-0009",
+      "gazette": "Uradni list RS MP 2/16  str. 46",
+      "issuingBody": null,
+      "adoptedAt": "2016-02-12",
+      "validFrom": "2016-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-02-0009",
+      "versions": [
+        {
+          "id": "MKDP-original",
+          "shortCode": "MKDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 2/16  str. 46",
+          "publishedAt": "2016-02-12",
+          "effectiveFrom": "2016-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-02-0009",
+          "proposer": null
+        },
+        {
+          "id": "MKDP-amend-MKDP-A",
+          "shortCode": "MKDP-A",
+          "label": "Sprememba MKDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 3/20  str. 19",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-02-0010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MKDP-A",
+      "title": "Zakon o ratifikaciji Sprememb iz leta 2014 Konvencije o delu v pomorstvu, 2006, in Sprememb iz leta 2016 Konvencije o delu v pomorstvu, 2006",
+      "shortTitle": "Zakon o ratifikaciji Sprememb iz leta 2014 Konvencije o delu v pomorstvu, 2006, in Sprememb iz leta 2016 Konvencije o delu v pomorstvu, 2006",
+      "shortCode": "MKDP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-02-0010",
+      "gazette": "Uradni list RS MP 3/20  str. 19",
+      "issuingBody": null,
+      "adoptedAt": "2020-07-22",
+      "validFrom": "2020-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-02-0010",
+      "versions": [
+        {
+          "id": "MKDP-A-original",
+          "shortCode": "MKDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 3/20  str. 19",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-02-0010",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

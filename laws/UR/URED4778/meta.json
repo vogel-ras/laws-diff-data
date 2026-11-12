@@ -1,0 +1,82 @@
+{
+  "root": "URED4778",
+  "path": "laws/UR/URED4778",
+  "members": [
+    {
+      "id": "URED4778",
+      "title": "Uredba o delovni uspešnosti iz naslova prodaje blaga in storitev na trgu",
+      "shortTitle": "Uredba o delovni uspešnosti iz naslova prodaje blaga in storitev na trgu",
+      "shortCode": "URED4778",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3018",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3018",
+      "versions": [
+        {
+          "id": "URED4778-original",
+          "shortCode": "URED4778",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3018",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6209",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o delovni uspešnosti iz naslova prodaje blaga in storitev na trgu",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o delovni uspešnosti iz naslova prodaje blaga in storitev na trgu",
+      "shortCode": "URED6209",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1728",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-05-31",
+      "validFrom": "2012-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1728",
+      "versions": [
+        {
+          "id": "URED6209-original",
+          "shortCode": "URED6209",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-05-31",
+          "effectiveFrom": "2012-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4778"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1728",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

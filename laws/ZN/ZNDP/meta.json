@@ -1,0 +1,45 @@
+{
+  "root": "ZNDP",
+  "path": "laws/ZN/ZNDP",
+  "members": [
+    {
+      "id": "ZNDP",
+      "title": "Zakon o nadzoru državnih pomoči",
+      "shortTitle": "Zakon o nadzoru državnih pomoči",
+      "shortCode": "ZNDP",
+      "kind": "zakon",
+      "keywords": [
+        "nadzor državnih pomoči"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0001",
+      "gazette": "Uradni list RS 1/2000  str. 1",
+      "issuingBody": null,
+      "adoptedAt": "2000-01-07",
+      "validFrom": "2000-01-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0001",
+      "versions": [
+        {
+          "id": "ZNDP-original",
+          "shortCode": "ZNDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/2000  str. 1",
+          "publishedAt": "2000-01-07",
+          "effectiveFrom": "2000-01-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0001",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

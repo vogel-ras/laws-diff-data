@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7075",
+  "path": "laws/SK/SKLE7075",
+  "members": [
+    {
+      "id": "SKLE7075",
+      "title": "Sklep o skrbnosti članov uprave in članov nadzornega sveta bank in hranilnic",
+      "shortTitle": "Sklep o skrbnosti članov uprave in članov nadzornega sveta bank in hranilnic",
+      "shortCode": "SKLE7075",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-1403",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2007-03-29",
+      "validFrom": "2007-03-29",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1403",
+      "versions": [
+        {
+          "id": "SKLE7075-original",
+          "shortCode": "SKLE7075",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-29",
+          "effectiveFrom": "2007-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8153",
+      "title": "Sklep o spremembah Sklepa o skrbnosti članov uprave in članov nadzornega sveta bank in hranilnic",
+      "shortTitle": "Sklep o spremembah Sklepa o skrbnosti članov uprave in članov nadzornega sveta bank in hranilnic",
+      "shortCode": "SKLE8153",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-3137",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2009-09-07",
+      "validFrom": "2009-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3137",
+      "versions": [
+        {
+          "id": "SKLE8153-original",
+          "shortCode": "SKLE8153",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-07",
+          "effectiveFrom": "2009-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7075"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3137",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

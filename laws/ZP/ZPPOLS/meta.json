@@ -1,0 +1,111 @@
+{
+  "root": "ZPPOLS",
+  "path": "laws/ZP/ZPPOLS",
+  "members": [
+    {
+      "id": "ZPPOLS",
+      "title": "Zakon o privatizaciji pravnih oseb v lasti Sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo",
+      "shortTitle": "Zakon o privatizaciji pravnih oseb v lasti Sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo",
+      "shortCode": "ZPPOLS",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "pravna oseba",
+        "javna lastnina",
+        "agencija",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2547",
+      "gazette": "Uradni list RS 71/94  str. 3982",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-18",
+      "validFrom": "1994-11-18",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2547",
+      "versions": [
+        {
+          "id": "ZPPOLS-original",
+          "shortCode": "ZPPOLS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/94  str. 3982",
+          "publishedAt": "1994-11-18",
+          "effectiveFrom": "1994-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2547",
+          "proposer": null
+        },
+        {
+          "id": "ZPPOLS-amend-ZPPOLS-A",
+          "shortCode": "ZPPOLS-A",
+          "label": "Sprememba ZPPOLS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/95  str. 4613",
+          "publishedAt": "1995-10-06",
+          "effectiveFrom": "1995-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPOLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2654",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPOLS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o privatizaciji pravnih oseb v lasti sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o privatizaciji pravnih oseb v lasti sklada Republike Slovenije za razvoj in obveznostih Agencije Republike Slovenije za prestrukturiranje in privatizacijo",
+      "shortCode": "ZPPOLS-A",
+      "kind": "zakon",
+      "keywords": [
+        "pravna oseba",
+        "javna lastnina",
+        "privatizacija",
+        "agencija",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2654",
+      "gazette": "Uradni list RS 57/95  str. 4613",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-06",
+      "validFrom": "1995-10-06",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2654",
+      "versions": [
+        {
+          "id": "ZPPOLS-A-original",
+          "shortCode": "ZPPOLS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/95  str. 4613",
+          "publishedAt": "1995-10-06",
+          "effectiveFrom": "1995-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPOLS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2654",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

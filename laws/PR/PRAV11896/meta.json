@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11896",
+  "path": "laws/PR/PRAV11896",
+  "members": [
+    {
+      "id": "PRAV11896",
+      "title": "Pravilnik o shemah kakovosti kmetijskih pridelkov in živil",
+      "shortTitle": "Pravilnik o shemah kakovosti kmetijskih pridelkov in živil",
+      "shortCode": "PRAV11896",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-0908",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2015-04-03",
+      "validFrom": "2015-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0908",
+      "versions": [
+        {
+          "id": "PRAV11896-original",
+          "shortCode": "PRAV11896",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-04-03",
+          "effectiveFrom": "2015-04-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0908",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11896-npb-PRAV11896",
+          "shortCode": "PRAV11896-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-04-03",
+          "effectiveFrom": "2015-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11896",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12482",
+      "title": "Pravilnik o spremembah Pravilnika o shemah kakovosti kmetijskih pridelkov in živil",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o shemah kakovosti kmetijskih pridelkov in živil",
+      "shortCode": "PRAV12482",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1814",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-06-19",
+      "validFrom": "2015-06-19",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1814",
+      "versions": [
+        {
+          "id": "PRAV12482-original",
+          "shortCode": "PRAV12482",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-19",
+          "effectiveFrom": "2015-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11896"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1814",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

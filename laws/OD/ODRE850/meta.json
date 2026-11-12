@@ -1,0 +1,82 @@
+{
+  "root": "ODRE850",
+  "path": "laws/OD/ODRE850",
+  "members": [
+    {
+      "id": "ODRE850",
+      "title": "Odredba o enotni metodologiji računalniškega vodenja knjige gostov s kopijo ali brez nje",
+      "shortTitle": "Odredba o enotni metodologiji računalniškega vodenja knjige gostov s kopijo ali brez nje",
+      "shortCode": "ODRE850",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1926",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-08-30",
+      "validFrom": "1994-08-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1926",
+      "versions": [
+        {
+          "id": "ODRE850-original",
+          "shortCode": "ODRE850",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-08-30",
+          "effectiveFrom": "1994-08-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE851",
+      "title": "Odredba o spremembah in dopolnitvah odredbe o enotni metodologiji računalniškega vodenja knjige gostov s kopijo ali brez nje",
+      "shortTitle": "Odredba o spremembah in dopolnitvah odredbe o enotni metodologiji računalniškega vodenja knjige gostov s kopijo ali brez nje",
+      "shortCode": "ODRE851",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1996-01-0771",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-03-15",
+      "validFrom": "1996-03-15",
+      "validTo": null,
+      "latestPublishedAt": "1996-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0771",
+      "versions": [
+        {
+          "id": "ODRE851-original",
+          "shortCode": "ODRE851",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-03-15",
+          "effectiveFrom": "1996-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE850"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0771",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

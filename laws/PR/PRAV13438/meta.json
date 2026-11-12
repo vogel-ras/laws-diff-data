@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13438",
+  "path": "laws/PR/PRAV13438",
+  "members": [
+    {
+      "id": "PRAV13438",
+      "title": "Pravilnik o upravnem nadzoru v zdravstvu",
+      "shortTitle": "Pravilnik o upravnem nadzoru v zdravstvu",
+      "shortCode": "PRAV13438",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1923",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2018-06-08",
+      "validFrom": "2018-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1923",
+      "versions": [
+        {
+          "id": "PRAV13438-original",
+          "shortCode": "PRAV13438",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1923",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13438-npb-PRAV13438",
+          "shortCode": "PRAV13438-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13438",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

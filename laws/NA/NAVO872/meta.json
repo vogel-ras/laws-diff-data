@@ -1,0 +1,82 @@
+{
+  "root": "NAVO872",
+  "path": "laws/NA/NAVO872",
+  "members": [
+    {
+      "id": "NAVO872",
+      "title": "Navodilo za izračun kazalnikov poslovanja bank in hranilnic",
+      "shortTitle": "Navodilo za izračun kazalnikov poslovanja bank in hranilnic",
+      "shortCode": "NAVO872",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2007-01-1390",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2007-03-29",
+      "validFrom": "2007-03-29",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1390",
+      "versions": [
+        {
+          "id": "NAVO872-original",
+          "shortCode": "NAVO872",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-29",
+          "effectiveFrom": "2007-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1390",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO965",
+      "title": "Navodilo o spremembah Navodila za izračun kazalnikov poslovanja bank in hranilnic",
+      "shortTitle": "Navodilo o spremembah Navodila za izračun kazalnikov poslovanja bank in hranilnic",
+      "shortCode": "NAVO965",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2009-01-0816",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2009-03-20",
+      "validFrom": "2009-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0816",
+      "versions": [
+        {
+          "id": "NAVO965-original",
+          "shortCode": "NAVO965",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-20",
+          "effectiveFrom": "2009-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO872"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0816",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

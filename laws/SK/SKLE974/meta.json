@@ -1,0 +1,82 @@
+{
+  "root": "SKLE974",
+  "path": "laws/SK/SKLE974",
+  "members": [
+    {
+      "id": "SKLE974",
+      "title": "Sklep o opravljanju poslov z vrednostnimi papirji",
+      "shortTitle": "Sklep o opravljanju poslov z vrednostnimi papirji",
+      "shortCode": "SKLE974",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1997-01-1369",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1997-04-25",
+      "validFrom": "1997-04-25",
+      "validTo": null,
+      "latestPublishedAt": "1997-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1369",
+      "versions": [
+        {
+          "id": "SKLE974-original",
+          "shortCode": "SKLE974",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-04-25",
+          "effectiveFrom": "1997-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1369",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE975",
+      "title": "Sklep o spremembah sklepa o opravljanju poslov z vrednostnimi papirji",
+      "shortTitle": "Sklep o spremembah sklepa o opravljanju poslov z vrednostnimi papirji",
+      "shortCode": "SKLE975",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1997-01-2348",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1997-07-17",
+      "validFrom": "1997-07-17",
+      "validTo": null,
+      "latestPublishedAt": "1997-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2348",
+      "versions": [
+        {
+          "id": "SKLE975-original",
+          "shortCode": "SKLE975",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-07-17",
+          "effectiveFrom": "1997-07-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE974"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2348",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

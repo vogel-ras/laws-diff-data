@@ -1,0 +1,109 @@
+{
+  "root": "ZPRSTB",
+  "path": "laws/ZP/ZPRSTB",
+  "members": [
+    {
+      "id": "ZPRSTB",
+      "title": "Zakon o poroštvu Republike Slovenije za najetje posojil za izgradnjo plinskih blokov moči 2 X 114 MW v Termoelektrarni Brestanica",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za najetje posojil za izgradnjo plinskih blokov moči 2 X 114 MW v Termoelektrarni Brestanica",
+      "shortCode": "ZPRSTB",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "posojilo",
+        "elektrarna",
+        "oskrba z električno energijo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3267",
+      "gazette": "Uradni list RS 68/97  str. 5341",
+      "issuingBody": null,
+      "adoptedAt": "1997-11-07",
+      "validFrom": "1997-11-07",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3267",
+      "versions": [
+        {
+          "id": "ZPRSTB-original",
+          "shortCode": "ZPRSTB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/97  str. 5341",
+          "publishedAt": "1997-11-07",
+          "effectiveFrom": "1997-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3267",
+          "proposer": null
+        },
+        {
+          "id": "ZPRSTB-amend-ZPRSTB-A",
+          "shortCode": "ZPRSTB-A",
+          "label": "Sprememba ZPRSTB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 91/98  str. 9051",
+          "publishedAt": "1998-12-30",
+          "effectiveFrom": "1998-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPRSTB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4742",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPRSTB-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za najetje posojil za izgradnjo plinskih blokov moči 2 x 114 MW v termoelektrarni Brestanica",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za najetje posojil za izgradnjo plinskih blokov moči 2 x 114 MW v termoelektrarni Brestanica",
+      "shortCode": "ZPRSTB-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "posojilo",
+        "elektrarna",
+        "plinska naprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4742",
+      "gazette": "Uradni list RS 91/98  str. 9051",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-30",
+      "validFrom": "1998-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4742",
+      "versions": [
+        {
+          "id": "ZPRSTB-A-original",
+          "shortCode": "ZPRSTB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/98  str. 9051",
+          "publishedAt": "1998-12-30",
+          "effectiveFrom": "1998-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPRSTB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4742",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

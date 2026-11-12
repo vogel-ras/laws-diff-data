@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13200",
+  "path": "laws/PR/PRAV13200",
+  "members": [
+    {
+      "id": "PRAV13200",
+      "title": "Pravilnik o ovojnici za vročanje po pošti v pravdnem postopku",
+      "shortTitle": "Pravilnik o ovojnici za vročanje po pošti v pravdnem postopku",
+      "shortCode": "PRAV13200",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-2336",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2017-09-11",
+      "validFrom": "2017-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2336",
+      "versions": [
+        {
+          "id": "PRAV13200-original",
+          "shortCode": "PRAV13200",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-11",
+          "effectiveFrom": "2017-09-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2336",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13200-npb-PRAV13200",
+          "shortCode": "PRAV13200-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-09-11",
+          "effectiveFrom": "2017-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13200",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

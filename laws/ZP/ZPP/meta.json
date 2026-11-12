@@ -1,0 +1,277 @@
+{
+  "root": "ZPP",
+  "path": "laws/ZP/ZPP",
+  "members": [
+    {
+      "id": "ZPP",
+      "title": "Zakon o pravdnem postopku",
+      "shortTitle": "Zakon o pravdnem postopku",
+      "shortCode": "ZPP",
+      "kind": "zakon",
+      "keywords": [
+        "pravdni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1210",
+      "gazette": "Uradni list RS 26/99  str. 2829",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-15",
+      "validFrom": "1999-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1210",
+      "versions": [
+        {
+          "id": "ZPP-original",
+          "shortCode": "ZPP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/99  str. 2829",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1210",
+          "proposer": null
+        },
+        {
+          "id": "ZPP-amend-ZPP-A",
+          "shortCode": "ZPP-A",
+          "label": "Sprememba ZPP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 96/2002  str. 10512",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4805",
+          "proposer": null
+        },
+        {
+          "id": "ZPP-amend-ZPP-B",
+          "shortCode": "ZPP-B",
+          "label": "Sprememba ZPP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 2/04  str. 189",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0069",
+          "proposer": null
+        },
+        {
+          "id": "ZPP-amend-ZPP-C",
+          "shortCode": "ZPP-C",
+          "label": "Sprememba ZPP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 52/07  str. 7065",
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2778",
+          "proposer": null
+        },
+        {
+          "id": "ZPP-amend-ZPP-E",
+          "shortCode": "ZPP-E",
+          "label": "Sprememba ZPP-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 10/17  str. 1518",
+          "publishedAt": "2017-02-27",
+          "effectiveFrom": "2017-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0463",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortCode": "ZPP-A",
+      "kind": "zakon",
+      "keywords": [
+        "pravdni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4805",
+      "gazette": "Uradni list RS 96/2002  str. 10512",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4805",
+      "versions": [
+        {
+          "id": "ZPP-A-original",
+          "shortCode": "ZPP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10512",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4805",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPP-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortCode": "ZPP-B",
+      "kind": "zakon",
+      "keywords": [
+        "pravdni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0069",
+      "gazette": "Uradni list RS 2/04  str. 189",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0069",
+      "versions": [
+        {
+          "id": "ZPP-B-original",
+          "shortCode": "ZPP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 189",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0069",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravdnem postopku",
+      "shortCode": "ZPP-C",
+      "kind": "zakon",
+      "keywords": [
+        "volilna kampanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2778",
+      "gazette": "Uradni list RS 52/07  str. 7065",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-12",
+      "validFrom": "2007-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2778",
+      "versions": [
+        {
+          "id": "ZPP-C-original",
+          "shortCode": "ZPP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/07  str. 7065",
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2778",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPP-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pravdnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pravdnem postopku",
+      "shortCode": "ZPP-E",
+      "kind": "zakon",
+      "keywords": [
+        "pravdni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-0463",
+      "gazette": "Uradni list RS 10/17  str. 1518",
+      "issuingBody": null,
+      "adoptedAt": "2017-02-27",
+      "validFrom": "2017-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0463",
+      "versions": [
+        {
+          "id": "ZPP-E-original",
+          "shortCode": "ZPP-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/17  str. 1518",
+          "publishedAt": "2017-02-27",
+          "effectiveFrom": "2017-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0463",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

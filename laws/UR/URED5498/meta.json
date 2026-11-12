@@ -1,0 +1,97 @@
+{
+  "root": "URED5498",
+  "path": "laws/UR/URED5498",
+  "members": [
+    {
+      "id": "URED5498",
+      "title": "Uredba o koncesiji za graditev sedežnice Vitranc 2 v Kranjski Gori",
+      "shortTitle": "Uredba o koncesiji za graditev sedežnice Vitranc 2 v Kranjski Gori",
+      "shortCode": "URED5498",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-2824",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-06-30",
+      "validFrom": "2010-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2824",
+      "versions": [
+        {
+          "id": "URED5498-original",
+          "shortCode": "URED5498",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-06-30",
+          "effectiveFrom": "2010-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2824",
+          "proposer": null
+        },
+        {
+          "id": "URED5498-npb-URED5498",
+          "shortCode": "URED5498-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-06-30",
+          "effectiveFrom": "2010-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5498",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5800",
+      "title": "Uredba o spremembi Uredbe o koncesiji za graditev sedežnice Vitranc 2 v Kranjski Gori",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesiji za graditev sedežnice Vitranc 2 v Kranjski Gori",
+      "shortCode": "URED5800",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1811",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-05-16",
+      "validFrom": "2011-05-16",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1811",
+      "versions": [
+        {
+          "id": "URED5800-original",
+          "shortCode": "URED5800",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-16",
+          "effectiveFrom": "2011-05-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5498"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1811",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

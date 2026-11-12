@@ -1,0 +1,108 @@
+{
+  "root": "ZPFRZI",
+  "path": "laws/ZP/ZPFRZI",
+  "members": [
+    {
+      "id": "ZPFRZI",
+      "title": "Zakon o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture",
+      "shortCode": "ZPFRZI",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "železniški promet",
+        "posojilo",
+        "železniško omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1479",
+      "gazette": "Uradni list RS 31/99  str. 3577",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-30",
+      "validFrom": "1999-04-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1479",
+      "versions": [
+        {
+          "id": "ZPFRZI-original",
+          "shortCode": "ZPFRZI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/99  str. 3577",
+          "publishedAt": "1999-04-30",
+          "effectiveFrom": "1999-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1479",
+          "proposer": null
+        },
+        {
+          "id": "ZPFRZI-amend-ZPFRZI-A",
+          "shortCode": "ZPFRZI-A",
+          "label": "Sprememba ZPFRZI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 89/99  str. 13437",
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4264",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPFRZI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje določenih del za posodobitev in razvoj slovenske železniške infrastrukture",
+      "shortCode": "ZPFRZI-A",
+      "kind": "zakon",
+      "keywords": [
+        "posojilo",
+        "poroštvo",
+        "železniško omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4264",
+      "gazette": "Uradni list RS 89/99  str. 13437",
+      "issuingBody": null,
+      "adoptedAt": "1999-11-04",
+      "validFrom": "1999-11-04",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4264",
+      "versions": [
+        {
+          "id": "ZPFRZI-A-original",
+          "shortCode": "ZPFRZI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 89/99  str. 13437",
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4264",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

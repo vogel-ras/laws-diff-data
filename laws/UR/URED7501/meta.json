@@ -1,0 +1,58 @@
+{
+  "root": "URED7501",
+  "path": "laws/UR/URED7501",
+  "members": [
+    {
+      "id": "URED7501",
+      "title": "Uredba o sofinanciranju doktorskega študija",
+      "shortTitle": "Uredba o sofinanciranju doktorskega študija",
+      "shortCode": "URED7501",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-1199",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-04-28",
+      "validFrom": "2017-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2017-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1199",
+      "versions": [
+        {
+          "id": "URED7501-original",
+          "shortCode": "URED7501",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-04-28",
+          "effectiveFrom": "2017-04-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1199",
+          "proposer": null
+        },
+        {
+          "id": "URED7501-npb-URED7501",
+          "shortCode": "URED7501-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-04-28",
+          "effectiveFrom": "2017-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7501",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

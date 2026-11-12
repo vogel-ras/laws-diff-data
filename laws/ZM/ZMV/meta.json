@@ -1,0 +1,198 @@
+{
+  "root": "ZMV",
+  "path": "laws/ZM/ZMV",
+  "members": [
+    {
+      "id": "ZAKO7333",
+      "title": "Zakon o motornih vozilih (ZMV-1)",
+      "shortTitle": "Zakon o motornih vozilih (ZMV-1)",
+      "shortCode": "ZMV-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3592",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-22",
+      "validFrom": "2017-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3592",
+      "versions": [
+        {
+          "id": "ZAKO7333-original",
+          "shortCode": "ZMV-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-22",
+          "effectiveFrom": "2017-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3592",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMV",
+      "title": "Zakon o motornih vozilih",
+      "shortTitle": "Zakon o motornih vozilih",
+      "shortCode": "ZMV",
+      "kind": "zakon",
+      "keywords": [
+        "motorno vozilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5475",
+      "gazette": "Uradni list RS 106/10  str. 16403",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5475",
+      "versions": [
+        {
+          "id": "ZMV-original",
+          "shortCode": "ZMV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16403",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5475",
+          "proposer": null
+        },
+        {
+          "id": "ZMV-amend-ZMV-A",
+          "shortCode": "ZMV-A",
+          "label": "Sprememba ZMV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 23/15  str. 2456",
+          "publishedAt": "2015-04-03",
+          "effectiveFrom": "2015-04-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0897",
+          "proposer": null
+        },
+        {
+          "id": "ZMV-amend-ZMV-B",
+          "shortCode": "ZMV-B",
+          "label": "Sprememba ZMV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 68/16  str. 9441",
+          "publishedAt": "2016-11-04",
+          "effectiveFrom": "2016-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2927",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMV-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o motornih vozilih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o motornih vozilih",
+      "shortCode": "ZMV-A",
+      "kind": "zakon",
+      "keywords": [
+        "motorno vozilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0897",
+      "gazette": "Uradni list RS 23/15  str. 2456",
+      "issuingBody": null,
+      "adoptedAt": "2015-04-03",
+      "validFrom": "2015-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0897",
+      "versions": [
+        {
+          "id": "ZMV-A-original",
+          "shortCode": "ZMV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/15  str. 2456",
+          "publishedAt": "2015-04-03",
+          "effectiveFrom": "2015-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0897",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMV-B",
+      "title": "Zakon o dopolnitvah Zakona o motornih vozilih",
+      "shortTitle": "Zakon o dopolnitvah Zakona o motornih vozilih",
+      "shortCode": "ZMV-B",
+      "kind": "zakon",
+      "keywords": [
+        "motorno vozilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2927",
+      "gazette": "Uradni list RS 68/16  str. 9441",
+      "issuingBody": null,
+      "adoptedAt": "2016-11-04",
+      "validFrom": "2016-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2927",
+      "versions": [
+        {
+          "id": "ZMV-B-original",
+          "shortCode": "ZMV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/16  str. 9441",
+          "publishedAt": "2016-11-04",
+          "effectiveFrom": "2016-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2927",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

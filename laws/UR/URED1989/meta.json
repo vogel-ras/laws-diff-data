@@ -1,0 +1,121 @@
+{
+  "root": "URED1989",
+  "path": "laws/UR/URED1989",
+  "members": [
+    {
+      "id": "URED1989",
+      "title": "Uredba o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortTitle": "Uredba o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortCode": "URED1989",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0040",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-01-11",
+      "validFrom": "2002-01-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0040",
+      "versions": [
+        {
+          "id": "URED1989-original",
+          "shortCode": "URED1989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-01-11",
+          "effectiveFrom": "2002-01-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0040",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2130",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortCode": "URED2130",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0868",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-08",
+      "validFrom": "2002-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0868",
+      "versions": [
+        {
+          "id": "URED2130-original",
+          "shortCode": "URED2130",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-08",
+          "effectiveFrom": "2002-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1989"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0868",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3339",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o taksi za obremenjevanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortCode": "URED3339",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2225",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2225",
+      "versions": [
+        {
+          "id": "URED3339-original",
+          "shortCode": "URED3339",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1989"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2225",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

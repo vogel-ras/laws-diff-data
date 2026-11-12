@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5353",
+  "path": "laws/PR/PRAV5353",
+  "members": [
+    {
+      "id": "PRAV5353",
+      "title": "Pravilnik o vsebini tečaja ter o vsebini in načinu opravljanja preizkusa znanja iz predpisov, ki urejajo proizvodnjo in promet kemikalij",
+      "shortTitle": "Pravilnik o vsebini tečaja ter o vsebini in načinu opravljanja preizkusa znanja iz predpisov, ki urejajo proizvodnjo in promet kemikalij",
+      "shortCode": "PRAV5353",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5584",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-24",
+      "validFrom": "2003-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5584",
+      "versions": [
+        {
+          "id": "PRAV5353-original",
+          "shortCode": "PRAV5353",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-24",
+          "effectiveFrom": "2003-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5584",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9312",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini tečaja ter o vsebini in načinu opravljanja preizkusa znanja iz predpisov, ki urejajo proizvodnjo in promet kemikalij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini tečaja ter o vsebini in načinu opravljanja preizkusa znanja iz predpisov, ki urejajo proizvodnjo in promet kemikalij",
+      "shortCode": "PRAV9312",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4908",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-12-01",
+      "validFrom": "2008-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4908",
+      "versions": [
+        {
+          "id": "PRAV9312-original",
+          "shortCode": "PRAV9312",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-01",
+          "effectiveFrom": "2008-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5353"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4908",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

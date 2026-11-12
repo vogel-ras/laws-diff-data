@@ -1,0 +1,82 @@
+{
+  "root": "PRAV8293",
+  "path": "laws/PR/PRAV8293",
+  "members": [
+    {
+      "id": "PRAV11372",
+      "title": "Pravilnik o spremembi Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Planina-Golobičevec (2006–2015)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Planina-Golobičevec (2006–2015)",
+      "shortCode": "PRAV11372",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2296",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo in okolje",
+      "adoptedAt": "2012-07-17",
+      "validFrom": "2012-07-17",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2296",
+      "versions": [
+        {
+          "id": "PRAV11372-original",
+          "shortCode": "PRAV11372",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-07-17",
+          "effectiveFrom": "2012-07-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8293"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2296",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8293",
+      "title": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Planina-Golobičevec (2006-2015)",
+      "shortTitle": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Planina-Golobičevec (2006-2015)",
+      "shortCode": "PRAV8293",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-1559",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2007-04-03",
+      "validFrom": "2007-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1559",
+      "versions": [
+        {
+          "id": "PRAV8293-original",
+          "shortCode": "PRAV8293",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-04-03",
+          "effectiveFrom": "2007-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1559",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

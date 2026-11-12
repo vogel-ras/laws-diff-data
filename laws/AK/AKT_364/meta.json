@@ -1,0 +1,82 @@
+{
+  "root": "AKT_364",
+  "path": "laws/AK/AKT_364",
+  "members": [
+    {
+      "id": "AKT_364",
+      "title": "Pravilnik o centralnem registru oporok",
+      "shortTitle": "Pravilnik o centralnem registru oporok",
+      "shortCode": "AKT_364",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2007-01-0077",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-27",
+      "validFrom": "2026-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0077",
+      "versions": [
+        {
+          "id": "AKT_364-original",
+          "shortCode": "AKT_364",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-27",
+          "effectiveFrom": "2026-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0077",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9712",
+      "title": "Pravilnik o spremembah Pravilnika o centralnem registru oporok",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o centralnem registru oporok",
+      "shortCode": "PRAV9712",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1782",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2009-05-18",
+      "validFrom": "2009-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1782",
+      "versions": [
+        {
+          "id": "PRAV9712-original",
+          "shortCode": "PRAV9712",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-18",
+          "effectiveFrom": "2009-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_364"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1782",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

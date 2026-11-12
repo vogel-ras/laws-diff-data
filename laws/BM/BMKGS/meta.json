@@ -1,0 +1,109 @@
+{
+  "root": "BMKGS",
+  "path": "laws/BM/BMKGS",
+  "members": [
+    {
+      "id": "BMKGS",
+      "title": "Zakon o ratifikaciji sporazuma o gospodarskem sodelovenju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji sporazuma o gospodarskem sodelovenju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKGS",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "gospodarsko sodelovanje",
+        "Slovenija",
+        "Makedonija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-02-0015",
+      "gazette": "Uradni list RS MP 5/92  str. 43",
+      "issuingBody": null,
+      "adoptedAt": "1992-05-27",
+      "validFrom": "1992-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-02-0015",
+      "versions": [
+        {
+          "id": "BMKGS-original",
+          "shortCode": "BMKGS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 5/92  str. 43",
+          "publishedAt": "1992-05-27",
+          "effectiveFrom": "1992-05-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-02-0015",
+          "proposer": null
+        },
+        {
+          "id": "BMKGS-amend-BMKGS-A",
+          "shortCode": "BMKGS-A",
+          "label": "Sprememba BMKGS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 10/06  str. 763",
+          "publishedAt": "2006-04-28",
+          "effectiveFrom": "2006-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKGS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0050",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BMKGS-A",
+      "title": "Zakon o ratifikaciji Sporazuma o spremembi Sporazuma o gospodarskem sodelovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o spremembi Sporazuma o gospodarskem sodelovanju med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKGS-A",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarsko sodelovanje",
+        "Makedonija",
+        "ratifikacija sporazuma",
+        "Slovenija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-02-0050",
+      "gazette": "Uradni list RS MP 10/06  str. 763",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-28",
+      "validFrom": "2006-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0050",
+      "versions": [
+        {
+          "id": "BMKGS-A-original",
+          "shortCode": "BMKGS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 10/06  str. 763",
+          "publishedAt": "2006-04-28",
+          "effectiveFrom": "2006-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKGS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0050",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

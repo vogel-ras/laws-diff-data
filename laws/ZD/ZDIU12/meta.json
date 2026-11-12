@@ -1,0 +1,101 @@
+{
+  "root": "ZDIU12",
+  "path": "laws/ZD/ZDIU12",
+  "members": [
+    {
+      "id": "ZDIU12",
+      "title": "Zakon o dodatnih interventnih ukrepih za leto 2012",
+      "shortTitle": "Zakon o dodatnih interventnih ukrepih za leto 2012",
+      "shortCode": "ZDIU12",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-4999",
+      "gazette": "Uradni list RS 110/11  str. 14999",
+      "issuingBody": null,
+      "adoptedAt": "2011-12-31",
+      "validFrom": "2011-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4999",
+      "versions": [
+        {
+          "id": "ZDIU12-original",
+          "shortCode": "ZDIU12",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/11  str. 14999",
+          "publishedAt": "2011-12-31",
+          "effectiveFrom": "2011-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4999",
+          "proposer": null
+        },
+        {
+          "id": "ZDIU12-amend-ZDIU12-A",
+          "shortCode": "ZDIU12-A",
+          "label": "Sprememba ZDIU12-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 43/12  str. 4367",
+          "publishedAt": "2012-06-08",
+          "effectiveFrom": "2012-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDIU12"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1776",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDIU12-A",
+      "title": "Zakon o dopolnitvah Zakona o dodatnih interventnih ukrepih za leto 2012",
+      "shortTitle": "Zakon o dopolnitvah Zakona o dodatnih interventnih ukrepih za leto 2012",
+      "shortCode": "ZDIU12-A",
+      "kind": "zakon",
+      "keywords": [
+        "varčevalna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1776",
+      "gazette": "Uradni list RS 43/12  str. 4367",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-08",
+      "validFrom": "2012-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1776",
+      "versions": [
+        {
+          "id": "ZDIU12-A-original",
+          "shortCode": "ZDIU12-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/12  str. 4367",
+          "publishedAt": "2012-06-08",
+          "effectiveFrom": "2012-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDIU12"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1776",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

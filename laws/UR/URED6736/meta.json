@@ -1,0 +1,82 @@
+{
+  "root": "URED6736",
+  "path": "laws/UR/URED6736",
+  "members": [
+    {
+      "id": "URED6736",
+      "title": "Uredba o delovanju in financiranju varuha odnosov v verigi preskrbe s hrano",
+      "shortTitle": "Uredba o delovanju in financiranju varuha odnosov v verigi preskrbe s hrano",
+      "shortCode": "URED6736",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2164",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-07-04",
+      "validFrom": "2014-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2164",
+      "versions": [
+        {
+          "id": "URED6736-original",
+          "shortCode": "URED6736",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-04",
+          "effectiveFrom": "2014-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2164",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9306",
+      "title": "Uredba o spremembi Uredbe o delovanju in financiranju varuha odnosov v verigi preskrbe s hrano",
+      "shortTitle": "Uredba o spremembi Uredbe o delovanju in financiranju varuha odnosov v verigi preskrbe s hrano",
+      "shortCode": "URED9306",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-0755",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-03-28",
+      "validFrom": "2025-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0755",
+      "versions": [
+        {
+          "id": "URED9306-original",
+          "shortCode": "URED9306",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-28",
+          "effectiveFrom": "2025-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6736"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0755",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

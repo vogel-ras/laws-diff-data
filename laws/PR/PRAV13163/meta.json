@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13163",
+  "path": "laws/PR/PRAV13163",
+  "members": [
+    {
+      "id": "PRAV13163",
+      "title": "Pravilnik o pogojih za izvajanje lekarniške dejavnosti",
+      "shortTitle": "Pravilnik o pogojih za izvajanje lekarniške dejavnosti",
+      "shortCode": "PRAV13163",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1242",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-14",
+      "validFrom": "2025-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1242",
+      "versions": [
+        {
+          "id": "PRAV13163-original",
+          "shortCode": "PRAV13163",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-14",
+          "effectiveFrom": "2025-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1242",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13163-npb-PRAV13163",
+          "shortCode": "PRAV13163-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-20",
+          "effectiveFrom": "2018-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13163",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13555",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za izvajanje lekarniške dejavnosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za izvajanje lekarniške dejavnosti",
+      "shortCode": "PRAV13555",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-3477",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-11-09",
+      "validFrom": "2018-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3477",
+      "versions": [
+        {
+          "id": "PRAV13555-original",
+          "shortCode": "PRAV13555",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-11-09",
+          "effectiveFrom": "2018-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13163"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3477",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

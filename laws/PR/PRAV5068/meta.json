@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5068",
+  "path": "laws/PR/PRAV5068",
+  "members": [
+    {
+      "id": "PRAV5068",
+      "title": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij v govedoreji",
+      "shortTitle": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij v govedoreji",
+      "shortCode": "PRAV5068",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4264",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-09-30",
+      "validFrom": "2003-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4264",
+      "versions": [
+        {
+          "id": "PRAV5068-original",
+          "shortCode": "PRAV5068",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-30",
+          "effectiveFrom": "2003-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4264",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5068-npb-PRAV5068",
+          "shortCode": "PRAV5068-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-30",
+          "effectiveFrom": "2003-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5068",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8763",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij v govedoreji",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij v govedoreji",
+      "shortCode": "PRAV8763",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1723",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1723",
+      "versions": [
+        {
+          "id": "PRAV8763-original",
+          "shortCode": "PRAV8763",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5068"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1723",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

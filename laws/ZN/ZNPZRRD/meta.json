@@ -1,0 +1,102 @@
+{
+  "root": "ZNPZRRD",
+  "path": "laws/ZN/ZNPZRRD",
+  "members": [
+    {
+      "id": "ZAKO7450",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti (ZNPZRRD-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti (ZNPZRRD-A)",
+      "shortCode": "ZNPZRRD-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3783",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-27",
+      "validFrom": "2017-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3783",
+      "versions": [
+        {
+          "id": "ZAKO7450-original",
+          "shortCode": "ZNPZRRD-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-27",
+          "effectiveFrom": "2017-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3783",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPZRRD",
+      "title": "Zakon o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZNPZRRD",
+      "kind": "zakon",
+      "keywords": [
+        "raziskave in razvoj",
+        "raziskovalci"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4017",
+      "gazette": "Uradni list RS 93/05  str. 9630",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-21",
+      "validFrom": "2005-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4017",
+      "versions": [
+        {
+          "id": "ZNPZRRD-original",
+          "shortCode": "ZNPZRRD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/05  str. 9630",
+          "publishedAt": "2005-10-21",
+          "effectiveFrom": "2005-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4017",
+          "proposer": null
+        },
+        {
+          "id": "ZNPZRRD-amend-ZAKO7450",
+          "shortCode": "ZNPZRRD-A",
+          "label": "Sprememba ZNPZRRD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-12-27",
+          "effectiveFrom": "2017-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3783",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "NAVO347",
+  "path": "laws/NA/NAVO347",
+  "members": [
+    {
+      "id": "NAVO347",
+      "title": "Navodilo o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortTitle": "Navodilo o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortCode": "NAVO347",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1996-01-0018",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-01-12",
+      "validFrom": "1996-01-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0018",
+      "versions": [
+        {
+          "id": "NAVO347-original",
+          "shortCode": "NAVO347",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-01-12",
+          "effectiveFrom": "1996-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0018",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4332",
+      "title": "Pravilnik o spremembah in dopolnitvah navodila o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah navodila o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortCode": "PRAV4332",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4068",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-09-27",
+      "validFrom": "2002-09-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4068",
+      "versions": [
+        {
+          "id": "PRAV4332-original",
+          "shortCode": "PRAV4332",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-27",
+          "effectiveFrom": "2002-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO347"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4068",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

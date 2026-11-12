@@ -1,0 +1,99 @@
+{
+  "root": "DP2024",
+  "path": "laws/DP/DP2024",
+  "members": [
+    {
+      "id": "DRPR27",
+      "title": "Proračun Republike Slovenije za leto 2024 (DP2024)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2024 (DP2024)",
+      "shortCode": "DP2024",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2022-01-3735",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-12-02",
+      "validFrom": "2022-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3735",
+      "versions": [
+        {
+          "id": "DRPR27-original",
+          "shortCode": "DP2024",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-02",
+          "effectiveFrom": "2022-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3735",
+          "proposer": null
+        },
+        {
+          "id": "DRPR27-amend-DRPR28",
+          "shortCode": "DP2024-A",
+          "label": "Sprememba DP2024-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-12-07",
+          "effectiveFrom": "2023-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR27"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3594",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "DRPR28",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2024 (DP2024-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2024 (DP2024-A)",
+      "shortCode": "DP2024-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2023-01-3594",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-12-07",
+      "validFrom": "2023-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3594",
+      "versions": [
+        {
+          "id": "DRPR28-original",
+          "shortCode": "DP2024-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-07",
+          "effectiveFrom": "2023-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR27"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3594",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

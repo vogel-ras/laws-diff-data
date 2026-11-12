@@ -1,0 +1,82 @@
+{
+  "root": "URED6153",
+  "path": "laws/UR/URED6153",
+  "members": [
+    {
+      "id": "URED6153",
+      "title": "Uredba o koncesiji za graditev žičnic med Bohinjsko Bistrico, Ravnami in Sedlom pod Malim Vrhom ter Slatnikom v Bohinjski Bistrici",
+      "shortTitle": "Uredba o koncesiji za graditev žičnic med Bohinjsko Bistrico, Ravnami in Sedlom pod Malim Vrhom ter Slatnikom v Bohinjski Bistrici",
+      "shortCode": "URED6153",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1341",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-04-26",
+      "validFrom": "2012-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1341",
+      "versions": [
+        {
+          "id": "URED6153-original",
+          "shortCode": "URED6153",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-04-26",
+          "effectiveFrom": "2012-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1341",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6746",
+      "title": "Uredba o spremembi Uredbe o koncesiji za graditev žičnic med Bohinjsko Bistrico, Ravnami in Sedlom pod Malim Vrhom ter Slatnikom v Bohinjski Bistrici",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesiji za graditev žičnic med Bohinjsko Bistrico, Ravnami in Sedlom pod Malim Vrhom ter Slatnikom v Bohinjski Bistrici",
+      "shortCode": "URED6746",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-0972",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-04-11",
+      "validFrom": "2014-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0972",
+      "versions": [
+        {
+          "id": "URED6746-original",
+          "shortCode": "URED6746",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6153"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0972",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

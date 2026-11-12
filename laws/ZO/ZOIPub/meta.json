@@ -1,0 +1,105 @@
+{
+  "root": "ZOIPub",
+  "path": "laws/ZO/ZOIPub",
+  "members": [
+    {
+      "id": "ZOIPub",
+      "title": "Zakon o obveznem izvodu publikacij",
+      "shortTitle": "Zakon o obveznem izvodu publikacij",
+      "shortCode": "ZOIPub",
+      "kind": "zakon",
+      "keywords": [
+        "obvezni izvod",
+        "publikacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2977",
+      "gazette": "Uradni list RS 69/06  str. 7230",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-03",
+      "validFrom": "2006-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2977",
+      "versions": [
+        {
+          "id": "ZOIPub-original",
+          "shortCode": "ZOIPub",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/06  str. 7230",
+          "publishedAt": "2006-07-03",
+          "effectiveFrom": "2006-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2977",
+          "proposer": null
+        },
+        {
+          "id": "ZOIPub-amend-ZOIPub-A",
+          "shortCode": "ZOIPub-A",
+          "label": "Sprememba ZOIPub-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/09  str. 11591",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOIPub"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3807",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOIPub-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o obveznem izvodu publikacij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o obveznem izvodu publikacij",
+      "shortCode": "ZOIPub-A",
+      "kind": "zakon",
+      "keywords": [
+        "obvezni izvod",
+        "publikacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3807",
+      "gazette": "Uradni list RS 86/09  str. 11591",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3807",
+      "versions": [
+        {
+          "id": "ZOIPub-A-original",
+          "shortCode": "ZOIPub-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/09  str. 11591",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOIPub"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3807",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

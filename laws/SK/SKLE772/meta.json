@@ -1,0 +1,82 @@
+{
+  "root": "SKLE772",
+  "path": "laws/SK/SKLE772",
+  "members": [
+    {
+      "id": "SKLE772",
+      "title": "Sklep o drugi izdaji blagajniškega zapisa Banke Slovenije z nakupnim bonom",
+      "shortTitle": "Sklep o drugi izdaji blagajniškega zapisa Banke Slovenije z nakupnim bonom",
+      "shortCode": "SKLE772",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1994-01-2482",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-11-05",
+      "validFrom": "1994-11-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2482",
+      "versions": [
+        {
+          "id": "SKLE772-original",
+          "shortCode": "SKLE772",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-11-05",
+          "effectiveFrom": "1994-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2482",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE773",
+      "title": "Sklep o spremembi sklepa o drugi izdaji blagajniškega zapisa Banke Slovenije z nakupnim bonom",
+      "shortTitle": "Sklep o spremembi sklepa o drugi izdaji blagajniškega zapisa Banke Slovenije z nakupnim bonom",
+      "shortCode": "SKLE773",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1995-01-0295",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-01-20",
+      "validFrom": "1995-01-20",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0295",
+      "versions": [
+        {
+          "id": "SKLE773-original",
+          "shortCode": "SKLE773",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-01-20",
+          "effectiveFrom": "1995-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE772"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0295",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

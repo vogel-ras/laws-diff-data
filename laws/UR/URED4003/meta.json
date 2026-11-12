@@ -1,0 +1,121 @@
+{
+  "root": "URED4003",
+  "path": "laws/UR/URED4003",
+  "members": [
+    {
+      "id": "URED4003",
+      "title": "Uredba o razvojnih spodbudah za turizem",
+      "shortTitle": "Uredba o razvojnih spodbudah za turizem",
+      "shortCode": "URED4003",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-5514",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-12-15",
+      "validFrom": "2006-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5514",
+      "versions": [
+        {
+          "id": "URED4003-original",
+          "shortCode": "URED4003",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-15",
+          "effectiveFrom": "2006-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5514",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5006",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o razvojnih spodbudah za turizem",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o razvojnih spodbudah za turizem",
+      "shortCode": "URED5006",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-4591",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-11-14",
+      "validFrom": "2008-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4591",
+      "versions": [
+        {
+          "id": "URED5006-original",
+          "shortCode": "URED5006",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-14",
+          "effectiveFrom": "2008-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4003"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4591",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5101",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o razvojnih spodbudah za turizem",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o razvojnih spodbudah za turizem",
+      "shortCode": "URED5101",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1709",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1709",
+      "versions": [
+        {
+          "id": "URED5101-original",
+          "shortCode": "URED5101",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4003"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1709",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

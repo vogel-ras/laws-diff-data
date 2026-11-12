@@ -1,0 +1,103 @@
+{
+  "root": "ZZVO",
+  "path": "laws/ZZ/ZZVO",
+  "members": [
+    {
+      "id": "ZZVO",
+      "title": "Zakon o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortTitle": "Zakon o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortCode": "ZZVO",
+      "kind": "zakon",
+      "keywords": [
+        "varovanje in nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1318",
+      "gazette": "Uradni list RS 32/94  str. 2048",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-10",
+      "validFrom": "1994-06-10",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1318",
+      "versions": [
+        {
+          "id": "ZZVO-original",
+          "shortCode": "ZZVO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/94  str. 2048",
+          "publishedAt": "1994-06-10",
+          "effectiveFrom": "1994-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1318",
+          "proposer": null
+        },
+        {
+          "id": "ZZVO-amend-ZZVO-B",
+          "shortCode": "ZZVO-B",
+          "label": "Sprememba ZZVO-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/98  str. 650",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0432",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVO-B",
+      "title": "Zakon o spremembah zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortTitle": "Zakon o spremembah zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortCode": "ZZVO-B",
+      "kind": "zakon",
+      "keywords": [
+        "varovanje in nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0432",
+      "gazette": "Uradni list RS 9/98  str. 650",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-06",
+      "validFrom": "1998-02-06",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0432",
+      "versions": [
+        {
+          "id": "ZZVO-B-original",
+          "shortCode": "ZZVO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/98  str. 650",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0432",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

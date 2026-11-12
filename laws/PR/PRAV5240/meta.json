@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5240",
+  "path": "laws/PR/PRAV5240",
+  "members": [
+    {
+      "id": "PRAV5240",
+      "title": "Pravilnik o kakovosti jedilnih rastlinskih olj, jedilnih rastlinskih masteh in majonezi",
+      "shortTitle": "Pravilnik o kakovosti jedilnih rastlinskih olj, jedilnih rastlinskih masteh in majonezi",
+      "shortCode": "PRAV5240",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5243",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-10",
+      "validFrom": "2003-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5243",
+      "versions": [
+        {
+          "id": "PRAV5240-original",
+          "shortCode": "PRAV5240",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-10",
+          "effectiveFrom": "2003-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5243",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6337",
+      "title": "Pravilnik o spremembi Pravilnika o kakovosti jedilnih rastlinskih olj, jedilnih rastlinskih masteh in majonezi",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o kakovosti jedilnih rastlinskih olj, jedilnih rastlinskih masteh in majonezi",
+      "shortCode": "PRAV6337",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0452",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2005-02-18",
+      "validFrom": "2005-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0452",
+      "versions": [
+        {
+          "id": "PRAV6337-original",
+          "shortCode": "PRAV6337",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-18",
+          "effectiveFrom": "2005-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5240"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0452",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

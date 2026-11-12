@@ -1,0 +1,58 @@
+{
+  "root": "URED1201",
+  "path": "laws/UR/URED1201",
+  "members": [
+    {
+      "id": "URED1201",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za pripravo vode",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za pripravo vode",
+      "shortCode": "URED1201",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1271",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-30",
+      "validFrom": "2000-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1271",
+      "versions": [
+        {
+          "id": "URED1201-original",
+          "shortCode": "URED1201",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1271",
+          "proposer": null
+        },
+        {
+          "id": "URED1201-npb-URED1201",
+          "shortCode": "URED1201-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1201",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12359",
+  "path": "laws/PR/PRAV12359",
+  "members": [
+    {
+      "id": "PRAV12359",
+      "title": "Pravilnik o monitoringu radioaktivnosti v pitni vodi",
+      "shortTitle": "Pravilnik o monitoringu radioaktivnosti v pitni vodi",
+      "shortCode": "PRAV12359",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2879",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-08",
+      "validFrom": "2025-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2879",
+      "versions": [
+        {
+          "id": "PRAV12359-original",
+          "shortCode": "PRAV12359",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-08",
+          "effectiveFrom": "2025-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2879",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12359-npb-PRAV12359",
+          "shortCode": "PRAV12359-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-10-02",
+          "effectiveFrom": "2015-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12359",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14037",
+      "title": "Pravilnik o spremembi Pravilnika o monitoringu radioaktivnosti v pitni vodi",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o monitoringu radioaktivnosti v pitni vodi",
+      "shortCode": "PRAV14037",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-1955",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-07-24",
+      "validFrom": "2020-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1955",
+      "versions": [
+        {
+          "id": "PRAV14037-original",
+          "shortCode": "PRAV14037",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-07-24",
+          "effectiveFrom": "2020-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12359"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1955",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

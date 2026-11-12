@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13799",
+  "path": "laws/PR/PRAV13799",
+  "members": [
+    {
+      "id": "PRAV13799",
+      "title": "Pravilnik o pogojih in postopkih za izvajanje rejniške dejavnosti",
+      "shortTitle": "Pravilnik o pogojih in postopkih za izvajanje rejniške dejavnosti",
+      "shortCode": "PRAV13799",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-3375",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2019-12-20",
+      "validFrom": "2019-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3375",
+      "versions": [
+        {
+          "id": "PRAV13799-original",
+          "shortCode": "PRAV13799",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-20",
+          "effectiveFrom": "2019-12-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3375",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13799-npb-PRAV13799",
+          "shortCode": "PRAV13799-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-12-20",
+          "effectiveFrom": "2019-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13799",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15823",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in postopkih za izvajanje rejniške dejavnosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in postopkih za izvajanje rejniške dejavnosti",
+      "shortCode": "PRAV15823",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2741",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2025-10-10",
+      "validFrom": "2025-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2741",
+      "versions": [
+        {
+          "id": "PRAV15823-original",
+          "shortCode": "PRAV15823",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-10",
+          "effectiveFrom": "2025-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13799"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2741",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

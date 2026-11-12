@@ -1,0 +1,82 @@
+{
+  "root": "PRAV9134",
+  "path": "laws/PR/PRAV9134",
+  "members": [
+    {
+      "id": "PRAV11389",
+      "title": "Pravilnik o spremembi Pravilnika o registru melioracijskih skupnosti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o registru melioracijskih skupnosti",
+      "shortCode": "PRAV11389",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-2121",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo in okolje",
+      "adoptedAt": "2012-06-29",
+      "validFrom": "2012-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2121",
+      "versions": [
+        {
+          "id": "PRAV11389-original",
+          "shortCode": "PRAV11389",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-29",
+          "effectiveFrom": "2012-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9134"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9134",
+      "title": "Pravilnik o registru melioracijskih skupnosti",
+      "shortTitle": "Pravilnik o registru melioracijskih skupnosti",
+      "shortCode": "PRAV9134",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0124",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-01-16",
+      "validFrom": "2009-01-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0124",
+      "versions": [
+        {
+          "id": "PRAV9134-original",
+          "shortCode": "PRAV9134",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-01-16",
+          "effectiveFrom": "2009-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0124",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

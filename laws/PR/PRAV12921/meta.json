@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12921",
+  "path": "laws/PR/PRAV12921",
+  "members": [
+    {
+      "id": "PRAV12921",
+      "title": "Pravilnik o dodeljevanju štipendij za deficitarne poklice",
+      "shortTitle": "Pravilnik o dodeljevanju štipendij za deficitarne poklice",
+      "shortCode": "PRAV12921",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2435",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2016-08-26",
+      "validFrom": "2016-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2016-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2435",
+      "versions": [
+        {
+          "id": "PRAV12921-original",
+          "shortCode": "PRAV12921",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-08-26",
+          "effectiveFrom": "2016-08-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2435",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12921-npb-PRAV12921",
+          "shortCode": "PRAV12921-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-08-26",
+          "effectiveFrom": "2016-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12921",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13526",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodeljevanju štipendij za deficitarne poklice",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodeljevanju štipendij za deficitarne poklice",
+      "shortCode": "PRAV13526",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2308",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-07-04",
+      "validFrom": "2018-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2308",
+      "versions": [
+        {
+          "id": "PRAV13526-original",
+          "shortCode": "PRAV13526",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-07-04",
+          "effectiveFrom": "2018-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12921"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2308",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

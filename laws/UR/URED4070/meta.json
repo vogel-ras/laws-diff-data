@@ -1,0 +1,82 @@
+{
+  "root": "URED4070",
+  "path": "laws/UR/URED4070",
+  "members": [
+    {
+      "id": "URED4070",
+      "title": "Uredba o izvedbi ukrepov kmetijske politike za leto 2006",
+      "shortTitle": "Uredba o izvedbi ukrepov kmetijske politike za leto 2006",
+      "shortCode": "URED4070",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-0305",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-01-27",
+      "validFrom": "2006-01-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0305",
+      "versions": [
+        {
+          "id": "URED4070-original",
+          "shortCode": "URED4070",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-27",
+          "effectiveFrom": "2006-01-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0305",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4190",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi ukrepov kmetijske politike za leto 2006",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi ukrepov kmetijske politike za leto 2006",
+      "shortCode": "URED4190",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3295",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-20",
+      "validFrom": "2006-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3295",
+      "versions": [
+        {
+          "id": "URED4190-original",
+          "shortCode": "URED4190",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-20",
+          "effectiveFrom": "2006-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4070"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3295",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

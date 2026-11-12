@@ -1,0 +1,121 @@
+{
+  "root": "URED4354",
+  "path": "laws/UR/URED4354",
+  "members": [
+    {
+      "id": "URED4354",
+      "title": "Uredba o obveznem organiziranju službe varovanja",
+      "shortTitle": "Uredba o obveznem organiziranju službe varovanja",
+      "shortCode": "URED4354",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1890",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-05-05",
+      "validFrom": "2008-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1890",
+      "versions": [
+        {
+          "id": "URED4354-original",
+          "shortCode": "URED4354",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-05",
+          "effectiveFrom": "2008-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1890",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4958",
+      "title": "Uredba o spremembi Uredbe o obveznem organiziranju službe varovanja",
+      "shortTitle": "Uredba o spremembi Uredbe o obveznem organiziranju službe varovanja",
+      "shortCode": "URED4958",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0562",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-02-27",
+      "validFrom": "2009-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0562",
+      "versions": [
+        {
+          "id": "URED4958-original",
+          "shortCode": "URED4958",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4354"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0562",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5287",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o obveznem organiziranju službe varovanja",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o obveznem organiziranju službe varovanja",
+      "shortCode": "URED5287",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-0903",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-03-19",
+      "validFrom": "2010-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0903",
+      "versions": [
+        {
+          "id": "URED5287-original",
+          "shortCode": "URED5287",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4354"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0903",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

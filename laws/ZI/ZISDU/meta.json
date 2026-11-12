@@ -1,0 +1,751 @@
+{
+  "root": "ZISDU",
+  "path": "laws/ZI/ZISDU",
+  "members": [
+    {
+      "id": "ZAKO5384",
+      "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1C)",
+      "shortTitle": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje (ZISDU-1C)",
+      "shortCode": "ZISDU-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2819",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-06-30",
+      "validFrom": "2008-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2819",
+      "versions": [
+        {
+          "id": "ZAKO5384-original",
+          "shortCode": "ZISDU-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2819",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO5990",
+      "title": "Zakon o investicijskih skladih in družbah za upravljanje (ZISDU-2)",
+      "shortTitle": "Zakon o investicijskih skladih in družbah za upravljanje (ZISDU-2)",
+      "shortCode": "ZISDU-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3272",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-10-03",
+      "validFrom": "2011-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3272",
+      "versions": [
+        {
+          "id": "ZAKO5990-original",
+          "shortCode": "ZISDU-2",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-03",
+          "effectiveFrom": "2011-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3272",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5990-amend-ZISDU-2A",
+          "shortCode": "ZISDU-2A",
+          "label": "Sprememba ZISDU-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 55/12  str. 5661",
+          "publishedAt": "2012-07-20",
+          "effectiveFrom": "2012-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5990"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2329",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU",
+      "title": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba",
+        "vrednostni papirji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0268",
+      "gazette": "Uradni list RS 6/94  str. 332",
+      "issuingBody": null,
+      "adoptedAt": "1994-02-11",
+      "validFrom": "1994-02-11",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0268",
+      "versions": [
+        {
+          "id": "ZISDU-original",
+          "shortCode": "ZISDU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 6/94  str. 332",
+          "publishedAt": "1994-02-11",
+          "effectiveFrom": "1994-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0268",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-amend-ZISDU-A",
+          "shortCode": "ZISDU-A",
+          "label": "Sprememba ZISDU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 25/97  str. 2044",
+          "publishedAt": "1997-05-09",
+          "effectiveFrom": "1997-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1487",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-amend-ZISDU-B",
+          "shortCode": "ZISDU-B",
+          "label": "Sprememba ZISDU-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 10/98  str. 662",
+          "publishedAt": "1998-02-12",
+          "effectiveFrom": "1998-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0436",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-amend-ZISDU-C",
+          "shortCode": "ZISDU-C",
+          "label": "Sprememba ZISDU-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 26/99  str. 2875",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1213",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-1",
+      "title": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-1",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "sklad",
+        "vrednostni papirji",
+        "delnica",
+        "obveznica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5395",
+      "gazette": "Uradni list RS 110/2002  str. 13173",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5395",
+      "versions": [
+        {
+          "id": "ZISDU-1-original",
+          "shortCode": "ZISDU-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13173",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5395",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-1-amend-ZISDU-1A",
+          "shortCode": "ZISDU-1A",
+          "label": "Sprememba ZISDU-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/04  str. 5140",
+          "publishedAt": "2004-04-23",
+          "effectiveFrom": "2004-04-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1858",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-1-amend-ZISDU-1B",
+          "shortCode": "ZISDU-1B",
+          "label": "Sprememba ZISDU-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 92/07  str. 12251",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4538",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-1-amend-ZAKO5384",
+          "shortCode": "ZISDU-1C",
+          "label": "Sprememba ZISDU-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2819",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-1A",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1858",
+      "gazette": "Uradni list RS 42/04  str. 5140",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-23",
+      "validFrom": "2004-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1858",
+      "versions": [
+        {
+          "id": "ZISDU-1A-original",
+          "shortCode": "ZISDU-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/04  str. 5140",
+          "publishedAt": "2004-04-23",
+          "effectiveFrom": "2004-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1858",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-1B",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba",
+        "vrednostni papirji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4538",
+      "gazette": "Uradni list RS 92/07  str. 12251",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-10",
+      "validFrom": "2007-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4538",
+      "versions": [
+        {
+          "id": "ZISDU-1B-original",
+          "shortCode": "ZISDU-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/07  str. 12251",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4538",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-2A",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2329",
+      "gazette": "Uradni list RS 55/12  str. 5661",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-20",
+      "validFrom": "2012-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2329",
+      "versions": [
+        {
+          "id": "ZISDU-2A-original",
+          "shortCode": "ZISDU-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/12  str. 5661",
+          "publishedAt": "2012-07-20",
+          "effectiveFrom": "2012-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5990"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2329",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-3",
+      "title": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-3",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1299",
+      "gazette": "Uradni list RS 31/15  str. 3427",
+      "issuingBody": null,
+      "adoptedAt": "2015-05-04",
+      "validFrom": "2015-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1299",
+      "versions": [
+        {
+          "id": "ZISDU-3-original",
+          "shortCode": "ZISDU-3",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/15  str. 3427",
+          "publishedAt": "2015-05-04",
+          "effectiveFrom": "2015-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1299",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-3-amend-ZISDU-3A",
+          "shortCode": "ZISDU-3A",
+          "label": "Sprememba ZISDU-3A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 81/15  str. 8833",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3189",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-3-amend-ZISDU-3B",
+          "shortCode": "ZISDU-3B",
+          "label": "Sprememba ZISDU-3B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 77/16  str. 11031",
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3229",
+          "proposer": null
+        },
+        {
+          "id": "ZISDU-3-amend-ZISDU-3C",
+          "shortCode": "ZISDU-3C",
+          "label": "Sprememba ZISDU-3C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 77/18  str. 11907",
+          "publishedAt": "2018-11-30",
+          "effectiveFrom": "2018-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3753",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-3A",
+      "title": "Zakon o spremembah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-3A",
+      "kind": "zakon",
+      "keywords": [
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3189",
+      "gazette": "Uradni list RS 81/15  str. 8833",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-30",
+      "validFrom": "2015-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3189",
+      "versions": [
+        {
+          "id": "ZISDU-3A-original",
+          "shortCode": "ZISDU-3A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/15  str. 8833",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3189",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-3B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-3B",
+      "kind": "zakon",
+      "keywords": [
+        "sklad",
+        "družba za upravljanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-3229",
+      "gazette": "Uradni list RS 77/16  str. 11031",
+      "issuingBody": null,
+      "adoptedAt": "2016-12-02",
+      "validFrom": "2016-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3229",
+      "versions": [
+        {
+          "id": "ZISDU-3B-original",
+          "shortCode": "ZISDU-3B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/16  str. 11031",
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3229",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-3C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-3C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-3753",
+      "gazette": "Uradni list RS 77/18  str. 11907",
+      "issuingBody": null,
+      "adoptedAt": "2018-11-30",
+      "validFrom": "2018-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3753",
+      "versions": [
+        {
+          "id": "ZISDU-3C-original",
+          "shortCode": "ZISDU-3C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/18  str. 11907",
+          "publishedAt": "2018-11-30",
+          "effectiveFrom": "2018-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU-3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3753",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-A",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba",
+        "vrednostni papirji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1487",
+      "gazette": "Uradni list RS 25/97  str. 2044",
+      "issuingBody": null,
+      "adoptedAt": "1997-05-09",
+      "validFrom": "1997-05-09",
+      "validTo": null,
+      "latestPublishedAt": "1997-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1487",
+      "versions": [
+        {
+          "id": "ZISDU-A-original",
+          "shortCode": "ZISDU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/97  str. 2044",
+          "publishedAt": "1997-05-09",
+          "effectiveFrom": "1997-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1487",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-B",
+      "title": "Zakon o spremembi in dopolnitvi zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-B",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0436",
+      "gazette": "Uradni list RS 10/98  str. 662",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-12",
+      "validFrom": "1998-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0436",
+      "versions": [
+        {
+          "id": "ZISDU-B-original",
+          "shortCode": "ZISDU-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/98  str. 662",
+          "publishedAt": "1998-02-12",
+          "effectiveFrom": "1998-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0436",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZISDU-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o investicijskih skladih in družbah za upravljanje",
+      "shortCode": "ZISDU-C",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1213",
+      "gazette": "Uradni list RS 26/99  str. 2875",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-15",
+      "validFrom": "1999-04-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1213",
+      "versions": [
+        {
+          "id": "ZISDU-C-original",
+          "shortCode": "ZISDU-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/99  str. 2875",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZISDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1213",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

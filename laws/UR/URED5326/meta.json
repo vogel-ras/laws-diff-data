@@ -1,0 +1,58 @@
+{
+  "root": "URED5326",
+  "path": "laws/UR/URED5326",
+  "members": [
+    {
+      "id": "URED5326",
+      "title": "Uredba o varnosti igrač",
+      "shortTitle": "Uredba o varnosti igrač",
+      "shortCode": "URED5326",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1738",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-05-06",
+      "validFrom": "2011-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1738",
+      "versions": [
+        {
+          "id": "URED5326-original",
+          "shortCode": "URED5326",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-06",
+          "effectiveFrom": "2011-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1738",
+          "proposer": null
+        },
+        {
+          "id": "URED5326-npb-URED5326",
+          "shortCode": "URED5326-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 7)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-05-06",
+          "effectiveFrom": "2011-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5326",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

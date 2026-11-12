@@ -1,0 +1,97 @@
+{
+  "root": "URED2848",
+  "path": "laws/UR/URED2848",
+  "members": [
+    {
+      "id": "URED2848",
+      "title": "Uredba o načinu delovanja znanstvenih odborov na področju ravnanja z gensko spremenjenimi organizmi",
+      "shortTitle": "Uredba o načinu delovanja znanstvenih odborov na področju ravnanja z gensko spremenjenimi organizmi",
+      "shortCode": "URED2848",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3192",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-07",
+      "validFrom": "2003-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3192",
+      "versions": [
+        {
+          "id": "URED2848-original",
+          "shortCode": "URED2848",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-07",
+          "effectiveFrom": "2003-07-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3192",
+          "proposer": null
+        },
+        {
+          "id": "URED2848-npb-URED2848",
+          "shortCode": "URED2848-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-07",
+          "effectiveFrom": "2003-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2848",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5726",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu delovanja znanstvenih odborov na področju ravnanja z gensko spremenjenimi organizmi",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu delovanja znanstvenih odborov na področju ravnanja z gensko spremenjenimi organizmi",
+      "shortCode": "URED5726",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-2787",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-07-25",
+      "validFrom": "2011-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2787",
+      "versions": [
+        {
+          "id": "URED5726-original",
+          "shortCode": "URED5726",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-07-25",
+          "effectiveFrom": "2011-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2848"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2787",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

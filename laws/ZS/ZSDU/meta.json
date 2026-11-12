@@ -1,0 +1,165 @@
+{
+  "root": "ZSDU",
+  "path": "laws/ZS/ZSDU",
+  "members": [
+    {
+      "id": "ZSDU",
+      "title": "Zakon o sodelovanju delavcev pri upravljanju",
+      "shortTitle": "Zakon o sodelovanju delavcev pri upravljanju",
+      "shortCode": "ZSDU",
+      "kind": "zakon",
+      "keywords": [
+        "soodločanje delavcev",
+        "upravljanje podjetja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1696",
+      "gazette": "Uradni list RS 42/93  str. 2363",
+      "issuingBody": null,
+      "adoptedAt": "1993-07-22",
+      "validFrom": "1993-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1696",
+      "versions": [
+        {
+          "id": "ZSDU-original",
+          "shortCode": "ZSDU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/93  str. 2363",
+          "publishedAt": "1993-07-22",
+          "effectiveFrom": "1993-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1696",
+          "proposer": null
+        },
+        {
+          "id": "ZSDU-amend-ZSDU-A",
+          "shortCode": "ZSDU-A",
+          "label": "Sprememba ZSDU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 56/2001  str. 5737",
+          "publishedAt": "2001-07-06",
+          "effectiveFrom": "2001-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2956",
+          "proposer": null
+        },
+        {
+          "id": "ZSDU-amend-ZSDU-B",
+          "shortCode": "ZSDU-B",
+          "label": "Sprememba ZSDU-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 26/07  str. 3347",
+          "publishedAt": "2007-03-23",
+          "effectiveFrom": "2007-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1283",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDU-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju",
+      "shortCode": "ZSDU-A",
+      "kind": "zakon",
+      "keywords": [
+        "soodločanje delavcev",
+        "upravljanje podjetja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2956",
+      "gazette": "Uradni list RS 56/2001  str. 5737",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-06",
+      "validFrom": "2001-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2956",
+      "versions": [
+        {
+          "id": "ZSDU-A-original",
+          "shortCode": "ZSDU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/2001  str. 5737",
+          "publishedAt": "2001-07-06",
+          "effectiveFrom": "2001-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2956",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDU-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodelovanju delavcev pri upravljanju",
+      "shortCode": "ZSDU-B",
+      "kind": "zakon",
+      "keywords": [
+        "soodločanje delavcev",
+        "upravljanje podjetja",
+        "vodenje družbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-1283",
+      "gazette": "Uradni list RS 26/07  str. 3347",
+      "issuingBody": null,
+      "adoptedAt": "2007-03-23",
+      "validFrom": "2007-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1283",
+      "versions": [
+        {
+          "id": "ZSDU-B-original",
+          "shortCode": "ZSDU-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/07  str. 3347",
+          "publishedAt": "2007-03-23",
+          "effectiveFrom": "2007-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1283",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

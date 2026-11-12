@@ -1,0 +1,254 @@
+{
+  "root": "ZŠolPre",
+  "path": "laws/ZS/ZŠolPre",
+  "members": [
+    {
+      "id": "ZAKO6951",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o šolski prehrani (ZŠolPre-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o šolski prehrani (ZŠolPre-1A)",
+      "shortCode": "ZŠolPre-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1916",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-06-23",
+      "validFrom": "2014-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1916",
+      "versions": [
+        {
+          "id": "ZAKO6951-original",
+          "shortCode": "ZŠolPre-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1916",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "Z_olPre",
+      "title": "Zakon o šolski prehrani",
+      "shortTitle": "Zakon o šolski prehrani",
+      "shortCode": "ZŠolPre",
+      "kind": "zakon",
+      "keywords": [
+        "študent/dijak",
+        "učenec",
+        "prehrana"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2183",
+      "gazette": "Uradni list RS 43/10  str. 6117",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-31",
+      "validFrom": "2010-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2183",
+      "versions": [
+        {
+          "id": "Z_olPre-original",
+          "shortCode": "ZŠolPre",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/10  str. 6117",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2183",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "Z_olPre-1",
+      "title": "Zakon o šolski prehrani",
+      "shortTitle": "Zakon o šolski prehrani",
+      "shortCode": "ZŠolPre-1",
+      "kind": "zakon",
+      "keywords": [
+        "prehrana"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0058",
+      "gazette": "Uradni list RS 3/13  str. 303",
+      "issuingBody": null,
+      "adoptedAt": "2013-01-11",
+      "validFrom": "2013-01-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0058",
+      "versions": [
+        {
+          "id": "Z_olPre-1-original",
+          "shortCode": "ZŠolPre-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 3/13  str. 303",
+          "publishedAt": "2013-01-11",
+          "effectiveFrom": "2013-01-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0058",
+          "proposer": null
+        },
+        {
+          "id": "Z_olPre-1-amend-ZAKO6951",
+          "shortCode": "ZŠolPre-1A",
+          "label": "Sprememba ZŠolPre-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1916",
+          "proposer": null
+        },
+        {
+          "id": "Z_olPre-1-amend-Z_olPre-1B",
+          "shortCode": "ZŠolPre-1B",
+          "label": "Sprememba Z_olPre-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 76/23  str. 6675",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2391",
+          "proposer": null
+        },
+        {
+          "id": "Z_olPre-1-amend-Z_olPre-1C",
+          "shortCode": "ZŠolPre-1C",
+          "label": "Sprememba Z_olPre-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 61/24  str. 6227",
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2117",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "Z_olPre-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o šolski prehrani",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o šolski prehrani",
+      "shortCode": "ZŠolPre-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2391",
+      "gazette": "Uradni list RS 76/23  str. 6675",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2391",
+      "versions": [
+        {
+          "id": "Z_olPre-1B-original",
+          "shortCode": "ZŠolPre-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6675",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2391",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "Z_olPre-1C",
+      "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o šolski prehrani",
+      "shortTitle": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o šolski prehrani",
+      "shortCode": "ZŠolPre-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2117",
+      "gazette": "Uradni list RS 61/24  str. 6227",
+      "issuingBody": null,
+      "adoptedAt": "2024-07-22",
+      "validFrom": "2024-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2117",
+      "versions": [
+        {
+          "id": "Z_olPre-1C-original",
+          "shortCode": "ZŠolPre-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/24  str. 6227",
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "Z_olPre-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2117",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

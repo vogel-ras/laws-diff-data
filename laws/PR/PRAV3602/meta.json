@@ -1,0 +1,58 @@
+{
+  "root": "PRAV3602",
+  "path": "laws/PR/PRAV3602",
+  "members": [
+    {
+      "id": "PRAV3602",
+      "title": "Pravilnik o delu izvedencev",
+      "shortTitle": "Pravilnik o delu izvedencev",
+      "shortCode": "PRAV3602",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1996-01-1947",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-06-07",
+      "validFrom": "1996-06-07",
+      "validTo": null,
+      "latestPublishedAt": "1996-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1947",
+      "versions": [
+        {
+          "id": "PRAV3602-original",
+          "shortCode": "PRAV3602",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-06-07",
+          "effectiveFrom": "1996-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1947",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3602-npb-PRAV3602",
+          "shortCode": "PRAV3602-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1996-06-07",
+          "effectiveFrom": "1996-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3602",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

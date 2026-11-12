@@ -1,0 +1,775 @@
+{
+  "root": "ZIKS",
+  "path": "laws/ZI/ZIKS",
+  "members": [
+    {
+      "id": "ZAKO31",
+      "title": "Zakon o izvrševanju kazenskih sankcij (ZIKS)",
+      "shortTitle": "Zakon o izvrševanju kazenskih sankcij (ZIKS)",
+      "shortCode": "ZIKS",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1978-04-1192",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1978-08-04",
+      "validFrom": "1978-08-04",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1978-04-1192",
+      "versions": [
+        {
+          "id": "ZAKO31-original",
+          "shortCode": "ZIKS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1978-08-04",
+          "effectiveFrom": "1978-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1978-04-1192",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO31-amend-ZIKS-A",
+          "shortCode": "ZIKS-A",
+          "label": "Sprememba ZIKS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 12/92  str. 773",
+          "publishedAt": "1992-03-13",
+          "effectiveFrom": "1992-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0633",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO31-amend-ZIKS-B",
+          "shortCode": "ZIKS-B",
+          "label": "Sprememba ZIKS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 58/93  str. 2874",
+          "publishedAt": "1993-10-17",
+          "effectiveFrom": "1993-10-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2121",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO31-amend-ZIKS-C",
+          "shortCode": "ZIKS-C",
+          "label": "Sprememba ZIKS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 10/98  str. 661",
+          "publishedAt": "1998-02-10",
+          "effectiveFrom": "1998-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0435",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO31-amend-ZIKS-D",
+          "shortCode": "ZIKS-D",
+          "label": "Sprememba ZIKS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 26/99  str. 2875",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1214",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7509",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij (ZIKS-1G)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij (ZIKS-1G)",
+      "shortCode": "ZIKS-1G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0459",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-21",
+      "validFrom": "2018-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0459",
+      "versions": [
+        {
+          "id": "ZAKO7509-original",
+          "shortCode": "ZIKS-1G",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0459",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1",
+      "title": "Zakon o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija",
+        "izvršitev kazni"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0973",
+      "gazette": "Uradni list RS 22/2000  str. 3109",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-10",
+      "validFrom": "2000-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0973",
+      "versions": [
+        {
+          "id": "ZIKS-1-original",
+          "shortCode": "ZIKS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/2000  str. 3109",
+          "publishedAt": "2000-03-10",
+          "effectiveFrom": "2000-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0973",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1A",
+          "shortCode": "ZIKS-1A",
+          "label": "Sprememba ZIKS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2002  str. 6109",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2838",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1B",
+          "shortCode": "ZIKS-1B",
+          "label": "Sprememba ZIKS-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 70/06  str. 7259",
+          "publishedAt": "2006-07-06",
+          "effectiveFrom": "2006-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3000",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1D",
+          "shortCode": "ZIKS-1D",
+          "label": "Sprememba ZIKS-1D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 40/09  str. 5549",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1916",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1E",
+          "shortCode": "ZIKS-1E",
+          "label": "Sprememba ZIKS-1E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 109/12  str. 12126",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4318",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1F",
+          "shortCode": "ZIKS-1F",
+          "label": "Sprememba ZIKS-1F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 54/15  str. 6199",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2228",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZAKO7509",
+          "shortCode": "ZIKS-1G",
+          "label": "Sprememba ZIKS-1G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0459",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1H",
+          "shortCode": "ZIKS-1H",
+          "label": "Sprememba ZIKS-1H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 141/22  str. 10707",
+          "publishedAt": "2022-11-07",
+          "effectiveFrom": "2022-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3468",
+          "proposer": null
+        },
+        {
+          "id": "ZIKS-1-amend-ZIKS-1I",
+          "shortCode": "ZIKS-1I",
+          "label": "Sprememba ZIKS-1I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 83/24  str. 7991",
+          "publishedAt": "2024-09-27",
+          "effectiveFrom": "2024-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1A",
+      "title": "Zakon o spremembi zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembi zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1A",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija",
+        "odškodninski zahtevek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2838",
+      "gazette": "Uradni list RS 59/2002  str. 6109",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2838",
+      "versions": [
+        {
+          "id": "ZIKS-1A-original",
+          "shortCode": "ZIKS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6109",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2838",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1B",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3000",
+      "gazette": "Uradni list RS 70/06  str. 7259",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-06",
+      "validFrom": "2006-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3000",
+      "versions": [
+        {
+          "id": "ZIKS-1B-original",
+          "shortCode": "ZIKS-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/06  str. 7259",
+          "publishedAt": "2006-07-06",
+          "effectiveFrom": "2006-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3000",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1D",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1916",
+      "gazette": "Uradni list RS 40/09  str. 5549",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-29",
+      "validFrom": "2009-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1916",
+      "versions": [
+        {
+          "id": "ZIKS-1D-original",
+          "shortCode": "ZIKS-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/09  str. 5549",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1916",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1E",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4318",
+      "gazette": "Uradni list RS 109/12  str. 12126",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4318",
+      "versions": [
+        {
+          "id": "ZIKS-1E-original",
+          "shortCode": "ZIKS-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12126",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4318",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1F",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2228",
+      "gazette": "Uradni list RS 54/15  str. 6199",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-20",
+      "validFrom": "2015-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2228",
+      "versions": [
+        {
+          "id": "ZIKS-1F-original",
+          "shortCode": "ZIKS-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/15  str. 6199",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2228",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3468",
+      "gazette": "Uradni list RS 141/22  str. 10707",
+      "issuingBody": null,
+      "adoptedAt": "2022-11-07",
+      "validFrom": "2022-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3468",
+      "versions": [
+        {
+          "id": "ZIKS-1H-original",
+          "shortCode": "ZIKS-1H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 141/22  str. 10707",
+          "publishedAt": "2022-11-07",
+          "effectiveFrom": "2022-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3468",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-1I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-1I",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2440",
+      "gazette": "Uradni list RS 83/24  str. 7991",
+      "issuingBody": null,
+      "adoptedAt": "2024-09-27",
+      "validFrom": "2024-09-27",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2440",
+      "versions": [
+        {
+          "id": "ZIKS-1I-original",
+          "shortCode": "ZIKS-1I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/24  str. 7991",
+          "publishedAt": "2024-09-27",
+          "effectiveFrom": "2024-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIKS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-A",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0633",
+      "gazette": "Uradni list RS 12/92  str. 773",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-13",
+      "validFrom": "1992-03-13",
+      "validTo": null,
+      "latestPublishedAt": "1992-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0633",
+      "versions": [
+        {
+          "id": "ZIKS-A-original",
+          "shortCode": "ZIKS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/92  str. 773",
+          "publishedAt": "1992-03-13",
+          "effectiveFrom": "1992-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0633",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-B",
+      "title": "Zakon o dopolnitvi zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o dopolnitvi zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-B",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2121",
+      "gazette": "Uradni list RS 58/93  str. 2874",
+      "issuingBody": null,
+      "adoptedAt": "1993-10-17",
+      "validFrom": "1993-10-17",
+      "validTo": null,
+      "latestPublishedAt": "1993-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2121",
+      "versions": [
+        {
+          "id": "ZIKS-B-original",
+          "shortCode": "ZIKS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/93  str. 2874",
+          "publishedAt": "1993-10-17",
+          "effectiveFrom": "1993-10-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-C",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija",
+        "odškodninski zahtevek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0435",
+      "gazette": "Uradni list RS 10/98  str. 661",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-10",
+      "validFrom": "1998-02-10",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0435",
+      "versions": [
+        {
+          "id": "ZIKS-C-original",
+          "shortCode": "ZIKS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/98  str. 661",
+          "publishedAt": "1998-02-10",
+          "effectiveFrom": "1998-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0435",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIKS-D",
+      "title": "Zakon o dopolnitvi zakona o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortTitle": "Zakon o dopolnitvi zakona o spremembah in dopolnitvah zakona o izvrševanju kazenskih sankcij",
+      "shortCode": "ZIKS-D",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1214",
+      "gazette": "Uradni list RS 26/99  str. 2875",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-15",
+      "validFrom": "1999-04-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1214",
+      "versions": [
+        {
+          "id": "ZIKS-D-original",
+          "shortCode": "ZIKS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/99  str. 2875",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO31"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1214",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

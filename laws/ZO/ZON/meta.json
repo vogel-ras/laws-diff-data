@@ -1,0 +1,336 @@
+{
+  "root": "ZON",
+  "path": "laws/ZO/ZON",
+  "members": [
+    {
+      "id": "ZAKO6877",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o ohranjanju narave (ZON-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o ohranjanju narave (ZON-C)",
+      "shortCode": "ZON-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1918",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-06-23",
+      "validFrom": "2014-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1918",
+      "versions": [
+        {
+          "id": "ZAKO6877-original",
+          "shortCode": "ZON-C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1918",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7809",
+      "title": "Zakon o dopolnitvah Zakona o ohranjanju narave (ZON-D)",
+      "shortTitle": "Zakon o dopolnitvah Zakona o ohranjanju narave (ZON-D)",
+      "shortCode": "ZON-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1402",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-27",
+      "validFrom": "2018-04-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1402",
+      "versions": [
+        {
+          "id": "ZAKO7809-original",
+          "shortCode": "ZON-D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZON",
+      "title": "Zakon o ohranjanju narave",
+      "shortTitle": "Zakon o ohranjanju narave",
+      "shortCode": "ZON",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo gozdov",
+        "varstvo okolja",
+        "varstvo rastlinstva",
+        "varstvo živalstva",
+        "ekologija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2655",
+      "gazette": "Uradni list RS 56/99  str. 7146",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-13",
+      "validFrom": "1999-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2655",
+      "versions": [
+        {
+          "id": "ZON-original",
+          "shortCode": "ZON",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/99  str. 7146",
+          "publishedAt": "1999-07-13",
+          "effectiveFrom": "1999-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2655",
+          "proposer": null
+        },
+        {
+          "id": "ZON-amend-ZON-A",
+          "shortCode": "ZON-A",
+          "label": "Sprememba ZON-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 119/2002  str. 16678",
+          "publishedAt": "2002-12-30",
+          "effectiveFrom": "2002-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5832",
+          "proposer": null
+        },
+        {
+          "id": "ZON-amend-ZON-B",
+          "shortCode": "ZON-B",
+          "label": "Sprememba ZON-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 41/04  str. 4813",
+          "publishedAt": "2004-04-22",
+          "effectiveFrom": "2004-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1693",
+          "proposer": null
+        },
+        {
+          "id": "ZON-amend-ZAKO6877",
+          "shortCode": "ZON-C",
+          "label": "Sprememba ZON-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1918",
+          "proposer": null
+        },
+        {
+          "id": "ZON-amend-ZAKO7809",
+          "shortCode": "ZON-D",
+          "label": "Sprememba ZON-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1402",
+          "proposer": null
+        },
+        {
+          "id": "ZON-amend-ZON-E",
+          "shortCode": "ZON-E",
+          "label": "Sprememba ZON-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 82/20  str. 2870",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1235",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZON-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave",
+      "shortCode": "ZON-A",
+      "kind": "zakon",
+      "keywords": [
+        "naravno okolje",
+        "ekologija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5832",
+      "gazette": "Uradni list RS 119/2002  str. 16678",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-30",
+      "validFrom": "2002-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5832",
+      "versions": [
+        {
+          "id": "ZON-A-original",
+          "shortCode": "ZON-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 119/2002  str. 16678",
+          "publishedAt": "2002-12-30",
+          "effectiveFrom": "2002-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5832",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZON-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ohranjanju narave",
+      "shortCode": "ZON-B",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja",
+        "naravno okolje",
+        "ekologija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1693",
+      "gazette": "Uradni list RS 41/04  str. 4813",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-22",
+      "validFrom": "2004-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1693",
+      "versions": [
+        {
+          "id": "ZON-B-original",
+          "shortCode": "ZON-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/04  str. 4813",
+          "publishedAt": "2004-04-22",
+          "effectiveFrom": "2004-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1693",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZON-E",
+      "title": "Zakon o spremembah Zakona o ohranjanju narave",
+      "shortTitle": "Zakon o spremembah Zakona o ohranjanju narave",
+      "shortCode": "ZON-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1235",
+      "gazette": "Uradni list RS 82/20  str. 2870",
+      "issuingBody": null,
+      "adoptedAt": "2020-06-05",
+      "validFrom": "2020-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1235",
+      "versions": [
+        {
+          "id": "ZON-E-original",
+          "shortCode": "ZON-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/20  str. 2870",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZON"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1235",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

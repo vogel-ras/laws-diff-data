@@ -1,0 +1,99 @@
+{
+  "root": "ZInfV",
+  "path": "laws/ZI/ZInfV",
+  "members": [
+    {
+      "id": "ZAKO7707",
+      "title": "Zakon o informacijski varnosti (ZInfV)",
+      "shortTitle": "Zakon o informacijski varnosti (ZInfV)",
+      "shortCode": "ZInfV",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1350",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1350",
+      "versions": [
+        {
+          "id": "ZAKO7707-original",
+          "shortCode": "ZInfV",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1350",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7707-amend-ZInfV-B",
+          "shortCode": "ZInfV-B",
+          "label": "Sprememba ZInfV-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 49/23  str. 4168",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7707"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1519",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZInfV-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o informacijski varnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o informacijski varnosti",
+      "shortCode": "ZInfV-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1519",
+      "gazette": "Uradni list RS 49/23  str. 4168",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-28",
+      "validFrom": "2023-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1519",
+      "versions": [
+        {
+          "id": "ZInfV-B-original",
+          "shortCode": "ZInfV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/23  str. 4168",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7707"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1519",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

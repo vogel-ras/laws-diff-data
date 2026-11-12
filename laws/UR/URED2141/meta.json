@@ -1,0 +1,97 @@
+{
+  "root": "URED2141",
+  "path": "laws/UR/URED2141",
+  "members": [
+    {
+      "id": "URED2141",
+      "title": "Uredba o določitvi tarife nadomestil za uporabo sredstev iz popisa",
+      "shortTitle": "Uredba o določitvi tarife nadomestil za uporabo sredstev iz popisa",
+      "shortCode": "URED2141",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0618",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-02-21",
+      "validFrom": "2002-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0618",
+      "versions": [
+        {
+          "id": "URED2141-original",
+          "shortCode": "URED2141",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-21",
+          "effectiveFrom": "2002-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0618",
+          "proposer": null
+        },
+        {
+          "id": "URED2141-npb-URED2141",
+          "shortCode": "URED2141-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-02-21",
+          "effectiveFrom": "2002-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2141",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6944",
+      "title": "Uredba o spremembi Uredbe o določitvi tarife nadomestil za uporabo sredstev iz popisa",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi tarife nadomestil za uporabo sredstev iz popisa",
+      "shortCode": "URED6944",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3690",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-07",
+      "validFrom": "2015-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3690",
+      "versions": [
+        {
+          "id": "URED6944-original",
+          "shortCode": "URED6944",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-07",
+          "effectiveFrom": "2015-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2141"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3690",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

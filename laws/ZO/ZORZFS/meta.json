@@ -1,0 +1,99 @@
+{
+  "root": "ZORZFS",
+  "path": "laws/ZO/ZORZFS",
+  "members": [
+    {
+      "id": "ZORZFS",
+      "title": "Zakon o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "shortTitle": "Zakon o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "shortCode": "ZORZFS",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-4011",
+      "gazette": "Uradni list RS 131/23  str. 11979",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-22",
+      "validFrom": "2023-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4011",
+      "versions": [
+        {
+          "id": "ZORZFS-original",
+          "shortCode": "ZORZFS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 131/23  str. 11979",
+          "publishedAt": "2023-12-22",
+          "effectiveFrom": "2023-12-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4011",
+          "proposer": null
+        },
+        {
+          "id": "ZORZFS-amend-ZORZFS-A",
+          "shortCode": "ZORZFS-A",
+          "label": "Sprememba ZORZFS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 81/24  str. 7383",
+          "publishedAt": "2024-09-20",
+          "effectiveFrom": "2024-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZORZFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2378",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZORZFS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o obnovi, razvoju in zagotavljanju finančnih sredstev",
+      "shortCode": "ZORZFS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2378",
+      "gazette": "Uradni list RS 81/24  str. 7383",
+      "issuingBody": null,
+      "adoptedAt": "2024-09-20",
+      "validFrom": "2024-09-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2378",
+      "versions": [
+        {
+          "id": "ZORZFS-A-original",
+          "shortCode": "ZORZFS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/24  str. 7383",
+          "publishedAt": "2024-09-20",
+          "effectiveFrom": "2024-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZORZFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2378",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

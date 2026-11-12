@@ -1,0 +1,159 @@
+{
+  "root": "ZIMI",
+  "path": "laws/ZI/ZIMI",
+  "members": [
+    {
+      "id": "ZAKO7489",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izenačevanju možnosti invalidov (ZIMI-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izenačevanju možnosti invalidov (ZIMI-B)",
+      "shortCode": "ZIMI-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1755",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-28",
+      "validFrom": "2017-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1755",
+      "versions": [
+        {
+          "id": "ZAKO7489-original",
+          "shortCode": "ZIMI-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-28",
+          "effectiveFrom": "2017-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIMI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1755",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIMI",
+      "title": "Zakon o izenačevanju možnosti invalidov",
+      "shortTitle": "Zakon o izenačevanju možnosti invalidov",
+      "shortCode": "ZIMI",
+      "kind": "zakon",
+      "keywords": [
+        "invalid",
+        "diskriminacija na podlagi invalidnosti",
+        "enako obravnavanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4936",
+      "gazette": "Uradni list RS 94/10  str. 14535",
+      "issuingBody": null,
+      "adoptedAt": "2010-11-26",
+      "validFrom": "2010-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4936",
+      "versions": [
+        {
+          "id": "ZIMI-original",
+          "shortCode": "ZIMI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 94/10  str. 14535",
+          "publishedAt": "2010-11-26",
+          "effectiveFrom": "2010-11-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4936",
+          "proposer": null
+        },
+        {
+          "id": "ZIMI-amend-ZAKO7489",
+          "shortCode": "ZIMI-B",
+          "label": "Sprememba ZIMI-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-06-28",
+          "effectiveFrom": "2017-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIMI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1755",
+          "proposer": null
+        },
+        {
+          "id": "ZIMI-amend-ZIMI-C",
+          "shortCode": "ZIMI-C",
+          "label": "Sprememba ZIMI-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 95/24  str. 9142",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIMI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2869",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIMI-C",
+      "title": "Zakon o dopolnitvah Zakona o izenačevanju možnosti invalidov",
+      "shortTitle": "Zakon o dopolnitvah Zakona o izenačevanju možnosti invalidov",
+      "shortCode": "ZIMI-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2869",
+      "gazette": "Uradni list RS 95/24  str. 9142",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2869",
+      "versions": [
+        {
+          "id": "ZIMI-C-original",
+          "shortCode": "ZIMI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9142",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIMI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2869",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

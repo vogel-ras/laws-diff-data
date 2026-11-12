@@ -1,0 +1,121 @@
+{
+  "root": "PRAV5670",
+  "path": "laws/PR/PRAV5670",
+  "members": [
+    {
+      "id": "PRAV5670",
+      "title": "Pravilnik o kakovosti mesnih izdelkov",
+      "shortTitle": "Pravilnik o kakovosti mesnih izdelkov",
+      "shortCode": "PRAV5670",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1480",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-05-20",
+      "validFrom": "2005-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1480",
+      "versions": [
+        {
+          "id": "PRAV5670-original",
+          "shortCode": "PRAV5670",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-20",
+          "effectiveFrom": "2005-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1480",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6451",
+      "title": "Pravilnik o spremembi pravilnika o kakovosti mesnih izdelkov",
+      "shortTitle": "Pravilnik o spremembi pravilnika o kakovosti mesnih izdelkov",
+      "shortCode": "PRAV6451",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2021",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-05-20",
+      "validFrom": "2005-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2021",
+      "versions": [
+        {
+          "id": "PRAV6451-original",
+          "shortCode": "PRAV6451",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-20",
+          "effectiveFrom": "2005-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5670"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2021",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7676",
+      "title": "Pravilnik o spremembi Pravilnika o kakovosti mesnih izdelkov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o kakovosti mesnih izdelkov",
+      "shortCode": "PRAV7676",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3365",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2006-07-21",
+      "validFrom": "2006-07-21",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3365",
+      "versions": [
+        {
+          "id": "PRAV7676-original",
+          "shortCode": "PRAV7676",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-21",
+          "effectiveFrom": "2006-07-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5670"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3365",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

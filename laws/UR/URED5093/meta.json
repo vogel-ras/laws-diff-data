@@ -1,0 +1,58 @@
+{
+  "root": "URED5093",
+  "path": "laws/UR/URED5093",
+  "members": [
+    {
+      "id": "URED5093",
+      "title": "Uredba o izvajanju delov določenih uredb Skupnosti glede živil, higiene živil in uradnega nadzora nad živili",
+      "shortTitle": "Uredba o izvajanju delov določenih uredb Skupnosti glede živil, higiene živil in uradnega nadzora nad živili",
+      "shortCode": "URED5093",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3896",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-09-10",
+      "validFrom": "2010-09-10",
+      "validTo": null,
+      "latestPublishedAt": "2010-09-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3896",
+      "versions": [
+        {
+          "id": "URED5093-original",
+          "shortCode": "URED5093",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-09-10",
+          "effectiveFrom": "2010-09-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3896",
+          "proposer": null
+        },
+        {
+          "id": "URED5093-npb-URED5093",
+          "shortCode": "URED5093-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-09-10",
+          "effectiveFrom": "2010-09-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5093",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

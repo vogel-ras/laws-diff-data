@@ -1,0 +1,82 @@
+{
+  "root": "PRAV11824",
+  "path": "laws/PR/PRAV11824",
+  "members": [
+    {
+      "id": "PRAV11824",
+      "title": "Pravilnik o dostavi podatkov za odmero dohodnine od dobička iz kapitala od odsvojitve vrednostnih papirjev in drugih deležev ter investicijskih kuponov",
+      "shortTitle": "Pravilnik o dostavi podatkov za odmero dohodnine od dobička iz kapitala od odsvojitve vrednostnih papirjev in drugih deležev ter investicijskih kuponov",
+      "shortCode": "PRAV11824",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-3339",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-11-08",
+      "validFrom": "2013-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3339",
+      "versions": [
+        {
+          "id": "PRAV11824-original",
+          "shortCode": "PRAV11824",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-11-08",
+          "effectiveFrom": "2013-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3339",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12238",
+      "title": "Pravilnik o spremembi Pravilnika o dostavi podatkov za odmero dohodnine od dobička iz kapitala od odsvojitve vrednostnih papirjev in drugih deležev ter investicijskih kuponov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o dostavi podatkov za odmero dohodnine od dobička iz kapitala od odsvojitve vrednostnih papirjev in drugih deležev ter investicijskih kuponov",
+      "shortCode": "PRAV12238",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3652",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2014-12-15",
+      "validFrom": "2014-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3652",
+      "versions": [
+        {
+          "id": "PRAV12238-original",
+          "shortCode": "PRAV12238",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11824"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3652",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

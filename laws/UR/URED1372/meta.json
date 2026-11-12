@@ -1,0 +1,97 @@
+{
+  "root": "URED1372",
+  "path": "laws/UR/URED1372",
+  "members": [
+    {
+      "id": "URED1372",
+      "title": "Uredba o podelitvi rudarske pravice imetnikom dovoljenj za raziskovanje oziroma pridobivanje mineralnih surovin",
+      "shortTitle": "Uredba o podelitvi rudarske pravice imetnikom dovoljenj za raziskovanje oziroma pridobivanje mineralnih surovin",
+      "shortCode": "URED1372",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-4342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-26",
+      "validFrom": "2024-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4342",
+      "versions": [
+        {
+          "id": "URED1372-original",
+          "shortCode": "URED1372",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-26",
+          "effectiveFrom": "2024-08-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4342",
+          "proposer": null
+        },
+        {
+          "id": "URED1372-npb-URED1372",
+          "shortCode": "URED1372-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 26)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-14",
+          "effectiveFrom": "2026-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1372",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2523",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o podelitvi rudarske pravice imetnikom dovoljenj za raziskovanje oziroma pridobivanje mineralnih surovin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o podelitvi rudarske pravice imetnikom dovoljenj za raziskovanje oziroma pridobivanje mineralnih surovin",
+      "shortCode": "URED2523",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-3963",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-09-20",
+      "validFrom": "2002-09-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3963",
+      "versions": [
+        {
+          "id": "URED2523-original",
+          "shortCode": "URED2523",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-20",
+          "effectiveFrom": "2002-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1372"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3963",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

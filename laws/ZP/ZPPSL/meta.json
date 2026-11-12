@@ -1,0 +1,167 @@
+{
+  "root": "ZPPSL",
+  "path": "laws/ZP/ZPPSL",
+  "members": [
+    {
+      "id": "ZPPSL",
+      "title": "Zakon o prisilni poravnavi, stečaju in likvidaciji",
+      "shortTitle": "Zakon o prisilni poravnavi, stečaju in likvidaciji",
+      "shortCode": "ZPPSL",
+      "kind": "zakon",
+      "keywords": [
+        "likvidacija",
+        "prisilna poravnava",
+        "stečaj"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2464",
+      "gazette": "Uradni list RS 67/93  str. 3281",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-17",
+      "validFrom": "1993-12-17",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2464",
+      "versions": [
+        {
+          "id": "ZPPSL-original",
+          "shortCode": "ZPPSL",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/93  str. 3281",
+          "publishedAt": "1993-12-17",
+          "effectiveFrom": "1993-12-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2464",
+          "proposer": null
+        },
+        {
+          "id": "ZPPSL-amend-ZPPSL-A",
+          "shortCode": "ZPPSL-A",
+          "label": "Sprememba ZPPSL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/97  str. 3517",
+          "publishedAt": "1997-06-30",
+          "effectiveFrom": "1997-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPPSL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2142",
+          "proposer": null
+        },
+        {
+          "id": "ZPPSL-amend-ZPPSL-B",
+          "shortCode": "ZPPSL-B",
+          "label": "Sprememba ZPPSL-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 52/99  str. 6561",
+          "publishedAt": "1999-06-30",
+          "effectiveFrom": "1999-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPSL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2487",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPSL-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o prisilni poravnavi, stečaju in likvidaciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o prisilni poravnavi, stečaju in likvidaciji",
+      "shortCode": "ZPPSL-A",
+      "kind": "zakon",
+      "keywords": [
+        "stečaj",
+        "prisilna poravnava",
+        "likvidacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2142",
+      "gazette": "Uradni list RS 39/97  str. 3517",
+      "issuingBody": null,
+      "adoptedAt": "1997-06-30",
+      "validFrom": "1997-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1997-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2142",
+      "versions": [
+        {
+          "id": "ZPPSL-A-original",
+          "shortCode": "ZPPSL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/97  str. 3517",
+          "publishedAt": "1997-06-30",
+          "effectiveFrom": "1997-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPSL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2142",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPSL-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o prisilni poravnavi, stečaju in likvidaciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o prisilni poravnavi, stečaju in likvidaciji",
+      "shortCode": "ZPPSL-B",
+      "kind": "zakon",
+      "keywords": [
+        "stečaj",
+        "likvidacija",
+        "prisilna poravnava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2487",
+      "gazette": "Uradni list RS 52/99  str. 6561",
+      "issuingBody": null,
+      "adoptedAt": "1999-06-30",
+      "validFrom": "1999-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2487",
+      "versions": [
+        {
+          "id": "ZPPSL-B-original",
+          "shortCode": "ZPPSL-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/99  str. 6561",
+          "publishedAt": "1999-06-30",
+          "effectiveFrom": "1999-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPSL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2487",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

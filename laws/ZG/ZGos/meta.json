@@ -1,0 +1,277 @@
+{
+  "root": "ZGos",
+  "path": "laws/ZG/ZGos",
+  "members": [
+    {
+      "id": "ZGos",
+      "title": "Zakon o gostinstvu",
+      "shortTitle": "Zakon o gostinstvu",
+      "shortCode": "ZGos",
+      "kind": "zakon",
+      "keywords": [
+        "gostinstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0007",
+      "gazette": "Uradni list RS 1/95  str. 41",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0007",
+      "versions": [
+        {
+          "id": "ZGos-original",
+          "shortCode": "ZGos",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 41",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0007",
+          "proposer": null
+        },
+        {
+          "id": "ZGos-amend-ZGos-A",
+          "shortCode": "ZGos-A",
+          "label": "Sprememba ZGos-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/99  str. 4789",
+          "publishedAt": "1999-05-28",
+          "effectiveFrom": "1999-05-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1990",
+          "proposer": null
+        },
+        {
+          "id": "ZGos-amend-ZGos-B",
+          "shortCode": "ZGos-B",
+          "label": "Sprememba ZGos-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 101/05  str. 10613",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4397",
+          "proposer": null
+        },
+        {
+          "id": "ZGos-amend-ZGos-C",
+          "shortCode": "ZGos-C",
+          "label": "Sprememba ZGos-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 60/07  str. 8365",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3211",
+          "proposer": null
+        },
+        {
+          "id": "ZGos-amend-ZGos-D",
+          "shortCode": "ZGos-D",
+          "label": "Sprememba ZGos-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 52/16  str. 7680",
+          "publishedAt": "2016-07-29",
+          "effectiveFrom": "2016-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2298",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGos-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortCode": "ZGos-A",
+      "kind": "zakon",
+      "keywords": [
+        "gostinstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1990",
+      "gazette": "Uradni list RS 40/99  str. 4789",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-28",
+      "validFrom": "1999-05-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1990",
+      "versions": [
+        {
+          "id": "ZGos-A-original",
+          "shortCode": "ZGos-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/99  str. 4789",
+          "publishedAt": "1999-05-28",
+          "effectiveFrom": "1999-05-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1990",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGos-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortCode": "ZGos-B",
+      "kind": "zakon",
+      "keywords": [
+        "gostinstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4397",
+      "gazette": "Uradni list RS 101/05  str. 10613",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4397",
+      "versions": [
+        {
+          "id": "ZGos-B-original",
+          "shortCode": "ZGos-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/05  str. 10613",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4397",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGos-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gostinstvu",
+      "shortCode": "ZGos-C",
+      "kind": "zakon",
+      "keywords": [
+        "gostinstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3211",
+      "gazette": "Uradni list RS 60/07  str. 8365",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-06",
+      "validFrom": "2007-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3211",
+      "versions": [
+        {
+          "id": "ZGos-C-original",
+          "shortCode": "ZGos-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/07  str. 8365",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3211",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGos-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gostinstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gostinstvu",
+      "shortCode": "ZGos-D",
+      "kind": "zakon",
+      "keywords": [
+        "gostinstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2298",
+      "gazette": "Uradni list RS 52/16  str. 7680",
+      "issuingBody": null,
+      "adoptedAt": "2016-07-29",
+      "validFrom": "2016-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2298",
+      "versions": [
+        {
+          "id": "ZGos-D-original",
+          "shortCode": "ZGos-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/16  str. 7680",
+          "publishedAt": "2016-07-29",
+          "effectiveFrom": "2016-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGos"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2298",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

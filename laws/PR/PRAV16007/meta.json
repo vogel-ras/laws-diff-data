@@ -1,0 +1,97 @@
+{
+  "root": "PRAV16007",
+  "path": "laws/PR/PRAV16007",
+  "members": [
+    {
+      "id": "PRAV16007",
+      "title": "Pravilnik o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2026",
+      "shortTitle": "Pravilnik o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2026",
+      "shortCode": "PRAV16007",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-3622",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2025-12-15",
+      "validFrom": "2025-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2025-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3622",
+      "versions": [
+        {
+          "id": "PRAV16007-original",
+          "shortCode": "PRAV16007",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-12-15",
+          "effectiveFrom": "2025-12-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3622",
+          "proposer": null
+        },
+        {
+          "id": "PRAV16007-npb-PRAV16007",
+          "shortCode": "PRAV16007-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-12-15",
+          "effectiveFrom": "2025-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV16007",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16034",
+      "title": "Pravilnik o spremembi Pravilnika o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2026",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2026",
+      "shortCode": "PRAV16034",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-3749",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2025-12-22",
+      "validFrom": "2025-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2025-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3749",
+      "versions": [
+        {
+          "id": "PRAV16034-original",
+          "shortCode": "PRAV16034",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-12-22",
+          "effectiveFrom": "2025-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV16007"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3749",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

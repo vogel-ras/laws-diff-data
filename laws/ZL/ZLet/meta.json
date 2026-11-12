@@ -1,0 +1,378 @@
+{
+  "root": "ZLet",
+  "path": "laws/ZL/ZLet",
+  "members": [
+    {
+      "id": "ZLet",
+      "title": "Zakon o letalstvu",
+      "shortTitle": "Zakon o letalstvu",
+      "shortCode": "ZLet",
+      "kind": "zakon",
+      "keywords": [
+        "letalski potniški promet",
+        "zračni promet",
+        "varnost v zračnem prometu",
+        "letališče"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1062",
+      "gazette": "Uradni list RS 18/2001  str. 1729",
+      "issuingBody": null,
+      "adoptedAt": "2001-03-14",
+      "validFrom": "2001-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1062",
+      "versions": [
+        {
+          "id": "ZLet-original",
+          "shortCode": "ZLet",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/2001  str. 1729",
+          "publishedAt": "2001-03-14",
+          "effectiveFrom": "2001-03-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1062",
+          "proposer": null
+        },
+        {
+          "id": "ZLet-amend-ZLet-A",
+          "shortCode": "ZLet-A",
+          "label": "Sprememba ZLet-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 79/06  str. 8488",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3448",
+          "proposer": null
+        },
+        {
+          "id": "ZLet-amend-ZLet-B",
+          "shortCode": "ZLet-B",
+          "label": "Sprememba ZLet-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 33/09  str. 4659",
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1511",
+          "proposer": null
+        },
+        {
+          "id": "ZLet-amend-ZLet-C",
+          "shortCode": "ZLet-C",
+          "label": "Sprememba ZLet-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 62/10  str. 9354",
+          "publishedAt": "2010-07-30",
+          "effectiveFrom": "2010-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3389",
+          "proposer": null
+        },
+        {
+          "id": "ZLet-amend-ZLet-D",
+          "shortCode": "ZLet-D",
+          "label": "Sprememba ZLet-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 46/16  str. 6767",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1998",
+          "proposer": null
+        },
+        {
+          "id": "ZLet-amend-ZLet-E",
+          "shortCode": "ZLet-E",
+          "label": "Sprememba ZLet-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 47/19  str. 5890",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-1",
+      "title": "Zakon o letalstvu",
+      "shortTitle": "Zakon o letalstvu",
+      "shortCode": "ZLet-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2517",
+      "gazette": "Uradni list RS 85/24  str. 8139",
+      "issuingBody": null,
+      "adoptedAt": "2024-10-04",
+      "validFrom": "2024-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2517",
+      "versions": [
+        {
+          "id": "ZLet-1-original",
+          "shortCode": "ZLet-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/24  str. 8139",
+          "publishedAt": "2024-10-04",
+          "effectiveFrom": "2024-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2517",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o letalstvu",
+      "shortCode": "ZLet-A",
+      "kind": "zakon",
+      "keywords": [
+        "letalsko pravo",
+        "zračni promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3448",
+      "gazette": "Uradni list RS 79/06  str. 8488",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-27",
+      "validFrom": "2006-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3448",
+      "versions": [
+        {
+          "id": "ZLet-A-original",
+          "shortCode": "ZLet-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/06  str. 8488",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3448",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortCode": "ZLet-B",
+      "kind": "zakon",
+      "keywords": [
+        "letalski potniški promet",
+        "zračni promet",
+        "varnost v zračnem prometu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1511",
+      "gazette": "Uradni list RS 33/09  str. 4659",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-30",
+      "validFrom": "2009-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1511",
+      "versions": [
+        {
+          "id": "ZLet-B-original",
+          "shortCode": "ZLet-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/09  str. 4659",
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1511",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortCode": "ZLet-C",
+      "kind": "zakon",
+      "keywords": [
+        "letalski potniški promet",
+        "zračni promet",
+        "varnost v zračnem prometu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3389",
+      "gazette": "Uradni list RS 62/10  str. 9354",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-30",
+      "validFrom": "2010-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3389",
+      "versions": [
+        {
+          "id": "ZLet-C-original",
+          "shortCode": "ZLet-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 62/10  str. 9354",
+          "publishedAt": "2010-07-30",
+          "effectiveFrom": "2010-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3389",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-D",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o letalstvu",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o letalstvu",
+      "shortCode": "ZLet-D",
+      "kind": "zakon",
+      "keywords": [
+        "letalsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1998",
+      "gazette": "Uradni list RS 46/16  str. 6767",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-30",
+      "validFrom": "2016-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1998",
+      "versions": [
+        {
+          "id": "ZLet-D-original",
+          "shortCode": "ZLet-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/16  str. 6767",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1998",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLet-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o letalstvu",
+      "shortCode": "ZLet-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2289",
+      "gazette": "Uradni list RS 47/19  str. 5890",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-26",
+      "validFrom": "2019-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2289",
+      "versions": [
+        {
+          "id": "ZLet-E-original",
+          "shortCode": "ZLet-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/19  str. 5890",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLet"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2289",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

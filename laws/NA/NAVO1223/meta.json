@@ -1,0 +1,58 @@
+{
+  "root": "NAVO1223",
+  "path": "laws/NA/NAVO1223",
+  "members": [
+    {
+      "id": "NAVO1223",
+      "title": "Navodila o razmejitvi vrst prihodkov in odhodkov po opravljenih storitvah v okviru javne zdravstvene službe in tržne dejavnosti",
+      "shortTitle": "Navodila o razmejitvi vrst prihodkov in odhodkov po opravljenih storitvah v okviru javne zdravstvene službe in tržne dejavnosti",
+      "shortCode": "NAVO1223",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2025-01-2722",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2025-10-03",
+      "validFrom": "2025-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2026-05-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2722",
+      "versions": [
+        {
+          "id": "NAVO1223-original",
+          "shortCode": "NAVO1223",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-03",
+          "effectiveFrom": "2025-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2722",
+          "proposer": null
+        },
+        {
+          "id": "NAVO1223-npb-NAVO1223",
+          "shortCode": "NAVO1223-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-05-01",
+          "effectiveFrom": "2026-05-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO1223",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

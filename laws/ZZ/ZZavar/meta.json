@@ -1,0 +1,844 @@
+{
+  "root": "ZZavar",
+  "path": "laws/ZZ/ZZavar",
+  "members": [
+    {
+      "id": "ZAKO5398",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-E)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu (ZZavar-E)",
+      "shortCode": "ZZavar-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-3015",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3015",
+      "versions": [
+        {
+          "id": "ZAKO5398-original",
+          "shortCode": "ZZavar-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar",
+      "title": "Zakon o zavarovalništvu",
+      "shortTitle": "Zakon o zavarovalništvu",
+      "shortCode": "ZZavar",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0595",
+      "gazette": "Uradni list RS 13/2000  str. 1632",
+      "issuingBody": null,
+      "adoptedAt": "2000-02-17",
+      "validFrom": "2000-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0595",
+      "versions": [
+        {
+          "id": "ZZavar-original",
+          "shortCode": "ZZavar",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/2000  str. 1632",
+          "publishedAt": "2000-02-17",
+          "effectiveFrom": "2000-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0595",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-A",
+          "shortCode": "ZZavar-A",
+          "label": "Sprememba ZZavar-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/2002  str. 1590",
+          "publishedAt": "2002-03-11",
+          "effectiveFrom": "2002-03-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0912",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-B",
+          "shortCode": "ZZavar-B",
+          "label": "Sprememba ZZavar-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 50/04  str. 6681",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2292",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-C",
+          "shortCode": "ZZavar-C",
+          "label": "Sprememba ZZavar-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 79/06  str. 8510",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3453",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-D",
+          "shortCode": "ZZavar-D",
+          "label": "Sprememba ZZavar-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 102/07  str. 13770",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5070",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZAKO5398",
+          "shortCode": "ZZavar-E",
+          "label": "Sprememba ZZavar-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3015",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-F",
+          "shortCode": "ZZavar-F",
+          "label": "Sprememba ZZavar-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 19/09  str. 2433",
+          "publishedAt": "2009-03-13",
+          "effectiveFrom": "2009-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0698",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-G",
+          "shortCode": "ZZavar-G",
+          "label": "Sprememba ZZavar-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 49/09  str. 6725",
+          "publishedAt": "2009-06-29",
+          "effectiveFrom": "2009-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2430",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-H",
+          "shortCode": "ZZavar-H",
+          "label": "Sprememba ZZavar-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 79/10  str. 11888",
+          "publishedAt": "2010-10-08",
+          "effectiveFrom": "2010-10-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4267",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-I",
+          "shortCode": "ZZavar-I",
+          "label": "Sprememba ZZavar-I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 90/12  str. 9307",
+          "publishedAt": "2012-11-30",
+          "effectiveFrom": "2012-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3530",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-amend-ZZavar-J",
+          "shortCode": "ZZavar-J",
+          "label": "Sprememba ZZavar-J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 56/13  str. 6438",
+          "publishedAt": "2013-07-02",
+          "effectiveFrom": "2013-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2144",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-1",
+      "title": "Zakon o zavarovalništvu",
+      "shortTitle": "Zakon o zavarovalništvu",
+      "shortCode": "ZZavar-1",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3687",
+      "gazette": "Uradni list RS 93/15  str. 10595",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-07",
+      "validFrom": "2015-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3687",
+      "versions": [
+        {
+          "id": "ZZavar-1-original",
+          "shortCode": "ZZavar-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/15  str. 10595",
+          "publishedAt": "2015-12-07",
+          "effectiveFrom": "2015-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3687",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-1-amend-ZZavar-1A",
+          "shortCode": "ZZavar-1A",
+          "label": "Sprememba ZZavar-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/19  str. 639",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0288",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-1-amend-ZZavar-1B",
+          "shortCode": "ZZavar-1B",
+          "label": "Sprememba ZZavar-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 102/20  str. 4146",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1915",
+          "proposer": null
+        },
+        {
+          "id": "ZZavar-1-amend-ZZavar-1C",
+          "shortCode": "ZZavar-1C",
+          "label": "Sprememba ZZavar-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 48/23  str. 4068",
+          "publishedAt": "2023-04-26",
+          "effectiveFrom": "2023-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1451",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0288",
+      "gazette": "Uradni list RS 9/19  str. 639",
+      "issuingBody": null,
+      "adoptedAt": "2019-02-11",
+      "validFrom": "2019-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0288",
+      "versions": [
+        {
+          "id": "ZZavar-1A-original",
+          "shortCode": "ZZavar-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/19  str. 639",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1915",
+      "gazette": "Uradni list RS 102/20  str. 4146",
+      "issuingBody": null,
+      "adoptedAt": "2020-07-22",
+      "validFrom": "2020-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1915",
+      "versions": [
+        {
+          "id": "ZZavar-1B-original",
+          "shortCode": "ZZavar-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/20  str. 4146",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1915",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1451",
+      "gazette": "Uradni list RS 48/23  str. 4068",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-26",
+      "validFrom": "2023-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1451",
+      "versions": [
+        {
+          "id": "ZZavar-1C-original",
+          "shortCode": "ZZavar-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/23  str. 4068",
+          "publishedAt": "2023-04-26",
+          "effectiveFrom": "2023-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1451",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortCode": "ZZavar-A",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovalna premija",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0912",
+      "gazette": "Uradni list RS 21/2002  str. 1590",
+      "issuingBody": null,
+      "adoptedAt": "2002-03-11",
+      "validFrom": "2002-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0912",
+      "versions": [
+        {
+          "id": "ZZavar-A-original",
+          "shortCode": "ZZavar-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/2002  str. 1590",
+          "publishedAt": "2002-03-11",
+          "effectiveFrom": "2002-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0912",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortCode": "ZZavar-B",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2292",
+      "gazette": "Uradni list RS 50/04  str. 6681",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-06",
+      "validFrom": "2004-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2292",
+      "versions": [
+        {
+          "id": "ZZavar-B-original",
+          "shortCode": "ZZavar-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/04  str. 6681",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2292",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortCode": "ZZavar-C",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3453",
+      "gazette": "Uradni list RS 79/06  str. 8510",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-27",
+      "validFrom": "2006-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3453",
+      "versions": [
+        {
+          "id": "ZZavar-C-original",
+          "shortCode": "ZZavar-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/06  str. 8510",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3453",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zavarovalništvu",
+      "shortCode": "ZZavar-D",
+      "kind": "zakon",
+      "keywords": [
+        "pozavarovanje",
+        "zavarovalnica",
+        "zavarovalno pravo",
+        "finančni nadzor",
+        "plačilna sposobnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5070",
+      "gazette": "Uradni list RS 102/07  str. 13770",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5070",
+      "versions": [
+        {
+          "id": "ZZavar-D-original",
+          "shortCode": "ZZavar-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13770",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5070",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-F",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovalnina",
+        "pozavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-0698",
+      "gazette": "Uradni list RS 19/09  str. 2433",
+      "issuingBody": null,
+      "adoptedAt": "2009-03-13",
+      "validFrom": "2009-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0698",
+      "versions": [
+        {
+          "id": "ZZavar-F-original",
+          "shortCode": "ZZavar-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/09  str. 2433",
+          "publishedAt": "2009-03-13",
+          "effectiveFrom": "2009-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-G",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2430",
+      "gazette": "Uradni list RS 49/09  str. 6725",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-29",
+      "validFrom": "2009-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2430",
+      "versions": [
+        {
+          "id": "ZZavar-G-original",
+          "shortCode": "ZZavar-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/09  str. 6725",
+          "publishedAt": "2009-06-29",
+          "effectiveFrom": "2009-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2430",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-H",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4267",
+      "gazette": "Uradni list RS 79/10  str. 11888",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-08",
+      "validFrom": "2010-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4267",
+      "versions": [
+        {
+          "id": "ZZavar-H-original",
+          "shortCode": "ZZavar-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/10  str. 11888",
+          "publishedAt": "2010-10-08",
+          "effectiveFrom": "2010-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4267",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-I",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3530",
+      "gazette": "Uradni list RS 90/12  str. 9307",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-30",
+      "validFrom": "2012-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3530",
+      "versions": [
+        {
+          "id": "ZZavar-I-original",
+          "shortCode": "ZZavar-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/12  str. 9307",
+          "publishedAt": "2012-11-30",
+          "effectiveFrom": "2012-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3530",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZavar-J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zavarovalništvu",
+      "shortCode": "ZZavar-J",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovalnica",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2144",
+      "gazette": "Uradni list RS 56/13  str. 6438",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-02",
+      "validFrom": "2013-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2144",
+      "versions": [
+        {
+          "id": "ZZavar-J-original",
+          "shortCode": "ZZavar-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/13  str. 6438",
+          "publishedAt": "2013-07-02",
+          "effectiveFrom": "2013-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZavar"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2144",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

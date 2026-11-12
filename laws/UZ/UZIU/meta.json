@@ -1,0 +1,105 @@
+{
+  "root": "UZIU",
+  "path": "laws/UZ/UZIU",
+  "members": [
+    {
+      "id": "UZIU",
+      "title": "Ustavni zakon za izvedbo ustave Republike Slovenije",
+      "shortTitle": "Ustavni zakon za izvedbo ustave Republike Slovenije",
+      "shortCode": "UZIU",
+      "kind": "zakon",
+      "keywords": [
+        "uporaba zakona",
+        "ustava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1411",
+      "gazette": "Uradni list RS 33/91  str. 1386",
+      "issuingBody": null,
+      "adoptedAt": "1991-12-28",
+      "validFrom": "1991-12-28",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1411",
+      "versions": [
+        {
+          "id": "UZIU-original",
+          "shortCode": "UZIU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/91  str. 1386",
+          "publishedAt": "1991-12-28",
+          "effectiveFrom": "1991-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1411",
+          "proposer": null
+        },
+        {
+          "id": "UZIU-amend-UZIU-A",
+          "shortCode": "UZIU-A",
+          "label": "Sprememba UZIU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/94  str. 1248",
+          "publishedAt": "1994-04-22",
+          "effectiveFrom": "1994-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "UZIU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0895",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "UZIU-A",
+      "title": "Ustavni zakon o dopolnitvi ustavnega zakona za izvedbo ustave Republike Slovenije",
+      "shortTitle": "Ustavni zakon o dopolnitvi ustavnega zakona za izvedbo ustave Republike Slovenije",
+      "shortCode": "UZIU-A",
+      "kind": "zakon",
+      "keywords": [
+        "uporaba zakona",
+        "ustava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0895",
+      "gazette": "Uradni list RS 21/94  str. 1248",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-22",
+      "validFrom": "1994-04-22",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0895",
+      "versions": [
+        {
+          "id": "UZIU-A-original",
+          "shortCode": "UZIU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/94  str. 1248",
+          "publishedAt": "1994-04-22",
+          "effectiveFrom": "1994-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "UZIU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0895",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

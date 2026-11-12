@@ -1,0 +1,82 @@
+{
+  "root": "PRAV8753",
+  "path": "laws/PR/PRAV8753",
+  "members": [
+    {
+      "id": "PRAV8753",
+      "title": "Pravilnik o načinu in postopku analiznega, farmakološko-toksikološkega in kliničnega preskušanja zdravil za uporabo v veterinarski medicini",
+      "shortTitle": "Pravilnik o načinu in postopku analiznega, farmakološko-toksikološkega in kliničnega preskušanja zdravil za uporabo v veterinarski medicini",
+      "shortCode": "PRAV8753",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3886",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2008-09-26",
+      "validFrom": "2008-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3886",
+      "versions": [
+        {
+          "id": "PRAV8753-original",
+          "shortCode": "PRAV8753",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-26",
+          "effectiveFrom": "2008-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3886",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9696",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in postopku analiznega, farmakološko-toksikološkega in kliničnega preskušanja zdravil za uporabo v veterinarski medicini",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in postopku analiznega, farmakološko-toksikološkega in kliničnega preskušanja zdravil za uporabo v veterinarski medicini",
+      "shortCode": "PRAV9696",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3446",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2009-10-09",
+      "validFrom": "2009-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3446",
+      "versions": [
+        {
+          "id": "PRAV9696-original",
+          "shortCode": "PRAV9696",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-10-09",
+          "effectiveFrom": "2009-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8753"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3446",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

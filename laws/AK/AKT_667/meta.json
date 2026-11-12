@@ -1,0 +1,82 @@
+{
+  "root": "AKT_667",
+  "path": "laws/AK/AKT_667",
+  "members": [
+    {
+      "id": "AKT_667",
+      "title": "Akt o ustanovitvi Javnega nepremičninskega sklada Republike Slovenije",
+      "shortTitle": "Akt o ustanovitvi Javnega nepremičninskega sklada Republike Slovenije",
+      "shortCode": "AKT_667",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2288",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-11-11",
+      "validFrom": "2011-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2288",
+      "versions": [
+        {
+          "id": "AKT_667-original",
+          "shortCode": "AKT_667",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-11",
+          "effectiveFrom": "2011-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "AKT_735",
+      "title": "Akt o spremembah Akta o ustanovitvi Javnega nepremičninskega sklada Republike Slovenije",
+      "shortTitle": "Akt o spremembah Akta o ustanovitvi Javnega nepremičninskega sklada Republike Slovenije",
+      "shortCode": "AKT_735",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3906",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-11-11",
+      "validFrom": "2011-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3906",
+      "versions": [
+        {
+          "id": "AKT_735-original",
+          "shortCode": "AKT_735",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-11",
+          "effectiveFrom": "2011-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_667"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3906",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

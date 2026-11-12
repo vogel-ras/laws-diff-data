@@ -1,0 +1,82 @@
+{
+  "root": "ODLO2150",
+  "path": "ordinances/OD/ODLO2150",
+  "members": [
+    {
+      "id": "ODLO2150",
+      "title": "Odlok o začasni splošni omejitvi oziroma prepovedi zbiranja ljudi v Republiki Sloveniji ter prepovedi prometa posameznih vrst blaga in izdelkov v času zbiranja ljudi",
+      "shortTitle": "Odlok o začasni splošni omejitvi oziroma prepovedi zbiranja ljudi v Republiki Sloveniji ter prepovedi prometa posameznih vrst blaga in izdelkov v času zbiranja ljudi",
+      "shortCode": "ODLO2150",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-2440",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-10-08",
+      "validFrom": "2020-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2440",
+      "versions": [
+        {
+          "id": "ODLO2150-original",
+          "shortCode": "ODLO2150",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-08",
+          "effectiveFrom": "2020-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2170",
+      "title": "Odlok o spremembah Odloka o začasni splošni omejitvi oziroma prepovedi zbiranja ljudi v Republiki Sloveniji ter prepovedi prometa posameznih vrst blaga in izdelkov v času zbiranja ljudi",
+      "shortTitle": "Odlok o spremembah Odloka o začasni splošni omejitvi oziroma prepovedi zbiranja ljudi v Republiki Sloveniji ter prepovedi prometa posameznih vrst blaga in izdelkov v času zbiranja ljudi",
+      "shortCode": "ODLO2170",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-2535",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-10-15",
+      "validFrom": "2020-10-15",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2535",
+      "versions": [
+        {
+          "id": "ODLO2170-original",
+          "shortCode": "ODLO2170",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-15",
+          "effectiveFrom": "2020-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2150"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2535",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

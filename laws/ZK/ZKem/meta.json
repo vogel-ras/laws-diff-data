@@ -1,0 +1,165 @@
+{
+  "root": "ZKem",
+  "path": "laws/ZK/ZKem",
+  "members": [
+    {
+      "id": "ZKem",
+      "title": "Zakon o kemikalijah",
+      "shortTitle": "Zakon o kemikalijah",
+      "shortCode": "ZKem",
+      "kind": "zakon",
+      "keywords": [
+        "posebne kemikalije",
+        "nevarna snov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1752",
+      "gazette": "Uradni list RS 36/99  str. 4165",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-14",
+      "validFrom": "1999-05-14",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1752",
+      "versions": [
+        {
+          "id": "ZKem-original",
+          "shortCode": "ZKem",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/99  str. 4165",
+          "publishedAt": "1999-05-14",
+          "effectiveFrom": "1999-05-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1752",
+          "proposer": null
+        },
+        {
+          "id": "ZKem-amend-ZKem-A",
+          "shortCode": "ZKem-A",
+          "label": "Sprememba ZKem-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/2003  str. 10060",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZKem"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3142",
+          "proposer": null
+        },
+        {
+          "id": "ZKem-amend-ZKem-C",
+          "shortCode": "ZKem-C",
+          "label": "Sprememba ZKem-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/11  str. 839",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKem"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0326",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKem-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o kemikalijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o kemikalijah",
+      "shortCode": "ZKem-A",
+      "kind": "zakon",
+      "keywords": [
+        "nevarna snov",
+        "kemična spojina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3142",
+      "gazette": "Uradni list RS 65/2003  str. 10060",
+      "issuingBody": null,
+      "adoptedAt": "2003-07-04",
+      "validFrom": "2003-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3142",
+      "versions": [
+        {
+          "id": "ZKem-A-original",
+          "shortCode": "ZKem-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/2003  str. 10060",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKem"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3142",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKem-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o kemikalijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o kemikalijah",
+      "shortCode": "ZKem-C",
+      "kind": "zakon",
+      "keywords": [
+        "kemični izdelek",
+        "nevarna snov",
+        "posebne kemikalije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0326",
+      "gazette": "Uradni list RS 9/11  str. 839",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0326",
+      "versions": [
+        {
+          "id": "ZKem-C-original",
+          "shortCode": "ZKem-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 839",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKem"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0326",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

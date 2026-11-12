@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5181",
+  "path": "laws/PR/PRAV5181",
+  "members": [
+    {
+      "id": "PRAV15528",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju pouka v glasbenih šolah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju pouka v glasbenih šolah",
+      "shortCode": "PRAV15528",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2945",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-18",
+      "validFrom": "2024-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2945",
+      "versions": [
+        {
+          "id": "PRAV15528-original",
+          "shortCode": "PRAV15528",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-18",
+          "effectiveFrom": "2024-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5181"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2945",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5181",
+      "title": "Pravilnik o izvajanju pouka v glasbenih šolah",
+      "shortTitle": "Pravilnik o izvajanju pouka v glasbenih šolah",
+      "shortCode": "PRAV5181",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3934",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-18",
+      "validFrom": "2024-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3934",
+      "versions": [
+        {
+          "id": "PRAV5181-original",
+          "shortCode": "PRAV5181",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-18",
+          "effectiveFrom": "2024-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3934",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5181-npb-PRAV5181",
+          "shortCode": "PRAV5181-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5181",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

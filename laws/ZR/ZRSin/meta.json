@@ -1,0 +1,45 @@
+{
+  "root": "ZRSin",
+  "path": "laws/ZR/ZRSin",
+  "members": [
+    {
+      "id": "ZRSin",
+      "title": "Zakon o reprezentativnosti sindikatov",
+      "shortTitle": "Zakon o reprezentativnosti sindikatov",
+      "shortCode": "ZRSin",
+      "kind": "zakon",
+      "keywords": [
+        "sindikat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0589",
+      "gazette": "Uradni list RS 13/93  str. 567",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1993-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0589",
+      "versions": [
+        {
+          "id": "ZRSin-original",
+          "shortCode": "ZRSin",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 567",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0589",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

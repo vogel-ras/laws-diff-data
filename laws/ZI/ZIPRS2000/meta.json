@@ -1,0 +1,103 @@
+{
+  "root": "ZIPRS2000",
+  "path": "laws/ZI/ZIPRS2000",
+  "members": [
+    {
+      "id": "ZIPRS2000",
+      "title": "Zakon o izvrševanju proračuna Republike Slovenije za leto 2000",
+      "shortTitle": "Zakon o izvrševanju proračuna Republike Slovenije za leto 2000",
+      "shortCode": "ZIPRS2000",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0443",
+      "gazette": "Uradni list RS 9/2000  str. 1117",
+      "issuingBody": null,
+      "adoptedAt": "2000-02-01",
+      "validFrom": "2000-02-01",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0443",
+      "versions": [
+        {
+          "id": "ZIPRS2000-original",
+          "shortCode": "ZIPRS2000",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/2000  str. 1117",
+          "publishedAt": "2000-02-01",
+          "effectiveFrom": "2000-02-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0443",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS2000-amend-ZIPRS2000-A",
+          "shortCode": "ZIPRS2000-A",
+          "label": "Sprememba ZIPRS2000-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/2000  str. 10017",
+          "publishedAt": "2000-09-26",
+          "effectiveFrom": "2000-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2000"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3809",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2000-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o izvrševanju proračuna Republike Slovenije za leto 2000",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o izvrševanju proračuna Republike Slovenije za leto 2000",
+      "shortCode": "ZIPRS2000-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3809",
+      "gazette": "Uradni list RS 86/2000  str. 10017",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-26",
+      "validFrom": "2000-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3809",
+      "versions": [
+        {
+          "id": "ZIPRS2000-A-original",
+          "shortCode": "ZIPRS2000-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/2000  str. 10017",
+          "publishedAt": "2000-09-26",
+          "effectiveFrom": "2000-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2000"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3809",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

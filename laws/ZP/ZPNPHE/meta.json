@@ -1,0 +1,109 @@
+{
+  "root": "ZPNPHE",
+  "path": "laws/ZP/ZPNPHE",
+  "members": [
+    {
+      "id": "ZPNPHE",
+      "title": "Zakon o poroštvu Republike Slovenije za najetje posojil za obnovo in doinstaliranje HE Doblar + II in HE Plave I + II",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za najetje posojil za obnovo in doinstaliranje HE Doblar + II in HE Plave I + II",
+      "shortCode": "ZPNPHE",
+      "kind": "zakon",
+      "keywords": [
+        "kredit",
+        "poroštvo",
+        "elektrarna",
+        "najem posojila"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1815",
+      "gazette": "Uradni list RS 37/95  str. 2695",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-30",
+      "validFrom": "1995-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1815",
+      "versions": [
+        {
+          "id": "ZPNPHE-original",
+          "shortCode": "ZPNPHE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/95  str. 2695",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1815",
+          "proposer": null
+        },
+        {
+          "id": "ZPNPHE-amend-ZPNPHE-A",
+          "shortCode": "ZPNPHE-A",
+          "label": "Sprememba ZPNPHE-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 41/96  str. 3541",
+          "publishedAt": "1996-07-31",
+          "effectiveFrom": "1996-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPHE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2612",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNPHE-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za najetje posojil za obnovo in doinstaliranje HE Doblar I + II in HE Plave I + II",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za najetje posojil za obnovo in doinstaliranje HE Doblar I + II in HE Plave I + II",
+      "shortCode": "ZPNPHE-A",
+      "kind": "zakon",
+      "keywords": [
+        "najem posojila",
+        "kredit",
+        "poroštvo",
+        "elektrarna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2612",
+      "gazette": "Uradni list RS 41/96  str. 3541",
+      "issuingBody": null,
+      "adoptedAt": "1996-07-31",
+      "validFrom": "1996-07-31",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2612",
+      "versions": [
+        {
+          "id": "ZPNPHE-A-original",
+          "shortCode": "ZPNPHE-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/96  str. 3541",
+          "publishedAt": "1996-07-31",
+          "effectiveFrom": "1996-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPHE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2612",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

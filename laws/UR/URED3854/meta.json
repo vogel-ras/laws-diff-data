@@ -1,0 +1,97 @@
+{
+  "root": "URED3854",
+  "path": "laws/UR/URED3854",
+  "members": [
+    {
+      "id": "URED3854",
+      "title": "Uredba o izvajanju Uredbe (ES) o čezmejnem gibanju gensko spremenjenih organizmov",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) o čezmejnem gibanju gensko spremenjenih organizmov",
+      "shortCode": "URED3854",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3221",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-29",
+      "validFrom": "2005-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3221",
+      "versions": [
+        {
+          "id": "URED3854-original",
+          "shortCode": "URED3854",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3221",
+          "proposer": null
+        },
+        {
+          "id": "URED3854-npb-URED3854",
+          "shortCode": "URED3854-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3854",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5463",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) o čezmejnem gibanju gensko spremenjenih organizmov",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) o čezmejnem gibanju gensko spremenjenih organizmov",
+      "shortCode": "URED5463",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1850",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-05-14",
+      "validFrom": "2010-05-14",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1850",
+      "versions": [
+        {
+          "id": "URED5463-original",
+          "shortCode": "URED5463",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-05-14",
+          "effectiveFrom": "2010-05-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3854"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1850",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

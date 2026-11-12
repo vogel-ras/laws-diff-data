@@ -1,0 +1,82 @@
+{
+  "root": "SKLE11861",
+  "path": "laws/SK/SKLE11861",
+  "members": [
+    {
+      "id": "SKLE11861",
+      "title": "Sklep o vsebini podatkov in informacij v centralnem kreditnem registru in sistemu izmenjave informacij o zadolženosti poslovnih subjektov, ki jih poročajo poročevalske enote iz 3. do 5. točke drugega odstavka 6. člena ZCKR",
+      "shortTitle": "Sklep o vsebini podatkov in informacij v centralnem kreditnem registru in sistemu izmenjave informacij o zadolženosti poslovnih subjektov, ki jih poročajo poročevalske enote iz 3. do 5. točke drugega odstavka 6. člena ZCKR",
+      "shortCode": "SKLE11861",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2019-01-2131",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2019-07-12",
+      "validFrom": "2019-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2131",
+      "versions": [
+        {
+          "id": "SKLE11861-original",
+          "shortCode": "SKLE11861",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-07-12",
+          "effectiveFrom": "2019-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2131",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12123",
+      "title": "Sklep o spremembi Sklepa o vsebini podatkov in informacij v centralnem kreditnem registru in sistemu izmenjave informacij o zadolženosti poslovnih subjektov, ki jih poročajo poročevalske enote iz 3. do 5. točke drugega odstavka 6. člena ZCKR",
+      "shortTitle": "Sklep o spremembi Sklepa o vsebini podatkov in informacij v centralnem kreditnem registru in sistemu izmenjave informacij o zadolženosti poslovnih subjektov, ki jih poročajo poročevalske enote iz 3. do 5. točke drugega odstavka 6. člena ZCKR",
+      "shortCode": "SKLE12123",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2020-01-1212",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2020-06-01",
+      "validFrom": "2020-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1212",
+      "versions": [
+        {
+          "id": "SKLE12123-original",
+          "shortCode": "SKLE12123",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-06-01",
+          "effectiveFrom": "2020-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE11861"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1212",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "NAVO433",
+  "path": "laws/NA/NAVO433",
+  "members": [
+    {
+      "id": "NAVO433",
+      "title": "Navodilo za kakovost in nadzor kakovosti tolčenca za gramozno gredo železniških tirov",
+      "shortTitle": "Navodilo za kakovost in nadzor kakovosti tolčenca za gramozno gredo železniških tirov",
+      "shortCode": "NAVO433",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-1851",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet in zveze",
+      "adoptedAt": "1995-07-07",
+      "validFrom": "1995-07-07",
+      "validTo": null,
+      "latestPublishedAt": "1995-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1851",
+      "versions": [
+        {
+          "id": "NAVO433-original",
+          "shortCode": "NAVO433",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-07-07",
+          "effectiveFrom": "1995-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO434",
+      "title": "Navodilo o spremembah navodila za kakovost in nadzor kakovosti tolčenca za gramozno gredo železniških tirov",
+      "shortTitle": "Navodilo o spremembah navodila za kakovost in nadzor kakovosti tolčenca za gramozno gredo železniških tirov",
+      "shortCode": "NAVO434",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1996-01-4011",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet in zveze",
+      "adoptedAt": "1996-12-20",
+      "validFrom": "1996-12-20",
+      "validTo": null,
+      "latestPublishedAt": "1996-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-4011",
+      "versions": [
+        {
+          "id": "NAVO434-original",
+          "shortCode": "NAVO434",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-12-20",
+          "effectiveFrom": "1996-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO433"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-4011",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4557",
+  "path": "laws/PR/PRAV4557",
+  "members": [
+    {
+      "id": "PRAV4557",
+      "title": "Pravilnik o pogojih, ki jih mora izpolnjevati laboratorij za izvajanje meritev",
+      "shortTitle": "Pravilnik o pogojih, ki jih mora izpolnjevati laboratorij za izvajanje meritev",
+      "shortCode": "PRAV4557",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3046",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2003-06-27",
+      "validFrom": "2003-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3046",
+      "versions": [
+        {
+          "id": "PRAV4557-original",
+          "shortCode": "PRAV4557",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3046",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4557-npb-PRAV4557",
+          "shortCode": "PRAV4557-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4557",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7238",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih, ki jih mora izpolnjevati laboratorij za izvajanje meritev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih, ki jih mora izpolnjevati laboratorij za izvajanje meritev",
+      "shortCode": "PRAV7238",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1497",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2006-04-04",
+      "validFrom": "2006-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1497",
+      "versions": [
+        {
+          "id": "PRAV7238-original",
+          "shortCode": "PRAV7238",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-04",
+          "effectiveFrom": "2006-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4557"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1497",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

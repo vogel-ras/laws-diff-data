@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2029",
+  "path": "laws/PR/PRAV2029",
+  "members": [
+    {
+      "id": "PRAV2029",
+      "title": "Pravilnik o posebnih pogojih za promet z nevarnimi kemikalijami",
+      "shortTitle": "Pravilnik o posebnih pogojih za promet z nevarnimi kemikalijami",
+      "shortCode": "PRAV2029",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3585",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1999-09-09",
+      "validFrom": "1999-09-09",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3585",
+      "versions": [
+        {
+          "id": "PRAV2029-original",
+          "shortCode": "PRAV2029",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-09",
+          "effectiveFrom": "1999-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3585",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2542",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o posebnih pogojih za promet z nevarnimi kemikalijami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o posebnih pogojih za promet z nevarnimi kemikalijami",
+      "shortCode": "PRAV2542",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0759",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-02-25",
+      "validFrom": "2000-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0759",
+      "versions": [
+        {
+          "id": "PRAV2542-original",
+          "shortCode": "PRAV2542",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-25",
+          "effectiveFrom": "2000-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2029"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0759",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

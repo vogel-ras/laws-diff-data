@@ -1,0 +1,58 @@
+{
+  "root": "PRAV3200",
+  "path": "laws/PR/PRAV3200",
+  "members": [
+    {
+      "id": "PRAV3200",
+      "title": "Pravilnik o utekočinjenem naftnem plinu",
+      "shortTitle": "Pravilnik o utekočinjenem naftnem plinu",
+      "shortCode": "PRAV3200",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1991-03-1025",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-05-31",
+      "validFrom": "1991-05-31",
+      "validTo": null,
+      "latestPublishedAt": "1991-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-1025",
+      "versions": [
+        {
+          "id": "PRAV3200-original",
+          "shortCode": "PRAV3200",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-05-31",
+          "effectiveFrom": "1991-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-1025",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3200-npb-PRAV3200",
+          "shortCode": "PRAV3200-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1991-05-31",
+          "effectiveFrom": "1991-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3200",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

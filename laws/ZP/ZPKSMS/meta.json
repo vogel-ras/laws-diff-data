@@ -1,0 +1,107 @@
+{
+  "root": "ZPKSMS",
+  "path": "laws/ZP/ZPKSMS",
+  "members": [
+    {
+      "id": "ZPKSMS",
+      "title": "Zakon o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč",
+      "shortTitle": "Zakon o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč",
+      "shortCode": "ZPKSMS",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodno sodišče",
+        "sodnik",
+        "kandidat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3468",
+      "gazette": "Uradni list RS 64/2001  str. 6579",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3468",
+      "versions": [
+        {
+          "id": "ZPKSMS-original",
+          "shortCode": "ZPKSMS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6579",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3468",
+          "proposer": null
+        },
+        {
+          "id": "ZPKSMS-amend-ZPKSMS-A",
+          "shortCode": "ZPKSMS-A",
+          "label": "Sprememba ZPKSMS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2002  str. 6110",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKSMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2839",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKSMS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o predlaganju kandidatov iz Republike Slovenije za sodnike mednarodnih sodišč",
+      "shortCode": "ZPKSMS-A",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodno sodišče",
+        "kandidat",
+        "sodnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2839",
+      "gazette": "Uradni list RS 59/2002  str. 6110",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2839",
+      "versions": [
+        {
+          "id": "ZPKSMS-A-original",
+          "shortCode": "ZPKSMS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6110",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKSMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2839",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

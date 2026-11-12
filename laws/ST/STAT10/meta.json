@@ -1,0 +1,43 @@
+{
+  "root": "STAT10",
+  "path": "laws/ST/STAT10",
+  "members": [
+    {
+      "id": "STAT10",
+      "title": "Statut Zdravniške zbornice Slovenije",
+      "shortTitle": "Statut Zdravniške zbornice Slovenije",
+      "shortCode": "STAT10",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1994-01-2255",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-10-20",
+      "validFrom": "1994-10-20",
+      "validTo": null,
+      "latestPublishedAt": "1994-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2255",
+      "versions": [
+        {
+          "id": "STAT10-original",
+          "shortCode": "STAT10",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-10-20",
+          "effectiveFrom": "1994-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2255",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED6168",
+  "path": "laws/UR/URED6168",
+  "members": [
+    {
+      "id": "URED6168",
+      "title": "Uredba o izvajanju Uredbe (EU) o državljanski pobudi",
+      "shortTitle": "Uredba o izvajanju Uredbe (EU) o državljanski pobudi",
+      "shortCode": "URED6168",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1767",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-06-01",
+      "validFrom": "2012-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1767",
+      "versions": [
+        {
+          "id": "URED6168-original",
+          "shortCode": "URED6168",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-01",
+          "effectiveFrom": "2012-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1767",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6578",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe (EU) o državljanski pobudi",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe (EU) o državljanski pobudi",
+      "shortCode": "URED6578",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-0544",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-03-07",
+      "validFrom": "2014-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2014-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0544",
+      "versions": [
+        {
+          "id": "URED6578-original",
+          "shortCode": "URED6578",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-03-07",
+          "effectiveFrom": "2014-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6168"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0544",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

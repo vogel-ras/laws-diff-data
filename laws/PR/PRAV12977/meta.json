@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12977",
+  "path": "laws/PR/PRAV12977",
+  "members": [
+    {
+      "id": "PRAV12977",
+      "title": "Pravilnik o vsebinah vlog za izdajo dovoljenj dimnikarskim družbam in licenc dimnikarjem",
+      "shortTitle": "Pravilnik o vsebinah vlog za izdajo dovoljenj dimnikarskim družbam in licenc dimnikarjem",
+      "shortCode": "PRAV12977",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-3133",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2016-11-18",
+      "validFrom": "2016-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3133",
+      "versions": [
+        {
+          "id": "PRAV12977-original",
+          "shortCode": "PRAV12977",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-11-18",
+          "effectiveFrom": "2016-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3133",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12977-npb-PRAV12977",
+          "shortCode": "PRAV12977-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-11-18",
+          "effectiveFrom": "2016-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12977",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13054",
+      "title": "Pravilnik o spremembah Pravilnika o vsebinah vlog za izdajo dovoljenj dimnikarskim družbam in licenc dimnikarjem",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o vsebinah vlog za izdajo dovoljenj dimnikarskim družbam in licenc dimnikarjem",
+      "shortCode": "PRAV13054",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0414",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-02-24",
+      "validFrom": "2017-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0414",
+      "versions": [
+        {
+          "id": "PRAV13054-original",
+          "shortCode": "PRAV13054",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-02-24",
+          "effectiveFrom": "2017-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12977"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0414",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

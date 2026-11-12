@@ -1,0 +1,97 @@
+{
+  "root": "URED6436",
+  "path": "laws/UR/URED6436",
+  "members": [
+    {
+      "id": "URED6436",
+      "title": "Uredba o obrtnih dejavnostih",
+      "shortTitle": "Uredba o obrtnih dejavnostih",
+      "shortCode": "URED6436",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2568",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2568",
+      "versions": [
+        {
+          "id": "URED6436-original",
+          "shortCode": "URED6436",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2568",
+          "proposer": null
+        },
+        {
+          "id": "URED6436-npb-URED6436",
+          "shortCode": "URED6436-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6436",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9210",
+      "title": "Uredba o spremembah Uredbe o obrtnih dejavnostih",
+      "shortTitle": "Uredba o spremembah Uredbe o obrtnih dejavnostih",
+      "shortCode": "URED9210",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1762",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-06-17",
+      "validFrom": "2025-06-17",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1762",
+      "versions": [
+        {
+          "id": "URED9210-original",
+          "shortCode": "URED9210",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-17",
+          "effectiveFrom": "2025-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6436"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1762",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

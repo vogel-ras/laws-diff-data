@@ -1,0 +1,339 @@
+{
+  "root": "ZVrt",
+  "path": "laws/ZV/ZVrt",
+  "members": [
+    {
+      "id": "ZVrt",
+      "title": "Zakon o vrtcih",
+      "shortTitle": "Zakon o vrtcih",
+      "shortCode": "ZVrt",
+      "kind": "zakon",
+      "keywords": [
+        "otrok",
+        "otroško varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0569",
+      "gazette": "Uradni list RS 12/96  str. 871",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-29",
+      "validFrom": "1996-02-29",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0569",
+      "versions": [
+        {
+          "id": "ZVrt-original",
+          "shortCode": "ZVrt",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/96  str. 871",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0569",
+          "proposer": null
+        },
+        {
+          "id": "ZVrt-amend-ZVrt-A",
+          "shortCode": "ZVrt-A",
+          "label": "Sprememba ZVrt-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 44/2000  str. 5933",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2064",
+          "proposer": null
+        },
+        {
+          "id": "ZVrt-amend-ZVrt-B",
+          "shortCode": "ZVrt-B",
+          "label": "Sprememba ZVrt-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 78/2003  str. 11617",
+          "publishedAt": "2003-08-08",
+          "effectiveFrom": "2003-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3698",
+          "proposer": null
+        },
+        {
+          "id": "ZVrt-amend-ZVrt-C",
+          "shortCode": "ZVrt-C",
+          "label": "Sprememba ZVrt-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 72/05  str. 7681",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3210",
+          "proposer": null
+        },
+        {
+          "id": "ZVrt-amend-ZVrt-E",
+          "shortCode": "ZVrt-E",
+          "label": "Sprememba ZVrt-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 36/10  str. 5015",
+          "publishedAt": "2010-05-04",
+          "effectiveFrom": "2010-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1737",
+          "proposer": null
+        },
+        {
+          "id": "ZVrt-amend-ZVrt-G",
+          "shortCode": "ZVrt-G",
+          "label": "Sprememba ZVrt-G",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 18/21  str. 1209",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0412",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVrt-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortCode": "ZVrt-A",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "otroško varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2064",
+      "gazette": "Uradni list RS 44/2000  str. 5933",
+      "issuingBody": null,
+      "adoptedAt": "2000-05-26",
+      "validFrom": "2000-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2064",
+      "versions": [
+        {
+          "id": "ZVrt-A-original",
+          "shortCode": "ZVrt-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/2000  str. 5933",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2064",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVrt-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortCode": "ZVrt-B",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "otrok",
+        "otroško varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3698",
+      "gazette": "Uradni list RS 78/2003  str. 11617",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-08",
+      "validFrom": "2003-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3698",
+      "versions": [
+        {
+          "id": "ZVrt-B-original",
+          "shortCode": "ZVrt-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/2003  str. 11617",
+          "publishedAt": "2003-08-08",
+          "effectiveFrom": "2003-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVrt-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o vrtcih",
+      "shortCode": "ZVrt-C",
+      "kind": "zakon",
+      "keywords": [
+        "otrok",
+        "otroško varstvo",
+        "varstvo otrok"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3210",
+      "gazette": "Uradni list RS 72/05  str. 7681",
+      "issuingBody": null,
+      "adoptedAt": "2005-07-29",
+      "validFrom": "2005-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3210",
+      "versions": [
+        {
+          "id": "ZVrt-C-original",
+          "shortCode": "ZVrt-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/05  str. 7681",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3210",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVrt-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vrtcih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vrtcih",
+      "shortCode": "ZVrt-E",
+      "kind": "zakon",
+      "keywords": [
+        "otroško varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1737",
+      "gazette": "Uradni list RS 36/10  str. 5015",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-04",
+      "validFrom": "2010-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1737",
+      "versions": [
+        {
+          "id": "ZVrt-E-original",
+          "shortCode": "ZVrt-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/10  str. 5015",
+          "publishedAt": "2010-05-04",
+          "effectiveFrom": "2010-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1737",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVrt-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vrtcih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vrtcih",
+      "shortCode": "ZVrt-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0412",
+      "gazette": "Uradni list RS 18/21  str. 1209",
+      "issuingBody": null,
+      "adoptedAt": "2021-02-09",
+      "validFrom": "2021-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0412",
+      "versions": [
+        {
+          "id": "ZVrt-G-original",
+          "shortCode": "ZVrt-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/21  str. 1209",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVrt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0412",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

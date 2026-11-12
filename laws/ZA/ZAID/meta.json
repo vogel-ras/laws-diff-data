@@ -1,0 +1,99 @@
+{
+  "root": "ZAID",
+  "path": "laws/ZA/ZAID",
+  "members": [
+    {
+      "id": "ZAID-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o arhitekturni in inženirski dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o arhitekturni in inženirski dejavnosti",
+      "shortCode": "ZAID-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2520",
+      "gazette": "Uradni list RS 85/24  str. 8217",
+      "issuingBody": null,
+      "adoptedAt": "2024-10-04",
+      "validFrom": "2024-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2520",
+      "versions": [
+        {
+          "id": "ZAID-A-original",
+          "shortCode": "ZAID-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/24  str. 8217",
+          "publishedAt": "2024-10-04",
+          "effectiveFrom": "2024-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7342"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2520",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7342",
+      "title": "Zakon o arhitekturni in inženirski dejavnosti (ZAID)",
+      "shortTitle": "Zakon o arhitekturni in inženirski dejavnosti (ZAID)",
+      "shortCode": "ZAID",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2913",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-14",
+      "validFrom": "2024-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2913",
+      "versions": [
+        {
+          "id": "ZAKO7342-amend-ZAID-A",
+          "shortCode": "ZAID-A",
+          "label": "Sprememba ZAID-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/24  str. 8217",
+          "publishedAt": "2024-10-04",
+          "effectiveFrom": "2024-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7342"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2520",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7342-original",
+          "shortCode": "ZAID",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-10-14",
+          "effectiveFrom": "2024-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2913",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

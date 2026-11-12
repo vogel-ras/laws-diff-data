@@ -1,0 +1,97 @@
+{
+  "root": "URED5827",
+  "path": "laws/UR/URED5827",
+  "members": [
+    {
+      "id": "URED5827",
+      "title": "Uredba o postopku, merilih in načinih dodeljevanja sredstev za spodbujanje razvojnih programov in prednostnih nalog",
+      "shortTitle": "Uredba o postopku, merilih in načinih dodeljevanja sredstev za spodbujanje razvojnih programov in prednostnih nalog",
+      "shortCode": "URED5827",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-2618",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-23",
+      "validFrom": "2026-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2618",
+      "versions": [
+        {
+          "id": "URED5827-original",
+          "shortCode": "URED5827",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-23",
+          "effectiveFrom": "2026-02-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2618",
+          "proposer": null
+        },
+        {
+          "id": "URED5827-npb-URED5827",
+          "shortCode": "URED5827-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-07",
+          "effectiveFrom": "2026-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5827",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9548",
+      "title": "Uredba o spremembah Uredbe o postopku, merilih in načinih dodeljevanja sredstev za spodbujanje razvojnih programov in prednostnih nalog",
+      "shortTitle": "Uredba o spremembah Uredbe o postopku, merilih in načinih dodeljevanja sredstev za spodbujanje razvojnih programov in prednostnih nalog",
+      "shortCode": "URED9548",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0494",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-02-20",
+      "validFrom": "2026-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0494",
+      "versions": [
+        {
+          "id": "URED9548-original",
+          "shortCode": "URED9548",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-20",
+          "effectiveFrom": "2026-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5827"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0494",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

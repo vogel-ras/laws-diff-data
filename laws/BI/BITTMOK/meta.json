@@ -1,0 +1,113 @@
+{
+  "root": "BITTMOK",
+  "path": "laws/BI/BITTMOK",
+  "members": [
+    {
+      "id": "BITTMOK",
+      "title": "Zakon o ratifikaciji Sporazuma o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu in zapisnika o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu in zapisnika o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu",
+      "shortCode": "BITTMOK",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Italija",
+        "Slovenija",
+        "psihotropna snov",
+        "organizirani kriminal",
+        "promet s prepovedanimi drogami"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-02-0016",
+      "gazette": "Uradni list RS MP 2/94  str. 90",
+      "issuingBody": null,
+      "adoptedAt": "1994-02-18",
+      "validFrom": "1994-02-18",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0016",
+      "versions": [
+        {
+          "id": "BITTMOK-original",
+          "shortCode": "BITTMOK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 2/94  str. 90",
+          "publishedAt": "1994-02-18",
+          "effectiveFrom": "1994-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0016",
+          "proposer": null
+        },
+        {
+          "id": "BITTMOK-amend-BITTMOK-A",
+          "shortCode": "BITTMOK-A",
+          "label": "Sprememba BITTMOK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 4/95  str. 87",
+          "publishedAt": "1995-03-10",
+          "effectiveFrom": "1995-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BITTMOK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0022",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BITTMOK-A",
+      "title": "Zakon o dopolnitvi zakona o ratifikaciji Sporazuma o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu in Zapisnika o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu",
+      "shortTitle": "Zakon o dopolnitvi zakona o ratifikaciji Sporazuma o sodelovanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije v boju proti nezakonitemu trgovanju z opojnimi in psihotropnimi snovmi ter proti organiziranemu kriminalu in Zapisnika o srečanju med Ministrstvom za notranje zadeve Republike Slovenije in Ministrstvom za notranje zadeve Republike Italije o izmenjavi računalniško obdelanih informacij, ki se nanašajo na nezakonito trgovanje z opojnimi in psihotropnimi snovmi po balkanski poti in v Mediteranu",
+      "shortCode": "BITTMOK-A",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Slovenija",
+        "Italija",
+        "psihotropna snov",
+        "organizirani kriminal",
+        "promet s prepovedanimi drogami"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-02-0022",
+      "gazette": "Uradni list RS MP 4/95  str. 87",
+      "issuingBody": null,
+      "adoptedAt": "1995-03-10",
+      "validFrom": "1995-03-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0022",
+      "versions": [
+        {
+          "id": "BITTMOK-A-original",
+          "shortCode": "BITTMOK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 4/95  str. 87",
+          "publishedAt": "1995-03-10",
+          "effectiveFrom": "1995-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BITTMOK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-02-0022",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED1199",
+  "path": "laws/UR/URED1199",
+  "members": [
+    {
+      "id": "URED1199",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za čiščenje dimnih plinov",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za čiščenje dimnih plinov",
+      "shortCode": "URED1199",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1269",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-30",
+      "validFrom": "2000-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1269",
+      "versions": [
+        {
+          "id": "URED1199-original",
+          "shortCode": "URED1199",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1269",
+          "proposer": null
+        },
+        {
+          "id": "URED1199-npb-URED1199",
+          "shortCode": "URED1199-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-03-30",
+          "effectiveFrom": "2000-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1199",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED9195",
+  "path": "laws/UR/URED9195",
+  "members": [
+    {
+      "id": "URED9195",
+      "title": "Uredba o intervenciji dobrobit živali iz strateškega načrta skupne kmetijske politike 2023–2027 za leto 2025",
+      "shortTitle": "Uredba o intervenciji dobrobit živali iz strateškega načrta skupne kmetijske politike 2023–2027 za leto 2025",
+      "shortCode": "URED9195",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3067",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-25",
+      "validFrom": "2024-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3067",
+      "versions": [
+        {
+          "id": "URED9195-original",
+          "shortCode": "URED9195",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-25",
+          "effectiveFrom": "2024-11-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3067",
+          "proposer": null
+        },
+        {
+          "id": "URED9195-npb-URED9195",
+          "shortCode": "URED9195-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-11-22",
+          "effectiveFrom": "2024-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9195",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9479",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o intervenciji dobrobit živali iz strateškega načrta skupne kmetijske politike 2023–2027 za leto 2025",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o intervenciji dobrobit živali iz strateškega načrta skupne kmetijske politike 2023–2027 za leto 2025",
+      "shortCode": "URED9479",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-3109",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-11-14",
+      "validFrom": "2025-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3109",
+      "versions": [
+        {
+          "id": "URED9479-original",
+          "shortCode": "URED9479",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-14",
+          "effectiveFrom": "2025-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9195"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3109",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

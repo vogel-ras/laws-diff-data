@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5331",
+  "path": "laws/PR/PRAV5331",
+  "members": [
+    {
+      "id": "PRAV2222",
+      "title": "Pravilnik o spremembi pravilnika o stroških postopka o prekršku",
+      "shortTitle": "Pravilnik o spremembi pravilnika o stroških postopka o prekršku",
+      "shortCode": "PRAV2222",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-5041",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-12-27",
+      "validFrom": "1999-12-27",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5041",
+      "versions": [
+        {
+          "id": "PRAV2222-original",
+          "shortCode": "PRAV2222",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-12-27",
+          "effectiveFrom": "1999-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5331"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5041",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5331",
+      "title": "Pravilnik o stroških postopka o prekršku",
+      "shortTitle": "Pravilnik o stroških postopka o prekršku",
+      "shortCode": "PRAV5331",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0628",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-02-16",
+      "validFrom": "2004-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0628",
+      "versions": [
+        {
+          "id": "PRAV5331-original",
+          "shortCode": "PRAV5331",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-16",
+          "effectiveFrom": "2004-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0628",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

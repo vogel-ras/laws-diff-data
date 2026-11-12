@@ -1,0 +1,97 @@
+{
+  "root": "URED3761",
+  "path": "laws/UR/URED3761",
+  "members": [
+    {
+      "id": "URED3761",
+      "title": "Uredba o državnem lokacijskem načrtu za hidroelektrarno Blanca",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za hidroelektrarno Blanca",
+      "shortCode": "URED3761",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2664",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-06-30",
+      "validFrom": "2005-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2664",
+      "versions": [
+        {
+          "id": "URED3761-original",
+          "shortCode": "URED3761",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2664",
+          "proposer": null
+        },
+        {
+          "id": "URED3761-npb-URED3761",
+          "shortCode": "URED3761-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3761",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3916",
+      "title": "Uredba o spremembah Uredbe o državnem lokacijskem načrtu za hidroelektrarno Blanca",
+      "shortTitle": "Uredba o spremembah Uredbe o državnem lokacijskem načrtu za hidroelektrarno Blanca",
+      "shortCode": "URED3916",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4404",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4404",
+      "versions": [
+        {
+          "id": "URED3916-original",
+          "shortCode": "URED3916",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3761"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4404",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE387",
+  "path": "laws/SK/SKLE387",
+  "members": [
+    {
+      "id": "SKLE387",
+      "title": "Sklep o izračunu izpostavljenosti borzno posredniške družbe",
+      "shortTitle": "Sklep o izračunu izpostavljenosti borzno posredniške družbe",
+      "shortCode": "SKLE387",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-0302",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2000-01-27",
+      "validFrom": "2000-01-27",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0302",
+      "versions": [
+        {
+          "id": "SKLE387-original",
+          "shortCode": "SKLE387",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-27",
+          "effectiveFrom": "2000-01-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0302",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6312",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o izračunu izpostavljenosti borzno posredniške družbe",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o izračunu izpostavljenosti borzno posredniške družbe",
+      "shortCode": "SKLE6312",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-2219",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-05-19",
+      "validFrom": "2006-05-19",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2219",
+      "versions": [
+        {
+          "id": "SKLE6312-original",
+          "shortCode": "SKLE6312",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-19",
+          "effectiveFrom": "2006-05-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE387"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2219",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

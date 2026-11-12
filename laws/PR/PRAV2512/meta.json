@@ -1,0 +1,136 @@
+{
+  "root": "PRAV2512",
+  "path": "laws/PR/PRAV2512",
+  "members": [
+    {
+      "id": "PRAV11571",
+      "title": "Pravilnik o spremembah Pravilnika o povrnitvi stroškov v kazenskem postopku",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o povrnitvi stroškov v kazenskem postopku",
+      "shortCode": "PRAV11571",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1470",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje in javno upravo",
+      "adoptedAt": "2013-05-03",
+      "validFrom": "2013-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1470",
+      "versions": [
+        {
+          "id": "PRAV11571-original",
+          "shortCode": "PRAV11571",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-05-03",
+          "effectiveFrom": "2013-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2512"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1470",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2512",
+      "title": "Pravilnik o povrnitvi stroškov v kazenskem postopku",
+      "shortTitle": "Pravilnik o povrnitvi stroškov v kazenskem postopku",
+      "shortCode": "PRAV2512",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1997-01-3027",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "1997-10-03",
+      "validFrom": "1997-10-03",
+      "validTo": null,
+      "latestPublishedAt": "1997-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3027",
+      "versions": [
+        {
+          "id": "PRAV2512-original",
+          "shortCode": "PRAV2512",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-10-03",
+          "effectiveFrom": "1997-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3027",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2512-npb-PRAV2512",
+          "shortCode": "PRAV2512-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1997-10-03",
+          "effectiveFrom": "1997-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2512",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9006",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o povrnitvi stroškov v kazenskem postopku",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o povrnitvi stroškov v kazenskem postopku",
+      "shortCode": "PRAV9006",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-2644",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2008-06-20",
+      "validFrom": "2008-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2644",
+      "versions": [
+        {
+          "id": "PRAV9006-original",
+          "shortCode": "PRAV9006",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-20",
+          "effectiveFrom": "2008-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2512"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2644",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

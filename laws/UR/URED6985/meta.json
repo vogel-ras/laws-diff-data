@@ -1,0 +1,58 @@
+{
+  "root": "URED6985",
+  "path": "laws/UR/URED6985",
+  "members": [
+    {
+      "id": "URED6985",
+      "title": "Uredba o organih v sestavi ministrstev",
+      "shortTitle": "Uredba o organih v sestavi ministrstev",
+      "shortCode": "URED6985",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1437",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-02",
+      "validFrom": "2026-03-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1437",
+      "versions": [
+        {
+          "id": "URED6985-original",
+          "shortCode": "URED6985",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-02",
+          "effectiveFrom": "2026-03-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1437",
+          "proposer": null
+        },
+        {
+          "id": "URED6985-npb-URED6985",
+          "shortCode": "URED6985-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 20)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-14",
+          "effectiveFrom": "2026-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6985",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

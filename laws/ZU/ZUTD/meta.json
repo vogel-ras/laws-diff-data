@@ -1,0 +1,444 @@
+{
+  "root": "ZUTD",
+  "path": "laws/ZU/ZUTD",
+  "members": [
+    {
+      "id": "ZAKO7348",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela (ZUTD-D)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela (ZUTD-D)",
+      "shortCode": "ZUTD-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2523",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-10-06",
+      "validFrom": "2017-10-06",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2523",
+      "versions": [
+        {
+          "id": "ZAKO7348-original",
+          "shortCode": "ZUTD-D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-10-06",
+          "effectiveFrom": "2017-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2523",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD",
+      "title": "Zakon o urejanju trga dela",
+      "shortTitle": "Zakon o urejanju trga dela",
+      "shortCode": "ZUTD",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4304",
+      "gazette": "Uradni list RS 80/10  str. 12097",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-12",
+      "validFrom": "2010-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4304",
+      "versions": [
+        {
+          "id": "ZUTD-original",
+          "shortCode": "ZUTD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 80/10  str. 12097",
+          "publishedAt": "2010-10-12",
+          "effectiveFrom": "2010-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4304",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-A",
+          "shortCode": "ZUTD-A",
+          "label": "Sprememba ZUTD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/13  str. 2802",
+          "publishedAt": "2013-03-13",
+          "effectiveFrom": "2013-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0785",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-B",
+          "shortCode": "ZUTD-B",
+          "label": "Sprememba ZUTD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 63/13  str. 7634",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2512",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-C",
+          "shortCode": "ZUTD-C",
+          "label": "Sprememba ZUTD-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 100/13  str. 10960",
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3600",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZAKO7348",
+          "shortCode": "ZUTD-D",
+          "label": "Sprememba ZUTD-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2017-10-06",
+          "effectiveFrom": "2017-10-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2523",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-E",
+          "shortCode": "ZUTD-E",
+          "label": "Sprememba ZUTD-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 75/19  str. 9684",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3307",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-F",
+          "shortCode": "ZUTD-F",
+          "label": "Sprememba ZUTD-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 54/21  str. 3159",
+          "publishedAt": "2021-04-09",
+          "effectiveFrom": "2021-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1049",
+          "proposer": null
+        },
+        {
+          "id": "ZUTD-amend-ZUTD-H",
+          "shortCode": "ZUTD-H",
+          "label": "Sprememba ZUTD-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 109/23  str. 9265",
+          "publishedAt": "2023-10-27",
+          "effectiveFrom": "2023-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3143",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-A",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0785",
+      "gazette": "Uradni list RS 21/13  str. 2802",
+      "issuingBody": null,
+      "adoptedAt": "2013-03-13",
+      "validFrom": "2013-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0785",
+      "versions": [
+        {
+          "id": "ZUTD-A-original",
+          "shortCode": "ZUTD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/13  str. 2802",
+          "publishedAt": "2013-03-13",
+          "effectiveFrom": "2013-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0785",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-B",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2512",
+      "gazette": "Uradni list RS 63/13  str. 7634",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2512",
+      "versions": [
+        {
+          "id": "ZUTD-B-original",
+          "shortCode": "ZUTD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7634",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2512",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-C",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3600",
+      "gazette": "Uradni list RS 100/13  str. 10960",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-06",
+      "validFrom": "2013-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3600",
+      "versions": [
+        {
+          "id": "ZUTD-C-original",
+          "shortCode": "ZUTD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/13  str. 10960",
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3600",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3307",
+      "gazette": "Uradni list RS 75/19  str. 9684",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-12",
+      "validFrom": "2019-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3307",
+      "versions": [
+        {
+          "id": "ZUTD-E-original",
+          "shortCode": "ZUTD-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/19  str. 9684",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3307",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-F",
+      "title": "Zakon o dopolnitvi Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o dopolnitvi Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1049",
+      "gazette": "Uradni list RS 54/21  str. 3159",
+      "issuingBody": null,
+      "adoptedAt": "2021-04-09",
+      "validFrom": "2021-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1049",
+      "versions": [
+        {
+          "id": "ZUTD-F-original",
+          "shortCode": "ZUTD-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/21  str. 3159",
+          "publishedAt": "2021-04-09",
+          "effectiveFrom": "2021-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1049",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUTD-H",
+      "title": "Zakon o spremembi Zakona o urejanju trga dela",
+      "shortTitle": "Zakon o spremembi Zakona o urejanju trga dela",
+      "shortCode": "ZUTD-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3143",
+      "gazette": "Uradni list RS 109/23  str. 9265",
+      "issuingBody": null,
+      "adoptedAt": "2023-10-27",
+      "validFrom": "2023-10-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3143",
+      "versions": [
+        {
+          "id": "ZUTD-H-original",
+          "shortCode": "ZUTD-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/23  str. 9265",
+          "publishedAt": "2023-10-27",
+          "effectiveFrom": "2023-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUTD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3143",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

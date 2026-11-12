@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7312",
+  "path": "laws/PR/PRAV7312",
+  "members": [
+    {
+      "id": "PRAV7312",
+      "title": "Pravilnik o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Pravilnik o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortCode": "PRAV7312",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2265",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za visoko šolstvo, znanost in tehnologijo",
+      "adoptedAt": "2006-05-19",
+      "validFrom": "2006-05-19",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2265",
+      "versions": [
+        {
+          "id": "PRAV7312-original",
+          "shortCode": "PRAV7312",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-19",
+          "effectiveFrom": "2006-05-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2265",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9038",
+      "title": "Pravilnik o spremembi Pravilnika o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o nagradah in priznanjih za izjemne dosežke v znanstveno-raziskovalni in razvojni dejavnosti",
+      "shortCode": "PRAV9038",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-2140",
+      "gazette": null,
+      "issuingBody": "Odbor RS za Zoisovo nagrado, Zoisovo priznanje, priznanje ambasador znanosti RS in Puhovo priznanje",
+      "adoptedAt": "2008-05-23",
+      "validFrom": "2008-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2140",
+      "versions": [
+        {
+          "id": "PRAV9038-original",
+          "shortCode": "PRAV9038",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-23",
+          "effectiveFrom": "2008-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7312"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2140",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

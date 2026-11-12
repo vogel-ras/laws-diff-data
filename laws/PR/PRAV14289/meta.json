@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14289",
+  "path": "laws/PR/PRAV14289",
+  "members": [
+    {
+      "id": "PRAV14289",
+      "title": "Pravilnik o določitvi oblike in vsebine zahteve za plačilo prispevkov za obvezno zdravstveno zavarovanje",
+      "shortTitle": "Pravilnik o določitvi oblike in vsebine zahteve za plačilo prispevkov za obvezno zdravstveno zavarovanje",
+      "shortCode": "PRAV14289",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-1887",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-06-04",
+      "validFrom": "2021-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1887",
+      "versions": [
+        {
+          "id": "PRAV14289-original",
+          "shortCode": "PRAV14289",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-06-04",
+          "effectiveFrom": "2021-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1887",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14289-npb-PRAV14289",
+          "shortCode": "PRAV14289-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-06-04",
+          "effectiveFrom": "2021-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15227",
+      "title": "Pravilnik o spremembi Pravilnika o določitvi oblike in vsebine zahteve za plačilo prispevkov za obvezno zdravstveno zavarovanje",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o določitvi oblike in vsebine zahteve za plačilo prispevkov za obvezno zdravstveno zavarovanje",
+      "shortCode": "PRAV15227",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0995",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2024-04-19",
+      "validFrom": "2024-04-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0995",
+      "versions": [
+        {
+          "id": "PRAV15227-original",
+          "shortCode": "PRAV15227",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-19",
+          "effectiveFrom": "2024-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14289"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

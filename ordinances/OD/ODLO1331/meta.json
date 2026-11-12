@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1331",
+  "path": "ordinances/OD/ODLO1331",
+  "members": [
+    {
+      "id": "ODLO1331",
+      "title": "Odlok o razglasitvi Prelovškove vile na Zarnikovi 11 v Ljubljani za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Prelovškove vile na Zarnikovi 11 v Ljubljani za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1331",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-5034",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-11-24",
+      "validFrom": "2003-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5034",
+      "versions": [
+        {
+          "id": "ODLO1331-original",
+          "shortCode": "ODLO1331",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-24",
+          "effectiveFrom": "2003-11-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5034",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1331-npb-ODLO1331",
+          "shortCode": "ODLO1331-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-11-24",
+          "effectiveFrom": "2003-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1331",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

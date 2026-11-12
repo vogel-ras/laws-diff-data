@@ -1,0 +1,97 @@
+{
+  "root": "URED2851",
+  "path": "laws/UR/URED2851",
+  "members": [
+    {
+      "id": "URED2851",
+      "title": "Uredba o osnovnih storitvah knjižnic",
+      "shortTitle": "Uredba o osnovnih storitvah knjižnic",
+      "shortCode": "URED2851",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1129",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-21",
+      "validFrom": "2003-03-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1129",
+      "versions": [
+        {
+          "id": "URED2851-original",
+          "shortCode": "URED2851",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-21",
+          "effectiveFrom": "2003-03-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1129",
+          "proposer": null
+        },
+        {
+          "id": "URED2851-npb-URED2851",
+          "shortCode": "URED2851-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-21",
+          "effectiveFrom": "2003-03-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8702",
+      "title": "Uredba o spremembi Uredbe o osnovnih storitvah knjižnic",
+      "shortTitle": "Uredba o spremembi Uredbe o osnovnih storitvah knjižnic",
+      "shortCode": "URED8702",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-4151",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-12-23",
+      "validFrom": "2022-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4151",
+      "versions": [
+        {
+          "id": "URED8702-original",
+          "shortCode": "URED8702",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-23",
+          "effectiveFrom": "2022-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2851"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4151",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

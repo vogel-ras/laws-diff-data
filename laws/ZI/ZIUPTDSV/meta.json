@@ -1,0 +1,104 @@
+{
+  "root": "ZIUPTDSV",
+  "path": "laws/ZI/ZIUPTDSV",
+  "members": [
+    {
+      "id": "ZIUPTDSV",
+      "title": "Zakon o interventnih ukrepih na področju trga dela in starševskega varstva",
+      "shortTitle": "Zakon o interventnih ukrepih na področju trga dela in starševskega varstva",
+      "shortCode": "ZIUPTDSV",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela",
+        "varstvo otrok"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2511",
+      "gazette": "Uradni list RS 63/13  str. 7633",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2511",
+      "versions": [
+        {
+          "id": "ZIUPTDSV-original",
+          "shortCode": "ZIUPTDSV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7633",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2511",
+          "proposer": null
+        },
+        {
+          "id": "ZIUPTDSV-amend-ZIUPTDSV-A",
+          "shortCode": "ZIUPTDSV-A",
+          "label": "Sprememba ZIUPTDSV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 95/14  str. 10664",
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIUPTDSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3950",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIUPTDSV-A",
+      "title": "Zakon o spremembi Zakona o interventnih ukrepih na področju trga dela in starševskega varstva",
+      "shortTitle": "Zakon o spremembi Zakona o interventnih ukrepih na področju trga dela in starševskega varstva",
+      "shortCode": "ZIUPTDSV-A",
+      "kind": "zakon",
+      "keywords": [
+        "trg dela"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3950",
+      "gazette": "Uradni list RS 95/14  str. 10664",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-29",
+      "validFrom": "2014-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3950",
+      "versions": [
+        {
+          "id": "ZIUPTDSV-A-original",
+          "shortCode": "ZIUPTDSV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/14  str. 10664",
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIUPTDSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3950",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

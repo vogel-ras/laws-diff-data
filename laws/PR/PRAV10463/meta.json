@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10463",
+  "path": "laws/PR/PRAV10463",
+  "members": [
+    {
+      "id": "PRAV10463",
+      "title": "Pravilnik o klasifikacijskih zavodih",
+      "shortTitle": "Pravilnik o klasifikacijskih zavodih",
+      "shortCode": "PRAV10463",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-2050",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2011-06-03",
+      "validFrom": "2011-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2050",
+      "versions": [
+        {
+          "id": "PRAV10463-original",
+          "shortCode": "PRAV10463",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2050",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10463-npb-PRAV10463",
+          "shortCode": "PRAV10463-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10463",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

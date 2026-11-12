@@ -1,0 +1,82 @@
+{
+  "root": "URED2384",
+  "path": "laws/UR/URED2384",
+  "members": [
+    {
+      "id": "URED2384",
+      "title": "Uredba o emisiji snovi v zrak iz velikih kurilnih naprav",
+      "shortTitle": "Uredba o emisiji snovi v zrak iz velikih kurilnih naprav",
+      "shortCode": "URED2384",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2254",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-05-27",
+      "validFrom": "2002-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2254",
+      "versions": [
+        {
+          "id": "URED2384-original",
+          "shortCode": "URED2384",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-05-27",
+          "effectiveFrom": "2002-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2254",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2625",
+      "title": "Uredba o spremembi uredbe o emisiji snovi v zrak iz velikih kurilnih naprav",
+      "shortTitle": "Uredba o spremembi uredbe o emisiji snovi v zrak iz velikih kurilnih naprav",
+      "shortCode": "URED2625",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-4139",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-10-03",
+      "validFrom": "2002-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4139",
+      "versions": [
+        {
+          "id": "URED2625-original",
+          "shortCode": "URED2625",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-03",
+          "effectiveFrom": "2002-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2384"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4139",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

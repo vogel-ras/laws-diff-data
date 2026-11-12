@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2072",
+  "path": "laws/SK/SKLE2072",
+  "members": [
+    {
+      "id": "SKLE2072",
+      "title": "Sklep o letnem nadomestilu za opravljanje nadzora, pavšalnih stroških nadzora in taksah za odločanje o zahtevah za izdajo dovoljenj",
+      "shortTitle": "Sklep o letnem nadomestilu za opravljanje nadzora, pavšalnih stroških nadzora in taksah za odločanje o zahtevah za izdajo dovoljenj",
+      "shortCode": "SKLE2072",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-1374",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-03-30",
+      "validFrom": "2001-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2001-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1374",
+      "versions": [
+        {
+          "id": "SKLE2072-original",
+          "shortCode": "SKLE2072",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-03-30",
+          "effectiveFrom": "2001-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1374",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE2485",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o letnem nadomestilu za opravljanje nadzora, pavšalnih stroških nadzora in taksah za odločanje o zahtevah za izdajo dovoljenj",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o letnem nadomestilu za opravljanje nadzora, pavšalnih stroških nadzora in taksah za odločanje o zahtevah za izdajo dovoljenj",
+      "shortCode": "SKLE2485",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-3819",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2001-09-07",
+      "validFrom": "2001-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3819",
+      "versions": [
+        {
+          "id": "SKLE2485-original",
+          "shortCode": "SKLE2485",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-09-07",
+          "effectiveFrom": "2001-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2072"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3819",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

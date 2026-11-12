@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13719",
+  "path": "laws/PR/PRAV13719",
+  "members": [
+    {
+      "id": "PRAV13719",
+      "title": "Pravilnik o napredovanju javnih uslužbencev fiskalnega sveta v plačne razrede",
+      "shortTitle": "Pravilnik o napredovanju javnih uslužbencev fiskalnega sveta v plačne razrede",
+      "shortCode": "PRAV13719",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0032",
+      "gazette": null,
+      "issuingBody": "Fiskalni svet",
+      "adoptedAt": "2019-01-11",
+      "validFrom": "2019-01-11",
+      "validTo": null,
+      "latestPublishedAt": "2019-01-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0032",
+      "versions": [
+        {
+          "id": "PRAV13719-original",
+          "shortCode": "PRAV13719",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-01-11",
+          "effectiveFrom": "2019-01-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0032",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14438",
+      "title": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev fiskalnega sveta v plačne razrede",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev fiskalnega sveta v plačne razrede",
+      "shortCode": "PRAV14438",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2936",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-09-24",
+      "validFrom": "2021-09-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2936",
+      "versions": [
+        {
+          "id": "PRAV14438-original",
+          "shortCode": "PRAV14438",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-09-24",
+          "effectiveFrom": "2021-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13719"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2936",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

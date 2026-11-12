@@ -1,0 +1,121 @@
+{
+  "root": "MP_ODLO43587",
+  "path": "ordinances/MP/MP_ODLO43587",
+  "members": [
+    {
+      "id": "MP_ODLO43587",
+      "title": "Odlok o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortTitle": "Odlok o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortCode": "MP_ODLO43587",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2019-01-1340",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1340",
+      "versions": [
+        {
+          "id": "MP_ODLO43587-original",
+          "shortCode": "MP_ODLO43587",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1340",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO46056",
+      "title": "Odlok o spremembah Odloka o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortTitle": "Odlok o spremembah Odloka o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortCode": "MP_ODLO46056",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Kočevje",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-2967",
+      "gazette": null,
+      "issuingBody": "Občina Kočevje",
+      "adoptedAt": "2021-09-24",
+      "validFrom": "2021-09-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2967",
+      "versions": [
+        {
+          "id": "MP_ODLO46056-original",
+          "shortCode": "MP_ODLO46056",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-09-24",
+          "effectiveFrom": "2021-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO43587"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2967",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO48039",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi javnega lekarniškega zavoda Lekarna Kočevje (ODLO)",
+      "shortCode": "MP_ODLO48039",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Kočevje",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-2238",
+      "gazette": null,
+      "issuingBody": "Občina Kočevje",
+      "adoptedAt": "2023-06-30",
+      "validFrom": "2023-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2238",
+      "versions": [
+        {
+          "id": "MP_ODLO48039-original",
+          "shortCode": "MP_ODLO48039",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-30",
+          "effectiveFrom": "2023-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO43587"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2238",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

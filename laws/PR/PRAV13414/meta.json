@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13414",
+  "path": "laws/PR/PRAV13414",
+  "members": [
+    {
+      "id": "PRAV13414",
+      "title": "Pravilnik o cestnem pregledu tehnične brezhibnosti gospodarskih vozil",
+      "shortTitle": "Pravilnik o cestnem pregledu tehnične brezhibnosti gospodarskih vozil",
+      "shortCode": "PRAV13414",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1387",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-05-20",
+      "validFrom": "2025-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1387",
+      "versions": [
+        {
+          "id": "PRAV13414-original",
+          "shortCode": "PRAV13414",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-20",
+          "effectiveFrom": "2025-05-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1387",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13414-npb-PRAV13414",
+          "shortCode": "PRAV13414-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-26",
+          "effectiveFrom": "2018-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14598",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o cestnem pregledu tehnične brezhibnosti gospodarskih vozil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o cestnem pregledu tehnične brezhibnosti gospodarskih vozil",
+      "shortCode": "PRAV14598",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0981",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-04-04",
+      "validFrom": "2022-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0981",
+      "versions": [
+        {
+          "id": "PRAV14598-original",
+          "shortCode": "PRAV14598",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-04",
+          "effectiveFrom": "2022-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13414"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0981",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

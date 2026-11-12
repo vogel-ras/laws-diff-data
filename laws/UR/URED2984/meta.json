@@ -1,0 +1,97 @@
+{
+  "root": "URED2984",
+  "path": "laws/UR/URED2984",
+  "members": [
+    {
+      "id": "URED2984",
+      "title": "Uredba o splošnih ukrepih v športnih objektih na športnih prireditvah",
+      "shortTitle": "Uredba o splošnih ukrepih v športnih objektih na športnih prireditvah",
+      "shortCode": "URED2984",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3428",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-18",
+      "validFrom": "2003-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3428",
+      "versions": [
+        {
+          "id": "URED2984-original",
+          "shortCode": "URED2984",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3428",
+          "proposer": null
+        },
+        {
+          "id": "URED2984-npb-URED2984",
+          "shortCode": "URED2984-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2984",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3923",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o splošnih ukrepih v športnih objektih na športnih prireditvah",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o splošnih ukrepih v športnih objektih na športnih prireditvah",
+      "shortCode": "URED3923",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4196",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-10-28",
+      "validFrom": "2005-10-28",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4196",
+      "versions": [
+        {
+          "id": "URED3923-original",
+          "shortCode": "URED3923",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-28",
+          "effectiveFrom": "2005-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2984"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4196",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

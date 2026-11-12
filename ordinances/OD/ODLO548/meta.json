@@ -1,0 +1,82 @@
+{
+  "root": "ODLO548",
+  "path": "ordinances/OD/ODLO548",
+  "members": [
+    {
+      "id": "ODLO548",
+      "title": "Odlok o načinu oblikovanja cen svežega mesa",
+      "shortTitle": "Odlok o načinu oblikovanja cen svežega mesa",
+      "shortCode": "ODLO548",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1991-01-1421",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-12-28",
+      "validFrom": "1991-12-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1421",
+      "versions": [
+        {
+          "id": "ODLO548-original",
+          "shortCode": "ODLO548",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-12-28",
+          "effectiveFrom": "1991-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1421",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO549",
+      "title": "Odlok o spremembah in dopolnitvah odloka o načinu oblikovanja cen svežega mesa",
+      "shortTitle": "Odlok o spremembah in dopolnitvah odloka o načinu oblikovanja cen svežega mesa",
+      "shortCode": "ODLO549",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1992-01-0150",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-01-17",
+      "validFrom": "1992-01-17",
+      "validTo": null,
+      "latestPublishedAt": "1992-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0150",
+      "versions": [
+        {
+          "id": "ODLO549-original",
+          "shortCode": "ODLO549",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-01-17",
+          "effectiveFrom": "1992-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO548"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0150",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

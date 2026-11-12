@@ -1,0 +1,97 @@
+{
+  "root": "URED5532",
+  "path": "laws/UR/URED5532",
+  "members": [
+    {
+      "id": "URED5532",
+      "title": "Uredba o izvajanju Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortTitle": "Uredba o izvajanju Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortCode": "URED5532",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3338",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3338",
+      "versions": [
+        {
+          "id": "URED5532-original",
+          "shortCode": "URED5532",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3338",
+          "proposer": null
+        },
+        {
+          "id": "URED5532-npb-URED5532",
+          "shortCode": "URED5532-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5532",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6042",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Zakona o poroštvih Republike Slovenije za financiranje investicij gospodarskih družb",
+      "shortCode": "URED6042",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-3447",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-11-16",
+      "validFrom": "2012-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3447",
+      "versions": [
+        {
+          "id": "URED6042-original",
+          "shortCode": "URED6042",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-11-16",
+          "effectiveFrom": "2012-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5532"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3447",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

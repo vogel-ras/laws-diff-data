@@ -1,0 +1,99 @@
+{
+  "root": "ZBNIP",
+  "path": "laws/ZB/ZBNIP",
+  "members": [
+    {
+      "id": "ZAKO8308",
+      "title": "Zakon o bonitetnem nadzoru investicijskih podjetij (ZBNIP)",
+      "shortTitle": "Zakon o bonitetnem nadzoru investicijskih podjetij (ZBNIP)",
+      "shortCode": "ZBNIP",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-2625",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-10",
+      "validFrom": "2026-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2026-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2625",
+      "versions": [
+        {
+          "id": "ZAKO8308-original",
+          "shortCode": "ZBNIP",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-10",
+          "effectiveFrom": "2026-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2625",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8308-amend-ZAKO9431",
+          "shortCode": "ZBNIP-A",
+          "label": "Sprememba ZAKO9431",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-07-23",
+          "effectiveFrom": "2026-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8308"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1927",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9431",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o bonitetnem nadzoru investicijskih podjetij (ZBNIP-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o bonitetnem nadzoru investicijskih podjetij (ZBNIP-A)",
+      "shortCode": "ZBNIP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-1927",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-07-23",
+      "validFrom": "2026-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1927",
+      "versions": [
+        {
+          "id": "ZAKO9431-original",
+          "shortCode": "ZBNIP-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-07-23",
+          "effectiveFrom": "2026-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8308"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1927",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

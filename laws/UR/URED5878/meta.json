@@ -1,0 +1,97 @@
+{
+  "root": "URED5878",
+  "path": "laws/UR/URED5878",
+  "members": [
+    {
+      "id": "URED5878",
+      "title": "Uredba o Krajinskem parku Radensko polje",
+      "shortTitle": "Uredba o Krajinskem parku Radensko polje",
+      "shortCode": "URED5878",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-4517",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-12-21",
+      "validFrom": "2011-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4517",
+      "versions": [
+        {
+          "id": "URED5878-original",
+          "shortCode": "URED5878",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-21",
+          "effectiveFrom": "2011-12-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4517",
+          "proposer": null
+        },
+        {
+          "id": "URED5878-npb-URED5878",
+          "shortCode": "URED5878-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-12-21",
+          "effectiveFrom": "2011-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5878",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7767",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o Krajinskem parku Radensko polje",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o Krajinskem parku Radensko polje",
+      "shortCode": "URED7767",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-3855",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-12-07",
+      "validFrom": "2018-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3855",
+      "versions": [
+        {
+          "id": "URED7767-original",
+          "shortCode": "URED7767",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-07",
+          "effectiveFrom": "2018-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5878"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3855",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

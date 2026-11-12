@@ -1,0 +1,58 @@
+{
+  "root": "NAVO1150",
+  "path": "laws/NA/NAVO1150",
+  "members": [
+    {
+      "id": "NAVO1150",
+      "title": "Navodilo o razporejanju in pošiljanju obsojencev na prestajanje kazni zapora v zavode za prestajanje kazni zapora",
+      "shortTitle": "Navodilo o razporejanju in pošiljanju obsojencev na prestajanje kazni zapora v zavode za prestajanje kazni zapora",
+      "shortCode": "NAVO1150",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2018-01-2956",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2018-09-12",
+      "validFrom": "2018-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2956",
+      "versions": [
+        {
+          "id": "NAVO1150-original",
+          "shortCode": "NAVO1150",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-12",
+          "effectiveFrom": "2018-09-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2956",
+          "proposer": null
+        },
+        {
+          "id": "NAVO1150-npb-NAVO1150",
+          "shortCode": "NAVO1150-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-31",
+          "effectiveFrom": "2026-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO1150",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

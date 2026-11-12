@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7287",
+  "path": "laws/PR/PRAV7287",
+  "members": [
+    {
+      "id": "PRAV7287",
+      "title": "Pravilnik o nacionalnih etalonih",
+      "shortTitle": "Pravilnik o nacionalnih etalonih",
+      "shortCode": "PRAV7287",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2724",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za visoko šolstvo, znanost in tehnologijo",
+      "adoptedAt": "2007-06-08",
+      "validFrom": "2007-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2724",
+      "versions": [
+        {
+          "id": "PRAV7287-original",
+          "shortCode": "PRAV7287",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2724",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7287-npb-PRAV7287",
+          "shortCode": "PRAV7287-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7287",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

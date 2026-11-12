@@ -1,0 +1,58 @@
+{
+  "root": "URED8989",
+  "path": "laws/UR/URED8989",
+  "members": [
+    {
+      "id": "URED8989",
+      "title": "Uredba o pravilih pogojenosti",
+      "shortTitle": "Uredba o pravilih pogojenosti",
+      "shortCode": "URED8989",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0098",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-01-12",
+      "validFrom": "2024-01-12",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0098",
+      "versions": [
+        {
+          "id": "URED8989-original",
+          "shortCode": "URED8989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-01-12",
+          "effectiveFrom": "2024-01-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0098",
+          "proposer": null
+        },
+        {
+          "id": "URED8989-npb-URED8989",
+          "shortCode": "URED8989-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-25",
+          "effectiveFrom": "2026-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8989",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

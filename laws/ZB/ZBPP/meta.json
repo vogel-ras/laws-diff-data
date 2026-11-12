@@ -1,0 +1,162 @@
+{
+  "root": "ZBPP",
+  "path": "laws/ZB/ZBPP",
+  "members": [
+    {
+      "id": "ZBPP",
+      "title": "Zakon o brezplačni pravni pomoči",
+      "shortTitle": "Zakon o brezplačni pravni pomoči",
+      "shortCode": "ZBPP",
+      "kind": "zakon",
+      "keywords": [
+        "pravna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2642",
+      "gazette": "Uradni list RS 48/2001  str. 5229",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-13",
+      "validFrom": "2001-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2642",
+      "versions": [
+        {
+          "id": "ZBPP-original",
+          "shortCode": "ZBPP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/2001  str. 5229",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2642",
+          "proposer": null
+        },
+        {
+          "id": "ZBPP-amend-ZBPP-A",
+          "shortCode": "ZBPP-A",
+          "label": "Sprememba ZBPP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 50/04  str. 6703",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZBPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2293",
+          "proposer": null
+        },
+        {
+          "id": "ZBPP-amend-ZBPP-C",
+          "shortCode": "ZBPP-C",
+          "label": "Sprememba ZBPP-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 19/15  str. 1990",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0713",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBPP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o brezplačni pravni pomoči",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o brezplačni pravni pomoči",
+      "shortCode": "ZBPP-A",
+      "kind": "zakon",
+      "keywords": [
+        "pravna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2293",
+      "gazette": "Uradni list RS 50/04  str. 6703",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-06",
+      "validFrom": "2004-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2293",
+      "versions": [
+        {
+          "id": "ZBPP-A-original",
+          "shortCode": "ZBPP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/04  str. 6703",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2293",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBPP-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o brezplačni pravni pomoči",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o brezplačni pravni pomoči",
+      "shortCode": "ZBPP-C",
+      "kind": "zakon",
+      "keywords": [
+        "brezplačna storitev",
+        "pravna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0713",
+      "gazette": "Uradni list RS 19/15  str. 1990",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0713",
+      "versions": [
+        {
+          "id": "ZBPP-C-original",
+          "shortCode": "ZBPP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1990",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0713",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

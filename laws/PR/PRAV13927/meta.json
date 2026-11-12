@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13927",
+  "path": "laws/PR/PRAV13927",
+  "members": [
+    {
+      "id": "PRAV13927",
+      "title": "Pravilnik o načinu in obsegu dela Strokovnega sveta za preskrbo s krvjo",
+      "shortTitle": "Pravilnik o načinu in obsegu dela Strokovnega sveta za preskrbo s krvjo",
+      "shortCode": "PRAV13927",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-1042",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-04-02",
+      "validFrom": "2021-04-02",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1042",
+      "versions": [
+        {
+          "id": "PRAV13927-original",
+          "shortCode": "PRAV13927",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1042",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13927-npb-PRAV13927",
+          "shortCode": "PRAV13927-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13927",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15014",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in obsegu dela Strokovnega sveta za preskrbo s krvjo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in obsegu dela Strokovnega sveta za preskrbo s krvjo",
+      "shortCode": "PRAV15014",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-2646",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-08-25",
+      "validFrom": "2023-08-25",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2646",
+      "versions": [
+        {
+          "id": "PRAV15014-original",
+          "shortCode": "PRAV15014",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-08-25",
+          "effectiveFrom": "2023-08-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13927"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2646",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

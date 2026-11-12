@@ -1,0 +1,88 @@
+{
+  "root": "ZPK",
+  "path": "laws/ZP/ZPK",
+  "members": [
+    {
+      "id": "ZPK",
+      "title": "Zakon o priložnostnih kovancih",
+      "shortTitle": "Zakon o priložnostnih kovancih",
+      "shortCode": "ZPK",
+      "kind": "zakon",
+      "keywords": [
+        "denar",
+        "emisija denarja",
+        "spominska svečanost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0302",
+      "gazette": "Uradni list RS 7/93  str. 278",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-04",
+      "validFrom": "1993-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1993-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0302",
+      "versions": [
+        {
+          "id": "ZPK-original",
+          "shortCode": "ZPK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/93  str. 278",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0302",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPK-1",
+      "title": "Zakon o priložnostnih kovancih",
+      "shortTitle": "Zakon o priložnostnih kovancih",
+      "shortCode": "ZPK-1",
+      "kind": "zakon",
+      "keywords": [
+        "denar",
+        "emisija denarja",
+        "spominska svečanost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2828",
+      "gazette": "Uradni list RS 53/07  str. 7250",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-15",
+      "validFrom": "2007-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2828",
+      "versions": [
+        {
+          "id": "ZPK-1-original",
+          "shortCode": "ZPK-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/07  str. 7250",
+          "publishedAt": "2007-06-15",
+          "effectiveFrom": "2007-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2828",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZUOPŠP",
+  "path": "laws/ZU/ZUOPŠP",
+  "members": [
+    {
+      "id": "ZAKO7719",
+      "title": "Zakon o dodatnih ukrepih za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov (ZUOPŠP)",
+      "shortTitle": "Zakon o dodatnih ukrepih za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov (ZUOPŠP)",
+      "shortCode": "ZUOPŠP",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0586",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-05-08",
+      "validFrom": "2020-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0586",
+      "versions": [
+        {
+          "id": "ZAKO7719-amend-ZUOP_P-A",
+          "shortCode": "ZUOPŠP-A",
+          "label": "Sprememba ZUOP_P-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/20  str. 2390",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7719"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0976",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7719-original",
+          "shortCode": "ZUOPŠP",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0586",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUOP_P-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o dodatnih ukrepih za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o dodatnih ukrepih za odpravo posledic škode zaradi prenamnožitve populacije podlubnikov",
+      "shortCode": "ZUOPŠP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0976",
+      "gazette": "Uradni list RS 65/20  str. 2390",
+      "issuingBody": null,
+      "adoptedAt": "2020-05-08",
+      "validFrom": "2020-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0976",
+      "versions": [
+        {
+          "id": "ZUOP_P-A-original",
+          "shortCode": "ZUOPŠP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/20  str. 2390",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7719"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0976",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

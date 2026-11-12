@@ -1,0 +1,336 @@
+{
+  "root": "ZMed",
+  "path": "laws/ZM/ZMed",
+  "members": [
+    {
+      "id": "ZMed",
+      "title": "Zakon o medijih",
+      "shortTitle": "Zakon o medijih",
+      "shortCode": "ZMed",
+      "kind": "zakon",
+      "keywords": [
+        "mediji",
+        "televizija",
+        "pravica do obveščenosti",
+        "avdiovizualni program"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2043",
+      "gazette": "Uradni list RS 35/2001  str. 4017",
+      "issuingBody": null,
+      "adoptedAt": "2001-05-11",
+      "validFrom": "2001-05-11",
+      "validTo": null,
+      "latestPublishedAt": "2021-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2043",
+      "versions": [
+        {
+          "id": "ZMed-original",
+          "shortCode": "ZMed",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/2001  str. 4017",
+          "publishedAt": "2001-05-11",
+          "effectiveFrom": "2001-05-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2043",
+          "proposer": null
+        },
+        {
+          "id": "ZMed-amend-ZMed-A",
+          "shortCode": "ZMed-A",
+          "label": "Sprememba ZMed-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 60/06  str. 6537",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2536",
+          "proposer": null
+        },
+        {
+          "id": "ZMed-amend-ZMed-B",
+          "shortCode": "ZMed-B",
+          "label": "Sprememba ZMed-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 47/12  str. 4814",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1962",
+          "proposer": null
+        },
+        {
+          "id": "ZMed-amend-ZMed-C",
+          "shortCode": "ZMed-C",
+          "label": "Sprememba ZMed-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 22/16  str. 2825",
+          "publishedAt": "2016-03-25",
+          "effectiveFrom": "2016-03-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0831",
+          "proposer": null
+        },
+        {
+          "id": "ZMed-amend-ZMed-D",
+          "shortCode": "ZMed-D",
+          "label": "Sprememba ZMed-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 39/16  str. 5876",
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1705",
+          "proposer": null
+        },
+        {
+          "id": "ZMed-amend-ZMed-E",
+          "shortCode": "ZMed-E",
+          "label": "Sprememba ZMed-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 82/21  str. 4815",
+          "publishedAt": "2021-05-24",
+          "effectiveFrom": "2021-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1759",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMed-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o medijih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o medijih",
+      "shortCode": "ZMed-A",
+      "kind": "zakon",
+      "keywords": [
+        "mediji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2536",
+      "gazette": "Uradni list RS 60/06  str. 6537",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2536",
+      "versions": [
+        {
+          "id": "ZMed-A-original",
+          "shortCode": "ZMed-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/06  str. 6537",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2536",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMed-B",
+      "title": "Zakon o spremembi Zakona o medijih",
+      "shortTitle": "Zakon o spremembi Zakona o medijih",
+      "shortCode": "ZMed-B",
+      "kind": "zakon",
+      "keywords": [
+        "mediji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1962",
+      "gazette": "Uradni list RS 47/12  str. 4814",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-22",
+      "validFrom": "2012-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1962",
+      "versions": [
+        {
+          "id": "ZMed-B-original",
+          "shortCode": "ZMed-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/12  str. 4814",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1962",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMed-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o medijih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o medijih",
+      "shortCode": "ZMed-C",
+      "kind": "zakon",
+      "keywords": [
+        "mediji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-0831",
+      "gazette": "Uradni list RS 22/16  str. 2825",
+      "issuingBody": null,
+      "adoptedAt": "2016-03-25",
+      "validFrom": "2016-03-25",
+      "validTo": null,
+      "latestPublishedAt": "2016-03-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0831",
+      "versions": [
+        {
+          "id": "ZMed-C-original",
+          "shortCode": "ZMed-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/16  str. 2825",
+          "publishedAt": "2016-03-25",
+          "effectiveFrom": "2016-03-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0831",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMed-D",
+      "title": "Zakon o spremembi Zakona o medijih",
+      "shortTitle": "Zakon o spremembi Zakona o medijih",
+      "shortCode": "ZMed-D",
+      "kind": "zakon",
+      "keywords": [
+        "mediji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1705",
+      "gazette": "Uradni list RS 39/16  str. 5876",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-03",
+      "validFrom": "2016-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1705",
+      "versions": [
+        {
+          "id": "ZMed-D-original",
+          "shortCode": "ZMed-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/16  str. 5876",
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1705",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMed-E",
+      "title": "Zakon o spremembah Zakona o medijih",
+      "shortTitle": "Zakon o spremembah Zakona o medijih",
+      "shortCode": "ZMed-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1759",
+      "gazette": "Uradni list RS 82/21  str. 4815",
+      "issuingBody": null,
+      "adoptedAt": "2021-05-24",
+      "validFrom": "2021-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1759",
+      "versions": [
+        {
+          "id": "ZMed-E-original",
+          "shortCode": "ZMed-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/21  str. 4815",
+          "publishedAt": "2021-05-24",
+          "effectiveFrom": "2021-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMed"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1759",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

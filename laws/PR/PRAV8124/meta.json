@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8124",
+  "path": "laws/PR/PRAV8124",
+  "members": [
+    {
+      "id": "PRAV8124",
+      "title": "Uredba o vsebini poročila o vplivih nameravanega posega na okolje in načinu njegove priprave",
+      "shortTitle": "Uredba o vsebini poročila o vplivih nameravanega posega na okolje in načinu njegove priprave",
+      "shortCode": "PRAV8124",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1706",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1706",
+      "versions": [
+        {
+          "id": "PRAV8124-original",
+          "shortCode": "PRAV8124",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1706",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8124-npb-PRAV8124",
+          "shortCode": "PRAV8124-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8124",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7543",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vsebini poročila o vplivih nameravanega posega na okolje in načinu njegove priprave",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vsebini poročila o vplivih nameravanega posega na okolje in načinu njegove priprave",
+      "shortCode": "URED7543",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-2058",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-21",
+      "validFrom": "2017-07-21",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2058",
+      "versions": [
+        {
+          "id": "URED7543-original",
+          "shortCode": "URED7543",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-21",
+          "effectiveFrom": "2017-07-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2058",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

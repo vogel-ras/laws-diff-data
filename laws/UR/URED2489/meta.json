@@ -1,0 +1,97 @@
+{
+  "root": "URED2489",
+  "path": "laws/UR/URED2489",
+  "members": [
+    {
+      "id": "URED2489",
+      "title": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 35. šahovski olimpiadi - Bled 2002",
+      "shortTitle": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 35. šahovski olimpiadi - Bled 2002",
+      "shortCode": "URED2489",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2571",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-06-20",
+      "validFrom": "2002-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2571",
+      "versions": [
+        {
+          "id": "URED2489-original",
+          "shortCode": "URED2489",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-20",
+          "effectiveFrom": "2002-06-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2571",
+          "proposer": null
+        },
+        {
+          "id": "URED2489-npb-URED2489",
+          "shortCode": "URED2489-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-06-20",
+          "effectiveFrom": "2002-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2489",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2640",
+      "title": "Uredba o spremembi uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 35. šahovski olimpiadi - Bled 2002",
+      "shortTitle": "Uredba o spremembi uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 35. šahovski olimpiadi - Bled 2002",
+      "shortCode": "URED2640",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-4353",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-10-11",
+      "validFrom": "2002-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4353",
+      "versions": [
+        {
+          "id": "URED2640-original",
+          "shortCode": "URED2640",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-11",
+          "effectiveFrom": "2002-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2489"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4353",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

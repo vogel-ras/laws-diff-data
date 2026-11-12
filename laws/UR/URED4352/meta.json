@@ -1,0 +1,136 @@
+{
+  "root": "URED4352",
+  "path": "laws/UR/URED4352",
+  "members": [
+    {
+      "id": "URED4352",
+      "title": "Uredba o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortTitle": "Uredba o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortCode": "URED4352",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2720",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-06-08",
+      "validFrom": "2007-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2720",
+      "versions": [
+        {
+          "id": "URED4352-original",
+          "shortCode": "URED4352",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2720",
+          "proposer": null
+        },
+        {
+          "id": "URED4352-npb-URED4352",
+          "shortCode": "URED4352-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-06-08",
+          "effectiveFrom": "2007-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4352",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5099",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortCode": "URED5099",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-5086",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-12-30",
+      "validFrom": "2009-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5086",
+      "versions": [
+        {
+          "id": "URED5099-original",
+          "shortCode": "URED5099",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-30",
+          "effectiveFrom": "2009-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4352"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5086",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8038",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o merilih in okoliščinah ugotavljanja pogojev pridobitve državljanstva Republike Slovenije v postopku naturalizacije",
+      "shortCode": "URED8038",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2933",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-11-20",
+      "validFrom": "2020-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2933",
+      "versions": [
+        {
+          "id": "URED8038-original",
+          "shortCode": "URED8038",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-20",
+          "effectiveFrom": "2020-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4352"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2933",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

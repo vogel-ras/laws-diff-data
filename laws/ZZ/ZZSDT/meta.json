@@ -1,0 +1,270 @@
+{
+  "root": "ZZSDT",
+  "path": "laws/ZZ/ZZSDT",
+  "members": [
+    {
+      "id": "ZAKO7480",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT-A)",
+      "shortCode": "ZZSDT-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2772",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-10-25",
+      "validFrom": "2017-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2772",
+      "versions": [
+        {
+          "id": "ZAKO7480-original",
+          "shortCode": "ZZSDT-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-10-25",
+          "effectiveFrom": "2017-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2772",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7816",
+      "title": "Zakon o dopolnitvi Zakona o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT-B)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o zaposlovanju, samozaposlovanju in delu tujcev (ZZSDT-B)",
+      "shortCode": "ZZSDT-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1405",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-27",
+      "validFrom": "2018-04-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1405",
+      "versions": [
+        {
+          "id": "ZAKO7816-original",
+          "shortCode": "ZZSDT-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1405",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSDT",
+      "title": "Zakon o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortCode": "ZZSDT",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1930",
+      "gazette": "Uradni list RS 47/15  str. 5131",
+      "issuingBody": null,
+      "adoptedAt": "2015-06-30",
+      "validFrom": "2015-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1930",
+      "versions": [
+        {
+          "id": "ZZSDT-original",
+          "shortCode": "ZZSDT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/15  str. 5131",
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1930",
+          "proposer": null
+        },
+        {
+          "id": "ZZSDT-amend-ZAKO7480",
+          "shortCode": "ZZSDT-A",
+          "label": "Sprememba ZZSDT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-10-25",
+          "effectiveFrom": "2017-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2772",
+          "proposer": null
+        },
+        {
+          "id": "ZZSDT-amend-ZAKO7816",
+          "shortCode": "ZZSDT-B",
+          "label": "Sprememba ZZSDT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1405",
+          "proposer": null
+        },
+        {
+          "id": "ZZSDT-amend-ZZSDT-C",
+          "shortCode": "ZZSDT-C",
+          "label": "Sprememba ZZSDT-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 57/21  str. 3359",
+          "publishedAt": "2021-04-12",
+          "effectiveFrom": "2021-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1154",
+          "proposer": null
+        },
+        {
+          "id": "ZZSDT-amend-ZZSDT-D",
+          "shortCode": "ZZSDT-D",
+          "label": "Sprememba ZZSDT-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 42/23  str. 3617",
+          "publishedAt": "2023-04-07",
+          "effectiveFrom": "2023-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1142",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSDT-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortCode": "ZZSDT-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1154",
+      "gazette": "Uradni list RS 57/21  str. 3359",
+      "issuingBody": null,
+      "adoptedAt": "2021-04-12",
+      "validFrom": "2021-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1154",
+      "versions": [
+        {
+          "id": "ZZSDT-C-original",
+          "shortCode": "ZZSDT-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/21  str. 3359",
+          "publishedAt": "2021-04-12",
+          "effectiveFrom": "2021-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1154",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSDT-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zaposlovanju, samozaposlovanju in delu tujcev",
+      "shortCode": "ZZSDT-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1142",
+      "gazette": "Uradni list RS 42/23  str. 3617",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-07",
+      "validFrom": "2023-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1142",
+      "versions": [
+        {
+          "id": "ZZSDT-D-original",
+          "shortCode": "ZZSDT-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/23  str. 3617",
+          "publishedAt": "2023-04-07",
+          "effectiveFrom": "2023-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1142",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

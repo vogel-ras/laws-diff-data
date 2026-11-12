@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5144",
+  "path": "laws/PR/PRAV5144",
+  "members": [
+    {
+      "id": "PRAV13375",
+      "title": "Pravilnik o spremembah Pravilnika o določitvi meja povodij in porečij ter meja vodnih območij z vodami 1. reda, ki jima pripadajo",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o določitvi meja povodij in porečij ter meja vodnih območij z vodami 1. reda, ki jima pripadajo",
+      "shortCode": "PRAV13375",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0302",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-09",
+      "validFrom": "2018-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0302",
+      "versions": [
+        {
+          "id": "PRAV13375-original",
+          "shortCode": "PRAV13375",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-09",
+          "effectiveFrom": "2018-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5144"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0302",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5144",
+      "title": "Pravilnik o določitvi meja povodij in porečij ter meja vodnih območij z vodami 1. reda, ki jima pripadajo",
+      "shortTitle": "Pravilnik o določitvi meja povodij in porečij ter meja vodnih območij z vodami 1. reda, ki jima pripadajo",
+      "shortCode": "PRAV5144",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3929",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2003-08-21",
+      "validFrom": "2003-08-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3929",
+      "versions": [
+        {
+          "id": "PRAV5144-original",
+          "shortCode": "PRAV5144",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3929",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5144-npb-PRAV5144",
+          "shortCode": "PRAV5144-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5144",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

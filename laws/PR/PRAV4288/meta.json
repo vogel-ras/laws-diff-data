@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4288",
+  "path": "laws/PR/PRAV4288",
+  "members": [
+    {
+      "id": "PRAV12349",
+      "title": "Pravilnik o spremembah Pravilnika o integrirani pridelavi sadja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o integrirani pridelavi sadja",
+      "shortCode": "PRAV12349",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1714",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2015-06-12",
+      "validFrom": "2015-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1714",
+      "versions": [
+        {
+          "id": "PRAV12349-original",
+          "shortCode": "PRAV12349",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-12",
+          "effectiveFrom": "2015-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4288"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1714",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4288",
+      "title": "Pravilnik o integrirani pridelavi sadja",
+      "shortTitle": "Pravilnik o integrirani pridelavi sadja",
+      "shortCode": "PRAV4288",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-3050",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-07-19",
+      "validFrom": "2002-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3050",
+      "versions": [
+        {
+          "id": "PRAV4288-original",
+          "shortCode": "PRAV4288",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-19",
+          "effectiveFrom": "2002-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3050",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

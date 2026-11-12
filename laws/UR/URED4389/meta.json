@@ -1,0 +1,58 @@
+{
+  "root": "URED4389",
+  "path": "laws/UR/URED4389",
+  "members": [
+    {
+      "id": "URED4389",
+      "title": "Uredba o davčni regijski olajšavi za raziskave in razvoj",
+      "shortTitle": "Uredba o davčni regijski olajšavi za raziskave in razvoj",
+      "shortCode": "URED4389",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5470",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-04-26",
+      "validFrom": "2012-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5470",
+      "versions": [
+        {
+          "id": "URED4389-original",
+          "shortCode": "URED4389",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-04-26",
+          "effectiveFrom": "2012-04-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5470",
+          "proposer": null
+        },
+        {
+          "id": "URED4389-npb-URED4389",
+          "shortCode": "URED4389-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-12-03",
+          "effectiveFrom": "2007-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4389",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

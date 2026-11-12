@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13377",
+  "path": "laws/PR/PRAV13377",
+  "members": [
+    {
+      "id": "PRAV13377",
+      "title": "Pravilnik o izvajanju programa Evropske šole Ljubljana",
+      "shortTitle": "Pravilnik o izvajanju programa Evropske šole Ljubljana",
+      "shortCode": "PRAV13377",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2001",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-22",
+      "validFrom": "2024-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2001",
+      "versions": [
+        {
+          "id": "PRAV13377-original",
+          "shortCode": "PRAV13377",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2001",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13377-npb-PRAV13377",
+          "shortCode": "PRAV13377-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13377",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14079",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju programa Evropske šole Ljubljana",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju programa Evropske šole Ljubljana",
+      "shortCode": "PRAV14079",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-2138",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2020-08-21",
+      "validFrom": "2020-08-21",
+      "validTo": null,
+      "latestPublishedAt": "2020-08-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2138",
+      "versions": [
+        {
+          "id": "PRAV14079-original",
+          "shortCode": "PRAV14079",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-08-21",
+          "effectiveFrom": "2020-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13377"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2138",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15457",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju programa Evropske šole Ljubljana",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvajanju programa Evropske šole Ljubljana",
+      "shortCode": "PRAV15457",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2121",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-23",
+      "validFrom": "2024-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2121",
+      "versions": [
+        {
+          "id": "PRAV15457-original",
+          "shortCode": "PRAV15457",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-23",
+          "effectiveFrom": "2024-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13377"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2121",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

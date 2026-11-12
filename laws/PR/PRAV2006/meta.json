@@ -1,0 +1,121 @@
+{
+  "root": "PRAV2006",
+  "path": "laws/PR/PRAV2006",
+  "members": [
+    {
+      "id": "PRAV2006",
+      "title": "Pravilnik o posojilu za študij",
+      "shortTitle": "Pravilnik o posojilu za študij",
+      "shortCode": "PRAV2006",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2924",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "1999-07-30",
+      "validFrom": "1999-07-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2924",
+      "versions": [
+        {
+          "id": "PRAV2006-original",
+          "shortCode": "PRAV2006",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-30",
+          "effectiveFrom": "1999-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2924",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2135",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o posojilu za študij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o posojilu za študij",
+      "shortCode": "PRAV2135",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-4156",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "1999-10-28",
+      "validFrom": "1999-10-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4156",
+      "versions": [
+        {
+          "id": "PRAV2135-original",
+          "shortCode": "PRAV2135",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-28",
+          "effectiveFrom": "1999-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2006"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4156",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3155",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o posojilu za študij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o posojilu za študij",
+      "shortCode": "PRAV3155",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3638",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2000-09-01",
+      "validFrom": "2000-09-01",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3638",
+      "versions": [
+        {
+          "id": "PRAV3155-original",
+          "shortCode": "PRAV3155",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-01",
+          "effectiveFrom": "2000-09-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2006"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3638",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

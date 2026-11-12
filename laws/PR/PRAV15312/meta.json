@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15312",
+  "path": "laws/PR/PRAV15312",
+  "members": [
+    {
+      "id": "PRAV15312",
+      "title": "Pravilnik o tehničnih, prostorskih in kadrovskih pogojih za verifikacijo varovanih oddelkov pri izvajalcih institucionalnega varstva in postopku njihove verifikacije",
+      "shortTitle": "Pravilnik o tehničnih, prostorskih in kadrovskih pogojih za verifikacijo varovanih oddelkov pri izvajalcih institucionalnega varstva in postopku njihove verifikacije",
+      "shortCode": "PRAV15312",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1065",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-16",
+      "validFrom": "2026-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1065",
+      "versions": [
+        {
+          "id": "PRAV15312-original",
+          "shortCode": "PRAV15312",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-16",
+          "effectiveFrom": "2026-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1065",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15312-npb-PRAV15312",
+          "shortCode": "PRAV15312-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-28",
+          "effectiveFrom": "2026-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15312",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16010",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih, prostorskih in kadrovskih pogojih za verifikacijo varovanih oddelkov pri izvajalcih institucionalnega varstva in postopku njihove verifikacije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o tehničnih, prostorskih in kadrovskih pogojih za verifikacijo varovanih oddelkov pri izvajalcih institucionalnega varstva in postopku njihove verifikacije",
+      "shortCode": "PRAV16010",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0373",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za solidarno prihodnost",
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0373",
+      "versions": [
+        {
+          "id": "PRAV16010-original",
+          "shortCode": "PRAV16010",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15312"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0373",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

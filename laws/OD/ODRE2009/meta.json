@@ -1,0 +1,82 @@
+{
+  "root": "ODRE2009",
+  "path": "laws/OD/ODRE2009",
+  "members": [
+    {
+      "id": "ODRE2009",
+      "title": "Odredba o prepovedi prometa in uporabe določenih fitofarmacevtskih sredstev na ozemlju Republike Slovenije",
+      "shortTitle": "Odredba o prepovedi prometa in uporabe določenih fitofarmacevtskih sredstev na ozemlju Republike Slovenije",
+      "shortCode": "ODRE2009",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2008-01-2135",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-05-22",
+      "validFrom": "2008-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2135",
+      "versions": [
+        {
+          "id": "ODRE2009-original",
+          "shortCode": "ODRE2009",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-22",
+          "effectiveFrom": "2008-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2135",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2014",
+      "title": "Odredba o spremembi Odredbe o prepovedi prometa in uporabe določenih fitofarmacevtskih sredstev na ozemlju Republike Slovenije",
+      "shortTitle": "Odredba o spremembi Odredbe o prepovedi prometa in uporabe določenih fitofarmacevtskih sredstev na ozemlju Republike Slovenije",
+      "shortCode": "ODRE2014",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2008-01-3577",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-08",
+      "validFrom": "2008-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3577",
+      "versions": [
+        {
+          "id": "ODRE2014-original",
+          "shortCode": "ODRE2014",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-08",
+          "effectiveFrom": "2008-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2009"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3577",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

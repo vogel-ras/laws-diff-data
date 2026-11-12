@@ -1,0 +1,82 @@
+{
+  "root": "URED1380",
+  "path": "laws/UR/URED1380",
+  "members": [
+    {
+      "id": "URED1380",
+      "title": "Uredba o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Mašelj z Divjim potokom, mlinščica ob Reki v Zavrstniku in Briški potok za vzrejo salmonidnih vrst rib",
+      "shortTitle": "Uredba o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Mašelj z Divjim potokom, mlinščica ob Reki v Zavrstniku in Briški potok za vzrejo salmonidnih vrst rib",
+      "shortCode": "URED1380",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1997-01-2579",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1997-08-08",
+      "validFrom": "1997-08-08",
+      "validTo": null,
+      "latestPublishedAt": "1997-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2579",
+      "versions": [
+        {
+          "id": "URED1380-original",
+          "shortCode": "URED1380",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-08-08",
+          "effectiveFrom": "1997-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2579",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3239",
+      "title": "Uredba o spremembi uredbe o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Mašelj z Divjim potokom, Mlinščica ob Reki v Zavrstniku in Briški potok za vzrejo salmonidnih vrst rib",
+      "shortTitle": "Uredba o spremembi uredbe o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Mašelj z Divjim potokom, Mlinščica ob Reki v Zavrstniku in Briški potok za vzrejo salmonidnih vrst rib",
+      "shortCode": "URED3239",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0374",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-01-30",
+      "validFrom": "2004-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0374",
+      "versions": [
+        {
+          "id": "URED3239-original",
+          "shortCode": "URED3239",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-30",
+          "effectiveFrom": "2004-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1380"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0374",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

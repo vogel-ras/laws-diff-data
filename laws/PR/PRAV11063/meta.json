@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11063",
+  "path": "laws/PR/PRAV11063",
+  "members": [
+    {
+      "id": "PRAV11063",
+      "title": "Pravilnik o dajanju podatkov v okviru priglasitve zamenjave investicijskih kuponov oziroma enot UCITS skladov za katero se lahko uveljavlja odlog ugotavljanja davčne obveznosti",
+      "shortTitle": "Pravilnik o dajanju podatkov v okviru priglasitve zamenjave investicijskih kuponov oziroma enot UCITS skladov za katero se lahko uveljavlja odlog ugotavljanja davčne obveznosti",
+      "shortCode": "PRAV11063",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0378",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2012-02-10",
+      "validFrom": "2012-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0378",
+      "versions": [
+        {
+          "id": "PRAV11063-original",
+          "shortCode": "PRAV11063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0378",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11063-npb-PRAV11063",
+          "shortCode": "PRAV11063-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11063",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11468",
+      "title": "Pravilnik o spremembah Pravilnika o dajanju podatkov v okviru priglasitve zamenjave investicijskih kuponov oziroma enot UCITS skladov za katero se lahko uveljavlja odlog ugotavljanja davčne obveznosti",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o dajanju podatkov v okviru priglasitve zamenjave investicijskih kuponov oziroma enot UCITS skladov za katero se lahko uveljavlja odlog ugotavljanja davčne obveznosti",
+      "shortCode": "PRAV11468",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-3845",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2012-12-20",
+      "validFrom": "2012-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3845",
+      "versions": [
+        {
+          "id": "PRAV11468-original",
+          "shortCode": "PRAV11468",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-20",
+          "effectiveFrom": "2012-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11063"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3845",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

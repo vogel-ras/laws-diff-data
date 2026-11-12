@@ -1,0 +1,82 @@
+{
+  "root": "URED1731",
+  "path": "laws/UR/URED1731",
+  "members": [
+    {
+      "id": "URED1731",
+      "title": "Uredba o uvedbi podpor za pripravo kmetijskih pridelkov in živil za zunanji trg v drugi polovici leta 2001",
+      "shortTitle": "Uredba o uvedbi podpor za pripravo kmetijskih pridelkov in živil za zunanji trg v drugi polovici leta 2001",
+      "shortCode": "URED1731",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-3333",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-27",
+      "validFrom": "2001-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3333",
+      "versions": [
+        {
+          "id": "URED1731-original",
+          "shortCode": "URED1731",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-27",
+          "effectiveFrom": "2001-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3333",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1882",
+      "title": "Uredba o spremembi uredbe o uvedbi podpor za pripravo kmetijskih pridelkov in živil za zunanji trg v drugi polovici leta 2001",
+      "shortTitle": "Uredba o spremembi uredbe o uvedbi podpor za pripravo kmetijskih pridelkov in živil za zunanji trg v drugi polovici leta 2001",
+      "shortCode": "URED1882",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-4099",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-10-05",
+      "validFrom": "2001-10-05",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4099",
+      "versions": [
+        {
+          "id": "URED1882-original",
+          "shortCode": "URED1882",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-10-05",
+          "effectiveFrom": "2001-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1731"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4099",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

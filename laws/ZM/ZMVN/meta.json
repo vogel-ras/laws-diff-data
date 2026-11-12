@@ -1,0 +1,364 @@
+{
+  "root": "ZMVN",
+  "path": "laws/ZM/ZMVN",
+  "members": [
+    {
+      "id": "ZAKO6209",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin (ZMVN-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin (ZMVN-A)",
+      "shortCode": "ZMVN-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3718",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-11-02",
+      "validFrom": "2011-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3718",
+      "versions": [
+        {
+          "id": "ZAKO6209-original",
+          "shortCode": "ZMVN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-02",
+          "effectiveFrom": "2011-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3718",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7124",
+      "title": "Zakon o množičnem vrednotenju nepremičnin (ZMVN-1)",
+      "shortTitle": "Zakon o množičnem vrednotenju nepremičnin (ZMVN-1)",
+      "shortCode": "ZMVN-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3730",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-02",
+      "validFrom": "2024-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3730",
+      "versions": [
+        {
+          "id": "ZAKO7124-amend-ZMVN-1A",
+          "shortCode": "ZMVN-1A",
+          "label": "Sprememba ZMVN-1A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/19  str. 3989",
+          "publishedAt": "2019-05-22",
+          "effectiveFrom": "2019-05-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1493",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7124-amend-ZMVN-1B",
+          "shortCode": "ZMVN-1B",
+          "label": "Sprememba ZMVN-1B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 66/19  str. 7877",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2925",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7124-amend-ZMVN-1C",
+          "shortCode": "ZMVN-1C",
+          "label": "Sprememba ZMVN-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 100/24  str. 10491",
+          "publishedAt": "2024-11-26",
+          "effectiveFrom": "2024-11-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3101",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7124-original",
+          "shortCode": "ZMVN-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2024-12-02",
+          "effectiveFrom": "2024-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3730",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7124-amend-ZAKO9495",
+          "shortCode": "ZMVN-1D",
+          "label": "Sprememba ZAKO9495",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2026-07-23",
+          "effectiveFrom": "2026-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9495",
+      "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin (ZMVN-1D)",
+      "shortTitle": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin (ZMVN-1D)",
+      "shortCode": "ZMVN-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-1926",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-07-23",
+      "validFrom": "2026-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1926",
+      "versions": [
+        {
+          "id": "ZAKO9495-original",
+          "shortCode": "ZMVN-1D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-07-23",
+          "effectiveFrom": "2026-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMVN",
+      "title": "Zakon o množičnem vrednotenju nepremičnin",
+      "shortTitle": "Zakon o množičnem vrednotenju nepremičnin",
+      "shortCode": "ZMVN",
+      "kind": "zakon",
+      "keywords": [
+        "davek na nepremičnine",
+        "nepremičnine",
+        "nepremičninski trg"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2126",
+      "gazette": "Uradni list RS 50/06  str. 5329",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-16",
+      "validFrom": "2006-05-16",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2126",
+      "versions": [
+        {
+          "id": "ZMVN-original",
+          "shortCode": "ZMVN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/06  str. 5329",
+          "publishedAt": "2006-05-16",
+          "effectiveFrom": "2006-05-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2126",
+          "proposer": null
+        },
+        {
+          "id": "ZMVN-amend-ZAKO6209",
+          "shortCode": "ZMVN-A",
+          "label": "Sprememba ZMVN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-11-02",
+          "effectiveFrom": "2011-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMVN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3718",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMVN-1A",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o množičnem vrednotenju nepremičnin",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o množičnem vrednotenju nepremičnin",
+      "shortCode": "ZMVN-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1493",
+      "gazette": "Uradni list RS 33/19  str. 3989",
+      "issuingBody": null,
+      "adoptedAt": "2019-05-22",
+      "validFrom": "2019-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1493",
+      "versions": [
+        {
+          "id": "ZMVN-1A-original",
+          "shortCode": "ZMVN-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/19  str. 3989",
+          "publishedAt": "2019-05-22",
+          "effectiveFrom": "2019-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1493",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMVN-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin",
+      "shortCode": "ZMVN-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2925",
+      "gazette": "Uradni list RS 66/19  str. 7877",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2925",
+      "versions": [
+        {
+          "id": "ZMVN-1B-original",
+          "shortCode": "ZMVN-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7877",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2925",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMVN-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o množičnem vrednotenju nepremičnin",
+      "shortCode": "ZMVN-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3101",
+      "gazette": "Uradni list RS 100/24  str. 10491",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-26",
+      "validFrom": "2024-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3101",
+      "versions": [
+        {
+          "id": "ZMVN-1C-original",
+          "shortCode": "ZMVN-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/24  str. 10491",
+          "publishedAt": "2024-11-26",
+          "effectiveFrom": "2024-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7124"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3101",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

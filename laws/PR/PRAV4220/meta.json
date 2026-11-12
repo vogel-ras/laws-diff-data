@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4220",
+  "path": "laws/PR/PRAV4220",
+  "members": [
+    {
+      "id": "PRAV4220",
+      "title": "Pravilnik o minimalnih zahtevah, ki jih morajo izpolnjevati nekatere naprave in oprema vozil v cestnem prometu",
+      "shortTitle": "Pravilnik o minimalnih zahtevah, ki jih morajo izpolnjevati nekatere naprave in oprema vozil v cestnem prometu",
+      "shortCode": "PRAV4220",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4878",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2002-11-15",
+      "validFrom": "2002-11-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4878",
+      "versions": [
+        {
+          "id": "PRAV4220-original",
+          "shortCode": "PRAV4220",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-15",
+          "effectiveFrom": "2002-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4878",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5239",
+      "title": "Pravilnik o spremembi pravilnika o minimalnih zahtevah, ki jih morajo izpolnjevati nekatere naprave in oprema vozil v cestnem prometu",
+      "shortTitle": "Pravilnik o spremembi pravilnika o minimalnih zahtevah, ki jih morajo izpolnjevati nekatere naprave in oprema vozil v cestnem prometu",
+      "shortCode": "PRAV5239",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5251",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2003-12-11",
+      "validFrom": "2003-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5251",
+      "versions": [
+        {
+          "id": "PRAV5239-original",
+          "shortCode": "PRAV5239",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-11",
+          "effectiveFrom": "2003-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4220"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5251",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED23",
+  "path": "laws/UR/URED23",
+  "members": [
+    {
+      "id": "URED23",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za proizvodnjo fitofarmacevtskih sredstev",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadnih vod iz objektov in naprav za proizvodnjo fitofarmacevtskih sredstev",
+      "shortCode": "URED23",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-3990",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-10-15",
+      "validFrom": "1999-10-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3990",
+      "versions": [
+        {
+          "id": "URED23-original",
+          "shortCode": "URED23",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3990",
+          "proposer": null
+        },
+        {
+          "id": "URED23-npb-URED23",
+          "shortCode": "URED23-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED23",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

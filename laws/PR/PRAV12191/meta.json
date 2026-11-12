@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12191",
+  "path": "laws/PR/PRAV12191",
+  "members": [
+    {
+      "id": "PRAV12191",
+      "title": "Pravilnik o merilih za določitev vidnih dosežkov za pridobitev naziva predavatelj višje šole",
+      "shortTitle": "Pravilnik o merilih za določitev vidnih dosežkov za pridobitev naziva predavatelj višje šole",
+      "shortCode": "PRAV12191",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3188",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2014-10-24",
+      "validFrom": "2014-10-24",
+      "validTo": null,
+      "latestPublishedAt": "2014-10-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3188",
+      "versions": [
+        {
+          "id": "PRAV12191-original",
+          "shortCode": "PRAV12191",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-10-24",
+          "effectiveFrom": "2014-10-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3188",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12191-npb-PRAV12191",
+          "shortCode": "PRAV12191-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-10-24",
+          "effectiveFrom": "2014-10-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12191",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14521",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za določitev vidnih dosežkov za pridobitev naziva predavatelj višje šole",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za določitev vidnih dosežkov za pridobitev naziva predavatelj višje šole",
+      "shortCode": "PRAV14521",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-3739",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-12-02",
+      "validFrom": "2022-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3739",
+      "versions": [
+        {
+          "id": "PRAV14521-original",
+          "shortCode": "PRAV14521",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-02",
+          "effectiveFrom": "2022-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12191"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3739",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

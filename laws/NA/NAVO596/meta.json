@@ -1,0 +1,58 @@
+{
+  "root": "NAVO596",
+  "path": "laws/NA/NAVO596",
+  "members": [
+    {
+      "id": "NAVO596",
+      "title": "Pravilnik o načinu in rokih zagotavljanja podatkov za vodenje centralne evidence finančnega premoženja države oziroma občine",
+      "shortTitle": "Pravilnik o načinu in rokih zagotavljanja podatkov za vodenje centralne evidence finančnega premoženja države oziroma občine",
+      "shortCode": "NAVO596",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2004-01-5402",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-12-03",
+      "validFrom": "2004-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5402",
+      "versions": [
+        {
+          "id": "NAVO596-original",
+          "shortCode": "NAVO596",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-03",
+          "effectiveFrom": "2004-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5402",
+          "proposer": null
+        },
+        {
+          "id": "NAVO596-npb-NAVO596",
+          "shortCode": "NAVO596-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-12-03",
+          "effectiveFrom": "2004-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO596",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

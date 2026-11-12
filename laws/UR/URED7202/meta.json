@@ -1,0 +1,58 @@
+{
+  "root": "URED7202",
+  "path": "laws/UR/URED7202",
+  "members": [
+    {
+      "id": "URED7202",
+      "title": "Uredba o zelenem javnem naročanju",
+      "shortTitle": "Uredba o zelenem javnem naročanju",
+      "shortCode": "URED7202",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-2381",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-09-19",
+      "validFrom": "2017-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2381",
+      "versions": [
+        {
+          "id": "URED7202-original",
+          "shortCode": "URED7202",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-19",
+          "effectiveFrom": "2017-09-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2381",
+          "proposer": null
+        },
+        {
+          "id": "URED7202-npb-URED7202",
+          "shortCode": "URED7202-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-09-19",
+          "effectiveFrom": "2017-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7202",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

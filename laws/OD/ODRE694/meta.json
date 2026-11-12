@@ -1,0 +1,82 @@
+{
+  "root": "ODRE694",
+  "path": "laws/OD/ODRE694",
+  "members": [
+    {
+      "id": "ODRE694",
+      "title": "Odredba o homologaciji vozil",
+      "shortTitle": "Odredba o homologaciji vozil",
+      "shortCode": "ODRE694",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1995-01-0287",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-01-20",
+      "validFrom": "1995-01-20",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0287",
+      "versions": [
+        {
+          "id": "ODRE694-original",
+          "shortCode": "ODRE694",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-01-20",
+          "effectiveFrom": "1995-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0287",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4797",
+      "title": "Pravilnik o spremembah odredbe o homologaciji vozil",
+      "shortTitle": "Pravilnik o spremembah odredbe o homologaciji vozil",
+      "shortCode": "PRAV4797",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2430",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-05-26",
+      "validFrom": "2003-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2430",
+      "versions": [
+        {
+          "id": "PRAV4797-original",
+          "shortCode": "PRAV4797",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-26",
+          "effectiveFrom": "2003-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE694"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2430",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED3750",
+  "path": "laws/UR/URED3750",
+  "members": [
+    {
+      "id": "URED3750",
+      "title": "Uredba o državnem lokacijskem načrtu za oskrbni center ob avtocestnem odseku Slivnica-Pesnica",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za oskrbni center ob avtocestnem odseku Slivnica-Pesnica",
+      "shortCode": "URED3750",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-0388",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-02-02",
+      "validFrom": "2007-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0388",
+      "versions": [
+        {
+          "id": "URED3750-original",
+          "shortCode": "URED3750",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0388",
+          "proposer": null
+        },
+        {
+          "id": "URED3750-npb-URED3750",
+          "shortCode": "URED3750-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3750",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

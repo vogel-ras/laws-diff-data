@@ -1,0 +1,121 @@
+{
+  "root": "SKLE3303",
+  "path": "laws/SK/SKLE3303",
+  "members": [
+    {
+      "id": "SKLE3303",
+      "title": "Sklep o pošiljanju določenih podatkov bank in hranilnic",
+      "shortTitle": "Sklep o pošiljanju določenih podatkov bank in hranilnic",
+      "shortCode": "SKLE3303",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-4901",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2002-11-20",
+      "validFrom": "2002-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4901",
+      "versions": [
+        {
+          "id": "SKLE3303-original",
+          "shortCode": "SKLE3303",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4901",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5275",
+      "title": "Sklep o spremembi sklepa o pošiljanju določenih podatkov bank in hranilnic",
+      "shortTitle": "Sklep o spremembi sklepa o pošiljanju določenih podatkov bank in hranilnic",
+      "shortCode": "SKLE5275",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-5760",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2004-12-17",
+      "validFrom": "2004-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5760",
+      "versions": [
+        {
+          "id": "SKLE5275-original",
+          "shortCode": "SKLE5275",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-17",
+          "effectiveFrom": "2004-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3303"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5760",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6459",
+      "title": "Sklep o spremembi Sklepa o pošiljanju določenih podatkov bank in hranilnic",
+      "shortTitle": "Sklep o spremembi Sklepa o pošiljanju določenih podatkov bank in hranilnic",
+      "shortCode": "SKLE6459",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-1670",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-04-11",
+      "validFrom": "2006-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1670",
+      "versions": [
+        {
+          "id": "SKLE6459-original",
+          "shortCode": "SKLE6459",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-11",
+          "effectiveFrom": "2006-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3303"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1670",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "NAVO338",
+  "path": "laws/NA/NAVO338",
+  "members": [
+    {
+      "id": "NAVO338",
+      "title": "Navodilo o vsebini in načinu vodenja registra imetnikov računov pri Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortTitle": "Navodilo o vsebini in načinu vodenja registra imetnikov računov pri Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortCode": "NAVO338",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-0547",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-02-17",
+      "validFrom": "1995-02-17",
+      "validTo": null,
+      "latestPublishedAt": "1995-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0547",
+      "versions": [
+        {
+          "id": "NAVO338-original",
+          "shortCode": "NAVO338",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-02-17",
+          "effectiveFrom": "1995-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0547",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO339",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o vsebini in načinu vodenja registra imetnikov računov pri Agenciji Republike Slovenije za plačilni promet",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o vsebini in načinu vodenja registra imetnikov računov pri Agenciji Republike Slovenije za plačilni promet",
+      "shortCode": "NAVO339",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1998-01-2000",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-06-19",
+      "validFrom": "1998-06-19",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2000",
+      "versions": [
+        {
+          "id": "NAVO339-original",
+          "shortCode": "NAVO339",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-06-19",
+          "effectiveFrom": "1998-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO338"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2000",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

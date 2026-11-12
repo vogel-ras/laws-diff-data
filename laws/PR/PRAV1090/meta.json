@@ -1,0 +1,82 @@
+{
+  "root": "PRAV1090",
+  "path": "laws/PR/PRAV1090",
+  "members": [
+    {
+      "id": "PRAV1090",
+      "title": "Pravilnik o stopnjah primanjkljaja, ki je neločljivo povezan s procesom izdelave in predelave ter normalnega odpisa blaga kot posledico poškodb in okvar na nosilcih besed",
+      "shortTitle": "Pravilnik o stopnjah primanjkljaja, ki je neločljivo povezan s procesom izdelave in predelave ter normalnega odpisa blaga kot posledico poškodb in okvar na nosilcih besed",
+      "shortCode": "PRAV1090",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2524",
+      "gazette": null,
+      "issuingBody": "ZDRUŽENJE ZA TISK IN MEDIJE",
+      "adoptedAt": "1999-07-02",
+      "validFrom": "1999-07-02",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2524",
+      "versions": [
+        {
+          "id": "PRAV1090-original",
+          "shortCode": "PRAV1090",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-02",
+          "effectiveFrom": "1999-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2524",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9689",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o stopnjah primanjkljaja, ki je neločljivo povezan s procesom izdelave in predelave ter normalnega odpisa blaga kot posledico poškodb in okvar na nosilcih besed",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o stopnjah primanjkljaja, ki je neločljivo povezan s procesom izdelave in predelave ter normalnega odpisa blaga kot posledico poškodb in okvar na nosilcih besed",
+      "shortCode": "PRAV9689",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0707",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-03-13",
+      "validFrom": "2009-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0707",
+      "versions": [
+        {
+          "id": "PRAV9689-original",
+          "shortCode": "PRAV9689",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-13",
+          "effectiveFrom": "2009-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1090"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0707",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

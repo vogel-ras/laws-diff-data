@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7063",
+  "path": "laws/PR/PRAV7063",
+  "members": [
+    {
+      "id": "PRAV7063",
+      "title": "Pravilnik o izvrševanju uredbe o upravnem poslovanju",
+      "shortTitle": "Pravilnik o izvrševanju uredbe o upravnem poslovanju",
+      "shortCode": "PRAV7063",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3335",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2005-08-09",
+      "validFrom": "2005-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3335",
+      "versions": [
+        {
+          "id": "PRAV7063-original",
+          "shortCode": "PRAV7063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-09",
+          "effectiveFrom": "2005-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3335",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9067",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju uredbe o upravnem poslovanju",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju uredbe o upravnem poslovanju",
+      "shortCode": "PRAV9067",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-2061",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-05-16",
+      "validFrom": "2008-05-16",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2061",
+      "versions": [
+        {
+          "id": "PRAV9067-original",
+          "shortCode": "PRAV9067",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-16",
+          "effectiveFrom": "2008-05-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7063"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2061",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

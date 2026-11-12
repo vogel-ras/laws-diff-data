@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5326",
+  "path": "laws/PR/PRAV5326",
+  "members": [
+    {
+      "id": "PRAV5326",
+      "title": "Pravilnik o financiranju in izvajanju lokalnih zaposlitvenih programov - javna dela",
+      "shortTitle": "Pravilnik o financiranju in izvajanju lokalnih zaposlitvenih programov - javna dela",
+      "shortCode": "PRAV5326",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4727",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2003-11-07",
+      "validFrom": "2003-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4727",
+      "versions": [
+        {
+          "id": "PRAV5326-original",
+          "shortCode": "PRAV5326",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-07",
+          "effectiveFrom": "2003-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4727",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6172",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o financiranju in izvajanju lokalnih zaposlitvenih programov - javna dela",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o financiranju in izvajanju lokalnih zaposlitvenih programov - javna dela",
+      "shortCode": "PRAV6172",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4559",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2004-10-08",
+      "validFrom": "2004-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4559",
+      "versions": [
+        {
+          "id": "PRAV6172-original",
+          "shortCode": "PRAV6172",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-08",
+          "effectiveFrom": "2004-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5326"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4559",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1003",
+  "path": "ordinances/OD/ODLO1003",
+  "members": [
+    {
+      "id": "ODLO1003",
+      "title": "Odlok o razglasitvi Šeškovega doma v Kočevju za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Šeškovega doma v Kočevju za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1003",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2001-01-3544",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-08-09",
+      "validFrom": "2001-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3544",
+      "versions": [
+        {
+          "id": "ODLO1003-original",
+          "shortCode": "ODLO1003",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-09",
+          "effectiveFrom": "2001-08-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3544",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1003-npb-ODLO1003",
+          "shortCode": "ODLO1003-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-08-09",
+          "effectiveFrom": "2001-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1003",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

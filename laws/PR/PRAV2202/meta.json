@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2202",
+  "path": "laws/PR/PRAV2202",
+  "members": [
+    {
+      "id": "PRAV2202",
+      "title": "Pravilnik o nagradah za inovacije, ustvarjene v delovnem razmerju",
+      "shortTitle": "Pravilnik o nagradah za inovacije, ustvarjene v delovnem razmerju",
+      "shortCode": "PRAV2202",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-1229",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-04-18",
+      "validFrom": "1998-04-18",
+      "validTo": null,
+      "latestPublishedAt": "1998-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1229",
+      "versions": [
+        {
+          "id": "PRAV2202-original",
+          "shortCode": "PRAV2202",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-04-18",
+          "effectiveFrom": "1998-04-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1229",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV673",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o nagradah za inovacije, ustvarjene v delovnem razmerju",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o nagradah za inovacije, ustvarjene v delovnem razmerju",
+      "shortCode": "PRAV673",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-0688",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za znanost in tehnologijo",
+      "adoptedAt": "1999-03-12",
+      "validFrom": "1999-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0688",
+      "versions": [
+        {
+          "id": "PRAV673-original",
+          "shortCode": "PRAV673",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-12",
+          "effectiveFrom": "1999-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2202"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0688",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

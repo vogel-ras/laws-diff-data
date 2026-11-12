@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2401",
+  "path": "laws/OD/ODRE2401",
+  "members": [
+    {
+      "id": "ODRE2401",
+      "title": "Odredba o Programu promocije sektorja sadja za obdobje od 2018 do 2020",
+      "shortTitle": "Odredba o Programu promocije sektorja sadja za obdobje od 2018 do 2020",
+      "shortCode": "ODRE2401",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2018-01-2630",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-07-25",
+      "validFrom": "2025-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2025-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2630",
+      "versions": [
+        {
+          "id": "ODRE2401-original",
+          "shortCode": "ODRE2401",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-07-25",
+          "effectiveFrom": "2025-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2630",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2401-npb-ODRE2401",
+          "shortCode": "ODRE2401-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-07-20",
+          "effectiveFrom": "2018-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2401",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2611",
+      "title": "Odredba o spremembi Odredbe o Programu promocije sektorja sadja za obdobje od 2018 do 2020",
+      "shortTitle": "Odredba o spremembi Odredbe o Programu promocije sektorja sadja za obdobje od 2018 do 2020",
+      "shortCode": "ODRE2611",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2021-01-0654",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-03-05",
+      "validFrom": "2021-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0654",
+      "versions": [
+        {
+          "id": "ODRE2611-original",
+          "shortCode": "ODRE2611",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-05",
+          "effectiveFrom": "2021-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2401"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0654",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

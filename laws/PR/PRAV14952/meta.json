@@ -1,0 +1,82 @@
+{
+  "root": "PRAV14952",
+  "path": "laws/PR/PRAV14952",
+  "members": [
+    {
+      "id": "PRAV14952",
+      "title": "Pravilnik o evidenci krajinskih značilnosti za pogojenost in ukrepe kmetijske politike",
+      "shortTitle": "Pravilnik o evidenci krajinskih značilnosti za pogojenost in ukrepe kmetijske politike",
+      "shortCode": "PRAV14952",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1066",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-24",
+      "validFrom": "2025-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1066",
+      "versions": [
+        {
+          "id": "PRAV14952-original",
+          "shortCode": "PRAV14952",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-24",
+          "effectiveFrom": "2025-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15302",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidenci krajinskih značilnosti za pogojenost in ukrepe kmetijske politike",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidenci krajinskih značilnosti za pogojenost in ukrepe kmetijske politike",
+      "shortCode": "PRAV15302",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0710",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2024-03-22",
+      "validFrom": "2024-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0710",
+      "versions": [
+        {
+          "id": "PRAV15302-original",
+          "shortCode": "PRAV15302",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-22",
+          "effectiveFrom": "2024-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14952"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0710",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "NAVO206",
+  "path": "laws/NA/NAVO206",
+  "members": [
+    {
+      "id": "NAVO206",
+      "title": "Navodilo za organizacijo in delo skupine državnih tožilcev za posebne zadeve pri Državnem tožilstvu Republike Slovenije",
+      "shortTitle": "Navodilo za organizacijo in delo skupine državnih tožilcev za posebne zadeve pri Državnem tožilstvu Republike Slovenije",
+      "shortCode": "NAVO206",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-4538",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-11-25",
+      "validFrom": "1999-11-25",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4538",
+      "versions": [
+        {
+          "id": "NAVO206-original",
+          "shortCode": "NAVO206",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-11-25",
+          "effectiveFrom": "1999-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4538",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO745",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za organizacijo in delo Skupine državnih tožilcev za posebne zadeve pri Državnem tožilstvu Republike Slovenije",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za organizacijo in delo Skupine državnih tožilcev za posebne zadeve pri Državnem tožilstvu Republike Slovenije",
+      "shortCode": "NAVO745",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2005-01-0055",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-01-11",
+      "validFrom": "2005-01-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-01-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0055",
+      "versions": [
+        {
+          "id": "NAVO745-original",
+          "shortCode": "NAVO745",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-01-11",
+          "effectiveFrom": "2005-01-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO206"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0055",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

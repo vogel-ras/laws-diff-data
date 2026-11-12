@@ -1,0 +1,99 @@
+{
+  "root": "DP2023",
+  "path": "laws/DP/DP2023",
+  "members": [
+    {
+      "id": "DRPR25",
+      "title": "Proračun Republike Slovenije za leto 2023 (DP2023)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2023 (DP2023)",
+      "shortCode": "DP2023",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-3712",
+      "gazette": null,
+      "issuingBody": "Državni zbor Republike Slovenije",
+      "adoptedAt": "2021-12-01",
+      "validFrom": "2021-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3712",
+      "versions": [
+        {
+          "id": "DRPR25-original",
+          "shortCode": "DP2023",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-01",
+          "effectiveFrom": "2021-12-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3712",
+          "proposer": null
+        },
+        {
+          "id": "DRPR25-amend-DRPR26",
+          "shortCode": "DP2023-A",
+          "label": "Sprememba DP2023-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-12-02",
+          "effectiveFrom": "2022-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR25"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3734",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "DRPR26",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2023 (DP2023-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2023 (DP2023-A)",
+      "shortCode": "DP2023-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2022-01-3734",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-12-02",
+      "validFrom": "2022-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3734",
+      "versions": [
+        {
+          "id": "DRPR26-original",
+          "shortCode": "DP2023-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-02",
+          "effectiveFrom": "2022-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR25"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3734",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "root": "ZSTNIIP",
+  "path": "laws/ZS/ZSTNIIP",
+  "members": [
+    {
+      "id": "ZSTNIIP",
+      "title": "Zakon o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortTitle": "Zakon o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortCode": "ZSTNIIP",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo",
+        "tuja naložba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3838",
+      "gazette": "Uradni list RS 86/04  str. 10406",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3838",
+      "versions": [
+        {
+          "id": "ZSTNIIP-original",
+          "shortCode": "ZSTNIIP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10406",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3838",
+          "proposer": null
+        },
+        {
+          "id": "ZSTNIIP-amend-ZSTNIIP-A",
+          "shortCode": "ZSTNIIP-A",
+          "label": "Sprememba ZSTNIIP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 78/06  str. 8382",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3403",
+          "proposer": null
+        },
+        {
+          "id": "ZSTNIIP-amend-ZSTNIIP-B",
+          "shortCode": "ZSTNIIP-B",
+          "label": "Sprememba ZSTNIIP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 11/11  str. 1101",
+          "publishedAt": "2011-02-21",
+          "effectiveFrom": "2011-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0447",
+          "proposer": null
+        },
+        {
+          "id": "ZSTNIIP-amend-ZSTNIIP-C",
+          "shortCode": "ZSTNIIP-C",
+          "label": "Sprememba ZSTNIIP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 57/12  str. 5958",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2407",
+          "proposer": null
+        },
+        {
+          "id": "ZSTNIIP-amend-ZSTNIIP-D",
+          "shortCode": "ZSTNIIP-D",
+          "label": "Sprememba ZSTNIIP-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 17/15  str. 1754",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0621",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSTNIIP-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortCode": "ZSTNIIP-A",
+      "kind": "zakon",
+      "keywords": [
+        "transnacionalno podjetje",
+        "tuja naložba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3403",
+      "gazette": "Uradni list RS 78/06  str. 8382",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-25",
+      "validFrom": "2006-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3403",
+      "versions": [
+        {
+          "id": "ZSTNIIP-A-original",
+          "shortCode": "ZSTNIIP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/06  str. 8382",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSTNIIP-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortCode": "ZSTNIIP-B",
+      "kind": "zakon",
+      "keywords": [
+        "tuja naložba",
+        "transnacionalno podjetje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0447",
+      "gazette": "Uradni list RS 11/11  str. 1101",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-21",
+      "validFrom": "2011-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0447",
+      "versions": [
+        {
+          "id": "ZSTNIIP-B-original",
+          "shortCode": "ZSTNIIP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/11  str. 1101",
+          "publishedAt": "2011-02-21",
+          "effectiveFrom": "2011-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0447",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSTNIIP-C",
+      "title": "Zakon o spremembah Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortTitle": "Zakon o spremembah Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortCode": "ZSTNIIP-C",
+      "kind": "zakon",
+      "keywords": [
+        "tuja naložba",
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2407",
+      "gazette": "Uradni list RS 57/12  str. 5958",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2407",
+      "versions": [
+        {
+          "id": "ZSTNIIP-C-original",
+          "shortCode": "ZSTNIIP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5958",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2407",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSTNIIP-D",
+      "title": "Zakon o spremembi Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortTitle": "Zakon o spremembi Zakona o spodbujanju tujih neposrednih investicij in internacionalizacije podjetij",
+      "shortCode": "ZSTNIIP-D",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0621",
+      "gazette": "Uradni list RS 17/15  str. 1754",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-13",
+      "validFrom": "2015-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0621",
+      "versions": [
+        {
+          "id": "ZSTNIIP-D-original",
+          "shortCode": "ZSTNIIP-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/15  str. 1754",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSTNIIP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0621",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

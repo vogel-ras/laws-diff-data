@@ -1,0 +1,155 @@
+{
+  "root": "ZSInv",
+  "path": "laws/ZS/ZSInv",
+  "members": [
+    {
+      "id": "ZAKO7634",
+      "title": "Zakon o spodbujanju investicij (ZSInv)",
+      "shortTitle": "Zakon o spodbujanju investicij (ZSInv)",
+      "shortCode": "ZSInv",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0542",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-04-11",
+      "validFrom": "2024-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0542",
+      "versions": [
+        {
+          "id": "ZAKO7634-amend-ZSInv-C",
+          "shortCode": "ZSInv-C",
+          "label": "Sprememba ZSInv-C",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/23  str. 6086",
+          "publishedAt": "2023-06-17",
+          "effectiveFrom": "2023-06-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2089",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7634-amend-ZSInv-D",
+          "shortCode": "ZSInv-D",
+          "label": "Sprememba ZSInv-D",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 31/24  str. 2612",
+          "publishedAt": "2024-04-09",
+          "effectiveFrom": "2024-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0900",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7634-original",
+          "shortCode": "ZSInv",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2024-04-11",
+          "effectiveFrom": "2024-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0542",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSInv-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij",
+      "shortCode": "ZSInv-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2089",
+      "gazette": "Uradni list RS 65/23  str. 6086",
+      "issuingBody": null,
+      "adoptedAt": "2023-06-17",
+      "validFrom": "2023-06-17",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2089",
+      "versions": [
+        {
+          "id": "ZSInv-C-original",
+          "shortCode": "ZSInv-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/23  str. 6086",
+          "publishedAt": "2023-06-17",
+          "effectiveFrom": "2023-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2089",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSInv-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju investicij",
+      "shortCode": "ZSInv-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0900",
+      "gazette": "Uradni list RS 31/24  str. 2612",
+      "issuingBody": null,
+      "adoptedAt": "2024-04-09",
+      "validFrom": "2024-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0900",
+      "versions": [
+        {
+          "id": "ZSInv-D-original",
+          "shortCode": "ZSInv-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/24  str. 2612",
+          "publishedAt": "2024-04-09",
+          "effectiveFrom": "2024-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0900",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14509",
+  "path": "laws/PR/PRAV14509",
+  "members": [
+    {
+      "id": "PRAV14509",
+      "title": "Pravilnik o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami",
+      "shortTitle": "Pravilnik o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami",
+      "shortCode": "PRAV14509",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-1702",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-16",
+      "validFrom": "2025-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1702",
+      "versions": [
+        {
+          "id": "PRAV14509-original",
+          "shortCode": "PRAV14509",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-16",
+          "effectiveFrom": "2025-04-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1702",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14509-npb-PRAV14509",
+          "shortCode": "PRAV14509-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-05-27",
+          "effectiveFrom": "2022-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14509",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14754",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o sodelovanju policije z veteranskimi in drugimi stanovskimi organizacijami",
+      "shortCode": "PRAV14754",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2623",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-08-05",
+      "validFrom": "2022-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2022-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2623",
+      "versions": [
+        {
+          "id": "PRAV14754-original",
+          "shortCode": "PRAV14754",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-08-05",
+          "effectiveFrom": "2022-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14509"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2623",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

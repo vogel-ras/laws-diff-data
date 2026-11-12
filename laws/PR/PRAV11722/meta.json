@@ -1,0 +1,58 @@
+{
+  "root": "PRAV11722",
+  "path": "laws/PR/PRAV11722",
+  "members": [
+    {
+      "id": "PRAV11722",
+      "title": "Pravilnik o meroslovnih zahtevah za merilnike hitrosti v cestnem prometu",
+      "shortTitle": "Pravilnik o meroslovnih zahtevah za merilnike hitrosti v cestnem prometu",
+      "shortCode": "PRAV11722",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3573",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarski razvoj in tehnologijo",
+      "adoptedAt": "2015-11-30",
+      "validFrom": "2015-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3573",
+      "versions": [
+        {
+          "id": "PRAV11722-original",
+          "shortCode": "PRAV11722",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3573",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11722-npb-PRAV11722",
+          "shortCode": "PRAV11722-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11722",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

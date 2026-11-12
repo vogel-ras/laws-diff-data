@@ -1,0 +1,58 @@
+{
+  "root": "URED5481",
+  "path": "laws/UR/URED5481",
+  "members": [
+    {
+      "id": "URED5481",
+      "title": "Uredba o določitvi najvišjih razmerij za osnovna plačila ter višine spremenljivih prejemkov direktorjev",
+      "shortTitle": "Uredba o določitvi najvišjih razmerij za osnovna plačila ter višine spremenljivih prejemkov direktorjev",
+      "shortCode": "URED5481",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1693",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-04-30",
+      "validFrom": "2010-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1693",
+      "versions": [
+        {
+          "id": "URED5481-original",
+          "shortCode": "URED5481",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-04-30",
+          "effectiveFrom": "2010-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1693",
+          "proposer": null
+        },
+        {
+          "id": "URED5481-npb-URED5481",
+          "shortCode": "URED5481-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-04-30",
+          "effectiveFrom": "2010-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5481",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZSROVE",
+  "path": "laws/ZS/ZSROVE",
+  "members": [
+    {
+      "id": "ZAKO8236",
+      "title": "Zakon o spodbujanju rabe obnovljivih virov energije (ZSROVE)",
+      "shortTitle": "Zakon o spodbujanju rabe obnovljivih virov energije (ZSROVE)",
+      "shortCode": "ZSROVE",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-2570",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-09-21",
+      "validFrom": "2022-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2570",
+      "versions": [
+        {
+          "id": "ZAKO8236-original",
+          "shortCode": "ZSROVE",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-21",
+          "effectiveFrom": "2022-09-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2570",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8236-amend-ZSROVE-B",
+          "shortCode": "ZSROVE-B",
+          "label": "Sprememba ZSROVE-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 102/24  str. 10715",
+          "publishedAt": "2024-12-03",
+          "effectiveFrom": "2024-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8236"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSROVE-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju rabe obnovljivih virov energije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju rabe obnovljivih virov energije",
+      "shortCode": "ZSROVE-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3208",
+      "gazette": "Uradni list RS 102/24  str. 10715",
+      "issuingBody": null,
+      "adoptedAt": "2024-12-03",
+      "validFrom": "2024-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3208",
+      "versions": [
+        {
+          "id": "ZSROVE-B-original",
+          "shortCode": "ZSROVE-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/24  str. 10715",
+          "publishedAt": "2024-12-03",
+          "effectiveFrom": "2024-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8236"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3208",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

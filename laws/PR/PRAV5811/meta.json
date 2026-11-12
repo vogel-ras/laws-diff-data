@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5811",
+  "path": "laws/PR/PRAV5811",
+  "members": [
+    {
+      "id": "PRAV5811",
+      "title": "Pravilnik o projektiranju cest",
+      "shortTitle": "Pravilnik o projektiranju cest",
+      "shortCode": "PRAV5811",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3896",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-30",
+      "validFrom": "2010-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3896",
+      "versions": [
+        {
+          "id": "PRAV5811-original",
+          "shortCode": "PRAV5811",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-30",
+          "effectiveFrom": "2010-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3896",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5811-npb-PRAV5811",
+          "shortCode": "PRAV5811-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-10-14",
+          "effectiveFrom": "2005-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5811",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7567",
+      "title": "Pravilnik o spremembi Pravilnika o projektiranju cest",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o projektiranju cest",
+      "shortCode": "PRAV7567",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1071",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-10",
+      "validFrom": "2006-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1071",
+      "versions": [
+        {
+          "id": "PRAV7567-original",
+          "shortCode": "PRAV7567",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-10",
+          "effectiveFrom": "2006-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5811"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1071",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

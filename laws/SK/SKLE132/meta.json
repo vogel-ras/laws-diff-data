@@ -1,0 +1,82 @@
+{
+  "root": "SKLE132",
+  "path": "laws/SK/SKLE132",
+  "members": [
+    {
+      "id": "SKLE132",
+      "title": "Sklep o določitvi cene električne energije družbam Tovarna dušika Ruše in Talum Kidričevo",
+      "shortTitle": "Sklep o določitvi cene električne energije družbam Tovarna dušika Ruše in Talum Kidričevo",
+      "shortCode": "SKLE132",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1994-01-2622",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-11-25",
+      "validFrom": "1994-11-25",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2622",
+      "versions": [
+        {
+          "id": "SKLE132-original",
+          "shortCode": "SKLE132",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-11-25",
+          "effectiveFrom": "1994-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE133",
+      "title": "Sklep o spremembi sklepa o določitvi cene električne energije",
+      "shortTitle": "Sklep o spremembi sklepa o določitvi cene električne energije",
+      "shortCode": "SKLE133",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1995-01-0877",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-03-31",
+      "validFrom": "1995-03-31",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0877",
+      "versions": [
+        {
+          "id": "SKLE133-original",
+          "shortCode": "SKLE133",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-03-31",
+          "effectiveFrom": "1995-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE132"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0877",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

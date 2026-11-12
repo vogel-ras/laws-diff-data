@@ -1,0 +1,104 @@
+{
+  "root": "BBHZD",
+  "path": "laws/BB/BBHZD",
+  "members": [
+    {
+      "id": "BBHZD",
+      "title": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji in Protokola o izvajanju Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji in Protokola o izvajanju Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji",
+      "shortCode": "BBHZD",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Bosna in Hercegovina",
+        "delavec migrant",
+        "dovoljenje za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-02-0086",
+      "gazette": "Uradni list RS MP 14/12  str. 359",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-06",
+      "validFrom": "2012-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0086",
+      "versions": [
+        {
+          "id": "BBHZD-original",
+          "shortCode": "BBHZD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 14/12  str. 359",
+          "publishedAt": "2012-12-06",
+          "effectiveFrom": "2012-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0086",
+          "proposer": null
+        },
+        {
+          "id": "BBHZD-amend-BBHZD-A",
+          "shortCode": "BBHZD-A",
+          "label": "Sprememba BBHZD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 6/17  str. 125",
+          "publishedAt": "2017-06-09",
+          "effectiveFrom": "2017-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BBHZD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-02-0038",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BBHZD-A",
+      "title": "Zakon o ratifikaciji Sporazuma o spremembah in dopolnitvah Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji ter Protokola o spremembah in dopolnitvah Protokola o izvajanju Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o spremembah in dopolnitvah Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji ter Protokola o spremembah in dopolnitvah Protokola o izvajanju Sporazuma med Vlado Republike Slovenije in Svetom ministrov Bosne in Hercegovine o zaposlovanju državljanov Bosne in Hercegovine v Republiki Sloveniji",
+      "shortCode": "BBHZD-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-02-0038",
+      "gazette": "Uradni list RS MP 6/17  str. 125",
+      "issuingBody": null,
+      "adoptedAt": "2017-06-09",
+      "validFrom": "2017-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-02-0038",
+      "versions": [
+        {
+          "id": "BBHZD-A-original",
+          "shortCode": "BBHZD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 6/17  str. 125",
+          "publishedAt": "2017-06-09",
+          "effectiveFrom": "2017-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BBHZD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-02-0038",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

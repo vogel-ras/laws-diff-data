@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO45968",
+  "path": "ordinances/MP/MP_ODLO45968",
+  "members": [
+    {
+      "id": "MP_ODLO45968",
+      "title": "Odlok o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Žužemberk (ODLO)",
+      "shortTitle": "Odlok o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Žužemberk (ODLO)",
+      "shortCode": "MP_ODLO45968",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-2522",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2522",
+      "versions": [
+        {
+          "id": "MP_ODLO45968-original",
+          "shortCode": "MP_ODLO45968",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2522",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO46997",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Žužemberk (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o podlagah za odmero komunalnega prispevka za obstoječo komunalno opremo za območje Občine Žužemberk (ODLO)",
+      "shortCode": "MP_ODLO46997",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Žužemberk",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2022-01-2234",
+      "gazette": null,
+      "issuingBody": "Občina Žužemberk",
+      "adoptedAt": "2022-07-01",
+      "validFrom": "2022-07-01",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2234",
+      "versions": [
+        {
+          "id": "MP_ODLO46997-original",
+          "shortCode": "MP_ODLO46997",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-01",
+          "effectiveFrom": "2022-07-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO45968"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2234",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

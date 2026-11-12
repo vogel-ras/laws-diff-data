@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5931",
+  "path": "laws/PR/PRAV5931",
+  "members": [
+    {
+      "id": "PRAV5931",
+      "title": "Pravilnik o izplačilih stroškov in nadomestil v zvezi z izvrševanjem vojaške dolžnosti",
+      "shortTitle": "Pravilnik o izplačilih stroškov in nadomestil v zvezi z izvrševanjem vojaške dolžnosti",
+      "shortCode": "PRAV5931",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2908",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2004-06-11",
+      "validFrom": "2004-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2908",
+      "versions": [
+        {
+          "id": "PRAV5931-original",
+          "shortCode": "PRAV5931",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-11",
+          "effectiveFrom": "2004-06-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2908",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5931-npb-PRAV5931",
+          "shortCode": "PRAV5931-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-06-11",
+          "effectiveFrom": "2004-06-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5931",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7081",
+      "title": "Pravilnik o spremembah Pravilnika o izplačilih stroškov in nadomestil v zvezi z izvrševanjem vojaške dolžnosti",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izplačilih stroškov in nadomestil v zvezi z izvrševanjem vojaške dolžnosti",
+      "shortCode": "PRAV7081",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3396",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-08-12",
+      "validFrom": "2005-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3396",
+      "versions": [
+        {
+          "id": "PRAV7081-original",
+          "shortCode": "PRAV7081",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-12",
+          "effectiveFrom": "2005-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5931"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3396",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

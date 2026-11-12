@@ -1,0 +1,121 @@
+{
+  "root": "URED681",
+  "path": "laws/UR/URED681",
+  "members": [
+    {
+      "id": "URED681",
+      "title": "Uredba o zavarovanju samoniklih gliv",
+      "shortTitle": "Uredba o zavarovanju samoniklih gliv",
+      "shortCode": "URED681",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-1541",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1541",
+      "versions": [
+        {
+          "id": "URED681-original",
+          "shortCode": "URED681",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED732",
+      "title": "Uredba o spremembi uredbe o zavarovanju samoniklih gliv",
+      "shortTitle": "Uredba o spremembi uredbe o zavarovanju samoniklih gliv",
+      "shortCode": "URED732",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-2158",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-07-28",
+      "validFrom": "1995-07-28",
+      "validTo": null,
+      "latestPublishedAt": "1995-07-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2158",
+      "versions": [
+        {
+          "id": "URED732-original",
+          "shortCode": "URED732",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-07-28",
+          "effectiveFrom": "1995-07-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED681"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2158",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED733",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o zavarovanju samoniklih gliv",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o zavarovanju samoniklih gliv",
+      "shortCode": "URED733",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-2000",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-06-07",
+      "validFrom": "1996-06-07",
+      "validTo": null,
+      "latestPublishedAt": "1996-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2000",
+      "versions": [
+        {
+          "id": "URED733-original",
+          "shortCode": "URED733",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-06-07",
+          "effectiveFrom": "1996-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED681"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2000",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

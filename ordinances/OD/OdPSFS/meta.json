@@ -1,0 +1,155 @@
+{
+  "root": "OdPSFS",
+  "path": "ordinances/OD/OdPSFS",
+  "members": [
+    {
+      "id": "AKT_17",
+      "title": "Odlok o soglasju k pravilniku o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS)",
+      "shortTitle": "Odlok o soglasju k pravilniku o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS)",
+      "shortCode": "OdPSFS",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1998-01-2605",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-08-14",
+      "validFrom": "1998-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2605",
+      "versions": [
+        {
+          "id": "AKT_17-original",
+          "shortCode": "OdPSFS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2605",
+          "proposer": null
+        },
+        {
+          "id": "AKT_17-amend-ODLO523",
+          "shortCode": "OdPSFS-A",
+          "label": "Sprememba OdPSFS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-02-18",
+          "effectiveFrom": "2000-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "AKT_17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0622",
+          "proposer": null
+        },
+        {
+          "id": "AKT_17-amend-SKLE4187",
+          "shortCode": "OdPSFS-B",
+          "label": "Sprememba OdPSFS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3744",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO523",
+      "title": "Odlok o soglasju k spremembam pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS-A)",
+      "shortTitle": "Odlok o soglasju k spremembam pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS-A)",
+      "shortCode": "OdPSFS-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-0622",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-02-18",
+      "validFrom": "2000-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0622",
+      "versions": [
+        {
+          "id": "ODLO523-original",
+          "shortCode": "OdPSFS-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-18",
+          "effectiveFrom": "2000-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4187",
+      "title": "Sklep o soglasju k spremembam in dopolnitvam pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS-B)",
+      "shortTitle": "Sklep o soglasju k spremembam in dopolnitvam pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje športnih organizacij v Republiki Sloveniji (OdPSFS-B)",
+      "shortCode": "OdPSFS-B",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3744",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2003-08-12",
+      "validFrom": "2003-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3744",
+      "versions": [
+        {
+          "id": "SKLE4187-original",
+          "shortCode": "OdPSFS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_17"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3744",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

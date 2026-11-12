@@ -1,0 +1,136 @@
+{
+  "root": "URED3708",
+  "path": "laws/UR/URED3708",
+  "members": [
+    {
+      "id": "URED3708",
+      "title": "Uredba o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortTitle": "Uredba o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortCode": "URED3708",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-2549",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2549",
+      "versions": [
+        {
+          "id": "URED3708-original",
+          "shortCode": "URED3708",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2549",
+          "proposer": null
+        },
+        {
+          "id": "URED3708-npb-URED3708",
+          "shortCode": "URED3708-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3708",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5105",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortCode": "URED5105",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3041",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-07-09",
+      "validFrom": "2010-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3041",
+      "versions": [
+        {
+          "id": "URED5105-original",
+          "shortCode": "URED5105",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-09",
+          "effectiveFrom": "2010-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3708"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3041",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7296",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o enotni metodologiji za pripravo in obravnavo investicijske dokumentacije na področju javnih financ",
+      "shortCode": "URED7296",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-1079",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-04-11",
+      "validFrom": "2016-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1079",
+      "versions": [
+        {
+          "id": "URED7296-original",
+          "shortCode": "URED7296",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-04-11",
+          "effectiveFrom": "2016-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3708"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1079",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

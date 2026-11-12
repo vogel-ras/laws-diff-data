@@ -1,0 +1,105 @@
+{
+  "root": "ZKPT",
+  "path": "laws/ZK/ZKPT",
+  "members": [
+    {
+      "id": "ZKPT",
+      "title": "Zakon o kreditnih poslih s tujino",
+      "shortTitle": "Zakon o kreditnih poslih s tujino",
+      "shortCode": "ZKPT",
+      "kind": "zakon",
+      "keywords": [
+        "kreditna politika",
+        "mednarodni kredit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0015",
+      "gazette": "Uradni list RS 1/91  str. 41",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0015",
+      "versions": [
+        {
+          "id": "ZKPT-original",
+          "shortCode": "ZKPT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 41",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0015",
+          "proposer": null
+        },
+        {
+          "id": "ZKPT-amend-ZKPT-A",
+          "shortCode": "ZKPT-A",
+          "label": "Sprememba ZKPT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 63/95  str. 4938",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2920",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKPT-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o kreditnih poslih s tujino",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o kreditnih poslih s tujino",
+      "shortCode": "ZKPT-A",
+      "kind": "zakon",
+      "keywords": [
+        "kreditna politika",
+        "mednarodni kredit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2920",
+      "gazette": "Uradni list RS 63/95  str. 4938",
+      "issuingBody": null,
+      "adoptedAt": "1995-11-06",
+      "validFrom": "1995-11-06",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2920",
+      "versions": [
+        {
+          "id": "ZKPT-A-original",
+          "shortCode": "ZKPT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/95  str. 4938",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2920",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED8030",
+  "path": "laws/UR/URED8030",
+  "members": [
+    {
+      "id": "URED8030",
+      "title": "Uredba o izdaji deklaracij za proizvodne naprave in potrdil o izvoru električne energije",
+      "shortTitle": "Uredba o izdaji deklaracij za proizvodne naprave in potrdil o izvoru električne energije",
+      "shortCode": "URED8030",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3203",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-01",
+      "validFrom": "2024-07-01",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3203",
+      "versions": [
+        {
+          "id": "URED8030-original",
+          "shortCode": "URED8030",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-01",
+          "effectiveFrom": "2024-07-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3203",
+          "proposer": null
+        },
+        {
+          "id": "URED8030-npb-URED8030",
+          "shortCode": "URED8030-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-12-10",
+          "effectiveFrom": "2020-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8030",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

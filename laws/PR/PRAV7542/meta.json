@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7542",
+  "path": "laws/PR/PRAV7542",
+  "members": [
+    {
+      "id": "PRAV7542",
+      "title": "Pravilnik o izvajanju Zakona o davku na dodano vrednost",
+      "shortTitle": "Pravilnik o izvajanju Zakona o davku na dodano vrednost",
+      "shortCode": "PRAV7542",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-6170",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-20",
+      "validFrom": "2025-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6170",
+      "versions": [
+        {
+          "id": "PRAV7542-original",
+          "shortCode": "PRAV7542",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-20",
+          "effectiveFrom": "2025-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6170",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7542-npb-PRAV7542",
+          "shortCode": "PRAV7542-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 30)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-12-30",
+          "effectiveFrom": "2006-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7542",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

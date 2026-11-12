@@ -1,0 +1,164 @@
+{
+  "root": "ZSKZ",
+  "path": "laws/ZS/ZSKZ",
+  "members": [
+    {
+      "id": "ZSKZ",
+      "title": "Zakon o Skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortTitle": "Zakon o Skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortCode": "ZSKZ",
+      "kind": "zakon",
+      "keywords": [
+        "sklad kmetijskih zemljišč",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0432",
+      "gazette": "Uradni list RS 10/93  str. 454",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-24",
+      "validFrom": "1993-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0432",
+      "versions": [
+        {
+          "id": "ZSKZ-original",
+          "shortCode": "ZSKZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/93  str. 454",
+          "publishedAt": "1993-02-24",
+          "effectiveFrom": "1993-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0432",
+          "proposer": null
+        },
+        {
+          "id": "ZSKZ-amend-ZSKZ-A",
+          "shortCode": "ZSKZ-A",
+          "label": "Sprememba ZSKZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 1/96  str. 4",
+          "publishedAt": "1996-01-12",
+          "effectiveFrom": "1996-01-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0004",
+          "proposer": null
+        },
+        {
+          "id": "ZSKZ-amend-ZSKZ-B",
+          "shortCode": "ZSKZ-B",
+          "label": "Sprememba ZSKZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 8/10  str. 937",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0254",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSKZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortCode": "ZSKZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "sklad kmetijskih zemljišč",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0004",
+      "gazette": "Uradni list RS 1/96  str. 4",
+      "issuingBody": null,
+      "adoptedAt": "1996-01-12",
+      "validFrom": "1996-01-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0004",
+      "versions": [
+        {
+          "id": "ZSKZ-A-original",
+          "shortCode": "ZSKZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/96  str. 4",
+          "publishedAt": "1996-01-12",
+          "effectiveFrom": "1996-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0004",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSKZ-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Skladu kmetijskih zemljišč in gozdov Republike Slovenije",
+      "shortCode": "ZSKZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "sklad kmetijskih zemljišč",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0254",
+      "gazette": "Uradni list RS 8/10  str. 937",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-05",
+      "validFrom": "2010-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0254",
+      "versions": [
+        {
+          "id": "ZSKZ-B-original",
+          "shortCode": "ZSKZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/10  str. 937",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0254",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

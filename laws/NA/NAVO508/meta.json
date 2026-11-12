@@ -1,0 +1,82 @@
+{
+  "root": "NAVO508",
+  "path": "laws/NA/NAVO508",
+  "members": [
+    {
+      "id": "NAVO508",
+      "title": "Navodilo za izvajanje subvencionirane študentske prehrane",
+      "shortTitle": "Navodilo za izvajanje subvencionirane študentske prehrane",
+      "shortCode": "NAVO508",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2001-01-0744",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-02-23",
+      "validFrom": "2001-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0744",
+      "versions": [
+        {
+          "id": "NAVO508-original",
+          "shortCode": "NAVO508",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-23",
+          "effectiveFrom": "2001-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0744",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO725",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za izvajanje subvencionirane študentske prehrane",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za izvajanje subvencionirane študentske prehrane",
+      "shortCode": "NAVO725",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2004-01-4519",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-10-01",
+      "validFrom": "2004-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4519",
+      "versions": [
+        {
+          "id": "NAVO725-original",
+          "shortCode": "NAVO725",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-01",
+          "effectiveFrom": "2004-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO508"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4519",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

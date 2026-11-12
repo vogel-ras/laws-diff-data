@@ -1,0 +1,97 @@
+{
+  "root": "ODRE1625",
+  "path": "laws/OD/ODRE1625",
+  "members": [
+    {
+      "id": "ODRE1625",
+      "title": "Odredba o programu spremljanja kakovosti kmetijskih pridelkov oziroma živil za proračunsko leto 2001",
+      "shortTitle": "Odredba o programu spremljanja kakovosti kmetijskih pridelkov oziroma živil za proračunsko leto 2001",
+      "shortCode": "ODRE1625",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-2969",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2001-07-06",
+      "validFrom": "2001-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2969",
+      "versions": [
+        {
+          "id": "ODRE1625-original",
+          "shortCode": "ODRE1625",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-06",
+          "effectiveFrom": "2001-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2969",
+          "proposer": null
+        },
+        {
+          "id": "ODRE1625-npb-ODRE1625",
+          "shortCode": "ODRE1625-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-07-06",
+          "effectiveFrom": "2001-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE1625",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1652",
+      "title": "Odredba o spremembi odredbe o programu spremljanja kakovosti kmetijskih pridelkov oziroma živil za proračunsko leto 2001",
+      "shortTitle": "Odredba o spremembi odredbe o programu spremljanja kakovosti kmetijskih pridelkov oziroma živil za proračunsko leto 2001",
+      "shortCode": "ODRE1652",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-3056",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2001-07-13",
+      "validFrom": "2001-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3056",
+      "versions": [
+        {
+          "id": "ODRE1652-original",
+          "shortCode": "ODRE1652",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-13",
+          "effectiveFrom": "2001-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1625"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3056",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

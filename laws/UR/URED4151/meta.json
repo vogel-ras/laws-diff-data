@@ -1,0 +1,97 @@
+{
+  "root": "URED4151",
+  "path": "laws/UR/URED4151",
+  "members": [
+    {
+      "id": "URED4151",
+      "title": "Uredba o načinu ravnanja z zaseženimi in odvzetimi prepovedanimi drogami",
+      "shortTitle": "Uredba o načinu ravnanja z zaseženimi in odvzetimi prepovedanimi drogami",
+      "shortCode": "URED4151",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2606",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-06-01",
+      "validFrom": "2007-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2606",
+      "versions": [
+        {
+          "id": "URED4151-original",
+          "shortCode": "URED4151",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-01",
+          "effectiveFrom": "2007-06-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2606",
+          "proposer": null
+        },
+        {
+          "id": "URED4151-npb-URED4151",
+          "shortCode": "URED4151-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-06-01",
+          "effectiveFrom": "2007-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4151",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5238",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu ravnanja z zaseženimi in odvzetimi prepovedanimi drogami",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu ravnanja z zaseženimi in odvzetimi prepovedanimi drogami",
+      "shortCode": "URED5238",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2989",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-08-07",
+      "validFrom": "2009-08-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2989",
+      "versions": [
+        {
+          "id": "URED5238-original",
+          "shortCode": "URED5238",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-07",
+          "effectiveFrom": "2009-08-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4151"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2989",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

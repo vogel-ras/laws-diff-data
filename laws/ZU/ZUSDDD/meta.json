@@ -1,0 +1,167 @@
+{
+  "root": "ZUSDDD",
+  "path": "laws/ZU/ZUSDDD",
+  "members": [
+    {
+      "id": "ZUSDDD",
+      "title": "Zakon o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortTitle": "Zakon o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortCode": "ZUSDDD",
+      "kind": "zakon",
+      "keywords": [
+        "dovoljenje za bivanje",
+        "Jugoslavija",
+        "tuji državljan"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2913",
+      "gazette": "Uradni list RS 61/99  str. 7825",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-30",
+      "validFrom": "1999-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2913",
+      "versions": [
+        {
+          "id": "ZUSDDD-original",
+          "shortCode": "ZUSDDD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/99  str. 7825",
+          "publishedAt": "1999-07-30",
+          "effectiveFrom": "1999-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2913",
+          "proposer": null
+        },
+        {
+          "id": "ZUSDDD-amend-ZUSDDD-A",
+          "shortCode": "ZUSDDD-A",
+          "label": "Sprememba ZUSDDD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2001  str. 6582",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUSDDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3471",
+          "proposer": null
+        },
+        {
+          "id": "ZUSDDD-amend-ZUSDDD-B",
+          "shortCode": "ZUSDDD-B",
+          "label": "Sprememba ZUSDDD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 50/10  str. 7363",
+          "publishedAt": "2010-06-24",
+          "effectiveFrom": "2010-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUSDDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2648",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUSDDD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortCode": "ZUSDDD-A",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3471",
+      "gazette": "Uradni list RS 64/2001  str. 6582",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3471",
+      "versions": [
+        {
+          "id": "ZUSDDD-A-original",
+          "shortCode": "ZUSDDD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6582",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUSDDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3471",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUSDDD-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o urejanju statusa državljanov drugih držav naslednic nekdanje SFRJ v Republiki Sloveniji",
+      "shortCode": "ZUSDDD-B",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "stalno prebivališče",
+        "dovoljenje za bivanje",
+        "diskriminacija na podlagi državljanstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2648",
+      "gazette": "Uradni list RS 50/10  str. 7363",
+      "issuingBody": null,
+      "adoptedAt": "2010-06-24",
+      "validFrom": "2010-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2648",
+      "versions": [
+        {
+          "id": "ZUSDDD-B-original",
+          "shortCode": "ZUSDDD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/10  str. 7363",
+          "publishedAt": "2010-06-24",
+          "effectiveFrom": "2010-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUSDDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

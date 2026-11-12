@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13154",
+  "path": "laws/PR/PRAV13154",
+  "members": [
+    {
+      "id": "PRAV13154",
+      "title": "Pravilnik o evidenci posebnih kultur",
+      "shortTitle": "Pravilnik o evidenci posebnih kultur",
+      "shortCode": "PRAV13154",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0010",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-01-05",
+      "validFrom": "2018-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2018-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0010",
+      "versions": [
+        {
+          "id": "PRAV13154-original",
+          "shortCode": "PRAV13154",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-01-05",
+          "effectiveFrom": "2018-01-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0010",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13154-npb-PRAV13154",
+          "shortCode": "PRAV13154-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-01-05",
+          "effectiveFrom": "2018-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13154",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14912",
+      "title": "Pravilnik o spremembah Pravilnika o evidenci posebnih kultur",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o evidenci posebnih kultur",
+      "shortCode": "PRAV14912",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1147",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-04-07",
+      "validFrom": "2023-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1147",
+      "versions": [
+        {
+          "id": "PRAV14912-original",
+          "shortCode": "PRAV14912",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-04-07",
+          "effectiveFrom": "2023-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13154"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1147",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

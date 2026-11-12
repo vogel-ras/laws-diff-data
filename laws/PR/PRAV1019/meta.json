@@ -1,0 +1,82 @@
+{
+  "root": "PRAV1019",
+  "path": "laws/PR/PRAV1019",
+  "members": [
+    {
+      "id": "PRAV1019",
+      "title": "Pravilnik o odlaganju odpadkov",
+      "shortTitle": "Pravilnik o odlaganju odpadkov",
+      "shortCode": "PRAV1019",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0259",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2000-01-21",
+      "validFrom": "2000-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0259",
+      "versions": [
+        {
+          "id": "PRAV1019-original",
+          "shortCode": "PRAV1019",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-21",
+          "effectiveFrom": "2000-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0259",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5776",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o odlaganju odpadkov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o odlaganju odpadkov",
+      "shortCode": "PRAV5776",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1940",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2004-04-26",
+      "validFrom": "2004-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1940",
+      "versions": [
+        {
+          "id": "PRAV5776-original",
+          "shortCode": "PRAV5776",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-26",
+          "effectiveFrom": "2004-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1019"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1940",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

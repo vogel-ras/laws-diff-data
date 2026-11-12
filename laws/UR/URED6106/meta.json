@@ -1,0 +1,58 @@
+{
+  "root": "URED6106",
+  "path": "laws/UR/URED6106",
+  "members": [
+    {
+      "id": "URED6106",
+      "title": "Uredba o regionalnih razvojnih programih",
+      "shortTitle": "Uredba o regionalnih razvojnih programih",
+      "shortCode": "URED6106",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2717",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-06-12",
+      "validFrom": "2025-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2717",
+      "versions": [
+        {
+          "id": "URED6106-original",
+          "shortCode": "URED6106",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-12",
+          "effectiveFrom": "2025-06-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2717",
+          "proposer": null
+        },
+        {
+          "id": "URED6106-npb-URED6106",
+          "shortCode": "URED6106-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-09-14",
+          "effectiveFrom": "2012-09-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6106",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

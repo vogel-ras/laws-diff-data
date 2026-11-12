@@ -1,0 +1,82 @@
+{
+  "root": "AKT_227",
+  "path": "laws/AK/AKT_227",
+  "members": [
+    {
+      "id": "AKT_227",
+      "title": "Akt o ustanovitvi Filmskega sklada Republike Slovenije",
+      "shortTitle": "Akt o ustanovitvi Filmskega sklada Republike Slovenije",
+      "shortCode": "AKT_227",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2000-01-4043",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-10-19",
+      "validFrom": "2000-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2000-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4043",
+      "versions": [
+        {
+          "id": "AKT_227-original",
+          "shortCode": "AKT_227",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-10-19",
+          "effectiveFrom": "2000-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4043",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE1892",
+      "title": "Sklep o spremembi akta o ustanovitvi Filmskega sklada Republike Slovenije",
+      "shortTitle": "Sklep o spremembi akta o ustanovitvi Filmskega sklada Republike Slovenije",
+      "shortCode": "SKLE1892",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-4637",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-12-01",
+      "validFrom": "2000-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4637",
+      "versions": [
+        {
+          "id": "SKLE1892-original",
+          "shortCode": "SKLE1892",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-01",
+          "effectiveFrom": "2000-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_227"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4637",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

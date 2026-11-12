@@ -1,0 +1,99 @@
+{
+  "root": "ZDZdr",
+  "path": "laws/ZD/ZDZdr",
+  "members": [
+    {
+      "id": "ZAKO2157",
+      "title": "Zakon o duševnem zdravju (ZDZdr)",
+      "shortTitle": "Zakon o duševnem zdravju (ZDZdr)",
+      "shortCode": "ZDZdr",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-3448",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-10-27",
+      "validFrom": "2023-10-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3448",
+      "versions": [
+        {
+          "id": "ZAKO2157-amend-ZDZdr-A",
+          "shortCode": "ZDZdr-A",
+          "label": "Sprememba ZDZdr-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/23  str. 9265",
+          "publishedAt": "2023-10-27",
+          "effectiveFrom": "2023-10-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO2157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3144",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO2157-original",
+          "shortCode": "ZDZdr",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-10-27",
+          "effectiveFrom": "2023-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3448",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZdr-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o duševnem zdravju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o duševnem zdravju",
+      "shortCode": "ZDZdr-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3144",
+      "gazette": "Uradni list RS 109/23  str. 9265",
+      "issuingBody": null,
+      "adoptedAt": "2023-10-27",
+      "validFrom": "2023-10-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3144",
+      "versions": [
+        {
+          "id": "ZDZdr-A-original",
+          "shortCode": "ZDZdr-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/23  str. 9265",
+          "publishedAt": "2023-10-27",
+          "effectiveFrom": "2023-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO2157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3144",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

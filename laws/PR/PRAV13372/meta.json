@@ -1,0 +1,121 @@
+{
+  "root": "PRAV13372",
+  "path": "laws/PR/PRAV13372",
+  "members": [
+    {
+      "id": "PRAV13372",
+      "title": "Pravilnik o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortTitle": "Pravilnik o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortCode": "PRAV13372",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-3533",
+      "gazette": null,
+      "issuingBody": "Komisija za preprečevanje korupcije",
+      "adoptedAt": "2017-12-20",
+      "validFrom": "2017-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3533",
+      "versions": [
+        {
+          "id": "PRAV13372-original",
+          "shortCode": "PRAV13372",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-20",
+          "effectiveFrom": "2017-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3533",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13752",
+      "title": "Pravilnik o spremembi Pravilnika o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortCode": "PRAV13752",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0447",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-03-01",
+      "validFrom": "2019-03-01",
+      "validTo": null,
+      "latestPublishedAt": "2019-03-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0447",
+      "versions": [
+        {
+          "id": "PRAV13752-original",
+          "shortCode": "PRAV13752",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-03-01",
+          "effectiveFrom": "2019-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13372"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0447",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14442",
+      "title": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev v plačne razrede v Komisiji za preprečevanje korupcije",
+      "shortCode": "PRAV14442",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-3004",
+      "gazette": null,
+      "issuingBody": "Komisija za preprečevanje korupcije",
+      "adoptedAt": "2021-10-01",
+      "validFrom": "2021-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3004",
+      "versions": [
+        {
+          "id": "PRAV14442-original",
+          "shortCode": "PRAV14442",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-01",
+          "effectiveFrom": "2021-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13372"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3004",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,163 @@
+{
+  "root": "ZFPPod",
+  "path": "laws/ZF/ZFPPod",
+  "members": [
+    {
+      "id": "ZFPPod",
+      "title": "Zakon o finančnem poslovanju podjetij",
+      "shortTitle": "Zakon o finančnem poslovanju podjetij",
+      "shortCode": "ZFPPod",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska družba",
+        "finančno poslovodenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2543",
+      "gazette": "Uradni list RS 54/99  str. 6753",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-08",
+      "validFrom": "1999-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2543",
+      "versions": [
+        {
+          "id": "ZFPPod-original",
+          "shortCode": "ZFPPod",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/99  str. 6753",
+          "publishedAt": "1999-07-08",
+          "effectiveFrom": "1999-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2543",
+          "proposer": null
+        },
+        {
+          "id": "ZFPPod-amend-ZFPPod-A",
+          "shortCode": "ZFPPod-A",
+          "label": "Sprememba ZFPPod-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 110/99  str. 16653",
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZFPPod"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5162",
+          "proposer": null
+        },
+        {
+          "id": "ZFPPod-amend-ZFPPod-B",
+          "shortCode": "ZFPPod-B",
+          "label": "Sprememba ZFPPod-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 31/07  str. 4169",
+          "publishedAt": "2007-04-06",
+          "effectiveFrom": "2007-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFPPod"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1562",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFPPod-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o finančnem poslovanju podjetij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o finančnem poslovanju podjetij",
+      "shortCode": "ZFPPod-A",
+      "kind": "zakon",
+      "keywords": [
+        "finančno poslovodenje",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-5162",
+      "gazette": "Uradni list RS 110/99  str. 16653",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-30",
+      "validFrom": "1999-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5162",
+      "versions": [
+        {
+          "id": "ZFPPod-A-original",
+          "shortCode": "ZFPPod-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/99  str. 16653",
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFPPod"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5162",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFPPod-B",
+      "title": "Zakon o spremembah zakona o finančnem poslovanju podjetij",
+      "shortTitle": "Zakon o spremembah zakona o finančnem poslovanju podjetij",
+      "shortCode": "ZFPPod-B",
+      "kind": "zakon",
+      "keywords": [
+        "finančno poslovodenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-1562",
+      "gazette": "Uradni list RS 31/07  str. 4169",
+      "issuingBody": null,
+      "adoptedAt": "2007-04-06",
+      "validFrom": "2007-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1562",
+      "versions": [
+        {
+          "id": "ZFPPod-B-original",
+          "shortCode": "ZFPPod-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/07  str. 4169",
+          "publishedAt": "2007-04-06",
+          "effectiveFrom": "2007-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFPPod"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1562",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

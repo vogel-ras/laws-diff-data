@@ -1,0 +1,155 @@
+{
+  "root": "ZIPRS2324",
+  "path": "laws/ZI/ZIPRS2324",
+  "members": [
+    {
+      "id": "ZIPRS2324",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortCode": "ZIPRS2324",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3736",
+      "gazette": "Uradni list RS 150/22  str. 11945",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-02",
+      "validFrom": "2022-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2023-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3736",
+      "versions": [
+        {
+          "id": "ZIPRS2324-original",
+          "shortCode": "ZIPRS2324",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 150/22  str. 11945",
+          "publishedAt": "2022-12-02",
+          "effectiveFrom": "2022-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3736",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS2324-amend-ZIPRS2324-A",
+          "shortCode": "ZIPRS2324-A",
+          "label": "Sprememba ZIPRS2324-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/23  str. 6085",
+          "publishedAt": "2023-06-17",
+          "effectiveFrom": "2023-06-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS2324"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2088",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS2324-amend-ZIPRS2324-B",
+          "shortCode": "ZIPRS2324-B",
+          "label": "Sprememba ZIPRS2324-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 97/23  str. 7537",
+          "publishedAt": "2023-09-08",
+          "effectiveFrom": "2023-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2324"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2674",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2324-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortCode": "ZIPRS2324-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2088",
+      "gazette": "Uradni list RS 65/23  str. 6085",
+      "issuingBody": null,
+      "adoptedAt": "2023-06-17",
+      "validFrom": "2023-06-17",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2088",
+      "versions": [
+        {
+          "id": "ZIPRS2324-A-original",
+          "shortCode": "ZIPRS2324-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/23  str. 6085",
+          "publishedAt": "2023-06-17",
+          "effectiveFrom": "2023-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2324"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2088",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2324-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2023 in 2024",
+      "shortCode": "ZIPRS2324-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2674",
+      "gazette": "Uradni list RS 97/23  str. 7537",
+      "issuingBody": null,
+      "adoptedAt": "2023-09-08",
+      "validFrom": "2023-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2023-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2674",
+      "versions": [
+        {
+          "id": "ZIPRS2324-B-original",
+          "shortCode": "ZIPRS2324-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/23  str. 7537",
+          "publishedAt": "2023-09-08",
+          "effectiveFrom": "2023-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS2324"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2674",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

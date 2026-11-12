@@ -1,0 +1,136 @@
+{
+  "root": "URED3709",
+  "path": "laws/UR/URED3709",
+  "members": [
+    {
+      "id": "URED3709",
+      "title": "Uredba o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortTitle": "Uredba o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortCode": "URED3709",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1582",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-04-22",
+      "validFrom": "2005-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2005-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1582",
+      "versions": [
+        {
+          "id": "URED3709-original",
+          "shortCode": "URED3709",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-04-22",
+          "effectiveFrom": "2005-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1582",
+          "proposer": null
+        },
+        {
+          "id": "URED3709-npb-URED3709",
+          "shortCode": "URED3709-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-04-22",
+          "effectiveFrom": "2005-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3709",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4631",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortCode": "URED4631",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3689",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-29",
+      "validFrom": "2008-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3689",
+      "versions": [
+        {
+          "id": "URED4631-original",
+          "shortCode": "URED4631",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-29",
+          "effectiveFrom": "2008-08-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3709"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3689",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5663",
+      "title": "Uredba o spremembah Uredbe o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi tarife stroškov na področju prirejanja iger na srečo",
+      "shortCode": "URED5663",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-4357",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4357",
+      "versions": [
+        {
+          "id": "URED5663-original",
+          "shortCode": "URED5663",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3709"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4357",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

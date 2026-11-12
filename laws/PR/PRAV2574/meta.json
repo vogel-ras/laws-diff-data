@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2574",
+  "path": "laws/PR/PRAV2574",
+  "members": [
+    {
+      "id": "PRAV2574",
+      "title": "Pravilnik o postopku pred stalno arbitražo pri Gospodarski zbornici Slovenije",
+      "shortTitle": "Pravilnik o postopku pred stalno arbitražo pri Gospodarski zbornici Slovenije",
+      "shortCode": "PRAV2574",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1993-01-2330",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-11-19",
+      "validFrom": "1993-11-19",
+      "validTo": null,
+      "latestPublishedAt": "1993-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2330",
+      "versions": [
+        {
+          "id": "PRAV2574-original",
+          "shortCode": "PRAV2574",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-11-19",
+          "effectiveFrom": "1993-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2330",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2576",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o postopku pred stalno arbitražo pri Gospodarski zbornici Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o postopku pred stalno arbitražo pri Gospodarski zbornici Slovenije",
+      "shortCode": "PRAV2576",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-2857",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-10-26",
+      "validFrom": "1995-10-26",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2857",
+      "versions": [
+        {
+          "id": "PRAV2576-original",
+          "shortCode": "PRAV2576",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-10-26",
+          "effectiveFrom": "1995-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2574"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2857",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

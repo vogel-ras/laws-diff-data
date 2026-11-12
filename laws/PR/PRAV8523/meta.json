@@ -1,0 +1,82 @@
+{
+  "root": "PRAV8523",
+  "path": "laws/PR/PRAV8523",
+  "members": [
+    {
+      "id": "PRAV8523",
+      "title": "Pravilnik o zatemnjevanju stekel na vozilih",
+      "shortTitle": "Pravilnik o zatemnjevanju stekel na vozilih",
+      "shortCode": "PRAV8523",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-4196",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2007-09-10",
+      "validFrom": "2007-09-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-09-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4196",
+      "versions": [
+        {
+          "id": "PRAV8523-original",
+          "shortCode": "PRAV8523",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-09-10",
+          "effectiveFrom": "2007-09-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4196",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9160",
+      "title": "Pravilnik o spremembi Pravilnika o zatemnjevanju stekel na vozilih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o zatemnjevanju stekel na vozilih",
+      "shortCode": "PRAV9160",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3042",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2008-07-11",
+      "validFrom": "2008-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3042",
+      "versions": [
+        {
+          "id": "PRAV9160-original",
+          "shortCode": "PRAV9160",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-11",
+          "effectiveFrom": "2008-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8523"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3042",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

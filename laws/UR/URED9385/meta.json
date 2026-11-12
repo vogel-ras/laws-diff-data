@@ -1,0 +1,97 @@
+{
+  "root": "URED9385",
+  "path": "laws/UR/URED9385",
+  "members": [
+    {
+      "id": "URED9385",
+      "title": "Uredba o priznanjih in denarnih nagradah v organih državne uprave, pravosodnih organih in upravah lokalnih skupnosti",
+      "shortTitle": "Uredba o priznanjih in denarnih nagradah v organih državne uprave, pravosodnih organih in upravah lokalnih skupnosti",
+      "shortCode": "URED9385",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-3495",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-12-05",
+      "validFrom": "2025-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3495",
+      "versions": [
+        {
+          "id": "URED9385-original",
+          "shortCode": "URED9385",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-12-05",
+          "effectiveFrom": "2025-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3495",
+          "proposer": null
+        },
+        {
+          "id": "URED9385-npb-URED9385",
+          "shortCode": "URED9385-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-21",
+          "effectiveFrom": "2026-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9385",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9623",
+      "title": "Uredba o spremembi Uredbe o priznanjih in denarnih nagradah v organih državne uprave, pravosodnih organih in upravah lokalnih skupnosti",
+      "shortTitle": "Uredba o spremembi Uredbe o priznanjih in denarnih nagradah v organih državne uprave, pravosodnih organih in upravah lokalnih skupnosti",
+      "shortCode": "URED9623",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0496",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-02-20",
+      "validFrom": "2026-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0496",
+      "versions": [
+        {
+          "id": "URED9623-original",
+          "shortCode": "URED9623",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-20",
+          "effectiveFrom": "2026-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9385"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0496",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

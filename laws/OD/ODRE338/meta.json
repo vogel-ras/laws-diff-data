@@ -1,0 +1,82 @@
+{
+  "root": "ODRE338",
+  "path": "laws/OD/ODRE338",
+  "members": [
+    {
+      "id": "ODRE338",
+      "title": "Odredba o načinu sestavljanja premoženjskih bilanc republike in občin",
+      "shortTitle": "Odredba o načinu sestavljanja premoženjskih bilanc republike in občin",
+      "shortCode": "ODRE338",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1993-01-0007",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-01-08",
+      "validFrom": "1993-01-08",
+      "validTo": null,
+      "latestPublishedAt": "1993-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0007",
+      "versions": [
+        {
+          "id": "ODRE338-original",
+          "shortCode": "ODRE338",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-01-08",
+          "effectiveFrom": "1993-01-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0007",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE339",
+      "title": "Odredba o spremembah in dopolnitvah odredbe o načinu sestavljanja premoženjskih bilanc republike in občin",
+      "shortTitle": "Odredba o spremembah in dopolnitvah odredbe o načinu sestavljanja premoženjskih bilanc republike in občin",
+      "shortCode": "ODRE339",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1738",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-07-22",
+      "validFrom": "1994-07-22",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1738",
+      "versions": [
+        {
+          "id": "ODRE339-original",
+          "shortCode": "ODRE339",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-22",
+          "effectiveFrom": "1994-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE338"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1738",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

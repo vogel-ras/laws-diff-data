@@ -1,0 +1,169 @@
+{
+  "root": "ZEPT",
+  "path": "laws/ZE/ZEPT",
+  "members": [
+    {
+      "id": "ZEPT",
+      "title": "Zakon o elektronskem poslovanju na trgu",
+      "shortTitle": "Zakon o elektronskem poslovanju na trgu",
+      "shortCode": "ZEPT",
+      "kind": "zakon",
+      "keywords": [
+        "elektronsko poslovanje",
+        "informacijska družba",
+        "komunikacijska industrija",
+        "telekomunikacije",
+        "interaktivno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2566",
+      "gazette": "Uradni list RS 61/06  str. 6601",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-13",
+      "validFrom": "2006-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2566",
+      "versions": [
+        {
+          "id": "ZEPT-original",
+          "shortCode": "ZEPT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/06  str. 6601",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2566",
+          "proposer": null
+        },
+        {
+          "id": "ZEPT-amend-ZEPT-A",
+          "shortCode": "ZEPT-A",
+          "label": "Sprememba ZEPT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 79/09  str. 10622",
+          "publishedAt": "2009-10-09",
+          "effectiveFrom": "2009-10-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3438",
+          "proposer": null
+        },
+        {
+          "id": "ZEPT-amend-ZEPT-B",
+          "shortCode": "ZEPT-B",
+          "label": "Sprememba ZEPT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 19/15  str. 1994",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0714",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPT-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskem poslovanju na trgu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o elektronskem poslovanju na trgu",
+      "shortCode": "ZEPT-A",
+      "kind": "zakon",
+      "keywords": [
+        "elektronsko poslovanje",
+        "informacijska družba",
+        "komunikacijska industrija",
+        "telekomunikacije",
+        "interaktivno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3438",
+      "gazette": "Uradni list RS 79/09  str. 10622",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-09",
+      "validFrom": "2009-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3438",
+      "versions": [
+        {
+          "id": "ZEPT-A-original",
+          "shortCode": "ZEPT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/09  str. 10622",
+          "publishedAt": "2009-10-09",
+          "effectiveFrom": "2009-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3438",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPT-B",
+      "title": "Zakon o spremembi Zakona o elektronskem poslovanju na trgu",
+      "shortTitle": "Zakon o spremembi Zakona o elektronskem poslovanju na trgu",
+      "shortCode": "ZEPT-B",
+      "kind": "zakon",
+      "keywords": [
+        "elektronsko poslovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0714",
+      "gazette": "Uradni list RS 19/15  str. 1994",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0714",
+      "versions": [
+        {
+          "id": "ZEPT-B-original",
+          "shortCode": "ZEPT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1994",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0714",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

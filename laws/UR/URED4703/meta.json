@@ -1,0 +1,82 @@
+{
+  "root": "URED4703",
+  "path": "laws/UR/URED4703",
+  "members": [
+    {
+      "id": "URED4703",
+      "title": "Uredba o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje in ribištva za leto 2009",
+      "shortTitle": "Uredba o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje in ribištva za leto 2009",
+      "shortCode": "URED4703",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-5748",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-12-31",
+      "validFrom": "2008-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5748",
+      "versions": [
+        {
+          "id": "URED4703-original",
+          "shortCode": "URED4703",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-31",
+          "effectiveFrom": "2008-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5748",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5190",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje in ribištva za leto 2009",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sofinanciranju zavarovalnih premij za zavarovanje kmetijske proizvodnje in ribištva za leto 2009",
+      "shortCode": "URED5190",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1710",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1710",
+      "versions": [
+        {
+          "id": "URED5190-original",
+          "shortCode": "URED5190",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4703"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1710",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

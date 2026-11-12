@@ -1,0 +1,97 @@
+{
+  "root": "URED5698",
+  "path": "laws/UR/URED5698",
+  "members": [
+    {
+      "id": "URED5698",
+      "title": "Uredba o nagradi in priznanjih za prostovoljstvo",
+      "shortTitle": "Uredba o nagradi in priznanjih za prostovoljstvo",
+      "shortCode": "URED5698",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-2899",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-08-05",
+      "validFrom": "2011-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2899",
+      "versions": [
+        {
+          "id": "URED5698-original",
+          "shortCode": "URED5698",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-08-05",
+          "effectiveFrom": "2011-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2899",
+          "proposer": null
+        },
+        {
+          "id": "URED5698-npb-URED5698",
+          "shortCode": "URED5698-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-11",
+          "effectiveFrom": "2026-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7203",
+      "title": "Uredba o spremembah Uredbe o nagradi in priznanjih za prostovoljstvo",
+      "shortTitle": "Uredba o spremembah Uredbe o nagradi in priznanjih za prostovoljstvo",
+      "shortCode": "URED7203",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-1184",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-04-22",
+      "validFrom": "2016-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1184",
+      "versions": [
+        {
+          "id": "URED7203-original",
+          "shortCode": "URED7203",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-04-22",
+          "effectiveFrom": "2016-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5698"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1184",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

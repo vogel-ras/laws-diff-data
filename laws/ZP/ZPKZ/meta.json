@@ -1,0 +1,107 @@
+{
+  "root": "ZPKZ",
+  "path": "laws/ZP/ZPKZ",
+  "members": [
+    {
+      "id": "ZPKZ",
+      "title": "Zakon o pogojih, pod katerimi se kmetom zmanjšani ali odpisani prispevki štejejo za plačane",
+      "shortTitle": "Zakon o pogojih, pod katerimi se kmetom zmanjšani ali odpisani prispevki štejejo za plačane",
+      "shortCode": "ZPKZ",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča v kmetijstvu",
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2229",
+      "gazette": "Uradni list RS 48/92  str. 2834",
+      "issuingBody": null,
+      "adoptedAt": "1992-10-03",
+      "validFrom": "1992-10-03",
+      "validTo": null,
+      "latestPublishedAt": "1995-04-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2229",
+      "versions": [
+        {
+          "id": "ZPKZ-original",
+          "shortCode": "ZPKZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/92  str. 2834",
+          "publishedAt": "1992-10-03",
+          "effectiveFrom": "1992-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2229",
+          "proposer": null
+        },
+        {
+          "id": "ZPKZ-amend-ZPKZ-A",
+          "shortCode": "ZPKZ-A",
+          "label": "Sprememba ZPKZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/95  str. 1608",
+          "publishedAt": "1995-04-14",
+          "effectiveFrom": "1995-04-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0960",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pogojih, pod katerimi se kmetom zmanjšani ali odpisani prispevki štejejo za plačane",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pogojih, pod katerimi se kmetom zmanjšani ali odpisani prispevki štejejo za plačane",
+      "shortCode": "ZPKZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča v kmetijstvu",
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0960",
+      "gazette": "Uradni list RS 21/95  str. 1608",
+      "issuingBody": null,
+      "adoptedAt": "1995-04-14",
+      "validFrom": "1995-04-14",
+      "validTo": null,
+      "latestPublishedAt": "1995-04-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0960",
+      "versions": [
+        {
+          "id": "ZPKZ-A-original",
+          "shortCode": "ZPKZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/95  str. 1608",
+          "publishedAt": "1995-04-14",
+          "effectiveFrom": "1995-04-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0960",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

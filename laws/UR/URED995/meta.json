@@ -1,0 +1,58 @@
+{
+  "root": "URED995",
+  "path": "laws/UR/URED995",
+  "members": [
+    {
+      "id": "URED995",
+      "title": "Uredba o graditvi in vzdrževanju zaklonišč",
+      "shortTitle": "Uredba o graditvi in vzdrževanju zaklonišč",
+      "shortCode": "URED995",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-3322",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-19",
+      "validFrom": "2026-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3322",
+      "versions": [
+        {
+          "id": "URED995-original",
+          "shortCode": "URED995",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-19",
+          "effectiveFrom": "2026-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3322",
+          "proposer": null
+        },
+        {
+          "id": "URED995-npb-URED995",
+          "shortCode": "URED995-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-02",
+          "effectiveFrom": "2026-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

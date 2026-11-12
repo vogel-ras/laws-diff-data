@@ -1,0 +1,205 @@
+{
+  "root": "ZPRS",
+  "path": "laws/ZP/ZPRS",
+  "members": [
+    {
+      "id": "ZAKO7052",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Poslovnem registru Slovenije (ZPRS-1B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Poslovnem registru Slovenije (ZPRS-1B)",
+      "shortCode": "ZPRS-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2440",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-09-28",
+      "validFrom": "2017-09-28",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2440",
+      "versions": [
+        {
+          "id": "ZAKO7052-original",
+          "shortCode": "ZPRS-1B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-28",
+          "effectiveFrom": "2017-09-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPRS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPRS",
+      "title": "Zakon o poslovnem registru Slovenije",
+      "shortTitle": "Zakon o poslovnem registru Slovenije",
+      "shortCode": "ZPRS",
+      "kind": "zakon",
+      "keywords": [
+        "informacijski sistem",
+        "statistična metoda",
+        "sestava družbe",
+        "vrsta podjetja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0652",
+      "gazette": "Uradni list RS 13/95  str. 1098",
+      "issuingBody": null,
+      "adoptedAt": "1995-03-03",
+      "validFrom": "1995-03-03",
+      "validTo": null,
+      "latestPublishedAt": "1995-03-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0652",
+      "versions": [
+        {
+          "id": "ZPRS-original",
+          "shortCode": "ZPRS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/95  str. 1098",
+          "publishedAt": "1995-03-03",
+          "effectiveFrom": "1995-03-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0652",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPRS-1",
+      "title": "Zakon o Poslovnem registru Slovenije",
+      "shortTitle": "Zakon o Poslovnem registru Slovenije",
+      "shortCode": "ZPRS-1",
+      "kind": "zakon",
+      "keywords": [
+        "informacijski sistem",
+        "statistična metoda",
+        "sestava družbe",
+        "vrsta podjetja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2090",
+      "gazette": "Uradni list RS 49/06  str. 5260",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-12",
+      "validFrom": "2006-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2090",
+      "versions": [
+        {
+          "id": "ZPRS-1-original",
+          "shortCode": "ZPRS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/06  str. 5260",
+          "publishedAt": "2006-05-12",
+          "effectiveFrom": "2006-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2090",
+          "proposer": null
+        },
+        {
+          "id": "ZPRS-1-amend-ZPRS-1A",
+          "shortCode": "ZPRS-1A",
+          "label": "Sprememba ZPRS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 19/15  str. 1986",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPRS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0710",
+          "proposer": null
+        },
+        {
+          "id": "ZPRS-1-amend-ZAKO7052",
+          "shortCode": "ZPRS-1B",
+          "label": "Sprememba ZPRS-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-09-28",
+          "effectiveFrom": "2017-09-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPRS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPRS-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Poslovnem registru Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Poslovnem registru Slovenije",
+      "shortCode": "ZPRS-1A",
+      "kind": "zakon",
+      "keywords": [
+        "poslovna dejavnost",
+        "podatkovna zbirka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0710",
+      "gazette": "Uradni list RS 19/15  str. 1986",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0710",
+      "versions": [
+        {
+          "id": "ZPRS-1A-original",
+          "shortCode": "ZPRS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1986",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPRS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0710",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

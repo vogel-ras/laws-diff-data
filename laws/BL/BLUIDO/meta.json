@@ -1,0 +1,107 @@
+{
+  "root": "BLUIDO",
+  "path": "laws/BL/BLUIDO",
+  "members": [
+    {
+      "id": "BLUIDO",
+      "title": "Zakon o ratifikaciji konvencije med Republiko Slovenijo in Velikim vojvodstvom Luksemburg o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja s protokolom",
+      "shortTitle": "Zakon o ratifikaciji konvencije med Republiko Slovenijo in Velikim vojvodstvom Luksemburg o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja s protokolom",
+      "shortCode": "BLUIDO",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "mednarodna konvencija",
+        "Luksemburg",
+        "protokol",
+        "dvojna obdavčitev",
+        "davek na dohodek",
+        "davek od premoženja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-02-0020",
+      "gazette": "Uradni list RS MP 6/2002  str. 302",
+      "issuingBody": null,
+      "adoptedAt": "2002-03-15",
+      "validFrom": "2002-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-02-0020",
+      "versions": [
+        {
+          "id": "BLUIDO-original",
+          "shortCode": "BLUIDO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 6/2002  str. 302",
+          "publishedAt": "2002-03-15",
+          "effectiveFrom": "2002-03-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-02-0020",
+          "proposer": null
+        },
+        {
+          "id": "BLUIDO-amend-ZAKO6892",
+          "shortCode": "BLUIDO-A",
+          "label": "Sprememba BLUIDO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-05-26",
+          "effectiveFrom": "2014-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BLUIDO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-02-0027",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO6892",
+      "title": "Zakon o ratifikaciji Protokola o spremembah konvencije med Republiko Slovenijo in Velikim vojvodstvom Luksemburg o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja (BLUIDO-A)",
+      "shortTitle": "Zakon o ratifikaciji Protokola o spremembah konvencije med Republiko Slovenijo in Velikim vojvodstvom Luksemburg o izogibanju dvojnega obdavčevanja v zvezi z davki od dohodka in premoženja (BLUIDO-A)",
+      "shortCode": "BLUIDO-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-02-0027",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-05-26",
+      "validFrom": "2014-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2014-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-02-0027",
+      "versions": [
+        {
+          "id": "ZAKO6892-original",
+          "shortCode": "BLUIDO-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-05-26",
+          "effectiveFrom": "2014-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BLUIDO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-02-0027",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

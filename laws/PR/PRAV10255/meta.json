@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10255",
+  "path": "laws/PR/PRAV10255",
+  "members": [
+    {
+      "id": "PRAV10255",
+      "title": "Pravilnik o izvedbi javnega poziva in javnega razpisa za izbiro kulturnih programov in kulturnih projektov",
+      "shortTitle": "Pravilnik o izvedbi javnega poziva in javnega razpisa za izbiro kulturnih programov in kulturnih projektov",
+      "shortCode": "PRAV10255",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-2192",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2010-05-31",
+      "validFrom": "2010-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2192",
+      "versions": [
+        {
+          "id": "PRAV10255-original",
+          "shortCode": "PRAV10255",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2192",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10255-npb-PRAV10255",
+          "shortCode": "PRAV10255-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10255",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12933",
+      "title": "Pravilnik o spremembah Pravilnika o izvedbi javnega poziva in javnega razpisa za izbiro kulturnih programov in kulturnih projektov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izvedbi javnega poziva in javnega razpisa za izbiro kulturnih programov in kulturnih projektov",
+      "shortCode": "PRAV12933",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2618",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-09-30",
+      "validFrom": "2016-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2618",
+      "versions": [
+        {
+          "id": "PRAV12933-original",
+          "shortCode": "PRAV12933",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-09-30",
+          "effectiveFrom": "2016-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10255"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2618",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

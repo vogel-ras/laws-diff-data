@@ -1,0 +1,97 @@
+{
+  "root": "URED4125",
+  "path": "laws/UR/URED4125",
+  "members": [
+    {
+      "id": "URED4125",
+      "title": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi uporabe hlapnih organskih spojin",
+      "shortTitle": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi uporabe hlapnih organskih spojin",
+      "shortCode": "URED4125",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-6166",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-28",
+      "validFrom": "2007-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6166",
+      "versions": [
+        {
+          "id": "URED4125-original",
+          "shortCode": "URED4125",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-28",
+          "effectiveFrom": "2007-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6166",
+          "proposer": null
+        },
+        {
+          "id": "URED4125-npb-URED4125",
+          "shortCode": "URED4125-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-12-28",
+          "effectiveFrom": "2007-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4125",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4976",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi uporabe hlapnih organskih spojin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi uporabe hlapnih organskih spojin",
+      "shortCode": "URED4976",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0563",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-02-27",
+      "validFrom": "2009-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0563",
+      "versions": [
+        {
+          "id": "URED4976-original",
+          "shortCode": "URED4976",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-27",
+          "effectiveFrom": "2009-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4125"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0563",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

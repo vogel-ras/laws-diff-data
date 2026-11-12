@@ -1,0 +1,82 @@
+{
+  "root": "URED3114",
+  "path": "laws/UR/URED3114",
+  "members": [
+    {
+      "id": "URED3114",
+      "title": "Uredba o kombinirani nomenklaturi s carinskimi stopnjami za leto 2004",
+      "shortTitle": "Uredba o kombinirani nomenklaturi s carinskimi stopnjami za leto 2004",
+      "shortCode": "URED3114",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-5236",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-12-10",
+      "validFrom": "2003-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5236",
+      "versions": [
+        {
+          "id": "URED3114-original",
+          "shortCode": "URED3114",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-10",
+          "effectiveFrom": "2003-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5236",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3265",
+      "title": "Uredba o spremembi uredbe o kombinirani nomenklaturi s carinskimi stopnjami za leto 2004",
+      "shortTitle": "Uredba o spremembi uredbe o kombinirani nomenklaturi s carinskimi stopnjami za leto 2004",
+      "shortCode": "URED3265",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0784",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-02-27",
+      "validFrom": "2004-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0784",
+      "versions": [
+        {
+          "id": "URED3265-original",
+          "shortCode": "URED3265",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-27",
+          "effectiveFrom": "2004-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3114"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0784",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

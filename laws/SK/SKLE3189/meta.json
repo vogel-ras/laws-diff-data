@@ -1,0 +1,121 @@
+{
+  "root": "SKLE3189",
+  "path": "laws/SK/SKLE3189",
+  "members": [
+    {
+      "id": "SKLE3189",
+      "title": "Sklep o lombardnem posojilu",
+      "shortTitle": "Sklep o lombardnem posojilu",
+      "shortCode": "SKLE3189",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-3191",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2002-07-25",
+      "validFrom": "2002-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3191",
+      "versions": [
+        {
+          "id": "SKLE3189-original",
+          "shortCode": "SKLE3189",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-25",
+          "effectiveFrom": "2002-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3191",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4564",
+      "title": "Sklep o spremembi sklepa o lombardnem posojilu",
+      "shortTitle": "Sklep o spremembi sklepa o lombardnem posojilu",
+      "shortCode": "SKLE4564",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-1498",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2004-04-08",
+      "validFrom": "2004-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1498",
+      "versions": [
+        {
+          "id": "SKLE4564-original",
+          "shortCode": "SKLE4564",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-08",
+          "effectiveFrom": "2004-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3189"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1498",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5049",
+      "title": "Sklep o spremembi sklepa o lombardnem posojilu",
+      "shortTitle": "Sklep o spremembi sklepa o lombardnem posojilu",
+      "shortCode": "SKLE5049",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-4311",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2004-09-10",
+      "validFrom": "2004-09-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-09-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4311",
+      "versions": [
+        {
+          "id": "SKLE5049-original",
+          "shortCode": "SKLE5049",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-09-10",
+          "effectiveFrom": "2004-09-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3189"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4311",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

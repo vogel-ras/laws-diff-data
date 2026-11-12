@@ -1,0 +1,97 @@
+{
+  "root": "ODLO280",
+  "path": "ordinances/OD/ODLO280",
+  "members": [
+    {
+      "id": "ODLO280",
+      "title": "Odlok o razglasitvi Graščine s parkom Socka za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Graščine s parkom Socka za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO280",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3859",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3859",
+      "versions": [
+        {
+          "id": "ODLO280-original",
+          "shortCode": "ODLO280",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3859",
+          "proposer": null
+        },
+        {
+          "id": "ODLO280-npb-ODLO280",
+          "shortCode": "ODLO280-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO280",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO832",
+      "title": "Odlok o spremembi odloka o razglasitvi Graščine s parkom Socka za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Graščine s parkom Socka za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO832",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-4636",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-12-01",
+      "validFrom": "2000-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4636",
+      "versions": [
+        {
+          "id": "ODLO832-original",
+          "shortCode": "ODLO832",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-01",
+          "effectiveFrom": "2000-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4636",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "root": "ZDKG",
+  "path": "laws/ZD/ZDKG",
+  "members": [
+    {
+      "id": "ZDKG",
+      "title": "Zakon o dedovanju kmetijskih gospodarstev",
+      "shortTitle": "Zakon o dedovanju kmetijskih gospodarstev",
+      "shortCode": "ZDKG",
+      "kind": "zakon",
+      "keywords": [
+        "prenos kmetij"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-3295",
+      "gazette": "Uradni list RS 70/95  str. 5520",
+      "issuingBody": null,
+      "adoptedAt": "1995-12-08",
+      "validFrom": "1995-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3295",
+      "versions": [
+        {
+          "id": "ZDKG-original",
+          "shortCode": "ZDKG",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/95  str. 5520",
+          "publishedAt": "1995-12-08",
+          "effectiveFrom": "1995-12-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3295",
+          "proposer": null
+        },
+        {
+          "id": "ZDKG-amend-ZDKG-A",
+          "shortCode": "ZDKG-A",
+          "label": "Sprememba ZDKG-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 30/13  str. 3691",
+          "publishedAt": "2013-04-12",
+          "effectiveFrom": "2013-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDKG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1128",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDKG-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o dedovanju kmetijskih gospodarstev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o dedovanju kmetijskih gospodarstev",
+      "shortCode": "ZDKG-A",
+      "kind": "zakon",
+      "keywords": [
+        "kmetijsko gospodarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1128",
+      "gazette": "Uradni list RS 30/13  str. 3691",
+      "issuingBody": null,
+      "adoptedAt": "2013-04-12",
+      "validFrom": "2013-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1128",
+      "versions": [
+        {
+          "id": "ZDKG-A-original",
+          "shortCode": "ZDKG-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/13  str. 3691",
+          "publishedAt": "2013-04-12",
+          "effectiveFrom": "2013-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDKG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1128",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

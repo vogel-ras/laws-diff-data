@@ -1,0 +1,82 @@
+{
+  "root": "SKLE3400",
+  "path": "laws/SK/SKLE3400",
+  "members": [
+    {
+      "id": "SKLE3400",
+      "title": "Sklep o kriterijih, merilih in postopku za določanje višine sredstev za prilagoditev prostorov in delovnih sredstev za delovne invalide",
+      "shortTitle": "Sklep o kriterijih, merilih in postopku za določanje višine sredstev za prilagoditev prostorov in delovnih sredstev za delovne invalide",
+      "shortCode": "SKLE3400",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-5567",
+      "gazette": null,
+      "issuingBody": "Zavod za pokojninsko in invalidsko zavarovanje Slovenije",
+      "adoptedAt": "2002-12-23",
+      "validFrom": "2002-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5567",
+      "versions": [
+        {
+          "id": "SKLE3400-original",
+          "shortCode": "SKLE3400",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-23",
+          "effectiveFrom": "2002-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5567",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6261",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o kriterijih, merilih in postopku za določanje višine sredstev za prilagoditev prostorov in delovnih sredstev za delovne invalide",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o kriterijih, merilih in postopku za določanje višine sredstev za prilagoditev prostorov in delovnih sredstev za delovne invalide",
+      "shortCode": "SKLE6261",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-0080",
+      "gazette": null,
+      "issuingBody": "Zavod za pokojninsko in invalidsko zavarovanje Slovenije",
+      "adoptedAt": "2006-01-10",
+      "validFrom": "2006-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0080",
+      "versions": [
+        {
+          "id": "SKLE6261-original",
+          "shortCode": "SKLE6261",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-10",
+          "effectiveFrom": "2006-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3400"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0080",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9570",
+  "path": "laws/PR/PRAV9570",
+  "members": [
+    {
+      "id": "PRAV14222",
+      "title": "Pravilnik o spremembah Pravilnika o izvrševanju vzgojnih ukrepov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izvrševanju vzgojnih ukrepov",
+      "shortCode": "PRAV14222",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0796",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2021-03-16",
+      "validFrom": "2021-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0796",
+      "versions": [
+        {
+          "id": "PRAV14222-original",
+          "shortCode": "PRAV14222",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-16",
+          "effectiveFrom": "2021-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9570"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0796",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9570",
+      "title": "Pravilnik o izvrševanju vzgojnih ukrepov",
+      "shortTitle": "Pravilnik o izvrševanju vzgojnih ukrepov",
+      "shortCode": "PRAV9570",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3801",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-27",
+      "validFrom": "2026-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3801",
+      "versions": [
+        {
+          "id": "PRAV9570-original",
+          "shortCode": "PRAV9570",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-27",
+          "effectiveFrom": "2026-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3801",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9570-npb-PRAV9570",
+          "shortCode": "PRAV9570-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-03-17",
+          "effectiveFrom": "2021-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9570",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

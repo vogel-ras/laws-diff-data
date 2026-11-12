@@ -1,0 +1,82 @@
+{
+  "root": "ODLO1526",
+  "path": "ordinances/OD/ODLO1526",
+  "members": [
+    {
+      "id": "ODLO1526",
+      "title": "Odlok o Svetu Vlade Republike Slovenije za javno-zasebno partnerstvo",
+      "shortTitle": "Odlok o Svetu Vlade Republike Slovenije za javno-zasebno partnerstvo",
+      "shortCode": "ODLO1526",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2007-01-3302",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2007-07-10",
+      "validFrom": "2007-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3302",
+      "versions": [
+        {
+          "id": "ODLO1526-original",
+          "shortCode": "ODLO1526",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-07-10",
+          "effectiveFrom": "2007-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3302",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1612",
+      "title": "Odlok o spremembi Odloka o Svetu Vlade Republike Slovenije za javno-zasebno partnerstvo",
+      "shortTitle": "Odlok o spremembi Odloka o Svetu Vlade Republike Slovenije za javno-zasebno partnerstvo",
+      "shortCode": "ODLO1612",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2009-01-1716",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1716",
+      "versions": [
+        {
+          "id": "ODLO1612-original",
+          "shortCode": "ODLO1612",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1526"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1716",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

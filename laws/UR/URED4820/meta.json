@@ -1,0 +1,58 @@
+{
+  "root": "URED4820",
+  "path": "laws/UR/URED4820",
+  "members": [
+    {
+      "id": "URED4820",
+      "title": "Uredba o državnem lokacijskem načrtu za avtocesto na odseku Koseze - Kozarje",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za avtocesto na odseku Koseze - Kozarje",
+      "shortCode": "URED4820",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3148",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-09-11",
+      "validFrom": "2009-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3148",
+      "versions": [
+        {
+          "id": "URED4820-original",
+          "shortCode": "URED4820",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-11",
+          "effectiveFrom": "2009-09-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3148",
+          "proposer": null
+        },
+        {
+          "id": "URED4820-npb-URED4820",
+          "shortCode": "URED4820-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-09-11",
+          "effectiveFrom": "2009-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4820",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

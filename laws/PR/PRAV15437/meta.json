@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15437",
+  "path": "laws/PR/PRAV15437",
+  "members": [
+    {
+      "id": "PRAV15437",
+      "title": "Pravilnik o standardih in normativih socialnovarstvenih storitev pomoč družini na domu, socialni servis, institucionalno varstvo in vodenje in varstvo ter zaposlitev pod posebnimi pogoji",
+      "shortTitle": "Pravilnik o standardih in normativih socialnovarstvenih storitev pomoč družini na domu, socialni servis, institucionalno varstvo in vodenje in varstvo ter zaposlitev pod posebnimi pogoji",
+      "shortCode": "PRAV15437",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1590",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za solidarno prihodnost",
+      "adoptedAt": "2024-06-07",
+      "validFrom": "2024-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1590",
+      "versions": [
+        {
+          "id": "PRAV15437-original",
+          "shortCode": "PRAV15437",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-07",
+          "effectiveFrom": "2024-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1590",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15437-npb-PRAV15437",
+          "shortCode": "PRAV15437-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-06-07",
+          "effectiveFrom": "2024-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15437",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15769",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih socialnovarstvenih storitev pomoč družini na domu, socialni servis, institucionalno varstvo in vodenje in varstvo ter zaposlitev pod posebnimi pogoji",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in normativih socialnovarstvenih storitev pomoč družini na domu, socialni servis, institucionalno varstvo in vodenje in varstvo ter zaposlitev pod posebnimi pogoji",
+      "shortCode": "PRAV15769",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2308",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za solidarno prihodnost",
+      "adoptedAt": "2025-07-25",
+      "validFrom": "2025-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2025-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2308",
+      "versions": [
+        {
+          "id": "PRAV15769-original",
+          "shortCode": "PRAV15769",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-07-25",
+          "effectiveFrom": "2025-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15437"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2308",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

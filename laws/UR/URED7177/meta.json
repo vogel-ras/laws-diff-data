@@ -1,0 +1,97 @@
+{
+  "root": "URED7177",
+  "path": "laws/UR/URED7177",
+  "members": [
+    {
+      "id": "URED7177",
+      "title": "Uredba o določitvi višine in začetku plačevanja obveznega prispevka za promocijo kmetijskih in živilskih proizvodov za zavezance sektorja pridelave in predelave sadja",
+      "shortTitle": "Uredba o določitvi višine in začetku plačevanja obveznega prispevka za promocijo kmetijskih in živilskih proizvodov za zavezance sektorja pridelave in predelave sadja",
+      "shortCode": "URED7177",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-3436",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-12-16",
+      "validFrom": "2016-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3436",
+      "versions": [
+        {
+          "id": "URED7177-original",
+          "shortCode": "URED7177",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-16",
+          "effectiveFrom": "2016-12-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3436",
+          "proposer": null
+        },
+        {
+          "id": "URED7177-npb-URED7177",
+          "shortCode": "URED7177-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-16",
+          "effectiveFrom": "2016-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7177",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7630",
+      "title": "Uredba o spremembah Uredbe o določitvi višine in začetku plačevanja obveznega prispevka za promocijo kmetijskih in živilskih proizvodov za zavezance sektorja pridelave in predelave sadja",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi višine in začetku plačevanja obveznega prispevka za promocijo kmetijskih in živilskih proizvodov za zavezance sektorja pridelave in predelave sadja",
+      "shortCode": "URED7630",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0416",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-21",
+      "validFrom": "2018-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0416",
+      "versions": [
+        {
+          "id": "URED7630-original",
+          "shortCode": "URED7630",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7177"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0416",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

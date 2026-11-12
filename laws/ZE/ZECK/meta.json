@@ -1,0 +1,45 @@
+{
+  "root": "ZECK",
+  "path": "laws/ZE/ZECK",
+  "members": [
+    {
+      "id": "ZECK",
+      "title": "Zakon o enotni ceni knjige",
+      "shortTitle": "Zakon o enotni ceni knjige",
+      "shortCode": "ZECK",
+      "kind": "zakon",
+      "keywords": [
+        "književnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0290",
+      "gazette": "Uradni list RS 11/14  str. 969",
+      "issuingBody": null,
+      "adoptedAt": "2014-02-11",
+      "validFrom": "2014-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0290",
+      "versions": [
+        {
+          "id": "ZECK-original",
+          "shortCode": "ZECK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/14  str. 969",
+          "publishedAt": "2014-02-11",
+          "effectiveFrom": "2014-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0290",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED5183",
+  "path": "laws/UR/URED5183",
+  "members": [
+    {
+      "id": "URED5183",
+      "title": "Uredba o državnem prostorskem načrtu za 1. fazo kamionskega terminala pred novim vhodom v luko Koper",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za 1. fazo kamionskega terminala pred novim vhodom v luko Koper",
+      "shortCode": "URED5183",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1704",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1704",
+      "versions": [
+        {
+          "id": "URED5183-original",
+          "shortCode": "URED5183",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1704",
+          "proposer": null
+        },
+        {
+          "id": "URED5183-npb-URED5183",
+          "shortCode": "URED5183-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5183",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

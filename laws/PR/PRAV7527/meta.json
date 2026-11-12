@@ -1,0 +1,121 @@
+{
+  "root": "PRAV7527",
+  "path": "laws/PR/PRAV7527",
+  "members": [
+    {
+      "id": "PRAV7527",
+      "title": "Pravilnik o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortTitle": "Pravilnik o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortCode": "PRAV7527",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0139",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-01-13",
+      "validFrom": "2006-01-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0139",
+      "versions": [
+        {
+          "id": "PRAV7527-original",
+          "shortCode": "PRAV7527",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-13",
+          "effectiveFrom": "2006-01-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0139",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7582",
+      "title": "Pravilnik o spremembah Pravilnika o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortCode": "PRAV7582",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0611",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2006-02-14",
+      "validFrom": "2006-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0611",
+      "versions": [
+        {
+          "id": "PRAV7582-original",
+          "shortCode": "PRAV7582",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-14",
+          "effectiveFrom": "2006-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7527"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7584",
+      "title": "Pravilnik o spremembah Pravilnika o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o uvedbi ukrepov v zvezi z aviarno influenco",
+      "shortCode": "PRAV7584",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0613",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-02-16",
+      "validFrom": "2006-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0613",
+      "versions": [
+        {
+          "id": "PRAV7584-original",
+          "shortCode": "PRAV7584",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-16",
+          "effectiveFrom": "2006-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7527"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0613",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

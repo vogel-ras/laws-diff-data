@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10720",
+  "path": "laws/PR/PRAV10720",
+  "members": [
+    {
+      "id": "PRAV10720",
+      "title": "Pravilnik o obliki in vsebini vpisnikov in pomožnih knjig pri prekrškovnih organih",
+      "shortTitle": "Pravilnik o obliki in vsebini vpisnikov in pomožnih knjig pri prekrškovnih organih",
+      "shortCode": "PRAV10720",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-1598",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2011-05-03",
+      "validFrom": "2011-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1598",
+      "versions": [
+        {
+          "id": "PRAV10720-original",
+          "shortCode": "PRAV10720",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1598",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10720-npb-PRAV10720",
+          "shortCode": "PRAV10720-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10720",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

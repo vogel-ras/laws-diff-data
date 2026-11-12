@@ -1,0 +1,97 @@
+{
+  "root": "URED3588",
+  "path": "laws/UR/URED3588",
+  "members": [
+    {
+      "id": "URED3588",
+      "title": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortTitle": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortCode": "URED3588",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2224",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2224",
+      "versions": [
+        {
+          "id": "URED3588-original",
+          "shortCode": "URED3588",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2224",
+          "proposer": null
+        },
+        {
+          "id": "URED3588-npb-URED3588",
+          "shortCode": "URED3588-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3588",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5431",
+      "title": "Uredba o spremembah Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortTitle": "Uredba o spremembah Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi uporabe mazalnih olj in tekočin",
+      "shortCode": "URED5431",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-0820",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-03-12",
+      "validFrom": "2010-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0820",
+      "versions": [
+        {
+          "id": "URED5431-original",
+          "shortCode": "URED5431",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-12",
+          "effectiveFrom": "2010-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3588"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0820",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

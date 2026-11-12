@@ -1,0 +1,346 @@
+{
+  "root": "ZPKri",
+  "path": "laws/ZP/ZPKri",
+  "members": [
+    {
+      "id": "ZPKri",
+      "title": "Zakon o popravi krivic",
+      "shortTitle": "Zakon o popravi krivic",
+      "shortCode": "ZPKri",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-3395",
+      "gazette": "Uradni list RS 59/96  str. 5060",
+      "issuingBody": null,
+      "adoptedAt": "1996-10-25",
+      "validFrom": "1996-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3395",
+      "versions": [
+        {
+          "id": "ZPKri-original",
+          "shortCode": "ZPKri",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/96  str. 5060",
+          "publishedAt": "1996-10-25",
+          "effectiveFrom": "1996-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3395",
+          "proposer": null
+        },
+        {
+          "id": "ZPKri-amend-ZPKri-A",
+          "shortCode": "ZPKri-A",
+          "label": "Sprememba ZPKri-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 11/2001  str. 1175",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0664",
+          "proposer": null
+        },
+        {
+          "id": "ZPKri-amend-ZPKri-B",
+          "shortCode": "ZPKri-B",
+          "label": "Sprememba ZPKri-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 87/2001  str. 8694",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4448",
+          "proposer": null
+        },
+        {
+          "id": "ZPKri-amend-ZPKri-C",
+          "shortCode": "ZPKri-C",
+          "label": "Sprememba ZPKri-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 34/2003  str. 3997",
+          "publishedAt": "2003-04-10",
+          "effectiveFrom": "2003-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1434",
+          "proposer": null
+        },
+        {
+          "id": "ZPKri-amend-ZPKri-D",
+          "shortCode": "ZPKri-D",
+          "label": "Sprememba ZPKri-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 53/05  str. 5209",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2217",
+          "proposer": null
+        },
+        {
+          "id": "ZPKri-amend-ZPKri-E",
+          "shortCode": "ZPKri-E",
+          "label": "Sprememba ZPKri-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 92/07  str. 12275",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4539",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKri-A",
+      "title": "Zakon o spremembah zakona o popravi krivic",
+      "shortTitle": "Zakon o spremembah zakona o popravi krivic",
+      "shortCode": "ZPKri-A",
+      "kind": "zakon",
+      "keywords": [
+        "druga svetovna vojna",
+        "žrtev vojne",
+        "invalidsko zavarovanje",
+        "odškodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0664",
+      "gazette": "Uradni list RS 11/2001  str. 1175",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0664",
+      "versions": [
+        {
+          "id": "ZPKri-A-original",
+          "shortCode": "ZPKri-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/2001  str. 1175",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0664",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKri-B",
+      "title": "Zakon o spremembi zakona o popravi krivic",
+      "shortTitle": "Zakon o spremembi zakona o popravi krivic",
+      "shortCode": "ZPKri-B",
+      "kind": "zakon",
+      "keywords": [
+        "druga svetovna vojna",
+        "žrtev vojne",
+        "vojaško sodišče",
+        "odškodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4448",
+      "gazette": "Uradni list RS 87/2001  str. 8694",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-08",
+      "validFrom": "2001-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4448",
+      "versions": [
+        {
+          "id": "ZPKri-B-original",
+          "shortCode": "ZPKri-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2001  str. 8694",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4448",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKri-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortCode": "ZPKri-C",
+      "kind": "zakon",
+      "keywords": [
+        "druga svetovna vojna",
+        "žrtev vojne",
+        "odškodnina",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-1434",
+      "gazette": "Uradni list RS 34/2003  str. 3997",
+      "issuingBody": null,
+      "adoptedAt": "2003-04-10",
+      "validFrom": "2003-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1434",
+      "versions": [
+        {
+          "id": "ZPKri-C-original",
+          "shortCode": "ZPKri-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 34/2003  str. 3997",
+          "publishedAt": "2003-04-10",
+          "effectiveFrom": "2003-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1434",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKri-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortCode": "ZPKri-D",
+      "kind": "zakon",
+      "keywords": [
+        "druga svetovna vojna",
+        "vojaško sodišče",
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2217",
+      "gazette": "Uradni list RS 53/05  str. 5209",
+      "issuingBody": null,
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2217",
+      "versions": [
+        {
+          "id": "ZPKri-D-original",
+          "shortCode": "ZPKri-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/05  str. 5209",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2217",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKri-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popravi krivic",
+      "shortCode": "ZPKri-E",
+      "kind": "zakon",
+      "keywords": [
+        "druga svetovna vojna",
+        "vojaško sodišče",
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4539",
+      "gazette": "Uradni list RS 92/07  str. 12275",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-10",
+      "validFrom": "2007-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4539",
+      "versions": [
+        {
+          "id": "ZPKri-E-original",
+          "shortCode": "ZPKri-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/07  str. 12275",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKri"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4539",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

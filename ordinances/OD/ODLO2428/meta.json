@@ -1,0 +1,97 @@
+{
+  "root": "ODLO2428",
+  "path": "ordinances/OD/ODLO2428",
+  "members": [
+    {
+      "id": "ODLO2428",
+      "title": "Odlok o podaljšanju veljavnosti vozniških dovoljenj in teoretičnega dela vozniškega izpita",
+      "shortTitle": "Odlok o podaljšanju veljavnosti vozniških dovoljenj in teoretičnega dela vozniškega izpita",
+      "shortCode": "ODLO2428",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2021-01-1218",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-04-15",
+      "validFrom": "2021-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1218",
+      "versions": [
+        {
+          "id": "ODLO2428-original",
+          "shortCode": "ODLO2428",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-15",
+          "effectiveFrom": "2021-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1218",
+          "proposer": null
+        },
+        {
+          "id": "ODLO2428-npb-ODLO2428",
+          "shortCode": "ODLO2428-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-04-15",
+          "effectiveFrom": "2021-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO2428",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2477",
+      "title": "Odlok o spremembi Odloka o podaljšanju veljavnosti vozniških dovoljenj in teoretičnega dela vozniškega izpita",
+      "shortTitle": "Odlok o spremembi Odloka o podaljšanju veljavnosti vozniških dovoljenj in teoretičnega dela vozniškega izpita",
+      "shortCode": "ODLO2477",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2021-01-1552",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-05-13",
+      "validFrom": "2021-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2021-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1552",
+      "versions": [
+        {
+          "id": "ODLO2477-original",
+          "shortCode": "ODLO2477",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-05-13",
+          "effectiveFrom": "2021-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2428"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1552",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

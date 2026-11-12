@@ -1,0 +1,175 @@
+{
+  "root": "URED5010",
+  "path": "laws/UR/URED5010",
+  "members": [
+    {
+      "id": "URED5010",
+      "title": "Uredba o stanju površinskih voda",
+      "shortTitle": "Uredba o stanju površinskih voda",
+      "shortCode": "URED5010",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0437",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-20",
+      "validFrom": "2009-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0437",
+      "versions": [
+        {
+          "id": "URED5010-original",
+          "shortCode": "URED5010",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-20",
+          "effectiveFrom": "2009-02-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0437",
+          "proposer": null
+        },
+        {
+          "id": "URED5010-npb-URED5010",
+          "shortCode": "URED5010-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-02-20",
+          "effectiveFrom": "2009-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5373",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o stanju površinskih voda",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o stanju površinskih voda",
+      "shortCode": "URED5373",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5091",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-03",
+      "validFrom": "2010-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5091",
+      "versions": [
+        {
+          "id": "URED5373-original",
+          "shortCode": "URED5373",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5091",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6418",
+      "title": "Uredba o spremembi Uredbe o stanju površinskih voda",
+      "shortTitle": "Uredba o spremembi Uredbe o stanju površinskih voda",
+      "shortCode": "URED6418",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3445",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-11-22",
+      "validFrom": "2013-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3445",
+      "versions": [
+        {
+          "id": "URED6418-original",
+          "shortCode": "URED6418",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-11-22",
+          "effectiveFrom": "2013-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3445",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7080",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o stanju površinskih voda",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o stanju površinskih voda",
+      "shortCode": "URED7080",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-0995",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-04-01",
+      "validFrom": "2016-04-01",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0995",
+      "versions": [
+        {
+          "id": "URED7080-original",
+          "shortCode": "URED7080",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-04-01",
+          "effectiveFrom": "2016-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

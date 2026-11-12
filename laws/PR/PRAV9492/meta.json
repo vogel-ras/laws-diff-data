@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9492",
+  "path": "laws/PR/PRAV9492",
+  "members": [
+    {
+      "id": "PRAV9492",
+      "title": "Pravilnik o varstvu gozdov",
+      "shortTitle": "Pravilnik o varstvu gozdov",
+      "shortCode": "PRAV9492",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-5220",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5220",
+      "versions": [
+        {
+          "id": "PRAV9492-original",
+          "shortCode": "PRAV9492",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5220",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9492-npb-PRAV9492",
+          "shortCode": "PRAV9492-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9492",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

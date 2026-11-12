@@ -1,0 +1,208 @@
+{
+  "root": "ZTZPUS",
+  "path": "laws/ZT/ZTZPUS",
+  "members": [
+    {
+      "id": "ZTZPUS",
+      "title": "Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortTitle": "Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortCode": "ZTZPUS",
+      "kind": "zakon",
+      "keywords": [
+        "tehnični standard",
+        "varnost proizvoda"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2796",
+      "gazette": "Uradni list RS 59/99  str. 7545",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-23",
+      "validFrom": "1999-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2796",
+      "versions": [
+        {
+          "id": "ZTZPUS-original",
+          "shortCode": "ZTZPUS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/99  str. 7545",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2796",
+          "proposer": null
+        },
+        {
+          "id": "ZTZPUS-amend-ZTZPUS-A",
+          "shortCode": "ZTZPUS-A",
+          "label": "Sprememba ZTZPUS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/04  str. 4452",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTZPUS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1600",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTZPUS-1",
+      "title": "Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortTitle": "Zakon o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortCode": "ZTZPUS-1",
+      "kind": "zakon",
+      "keywords": [
+        "tehnični predpisi",
+        "prosti pretok blaga",
+        "dovoljenje za prodajo",
+        "varnost proizvoda",
+        "oznaka skladnosti CE",
+        "usklajevanje standardov",
+        "nadzor trga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0691",
+      "gazette": "Uradni list RS 17/11  str. 2072",
+      "issuingBody": null,
+      "adoptedAt": "2011-03-11",
+      "validFrom": "2011-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0691",
+      "versions": [
+        {
+          "id": "ZTZPUS-1-original",
+          "shortCode": "ZTZPUS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/11  str. 2072",
+          "publishedAt": "2011-03-11",
+          "effectiveFrom": "2011-03-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0691",
+          "proposer": null
+        },
+        {
+          "id": "ZTZPUS-1-amend-ZTZPUS-1A",
+          "shortCode": "ZTZPUS-1A",
+          "label": "Sprememba ZTZPUS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 29/23  str. 1731",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTZPUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0616",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTZPUS-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortCode": "ZTZPUS-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0616",
+      "gazette": "Uradni list RS 29/23  str. 1731",
+      "issuingBody": null,
+      "adoptedAt": "2023-03-07",
+      "validFrom": "2023-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0616",
+      "versions": [
+        {
+          "id": "ZTZPUS-1A-original",
+          "shortCode": "ZTZPUS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/23  str. 1731",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTZPUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0616",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTZPUS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o tehničnih zahtevah za proizvode in o ugotavljanju skladnosti",
+      "shortCode": "ZTZPUS-A",
+      "kind": "zakon",
+      "keywords": [
+        "sklad",
+        "sukcesija",
+        "lastnina",
+        "Jugoslavija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1600",
+      "gazette": "Uradni list RS 37/04  str. 4452",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1600",
+      "versions": [
+        {
+          "id": "ZTZPUS-A-original",
+          "shortCode": "ZTZPUS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4452",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTZPUS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1600",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

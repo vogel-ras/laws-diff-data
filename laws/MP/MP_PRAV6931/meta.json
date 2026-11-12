@@ -1,0 +1,82 @@
+{
+  "root": "MP_PRAV6931",
+  "path": "laws/MP/MP_PRAV6931",
+  "members": [
+    {
+      "id": "MP_PRAV6931",
+      "title": "Pravilnik o podrobnejših kriterijih za olajšavo plačila komunalnega prispevka (PRAV)",
+      "shortTitle": "Pravilnik o podrobnejših kriterijih za olajšavo plačila komunalnega prispevka (PRAV)",
+      "shortCode": "MP_PRAV6931",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2022-01-1447",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1447",
+      "versions": [
+        {
+          "id": "MP_PRAV6931-original",
+          "shortCode": "MP_PRAV6931",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1447",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV8414",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o podrobnejših kriterijih za olajšavo plačila komunalnega prispevka (PRAV)",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o podrobnejših kriterijih za olajšavo plačila komunalnega prispevka (PRAV)",
+      "shortCode": "MP_PRAV8414",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Šmartno pri Litiji",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2024-01-3816",
+      "gazette": null,
+      "issuingBody": "Občina Šmartno pri Litiji",
+      "adoptedAt": "2024-12-30",
+      "validFrom": "2024-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3816",
+      "versions": [
+        {
+          "id": "MP_PRAV8414-original",
+          "shortCode": "MP_PRAV8414",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-30",
+          "effectiveFrom": "2024-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6931"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3816",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

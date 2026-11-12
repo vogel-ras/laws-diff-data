@@ -1,0 +1,51 @@
+{
+  "root": "MSPGIS",
+  "path": "laws/MS/MSPGIS",
+  "members": [
+    {
+      "id": "MSPGIS",
+      "title": "Zakon o ratifikaciji Sporazuma o posojilu med Republiko Slovenijo in Mednarodno banko za obnovo in razvoj (Projekt za okolje-Geografski informacijski sistem)",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o posojilu med Republiko Slovenijo in Mednarodno banko za obnovo in razvoj (Projekt za okolje-Geografski informacijski sistem)",
+      "shortCode": "MSPGIS",
+      "kind": "zakon",
+      "keywords": [
+        "Svetovna banka",
+        "ratifikacija sporazuma",
+        "Slovenija",
+        "geografski informacijski sistem",
+        "kredit",
+        "kreditna garancija",
+        "poroštvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-02-0050",
+      "gazette": "Uradni list RS MP 14/96  str. 269",
+      "issuingBody": null,
+      "adoptedAt": "1996-09-20",
+      "validFrom": "1996-09-20",
+      "validTo": null,
+      "latestPublishedAt": "1996-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-02-0050",
+      "versions": [
+        {
+          "id": "MSPGIS-original",
+          "shortCode": "MSPGIS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 14/96  str. 269",
+          "publishedAt": "1996-09-20",
+          "effectiveFrom": "1996-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-02-0050",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

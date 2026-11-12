@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4361",
+  "path": "laws/PR/PRAV4361",
+  "members": [
+    {
+      "id": "PRAV4361",
+      "title": "Pravilnik o plačevanju z gotovino in blagajniškem maksimumu",
+      "shortTitle": "Pravilnik o plačevanju z gotovino in blagajniškem maksimumu",
+      "shortCode": "PRAV4361",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4235",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2002-10-04",
+      "validFrom": "2002-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4235",
+      "versions": [
+        {
+          "id": "PRAV4361-original",
+          "shortCode": "PRAV4361",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-04",
+          "effectiveFrom": "2002-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4235",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8156",
+      "title": "Pravilnik o spremembah Pravilnika o plačevanju z gotovino in blagajniškem maksimumu",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o plačevanju z gotovino in blagajniškem maksimumu",
+      "shortCode": "PRAV8156",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-6176",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-30",
+      "validFrom": "2006-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6176",
+      "versions": [
+        {
+          "id": "PRAV8156-original",
+          "shortCode": "PRAV8156",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-30",
+          "effectiveFrom": "2006-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4361"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6176",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

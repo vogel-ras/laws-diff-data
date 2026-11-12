@@ -1,0 +1,490 @@
+{
+  "root": "SZ",
+  "path": "laws/SZ/SZ",
+  "members": [
+    {
+      "id": "SZ",
+      "title": "Stanovanjski zakon",
+      "shortTitle": "Stanovanjski zakon",
+      "shortCode": "SZ",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika",
+        "stanovanjsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0652",
+      "gazette": "Uradni list RS 18/91  str. 589",
+      "issuingBody": null,
+      "adoptedAt": "1991-10-11",
+      "validFrom": "1991-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0652",
+      "versions": [
+        {
+          "id": "SZ-original",
+          "shortCode": "SZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/91  str. 589",
+          "publishedAt": "1991-10-11",
+          "effectiveFrom": "1991-10-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0652",
+          "proposer": null
+        },
+        {
+          "id": "SZ-amend-SZ-A",
+          "shortCode": "SZ-A",
+          "label": "Sprememba SZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/94  str. 1245",
+          "publishedAt": "1994-04-22",
+          "effectiveFrom": "1994-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0893",
+          "proposer": null
+        },
+        {
+          "id": "SZ-amend-SZ-C",
+          "shortCode": "SZ-C",
+          "label": "Sprememba SZ-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 23/96  str. 1837",
+          "publishedAt": "1996-04-29",
+          "effectiveFrom": "1996-04-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1314",
+          "proposer": null
+        },
+        {
+          "id": "SZ-amend-SZ-D",
+          "shortCode": "SZ-D",
+          "label": "Sprememba SZ-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 1/2000  str. 3",
+          "publishedAt": "2000-01-07",
+          "effectiveFrom": "2000-01-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-1",
+      "title": "Stanovanjski zakon",
+      "shortTitle": "Stanovanjski zakon",
+      "shortCode": "SZ-1",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3312",
+      "gazette": "Uradni list RS 69/2003  str. 10633",
+      "issuingBody": null,
+      "adoptedAt": "2003-07-16",
+      "validFrom": "2003-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3312",
+      "versions": [
+        {
+          "id": "SZ-1-original",
+          "shortCode": "SZ-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/2003  str. 10633",
+          "publishedAt": "2003-07-16",
+          "effectiveFrom": "2003-07-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3312",
+          "proposer": null
+        },
+        {
+          "id": "SZ-1-amend-ZAKO7553",
+          "shortCode": "SZ-1C",
+          "label": "Sprememba SZ-1C",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-06-02",
+          "effectiveFrom": "2017-06-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1441",
+          "proposer": null
+        },
+        {
+          "id": "SZ-1-amend-SZ-1D",
+          "shortCode": "SZ-1D",
+          "label": "Sprememba SZ-1D",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 59/19  str. 6979",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2610",
+          "proposer": null
+        },
+        {
+          "id": "SZ-1-amend-SZ-1E",
+          "shortCode": "SZ-1E",
+          "label": "Sprememba SZ-1E",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 90/21  str. 5221",
+          "publishedAt": "2021-06-04",
+          "effectiveFrom": "2021-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1868",
+          "proposer": null
+        },
+        {
+          "id": "SZ-1-amend-SZ-1F",
+          "shortCode": "SZ-1F",
+          "label": "Sprememba SZ-1F",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 61/24  str. 6228",
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2118",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-1D",
+      "title": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortCode": "SZ-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2610",
+      "gazette": "Uradni list RS 59/19  str. 6979",
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2610",
+      "versions": [
+        {
+          "id": "SZ-1D-original",
+          "shortCode": "SZ-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6979",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2610",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-1E",
+      "title": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortCode": "SZ-1E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1868",
+      "gazette": "Uradni list RS 90/21  str. 5221",
+      "issuingBody": null,
+      "adoptedAt": "2021-06-04",
+      "validFrom": "2021-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1868",
+      "versions": [
+        {
+          "id": "SZ-1E-original",
+          "shortCode": "SZ-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/21  str. 5221",
+          "publishedAt": "2021-06-04",
+          "effectiveFrom": "2021-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1868",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-1F",
+      "title": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona",
+      "shortCode": "SZ-1F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2118",
+      "gazette": "Uradni list RS 61/24  str. 6228",
+      "issuingBody": null,
+      "adoptedAt": "2024-07-22",
+      "validFrom": "2024-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2118",
+      "versions": [
+        {
+          "id": "SZ-1F-original",
+          "shortCode": "SZ-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/24  str. 6228",
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2118",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-A",
+      "title": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortCode": "SZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika",
+        "stanovanjsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0893",
+      "gazette": "Uradni list RS 21/94  str. 1245",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-22",
+      "validFrom": "1994-04-22",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0893",
+      "versions": [
+        {
+          "id": "SZ-A-original",
+          "shortCode": "SZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/94  str. 1245",
+          "publishedAt": "1994-04-22",
+          "effectiveFrom": "1994-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0893",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-C",
+      "title": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortCode": "SZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika",
+        "stanovanjsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-1314",
+      "gazette": "Uradni list RS 23/96  str. 1837",
+      "issuingBody": null,
+      "adoptedAt": "1996-04-29",
+      "validFrom": "1996-04-29",
+      "validTo": null,
+      "latestPublishedAt": "1996-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1314",
+      "versions": [
+        {
+          "id": "SZ-C-original",
+          "shortCode": "SZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/96  str. 1837",
+          "publishedAt": "1996-04-29",
+          "effectiveFrom": "1996-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1314",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SZ-D",
+      "title": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah stanovanjskega zakona",
+      "shortCode": "SZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0002",
+      "gazette": "Uradni list RS 1/2000  str. 3",
+      "issuingBody": null,
+      "adoptedAt": "2000-01-07",
+      "validFrom": "2000-01-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0002",
+      "versions": [
+        {
+          "id": "SZ-D-original",
+          "shortCode": "SZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/2000  str. 3",
+          "publishedAt": "2000-01-07",
+          "effectiveFrom": "2000-01-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7553",
+      "title": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona (SZ-1C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Stanovanjskega zakona (SZ-1C)",
+      "shortCode": "SZ-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1441",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-02",
+      "validFrom": "2017-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1441",
+      "versions": [
+        {
+          "id": "ZAKO7553-original",
+          "shortCode": "SZ-1C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-02",
+          "effectiveFrom": "2017-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1441",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

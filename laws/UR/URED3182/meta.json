@@ -1,0 +1,97 @@
+{
+  "root": "URED3182",
+  "path": "laws/UR/URED3182",
+  "members": [
+    {
+      "id": "URED3182",
+      "title": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 1000-letnici prve pisne omembe Bleda",
+      "shortTitle": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 1000-letnici prve pisne omembe Bleda",
+      "shortCode": "URED3182",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0063",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-01-09",
+      "validFrom": "2004-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0063",
+      "versions": [
+        {
+          "id": "URED3182-original",
+          "shortCode": "URED3182",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0063",
+          "proposer": null
+        },
+        {
+          "id": "URED3182-npb-URED3182",
+          "shortCode": "URED3182-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3182",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3369",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 1000-letnici prve pisne omembe Bleda",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih priložnostnih kovancev ob 1000-letnici prve pisne omembe Bleda",
+      "shortCode": "URED3369",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2217",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2217",
+      "versions": [
+        {
+          "id": "URED3369-original",
+          "shortCode": "URED3369",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3182"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2217",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

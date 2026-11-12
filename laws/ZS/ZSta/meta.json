@@ -1,0 +1,86 @@
+{
+  "root": "ZSta",
+  "path": "laws/ZS/ZSta",
+  "members": [
+    {
+      "id": "ZSta",
+      "title": "Zakon o standardizaciji",
+      "shortTitle": "Zakon o standardizaciji",
+      "shortCode": "ZSta",
+      "kind": "zakon",
+      "keywords": [
+        "standardizacija",
+        "tehnični predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0005",
+      "gazette": "Uradni list RS 1/95  str. 37",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0005",
+      "versions": [
+        {
+          "id": "ZSta-original",
+          "shortCode": "ZSta",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 37",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0005",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSta-1",
+      "title": "Zakon o standardizaciji",
+      "shortTitle": "Zakon o standardizaciji",
+      "shortCode": "ZSta-1",
+      "kind": "zakon",
+      "keywords": [
+        "standardizacija",
+        "standard"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2794",
+      "gazette": "Uradni list RS 59/99  str. 7540",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-23",
+      "validFrom": "1999-07-23",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2794",
+      "versions": [
+        {
+          "id": "ZSta-1-original",
+          "shortCode": "ZSta-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/99  str. 7540",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2794",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

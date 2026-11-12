@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11371",
+  "path": "laws/PR/PRAV11371",
+  "members": [
+    {
+      "id": "PRAV11371",
+      "title": "Pravilnik o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortTitle": "Pravilnik o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortCode": "PRAV11371",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1978",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-27",
+      "validFrom": "2025-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1978",
+      "versions": [
+        {
+          "id": "PRAV11371-original",
+          "shortCode": "PRAV11371",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-27",
+          "effectiveFrom": "2025-03-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1978",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11371-npb-PRAV11371",
+          "shortCode": "PRAV11371-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-06-14",
+          "effectiveFrom": "2013-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11371",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14869",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortCode": "PRAV14869",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-0356",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-02-15",
+      "validFrom": "2023-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0356",
+      "versions": [
+        {
+          "id": "PRAV14869-original",
+          "shortCode": "PRAV14869",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-15",
+          "effectiveFrom": "2023-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11371"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0356",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16142",
+      "title": "Pravilnik o spremembi Pravilnika o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o psihološki pomoči in psihološki podpori uslužbencem policije",
+      "shortCode": "PRAV16142",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-1367",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-05-22",
+      "validFrom": "2026-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1367",
+      "versions": [
+        {
+          "id": "PRAV16142-original",
+          "shortCode": "PRAV16142",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-05-22",
+          "effectiveFrom": "2026-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11371"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1367",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

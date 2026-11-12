@@ -1,0 +1,121 @@
+{
+  "root": "MP_ODLO45984",
+  "path": "ordinances/MP/MP_ODLO45984",
+  "members": [
+    {
+      "id": "MP_ODLO45984",
+      "title": "Odlok o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortTitle": "Odlok o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortCode": "MP_ODLO45984",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-2559",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2559",
+      "versions": [
+        {
+          "id": "MP_ODLO45984-original",
+          "shortCode": "MP_ODLO45984",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2559",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO47862",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortCode": "MP_ODLO47862",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Kranj",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-1841",
+      "gazette": null,
+      "issuingBody": "Mestna občina Kranj",
+      "adoptedAt": "2023-05-31",
+      "validFrom": "2023-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1841",
+      "versions": [
+        {
+          "id": "MP_ODLO47862-original",
+          "shortCode": "MP_ODLO47862",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-31",
+          "effectiveFrom": "2023-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO45984"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1841",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO47863",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi Skupne občinske uprave občin Gorenjske (ODLO)",
+      "shortCode": "MP_ODLO47863",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Tržič",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-1843",
+      "gazette": null,
+      "issuingBody": "Občina Tržič",
+      "adoptedAt": "2023-05-31",
+      "validFrom": "2023-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1843",
+      "versions": [
+        {
+          "id": "MP_ODLO47863-original",
+          "shortCode": "MP_ODLO47863",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-31",
+          "effectiveFrom": "2023-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO45984"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1843",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

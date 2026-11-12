@@ -1,0 +1,176 @@
+{
+  "root": "ZDSPDČ",
+  "path": "laws/ZD/ZDSPDČ",
+  "members": [
+    {
+      "id": "ZDSPD_",
+      "title": "Zakon o delnem subvencioniranju polnega delovnega časa",
+      "shortTitle": "Zakon o delnem subvencioniranju polnega delovnega časa",
+      "shortCode": "ZDSPDČ",
+      "kind": "zakon",
+      "keywords": [
+        "ohranjanje delovnih mest",
+        "politika zaposlovanja",
+        "zaposlitev s polnim delovnim časom",
+        "pomoč podjetjem",
+        "podjetje v težavah",
+        "gospodarska recesija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-0143",
+      "gazette": "Uradni list RS 5/09  str. 337",
+      "issuingBody": null,
+      "adoptedAt": "2009-01-23",
+      "validFrom": "2009-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0143",
+      "versions": [
+        {
+          "id": "ZDSPD_-original",
+          "shortCode": "ZDSPDČ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 5/09  str. 337",
+          "publishedAt": "2009-01-23",
+          "effectiveFrom": "2009-01-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0143",
+          "proposer": null
+        },
+        {
+          "id": "ZDSPD_-amend-ZDSPD_-A",
+          "shortCode": "ZDSPDČ-A",
+          "label": "Sprememba ZDSPD_-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/09  str. 5566",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDSPD_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1923",
+          "proposer": null
+        },
+        {
+          "id": "ZDSPD_-amend-ZDSPD_-B",
+          "shortCode": "ZDSPDČ-B",
+          "label": "Sprememba ZDSPD_-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 57/09  str. 7930",
+          "publishedAt": "2009-07-24",
+          "effectiveFrom": "2009-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSPD_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2787",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSPD_-A",
+      "title": "Zakon o spremembi Zakona o delnem subvencioniranju polnega delovnega časa",
+      "shortTitle": "Zakon o spremembi Zakona o delnem subvencioniranju polnega delovnega časa",
+      "shortCode": "ZDSPDČ-A",
+      "kind": "zakon",
+      "keywords": [
+        "ohranjanje delovnih mest",
+        "politika zaposlovanja",
+        "zaposlitev s polnim delovnim časom",
+        "pomoč podjetjem",
+        "podjetje v težavah",
+        "gospodarska recesija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1923",
+      "gazette": "Uradni list RS 40/09  str. 5566",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-29",
+      "validFrom": "2009-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1923",
+      "versions": [
+        {
+          "id": "ZDSPD_-A-original",
+          "shortCode": "ZDSPDČ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/09  str. 5566",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSPD_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1923",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSPD_-B",
+      "title": "Zakon o spremembi Zakona o delnem subvencioniranju polnega delovnega časa",
+      "shortTitle": "Zakon o spremembi Zakona o delnem subvencioniranju polnega delovnega časa",
+      "shortCode": "ZDSPDČ-B",
+      "kind": "zakon",
+      "keywords": [
+        "ohranjanje delovnih mest",
+        "politika zaposlovanja",
+        "zaposlitev s polnim delovnim časom",
+        "pomoč podjetjem",
+        "podjetje v težavah",
+        "gospodarska recesija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2787",
+      "gazette": "Uradni list RS 57/09  str. 7930",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-24",
+      "validFrom": "2009-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2787",
+      "versions": [
+        {
+          "id": "ZDSPD_-B-original",
+          "shortCode": "ZDSPDČ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/09  str. 7930",
+          "publishedAt": "2009-07-24",
+          "effectiveFrom": "2009-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSPD_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2787",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

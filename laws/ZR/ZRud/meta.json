@@ -1,0 +1,427 @@
+{
+  "root": "ZRud",
+  "path": "laws/ZR/ZRud",
+  "members": [
+    {
+      "id": "ZAKO5258",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-B)",
+      "shortCode": "ZRud-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2963",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2963",
+      "versions": [
+        {
+          "id": "ZAKO5258-original",
+          "shortCode": "ZRud-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2963",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9352",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-1F)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu (ZRud-1F)",
+      "shortCode": "ZRud-1F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0554",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-25",
+      "validFrom": "2026-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0554",
+      "versions": [
+        {
+          "id": "ZAKO9352-original",
+          "shortCode": "ZRud-1F",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0554",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud",
+      "title": "Zakon o rudarstvu",
+      "shortTitle": "Zakon o rudarstvu",
+      "shortCode": "ZRud",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo",
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2653",
+      "gazette": "Uradni list RS 56/99  str. 7071",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-13",
+      "validFrom": "1999-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2653",
+      "versions": [
+        {
+          "id": "ZRud-original",
+          "shortCode": "ZRud",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/99  str. 7071",
+          "publishedAt": "1999-07-13",
+          "effectiveFrom": "1999-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2653",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-amend-ZRud-A",
+          "shortCode": "ZRud-A",
+          "label": "Sprememba ZRud-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 46/04  str. 5915",
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRud"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2213",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-amend-ZAKO5258",
+          "shortCode": "ZRud-B",
+          "label": "Sprememba ZRud-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2963",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud-1",
+      "title": "Zakon o rudarstvu",
+      "shortTitle": "Zakon o rudarstvu",
+      "shortCode": "ZRud-1",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3351",
+      "gazette": "Uradni list RS 61/10  str. 9212",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-26",
+      "validFrom": "2010-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3351",
+      "versions": [
+        {
+          "id": "ZRud-1-original",
+          "shortCode": "ZRud-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/10  str. 9212",
+          "publishedAt": "2010-07-26",
+          "effectiveFrom": "2010-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3351",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-1-amend-ZRud-1A",
+          "shortCode": "ZRud-1A",
+          "label": "Sprememba ZRud-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/10  str. 11053",
+          "publishedAt": "2010-10-01",
+          "effectiveFrom": "2010-10-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4128",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-1-amend-ZRud-1C",
+          "shortCode": "ZRud-1C",
+          "label": "Sprememba ZRud-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 111/13  str. 13169",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4132",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-1-amend-ZRud-1E",
+          "shortCode": "ZRud-1E",
+          "label": "Sprememba ZRud-1E",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 81/24  str. 7386",
+          "publishedAt": "2024-09-20",
+          "effectiveFrom": "2024-09-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2379",
+          "proposer": null
+        },
+        {
+          "id": "ZRud-1-amend-ZAKO9352",
+          "shortCode": "ZRud-1F",
+          "label": "Sprememba ZRud-1F",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0554",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortCode": "ZRud-1A",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4128",
+      "gazette": "Uradni list RS 76/10  str. 11053",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-01",
+      "validFrom": "2010-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4128",
+      "versions": [
+        {
+          "id": "ZRud-1A-original",
+          "shortCode": "ZRud-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/10  str. 11053",
+          "publishedAt": "2010-10-01",
+          "effectiveFrom": "2010-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4128",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortCode": "ZRud-1C",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4132",
+      "gazette": "Uradni list RS 111/13  str. 13169",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4132",
+      "versions": [
+        {
+          "id": "ZRud-1C-original",
+          "shortCode": "ZRud-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/13  str. 13169",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud-1E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o rudarstvu",
+      "shortCode": "ZRud-1E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2379",
+      "gazette": "Uradni list RS 81/24  str. 7386",
+      "issuingBody": null,
+      "adoptedAt": "2024-09-20",
+      "validFrom": "2024-09-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2379",
+      "versions": [
+        {
+          "id": "ZRud-1E-original",
+          "shortCode": "ZRud-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/24  str. 7386",
+          "publishedAt": "2024-09-20",
+          "effectiveFrom": "2024-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2379",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRud-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o rudarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o rudarstvu",
+      "shortCode": "ZRud-A",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2213",
+      "gazette": "Uradni list RS 46/04  str. 5915",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2213",
+      "versions": [
+        {
+          "id": "ZRud-A-original",
+          "shortCode": "ZRud-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/04  str. 5915",
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRud"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2213",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "root": "ZUE",
+  "path": "laws/ZU/ZUE",
+  "members": [
+    {
+      "id": "ZUE",
+      "title": "Zakon o uvedbi eura",
+      "shortTitle": "Zakon o uvedbi eura",
+      "shortCode": "ZUE",
+      "kind": "zakon",
+      "keywords": [
+        "evro",
+        "evropska valuta",
+        "evropski monetarni sistem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4831",
+      "gazette": "Uradni list RS 114/06  str. 11833",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-09",
+      "validFrom": "2006-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4831",
+      "versions": [
+        {
+          "id": "ZUE-original",
+          "shortCode": "ZUE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/06  str. 11833",
+          "publishedAt": "2006-11-09",
+          "effectiveFrom": "2006-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4831",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

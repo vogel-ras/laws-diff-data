@@ -1,0 +1,82 @@
+{
+  "root": "PRAV1089",
+  "path": "laws/PR/PRAV1089",
+  "members": [
+    {
+      "id": "PRAV1089",
+      "title": "Pravilnik o stopnjah običajnega odpisa, primanjkljaja blaga in remitende (kalo, razbitje in okvara nosilcev besede, slike, zvoka)",
+      "shortTitle": "Pravilnik o stopnjah običajnega odpisa, primanjkljaja blaga in remitende (kalo, razbitje in okvara nosilcev besede, slike, zvoka)",
+      "shortCode": "PRAV1089",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2523",
+      "gazette": null,
+      "issuingBody": "ZDRUŽENJE ZA TISK IN MEDIJE",
+      "adoptedAt": "1999-07-02",
+      "validFrom": "1999-07-02",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2523",
+      "versions": [
+        {
+          "id": "PRAV1089-original",
+          "shortCode": "PRAV1089",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-02",
+          "effectiveFrom": "1999-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2523",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9690",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o stopnjah običajnega odpisa, primanjkljaja blaga in remitende (kalo, razbitje in okvara nosilcev besede, slike, zvoka)",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o stopnjah običajnega odpisa, primanjkljaja blaga in remitende (kalo, razbitje in okvara nosilcev besede, slike, zvoka)",
+      "shortCode": "PRAV9690",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0708",
+      "gazette": null,
+      "issuingBody": "Zbornica založništva, knjigotrštva, grafične dejavnosti in radiodifuznih medijev",
+      "adoptedAt": "2009-03-13",
+      "validFrom": "2009-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0708",
+      "versions": [
+        {
+          "id": "PRAV9690-original",
+          "shortCode": "PRAV9690",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-13",
+          "effectiveFrom": "2009-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1089"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0708",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "ODRE636",
+  "path": "laws/OD/ODRE636",
+  "members": [
+    {
+      "id": "ODRE636",
+      "title": "Odredba o prepovedi prodaje in uvoza vozil brez katalizatorja",
+      "shortTitle": "Odredba o prepovedi prodaje in uvoza vozil brez katalizatorja",
+      "shortCode": "ODRE636",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1178",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-05-20",
+      "validFrom": "1994-05-20",
+      "validTo": null,
+      "latestPublishedAt": "1994-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1178",
+      "versions": [
+        {
+          "id": "ODRE636-original",
+          "shortCode": "ODRE636",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-05-20",
+          "effectiveFrom": "1994-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1178",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE637",
+      "title": "Odredba o spremembi odredbe o prepovedi prodaje in uvoza vozil brez katalizatorja",
+      "shortTitle": "Odredba o spremembi odredbe o prepovedi prodaje in uvoza vozil brez katalizatorja",
+      "shortCode": "ODRE637",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1719",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-07-15",
+      "validFrom": "1994-07-15",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1719",
+      "versions": [
+        {
+          "id": "ODRE637-original",
+          "shortCode": "ODRE637",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-15",
+          "effectiveFrom": "1994-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE636"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1719",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

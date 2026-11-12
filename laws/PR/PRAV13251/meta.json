@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13251",
+  "path": "laws/PR/PRAV13251",
+  "members": [
+    {
+      "id": "PRAV13251",
+      "title": "Pravilnik o evidenci organizacij proizvajalcev, združenj organizacij proizvajalcev in skupin proizvajalcev za skupno trženje",
+      "shortTitle": "Pravilnik o evidenci organizacij proizvajalcev, združenj organizacij proizvajalcev in skupin proizvajalcev za skupno trženje",
+      "shortCode": "PRAV13251",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-3048",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-09-28",
+      "validFrom": "2018-09-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3048",
+      "versions": [
+        {
+          "id": "PRAV13251-original",
+          "shortCode": "PRAV13251",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-28",
+          "effectiveFrom": "2018-09-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14559",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidenci organizacij proizvajalcev, združenj organizacij proizvajalcev in skupin proizvajalcev za skupno trženje",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidenci organizacij proizvajalcev, združenj organizacij proizvajalcev in skupin proizvajalcev za skupno trženje",
+      "shortCode": "PRAV14559",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0655",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-03-11",
+      "validFrom": "2022-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0655",
+      "versions": [
+        {
+          "id": "PRAV14559-original",
+          "shortCode": "PRAV14559",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-03-11",
+          "effectiveFrom": "2022-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13251"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0655",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

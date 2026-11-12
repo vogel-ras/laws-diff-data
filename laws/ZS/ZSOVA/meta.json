@@ -1,0 +1,163 @@
+{
+  "root": "ZSOVA",
+  "path": "laws/ZS/ZSOVA",
+  "members": [
+    {
+      "id": "ZSOVA",
+      "title": "Zakon o Slovenski obveščevalno-varnostni agenciji",
+      "shortTitle": "Zakon o Slovenski obveščevalno-varnostni agenciji",
+      "shortCode": "ZSOVA",
+      "kind": "zakon",
+      "keywords": [
+        "tajna služba",
+        "varstvo podatkov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1115",
+      "gazette": "Uradni list RS 23/99  str. 2707",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-08",
+      "validFrom": "1999-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1115",
+      "versions": [
+        {
+          "id": "ZSOVA-original",
+          "shortCode": "ZSOVA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/99  str. 2707",
+          "publishedAt": "1999-04-08",
+          "effectiveFrom": "1999-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1115",
+          "proposer": null
+        },
+        {
+          "id": "ZSOVA-amend-ZSOVA-A",
+          "shortCode": "ZSOVA-A",
+          "label": "Sprememba ZSOVA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 126/03  str. 17233",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSOVA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5382",
+          "proposer": null
+        },
+        {
+          "id": "ZSOVA-amend-ZSOVA-B",
+          "shortCode": "ZSOVA-B",
+          "label": "Sprememba ZSOVA-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 61/06  str. 6644",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOVA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2575",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSOVA-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o slovenski obveščevalno-varnostni agenciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o slovenski obveščevalno-varnostni agenciji",
+      "shortCode": "ZSOVA-A",
+      "kind": "zakon",
+      "keywords": [
+        "tajna služba",
+        "agencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5382",
+      "gazette": "Uradni list RS 126/03  str. 17233",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5382",
+      "versions": [
+        {
+          "id": "ZSOVA-A-original",
+          "shortCode": "ZSOVA-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/03  str. 17233",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOVA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5382",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSOVA-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Slovenski obveščevalno-varnostni agenciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Slovenski obveščevalno-varnostni agenciji",
+      "shortCode": "ZSOVA-B",
+      "kind": "zakon",
+      "keywords": [
+        "predpisi o plovbi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2575",
+      "gazette": "Uradni list RS 61/06  str. 6644",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-13",
+      "validFrom": "2006-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2575",
+      "versions": [
+        {
+          "id": "ZSOVA-B-original",
+          "shortCode": "ZSOVA-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/06  str. 6644",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOVA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2575",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

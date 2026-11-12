@@ -1,0 +1,99 @@
+{
+  "root": "ZDDOIFI",
+  "path": "laws/ZD/ZDDOIFI",
+  "members": [
+    {
+      "id": "ZAKO5400",
+      "title": "Zakon o davku od dobička od odsvojitve izvedenih finančnih instrumentov (ZDDOIFI)",
+      "shortTitle": "Zakon o davku od dobička od odsvojitve izvedenih finančnih instrumentov (ZDDOIFI)",
+      "shortCode": "ZDDOIFI",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2814",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-06-30",
+      "validFrom": "2008-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2814",
+      "versions": [
+        {
+          "id": "ZAKO5400-original",
+          "shortCode": "ZDDOIFI",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2814",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5400-amend-ZDDOIFI-A",
+          "shortCode": "ZDDOIFI-A",
+          "label": "Sprememba ZDDOIFI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 66/19  str. 7879",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5400"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDOIFI-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku od dobička od odsvojitve izvedenih finančnih instrumentov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku od dobička od odsvojitve izvedenih finančnih instrumentov",
+      "shortCode": "ZDDOIFI-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2926",
+      "gazette": "Uradni list RS 66/19  str. 7879",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2926",
+      "versions": [
+        {
+          "id": "ZDDOIFI-A-original",
+          "shortCode": "ZDDOIFI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7879",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5400"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2926",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

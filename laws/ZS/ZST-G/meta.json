@@ -1,0 +1,84 @@
+{
+  "root": "ZST-G",
+  "path": "laws/ZS/ZST-G",
+  "members": [
+    {
+      "id": "ZAKO976",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodnih taksah (ZST-G)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodnih taksah (ZST-G)",
+      "shortCode": "ZST-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1996-01-2451",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-07-19",
+      "validFrom": "1996-07-19",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2451",
+      "versions": [
+        {
+          "id": "ZAKO976-original",
+          "shortCode": "ZST-G",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-07-19",
+          "effectiveFrom": "1996-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2451",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZST-G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o sodnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o sodnih taksah",
+      "shortCode": "ZST-G",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0811",
+      "gazette": "Uradni list RS 20/98  str. 1285",
+      "issuingBody": null,
+      "adoptedAt": "1998-03-13",
+      "validFrom": "1998-03-13",
+      "validTo": null,
+      "latestPublishedAt": "1998-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0811",
+      "versions": [
+        {
+          "id": "ZST-G-original",
+          "shortCode": "ZST-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/98  str. 1285",
+          "publishedAt": "1998-03-13",
+          "effectiveFrom": "1998-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0811",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

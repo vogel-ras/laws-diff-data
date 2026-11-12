@@ -1,0 +1,136 @@
+{
+  "root": "URED5312",
+  "path": "laws/UR/URED5312",
+  "members": [
+    {
+      "id": "URED5312",
+      "title": "Uredba o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortTitle": "Uredba o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortCode": "URED5312",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3042",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-08",
+      "validFrom": "2025-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3042",
+      "versions": [
+        {
+          "id": "URED5312-original",
+          "shortCode": "URED5312",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-08",
+          "effectiveFrom": "2025-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3042",
+          "proposer": null
+        },
+        {
+          "id": "URED5312-npb-URED5312",
+          "shortCode": "URED5312-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-07-09",
+          "effectiveFrom": "2010-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5312",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7766",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortCode": "URED7766",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-1754",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-05-25",
+      "validFrom": "2018-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2018-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1754",
+      "versions": [
+        {
+          "id": "URED7766-original",
+          "shortCode": "URED7766",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-05-25",
+          "effectiveFrom": "2018-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5312"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1754",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9567",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dokumentih razvojnega načrtovanja in postopkih za pripravo predloga državnega proračuna",
+      "shortCode": "URED9567",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0234",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-01-30",
+      "validFrom": "2026-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0234",
+      "versions": [
+        {
+          "id": "URED9567-original",
+          "shortCode": "URED9567",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-30",
+          "effectiveFrom": "2026-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5312"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0234",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

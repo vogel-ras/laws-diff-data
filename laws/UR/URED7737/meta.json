@@ -1,0 +1,82 @@
+{
+  "root": "URED7737",
+  "path": "laws/UR/URED7737",
+  "members": [
+    {
+      "id": "URED7737",
+      "title": "Uredba o dejanskih rabah zemljišč",
+      "shortTitle": "Uredba o dejanskih rabah zemljišč",
+      "shortCode": "URED7737",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-2202",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-06-22",
+      "validFrom": "2018-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2202",
+      "versions": [
+        {
+          "id": "URED7737-original",
+          "shortCode": "URED7737",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-22",
+          "effectiveFrom": "2018-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2202",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7930",
+      "title": "Uredba o spremembah Uredbe o dejanskih rabah zemljišč",
+      "shortTitle": "Uredba o spremembah Uredbe o dejanskih rabah zemljišč",
+      "shortCode": "URED7930",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-1621",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-05-31",
+      "validFrom": "2019-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1621",
+      "versions": [
+        {
+          "id": "URED7930-original",
+          "shortCode": "URED7930",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-31",
+          "effectiveFrom": "2019-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7737"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1621",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

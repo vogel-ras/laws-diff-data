@@ -1,0 +1,82 @@
+{
+  "root": "ODLO2049",
+  "path": "ordinances/OD/ODLO2049",
+  "members": [
+    {
+      "id": "ODLO2049",
+      "title": "Odlok o začasni splošni prepovedi gibanja in zbiranja ljudi na javnih krajih, površinah in mestih v Republiki Sloveniji ter prepovedi gibanja izven občin",
+      "shortTitle": "Odlok o začasni splošni prepovedi gibanja in zbiranja ljudi na javnih krajih, površinah in mestih v Republiki Sloveniji ter prepovedi gibanja izven občin",
+      "shortCode": "ODLO2049",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-0793",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-04-15",
+      "validFrom": "2020-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0793",
+      "versions": [
+        {
+          "id": "ODLO2049-original",
+          "shortCode": "ODLO2049",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-04-15",
+          "effectiveFrom": "2020-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0793",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2078",
+      "title": "Odlok o spremembi Odloka o začasni splošni prepovedi gibanja in zbiranja ljudi na javnih krajih, površinah in mestih v Republiki Sloveniji ter prepovedi gibanja izven občin",
+      "shortTitle": "Odlok o spremembi Odloka o začasni splošni prepovedi gibanja in zbiranja ljudi na javnih krajih, površinah in mestih v Republiki Sloveniji ter prepovedi gibanja izven občin",
+      "shortCode": "ODLO2078",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-0869",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-04-24",
+      "validFrom": "2020-04-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0869",
+      "versions": [
+        {
+          "id": "ODLO2078-original",
+          "shortCode": "ODLO2078",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-04-24",
+          "effectiveFrom": "2020-04-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2049"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0869",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE3166",
+  "path": "laws/SK/SKLE3166",
+  "members": [
+    {
+      "id": "SKLE3166",
+      "title": "Sklep o vzpostavitvi in vodenju registra transakcijskih računov",
+      "shortTitle": "Sklep o vzpostavitvi in vodenju registra transakcijskih računov",
+      "shortCode": "SKLE3166",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-2795",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2002-06-28",
+      "validFrom": "2002-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2795",
+      "versions": [
+        {
+          "id": "SKLE3166-original",
+          "shortCode": "SKLE3166",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-28",
+          "effectiveFrom": "2002-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2795",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE3235",
+      "title": "Sklep o spremembi sklepa o vzpostavitvi in vodenju registra transakcijskih računov",
+      "shortTitle": "Sklep o spremembi sklepa o vzpostavitvi in vodenju registra transakcijskih računov",
+      "shortCode": "SKLE3235",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-3886",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2002-09-11",
+      "validFrom": "2002-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3886",
+      "versions": [
+        {
+          "id": "SKLE3235-original",
+          "shortCode": "SKLE3235",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-11",
+          "effectiveFrom": "2002-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3166"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3886",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

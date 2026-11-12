@@ -1,0 +1,82 @@
+{
+  "root": "URED492",
+  "path": "laws/UR/URED492",
+  "members": [
+    {
+      "id": "URED492",
+      "title": "Uredba o pristojbinah za uporabo radijskih frekvenc",
+      "shortTitle": "Uredba o pristojbinah za uporabo radijskih frekvenc",
+      "shortCode": "URED492",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-4695",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-28",
+      "validFrom": "1998-12-28",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4695",
+      "versions": [
+        {
+          "id": "URED492-original",
+          "shortCode": "URED492",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-28",
+          "effectiveFrom": "1998-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4695",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED873",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o pristojbinah za uporabo radijskih frekvenc",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o pristojbinah za uporabo radijskih frekvenc",
+      "shortCode": "URED873",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-4354",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-11-12",
+      "validFrom": "1999-11-12",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4354",
+      "versions": [
+        {
+          "id": "URED873-original",
+          "shortCode": "URED873",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-11-12",
+          "effectiveFrom": "1999-11-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED492"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4354",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED3181",
+  "path": "laws/UR/URED3181",
+  "members": [
+    {
+      "id": "URED3181",
+      "title": "Uredba o določitvi dokumentacije in ureditvi drugih vprašanj v zvezi z izdajo soglasja za pridobitev oziroma odsvojitev delnic in za naložbe v kapital pravnih oseb",
+      "shortTitle": "Uredba o določitvi dokumentacije in ureditvi drugih vprašanj v zvezi z izdajo soglasja za pridobitev oziroma odsvojitev delnic in za naložbe v kapital pravnih oseb",
+      "shortCode": "URED3181",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-5479",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-12-19",
+      "validFrom": "2003-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5479",
+      "versions": [
+        {
+          "id": "URED3181-original",
+          "shortCode": "URED3181",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-19",
+          "effectiveFrom": "2003-12-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5479",
+          "proposer": null
+        },
+        {
+          "id": "URED3181-npb-URED3181",
+          "shortCode": "URED3181-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-12-19",
+          "effectiveFrom": "2003-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3181",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6351",
+      "title": "Uredba o spremembah Uredbe o določitvi dokumentacije in ureditvi drugih vprašanj v zvezi z izdajo soglasja za pridobitev oziroma odsvojitev delnic in za naložbe v kapital pravnih oseb",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi dokumentacije in ureditvi drugih vprašanj v zvezi z izdajo soglasja za pridobitev oziroma odsvojitev delnic in za naložbe v kapital pravnih oseb",
+      "shortCode": "URED6351",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-4360",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4360",
+      "versions": [
+        {
+          "id": "URED6351-original",
+          "shortCode": "URED6351",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3181"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4360",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

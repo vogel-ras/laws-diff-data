@@ -1,0 +1,107 @@
+{
+  "root": "BPOMZP",
+  "path": "laws/BP/BPOMZP",
+  "members": [
+    {
+      "id": "BPOMZP",
+      "title": "Zakon o ratifikaciji Sporazuma med Republiko Slovenijo in Republiko Portugalsko o zračnem prometu",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma med Republiko Slovenijo in Republiko Portugalsko o zračnem prometu",
+      "shortCode": "BPOMZP",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Portugalska",
+        "zračni promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-02-0026",
+      "gazette": "Uradni list RS MP 7/97  str. 145",
+      "issuingBody": null,
+      "adoptedAt": "1997-05-09",
+      "validFrom": "1997-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-02-0026",
+      "versions": [
+        {
+          "id": "BPOMZP-original",
+          "shortCode": "BPOMZP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 7/97  str. 145",
+          "publishedAt": "1997-05-09",
+          "effectiveFrom": "1997-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-02-0026",
+          "proposer": null
+        },
+        {
+          "id": "BPOMZP-amend-BPOMZP-A",
+          "shortCode": "BPOMZP-A",
+          "label": "Sprememba BPOMZP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 7/2000  str. 192",
+          "publishedAt": "2000-03-24",
+          "effectiveFrom": "2000-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BPOMZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0036",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BPOMZP-A",
+      "title": "Zakon o spremembi zakona o ratifikaciji Sporazuma med Republiko Slovenijo in Republiko Portugalsko o zračnem prometu",
+      "shortTitle": "Zakon o spremembi zakona o ratifikaciji Sporazuma med Republiko Slovenijo in Republiko Portugalsko o zračnem prometu",
+      "shortCode": "BPOMZP-A",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Portugalska",
+        "zračni promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-02-0036",
+      "gazette": "Uradni list RS MP 7/2000  str. 192",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-24",
+      "validFrom": "2000-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0036",
+      "versions": [
+        {
+          "id": "BPOMZP-A-original",
+          "shortCode": "BPOMZP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 7/2000  str. 192",
+          "publishedAt": "2000-03-24",
+          "effectiveFrom": "2000-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BPOMZP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0036",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

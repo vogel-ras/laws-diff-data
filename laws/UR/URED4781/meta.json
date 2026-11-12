@@ -1,0 +1,82 @@
+{
+  "root": "URED4781",
+  "path": "laws/UR/URED4781",
+  "members": [
+    {
+      "id": "URED4781",
+      "title": "Uredba o delovni uspešnosti iz naslova povečanega obsega dela za javne uslužbence",
+      "shortTitle": "Uredba o delovni uspešnosti iz naslova povečanega obsega dela za javne uslužbence",
+      "shortCode": "URED4781",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2253",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-05-30",
+      "validFrom": "2008-05-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2253",
+      "versions": [
+        {
+          "id": "URED4781-original",
+          "shortCode": "URED4781",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-30",
+          "effectiveFrom": "2008-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2253",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7634",
+      "title": "Uredba o spremembah Uredbe o delovni uspešnosti iz naslova povečanega obsega dela za javne uslužbence",
+      "shortTitle": "Uredba o spremembah Uredbe o delovni uspešnosti iz naslova povečanega obsega dela za javne uslužbence",
+      "shortCode": "URED7634",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3100",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-11-27",
+      "validFrom": "2020-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3100",
+      "versions": [
+        {
+          "id": "URED7634-original",
+          "shortCode": "URED7634",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-27",
+          "effectiveFrom": "2020-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4781"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3100",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED3979",
+  "path": "laws/UR/URED3979",
+  "members": [
+    {
+      "id": "URED3979",
+      "title": "Uredba o izvajanju inšpekcijskega nadzora na področju varovanja tajnih podatkov in vsebini posebnega dela strokovnega izpita za inšpektorja",
+      "shortTitle": "Uredba o izvajanju inšpekcijskega nadzora na področju varovanja tajnih podatkov in vsebini posebnega dela strokovnega izpita za inšpektorja",
+      "shortCode": "URED3979",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4065",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-09-08",
+      "validFrom": "2006-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4065",
+      "versions": [
+        {
+          "id": "URED3979-original",
+          "shortCode": "URED3979",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-08",
+          "effectiveFrom": "2006-09-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4065",
+          "proposer": null
+        },
+        {
+          "id": "URED3979-npb-URED3979",
+          "shortCode": "URED3979-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-09-08",
+          "effectiveFrom": "2006-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3979",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7432",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju inšpekcijskega nadzora na področju varovanja tajnih podatkov in vsebini posebnega dela strokovnega izpita za inšpektorja",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju inšpekcijskega nadzora na področju varovanja tajnih podatkov in vsebini posebnega dela strokovnega izpita za inšpektorja",
+      "shortCode": "URED7432",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-3438",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-12-16",
+      "validFrom": "2016-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3438",
+      "versions": [
+        {
+          "id": "URED7432-original",
+          "shortCode": "URED7432",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-16",
+          "effectiveFrom": "2016-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3979"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3438",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

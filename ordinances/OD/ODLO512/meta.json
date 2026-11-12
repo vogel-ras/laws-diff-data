@@ -1,0 +1,82 @@
+{
+  "root": "ODLO512",
+  "path": "ordinances/OD/ODLO512",
+  "members": [
+    {
+      "id": "ODLO512",
+      "title": "Odlok o razpisu prvih volitev v svet Kmetijsko gozdarske zbornice Slovenije",
+      "shortTitle": "Odlok o razpisu prvih volitev v svet Kmetijsko gozdarske zbornice Slovenije",
+      "shortCode": "ODLO512",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-0530",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-02-04",
+      "validFrom": "2000-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0530",
+      "versions": [
+        {
+          "id": "ODLO512-original",
+          "shortCode": "ODLO512",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-04",
+          "effectiveFrom": "2000-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0530",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO525",
+      "title": "Odlok o spremembi odloka o razpisu prvih volitev v svet Kmetijsko gozdarske zbornice Slovenije",
+      "shortTitle": "Odlok o spremembi odloka o razpisu prvih volitev v svet Kmetijsko gozdarske zbornice Slovenije",
+      "shortCode": "ODLO525",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-0694",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-02-18",
+      "validFrom": "2000-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0694",
+      "versions": [
+        {
+          "id": "ODLO525-original",
+          "shortCode": "ODLO525",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-18",
+          "effectiveFrom": "2000-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO512"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0694",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

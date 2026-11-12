@@ -1,0 +1,101 @@
+{
+  "root": "ZZZat",
+  "path": "laws/ZZ/ZZZat",
+  "members": [
+    {
+      "id": "ZZZat",
+      "title": "Zakon o začasnem zatočišču",
+      "shortTitle": "Zakon o začasnem zatočišču",
+      "shortCode": "ZZZat",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1139",
+      "gazette": "Uradni list RS 20/97  str. 1618",
+      "issuingBody": null,
+      "adoptedAt": "1997-04-10",
+      "validFrom": "1997-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1139",
+      "versions": [
+        {
+          "id": "ZZZat-original",
+          "shortCode": "ZZZat",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/97  str. 1618",
+          "publishedAt": "1997-04-10",
+          "effectiveFrom": "1997-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1139",
+          "proposer": null
+        },
+        {
+          "id": "ZZZat-amend-ZZZat-A",
+          "shortCode": "ZZZat-A",
+          "label": "Sprememba ZZZat-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/2002  str. 7699",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3241",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZat-A",
+      "title": "Zakon o dopolnitvah zakona o začasnem zatočišču",
+      "shortTitle": "Zakon o dopolnitvah zakona o začasnem zatočišču",
+      "shortCode": "ZZZat-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3241",
+      "gazette": "Uradni list RS 67/2002  str. 7699",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3241",
+      "versions": [
+        {
+          "id": "ZZZat-A-original",
+          "shortCode": "ZZZat-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7699",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3241",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

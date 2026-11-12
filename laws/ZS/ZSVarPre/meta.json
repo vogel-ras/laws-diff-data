@@ -1,0 +1,390 @@
+{
+  "root": "ZSVarPre",
+  "path": "laws/ZS/ZSVarPre",
+  "members": [
+    {
+      "id": "ZAKO7750",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih (ZSVarPre-F)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih (ZSVarPre-F)",
+      "shortCode": "ZSVarPre-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1406",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-27",
+      "validFrom": "2018-04-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1406",
+      "versions": [
+        {
+          "id": "ZAKO7750-original",
+          "shortCode": "ZSVarPre-F",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1406",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre",
+      "title": "Zakon o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre",
+      "kind": "zakon",
+      "keywords": [
+        "pomoč socialno ogroženim",
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3350",
+      "gazette": "Uradni list RS 61/10  str. 9195",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-26",
+      "validFrom": "2010-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3350",
+      "versions": [
+        {
+          "id": "ZSVarPre-original",
+          "shortCode": "ZSVarPre",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/10  str. 9195",
+          "publishedAt": "2010-07-26",
+          "effectiveFrom": "2010-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3350",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZSVarPre-B",
+          "shortCode": "ZSVarPre-B",
+          "label": "Sprememba ZSVarPre-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 14/13  str. 1861",
+          "publishedAt": "2013-02-15",
+          "effectiveFrom": "2013-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0371",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZSVarPre-C",
+          "shortCode": "ZSVarPre-C",
+          "label": "Sprememba ZSVarPre-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 99/13  str. 10707",
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3549",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZSVarPre-D",
+          "shortCode": "ZSVarPre-D",
+          "label": "Sprememba ZSVarPre-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 90/15  str. 10113",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3501",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZSVarPre-E",
+          "shortCode": "ZSVarPre-E",
+          "label": "Sprememba ZSVarPre-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 88/16  str. 13361",
+          "publishedAt": "2016-12-30",
+          "effectiveFrom": "2016-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3926",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZAKO7750",
+          "shortCode": "ZSVarPre-F",
+          "label": "Sprememba ZSVarPre-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1406",
+          "proposer": null
+        },
+        {
+          "id": "ZSVarPre-amend-ZSVarPre-G",
+          "shortCode": "ZSVarPre-G",
+          "label": "Sprememba ZSVarPre-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 73/18  str. 11261",
+          "publishedAt": "2018-11-20",
+          "effectiveFrom": "2018-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3573",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre-B",
+      "title": "Zakon o spremembi Zakona o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o spremembi Zakona o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre-B",
+      "kind": "zakon",
+      "keywords": [
+        "socialni transferji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0371",
+      "gazette": "Uradni list RS 14/13  str. 1861",
+      "issuingBody": null,
+      "adoptedAt": "2013-02-15",
+      "validFrom": "2013-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2013-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0371",
+      "versions": [
+        {
+          "id": "ZSVarPre-B-original",
+          "shortCode": "ZSVarPre-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/13  str. 1861",
+          "publishedAt": "2013-02-15",
+          "effectiveFrom": "2013-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0371",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre-C",
+      "kind": "zakon",
+      "keywords": [
+        "socialna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3549",
+      "gazette": "Uradni list RS 99/13  str. 10707",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-03",
+      "validFrom": "2013-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3549",
+      "versions": [
+        {
+          "id": "ZSVarPre-C-original",
+          "shortCode": "ZSVarPre-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/13  str. 10707",
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3549",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre-D",
+      "title": "Zakon o spremembah Zakona o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o spremembah Zakona o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre-D",
+      "kind": "zakon",
+      "keywords": [
+        "socialna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3501",
+      "gazette": "Uradni list RS 90/15  str. 10113",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-27",
+      "validFrom": "2015-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3501",
+      "versions": [
+        {
+          "id": "ZSVarPre-D-original",
+          "shortCode": "ZSVarPre-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/15  str. 10113",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3501",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre-E",
+      "kind": "zakon",
+      "keywords": [
+        "socialni transferji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-3926",
+      "gazette": "Uradni list RS 88/16  str. 13361",
+      "issuingBody": null,
+      "adoptedAt": "2016-12-30",
+      "validFrom": "2016-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3926",
+      "versions": [
+        {
+          "id": "ZSVarPre-E-original",
+          "shortCode": "ZSVarPre-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 88/16  str. 13361",
+          "publishedAt": "2016-12-30",
+          "effectiveFrom": "2016-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSVarPre-G",
+      "title": "Zakon o spremembi Zakona o socialno varstvenih prejemkih",
+      "shortTitle": "Zakon o spremembi Zakona o socialno varstvenih prejemkih",
+      "shortCode": "ZSVarPre-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-3573",
+      "gazette": "Uradni list RS 73/18  str. 11261",
+      "issuingBody": null,
+      "adoptedAt": "2018-11-20",
+      "validFrom": "2018-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3573",
+      "versions": [
+        {
+          "id": "ZSVarPre-G-original",
+          "shortCode": "ZSVarPre-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/18  str. 11261",
+          "publishedAt": "2018-11-20",
+          "effectiveFrom": "2018-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSVarPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3573",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

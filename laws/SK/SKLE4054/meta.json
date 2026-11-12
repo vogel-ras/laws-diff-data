@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4054",
+  "path": "laws/SK/SKLE4054",
+  "members": [
+    {
+      "id": "SKLE4054",
+      "title": "Sklep o podrobnejši vsebini statuta investicijske družbe",
+      "shortTitle": "Sklep o podrobnejši vsebini statuta investicijske družbe",
+      "shortCode": "SKLE4054",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3821",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-08-14",
+      "validFrom": "2003-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3821",
+      "versions": [
+        {
+          "id": "SKLE4054-original",
+          "shortCode": "SKLE4054",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-14",
+          "effectiveFrom": "2003-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3821",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6536",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini statuta investicijske družbe",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejši vsebini statuta investicijske družbe",
+      "shortCode": "SKLE6536",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-3008",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2006-07-06",
+      "validFrom": "2006-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3008",
+      "versions": [
+        {
+          "id": "SKLE6536-original",
+          "shortCode": "SKLE6536",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-06",
+          "effectiveFrom": "2006-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4054"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3008",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

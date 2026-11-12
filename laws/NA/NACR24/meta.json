@@ -1,0 +1,58 @@
+{
+  "root": "NACR24",
+  "path": "laws/NA/NACR24",
+  "members": [
+    {
+      "id": "NACR24",
+      "title": "Uredba o lokacijskem načrtu za avtocesto na odseku Hrastje-Lešnica",
+      "shortTitle": "Uredba o lokacijskem načrtu za avtocesto na odseku Hrastje-Lešnica",
+      "shortCode": "NACR24",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2003-01-0637",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-02-17",
+      "validFrom": "2003-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0637",
+      "versions": [
+        {
+          "id": "NACR24-original",
+          "shortCode": "NACR24",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-17",
+          "effectiveFrom": "2003-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0637",
+          "proposer": null
+        },
+        {
+          "id": "NACR24-npb-NACR24",
+          "shortCode": "NACR24-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-02-17",
+          "effectiveFrom": "2003-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NACR24",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

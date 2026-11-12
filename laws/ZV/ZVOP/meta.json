@@ -1,0 +1,241 @@
+{
+  "root": "ZVOP",
+  "path": "laws/ZV/ZVOP",
+  "members": [
+    {
+      "id": "ZVOP",
+      "title": "Zakon o varstvu osebnih podatkov",
+      "shortTitle": "Zakon o varstvu osebnih podatkov",
+      "shortCode": "ZVOP",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "osebni podatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2792",
+      "gazette": "Uradni list RS 59/99  str. 7534",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-23",
+      "validFrom": "1999-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2792",
+      "versions": [
+        {
+          "id": "ZVOP-original",
+          "shortCode": "ZVOP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/99  str. 7534",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2792",
+          "proposer": null
+        },
+        {
+          "id": "ZVOP-amend-ZVOP-A",
+          "shortCode": "ZVOP-A",
+          "label": "Sprememba ZVOP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/2001  str. 5805",
+          "publishedAt": "2001-07-09",
+          "effectiveFrom": "2001-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3013",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVOP-1",
+      "title": "Zakon o varstvu osebnih podatkov",
+      "shortTitle": "Zakon o varstvu osebnih podatkov",
+      "shortCode": "ZVOP-1",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "osebni podatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3836",
+      "gazette": "Uradni list RS 86/04  str. 10389",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3836",
+      "versions": [
+        {
+          "id": "ZVOP-1-original",
+          "shortCode": "ZVOP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10389",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3836",
+          "proposer": null
+        },
+        {
+          "id": "ZVOP-1-amend-ZVOP-1A",
+          "shortCode": "ZVOP-1A",
+          "label": "Sprememba ZVOP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/07  str. 9523",
+          "publishedAt": "2007-07-27",
+          "effectiveFrom": "2007-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3701",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVOP-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu osebnih podatkov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu osebnih podatkov",
+      "shortCode": "ZVOP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "osebni podatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3701",
+      "gazette": "Uradni list RS 67/07  str. 9523",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-27",
+      "validFrom": "2007-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3701",
+      "versions": [
+        {
+          "id": "ZVOP-1A-original",
+          "shortCode": "ZVOP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/07  str. 9523",
+          "publishedAt": "2007-07-27",
+          "effectiveFrom": "2007-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3701",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVOP-2",
+      "title": "Zakon o varstvu osebnih podatkov",
+      "shortTitle": "Zakon o varstvu osebnih podatkov",
+      "shortCode": "ZVOP-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4187",
+      "gazette": "Uradni list RS 163/22  str. 13676",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-27",
+      "validFrom": "2022-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4187",
+      "versions": [
+        {
+          "id": "ZVOP-2-original",
+          "shortCode": "ZVOP-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 163/22  str. 13676",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4187",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVOP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu osebnih podatkov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu osebnih podatkov",
+      "shortCode": "ZVOP-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "osebni podatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3013",
+      "gazette": "Uradni list RS 57/2001  str. 5805",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-09",
+      "validFrom": "2001-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3013",
+      "versions": [
+        {
+          "id": "ZVOP-A-original",
+          "shortCode": "ZVOP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/2001  str. 5805",
+          "publishedAt": "2001-07-09",
+          "effectiveFrom": "2001-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3013",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

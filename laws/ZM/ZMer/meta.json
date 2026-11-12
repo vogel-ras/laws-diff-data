@@ -1,0 +1,142 @@
+{
+  "root": "ZMer",
+  "path": "laws/ZM/ZMer",
+  "members": [
+    {
+      "id": "ZMer",
+      "title": "Zakon o meroslovju",
+      "shortTitle": "Zakon o meroslovju",
+      "shortCode": "ZMer",
+      "kind": "zakon",
+      "keywords": [
+        "meroslovje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0004",
+      "gazette": "Uradni list RS 1/95  str. 33",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0004",
+      "versions": [
+        {
+          "id": "ZMer-original",
+          "shortCode": "ZMer",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 33",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0004",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMer-1",
+      "title": "Zakon o meroslovju",
+      "shortTitle": "Zakon o meroslovju",
+      "shortCode": "ZMer-1",
+      "kind": "zakon",
+      "keywords": [
+        "meroslovje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0974",
+      "gazette": "Uradni list RS 22/2000  str. 3133",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-10",
+      "validFrom": "2000-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0974",
+      "versions": [
+        {
+          "id": "ZMer-1-original",
+          "shortCode": "ZMer-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/2000  str. 3133",
+          "publishedAt": "2000-03-10",
+          "effectiveFrom": "2000-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0974",
+          "proposer": null
+        },
+        {
+          "id": "ZMer-1-amend-ZMer-1A",
+          "shortCode": "ZMer-1A",
+          "label": "Sprememba ZMer-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10442",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMer-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3842",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMer-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o meroslovju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o meroslovju",
+      "shortCode": "ZMer-1A",
+      "kind": "zakon",
+      "keywords": [
+        "meroslovje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3842",
+      "gazette": "Uradni list RS 86/04  str. 10442",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3842",
+      "versions": [
+        {
+          "id": "ZMer-1A-original",
+          "shortCode": "ZMer-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10442",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMer-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3842",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

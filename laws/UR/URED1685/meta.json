@@ -1,0 +1,58 @@
+{
+  "root": "URED1685",
+  "path": "laws/UR/URED1685",
+  "members": [
+    {
+      "id": "URED1685",
+      "title": "Uredba o lokacijskem načrtu za smer avtoceste Karavanke-Obrežje, na odseku Bič-Korenitka",
+      "shortTitle": "Uredba o lokacijskem načrtu za smer avtoceste Karavanke-Obrežje, na odseku Bič-Korenitka",
+      "shortCode": "URED1685",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2933",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-03",
+      "validFrom": "2001-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2933",
+      "versions": [
+        {
+          "id": "URED1685-original",
+          "shortCode": "URED1685",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-03",
+          "effectiveFrom": "2001-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2933",
+          "proposer": null
+        },
+        {
+          "id": "URED1685-npb-URED1685",
+          "shortCode": "URED1685-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-07-03",
+          "effectiveFrom": "2001-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1685",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

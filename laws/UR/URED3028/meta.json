@@ -1,0 +1,97 @@
+{
+  "root": "URED3028",
+  "path": "laws/UR/URED3028",
+  "members": [
+    {
+      "id": "URED3028",
+      "title": "Uredba o določitvi ureditvenega območja mejnega prehoda za obmejni promet Brezovica",
+      "shortTitle": "Uredba o določitvi ureditvenega območja mejnega prehoda za obmejni promet Brezovica",
+      "shortCode": "URED3028",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4109",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-09-15",
+      "validFrom": "2003-09-15",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4109",
+      "versions": [
+        {
+          "id": "URED3028-original",
+          "shortCode": "URED3028",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-15",
+          "effectiveFrom": "2003-09-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4109",
+          "proposer": null
+        },
+        {
+          "id": "URED3028-npb-URED3028",
+          "shortCode": "URED3028-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-15",
+          "effectiveFrom": "2003-09-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3028",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3366",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o določitvi ureditvenega območja mejnega prehoda za obmejni promet Brezovica",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o določitvi ureditvenega območja mejnega prehoda za obmejni promet Brezovica",
+      "shortCode": "URED3366",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1628",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-16",
+      "validFrom": "2004-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1628",
+      "versions": [
+        {
+          "id": "URED3366-original",
+          "shortCode": "URED3366",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-16",
+          "effectiveFrom": "2004-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3028"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1628",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

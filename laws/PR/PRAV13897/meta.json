@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13897",
+  "path": "laws/PR/PRAV13897",
+  "members": [
+    {
+      "id": "PRAV13897",
+      "title": "Pravilnik o sestavi, pristojnostih in načinu dela Komisije Republike Slovenije za medicinsko etiko",
+      "shortTitle": "Pravilnik o sestavi, pristojnostih in načinu dela Komisije Republike Slovenije za medicinsko etiko",
+      "shortCode": "PRAV13897",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-12",
+      "validFrom": "2025-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0342",
+      "versions": [
+        {
+          "id": "PRAV13897-original",
+          "shortCode": "PRAV13897",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-12",
+          "effectiveFrom": "2025-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0342",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13897-npb-PRAV13897",
+          "shortCode": "PRAV13897-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-02-25",
+          "effectiveFrom": "2020-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13897",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15542",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o sestavi, pristojnostih in načinu dela Komisije Republike Slovenije za medicinsko etiko",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o sestavi, pristojnostih in načinu dela Komisije Republike Slovenije za medicinsko etiko",
+      "shortCode": "PRAV15542",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0540",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2025-03-12",
+      "validFrom": "2025-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0540",
+      "versions": [
+        {
+          "id": "PRAV15542-original",
+          "shortCode": "PRAV15542",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-12",
+          "effectiveFrom": "2025-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13897"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0540",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

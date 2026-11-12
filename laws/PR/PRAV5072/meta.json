@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5072",
+  "path": "laws/PR/PRAV5072",
+  "members": [
+    {
+      "id": "PRAV5072",
+      "title": "Pravilnik o obrazcu spričevala o poklicni maturi",
+      "shortTitle": "Pravilnik o obrazcu spričevala o poklicni maturi",
+      "shortCode": "PRAV5072",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2946",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2003-06-20",
+      "validFrom": "2003-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2946",
+      "versions": [
+        {
+          "id": "PRAV5072-original",
+          "shortCode": "PRAV5072",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-20",
+          "effectiveFrom": "2003-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2946",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5973",
+      "title": "Pravilnik o spremembi Pravilnika o obrazcu spričevala o poklicni maturi",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o obrazcu spričevala o poklicni maturi",
+      "shortCode": "PRAV5973",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3025",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2004-06-18",
+      "validFrom": "2004-06-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3025",
+      "versions": [
+        {
+          "id": "PRAV5973-original",
+          "shortCode": "PRAV5973",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-18",
+          "effectiveFrom": "2004-06-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5072"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3025",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

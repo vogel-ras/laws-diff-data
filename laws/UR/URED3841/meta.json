@@ -1,0 +1,82 @@
+{
+  "root": "URED3841",
+  "path": "laws/UR/URED3841",
+  "members": [
+    {
+      "id": "URED3841",
+      "title": "Uredba o koncesiji za gojenje školjk na IX. in XI. parceli gojitvenega območja Sečovlje",
+      "shortTitle": "Uredba o koncesiji za gojenje školjk na IX. in XI. parceli gojitvenega območja Sečovlje",
+      "shortCode": "URED3841",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3000",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-18",
+      "validFrom": "2005-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3000",
+      "versions": [
+        {
+          "id": "URED3841-original",
+          "shortCode": "URED3841",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-18",
+          "effectiveFrom": "2005-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3000",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4805",
+      "title": "Uredba o spremembah Uredbe o koncesiji za gojenje školjk na IX. in XI. parceli gojitvenega območja Sečovlje",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za gojenje školjk na IX. in XI. parceli gojitvenega območja Sečovlje",
+      "shortCode": "URED4805",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2634",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-06-20",
+      "validFrom": "2008-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2634",
+      "versions": [
+        {
+          "id": "URED4805-original",
+          "shortCode": "URED4805",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-20",
+          "effectiveFrom": "2008-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3841"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2634",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

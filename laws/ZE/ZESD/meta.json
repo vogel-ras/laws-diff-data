@@ -1,0 +1,142 @@
+{
+  "root": "ZESD",
+  "path": "laws/ZE/ZESD",
+  "members": [
+    {
+      "id": "ZAKO6161",
+      "title": "Zakon o evropskih svetih delavcev (ZESD-1)",
+      "shortTitle": "Zakon o evropskih svetih delavcev (ZESD-1)",
+      "shortCode": "ZESD-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2352",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-06-24",
+      "validFrom": "2011-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2352",
+      "versions": [
+        {
+          "id": "ZAKO6161-original",
+          "shortCode": "ZESD-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-24",
+          "effectiveFrom": "2011-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2352",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZESD",
+      "title": "Zakon o evropskih svetih delavcev",
+      "shortTitle": "Zakon o evropskih svetih delavcev",
+      "shortCode": "ZESD",
+      "kind": "zakon",
+      "keywords": [
+        "Evropski svet delavcev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2836",
+      "gazette": "Uradni list RS 59/2002  str. 6099",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2836",
+      "versions": [
+        {
+          "id": "ZESD-original",
+          "shortCode": "ZESD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6099",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2836",
+          "proposer": null
+        },
+        {
+          "id": "ZESD-amend-ZESD-A",
+          "shortCode": "ZESD-A",
+          "label": "Sprememba ZESD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 103/07  str. 13915",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZESD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZESD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o evropskih svetih delavcev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o evropskih svetih delavcev",
+      "shortCode": "ZESD-A",
+      "kind": "zakon",
+      "keywords": [
+        "Evropski svet delavcev",
+        "obveščanje delojemalca",
+        "pridobitev mnenja delavcev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5132",
+      "gazette": "Uradni list RS 103/07  str. 13915",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-13",
+      "validFrom": "2007-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5132",
+      "versions": [
+        {
+          "id": "ZESD-A-original",
+          "shortCode": "ZESD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 103/07  str. 13915",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZESD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5132",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

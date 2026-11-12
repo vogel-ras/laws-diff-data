@@ -1,0 +1,143 @@
+{
+  "root": "ZZNSGC",
+  "path": "laws/ZZ/ZZNSGC",
+  "members": [
+    {
+      "id": "ZAKO285",
+      "title": "Zakon o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji (ZZNSGC)",
+      "shortTitle": "Zakon o zagotovitvi namenskih sredstev za gradnjo avtocestnega omrežja v Republiki Sloveniji (ZZNSGC)",
+      "shortCode": "ZZNSGC",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1993-01-1801",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-08-06",
+      "validFrom": "1993-08-06",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1801",
+      "versions": [
+        {
+          "id": "ZAKO285-original",
+          "shortCode": "ZZNSGC",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1801",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZNSGC",
+      "title": "Zakon o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji",
+      "shortTitle": "Zakon o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji",
+      "shortCode": "ZZNSGC",
+      "kind": "zakon",
+      "keywords": [
+        "cestno omrežje",
+        "avtocesta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2600",
+      "gazette": "Uradni list RS 57/98  str. 4133",
+      "issuingBody": null,
+      "adoptedAt": "1998-08-14",
+      "validFrom": "1998-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2600",
+      "versions": [
+        {
+          "id": "ZZNSGC-original",
+          "shortCode": "ZZNSGC",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/98  str. 4133",
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2600",
+          "proposer": null
+        },
+        {
+          "id": "ZZNSGC-amend-ZZNSGC-A",
+          "shortCode": "ZZNSGC-A",
+          "label": "Sprememba ZZNSGC-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 18/2002  str. 1347",
+          "publishedAt": "2002-02-28",
+          "effectiveFrom": "2002-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZNSGC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0719",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZNSGC-A",
+      "title": "Zakon o spremembah zakona o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji",
+      "shortTitle": "Zakon o spremembah zakona o zagotovitvi namenskih sredstev za graditev državnih cest, določenih v nacionalnem programu izgradnje avtocest v Republiki Sloveniji",
+      "shortCode": "ZZNSGC-A",
+      "kind": "zakon",
+      "keywords": [
+        "avtocesta",
+        "financiranje",
+        "nacionalni program"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0719",
+      "gazette": "Uradni list RS 18/2002  str. 1347",
+      "issuingBody": null,
+      "adoptedAt": "2002-02-28",
+      "validFrom": "2002-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0719",
+      "versions": [
+        {
+          "id": "ZZNSGC-A-original",
+          "shortCode": "ZZNSGC-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/2002  str. 1347",
+          "publishedAt": "2002-02-28",
+          "effectiveFrom": "2002-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZNSGC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0719",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

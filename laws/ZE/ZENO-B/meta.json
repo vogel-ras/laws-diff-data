@@ -1,0 +1,47 @@
+{
+  "root": "ZENO-B",
+  "path": "laws/ZE/ZENO-B",
+  "members": [
+    {
+      "id": "ZENO-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o evidenci nastanitve občanov in o registru prebivalstva",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o evidenci nastanitve občanov in o registru prebivalstva",
+      "shortCode": "ZENO-B",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva",
+        "prebivališče",
+        "stalno prebivališče"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0463",
+      "gazette": "Uradni list RS 11/91  str. 419",
+      "issuingBody": null,
+      "adoptedAt": "1991-08-30",
+      "validFrom": "1991-08-30",
+      "validTo": null,
+      "latestPublishedAt": "1991-08-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0463",
+      "versions": [
+        {
+          "id": "ZENO-B-original",
+          "shortCode": "ZENO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/91  str. 419",
+          "publishedAt": "1991-08-30",
+          "effectiveFrom": "1991-08-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0463",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

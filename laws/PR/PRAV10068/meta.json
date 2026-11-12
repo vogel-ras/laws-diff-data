@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10068",
+  "path": "laws/PR/PRAV10068",
+  "members": [
+    {
+      "id": "PRAV10068",
+      "title": "Pravilnik o ocenjevanju uspešnosti javnih uslužbencev v Ministrstvu za zunanje zadeve",
+      "shortTitle": "Pravilnik o ocenjevanju uspešnosti javnih uslužbencev v Ministrstvu za zunanje zadeve",
+      "shortCode": "PRAV10068",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0552",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-02-25",
+      "validFrom": "2011-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0552",
+      "versions": [
+        {
+          "id": "PRAV10068-original",
+          "shortCode": "PRAV10068",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-02-25",
+          "effectiveFrom": "2011-02-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0552",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10068-npb-PRAV10068",
+          "shortCode": "PRAV10068-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-02-25",
+          "effectiveFrom": "2011-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10068",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13733",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o ocenjevanju uspešnosti javnih uslužbencev v Ministrstvu za zunanje zadeve",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o ocenjevanju uspešnosti javnih uslužbencev v Ministrstvu za zunanje zadeve",
+      "shortCode": "PRAV13733",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0236",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zunanje zadeve",
+      "adoptedAt": "2022-02-04",
+      "validFrom": "2022-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0236",
+      "versions": [
+        {
+          "id": "PRAV13733-original",
+          "shortCode": "PRAV13733",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-04",
+          "effectiveFrom": "2022-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10068"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0236",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

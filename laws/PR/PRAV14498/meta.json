@@ -1,0 +1,58 @@
+{
+  "root": "PRAV14498",
+  "path": "laws/PR/PRAV14498",
+  "members": [
+    {
+      "id": "PRAV14498",
+      "title": "Pravilnik o osebni asistenci",
+      "shortTitle": "Pravilnik o osebni asistenci",
+      "shortCode": "PRAV14498",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0463",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-02-03",
+      "validFrom": "2025-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0463",
+      "versions": [
+        {
+          "id": "PRAV14498-original",
+          "shortCode": "PRAV14498",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-02-03",
+          "effectiveFrom": "2025-02-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0463",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14498-npb-PRAV14498",
+          "shortCode": "PRAV14498-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 8)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-02-25",
+          "effectiveFrom": "2022-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14498",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

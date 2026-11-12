@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5107",
+  "path": "laws/PR/PRAV5107",
+  "members": [
+    {
+      "id": "PRAV5107",
+      "title": "Pravilnik o usposabljanju pripravnikov za opravo strokovnega izpita za imenovanje v naziv",
+      "shortTitle": "Pravilnik o usposabljanju pripravnikov za opravo strokovnega izpita za imenovanje v naziv",
+      "shortCode": "PRAV5107",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3076",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2003-06-30",
+      "validFrom": "2003-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3076",
+      "versions": [
+        {
+          "id": "PRAV5107-original",
+          "shortCode": "PRAV5107",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-30",
+          "effectiveFrom": "2003-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3076",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8522",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju pripravnikov za opravo strokovnega izpita za imenovanje v naziv",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju pripravnikov za opravo strokovnega izpita za imenovanje v naziv",
+      "shortCode": "PRAV8522",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5352",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2007-11-27",
+      "validFrom": "2007-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5352",
+      "versions": [
+        {
+          "id": "PRAV8522-original",
+          "shortCode": "PRAV8522",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-27",
+          "effectiveFrom": "2007-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5107"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5352",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

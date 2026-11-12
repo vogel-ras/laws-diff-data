@@ -1,0 +1,82 @@
+{
+  "root": "SKLE12508",
+  "path": "laws/SK/SKLE12508",
+  "members": [
+    {
+      "id": "SKLE12508",
+      "title": "Sklep o izvajanju vzgojno-izobraževalnega dela v javnih zavodih na področju vzgoje in izobraževanja v šolskem letu 2021/2022",
+      "shortTitle": "Sklep o izvajanju vzgojno-izobraževalnega dela v javnih zavodih na področju vzgoje in izobraževanja v šolskem letu 2021/2022",
+      "shortCode": "SKLE12508",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-2807",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-08-31",
+      "validFrom": "2021-08-31",
+      "validTo": null,
+      "latestPublishedAt": "2021-08-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2807",
+      "versions": [
+        {
+          "id": "SKLE12508-original",
+          "shortCode": "SKLE12508",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-08-31",
+          "effectiveFrom": "2021-08-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2807",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12832",
+      "title": "Sklep o spremembi Sklepa o izvajanju vzgojno-izobraževalnega dela v javnih zavodih na področju vzgoje in izobraževanja v šolskem letu 2021/2022",
+      "shortTitle": "Sklep o spremembi Sklepa o izvajanju vzgojno-izobraževalnega dela v javnih zavodih na področju vzgoje in izobraževanja v šolskem letu 2021/2022",
+      "shortCode": "SKLE12832",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-1620",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2022-05-17",
+      "validFrom": "2022-05-17",
+      "validTo": null,
+      "latestPublishedAt": "2022-05-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1620",
+      "versions": [
+        {
+          "id": "SKLE12832-original",
+          "shortCode": "SKLE12832",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-05-17",
+          "effectiveFrom": "2022-05-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE12508"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1620",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

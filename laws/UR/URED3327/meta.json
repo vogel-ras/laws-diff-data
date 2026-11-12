@@ -1,0 +1,136 @@
+{
+  "root": "URED3327",
+  "path": "laws/UR/URED3327",
+  "members": [
+    {
+      "id": "URED3327",
+      "title": "Uredba o načinu izvajanja nadzora zračnega prostora",
+      "shortTitle": "Uredba o načinu izvajanja nadzora zračnega prostora",
+      "shortCode": "URED3327",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1292",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-26",
+      "validFrom": "2004-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1292",
+      "versions": [
+        {
+          "id": "URED3327-original",
+          "shortCode": "URED3327",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-26",
+          "effectiveFrom": "2004-03-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1292",
+          "proposer": null
+        },
+        {
+          "id": "URED3327-npb-URED3327",
+          "shortCode": "URED3327-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-26",
+          "effectiveFrom": "2004-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3327",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5102",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvajanja nadzora zračnega prostora",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvajanja nadzora zračnega prostora",
+      "shortCode": "URED5102",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1923",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-06-26",
+      "validFrom": "2015-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1923",
+      "versions": [
+        {
+          "id": "URED5102-original",
+          "shortCode": "URED5102",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-26",
+          "effectiveFrom": "2015-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1923",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7643",
+      "title": "Uredba o spremembah Uredbe o načinu izvajanja nadzora zračnega prostora",
+      "shortTitle": "Uredba o spremembah Uredbe o načinu izvajanja nadzora zračnega prostora",
+      "shortCode": "URED7643",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0099",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-01-12",
+      "validFrom": "2018-01-12",
+      "validTo": null,
+      "latestPublishedAt": "2018-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0099",
+      "versions": [
+        {
+          "id": "URED7643-original",
+          "shortCode": "URED7643",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-01-12",
+          "effectiveFrom": "2018-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0099",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9157",
+  "path": "laws/PR/PRAV9157",
+  "members": [
+    {
+      "id": "PRAV9157",
+      "title": "Pravilnik o certificiranju pridelka hmelja in prometu s hmeljem",
+      "shortTitle": "Pravilnik o certificiranju pridelka hmelja in prometu s hmeljem",
+      "shortCode": "PRAV9157",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4145",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-08-03",
+      "validFrom": "2010-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4145",
+      "versions": [
+        {
+          "id": "PRAV9157-original",
+          "shortCode": "PRAV9157",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-08-03",
+          "effectiveFrom": "2010-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4145",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9157-npb-PRAV9157",
+          "shortCode": "PRAV9157-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-10-14",
+          "effectiveFrom": "2008-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9157",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

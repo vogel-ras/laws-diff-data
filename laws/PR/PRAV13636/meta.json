@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13636",
+  "path": "laws/PR/PRAV13636",
+  "members": [
+    {
+      "id": "PRAV13636",
+      "title": "Pravilnik o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2019",
+      "shortTitle": "Pravilnik o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2019",
+      "shortCode": "PRAV13636",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-4098",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2018-12-24",
+      "validFrom": "2018-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4098",
+      "versions": [
+        {
+          "id": "PRAV13636-original",
+          "shortCode": "PRAV13636",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4098",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13636-npb-PRAV13636",
+          "shortCode": "PRAV13636-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13636",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13736",
+      "title": "Pravilnik o spremembi Pravilnika o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2019",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 2019",
+      "shortCode": "PRAV13736",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0428",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-02-27",
+      "validFrom": "2019-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0428",
+      "versions": [
+        {
+          "id": "PRAV13736-original",
+          "shortCode": "PRAV13736",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-02-27",
+          "effectiveFrom": "2019-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13636"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0428",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

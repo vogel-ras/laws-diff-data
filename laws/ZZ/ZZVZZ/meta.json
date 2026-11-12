@@ -1,0 +1,920 @@
+{
+  "root": "ZZVZZ",
+  "path": "laws/ZZ/ZZVZZ",
+  "members": [
+    {
+      "id": "ZZVZZ",
+      "title": "Zakon o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0459",
+      "gazette": "Uradni list RS 9/92  str. 577",
+      "issuingBody": null,
+      "adoptedAt": "1992-02-21",
+      "validFrom": "1992-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0459",
+      "versions": [
+        {
+          "id": "ZZVZZ-original",
+          "shortCode": "ZZVZZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/92  str. 577",
+          "publishedAt": "1992-02-21",
+          "effectiveFrom": "1992-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0459",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-A",
+          "shortCode": "ZZVZZ-A",
+          "label": "Sprememba ZZVZZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 13/93  str. 557",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0582",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-B",
+          "shortCode": "ZZVZZ-B",
+          "label": "Sprememba ZZVZZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/96  str. 671",
+          "publishedAt": "1996-02-16",
+          "effectiveFrom": "1996-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0414",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-C",
+          "shortCode": "ZZVZZ-C",
+          "label": "Sprememba ZZVZZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 29/98  str. 1901",
+          "publishedAt": "1998-04-10",
+          "effectiveFrom": "1998-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1145",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-D",
+          "shortCode": "ZZVZZ-D",
+          "label": "Sprememba ZZVZZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 6/99  str. 397",
+          "publishedAt": "1999-01-29",
+          "effectiveFrom": "1999-01-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0214",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-E",
+          "shortCode": "ZZVZZ-E",
+          "label": "Sprememba ZZVZZ-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 99/2001  str. 10117",
+          "publishedAt": "2001-12-07",
+          "effectiveFrom": "2001-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4848",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-F",
+          "shortCode": "ZZVZZ-F",
+          "label": "Sprememba ZZVZZ-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 60/2002  str. 6197",
+          "publishedAt": "2002-07-10",
+          "effectiveFrom": "2002-07-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2883",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-G",
+          "shortCode": "ZZVZZ-G",
+          "label": "Sprememba ZZVZZ-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 126/03  str. 17237",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5383",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-H",
+          "shortCode": "ZZVZZ-H",
+          "label": "Sprememba ZZVZZ-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 76/05  str. 8157",
+          "publishedAt": "2005-08-12",
+          "effectiveFrom": "2005-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3383",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-I",
+          "shortCode": "ZZVZZ-I",
+          "label": "Sprememba ZZVZZ-I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 38/06  str. 3957",
+          "publishedAt": "2006-04-11",
+          "effectiveFrom": "2006-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1558",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-J",
+          "shortCode": "ZZVZZ-J",
+          "label": "Sprememba ZZVZZ-J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 91/07  str. 12149",
+          "publishedAt": "2007-10-08",
+          "effectiveFrom": "2007-10-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4489",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-M",
+          "shortCode": "ZZVZZ-M",
+          "label": "Sprememba ZZVZZ-M",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 91/13  str. 9840",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3306",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-N",
+          "shortCode": "ZZVZZ-N",
+          "label": "Sprememba ZZVZZ-N",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 36/19  str. 4243",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1624",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-O",
+          "shortCode": "ZZVZZ-O",
+          "label": "Sprememba ZZVZZ-O",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": "Uradni list RS 51/21  str. 2961",
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0968",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-P",
+          "shortCode": "ZZVZZ-P",
+          "label": "Sprememba ZZVZZ-P",
+          "kind": "amendment",
+          "sequence": 15,
+          "gazette": "Uradni list RS 159/21  str. 8965",
+          "publishedAt": "2021-10-01",
+          "effectiveFrom": "2021-10-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2989",
+          "proposer": null
+        },
+        {
+          "id": "ZZVZZ-amend-ZZVZZ-T",
+          "shortCode": "ZZVZZ-T",
+          "label": "Sprememba ZZVZZ-T",
+          "kind": "amendment",
+          "sequence": 16,
+          "gazette": "Uradni list RS 78/23  str. 6869",
+          "publishedAt": "2023-07-19",
+          "effectiveFrom": "2023-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2480",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0582",
+      "gazette": "Uradni list RS 13/93  str. 557",
+      "issuingBody": null,
+      "adoptedAt": "1993-03-12",
+      "validFrom": "1993-03-12",
+      "validTo": null,
+      "latestPublishedAt": "1993-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0582",
+      "versions": [
+        {
+          "id": "ZZVZZ-A-original",
+          "shortCode": "ZZVZZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/93  str. 557",
+          "publishedAt": "1993-03-12",
+          "effectiveFrom": "1993-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0582",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0414",
+      "gazette": "Uradni list RS 9/96  str. 671",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-16",
+      "validFrom": "1996-02-16",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0414",
+      "versions": [
+        {
+          "id": "ZZVZZ-B-original",
+          "shortCode": "ZZVZZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/96  str. 671",
+          "publishedAt": "1996-02-16",
+          "effectiveFrom": "1996-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno zavarovanje",
+        "zdravstveno varstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-1145",
+      "gazette": "Uradni list RS 29/98  str. 1901",
+      "issuingBody": null,
+      "adoptedAt": "1998-04-10",
+      "validFrom": "1998-04-10",
+      "validTo": null,
+      "latestPublishedAt": "1998-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1145",
+      "versions": [
+        {
+          "id": "ZZVZZ-C-original",
+          "shortCode": "ZZVZZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/98  str. 1901",
+          "publishedAt": "1998-04-10",
+          "effectiveFrom": "1998-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1145",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-D",
+      "title": "Zakon o dopolnitvi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o dopolnitvi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje",
+        "otrok",
+        "odsotnost z dela zaradi bolezni"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-0214",
+      "gazette": "Uradni list RS 6/99  str. 397",
+      "issuingBody": null,
+      "adoptedAt": "1999-01-29",
+      "validFrom": "1999-01-29",
+      "validTo": null,
+      "latestPublishedAt": "1999-01-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0214",
+      "versions": [
+        {
+          "id": "ZZVZZ-D-original",
+          "shortCode": "ZZVZZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 6/99  str. 397",
+          "publishedAt": "1999-01-29",
+          "effectiveFrom": "1999-01-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0214",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-E",
+      "kind": "zakon",
+      "keywords": [
+        "varnost v cestnem prometu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4848",
+      "gazette": "Uradni list RS 99/2001  str. 10117",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-07",
+      "validFrom": "2001-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4848",
+      "versions": [
+        {
+          "id": "ZZVZZ-E-original",
+          "shortCode": "ZZVZZ-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/2001  str. 10117",
+          "publishedAt": "2001-12-07",
+          "effectiveFrom": "2001-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4848",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-F",
+      "title": "Zakon o spremembi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembi zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-F",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2883",
+      "gazette": "Uradni list RS 60/2002  str. 6197",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-10",
+      "validFrom": "2002-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2883",
+      "versions": [
+        {
+          "id": "ZZVZZ-F-original",
+          "shortCode": "ZZVZZ-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/2002  str. 6197",
+          "publishedAt": "2002-07-10",
+          "effectiveFrom": "2002-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2883",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-G",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5383",
+      "gazette": "Uradni list RS 126/03  str. 17237",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5383",
+      "versions": [
+        {
+          "id": "ZZVZZ-G-original",
+          "shortCode": "ZZVZZ-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/03  str. 17237",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5383",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-H",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-H",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3383",
+      "gazette": "Uradni list RS 76/05  str. 8157",
+      "issuingBody": null,
+      "adoptedAt": "2005-08-12",
+      "validFrom": "2005-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3383",
+      "versions": [
+        {
+          "id": "ZZVZZ-H-original",
+          "shortCode": "ZZVZZ-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/05  str. 8157",
+          "publishedAt": "2005-08-12",
+          "effectiveFrom": "2005-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3383",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-I",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-I",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1558",
+      "gazette": "Uradni list RS 38/06  str. 3957",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-11",
+      "validFrom": "2006-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1558",
+      "versions": [
+        {
+          "id": "ZZVZZ-I-original",
+          "shortCode": "ZZVZZ-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/06  str. 3957",
+          "publishedAt": "2006-04-11",
+          "effectiveFrom": "2006-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1558",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-J",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-J",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4489",
+      "gazette": "Uradni list RS 91/07  str. 12149",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-08",
+      "validFrom": "2007-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4489",
+      "versions": [
+        {
+          "id": "ZZVZZ-J-original",
+          "shortCode": "ZZVZZ-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/07  str. 12149",
+          "publishedAt": "2007-10-08",
+          "effectiveFrom": "2007-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4489",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-M",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-M",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3306",
+      "gazette": "Uradni list RS 91/13  str. 9840",
+      "issuingBody": null,
+      "adoptedAt": "2013-11-05",
+      "validFrom": "2013-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3306",
+      "versions": [
+        {
+          "id": "ZZVZZ-M-original",
+          "shortCode": "ZZVZZ-M",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/13  str. 9840",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-N",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1624",
+      "gazette": "Uradni list RS 36/19  str. 4243",
+      "issuingBody": null,
+      "adoptedAt": "2019-06-07",
+      "validFrom": "2019-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1624",
+      "versions": [
+        {
+          "id": "ZZVZZ-N-original",
+          "shortCode": "ZZVZZ-N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/19  str. 4243",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1624",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-O",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-O",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0968",
+      "gazette": "Uradni list RS 51/21  str. 2961",
+      "issuingBody": null,
+      "adoptedAt": "2021-04-02",
+      "validFrom": "2021-04-02",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0968",
+      "versions": [
+        {
+          "id": "ZZVZZ-O-original",
+          "shortCode": "ZZVZZ-O",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/21  str. 2961",
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0968",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-P",
+      "title": "Zakon o dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-P",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-2989",
+      "gazette": "Uradni list RS 159/21  str. 8965",
+      "issuingBody": null,
+      "adoptedAt": "2021-10-01",
+      "validFrom": "2021-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2989",
+      "versions": [
+        {
+          "id": "ZZVZZ-P-original",
+          "shortCode": "ZZVZZ-P",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 159/21  str. 8965",
+          "publishedAt": "2021-10-01",
+          "effectiveFrom": "2021-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2989",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVZZ-T",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu in zdravstvenem zavarovanju",
+      "shortCode": "ZZVZZ-T",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2480",
+      "gazette": "Uradni list RS 78/23  str. 6869",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-19",
+      "validFrom": "2023-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2480",
+      "versions": [
+        {
+          "id": "ZZVZZ-T-original",
+          "shortCode": "ZZVZZ-T",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/23  str. 6869",
+          "publishedAt": "2023-07-19",
+          "effectiveFrom": "2023-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVZZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2480",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

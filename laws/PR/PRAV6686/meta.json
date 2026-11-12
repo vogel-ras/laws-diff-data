@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6686",
+  "path": "laws/PR/PRAV6686",
+  "members": [
+    {
+      "id": "PRAV6686",
+      "title": "Pravilnik o dokumentaciji v devetletni osnovni šoli",
+      "shortTitle": "Pravilnik o dokumentaciji v devetletni osnovni šoli",
+      "shortCode": "PRAV6686",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2739",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2005-06-30",
+      "validFrom": "2005-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2739",
+      "versions": [
+        {
+          "id": "PRAV6686-original",
+          "shortCode": "PRAV6686",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2739",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7730",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o dokumentaciji v devetletni osnovni šoli",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o dokumentaciji v devetletni osnovni šoli",
+      "shortCode": "PRAV7730",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2721",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2006-06-16",
+      "validFrom": "2006-06-16",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2721",
+      "versions": [
+        {
+          "id": "PRAV7730-original",
+          "shortCode": "PRAV7730",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-16",
+          "effectiveFrom": "2006-06-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6686"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2721",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "MP_ODLO49360",
+  "path": "ordinances/MP/MP_ODLO49360",
+  "members": [
+    {
+      "id": "MP_ODLO49360",
+      "title": "Odlok o proračunu Mestne občine Krško za leto 2025 (ODLO)",
+      "shortTitle": "Odlok o proračunu Mestne občine Krško za leto 2025 (ODLO)",
+      "shortCode": "MP_ODLO49360",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-0028",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0028",
+      "versions": [
+        {
+          "id": "MP_ODLO49360-original",
+          "shortCode": "MP_ODLO49360",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0028",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO58438",
+      "title": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2025 / II. (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2025 / II. (ODLO)",
+      "shortCode": "MP_ODLO58438",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Krško",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2025-01-1334",
+      "gazette": null,
+      "issuingBody": "Občina Krško",
+      "adoptedAt": "2025-05-09",
+      "validFrom": "2025-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1334",
+      "versions": [
+        {
+          "id": "MP_ODLO58438-original",
+          "shortCode": "MP_ODLO58438",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-09",
+          "effectiveFrom": "2025-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO49360"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1334",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO60262",
+      "title": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2025 / III. (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2025 / III. (ODLO)",
+      "shortCode": "MP_ODLO60262",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Krško",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2025-01-3157",
+      "gazette": null,
+      "issuingBody": "Mestna občina Krško",
+      "adoptedAt": "2025-11-14",
+      "validFrom": "2025-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3157",
+      "versions": [
+        {
+          "id": "MP_ODLO60262-original",
+          "shortCode": "MP_ODLO60262",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-14",
+          "effectiveFrom": "2025-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO49360"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3157",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

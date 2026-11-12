@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14588",
+  "path": "laws/PR/PRAV14588",
+  "members": [
+    {
+      "id": "PRAV14588",
+      "title": "Pravilnik o pogojih in načinu oprostitve davkov za diplomatska predstavništva, konzulate, agencije in organe Evropske unije ter mednarodne organizacije v skladu z mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo",
+      "shortTitle": "Pravilnik o pogojih in načinu oprostitve davkov za diplomatska predstavništva, konzulate, agencije in organe Evropske unije ter mednarodne organizacije v skladu z mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo",
+      "shortCode": "PRAV14588",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0538",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2025-03-12",
+      "validFrom": "2025-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0538",
+      "versions": [
+        {
+          "id": "PRAV14588-original",
+          "shortCode": "PRAV14588",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-12",
+          "effectiveFrom": "2025-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0538",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14588-npb-PRAV14588",
+          "shortCode": "PRAV14588-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-03-12",
+          "effectiveFrom": "2025-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14588",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15905",
+      "title": "Pravilnik o spremembah Pravilnika o pogojih in načinu oprostitve davkov za diplomatska predstavništva, konzulate, agencije in organe Evropske unije ter mednarodne organizacije v skladu z mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o pogojih in načinu oprostitve davkov za diplomatska predstavništva, konzulate, agencije in organe Evropske unije ter mednarodne organizacije v skladu z mednarodnimi pogodbami, ki zavezujejo Republiko Slovenijo",
+      "shortCode": "PRAV15905",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2966",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2025-10-30",
+      "validFrom": "2025-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2966",
+      "versions": [
+        {
+          "id": "PRAV15905-original",
+          "shortCode": "PRAV15905",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-30",
+          "effectiveFrom": "2025-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14588"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2966",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

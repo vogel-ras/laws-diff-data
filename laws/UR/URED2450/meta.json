@@ -1,0 +1,121 @@
+{
+  "root": "URED2450",
+  "path": "laws/UR/URED2450",
+  "members": [
+    {
+      "id": "URED2450",
+      "title": "Uredba o tarifah za izdajanje geodetskih podatkov",
+      "shortTitle": "Uredba o tarifah za izdajanje geodetskih podatkov",
+      "shortCode": "URED2450",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2886",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-07-10",
+      "validFrom": "2002-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2886",
+      "versions": [
+        {
+          "id": "URED2450-original",
+          "shortCode": "URED2450",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-10",
+          "effectiveFrom": "2002-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2886",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3266",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o tarifah za izdajanje geodetskih podatkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o tarifah za izdajanje geodetskih podatkov",
+      "shortCode": "URED3266",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2207",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-29",
+      "validFrom": "2004-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2207",
+      "versions": [
+        {
+          "id": "URED3266-original",
+          "shortCode": "URED3266",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-29",
+          "effectiveFrom": "2004-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2450"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2207",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3744",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o tarifah za izdajanje geodetskih podatkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o tarifah za izdajanje geodetskih podatkov",
+      "shortCode": "URED3744",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2894",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-13",
+      "validFrom": "2005-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2894",
+      "versions": [
+        {
+          "id": "URED3744-original",
+          "shortCode": "URED3744",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-13",
+          "effectiveFrom": "2005-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2450"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2894",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

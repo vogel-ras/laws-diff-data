@@ -1,0 +1,165 @@
+{
+  "root": "ZDVEDZ",
+  "path": "laws/ZD/ZDVEDZ",
+  "members": [
+    {
+      "id": "ZDVEDZ",
+      "title": "Zakon o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortTitle": "Zakon o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortCode": "ZDVEDZ",
+      "kind": "zakon",
+      "keywords": [
+        "delitev na volilne enote",
+        "volitve",
+        "parlamentarne volitve",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2156",
+      "gazette": "Uradni list RS 46/92  str. 2797",
+      "issuingBody": null,
+      "adoptedAt": "1992-09-28",
+      "validFrom": "1992-09-28",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2156",
+      "versions": [
+        {
+          "id": "ZDVEDZ-original",
+          "shortCode": "ZDVEDZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/92  str. 2797",
+          "publishedAt": "1992-09-28",
+          "effectiveFrom": "1992-09-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2156",
+          "proposer": null
+        },
+        {
+          "id": "ZDVEDZ-amend-ZDVEDZ-A",
+          "shortCode": "ZDVEDZ-A",
+          "label": "Sprememba ZDVEDZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 80/04  str. 9721",
+          "publishedAt": "2004-07-23",
+          "effectiveFrom": "2004-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDVEDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3533",
+          "proposer": null
+        },
+        {
+          "id": "ZDVEDZ-amend-ZDVEDZ-B",
+          "shortCode": "ZDVEDZ-B",
+          "label": "Sprememba ZDVEDZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 29/21  str. 1927",
+          "publishedAt": "2021-03-01",
+          "effectiveFrom": "2021-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDVEDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0617",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDVEDZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortCode": "ZDVEDZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarne volitve",
+        "delitev na volilne enote",
+        "poslanec",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3533",
+      "gazette": "Uradni list RS 80/04  str. 9721",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-23",
+      "validFrom": "2004-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3533",
+      "versions": [
+        {
+          "id": "ZDVEDZ-A-original",
+          "shortCode": "ZDVEDZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 80/04  str. 9721",
+          "publishedAt": "2004-07-23",
+          "effectiveFrom": "2004-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDVEDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3533",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDVEDZ-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o določitvi volilnih enot za volitve poslancev v državni zbor",
+      "shortCode": "ZDVEDZ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0617",
+      "gazette": "Uradni list RS 29/21  str. 1927",
+      "issuingBody": null,
+      "adoptedAt": "2021-03-01",
+      "validFrom": "2021-03-01",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0617",
+      "versions": [
+        {
+          "id": "ZDVEDZ-B-original",
+          "shortCode": "ZDVEDZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/21  str. 1927",
+          "publishedAt": "2021-03-01",
+          "effectiveFrom": "2021-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDVEDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0617",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

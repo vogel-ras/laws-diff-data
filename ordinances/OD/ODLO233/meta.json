@@ -1,0 +1,97 @@
+{
+  "root": "ODLO233",
+  "path": "ordinances/OD/ODLO233",
+  "members": [
+    {
+      "id": "ODLO1423",
+      "title": "Odlok o spremembi Odloka o razglasitvi Knežjega dvorca v Celju za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi Odloka o razglasitvi Knežjega dvorca v Celju za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1423",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2005-01-1872",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-05-09",
+      "validFrom": "2005-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1872",
+      "versions": [
+        {
+          "id": "ODLO1423-original",
+          "shortCode": "ODLO1423",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-09",
+          "effectiveFrom": "2005-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO233"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1872",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO233",
+      "title": "Odlok o razglasitvi Knežjega dvorca v Celju za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Knežjega dvorca v Celju za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO233",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3812",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3812",
+      "versions": [
+        {
+          "id": "ODLO233-original",
+          "shortCode": "ODLO233",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3812",
+          "proposer": null
+        },
+        {
+          "id": "ODLO233-npb-ODLO233",
+          "shortCode": "ODLO233-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO233",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

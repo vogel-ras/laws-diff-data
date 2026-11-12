@@ -1,0 +1,136 @@
+{
+  "root": "URED9246",
+  "path": "laws/UR/URED9246",
+  "members": [
+    {
+      "id": "URED9246",
+      "title": "Uredba o plačah javnih uslužbencev plačne skupine B",
+      "shortTitle": "Uredba o plačah javnih uslužbencev plačne skupine B",
+      "shortCode": "URED9246",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3078",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-26",
+      "validFrom": "2024-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3078",
+      "versions": [
+        {
+          "id": "URED9246-original",
+          "shortCode": "URED9246",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-26",
+          "effectiveFrom": "2024-11-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3078",
+          "proposer": null
+        },
+        {
+          "id": "URED9246-npb-URED9246",
+          "shortCode": "URED9246-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 5)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-11",
+          "effectiveFrom": "2026-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9246",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9292",
+      "title": "Uredba o spremembah Uredbe o plačah javnih uslužbencev plačne skupine B",
+      "shortTitle": "Uredba o spremembah Uredbe o plačah javnih uslužbencev plačne skupine B",
+      "shortCode": "URED9292",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3552",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-12-20",
+      "validFrom": "2024-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3552",
+      "versions": [
+        {
+          "id": "URED9292-original",
+          "shortCode": "URED9292",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9246"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3552",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9657",
+      "title": "Uredba o spremembi Uredbe o plačah javnih uslužbencev plačne skupine B",
+      "shortTitle": "Uredba o spremembi Uredbe o plačah javnih uslužbencev plačne skupine B",
+      "shortCode": "URED9657",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0795",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-27",
+      "validFrom": "2026-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0795",
+      "versions": [
+        {
+          "id": "URED9657-original",
+          "shortCode": "URED9657",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-27",
+          "effectiveFrom": "2026-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9246"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0795",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

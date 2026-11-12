@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2233",
+  "path": "laws/PR/PRAV2233",
+  "members": [
+    {
+      "id": "PRAV2233",
+      "title": "Pravilnik o mazavih maščobah",
+      "shortTitle": "Pravilnik o mazavih maščobah",
+      "shortCode": "PRAV2233",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3348",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2000-08-10",
+      "validFrom": "2000-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3348",
+      "versions": [
+        {
+          "id": "PRAV2233-original",
+          "shortCode": "PRAV2233",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-08-10",
+          "effectiveFrom": "2000-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3348",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5208",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o mazavih maščobah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o mazavih maščobah",
+      "shortCode": "PRAV5208",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3703",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-08-08",
+      "validFrom": "2003-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3703",
+      "versions": [
+        {
+          "id": "PRAV5208-original",
+          "shortCode": "PRAV5208",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-08",
+          "effectiveFrom": "2003-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2233"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3703",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

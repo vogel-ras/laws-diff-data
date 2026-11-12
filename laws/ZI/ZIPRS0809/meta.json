@@ -1,0 +1,283 @@
+{
+  "root": "ZIPRS0809",
+  "path": "laws/ZI/ZIPRS0809",
+  "members": [
+    {
+      "id": "ZAKO5388",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009 (ZIPRS0809-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009 (ZIPRS0809-A)",
+      "shortCode": "ZIPRS0809-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2480",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-06-10",
+      "validFrom": "2008-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2480",
+      "versions": [
+        {
+          "id": "ZAKO5388-original",
+          "shortCode": "ZIPRS0809-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-10",
+          "effectiveFrom": "2008-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2480",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0809",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortCode": "ZIPRS0809",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5700",
+      "gazette": "Uradni list RS 114/07  str. 16280",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-13",
+      "validFrom": "2007-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5700",
+      "versions": [
+        {
+          "id": "ZIPRS0809-original",
+          "shortCode": "ZIPRS0809",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/07  str. 16280",
+          "publishedAt": "2007-12-13",
+          "effectiveFrom": "2007-12-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5700",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0809-amend-ZAKO5388",
+          "shortCode": "ZIPRS0809-A",
+          "label": "Sprememba ZIPRS0809-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-06-10",
+          "effectiveFrom": "2008-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2480",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0809-amend-ZIPRS0809-B",
+          "shortCode": "ZIPRS0809-B",
+          "label": "Sprememba ZIPRS0809-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 26/09  str. 3838",
+          "publishedAt": "2009-04-06",
+          "effectiveFrom": "2009-04-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1133",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0809-amend-ZIPRS0809-C",
+          "shortCode": "ZIPRS0809-C",
+          "label": "Sprememba ZIPRS0809-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 59/09  str. 8543",
+          "publishedAt": "2009-07-30",
+          "effectiveFrom": "2009-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2911",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0809-amend-ZIPRS0809-D",
+          "shortCode": "ZIPRS0809-D",
+          "label": "Sprememba ZIPRS0809-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 96/09  str. 12701",
+          "publishedAt": "2009-11-27",
+          "effectiveFrom": "2009-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4176",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0809-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortCode": "ZIPRS0809-B",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "državni proračun",
+        "proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1133",
+      "gazette": "Uradni list RS 26/09  str. 3838",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-06",
+      "validFrom": "2009-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1133",
+      "versions": [
+        {
+          "id": "ZIPRS0809-B-original",
+          "shortCode": "ZIPRS0809-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/09  str. 3838",
+          "publishedAt": "2009-04-06",
+          "effectiveFrom": "2009-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1133",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0809-C",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortCode": "ZIPRS0809-C",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "državni proračun",
+        "proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2911",
+      "gazette": "Uradni list RS 59/09  str. 8543",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-30",
+      "validFrom": "2009-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2911",
+      "versions": [
+        {
+          "id": "ZIPRS0809-C-original",
+          "shortCode": "ZIPRS0809-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/09  str. 8543",
+          "publishedAt": "2009-07-30",
+          "effectiveFrom": "2009-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2911",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0809-D",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o izvrševanju proračunov Republike Slovenije za leti 2008 in 2009",
+      "shortCode": "ZIPRS0809-D",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4176",
+      "gazette": "Uradni list RS 96/09  str. 12701",
+      "issuingBody": null,
+      "adoptedAt": "2009-11-27",
+      "validFrom": "2009-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4176",
+      "versions": [
+        {
+          "id": "ZIPRS0809-D-original",
+          "shortCode": "ZIPRS0809-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/09  str. 12701",
+          "publishedAt": "2009-11-27",
+          "effectiveFrom": "2009-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4176",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE12315",
+  "path": "laws/SK/SKLE12315",
+  "members": [
+    {
+      "id": "SKLE12315",
+      "title": "Sklep o podaljšanju ukrepa na področju davčne izvršbe",
+      "shortTitle": "Sklep o podaljšanju ukrepa na področju davčne izvršbe",
+      "shortCode": "SKLE12315",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-0238",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-03-16",
+      "validFrom": "2021-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0238",
+      "versions": [
+        {
+          "id": "SKLE12315-original",
+          "shortCode": "SKLE12315",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-16",
+          "effectiveFrom": "2021-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0238",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12366",
+      "title": "Sklep o spremembi Sklepa o podaljšanju ukrepa na področju davčne izvršbe",
+      "shortTitle": "Sklep o spremembi Sklepa o podaljšanju ukrepa na področju davčne izvršbe",
+      "shortCode": "SKLE12366",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-0794",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-03-16",
+      "validFrom": "2021-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0794",
+      "versions": [
+        {
+          "id": "SKLE12366-original",
+          "shortCode": "SKLE12366",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-16",
+          "effectiveFrom": "2021-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE12315"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0794",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

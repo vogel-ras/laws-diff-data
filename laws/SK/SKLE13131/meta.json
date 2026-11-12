@@ -1,0 +1,82 @@
+{
+  "root": "SKLE13131",
+  "path": "laws/SK/SKLE13131",
+  "members": [
+    {
+      "id": "SKLE13131",
+      "title": "Sklep o odprtju Konzulata Republike Slovenije v Cordobi, v Argentinski republiki",
+      "shortTitle": "Sklep o odprtju Konzulata Republike Slovenije v Cordobi, v Argentinski republiki",
+      "shortCode": "SKLE13131",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-2378",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-07-07",
+      "validFrom": "2023-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2378",
+      "versions": [
+        {
+          "id": "SKLE13131-original",
+          "shortCode": "SKLE13131",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-07-07",
+          "effectiveFrom": "2023-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2378",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE14153",
+      "title": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Cordobi, v Argentinski republiki",
+      "shortTitle": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Cordobi, v Argentinski republiki",
+      "shortCode": "SKLE14153",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2025-01-3247",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-11-26",
+      "validFrom": "2025-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3247",
+      "versions": [
+        {
+          "id": "SKLE14153-original",
+          "shortCode": "SKLE14153",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-26",
+          "effectiveFrom": "2025-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13131"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3247",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

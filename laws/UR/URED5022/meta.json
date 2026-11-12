@@ -1,0 +1,58 @@
+{
+  "root": "URED5022",
+  "path": "laws/UR/URED5022",
+  "members": [
+    {
+      "id": "URED5022",
+      "title": "Uredba o ureditvi trga s hmeljem",
+      "shortTitle": "Uredba o ureditvi trga s hmeljem",
+      "shortCode": "URED5022",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0759",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0759",
+      "versions": [
+        {
+          "id": "URED5022-original",
+          "shortCode": "URED5022",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0759",
+          "proposer": null
+        },
+        {
+          "id": "URED5022-npb-URED5022",
+          "shortCode": "URED5022-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-03-16",
+          "effectiveFrom": "2009-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5022",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

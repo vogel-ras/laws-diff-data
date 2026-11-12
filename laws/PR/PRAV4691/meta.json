@@ -1,0 +1,58 @@
+{
+  "root": "PRAV4691",
+  "path": "laws/PR/PRAV4691",
+  "members": [
+    {
+      "id": "PRAV4691",
+      "title": "Pravilnik o opravljanju službe izvršitelja",
+      "shortTitle": "Pravilnik o opravljanju službe izvršitelja",
+      "shortCode": "PRAV4691",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0723",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2003-02-21",
+      "validFrom": "2003-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0723",
+      "versions": [
+        {
+          "id": "PRAV4691-original",
+          "shortCode": "PRAV4691",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-21",
+          "effectiveFrom": "2003-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0723",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4691-npb-PRAV4691",
+          "shortCode": "PRAV4691-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-02-21",
+          "effectiveFrom": "2003-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4691",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

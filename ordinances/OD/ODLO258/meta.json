@@ -1,0 +1,97 @@
+{
+  "root": "ODLO258",
+  "path": "ordinances/OD/ODLO258",
+  "members": [
+    {
+      "id": "ODLO1188",
+      "title": "Odlok o spremembi odloka o razglasitvi Dvorca Račji dvor za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Dvorca Račji dvor za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1188",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-2699",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-06-27",
+      "validFrom": "2002-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2699",
+      "versions": [
+        {
+          "id": "ODLO1188-original",
+          "shortCode": "ODLO1188",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-27",
+          "effectiveFrom": "2002-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO258"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2699",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO258",
+      "title": "Odlok o razglasitvi Dvorca Račji dvor za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Dvorca Račji dvor za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO258",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3837",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-10-05",
+      "validFrom": "1999-10-05",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3837",
+      "versions": [
+        {
+          "id": "ODLO258-original",
+          "shortCode": "ODLO258",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-05",
+          "effectiveFrom": "1999-10-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3837",
+          "proposer": null
+        },
+        {
+          "id": "ODLO258-npb-ODLO258",
+          "shortCode": "ODLO258-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-05",
+          "effectiveFrom": "1999-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO258",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

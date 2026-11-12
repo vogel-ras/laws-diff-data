@@ -1,0 +1,97 @@
+{
+  "root": "PRAV6576",
+  "path": "laws/PR/PRAV6576",
+  "members": [
+    {
+      "id": "PRAV12862",
+      "title": "Pravilnik o spremembah Pravilnika o registru izvajalcev laboratorijske medicine",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o registru izvajalcev laboratorijske medicine",
+      "shortCode": "PRAV12862",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0746",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-03-31",
+      "validFrom": "2017-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0746",
+      "versions": [
+        {
+          "id": "PRAV12862-original",
+          "shortCode": "PRAV12862",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-31",
+          "effectiveFrom": "2017-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6576"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0746",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6576",
+      "title": "Pravilnik o registru izvajalcev laboratorijske medicine",
+      "shortTitle": "Pravilnik o registru izvajalcev laboratorijske medicine",
+      "shortCode": "PRAV6576",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4803",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2006-11-06",
+      "validFrom": "2006-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4803",
+      "versions": [
+        {
+          "id": "PRAV6576-original",
+          "shortCode": "PRAV6576",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-06",
+          "effectiveFrom": "2006-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4803",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6576-npb-PRAV6576",
+          "shortCode": "PRAV6576-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-11-06",
+          "effectiveFrom": "2006-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6576",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

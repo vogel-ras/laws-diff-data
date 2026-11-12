@@ -1,0 +1,82 @@
+{
+  "root": "URED5096",
+  "path": "laws/UR/URED5096",
+  "members": [
+    {
+      "id": "URED5096",
+      "title": "Uredba o izvajanju Uredbe Komisije (ES) o sestavi in označevanju živil, primernih za ljudi s preobčutljivostjo na gluten",
+      "shortTitle": "Uredba o izvajanju Uredbe Komisije (ES) o sestavi in označevanju živil, primernih za ljudi s preobčutljivostjo na gluten",
+      "shortCode": "URED5096",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1692",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-05-08",
+      "validFrom": "2009-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1692",
+      "versions": [
+        {
+          "id": "URED5096-original",
+          "shortCode": "URED5096",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-08",
+          "effectiveFrom": "2009-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1692",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5501",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe Komisije (ES) o sestavi in označevanju živil, primernih za ljudi s preobčutljivostjo na gluten",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe Komisije (ES) o sestavi in označevanju živil, primernih za ljudi s preobčutljivostjo na gluten",
+      "shortCode": "URED5501",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-2662",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-06-24",
+      "validFrom": "2010-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2662",
+      "versions": [
+        {
+          "id": "URED5501-original",
+          "shortCode": "URED5501",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-06-24",
+          "effectiveFrom": "2010-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5096"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2662",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

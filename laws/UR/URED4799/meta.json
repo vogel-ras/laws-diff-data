@@ -1,0 +1,82 @@
+{
+  "root": "URED4799",
+  "path": "laws/UR/URED4799",
+  "members": [
+    {
+      "id": "URED4799",
+      "title": "Uredba o kriterijih za določitev višine položajnega dodatka za javne uslužbence",
+      "shortTitle": "Uredba o kriterijih za določitev višine položajnega dodatka za javne uslužbence",
+      "shortCode": "URED4799",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2421",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-06-10",
+      "validFrom": "2008-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2421",
+      "versions": [
+        {
+          "id": "URED4799-original",
+          "shortCode": "URED4799",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-10",
+          "effectiveFrom": "2008-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2421",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8200",
+      "title": "Uredba o spremembi Uredbe o kriterijih za določitev višine položajnega dodatka za javne uslužbence",
+      "shortTitle": "Uredba o spremembi Uredbe o kriterijih za določitev višine položajnega dodatka za javne uslužbence",
+      "shortCode": "URED8200",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3083",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-11-27",
+      "validFrom": "2020-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3083",
+      "versions": [
+        {
+          "id": "URED8200-original",
+          "shortCode": "URED8200",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-27",
+          "effectiveFrom": "2020-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4799"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3083",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

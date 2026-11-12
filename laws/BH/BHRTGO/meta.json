@@ -1,0 +1,112 @@
+{
+  "root": "BHRTGO",
+  "path": "laws/BH/BHRTGO",
+  "members": [
+    {
+      "id": "BHRTGO",
+      "title": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o trgovinsko-gospodarskih odnosih in sodelovanju",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o trgovinsko-gospodarskih odnosih in sodelovanju",
+      "shortCode": "BHRTGO",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Slovenija",
+        "Hrvaška",
+        "trgovinski odnosi",
+        "trgovinsko sodelovanje",
+        "gospodarsko sodelovanje",
+        "ekonomski odnosi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-02-0059",
+      "gazette": "Uradni list RS MP 10/94  str. 319",
+      "issuingBody": null,
+      "adoptedAt": "1994-07-13",
+      "validFrom": "1994-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0059",
+      "versions": [
+        {
+          "id": "BHRTGO-original",
+          "shortCode": "BHRTGO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 10/94  str. 319",
+          "publishedAt": "1994-07-13",
+          "effectiveFrom": "1994-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0059",
+          "proposer": null
+        },
+        {
+          "id": "BHRTGO-amend-BHRTGO-A",
+          "shortCode": "BHRTGO-A",
+          "label": "Sprememba BHRTGO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 16/05  str. 1136",
+          "publishedAt": "2005-10-25",
+          "effectiveFrom": "2005-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BHRTGO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-02-0051",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BHRTGO-A",
+      "title": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o spremembah in dopolnitvah Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o trgovinsko-gospodarskih odnosih in sodelovanju",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o spremembah in dopolnitvah Sporazuma med Vlado Republike Slovenije in Vlado Republike Hrvaške o trgovinsko-gospodarskih odnosih in sodelovanju",
+      "shortCode": "BHRTGO-A",
+      "kind": "zakon",
+      "keywords": [
+        "ekonomski odnosi",
+        "Hrvaška",
+        "ratifikacija sporazuma",
+        "trgovinski odnosi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-02-0051",
+      "gazette": "Uradni list RS MP 16/05  str. 1136",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-25",
+      "validFrom": "2005-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-02-0051",
+      "versions": [
+        {
+          "id": "BHRTGO-A-original",
+          "shortCode": "BHRTGO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 16/05  str. 1136",
+          "publishedAt": "2005-10-25",
+          "effectiveFrom": "2005-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BHRTGO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-02-0051",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED2966",
+  "path": "laws/UR/URED2966",
+  "members": [
+    {
+      "id": "URED2966",
+      "title": "Uredba o območjih kopalnih voda ter o monitoringu kakovosti kopalnih voda",
+      "shortTitle": "Uredba o območjih kopalnih voda ter o monitoringu kakovosti kopalnih voda",
+      "shortCode": "URED2966",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3425",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-18",
+      "validFrom": "2003-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3425",
+      "versions": [
+        {
+          "id": "URED2966-original",
+          "shortCode": "URED2966",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3425",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3379",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o območjih kopalnih voda ter o monitoringu kakovosti kopalnih voda",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o območjih kopalnih voda ter o monitoringu kakovosti kopalnih voda",
+      "shortCode": "URED3379",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3205",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-07-02",
+      "validFrom": "2004-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3205",
+      "versions": [
+        {
+          "id": "URED3379-original",
+          "shortCode": "URED3379",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-02",
+          "effectiveFrom": "2004-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2966"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3205",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

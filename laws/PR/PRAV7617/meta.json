@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7617",
+  "path": "laws/PR/PRAV7617",
+  "members": [
+    {
+      "id": "PRAV7617",
+      "title": "Pravilnik o obratovalnem monitoringu onesnaževanja podzemne vode",
+      "shortTitle": "Pravilnik o obratovalnem monitoringu onesnaževanja podzemne vode",
+      "shortCode": "PRAV7617",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2095",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2095",
+      "versions": [
+        {
+          "id": "PRAV7617-original",
+          "shortCode": "PRAV7617",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2095",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9902",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obratovalnem monitoringu onesnaževanja podzemne vode",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obratovalnem monitoringu onesnaževanja podzemne vode",
+      "shortCode": "PRAV9902",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-5207",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5207",
+      "versions": [
+        {
+          "id": "PRAV9902-original",
+          "shortCode": "PRAV9902",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7617"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5207",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

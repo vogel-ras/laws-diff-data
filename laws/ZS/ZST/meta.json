@@ -1,0 +1,217 @@
+{
+  "root": "ZST",
+  "path": "laws/ZS/ZST",
+  "members": [
+    {
+      "id": "ZAKO4729",
+      "title": "Zakon o sodnih taksah (ZST-1)",
+      "shortTitle": "Zakon o sodnih taksah (ZST-1)",
+      "shortCode": "ZST-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1524",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-04-15",
+      "validFrom": "2008-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1524",
+      "versions": [
+        {
+          "id": "ZAKO4729-original",
+          "shortCode": "ZST-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-15",
+          "effectiveFrom": "2008-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1524",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4729-amend-ZST-1A",
+          "shortCode": "ZST-1A",
+          "label": "Sprememba ZST-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 97/10  str. 15015",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5020",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4729-amend-ZST-1B",
+          "shortCode": "ZST-1B",
+          "label": "Sprememba ZST-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 63/13  str. 7646",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2516",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4729-amend-ZST-1C",
+          "shortCode": "ZST-1C",
+          "label": "Sprememba ZST-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 30/16  str. 4261",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1267",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZST-1A",
+      "title": "Zakona o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortTitle": "Zakona o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortCode": "ZST-1A",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5020",
+      "gazette": "Uradni list RS 97/10  str. 15015",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-03",
+      "validFrom": "2010-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5020",
+      "versions": [
+        {
+          "id": "ZST-1A-original",
+          "shortCode": "ZST-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/10  str. 15015",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5020",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZST-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortCode": "ZST-1B",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2516",
+      "gazette": "Uradni list RS 63/13  str. 7646",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2516",
+      "versions": [
+        {
+          "id": "ZST-1B-original",
+          "shortCode": "ZST-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7646",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZST-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o sodnih taksah",
+      "shortCode": "ZST-1C",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1267",
+      "gazette": "Uradni list RS 30/16  str. 4261",
+      "issuingBody": null,
+      "adoptedAt": "2016-04-25",
+      "validFrom": "2016-04-25",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1267",
+      "versions": [
+        {
+          "id": "ZST-1C-original",
+          "shortCode": "ZST-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/16  str. 4261",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4729"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1267",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

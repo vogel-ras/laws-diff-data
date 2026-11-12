@@ -1,0 +1,121 @@
+{
+  "root": "PRAV2385",
+  "path": "laws/PR/PRAV2385",
+  "members": [
+    {
+      "id": "PRAV2385",
+      "title": "Pravilnik o študiji požarne varnosti",
+      "shortTitle": "Pravilnik o študiji požarne varnosti",
+      "shortCode": "PRAV2385",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-0527",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-02-20",
+      "validFrom": "1998-02-20",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0527",
+      "versions": [
+        {
+          "id": "PRAV2385-original",
+          "shortCode": "PRAV2385",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-02-20",
+          "effectiveFrom": "1998-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0527",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3969",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o študiji požarne varnosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o študiji požarne varnosti",
+      "shortCode": "PRAV3969",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3881",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-09-14",
+      "validFrom": "2001-09-14",
+      "validTo": null,
+      "latestPublishedAt": "2001-09-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3881",
+      "versions": [
+        {
+          "id": "PRAV3969-original",
+          "shortCode": "PRAV3969",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-09-14",
+          "effectiveFrom": "2001-09-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2385"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3881",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7868",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o študiji požarne varnosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o študiji požarne varnosti",
+      "shortCode": "PRAV7868",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5570",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2006-12-15",
+      "validFrom": "2006-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5570",
+      "versions": [
+        {
+          "id": "PRAV7868-original",
+          "shortCode": "PRAV7868",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-15",
+          "effectiveFrom": "2006-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2385"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5570",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

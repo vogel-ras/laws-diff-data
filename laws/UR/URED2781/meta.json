@@ -1,0 +1,82 @@
+{
+  "root": "URED2781",
+  "path": "laws/UR/URED2781",
+  "members": [
+    {
+      "id": "URED2781",
+      "title": "Uredba o ukrepih proti Liberiji",
+      "shortTitle": "Uredba o ukrepih proti Liberiji",
+      "shortCode": "URED2781",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0441",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-01-31",
+      "validFrom": "2003-01-31",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0441",
+      "versions": [
+        {
+          "id": "URED2781-original",
+          "shortCode": "URED2781",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-31",
+          "effectiveFrom": "2003-01-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0441",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3262",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o ukrepih proti Liberiji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o ukrepih proti Liberiji",
+      "shortCode": "URED3262",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0369",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-01-30",
+      "validFrom": "2004-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0369",
+      "versions": [
+        {
+          "id": "URED3262-original",
+          "shortCode": "URED3262",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-30",
+          "effectiveFrom": "2004-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2781"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0369",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

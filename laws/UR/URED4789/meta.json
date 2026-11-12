@@ -1,0 +1,97 @@
+{
+  "root": "URED4789",
+  "path": "laws/UR/URED4789",
+  "members": [
+    {
+      "id": "URED4789",
+      "title": "Uredba o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortTitle": "Uredba o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortCode": "URED4789",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1361",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-04-07",
+      "validFrom": "2008-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1361",
+      "versions": [
+        {
+          "id": "URED4789-original",
+          "shortCode": "URED4789",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-07",
+          "effectiveFrom": "2008-04-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1361",
+          "proposer": null
+        },
+        {
+          "id": "URED4789-npb-URED4789",
+          "shortCode": "URED4789-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-04-07",
+          "effectiveFrom": "2008-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4789",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5020",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortCode": "URED5020",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0251",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-06",
+      "validFrom": "2009-02-06",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0251",
+      "versions": [
+        {
+          "id": "URED5020-original",
+          "shortCode": "URED5020",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-06",
+          "effectiveFrom": "2009-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4789"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0251",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

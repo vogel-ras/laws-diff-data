@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5611",
+  "path": "laws/PR/PRAV5611",
+  "members": [
+    {
+      "id": "PRAV5611",
+      "title": "Pravilnik o veterinarskih pogojih za trgovanje s perutnino, enodnevnimi piščanci in valilnimi jajci na teritoriju Evropske unije ter uvoz iz tretjih držav",
+      "shortTitle": "Pravilnik o veterinarskih pogojih za trgovanje s perutnino, enodnevnimi piščanci in valilnimi jajci na teritoriju Evropske unije ter uvoz iz tretjih držav",
+      "shortCode": "PRAV5611",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0201",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-01-22",
+      "validFrom": "2004-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0201",
+      "versions": [
+        {
+          "id": "PRAV5611-original",
+          "shortCode": "PRAV5611",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-22",
+          "effectiveFrom": "2004-01-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0201",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5611-npb-PRAV5611",
+          "shortCode": "PRAV5611-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-01-22",
+          "effectiveFrom": "2004-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5695",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o veterinarskih pogojih za trgovanje s perutnino, enodnevnimi piščanci in valilnimi jajci na teritoriju Evropske unije ter uvoz iz tretjih držav",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o veterinarskih pogojih za trgovanje s perutnino, enodnevnimi piščanci in valilnimi jajci na teritoriju Evropske unije ter uvoz iz tretjih držav",
+      "shortCode": "PRAV5695",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0889",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-05",
+      "validFrom": "2004-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0889",
+      "versions": [
+        {
+          "id": "PRAV5695-original",
+          "shortCode": "PRAV5695",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-05",
+          "effectiveFrom": "2004-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5611"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0889",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

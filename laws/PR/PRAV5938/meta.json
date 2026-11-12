@@ -1,0 +1,58 @@
+{
+  "root": "PRAV5938",
+  "path": "laws/PR/PRAV5938",
+  "members": [
+    {
+      "id": "PRAV5938",
+      "title": "Pravilnik o poravnavanju v kazenskih zadevah",
+      "shortTitle": "Pravilnik o poravnavanju v kazenskih zadevah",
+      "shortCode": "PRAV5938",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4718",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-07-22",
+      "validFrom": "2011-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2011-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4718",
+      "versions": [
+        {
+          "id": "PRAV5938-original",
+          "shortCode": "PRAV5938",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-07-22",
+          "effectiveFrom": "2011-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4718",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5938-npb-PRAV5938",
+          "shortCode": "PRAV5938-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-10-22",
+          "effectiveFrom": "2004-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5938",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

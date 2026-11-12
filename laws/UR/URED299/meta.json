@@ -1,0 +1,82 @@
+{
+  "root": "URED299",
+  "path": "laws/UR/URED299",
+  "members": [
+    {
+      "id": "URED2712",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o skupinskih izjemah",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o skupinskih izjemah",
+      "shortCode": "URED2712",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-5351",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-12-13",
+      "validFrom": "2002-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5351",
+      "versions": [
+        {
+          "id": "URED2712-original",
+          "shortCode": "URED2712",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-13",
+          "effectiveFrom": "2002-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED299"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5351",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED299",
+      "title": "Uredba o skupinskih izjemah",
+      "shortTitle": "Uredba o skupinskih izjemah",
+      "shortCode": "URED299",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-2737",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-06-30",
+      "validFrom": "2000-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2737",
+      "versions": [
+        {
+          "id": "URED299-original",
+          "shortCode": "URED299",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-30",
+          "effectiveFrom": "2000-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2737",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2011",
+  "path": "laws/PR/PRAV2011",
+  "members": [
+    {
+      "id": "PRAV2011",
+      "title": "Pravilnik o dokumentaciji v 9-letni osnovni šoli",
+      "shortTitle": "Pravilnik o dokumentaciji v 9-letni osnovni šoli",
+      "shortCode": "PRAV2011",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3096",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "1999-08-10",
+      "validFrom": "1999-08-10",
+      "validTo": null,
+      "latestPublishedAt": "1999-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3096",
+      "versions": [
+        {
+          "id": "PRAV2011-original",
+          "shortCode": "PRAV2011",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-08-10",
+          "effectiveFrom": "1999-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3096",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4165",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o dokumentaciji v 9-letni osnovni šoli",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o dokumentaciji v 9-letni osnovni šoli",
+      "shortCode": "PRAV4165",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1165",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2002-03-28",
+      "validFrom": "2002-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1165",
+      "versions": [
+        {
+          "id": "PRAV4165-original",
+          "shortCode": "PRAV4165",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-28",
+          "effectiveFrom": "2002-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1165",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

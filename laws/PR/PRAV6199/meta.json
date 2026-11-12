@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6199",
+  "path": "laws/PR/PRAV6199",
+  "members": [
+    {
+      "id": "PRAV6199",
+      "title": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2004",
+      "shortTitle": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2004",
+      "shortCode": "PRAV6199",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4594",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-10-08",
+      "validFrom": "2004-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4594",
+      "versions": [
+        {
+          "id": "PRAV6199-original",
+          "shortCode": "PRAV6199",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-08",
+          "effectiveFrom": "2004-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4594",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6241",
+      "title": "Pravilnik o spremembi Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2004",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2004",
+      "shortCode": "PRAV6241",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4859",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-10-29",
+      "validFrom": "2004-10-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4859",
+      "versions": [
+        {
+          "id": "PRAV6241-original",
+          "shortCode": "PRAV6241",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-29",
+          "effectiveFrom": "2004-10-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6199"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4859",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

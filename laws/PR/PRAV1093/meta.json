@@ -1,0 +1,82 @@
+{
+  "root": "PRAV1093",
+  "path": "laws/PR/PRAV1093",
+  "members": [
+    {
+      "id": "PRAV1093",
+      "title": "Pravilnik o hrambi začasno zasežene gotovine in vrednostnih papirjev",
+      "shortTitle": "Pravilnik o hrambi začasno zasežene gotovine in vrednostnih papirjev",
+      "shortCode": "PRAV1093",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2547",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1999-07-08",
+      "validFrom": "1999-07-08",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2547",
+      "versions": [
+        {
+          "id": "PRAV1093-original",
+          "shortCode": "PRAV1093",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-08",
+          "effectiveFrom": "1999-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2547",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8160",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o hrambi začasno zasežene gotovine in vrednostnih papirjev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o hrambi začasno zasežene gotovine in vrednostnih papirjev",
+      "shortCode": "PRAV8160",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5907",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-28",
+      "validFrom": "2006-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5907",
+      "versions": [
+        {
+          "id": "PRAV8160-original",
+          "shortCode": "PRAV8160",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-28",
+          "effectiveFrom": "2006-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1093"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5907",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

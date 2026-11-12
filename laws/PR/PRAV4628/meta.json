@@ -1,0 +1,136 @@
+{
+  "root": "PRAV4628",
+  "path": "laws/PR/PRAV4628",
+  "members": [
+    {
+      "id": "PRAV4628",
+      "title": "Pravilnik za izvajanje zakona o javnih zbiranjih",
+      "shortTitle": "Pravilnik za izvajanje zakona o javnih zbiranjih",
+      "shortCode": "PRAV4628",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5705",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-12-28",
+      "validFrom": "2002-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5705",
+      "versions": [
+        {
+          "id": "PRAV4628-original",
+          "shortCode": "PRAV4628",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5705",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4628-npb-PRAV4628",
+          "shortCode": "PRAV4628-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4628",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7227",
+      "title": "Pravilnik o spremembah Pravilnika za izvajanje Zakona o javnih zbiranjih",
+      "shortTitle": "Pravilnik o spremembah Pravilnika za izvajanje Zakona o javnih zbiranjih",
+      "shortCode": "PRAV7227",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0224",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-01-20",
+      "validFrom": "2006-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0224",
+      "versions": [
+        {
+          "id": "PRAV7227-original",
+          "shortCode": "PRAV7227",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-20",
+          "effectiveFrom": "2006-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4628"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0224",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9894",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika za izvajanje Zakona o javnih zbiranjih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika za izvajanje Zakona o javnih zbiranjih",
+      "shortCode": "PRAV9894",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-2465",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2010-06-14",
+      "validFrom": "2010-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2465",
+      "versions": [
+        {
+          "id": "PRAV9894-original",
+          "shortCode": "PRAV9894",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-06-14",
+          "effectiveFrom": "2010-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4628"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2465",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

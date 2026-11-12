@@ -1,0 +1,58 @@
+{
+  "root": "URED8193",
+  "path": "laws/UR/URED8193",
+  "members": [
+    {
+      "id": "URED8193",
+      "title": "Uredba o izvedbi ukrepov kmetijske politike za leto 2021",
+      "shortTitle": "Uredba o izvedbi ukrepov kmetijske politike za leto 2021",
+      "shortCode": "URED8193",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-0524",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-02-19",
+      "validFrom": "2021-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0524",
+      "versions": [
+        {
+          "id": "URED8193-original",
+          "shortCode": "URED8193",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-02-19",
+          "effectiveFrom": "2021-02-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0524",
+          "proposer": null
+        },
+        {
+          "id": "URED8193-npb-URED8193",
+          "shortCode": "URED8193-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-02-19",
+          "effectiveFrom": "2021-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8193",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

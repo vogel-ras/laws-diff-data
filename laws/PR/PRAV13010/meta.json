@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13010",
+  "path": "laws/PR/PRAV13010",
+  "members": [
+    {
+      "id": "PRAV13010",
+      "title": "Pravilnik o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortTitle": "Pravilnik o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortCode": "PRAV13010",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0541",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-09-23",
+      "validFrom": "2025-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2025-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0541",
+      "versions": [
+        {
+          "id": "PRAV13010-original",
+          "shortCode": "PRAV13010",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-09-23",
+          "effectiveFrom": "2025-09-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0541",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13010-npb-PRAV13010",
+          "shortCode": "PRAV13010-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-03-03",
+          "effectiveFrom": "2017-03-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13195",
+      "title": "Pravilnik o spremembah Pravilnika o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortCode": "PRAV13195",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-2226",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-08-25",
+      "validFrom": "2017-08-25",
+      "validTo": null,
+      "latestPublishedAt": "2017-08-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2226",
+      "versions": [
+        {
+          "id": "PRAV13195-original",
+          "shortCode": "PRAV13195",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-08-25",
+          "effectiveFrom": "2017-08-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2226",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14205",
+      "title": "Pravilnik o spremembi Pravilnika o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o dopolnilnem usposabljanju in dimnikarski izkaznici",
+      "shortCode": "PRAV14205",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0431",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2021-02-12",
+      "validFrom": "2021-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0431",
+      "versions": [
+        {
+          "id": "PRAV14205-original",
+          "shortCode": "PRAV14205",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-02-12",
+          "effectiveFrom": "2021-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13010"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0431",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

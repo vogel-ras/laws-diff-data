@@ -1,0 +1,82 @@
+{
+  "root": "ODRE2092",
+  "path": "laws/OD/ODRE2092",
+  "members": [
+    {
+      "id": "ODRE2092",
+      "title": "Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti medicinskega pripomočka z zahtevami Zakona o medicinskih pripomočkih",
+      "shortTitle": "Odredba o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti medicinskega pripomočka z zahtevami Zakona o medicinskih pripomočkih",
+      "shortCode": "ODRE2092",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2011-01-1307",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-04-15",
+      "validFrom": "2011-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1307",
+      "versions": [
+        {
+          "id": "ODRE2092-original",
+          "shortCode": "ODRE2092",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-15",
+          "effectiveFrom": "2011-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1307",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2375",
+      "title": "Odredba o spremembah Odredbe o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti medicinskega pripomočka z zahtevami Zakona o medicinskih pripomočkih",
+      "shortTitle": "Odredba o spremembah Odredbe o seznamu standardov, katerih uporaba ustvari domnevo o skladnosti medicinskega pripomočka z zahtevami Zakona o medicinskih pripomočkih",
+      "shortCode": "ODRE2375",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2017-01-0737",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-03-31",
+      "validFrom": "2017-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0737",
+      "versions": [
+        {
+          "id": "ODRE2375-original",
+          "shortCode": "ODRE2375",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-31",
+          "effectiveFrom": "2017-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2092"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0737",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

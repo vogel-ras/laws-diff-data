@@ -1,0 +1,82 @@
+{
+  "root": "URED399",
+  "path": "laws/UR/URED399",
+  "members": [
+    {
+      "id": "URED399",
+      "title": "Uredba o določitvi davčnih uradov davčne uprave Republike Slovenije in njihovih sedežev",
+      "shortTitle": "Uredba o določitvi davčnih uradov davčne uprave Republike Slovenije in njihovih sedežev",
+      "shortCode": "URED399",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-1495",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-05-10",
+      "validFrom": "1996-05-10",
+      "validTo": null,
+      "latestPublishedAt": "1996-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1495",
+      "versions": [
+        {
+          "id": "URED399-original",
+          "shortCode": "URED399",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-05-10",
+          "effectiveFrom": "1996-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1495",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED979",
+      "title": "Uredba o spremembi uredbe o določitvi Davčnih uradov davčne uprave Republike Slovenije in njihovih sedežev",
+      "shortTitle": "Uredba o spremembi uredbe o določitvi Davčnih uradov davčne uprave Republike Slovenije in njihovih sedežev",
+      "shortCode": "URED979",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-0283",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-01-21",
+      "validFrom": "2000-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0283",
+      "versions": [
+        {
+          "id": "URED979-original",
+          "shortCode": "URED979",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-21",
+          "effectiveFrom": "2000-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED399"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0283",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

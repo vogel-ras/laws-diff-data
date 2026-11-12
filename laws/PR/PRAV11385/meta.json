@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11385",
+  "path": "laws/PR/PRAV11385",
+  "members": [
+    {
+      "id": "PRAV11385",
+      "title": "Pravilnik o zasnovi in študiji požarne varnosti",
+      "shortTitle": "Pravilnik o zasnovi in študiji požarne varnosti",
+      "shortCode": "PRAV11385",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-0317",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2013-02-07",
+      "validFrom": "2013-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2013-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0317",
+      "versions": [
+        {
+          "id": "PRAV11385-original",
+          "shortCode": "PRAV11385",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-02-07",
+          "effectiveFrom": "2013-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0317",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11385-npb-PRAV11385",
+          "shortCode": "PRAV11385-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-02-07",
+          "effectiveFrom": "2013-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11385",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11654",
+      "title": "Pravilnik o spremembi Pravilnika o zasnovi in študiji požarne varnosti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o zasnovi in študiji požarne varnosti",
+      "shortCode": "PRAV11654",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1881",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2013-06-07",
+      "validFrom": "2013-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1881",
+      "versions": [
+        {
+          "id": "PRAV11654-original",
+          "shortCode": "PRAV11654",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-06-07",
+          "effectiveFrom": "2013-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11385"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1881",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

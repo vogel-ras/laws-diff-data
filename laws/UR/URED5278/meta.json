@@ -1,0 +1,97 @@
+{
+  "root": "URED5278",
+  "path": "laws/UR/URED5278",
+  "members": [
+    {
+      "id": "URED5278",
+      "title": "Uredba o koncesiji za graditev sedežnice Čaplja v Planici",
+      "shortTitle": "Uredba o koncesiji za graditev sedežnice Čaplja v Planici",
+      "shortCode": "URED5278",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3644",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-10-16",
+      "validFrom": "2009-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3644",
+      "versions": [
+        {
+          "id": "URED5278-original",
+          "shortCode": "URED5278",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-10-16",
+          "effectiveFrom": "2009-10-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3644",
+          "proposer": null
+        },
+        {
+          "id": "URED5278-npb-URED5278",
+          "shortCode": "URED5278-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-10-16",
+          "effectiveFrom": "2009-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5278",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5427",
+      "title": "Uredba o spremembi Uredbe o koncesiji za graditev sedežnice Čaplja v Planici",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesiji za graditev sedežnice Čaplja v Planici",
+      "shortCode": "URED5427",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-0477",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-02-19",
+      "validFrom": "2010-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0477",
+      "versions": [
+        {
+          "id": "URED5427-original",
+          "shortCode": "URED5427",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-02-19",
+          "effectiveFrom": "2010-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5278"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0477",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

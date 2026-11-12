@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4701",
+  "path": "laws/PR/PRAV4701",
+  "members": [
+    {
+      "id": "PRAV4701",
+      "title": "Pravilnik o ravnanju z osebnimi podatki in o načinu varovanja osebnih podatkov pri opravljanju detektivske dejavnosti",
+      "shortTitle": "Pravilnik o ravnanju z osebnimi podatki in o načinu varovanja osebnih podatkov pri opravljanju detektivske dejavnosti",
+      "shortCode": "PRAV4701",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2476",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2003-06-03",
+      "validFrom": "2003-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2476",
+      "versions": [
+        {
+          "id": "PRAV4701-original",
+          "shortCode": "PRAV4701",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-03",
+          "effectiveFrom": "2003-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2476",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8908",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o ravnanju z osebnimi podatki in o načinu varovanja osebnih podatkov pri opravljanju detektivske dejavnosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o ravnanju z osebnimi podatki in o načinu varovanja osebnih podatkov pri opravljanju detektivske dejavnosti",
+      "shortCode": "PRAV8908",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0917",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2008-03-14",
+      "validFrom": "2008-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2008-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0917",
+      "versions": [
+        {
+          "id": "PRAV8908-original",
+          "shortCode": "PRAV8908",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-03-14",
+          "effectiveFrom": "2008-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4701"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0917",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

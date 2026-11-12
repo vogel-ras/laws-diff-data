@@ -1,0 +1,103 @@
+{
+  "root": "ZPNPID",
+  "path": "laws/ZP/ZPNPID",
+  "members": [
+    {
+      "id": "ZPNPID",
+      "title": "Zakon o pravnih naslednicah pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o pravnih naslednicah pooblaščenih investicijskih družb",
+      "shortCode": "ZPNPID",
+      "kind": "zakon",
+      "keywords": [
+        "investicijska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3760",
+      "gazette": "Uradni list RS 68/07  str. 9621",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-30",
+      "validFrom": "2007-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3760",
+      "versions": [
+        {
+          "id": "ZPNPID-original",
+          "shortCode": "ZPNPID",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/07  str. 9621",
+          "publishedAt": "2007-07-30",
+          "effectiveFrom": "2007-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3760",
+          "proposer": null
+        },
+        {
+          "id": "ZPNPID-amend-ZPNPID-B",
+          "shortCode": "ZPNPID-B",
+          "label": "Sprememba ZPNPID-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/09  str. 5564",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1921",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNPID-B",
+      "title": "Zakon o spremembi zakona o pravnih naslednicah pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o spremembi zakona o pravnih naslednicah pooblaščenih investicijskih družb",
+      "shortCode": "ZPNPID-B",
+      "kind": "zakon",
+      "keywords": [
+        "investicijska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1921",
+      "gazette": "Uradni list RS 40/09  str. 5564",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-29",
+      "validFrom": "2009-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1921",
+      "versions": [
+        {
+          "id": "ZPNPID-B-original",
+          "shortCode": "ZPNPID-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/09  str. 5564",
+          "publishedAt": "2009-05-29",
+          "effectiveFrom": "2009-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1921",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

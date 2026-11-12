@@ -1,0 +1,652 @@
+{
+  "root": "KZ",
+  "path": "laws/KZ/KZ",
+  "members": [
+    {
+      "id": "KZ",
+      "title": "Kazenski zakonik Republike Slovenije",
+      "shortTitle": "Kazenski zakonik Republike Slovenije",
+      "shortCode": "KZ",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2167",
+      "gazette": "Uradni list RS 63/94  str. 3455",
+      "issuingBody": null,
+      "adoptedAt": "1994-10-13",
+      "validFrom": "1994-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2167",
+      "versions": [
+        {
+          "id": "KZ-original",
+          "shortCode": "KZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/94  str. 3455",
+          "publishedAt": "1994-10-13",
+          "effectiveFrom": "1994-10-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2167",
+          "proposer": null
+        },
+        {
+          "id": "KZ-amend-KZ-A",
+          "shortCode": "KZ-A",
+          "label": "Sprememba KZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 23/99  str. 2517",
+          "publishedAt": "1999-04-08",
+          "effectiveFrom": "1999-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "KZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1035",
+          "proposer": null
+        },
+        {
+          "id": "KZ-amend-KZ-B",
+          "shortCode": "KZ-B",
+          "label": "Sprememba KZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 40/04  str. 4688",
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "KZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1662",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1A",
+      "title": "Zakon o spremembi Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembi Kazenskega zakonika",
+      "shortCode": "KZ-1A",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1876",
+      "gazette": "Uradni list RS 39/09  str. 5501",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-26",
+      "validFrom": "2009-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1876",
+      "versions": [
+        {
+          "id": "KZ-1A-original",
+          "shortCode": "KZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/09  str. 5501",
+          "publishedAt": "2009-05-26",
+          "effectiveFrom": "2009-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1876",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1C",
+      "title": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortCode": "KZ-1C",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2227",
+      "gazette": "Uradni list RS 54/15  str. 6196",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-20",
+      "validFrom": "2015-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2227",
+      "versions": [
+        {
+          "id": "KZ-1C-original",
+          "shortCode": "KZ-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/15  str. 6196",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2227",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1D",
+      "title": "Zakon o spremembi Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembi Kazenskega zakonika",
+      "shortCode": "KZ-1D",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1628",
+      "gazette": "Uradni list RS 38/16  str. 5662",
+      "issuingBody": null,
+      "adoptedAt": "2016-05-27",
+      "validFrom": "2016-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1628",
+      "versions": [
+        {
+          "id": "KZ-1D-original",
+          "shortCode": "KZ-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/16  str. 5662",
+          "publishedAt": "2016-05-27",
+          "effectiveFrom": "2016-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1628",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1G",
+      "title": "Zakon o spremembi Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembi Kazenskega zakonika",
+      "shortCode": "KZ-1G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1559",
+      "gazette": "Uradni list RS 91/20  str. 3458",
+      "issuingBody": null,
+      "adoptedAt": "2020-06-26",
+      "validFrom": "2020-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1559",
+      "versions": [
+        {
+          "id": "KZ-1G-original",
+          "shortCode": "KZ-1G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/20  str. 3458",
+          "publishedAt": "2020-06-26",
+          "effectiveFrom": "2020-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1559",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1H",
+      "title": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortCode": "KZ-1H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-2055",
+      "gazette": "Uradni list RS 95/21  str. 5970",
+      "issuingBody": null,
+      "adoptedAt": "2021-06-15",
+      "validFrom": "2021-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2055",
+      "versions": [
+        {
+          "id": "KZ-1H-original",
+          "shortCode": "KZ-1H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/21  str. 5970",
+          "publishedAt": "2021-06-15",
+          "effectiveFrom": "2021-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2055",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-1J",
+      "title": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Kazenskega zakonika",
+      "shortCode": "KZ-1J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0302",
+      "gazette": "Uradni list RS 16/23  str. 981",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-07",
+      "validFrom": "2023-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0302",
+      "versions": [
+        {
+          "id": "KZ-1J-original",
+          "shortCode": "KZ-1J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/23  str. 981",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0302",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-A",
+      "title": "Zakon o spremembah in dopolnitvah kazenskega zakonika Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah kazenskega zakonika Republike Slovenije",
+      "shortCode": "KZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1035",
+      "gazette": "Uradni list RS 23/99  str. 2517",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-08",
+      "validFrom": "1999-04-08",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1035",
+      "versions": [
+        {
+          "id": "KZ-A-original",
+          "shortCode": "KZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/99  str. 2517",
+          "publishedAt": "1999-04-08",
+          "effectiveFrom": "1999-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "KZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1035",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "KZ-B",
+      "title": "Zakon o spremembah in dopolnitvah kazenskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah kazenskega zakonika",
+      "shortCode": "KZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "kazenski zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1662",
+      "gazette": "Uradni list RS 40/04  str. 4688",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-20",
+      "validFrom": "2004-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1662",
+      "versions": [
+        {
+          "id": "KZ-B-original",
+          "shortCode": "KZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/04  str. 4688",
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "KZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1662",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO5050",
+      "title": "Kazenski zakonik (KZ-1)",
+      "shortTitle": "Kazenski zakonik (KZ-1)",
+      "shortCode": "KZ-1",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2296",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-06-04",
+      "validFrom": "2008-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2296",
+      "versions": [
+        {
+          "id": "ZAKO5050-original",
+          "shortCode": "KZ-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-04",
+          "effectiveFrom": "2008-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2296",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1A",
+          "shortCode": "KZ-1A",
+          "label": "Sprememba KZ-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/09  str. 5501",
+          "publishedAt": "2009-05-26",
+          "effectiveFrom": "2009-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1876",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1C",
+          "shortCode": "KZ-1C",
+          "label": "Sprememba KZ-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 54/15  str. 6196",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2227",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1D",
+          "shortCode": "KZ-1D",
+          "label": "Sprememba KZ-1D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 38/16  str. 5662",
+          "publishedAt": "2016-05-27",
+          "effectiveFrom": "2016-05-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1628",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-ZAKO7390",
+          "shortCode": "KZ-1E",
+          "label": "Sprememba KZ-1E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2017-06-02",
+          "effectiveFrom": "2017-06-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1445",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1G",
+          "shortCode": "KZ-1G",
+          "label": "Sprememba KZ-1G",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 91/20  str. 3458",
+          "publishedAt": "2020-06-26",
+          "effectiveFrom": "2020-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1559",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1H",
+          "shortCode": "KZ-1H",
+          "label": "Sprememba KZ-1H",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 95/21  str. 5970",
+          "publishedAt": "2021-06-15",
+          "effectiveFrom": "2021-06-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2055",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-KZ-1J",
+          "shortCode": "KZ-1J",
+          "label": "Sprememba KZ-1J",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 16/23  str. 981",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0302",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5050-amend-ZAKO9445",
+          "shortCode": "KZ-1K",
+          "label": "Sprememba ZAKO9445",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": null,
+          "publishedAt": "2026-10-02",
+          "effectiveFrom": "2026-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2224",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7390",
+      "title": "Zakon o spremembah in dopolnitvah Kazenskega zakonika (KZ-1E)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Kazenskega zakonika (KZ-1E)",
+      "shortCode": "KZ-1E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1445",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-02",
+      "validFrom": "2017-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1445",
+      "versions": [
+        {
+          "id": "ZAKO7390-original",
+          "shortCode": "KZ-1E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-02",
+          "effectiveFrom": "2017-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1445",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9445",
+      "title": "Zakon o spremembi Kazenskega zakonika (KZ-1K)",
+      "shortTitle": "Zakon o spremembi Kazenskega zakonika (KZ-1K)",
+      "shortCode": "KZ-1K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-2224",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-02",
+      "validFrom": "2026-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2224",
+      "versions": [
+        {
+          "id": "ZAKO9445-original",
+          "shortCode": "KZ-1K",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-02",
+          "effectiveFrom": "2026-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5050"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2224",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

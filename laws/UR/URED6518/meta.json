@@ -1,0 +1,58 @@
+{
+  "root": "URED6518",
+  "path": "laws/UR/URED6518",
+  "members": [
+    {
+      "id": "URED6518",
+      "title": "Uredba o izvajanju Uredbe (ES) o pošiljkah odpadkov",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) o pošiljkah odpadkov",
+      "shortCode": "URED6518",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-3330",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-12-05",
+      "validFrom": "2016-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3330",
+      "versions": [
+        {
+          "id": "URED6518-original",
+          "shortCode": "URED6518",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-05",
+          "effectiveFrom": "2016-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3330",
+          "proposer": null
+        },
+        {
+          "id": "URED6518-npb-URED6518",
+          "shortCode": "URED6518-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-05",
+          "effectiveFrom": "2016-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6518",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "root": "ZPDVBH",
+  "path": "laws/ZP/ZPDVBH",
+  "members": [
+    {
+      "id": "ZPDVBH",
+      "title": "Zakon o posebnem davku na bilančno vsoto bank in hranilnic",
+      "shortTitle": "Zakon o posebnem davku na bilančno vsoto bank in hranilnic",
+      "shortCode": "ZPDVBH",
+      "kind": "zakon",
+      "keywords": [
+        "davek na dobiček pravnih oseb",
+        "banka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-4013",
+      "gazette": "Uradni list RS 87/97  str. 8371",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-29",
+      "validFrom": "1997-12-29",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4013",
+      "versions": [
+        {
+          "id": "ZPDVBH-original",
+          "shortCode": "ZPDVBH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/97  str. 8371",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4013",
+          "proposer": null
+        },
+        {
+          "id": "ZPDVBH-amend-ZPDVBH-A",
+          "shortCode": "ZPDVBH-A",
+          "label": "Sprememba ZPDVBH-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 84/98  str. 7081",
+          "publishedAt": "1998-12-11",
+          "effectiveFrom": "1998-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDVBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4321",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDVBH-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o posebnem davku na bilančno vsoto bank in hranilnic",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o posebnem davku na bilančno vsoto bank in hranilnic",
+      "shortCode": "ZPDVBH-A",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "hranilnica",
+        "davek",
+        "bilanca"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4321",
+      "gazette": "Uradni list RS 84/98  str. 7081",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-11",
+      "validFrom": "1998-12-11",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4321",
+      "versions": [
+        {
+          "id": "ZPDVBH-A-original",
+          "shortCode": "ZPDVBH-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/98  str. 7081",
+          "publishedAt": "1998-12-11",
+          "effectiveFrom": "1998-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDVBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4321",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

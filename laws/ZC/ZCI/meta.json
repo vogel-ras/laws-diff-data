@@ -1,0 +1,47 @@
+{
+  "root": "ZCI",
+  "path": "laws/ZC/ZCI",
+  "members": [
+    {
+      "id": "ZCI",
+      "title": "Zakon o civilnih invalidih vojne",
+      "shortTitle": "Zakon o civilnih invalidih vojne",
+      "shortCode": "ZCI",
+      "kind": "zakon",
+      "keywords": [
+        "civilna žrtev",
+        "žrtev vojne",
+        "invalid"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2570",
+      "gazette": "Uradni list RS 56/92  str. 3181",
+      "issuingBody": null,
+      "adoptedAt": "1992-11-27",
+      "validFrom": "1992-11-27",
+      "validTo": null,
+      "latestPublishedAt": "1992-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2570",
+      "versions": [
+        {
+          "id": "ZCI-original",
+          "shortCode": "ZCI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/92  str. 3181",
+          "publishedAt": "1992-11-27",
+          "effectiveFrom": "1992-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2570",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

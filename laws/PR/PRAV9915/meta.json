@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9915",
+  "path": "laws/PR/PRAV9915",
+  "members": [
+    {
+      "id": "PRAV13540",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o uniformi uslužbencev Uprave Republike Slovenije za pomorstvo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o uniformi uslužbencev Uprave Republike Slovenije za pomorstvo",
+      "shortCode": "PRAV13540",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-3318",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2018-10-19",
+      "validFrom": "2018-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2018-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3318",
+      "versions": [
+        {
+          "id": "PRAV13540-original",
+          "shortCode": "PRAV13540",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-10-19",
+          "effectiveFrom": "2018-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9915"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3318",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9915",
+      "title": "Pravilnik o uniformi uslužbencev Uprave Republike Slovenije za pomorstvo",
+      "shortTitle": "Pravilnik o uniformi uslužbencev Uprave Republike Slovenije za pomorstvo",
+      "shortCode": "PRAV9915",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5292",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-17",
+      "validFrom": "2010-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5292",
+      "versions": [
+        {
+          "id": "PRAV9915-original",
+          "shortCode": "PRAV9915",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5292",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9915-npb-PRAV9915",
+          "shortCode": "PRAV9915-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9915",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

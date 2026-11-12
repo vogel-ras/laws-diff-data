@@ -1,0 +1,343 @@
+{
+  "root": "ZPD",
+  "path": "laws/ZP/ZPD",
+  "members": [
+    {
+      "id": "ZPD",
+      "title": "Zakon o prometnem davku",
+      "shortTitle": "Zakon o prometnem davku",
+      "shortCode": "ZPD",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni sistem",
+        "posredni davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0245",
+      "gazette": "Uradni list RS 4/92  str. 265",
+      "issuingBody": null,
+      "adoptedAt": "1992-01-25",
+      "validFrom": "1992-01-25",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0245",
+      "versions": [
+        {
+          "id": "ZPD-original",
+          "shortCode": "ZPD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 4/92  str. 265",
+          "publishedAt": "1992-01-25",
+          "effectiveFrom": "1992-01-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0245",
+          "proposer": null
+        },
+        {
+          "id": "ZPD-amend-ZPD-A",
+          "shortCode": "ZPD-A",
+          "label": "Sprememba ZPD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 71/93  str. 3687",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2572",
+          "proposer": null
+        },
+        {
+          "id": "ZPD-amend-ZPD-B",
+          "shortCode": "ZPD-B",
+          "label": "Sprememba ZPD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 16/96  str. 1237",
+          "publishedAt": "1996-03-22",
+          "effectiveFrom": "1996-03-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0842",
+          "proposer": null
+        },
+        {
+          "id": "ZPD-amend-ZPD-D",
+          "shortCode": "ZPD-D",
+          "label": "Sprememba ZPD-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 57/97  str. 4813",
+          "publishedAt": "1997-09-19",
+          "effectiveFrom": "1997-09-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2899",
+          "proposer": null
+        },
+        {
+          "id": "ZPD-amend-ZPD-E",
+          "shortCode": "ZPD-E",
+          "label": "Sprememba ZPD-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 3/98  str. 126",
+          "publishedAt": "1998-01-17",
+          "effectiveFrom": "1998-01-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0138",
+          "proposer": null
+        },
+        {
+          "id": "ZPD-amend-ZPD-F",
+          "shortCode": "ZPD-F",
+          "label": "Sprememba ZPD-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 35/98  str. 2493",
+          "publishedAt": "1998-05-08",
+          "effectiveFrom": "1998-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1501",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPD-A",
+      "title": "Zakon o spremembi zakona o prometnem davku",
+      "shortTitle": "Zakon o spremembi zakona o prometnem davku",
+      "shortCode": "ZPD-A",
+      "kind": "zakon",
+      "keywords": [
+        "posredni davek",
+        "davek",
+        "davčni sistem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2572",
+      "gazette": "Uradni list RS 71/93  str. 3687",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-30",
+      "validFrom": "1993-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2572",
+      "versions": [
+        {
+          "id": "ZPD-A-original",
+          "shortCode": "ZPD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/93  str. 3687",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2572",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPD-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o prometnem davku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o prometnem davku",
+      "shortCode": "ZPD-B",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni sistem",
+        "posredni davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0842",
+      "gazette": "Uradni list RS 16/96  str. 1237",
+      "issuingBody": null,
+      "adoptedAt": "1996-03-22",
+      "validFrom": "1996-03-22",
+      "validTo": null,
+      "latestPublishedAt": "1996-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0842",
+      "versions": [
+        {
+          "id": "ZPD-B-original",
+          "shortCode": "ZPD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/96  str. 1237",
+          "publishedAt": "1996-03-22",
+          "effectiveFrom": "1996-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0842",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPD-D",
+      "title": "Zakon o spremembi zakona o prometnem davku",
+      "shortTitle": "Zakon o spremembi zakona o prometnem davku",
+      "shortCode": "ZPD-D",
+      "kind": "zakon",
+      "keywords": [
+        "davek na motorna vozila",
+        "invalid"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2899",
+      "gazette": "Uradni list RS 57/97  str. 4813",
+      "issuingBody": null,
+      "adoptedAt": "1997-09-19",
+      "validFrom": "1997-09-19",
+      "validTo": null,
+      "latestPublishedAt": "1997-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2899",
+      "versions": [
+        {
+          "id": "ZPD-D-original",
+          "shortCode": "ZPD-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/97  str. 4813",
+          "publishedAt": "1997-09-19",
+          "effectiveFrom": "1997-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2899",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPD-E",
+      "title": "Zakon o spremembi zakona o prometnem davku",
+      "shortTitle": "Zakon o spremembi zakona o prometnem davku",
+      "shortCode": "ZPD-E",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0138",
+      "gazette": "Uradni list RS 3/98  str. 126",
+      "issuingBody": null,
+      "adoptedAt": "1998-01-17",
+      "validFrom": "1998-01-17",
+      "validTo": null,
+      "latestPublishedAt": "1998-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0138",
+      "versions": [
+        {
+          "id": "ZPD-E-original",
+          "shortCode": "ZPD-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 3/98  str. 126",
+          "publishedAt": "1998-01-17",
+          "effectiveFrom": "1998-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0138",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPD-F",
+      "title": "Zakon o spremembah zakona o prometnem davku",
+      "shortTitle": "Zakon o spremembah zakona o prometnem davku",
+      "shortCode": "ZPD-F",
+      "kind": "zakon",
+      "keywords": [
+        "davek na goriva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-1501",
+      "gazette": "Uradni list RS 35/98  str. 2493",
+      "issuingBody": null,
+      "adoptedAt": "1998-05-08",
+      "validFrom": "1998-05-08",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1501",
+      "versions": [
+        {
+          "id": "ZPD-F-original",
+          "shortCode": "ZPD-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/98  str. 2493",
+          "publishedAt": "1998-05-08",
+          "effectiveFrom": "1998-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1501",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

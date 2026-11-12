@@ -1,0 +1,121 @@
+{
+  "root": "PRAV6651",
+  "path": "laws/PR/PRAV6651",
+  "members": [
+    {
+      "id": "PRAV6651",
+      "title": "Pravilnik o vodenju in vzdrževanju davčnega registra",
+      "shortTitle": "Pravilnik o vodenju in vzdrževanju davčnega registra",
+      "shortCode": "PRAV6651",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1032",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-03-25",
+      "validFrom": "2005-03-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-03-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1032",
+      "versions": [
+        {
+          "id": "PRAV6651-original",
+          "shortCode": "PRAV6651",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-03-25",
+          "effectiveFrom": "2005-03-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1032",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8454",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju in vzdrževanju davčnega registra",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju in vzdrževanju davčnega registra",
+      "shortCode": "PRAV8454",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-6095",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2007-12-27",
+      "validFrom": "2007-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6095",
+      "versions": [
+        {
+          "id": "PRAV8454-original",
+          "shortCode": "PRAV8454",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-27",
+          "effectiveFrom": "2007-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6651"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6095",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9499",
+      "title": "Pravilnik o spremembah Pravilnika o vodenju in vzdrževanju davčnega registra",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o vodenju in vzdrževanju davčnega registra",
+      "shortCode": "PRAV9499",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-1405",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-04-16",
+      "validFrom": "2010-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1405",
+      "versions": [
+        {
+          "id": "PRAV9499-original",
+          "shortCode": "PRAV9499",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-04-16",
+          "effectiveFrom": "2010-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6651"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1405",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "SKLE3192",
+  "path": "laws/SK/SKLE3192",
+  "members": [
+    {
+      "id": "SKLE3192",
+      "title": "Sklep o upravljanju sistema žiro kliring",
+      "shortTitle": "Sklep o upravljanju sistema žiro kliring",
+      "shortCode": "SKLE3192",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-3194",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2002-07-25",
+      "validFrom": "2002-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3194",
+      "versions": [
+        {
+          "id": "SKLE3192-original",
+          "shortCode": "SKLE3192",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-25",
+          "effectiveFrom": "2002-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3194",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5566",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o upravljanju sistema Žiro kliring",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o upravljanju sistema Žiro kliring",
+      "shortCode": "SKLE5566",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2005-01-1662",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2005-04-25",
+      "validFrom": "2005-04-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1662",
+      "versions": [
+        {
+          "id": "SKLE5566-original",
+          "shortCode": "SKLE5566",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-04-25",
+          "effectiveFrom": "2005-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3192"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1662",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6683",
+      "title": "Sklep o spremembah Sklepa o upravljanju sistema Žiro kliring",
+      "shortTitle": "Sklep o spremembah Sklepa o upravljanju sistema Žiro kliring",
+      "shortCode": "SKLE6683",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-4509",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4509",
+      "versions": [
+        {
+          "id": "SKLE6683-original",
+          "shortCode": "SKLE6683",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3192"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4509",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

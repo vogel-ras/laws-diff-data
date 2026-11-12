@@ -1,0 +1,58 @@
+{
+  "root": "PRAV14791",
+  "path": "laws/PR/PRAV14791",
+  "members": [
+    {
+      "id": "PRAV14791",
+      "title": "Pravilnik o strokovnih komisijah",
+      "shortTitle": "Pravilnik o strokovnih komisijah",
+      "shortCode": "PRAV14791",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2977",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2022-09-30",
+      "validFrom": "2022-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2977",
+      "versions": [
+        {
+          "id": "PRAV14791-original",
+          "shortCode": "PRAV14791",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-30",
+          "effectiveFrom": "2022-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2977",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14791-npb-PRAV14791",
+          "shortCode": "PRAV14791-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-09-30",
+          "effectiveFrom": "2022-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14791",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "URED4397",
+  "path": "laws/UR/URED4397",
+  "members": [
+    {
+      "id": "URED4397",
+      "title": "Uredba o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortTitle": "Uredba o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortCode": "URED4397",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2112",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-05-22",
+      "validFrom": "2008-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2112",
+      "versions": [
+        {
+          "id": "URED4397-original",
+          "shortCode": "URED4397",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-22",
+          "effectiveFrom": "2008-05-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2112",
+          "proposer": null
+        },
+        {
+          "id": "URED4397-npb-URED4397",
+          "shortCode": "URED4397-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-05-22",
+          "effectiveFrom": "2008-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4397",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6169",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortCode": "URED6169",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2778",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-09-26",
+      "validFrom": "2012-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2778",
+      "versions": [
+        {
+          "id": "URED6169-original",
+          "shortCode": "URED6169",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-09-26",
+          "effectiveFrom": "2012-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4397"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2778",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6386",
+      "title": "Uredba o spremembah Uredbe o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortTitle": "Uredba o spremembah Uredbe o vodovarstvenem območju za vodno telo vodonosnikov Rižane",
+      "shortCode": "URED6386",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2687",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-08-23",
+      "validFrom": "2013-08-23",
+      "validTo": null,
+      "latestPublishedAt": "2013-08-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2687",
+      "versions": [
+        {
+          "id": "URED6386-original",
+          "shortCode": "URED6386",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-08-23",
+          "effectiveFrom": "2013-08-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4397"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2687",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

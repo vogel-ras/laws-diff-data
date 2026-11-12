@@ -1,0 +1,121 @@
+{
+  "root": "PRAV10090",
+  "path": "laws/PR/PRAV10090",
+  "members": [
+    {
+      "id": "PRAV10090",
+      "title": "Pravilnik o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortTitle": "Pravilnik o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortCode": "PRAV10090",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0204",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-01-29",
+      "validFrom": "2010-01-29",
+      "validTo": null,
+      "latestPublishedAt": "2010-01-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0204",
+      "versions": [
+        {
+          "id": "PRAV10090-original",
+          "shortCode": "PRAV10090",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-01-29",
+          "effectiveFrom": "2010-01-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0204",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11295",
+      "title": "Pravilnik o spremembi Pravilnika o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortCode": "PRAV11295",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-0851",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-03-18",
+      "validFrom": "2013-03-18",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0851",
+      "versions": [
+        {
+          "id": "PRAV11295-original",
+          "shortCode": "PRAV11295",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-03-18",
+          "effectiveFrom": "2013-03-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10090"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14998",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju, licencah in registru licenc neodvisnih strokovnjakov za izdelavo energetskih izkaznic",
+      "shortCode": "PRAV14998",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-1350",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-04-21",
+      "validFrom": "2023-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1350",
+      "versions": [
+        {
+          "id": "PRAV14998-original",
+          "shortCode": "PRAV14998",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-04-21",
+          "effectiveFrom": "2023-04-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10090"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1350",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

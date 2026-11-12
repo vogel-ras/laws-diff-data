@@ -1,0 +1,58 @@
+{
+  "root": "PRAV5304",
+  "path": "laws/PR/PRAV5304",
+  "members": [
+    {
+      "id": "PRAV5304",
+      "title": "Pravilnik o vsebini in načinu vodenja zbirke podatkov o dejanski rabi prostora",
+      "shortTitle": "Pravilnik o vsebini in načinu vodenja zbirke podatkov o dejanski rabi prostora",
+      "shortCode": "PRAV5304",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0415",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-09",
+      "validFrom": "2026-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0415",
+      "versions": [
+        {
+          "id": "PRAV5304-original",
+          "shortCode": "PRAV5304",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-09",
+          "effectiveFrom": "2026-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0415",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5304-npb-PRAV5304",
+          "shortCode": "PRAV5304-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-02-02",
+          "effectiveFrom": "2004-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5304",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

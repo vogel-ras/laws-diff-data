@@ -1,0 +1,82 @@
+{
+  "root": "NAVO549",
+  "path": "laws/NA/NAVO549",
+  "members": [
+    {
+      "id": "NAVO549",
+      "title": "Pravilnik o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortTitle": "Pravilnik o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortCode": "NAVO549",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2001-01-4339",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2001-10-26",
+      "validFrom": "2001-10-26",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4339",
+      "versions": [
+        {
+          "id": "NAVO549-original",
+          "shortCode": "NAVO549",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-10-26",
+          "effectiveFrom": "2001-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4339",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5553",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu sporočanja podatkov Uradu Republike Slovenije za preprečevanje pranja denarja",
+      "shortCode": "PRAV5553",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0016",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-01-09",
+      "validFrom": "2004-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0016",
+      "versions": [
+        {
+          "id": "PRAV5553-original",
+          "shortCode": "PRAV5553",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO549"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0016",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

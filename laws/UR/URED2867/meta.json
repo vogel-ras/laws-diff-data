@@ -1,0 +1,97 @@
+{
+  "root": "URED2867",
+  "path": "laws/UR/URED2867",
+  "members": [
+    {
+      "id": "URED2867",
+      "title": "Uredba o Krajinskem parku Goričko",
+      "shortTitle": "Uredba o Krajinskem parku Goričko",
+      "shortCode": "URED2867",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4505",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-10-21",
+      "validFrom": "2003-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4505",
+      "versions": [
+        {
+          "id": "URED2867-original",
+          "shortCode": "URED2867",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4505",
+          "proposer": null
+        },
+        {
+          "id": "URED2867-npb-URED2867",
+          "shortCode": "URED2867-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2867",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9232",
+      "title": "Uredba o spremembi Uredbe o Krajinskem parku Goričko",
+      "shortTitle": "Uredba o spremembi Uredbe o Krajinskem parku Goričko",
+      "shortCode": "URED9232",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1563",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-05-30",
+      "validFrom": "2025-05-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1563",
+      "versions": [
+        {
+          "id": "URED9232-original",
+          "shortCode": "URED9232",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-30",
+          "effectiveFrom": "2025-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2867"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1563",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

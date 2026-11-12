@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6909",
+  "path": "laws/PR/PRAV6909",
+  "members": [
+    {
+      "id": "PRAV14112",
+      "title": "Pravilnik o spremembah Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Unec-Škocjan (2014–2023)",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Unec-Škocjan (2014–2023)",
+      "shortCode": "PRAV14112",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-2457",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-10-09",
+      "validFrom": "2020-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2457",
+      "versions": [
+        {
+          "id": "PRAV14112-original",
+          "shortCode": "PRAV14112",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6909"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2457",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6909",
+      "title": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Unec - Škocjan (2004-2013)",
+      "shortTitle": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Unec - Škocjan (2004-2013)",
+      "shortCode": "PRAV6909",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2116",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2007-05-04",
+      "validFrom": "2007-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2116",
+      "versions": [
+        {
+          "id": "PRAV6909-original",
+          "shortCode": "PRAV6909",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-04",
+          "effectiveFrom": "2007-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2116",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

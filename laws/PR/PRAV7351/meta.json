@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7351",
+  "path": "laws/PR/PRAV7351",
+  "members": [
+    {
+      "id": "PRAV7351",
+      "title": "Pravilnik o vrstah in vsebini potrdil iz zbirk geodetskih podatkov ter o načinu izkazovanja podatkov",
+      "shortTitle": "Pravilnik o vrstah in vsebini potrdil iz zbirk geodetskih podatkov ter o načinu izkazovanja podatkov",
+      "shortCode": "PRAV7351",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-1084",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2007-03-12",
+      "validFrom": "2007-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1084",
+      "versions": [
+        {
+          "id": "PRAV7351-original",
+          "shortCode": "PRAV7351",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-12",
+          "effectiveFrom": "2007-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1084",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9412",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vrstah in vsebini potrdil iz zbirk geodetskih podatkov ter o načinu izkazovanja podatkov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vrstah in vsebini potrdil iz zbirk geodetskih podatkov ter o načinu izkazovanja podatkov",
+      "shortCode": "PRAV9412",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1514",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-30",
+      "validFrom": "2009-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1514",
+      "versions": [
+        {
+          "id": "PRAV9412-original",
+          "shortCode": "PRAV9412",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1514",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

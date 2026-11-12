@@ -1,0 +1,82 @@
+{
+  "root": "ODLO1093",
+  "path": "ordinances/OD/ODLO1093",
+  "members": [
+    {
+      "id": "ODLO1093",
+      "title": "Odlok o odprtju Konzulata v Kijevu",
+      "shortTitle": "Odlok o odprtju Konzulata v Kijevu",
+      "shortCode": "ODLO1093",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-0626",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-02-22",
+      "validFrom": "2002-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0626",
+      "versions": [
+        {
+          "id": "ODLO1093-original",
+          "shortCode": "ODLO1093",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-22",
+          "effectiveFrom": "2002-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0626",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6098",
+      "title": "Odlok o spremembi Odloka o odprtju Konzulata v Kijevu",
+      "shortTitle": "Odlok o spremembi Odloka o odprtju Konzulata v Kijevu",
+      "shortCode": "SKLE6098",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2005-01-4406",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4406",
+      "versions": [
+        {
+          "id": "SKLE6098-original",
+          "shortCode": "SKLE6098",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1093"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4406",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

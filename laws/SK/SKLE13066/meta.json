@@ -1,0 +1,121 @@
+{
+  "root": "SKLE13066",
+  "path": "laws/SK/SKLE13066",
+  "members": [
+    {
+      "id": "SKLE13066",
+      "title": "Sklep o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortTitle": "Sklep o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortCode": "SKLE13066",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-4182",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-03-27",
+      "validFrom": "2023-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4182",
+      "versions": [
+        {
+          "id": "SKLE13066-original",
+          "shortCode": "SKLE13066",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-03-27",
+          "effectiveFrom": "2023-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4182",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13118",
+      "title": "Sklep o spremembah Sklepa o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortTitle": "Sklep o spremembah Sklepa o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortCode": "SKLE13118",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-0048",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-01-12",
+      "validFrom": "2023-01-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0048",
+      "versions": [
+        {
+          "id": "SKLE13118-original",
+          "shortCode": "SKLE13118",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-01-12",
+          "effectiveFrom": "2023-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13066"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13187",
+      "title": "Sklep o spremembah Sklepa o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortTitle": "Sklep o spremembah Sklepa o ustanovitvi Nacionalnega inštituta za javno zdravje",
+      "shortCode": "SKLE13187",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-1001",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-03-27",
+      "validFrom": "2023-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1001",
+      "versions": [
+        {
+          "id": "SKLE13187-original",
+          "shortCode": "SKLE13187",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-03-27",
+          "effectiveFrom": "2023-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13066"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1001",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

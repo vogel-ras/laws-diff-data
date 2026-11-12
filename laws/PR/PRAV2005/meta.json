@@ -1,0 +1,121 @@
+{
+  "root": "PRAV2005",
+  "path": "laws/PR/PRAV2005",
+  "members": [
+    {
+      "id": "PRAV2005",
+      "title": "Pravilnik o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortTitle": "Pravilnik o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortCode": "PRAV2005",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2923",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-07-30",
+      "validFrom": "1999-07-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2923",
+      "versions": [
+        {
+          "id": "PRAV2005-original",
+          "shortCode": "PRAV2005",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-30",
+          "effectiveFrom": "1999-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2923",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5090",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortCode": "PRAV5090",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3126",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2003-07-03",
+      "validFrom": "2003-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3126",
+      "versions": [
+        {
+          "id": "PRAV5090-original",
+          "shortCode": "PRAV5090",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-03",
+          "effectiveFrom": "2003-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2005"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3126",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6062",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o preverjanju in ocenjevanju znanja ter napredovanju učencev v 9-letni osnovni šoli",
+      "shortCode": "PRAV6062",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3356",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-07-13",
+      "validFrom": "2004-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3356",
+      "versions": [
+        {
+          "id": "PRAV6062-original",
+          "shortCode": "PRAV6062",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-13",
+          "effectiveFrom": "2004-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2005"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3356",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

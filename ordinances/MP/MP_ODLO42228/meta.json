@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO42228",
+  "path": "ordinances/MP/MP_ODLO42228",
+  "members": [
+    {
+      "id": "MP_ODLO42228",
+      "title": "Odlok o ustanovitvi javnega vzgojno-izobraževalnega zavoda Kranjski vrtci (ODLO)",
+      "shortTitle": "Odlok o ustanovitvi javnega vzgojno-izobraževalnega zavoda Kranjski vrtci (ODLO)",
+      "shortCode": "MP_ODLO42228",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2018-01-0672",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0672",
+      "versions": [
+        {
+          "id": "MP_ODLO42228-original",
+          "shortCode": "MP_ODLO42228",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0672",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO47488",
+      "title": "Odlok o spremembah Odloka o ustanovitvi javnega vzgojno-izobraževalnega zavoda Kranjski vrtci (ODLO)",
+      "shortTitle": "Odlok o spremembah Odloka o ustanovitvi javnega vzgojno-izobraževalnega zavoda Kranjski vrtci (ODLO)",
+      "shortCode": "MP_ODLO47488",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Kranj",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-0283",
+      "gazette": null,
+      "issuingBody": "Mestna občina Kranj",
+      "adoptedAt": "2023-02-03",
+      "validFrom": "2023-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0283",
+      "versions": [
+        {
+          "id": "MP_ODLO47488-original",
+          "shortCode": "MP_ODLO47488",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-03",
+          "effectiveFrom": "2023-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO42228"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0283",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

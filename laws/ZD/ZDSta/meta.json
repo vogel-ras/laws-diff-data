@@ -1,0 +1,103 @@
+{
+  "root": "ZDSta",
+  "path": "laws/ZD/ZDSta",
+  "members": [
+    {
+      "id": "ZDSta",
+      "title": "Zakon o državni statistiki",
+      "shortTitle": "Zakon o državni statistiki",
+      "shortCode": "ZDSta",
+      "kind": "zakon",
+      "keywords": [
+        "državna statistika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2169",
+      "gazette": "Uradni list RS 45/95  str. 3524",
+      "issuingBody": null,
+      "adoptedAt": "1995-08-04",
+      "validFrom": "1995-08-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2169",
+      "versions": [
+        {
+          "id": "ZDSta-original",
+          "shortCode": "ZDSta",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/95  str. 3524",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2169",
+          "proposer": null
+        },
+        {
+          "id": "ZDSta-amend-ZDSta-A",
+          "shortCode": "ZDSta-A",
+          "label": "Sprememba ZDSta-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/2001  str. 817",
+          "publishedAt": "2001-02-09",
+          "effectiveFrom": "2001-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSta"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0529",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSta-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državni statistiki",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državni statistiki",
+      "shortCode": "ZDSta-A",
+      "kind": "zakon",
+      "keywords": [
+        "državna statistika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0529",
+      "gazette": "Uradni list RS 9/2001  str. 817",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-09",
+      "validFrom": "2001-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0529",
+      "versions": [
+        {
+          "id": "ZDSta-A-original",
+          "shortCode": "ZDSta-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/2001  str. 817",
+          "publishedAt": "2001-02-09",
+          "effectiveFrom": "2001-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSta"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0529",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

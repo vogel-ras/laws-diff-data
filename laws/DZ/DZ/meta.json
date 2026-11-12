@@ -1,0 +1,155 @@
+{
+  "root": "DZ",
+  "path": "laws/DZ/DZ",
+  "members": [
+    {
+      "id": "DZ",
+      "title": "Družinski zakonik",
+      "shortTitle": "Družinski zakonik",
+      "shortCode": "DZ",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-0729",
+      "gazette": "Uradni list RS 15/17  str. 2099",
+      "issuingBody": null,
+      "adoptedAt": "2017-03-31",
+      "validFrom": "2017-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2023-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0729",
+      "versions": [
+        {
+          "id": "DZ-original",
+          "shortCode": "DZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/17  str. 2099",
+          "publishedAt": "2017-03-31",
+          "effectiveFrom": "2017-03-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0729",
+          "proposer": null
+        },
+        {
+          "id": "DZ-amend-DZ-A",
+          "shortCode": "DZ-A",
+          "label": "Sprememba DZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 22/19  str. 2627",
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "DZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0917",
+          "proposer": null
+        },
+        {
+          "id": "DZ-amend-DZ-B",
+          "shortCode": "DZ-B",
+          "label": "Sprememba DZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 5/23  str. 221",
+          "publishedAt": "2023-01-16",
+          "effectiveFrom": "2023-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0098",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "DZ-A",
+      "title": "Zakon o spremembah Družinskega zakonika",
+      "shortTitle": "Zakon o spremembah Družinskega zakonika",
+      "shortCode": "DZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0917",
+      "gazette": "Uradni list RS 22/19  str. 2627",
+      "issuingBody": null,
+      "adoptedAt": "2019-04-05",
+      "validFrom": "2019-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0917",
+      "versions": [
+        {
+          "id": "DZ-A-original",
+          "shortCode": "DZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/19  str. 2627",
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0917",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "DZ-B",
+      "title": "Zakon o spremembah Družinskega zakonika",
+      "shortTitle": "Zakon o spremembah Družinskega zakonika",
+      "shortCode": "DZ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0098",
+      "gazette": "Uradni list RS 5/23  str. 221",
+      "issuingBody": null,
+      "adoptedAt": "2023-01-16",
+      "validFrom": "2023-01-16",
+      "validTo": null,
+      "latestPublishedAt": "2023-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0098",
+      "versions": [
+        {
+          "id": "DZ-B-original",
+          "shortCode": "DZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 5/23  str. 221",
+          "publishedAt": "2023-01-16",
+          "effectiveFrom": "2023-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0098",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "MP_SKLE31002",
+  "path": "laws/MP/MP_SKLE31002",
+  "members": [
+    {
+      "id": "MP_SKLE31002",
+      "title": "Sklep o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortTitle": "Sklep o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortCode": "MP_SKLE31002",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski sklep",
+      "sopNumber": "2019-01-1346",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1346",
+      "versions": [
+        {
+          "id": "MP_SKLE31002-original",
+          "shortCode": "MP_SKLE31002",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1346",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_SKLE34410",
+      "title": "Sklep o spremembi Sklepa o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortTitle": "Sklep o spremembi Sklepa o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortCode": "MP_SKLE34410",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": "Komen",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski sklep",
+      "sopNumber": "2022-01-2133",
+      "gazette": null,
+      "issuingBody": "Občina Komen",
+      "adoptedAt": "2022-06-30",
+      "validFrom": "2022-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2133",
+      "versions": [
+        {
+          "id": "MP_SKLE34410-original",
+          "shortCode": "MP_SKLE34410",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-06-30",
+          "effectiveFrom": "2022-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_SKLE31002"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2133",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_SKLE39476",
+      "title": "Sklep o spremembi Sklepa o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortTitle": "Sklep o spremembi Sklepa o določitvi parkirnih površin, na katerih se uvede plačilo parkirnine (SKLE)",
+      "shortCode": "MP_SKLE39476",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": "Komen",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski sklep",
+      "sopNumber": "2024-01-2400",
+      "gazette": null,
+      "issuingBody": "Občina Komen",
+      "adoptedAt": "2024-09-20",
+      "validFrom": "2024-09-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2400",
+      "versions": [
+        {
+          "id": "MP_SKLE39476-original",
+          "shortCode": "MP_SKLE39476",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-20",
+          "effectiveFrom": "2024-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_SKLE31002"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2400",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

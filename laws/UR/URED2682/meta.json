@@ -1,0 +1,136 @@
+{
+  "root": "URED2682",
+  "path": "laws/UR/URED2682",
+  "members": [
+    {
+      "id": "URED2682",
+      "title": "Uredba o ocenjevanju in urejanju hrupa v okolju",
+      "shortTitle": "Uredba o ocenjevanju in urejanju hrupa v okolju",
+      "shortCode": "URED2682",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-5018",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-11-11",
+      "validFrom": "2004-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5018",
+      "versions": [
+        {
+          "id": "URED2682-original",
+          "shortCode": "URED2682",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-11",
+          "effectiveFrom": "2004-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5018",
+          "proposer": null
+        },
+        {
+          "id": "URED2682-npb-URED2682",
+          "shortCode": "URED2682-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-11-11",
+          "effectiveFrom": "2004-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2682",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7902",
+      "title": "Uredba o spremembah Uredbe o ocenjevanju in urejanju hrupa v okolju",
+      "shortTitle": "Uredba o spremembah Uredbe o ocenjevanju in urejanju hrupa v okolju",
+      "shortCode": "URED7902",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2668",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2668",
+      "versions": [
+        {
+          "id": "URED7902-original",
+          "shortCode": "URED7902",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2682"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2668",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8414",
+      "title": "Uredba o spremembah Uredbe o ocenjevanju in urejanju hrupa v okolju",
+      "shortTitle": "Uredba o spremembah Uredbe o ocenjevanju in urejanju hrupa v okolju",
+      "shortCode": "URED8414",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-1162",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-04-15",
+      "validFrom": "2022-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1162",
+      "versions": [
+        {
+          "id": "URED8414-original",
+          "shortCode": "URED8414",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-15",
+          "effectiveFrom": "2022-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2682"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1162",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

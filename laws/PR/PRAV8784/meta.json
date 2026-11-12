@@ -1,0 +1,136 @@
+{
+  "root": "PRAV8784",
+  "path": "laws/PR/PRAV8784",
+  "members": [
+    {
+      "id": "PRAV8784",
+      "title": "Uredba o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortTitle": "Uredba o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortCode": "PRAV8784",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0811",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-03-20",
+      "validFrom": "2009-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0811",
+      "versions": [
+        {
+          "id": "PRAV8784-original",
+          "shortCode": "PRAV8784",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-20",
+          "effectiveFrom": "2009-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0811",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8784-npb-PRAV8784",
+          "shortCode": "PRAV8784-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-03-20",
+          "effectiveFrom": "2009-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8784",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5445",
+      "title": "Uredba o spremembah Uredbe o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortTitle": "Uredba o spremembah Uredbe o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortCode": "URED5445",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1525",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-04-23",
+      "validFrom": "2010-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1525",
+      "versions": [
+        {
+          "id": "URED5445-original",
+          "shortCode": "URED5445",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-04-23",
+          "effectiveFrom": "2010-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8784"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1525",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6086",
+      "title": "Uredba o spremembah Uredbe o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortTitle": "Uredba o spremembah Uredbe o obveznih meritvah na proizvodnih napravah, ki prejemajo za proizvedeno električno energijo potrdila o izvoru in podpore",
+      "shortCode": "URED6086",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1923",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-06-15",
+      "validFrom": "2012-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1923",
+      "versions": [
+        {
+          "id": "URED6086-original",
+          "shortCode": "URED6086",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-15",
+          "effectiveFrom": "2012-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8784"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1923",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

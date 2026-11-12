@@ -1,0 +1,102 @@
+{
+  "root": "ZFU",
+  "path": "laws/ZF/ZFU",
+  "members": [
+    {
+      "id": "ZFU",
+      "title": "Zakon o finančni upravi",
+      "shortTitle": "Zakon o finančni upravi",
+      "shortCode": "ZFU",
+      "kind": "zakon",
+      "keywords": [
+        "finančni nadzor",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0961",
+      "gazette": "Uradni list RS 25/14  str. 2875",
+      "issuingBody": null,
+      "adoptedAt": "2014-04-11",
+      "validFrom": "2014-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0961",
+      "versions": [
+        {
+          "id": "ZFU-original",
+          "shortCode": "ZFU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/14  str. 2875",
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0961",
+          "proposer": null
+        },
+        {
+          "id": "ZFU-amend-ZFU-B",
+          "shortCode": "ZFU-B",
+          "label": "Sprememba ZFU-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 14/23  str. 742",
+          "publishedAt": "2023-02-03",
+          "effectiveFrom": "2023-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0239",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFU-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o finančni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o finančni upravi",
+      "shortCode": "ZFU-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0239",
+      "gazette": "Uradni list RS 14/23  str. 742",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-03",
+      "validFrom": "2023-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0239",
+      "versions": [
+        {
+          "id": "ZFU-B-original",
+          "shortCode": "ZFU-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/23  str. 742",
+          "publishedAt": "2023-02-03",
+          "effectiveFrom": "2023-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0239",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

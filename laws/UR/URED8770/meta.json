@@ -1,0 +1,136 @@
+{
+  "root": "URED8770",
+  "path": "laws/UR/URED8770",
+  "members": [
+    {
+      "id": "URED8770",
+      "title": "Uredba o izvajanju intervencij v vinskem sektorju",
+      "shortTitle": "Uredba o izvajanju intervencij v vinskem sektorju",
+      "shortCode": "URED8770",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-4067",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-07",
+      "validFrom": "2024-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4067",
+      "versions": [
+        {
+          "id": "URED8770-original",
+          "shortCode": "URED8770",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-10-07",
+          "effectiveFrom": "2024-10-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4067",
+          "proposer": null
+        },
+        {
+          "id": "URED8770-npb-URED8770",
+          "shortCode": "URED8770-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-12-22",
+          "effectiveFrom": "2023-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8770",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9179",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencij v vinskem sektorju",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencij v vinskem sektorju",
+      "shortCode": "URED9179",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2591",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-07",
+      "validFrom": "2024-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2591",
+      "versions": [
+        {
+          "id": "URED9179-original",
+          "shortCode": "URED9179",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-10-07",
+          "effectiveFrom": "2024-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8770"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2591",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9587",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencij v vinskem sektorju",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencij v vinskem sektorju",
+      "shortCode": "URED9587",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-2405",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-23",
+      "validFrom": "2026-10-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2405",
+      "versions": [
+        {
+          "id": "URED9587-original",
+          "shortCode": "URED9587",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-23",
+          "effectiveFrom": "2026-10-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8770"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2405",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

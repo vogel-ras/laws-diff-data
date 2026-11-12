@@ -1,0 +1,107 @@
+{
+  "root": "ZZSO97",
+  "path": "laws/ZZ/ZZSO97",
+  "members": [
+    {
+      "id": "ZZSO97",
+      "title": "Zakon o zagotovitvi sredstev za odpravo posledic plazenja tal in odpravo posledic pozebe, suše in neurja v letu 1997",
+      "shortTitle": "Zakon o zagotovitvi sredstev za odpravo posledic plazenja tal in odpravo posledic pozebe, suše in neurja v letu 1997",
+      "shortCode": "ZZSO97",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča",
+        "naravna nesreča v kmetijstvu",
+        "državna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2141",
+      "gazette": "Uradni list RS 49/98  str. 3479",
+      "issuingBody": null,
+      "adoptedAt": "1998-07-03",
+      "validFrom": "1998-07-03",
+      "validTo": null,
+      "latestPublishedAt": "1998-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2141",
+      "versions": [
+        {
+          "id": "ZZSO97-original",
+          "shortCode": "ZZSO97",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/98  str. 3479",
+          "publishedAt": "1998-07-03",
+          "effectiveFrom": "1998-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2141",
+          "proposer": null
+        },
+        {
+          "id": "ZZSO97-amend-ZZSO97-A",
+          "shortCode": "ZZSO97-A",
+          "label": "Sprememba ZZSO97-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/98  str. 5007",
+          "publishedAt": "1998-10-02",
+          "effectiveFrom": "1998-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSO97"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3182",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSO97-A",
+      "title": "Zakon o spremembah zakona o zagotovitvi sredstev za odpravo posledic plazenja tal in odpravo posledic pozebe, suše in neurja v letu 1997",
+      "shortTitle": "Zakon o spremembah zakona o zagotovitvi sredstev za odpravo posledic plazenja tal in odpravo posledic pozebe, suše in neurja v letu 1997",
+      "shortCode": "ZZSO97-A",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča",
+        "suša",
+        "državna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3182",
+      "gazette": "Uradni list RS 67/98  str. 5007",
+      "issuingBody": null,
+      "adoptedAt": "1998-10-02",
+      "validFrom": "1998-10-02",
+      "validTo": null,
+      "latestPublishedAt": "1998-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3182",
+      "versions": [
+        {
+          "id": "ZZSO97-A-original",
+          "shortCode": "ZZSO97-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/98  str. 5007",
+          "publishedAt": "1998-10-02",
+          "effectiveFrom": "1998-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSO97"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3182",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

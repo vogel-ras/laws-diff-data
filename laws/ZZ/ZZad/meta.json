@@ -1,0 +1,219 @@
+{
+  "root": "ZZad",
+  "path": "laws/ZZ/ZZad",
+  "members": [
+    {
+      "id": "ZZad",
+      "title": "Zakon o zadrugah",
+      "shortTitle": "Zakon o zadrugah",
+      "shortCode": "ZZad",
+      "kind": "zakon",
+      "keywords": [
+        "zadruga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0675",
+      "gazette": "Uradni list RS 13/92  str. 805",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-20",
+      "validFrom": "1992-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0675",
+      "versions": [
+        {
+          "id": "ZZad-original",
+          "shortCode": "ZZad",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/92  str. 805",
+          "publishedAt": "1992-03-20",
+          "effectiveFrom": "1992-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0675",
+          "proposer": null
+        },
+        {
+          "id": "ZZad-amend-ZZad-A",
+          "shortCode": "ZZad-A",
+          "label": "Sprememba ZZad-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 7/93  str. 261",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0291",
+          "proposer": null
+        },
+        {
+          "id": "ZZad-amend-ZZad-B",
+          "shortCode": "ZZad-B",
+          "label": "Sprememba ZZad-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 41/07  str. 5639",
+          "publishedAt": "2007-05-11",
+          "effectiveFrom": "2007-05-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2222",
+          "proposer": null
+        },
+        {
+          "id": "ZZad-amend-ZZad-C",
+          "shortCode": "ZZad-C",
+          "label": "Sprememba ZZad-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 87/09  str. 11777",
+          "publishedAt": "2009-11-02",
+          "effectiveFrom": "2009-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3841",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZad-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zadrugah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zadrugah",
+      "shortCode": "ZZad-A",
+      "kind": "zakon",
+      "keywords": [
+        "zadruga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0291",
+      "gazette": "Uradni list RS 7/93  str. 261",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-04",
+      "validFrom": "1993-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1993-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0291",
+      "versions": [
+        {
+          "id": "ZZad-A-original",
+          "shortCode": "ZZad-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/93  str. 261",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZad-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zadrugah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zadrugah",
+      "shortCode": "ZZad-B",
+      "kind": "zakon",
+      "keywords": [
+        "zadruga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2222",
+      "gazette": "Uradni list RS 41/07  str. 5639",
+      "issuingBody": null,
+      "adoptedAt": "2007-05-11",
+      "validFrom": "2007-05-11",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2222",
+      "versions": [
+        {
+          "id": "ZZad-B-original",
+          "shortCode": "ZZad-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/07  str. 5639",
+          "publishedAt": "2007-05-11",
+          "effectiveFrom": "2007-05-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2222",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZad-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zadrugah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zadrugah",
+      "shortCode": "ZZad-C",
+      "kind": "zakon",
+      "keywords": [
+        "zadruga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3841",
+      "gazette": "Uradni list RS 87/09  str. 11777",
+      "issuingBody": null,
+      "adoptedAt": "2009-11-02",
+      "validFrom": "2009-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3841",
+      "versions": [
+        {
+          "id": "ZZad-C-original",
+          "shortCode": "ZZad-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/09  str. 11777",
+          "publishedAt": "2009-11-02",
+          "effectiveFrom": "2009-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3841",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

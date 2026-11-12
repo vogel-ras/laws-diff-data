@@ -1,0 +1,145 @@
+{
+  "root": "ZRacS",
+  "path": "laws/ZR/ZRacS",
+  "members": [
+    {
+      "id": "ZRacS",
+      "title": "Zakon o računskem sodišču",
+      "shortTitle": "Zakon o računskem sodišču",
+      "shortCode": "ZRacS",
+      "kind": "zakon",
+      "keywords": [
+        "revizija",
+        "revidiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1825",
+      "gazette": "Uradni list RS 48/94  str. 3016",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1825",
+      "versions": [
+        {
+          "id": "ZRacS-original",
+          "shortCode": "ZRacS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/94  str. 3016",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1825",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRacS-1",
+      "title": "Zakon o Računskem sodišču",
+      "shortTitle": "Zakon o Računskem sodišču",
+      "shortCode": "ZRacS-1",
+      "kind": "zakon",
+      "keywords": [
+        "revizija",
+        "revidiranja",
+        "sodišča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0662",
+      "gazette": "Uradni list RS 11/2001  str. 1154",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0662",
+      "versions": [
+        {
+          "id": "ZRacS-1-original",
+          "shortCode": "ZRacS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/2001  str. 1154",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0662",
+          "proposer": null
+        },
+        {
+          "id": "ZRacS-1-amend-ZRacS-1A",
+          "shortCode": "ZRacS-1A",
+          "label": "Sprememba ZRacS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 109/12  str. 12139",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRacS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4325",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRacS-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o računskem sodišču",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o računskem sodišču",
+      "shortCode": "ZRacS-1A",
+      "kind": "zakon",
+      "keywords": [
+        "sodišča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4325",
+      "gazette": "Uradni list RS 109/12  str. 12139",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4325",
+      "versions": [
+        {
+          "id": "ZRacS-1A-original",
+          "shortCode": "ZRacS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12139",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRacS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4325",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

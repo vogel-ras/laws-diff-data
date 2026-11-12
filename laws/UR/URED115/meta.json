@@ -1,0 +1,121 @@
+{
+  "root": "URED115",
+  "path": "laws/UR/URED115",
+  "members": [
+    {
+      "id": "URED115",
+      "title": "Uredba o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortTitle": "Uredba o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortCode": "URED115",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-3650",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-11-22",
+      "validFrom": "1996-11-22",
+      "validTo": null,
+      "latestPublishedAt": "1996-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3650",
+      "versions": [
+        {
+          "id": "URED115-original",
+          "shortCode": "URED115",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-11-22",
+          "effectiveFrom": "1996-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3650",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2603",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortCode": "URED2603",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-4066",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-09-27",
+      "validFrom": "2002-09-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4066",
+      "versions": [
+        {
+          "id": "URED2603-original",
+          "shortCode": "URED2603",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-27",
+          "effectiveFrom": "2002-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED115"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED616",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o vrstah posegov v okolje, za katere je obvezna presoja vplivov na okolje",
+      "shortCode": "URED616",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-0565",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-02-11",
+      "validFrom": "2000-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0565",
+      "versions": [
+        {
+          "id": "URED616-original",
+          "shortCode": "URED616",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-11",
+          "effectiveFrom": "2000-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED115"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0565",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

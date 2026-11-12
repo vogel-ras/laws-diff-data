@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9017",
+  "path": "laws/PR/PRAV9017",
+  "members": [
+    {
+      "id": "PRAV9017",
+      "title": "Pravilnik o varnosti strojev",
+      "shortTitle": "Pravilnik o varnosti strojev",
+      "shortCode": "PRAV9017",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3287",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2008-07-22",
+      "validFrom": "2008-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3287",
+      "versions": [
+        {
+          "id": "PRAV9017-original",
+          "shortCode": "PRAV9017",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-22",
+          "effectiveFrom": "2008-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3287",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9017-npb-PRAV9017",
+          "shortCode": "PRAV9017-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-07-22",
+          "effectiveFrom": "2008-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9017",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

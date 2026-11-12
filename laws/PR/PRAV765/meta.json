@@ -1,0 +1,58 @@
+{
+  "root": "PRAV765",
+  "path": "laws/PR/PRAV765",
+  "members": [
+    {
+      "id": "PRAV765",
+      "title": "Pravilnik o prijavi nalezljivih bolezni in posebnih ukrepih za njihovo preprečevanje in obvladovanje",
+      "shortTitle": "Pravilnik o prijavi nalezljivih bolezni in posebnih ukrepih za njihovo preprečevanje in obvladovanje",
+      "shortCode": "PRAV765",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-0826",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "1999-03-19",
+      "validFrom": "1999-03-19",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0826",
+      "versions": [
+        {
+          "id": "PRAV765-original",
+          "shortCode": "PRAV765",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-19",
+          "effectiveFrom": "1999-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0826",
+          "proposer": null
+        },
+        {
+          "id": "PRAV765-npb-PRAV765",
+          "shortCode": "PRAV765-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-03-19",
+          "effectiveFrom": "1999-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV765",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED6515",
+  "path": "laws/UR/URED6515",
+  "members": [
+    {
+      "id": "URED6515",
+      "title": "Uredba o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav, v katerih se uporabljajo organska topila",
+      "shortTitle": "Uredba o mejnih vrednostih emisije hlapnih organskih spojin v zrak iz naprav, v katerih se uporabljajo organska topila",
+      "shortCode": "URED6515",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1491",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-05-22",
+      "validFrom": "2015-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1491",
+      "versions": [
+        {
+          "id": "URED6515-original",
+          "shortCode": "URED6515",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-05-22",
+          "effectiveFrom": "2015-05-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1491",
+          "proposer": null
+        },
+        {
+          "id": "URED6515-npb-URED6515",
+          "shortCode": "URED6515-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-05-22",
+          "effectiveFrom": "2015-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6515",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

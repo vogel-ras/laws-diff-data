@@ -1,0 +1,82 @@
+{
+  "root": "ODLO879",
+  "path": "ordinances/OD/ODLO879",
+  "members": [
+    {
+      "id": "ODLO879",
+      "title": "Odlok o ustanovitvi Odbora Državnega zbora Republike Slovenije za finance in monetarno politiko",
+      "shortTitle": "Odlok o ustanovitvi Odbora Državnega zbora Republike Slovenije za finance in monetarno politiko",
+      "shortCode": "ODLO879",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-4523",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2000-11-28",
+      "validFrom": "2000-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2000-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4523",
+      "versions": [
+        {
+          "id": "ODLO879-original",
+          "shortCode": "ODLO879",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-11-28",
+          "effectiveFrom": "2000-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4523",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO880",
+      "title": "Odlok o spremembah odloka o ustanovitvi Odbora Državnega zbora Republike Slovenije za finance in monetarno politiko",
+      "shortTitle": "Odlok o spremembah odloka o ustanovitvi Odbora Državnega zbora Republike Slovenije za finance in monetarno politiko",
+      "shortCode": "ODLO880",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2001-01-0206",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-01-18",
+      "validFrom": "2001-01-18",
+      "validTo": null,
+      "latestPublishedAt": "2001-01-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0206",
+      "versions": [
+        {
+          "id": "ODLO880-original",
+          "shortCode": "ODLO880",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-01-18",
+          "effectiveFrom": "2001-01-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO879"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0206",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

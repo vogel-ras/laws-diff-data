@@ -1,0 +1,58 @@
+{
+  "root": "URED5592",
+  "path": "laws/UR/URED5592",
+  "members": [
+    {
+      "id": "URED5592",
+      "title": "Uredba o preprečevanju in zmanjševanju emisije delcev iz gradbišč",
+      "shortTitle": "Uredba o preprečevanju in zmanjševanju emisije delcev iz gradbišč",
+      "shortCode": "URED5592",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0852",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-03-21",
+      "validFrom": "2011-03-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0852",
+      "versions": [
+        {
+          "id": "URED5592-original",
+          "shortCode": "URED5592",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-03-21",
+          "effectiveFrom": "2011-03-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0852",
+          "proposer": null
+        },
+        {
+          "id": "URED5592-npb-URED5592",
+          "shortCode": "URED5592-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-03-21",
+          "effectiveFrom": "2011-03-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5592",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

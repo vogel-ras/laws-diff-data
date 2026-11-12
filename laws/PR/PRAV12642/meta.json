@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12642",
+  "path": "laws/PR/PRAV12642",
+  "members": [
+    {
+      "id": "PRAV12642",
+      "title": "Pravilnik o tlačni opremi",
+      "shortTitle": "Pravilnik o tlačni opremi",
+      "shortCode": "PRAV12642",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2810",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-10-21",
+      "validFrom": "2016-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2810",
+      "versions": [
+        {
+          "id": "PRAV12642-original",
+          "shortCode": "PRAV12642",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-10-21",
+          "effectiveFrom": "2016-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2810",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12642-npb-PRAV12642",
+          "shortCode": "PRAV12642-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-10-21",
+          "effectiveFrom": "2016-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12642",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

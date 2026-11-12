@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2976",
+  "path": "laws/OD/ODRE2976",
+  "members": [
+    {
+      "id": "ODRE2976",
+      "title": "Odredba o določitvi dejavnosti in poklicev, v katerih se lahko tujci hitreje zaposlujejo",
+      "shortTitle": "Odredba o določitvi dejavnosti in poklicev, v katerih se lahko tujci hitreje zaposlujejo",
+      "shortCode": "ODRE2976",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2025-01-3405",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2025-12-05",
+      "validFrom": "2025-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3405",
+      "versions": [
+        {
+          "id": "ODRE2976-original",
+          "shortCode": "ODRE2976",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-12-05",
+          "effectiveFrom": "2025-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3405",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2976-npb-ODRE2976",
+          "shortCode": "ODRE2976-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-24",
+          "effectiveFrom": "2026-04-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE3018",
+      "title": "Odredba o spremembi Odredbe o določitvi dejavnosti in poklicev, v katerih se lahko tujci hitreje zaposlujejo",
+      "shortTitle": "Odredba o spremembi Odredbe o določitvi dejavnosti in poklicev, v katerih se lahko tujci hitreje zaposlujejo",
+      "shortCode": "ODRE3018",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2026-01-1044",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-04-23",
+      "validFrom": "2026-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1044",
+      "versions": [
+        {
+          "id": "ODRE3018-original",
+          "shortCode": "ODRE3018",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-23",
+          "effectiveFrom": "2026-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1044",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

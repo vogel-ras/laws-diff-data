@@ -1,0 +1,82 @@
+{
+  "root": "ODRE752",
+  "path": "laws/OD/ODRE752",
+  "members": [
+    {
+      "id": "ODRE752",
+      "title": "Odredba o metodah kvantitativne analize trikomponentnih mešanic tekstilnih vlaken",
+      "shortTitle": "Odredba o metodah kvantitativne analize trikomponentnih mešanic tekstilnih vlaken",
+      "shortCode": "ODRE752",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-0372",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-01-28",
+      "validFrom": "2000-01-28",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0372",
+      "versions": [
+        {
+          "id": "ODRE752-original",
+          "shortCode": "ODRE752",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-28",
+          "effectiveFrom": "2000-01-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0372",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5790",
+      "title": "Pravilnik o spremembi odredbe o metodah kvantitativne analize trikomponentnih mešanic tekstilnih vlaken",
+      "shortTitle": "Pravilnik o spremembi odredbe o metodah kvantitativne analize trikomponentnih mešanic tekstilnih vlaken",
+      "shortCode": "PRAV5790",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1875",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2004-04-23",
+      "validFrom": "2004-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1875",
+      "versions": [
+        {
+          "id": "PRAV5790-original",
+          "shortCode": "PRAV5790",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-23",
+          "effectiveFrom": "2004-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE752"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1875",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

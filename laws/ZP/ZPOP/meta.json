@@ -1,0 +1,374 @@
+{
+  "root": "ZPOP",
+  "path": "laws/ZP/ZPOP",
+  "members": [
+    {
+      "id": "ZAKO7062",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo (ZPOP-1D)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo (ZPOP-1D)",
+      "shortCode": "ZPOP-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1442",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-01",
+      "validFrom": "2017-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1442",
+      "versions": [
+        {
+          "id": "ZAKO7062-original",
+          "shortCode": "ZPOP-1D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP",
+      "title": "Zakon o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1664",
+      "gazette": "Uradni list RS 40/04  str. 4709",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-20",
+      "validFrom": "2004-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1664",
+      "versions": [
+        {
+          "id": "ZPOP-original",
+          "shortCode": "ZPOP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/04  str. 4709",
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1664",
+          "proposer": null
+        },
+        {
+          "id": "ZPOP-amend-ZPOP-A",
+          "shortCode": "ZPOP-A",
+          "label": "Sprememba ZPOP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 115/06  str. 11993",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4908",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP-1",
+      "title": "Zakon o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP-1",
+      "kind": "zakon",
+      "keywords": [
+        "podjetnik",
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5064",
+      "gazette": "Uradni list RS 102/07  str. 13697",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5064",
+      "versions": [
+        {
+          "id": "ZPOP-1-original",
+          "shortCode": "ZPOP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13697",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5064",
+          "proposer": null
+        },
+        {
+          "id": "ZPOP-1-amend-ZPOP-1A",
+          "shortCode": "ZPOP-1A",
+          "label": "Sprememba ZPOP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/12  str. 5960",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2409",
+          "proposer": null
+        },
+        {
+          "id": "ZPOP-1-amend-ZPOP-1B",
+          "shortCode": "ZPOP-1B",
+          "label": "Sprememba ZPOP-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 82/13  str. 9190",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3036",
+          "proposer": null
+        },
+        {
+          "id": "ZPOP-1-amend-ZPOP-1C",
+          "shortCode": "ZPOP-1C",
+          "label": "Sprememba ZPOP-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 17/15  str. 1754",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0622",
+          "proposer": null
+        },
+        {
+          "id": "ZPOP-1-amend-ZAKO7062",
+          "shortCode": "ZPOP-1D",
+          "label": "Sprememba ZPOP-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2409",
+      "gazette": "Uradni list RS 57/12  str. 5960",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2409",
+      "versions": [
+        {
+          "id": "ZPOP-1A-original",
+          "shortCode": "ZPOP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5960",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2409",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP-1B",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3036",
+      "gazette": "Uradni list RS 82/13  str. 9190",
+      "issuingBody": null,
+      "adoptedAt": "2013-10-08",
+      "validFrom": "2013-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3036",
+      "versions": [
+        {
+          "id": "ZPOP-1B-original",
+          "shortCode": "ZPOP-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/13  str. 9190",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3036",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP-1C",
+      "title": "Zakon o spremembah Zakona o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o spremembah Zakona o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP-1C",
+      "kind": "zakon",
+      "keywords": [
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0622",
+      "gazette": "Uradni list RS 17/15  str. 1754",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-13",
+      "validFrom": "2015-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0622",
+      "versions": [
+        {
+          "id": "ZPOP-1C-original",
+          "shortCode": "ZPOP-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/15  str. 1754",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o podpornem okolju za podjetništvo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o podpornem okolju za podjetništvo",
+      "shortCode": "ZPOP-A",
+      "kind": "zakon",
+      "keywords": [
+        "podjetnik",
+        "podjetništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4908",
+      "gazette": "Uradni list RS 115/06  str. 11993",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4908",
+      "versions": [
+        {
+          "id": "ZPOP-A-original",
+          "shortCode": "ZPOP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11993",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4908",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

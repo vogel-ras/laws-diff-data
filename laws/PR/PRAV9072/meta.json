@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9072",
+  "path": "laws/PR/PRAV9072",
+  "members": [
+    {
+      "id": "PRAV12350",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovni usposobljenosti za delo z eksplozivi ali pirotehničnimi izdelki",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovni usposobljenosti za delo z eksplozivi ali pirotehničnimi izdelki",
+      "shortCode": "PRAV12350",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-0004",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-01-08",
+      "validFrom": "2016-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2016-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0004",
+      "versions": [
+        {
+          "id": "PRAV12350-original",
+          "shortCode": "PRAV12350",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-01-08",
+          "effectiveFrom": "2016-01-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9072"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0004",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9072",
+      "title": "Pravilnik o strokovni usposobljenosti za delo z eksplozivi ali pirotehničnimi izdelki",
+      "shortTitle": "Pravilnik o strokovni usposobljenosti za delo z eksplozivi ali pirotehničnimi izdelki",
+      "shortCode": "PRAV9072",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4738",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2008-11-21",
+      "validFrom": "2008-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4738",
+      "versions": [
+        {
+          "id": "PRAV9072-original",
+          "shortCode": "PRAV9072",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-21",
+          "effectiveFrom": "2008-11-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4738",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9072-npb-PRAV9072",
+          "shortCode": "PRAV9072-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-11-21",
+          "effectiveFrom": "2008-11-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9072",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

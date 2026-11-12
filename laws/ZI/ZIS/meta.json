@@ -1,0 +1,374 @@
+{
+  "root": "ZIS",
+  "path": "laws/ZI/ZIS",
+  "members": [
+    {
+      "id": "ZAKO409",
+      "title": "Zakon o igrah na srečo (ZIS)",
+      "shortTitle": "Zakon o igrah na srečo (ZIS)",
+      "shortCode": "ZIS",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1995-01-3507",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-05-19",
+      "validFrom": "1995-05-19",
+      "validTo": null,
+      "latestPublishedAt": "1995-05-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3507",
+      "versions": [
+        {
+          "id": "ZAKO409-original",
+          "shortCode": "ZIS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-05-19",
+          "effectiveFrom": "1995-05-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3507",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS",
+      "title": "Zakon o igrah na srečo",
+      "shortTitle": "Zakon o igrah na srečo",
+      "shortCode": "ZIS",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1254",
+      "gazette": "Uradni list RS 27/95  str. 1909",
+      "issuingBody": null,
+      "adoptedAt": "1995-05-19",
+      "validFrom": "1995-05-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1254",
+      "versions": [
+        {
+          "id": "ZIS-original",
+          "shortCode": "ZIS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 27/95  str. 1909",
+          "publishedAt": "1995-05-19",
+          "effectiveFrom": "1995-05-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1254",
+          "proposer": null
+        },
+        {
+          "id": "ZIS-amend-ZIS-A",
+          "shortCode": "ZIS-A",
+          "label": "Sprememba ZIS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 85/2001  str. 8584",
+          "publishedAt": "2001-10-29",
+          "effectiveFrom": "2001-10-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4386",
+          "proposer": null
+        },
+        {
+          "id": "ZIS-amend-ZIS-B",
+          "shortCode": "ZIS-B",
+          "label": "Sprememba ZIS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 101/2003  str. 14057",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4499",
+          "proposer": null
+        },
+        {
+          "id": "ZIS-amend-ZIS-C",
+          "shortCode": "ZIS-C",
+          "label": "Sprememba ZIS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 10/10  str. 1203",
+          "publishedAt": "2010-02-12",
+          "effectiveFrom": "2010-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0391",
+          "proposer": null
+        },
+        {
+          "id": "ZIS-amend-ZIS-D",
+          "shortCode": "ZIS-D",
+          "label": "Sprememba ZIS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 106/10  str. 16425",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5478",
+          "proposer": null
+        },
+        {
+          "id": "ZIS-amend-ZIS-E",
+          "shortCode": "ZIS-E",
+          "label": "Sprememba ZIS-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 108/12  str. 11945",
+          "publishedAt": "2012-12-29",
+          "effectiveFrom": "2012-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4261",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo",
+      "shortCode": "ZIS-A",
+      "kind": "zakon",
+      "keywords": [
+        "komunizem",
+        "politično nasilje",
+        "človekove pravice"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4386",
+      "gazette": "Uradni list RS 85/2001  str. 8584",
+      "issuingBody": null,
+      "adoptedAt": "2001-10-29",
+      "validFrom": "2001-10-29",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4386",
+      "versions": [
+        {
+          "id": "ZIS-A-original",
+          "shortCode": "ZIS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/2001  str. 8584",
+          "publishedAt": "2001-10-29",
+          "effectiveFrom": "2001-10-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4386",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o igrah na srečo",
+      "shortCode": "ZIS-B",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-4499",
+      "gazette": "Uradni list RS 101/2003  str. 14057",
+      "issuingBody": null,
+      "adoptedAt": "2003-10-21",
+      "validFrom": "2003-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4499",
+      "versions": [
+        {
+          "id": "ZIS-B-original",
+          "shortCode": "ZIS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/2003  str. 14057",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4499",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortCode": "ZIS-C",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0391",
+      "gazette": "Uradni list RS 10/10  str. 1203",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-12",
+      "validFrom": "2010-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0391",
+      "versions": [
+        {
+          "id": "ZIS-C-original",
+          "shortCode": "ZIS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/10  str. 1203",
+          "publishedAt": "2010-02-12",
+          "effectiveFrom": "2010-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0391",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortCode": "ZIS-D",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5478",
+      "gazette": "Uradni list RS 106/10  str. 16425",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5478",
+      "versions": [
+        {
+          "id": "ZIS-D-original",
+          "shortCode": "ZIS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16425",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5478",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIS-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o igrah na srečo",
+      "shortCode": "ZIS-E",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4261",
+      "gazette": "Uradni list RS 108/12  str. 11945",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-29",
+      "validFrom": "2012-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4261",
+      "versions": [
+        {
+          "id": "ZIS-E-original",
+          "shortCode": "ZIS-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/12  str. 11945",
+          "publishedAt": "2012-12-29",
+          "effectiveFrom": "2012-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4261",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

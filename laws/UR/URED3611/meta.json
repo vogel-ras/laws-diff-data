@@ -1,0 +1,82 @@
+{
+  "root": "URED3611",
+  "path": "laws/UR/URED3611",
+  "members": [
+    {
+      "id": "URED3611",
+      "title": "Uredba o mlečni premiji in dodatnem plačilu za mleko",
+      "shortTitle": "Uredba o mlečni premiji in dodatnem plačilu za mleko",
+      "shortCode": "URED3611",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0286",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0286",
+      "versions": [
+        {
+          "id": "URED3611-original",
+          "shortCode": "URED3611",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0286",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3779",
+      "title": "Uredba o spremembah Uredbe o mlečni premiji in dodatnem plačilu za mleko",
+      "shortTitle": "Uredba o spremembah Uredbe o mlečni premiji in dodatnem plačilu za mleko",
+      "shortCode": "URED3779",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-5011",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-16",
+      "validFrom": "2005-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5011",
+      "versions": [
+        {
+          "id": "URED3779-original",
+          "shortCode": "URED3779",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-16",
+          "effectiveFrom": "2005-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3611"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5011",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

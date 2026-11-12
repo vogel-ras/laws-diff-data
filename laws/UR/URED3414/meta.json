@@ -1,0 +1,82 @@
+{
+  "root": "URED3414",
+  "path": "laws/UR/URED3414",
+  "members": [
+    {
+      "id": "URED3414",
+      "title": "Uredba o čezmejnem pošiljanju odpadkov",
+      "shortTitle": "Uredba o čezmejnem pošiljanju odpadkov",
+      "shortCode": "URED3414",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4345",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-09-17",
+      "validFrom": "2004-09-17",
+      "validTo": null,
+      "latestPublishedAt": "2004-09-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4345",
+      "versions": [
+        {
+          "id": "URED3414-original",
+          "shortCode": "URED3414",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-09-17",
+          "effectiveFrom": "2004-09-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4345",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3718",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o čezmejnem pošiljanju odpadkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o čezmejnem pošiljanju odpadkov",
+      "shortCode": "URED3718",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1867",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-09",
+      "validFrom": "2005-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1867",
+      "versions": [
+        {
+          "id": "URED3718-original",
+          "shortCode": "URED3718",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-09",
+          "effectiveFrom": "2005-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3414"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1867",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "URED6841",
+  "path": "laws/UR/URED6841",
+  "members": [
+    {
+      "id": "URED6841",
+      "title": "Uredba o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortTitle": "Uredba o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortCode": "URED6841",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-0118",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-01-23",
+      "validFrom": "2015-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2015-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0118",
+      "versions": [
+        {
+          "id": "URED6841-original",
+          "shortCode": "URED6841",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-01-23",
+          "effectiveFrom": "2015-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0118",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7855",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortCode": "URED7855",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2619",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2619",
+      "versions": [
+        {
+          "id": "URED7855-original",
+          "shortCode": "URED7855",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6841"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2619",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8003",
+      "title": "Uredba o spremembah Uredbe o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju uredb (ES) in (EU) o dajanju fitofarmacevtskih sredstev v promet",
+      "shortCode": "URED8003",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-0287",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-02-14",
+      "validFrom": "2020-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0287",
+      "versions": [
+        {
+          "id": "URED8003-original",
+          "shortCode": "URED8003",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-02-14",
+          "effectiveFrom": "2020-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6841"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0287",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

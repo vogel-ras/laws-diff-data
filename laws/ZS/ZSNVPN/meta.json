@@ -1,0 +1,113 @@
+{
+  "root": "ZSNVPN",
+  "path": "laws/ZS/ZSNVPN",
+  "members": [
+    {
+      "id": "ZSNVPN",
+      "title": "Zakon o Skladu Republike Slovenije za nasledstvo in visokem predstavniku Republike Slovenije za nasledstvo",
+      "shortTitle": "Zakon o Skladu Republike Slovenije za nasledstvo in visokem predstavniku Republike Slovenije za nasledstvo",
+      "shortCode": "ZSNVPN",
+      "kind": "zakon",
+      "keywords": [
+        "sukcesija",
+        "Jugoslavija",
+        "sklad",
+        "lastnina",
+        "delitev lastnine",
+        "terjatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1182",
+      "gazette": "Uradni list RS 29/06  str. 2978",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-21",
+      "validFrom": "2006-03-21",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1182",
+      "versions": [
+        {
+          "id": "ZSNVPN-original",
+          "shortCode": "ZSNVPN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/06  str. 2978",
+          "publishedAt": "2006-03-21",
+          "effectiveFrom": "2006-03-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1182",
+          "proposer": null
+        },
+        {
+          "id": "ZSNVPN-amend-ZSNVPN-A",
+          "shortCode": "ZSNVPN-A",
+          "label": "Sprememba ZSNVPN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/10  str. 8898",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSNVPN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3274",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSNVPN-A",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o Skladu Republike Slovenije za nasledstvo in visokem predstavniku Republike Slovenije za nasledstvo",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o Skladu Republike Slovenije za nasledstvo in visokem predstavniku Republike Slovenije za nasledstvo",
+      "shortCode": "ZSNVPN-A",
+      "kind": "zakon",
+      "keywords": [
+        "sukcesija",
+        "Jugoslavija",
+        "sklad",
+        "lastnina",
+        "delitev lastnine",
+        "terjatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3274",
+      "gazette": "Uradni list RS 59/10  str. 8898",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3274",
+      "versions": [
+        {
+          "id": "ZSNVPN-A-original",
+          "shortCode": "ZSNVPN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/10  str. 8898",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSNVPN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3274",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7868",
+  "path": "laws/SK/SKLE7868",
+  "members": [
+    {
+      "id": "SKLE7868",
+      "title": "Sklep o višini sredstev, ki pripadajo posamezni politični stranki iz sredstev državnega proračuna v letu 2009",
+      "shortTitle": "Sklep o višini sredstev, ki pripadajo posamezni politični stranki iz sredstev državnega proračuna v letu 2009",
+      "shortCode": "SKLE7868",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2008-01-4774",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-11-25",
+      "validFrom": "2008-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4774",
+      "versions": [
+        {
+          "id": "SKLE7868-original",
+          "shortCode": "SKLE7868",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-25",
+          "effectiveFrom": "2008-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4774",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8205",
+      "title": "Sklep o spremembi Sklepa o višini sredstev, ki pripadajo posamezni politični stranki iz sredstev državnega proračuna v letu 2009",
+      "shortTitle": "Sklep o spremembi Sklepa o višini sredstev, ki pripadajo posamezni politični stranki iz sredstev državnega proračuna v letu 2009",
+      "shortCode": "SKLE8205",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Objavljen akt brez datuma začetka veljavnosti",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-3244",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2009-09-25",
+      "validFrom": "2009-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3244",
+      "versions": [
+        {
+          "id": "SKLE8205-original",
+          "shortCode": "SKLE8205",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-25",
+          "effectiveFrom": "2009-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7868"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3244",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

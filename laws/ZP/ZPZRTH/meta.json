@@ -1,0 +1,398 @@
+{
+  "root": "ZPZRTH",
+  "path": "laws/ZP/ZPZRTH",
+  "members": [
+    {
+      "id": "ZAKO6986",
+      "title": "Zakon o dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-E)",
+      "shortTitle": "Zakon o dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije (ZPZRTH-E)",
+      "shortCode": "ZPZRTH-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1913",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-06-23",
+      "validFrom": "2014-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1913",
+      "versions": [
+        {
+          "id": "ZAKO6986-original",
+          "shortCode": "ZPZRTH-E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1913",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH",
+      "title": "Zakon o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH",
+      "kind": "zakon",
+      "keywords": [
+        "rudarski obrat",
+        "prestrukturiranje industrije",
+        "regija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2749",
+      "gazette": "Uradni list RS 61/2000  str. 7675",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-06",
+      "validFrom": "2000-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2749",
+      "versions": [
+        {
+          "id": "ZPZRTH-original",
+          "shortCode": "ZPZRTH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/2000  str. 7675",
+          "publishedAt": "2000-07-06",
+          "effectiveFrom": "2000-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2749",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZPZRTH-A",
+          "shortCode": "ZPZRTH-A",
+          "label": "Sprememba ZPZRTH-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/2003  str. 4799",
+          "publishedAt": "2003-05-09",
+          "effectiveFrom": "2003-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2011",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZPZRTH-B",
+          "shortCode": "ZPZRTH-B",
+          "label": "Sprememba ZPZRTH-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 71/04  str. 8642",
+          "publishedAt": "2004-06-30",
+          "effectiveFrom": "2004-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3165",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZPZRTH-C",
+          "shortCode": "ZPZRTH-C",
+          "label": "Sprememba ZPZRTH-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 43/10  str. 6136",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2189",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZAKO6986",
+          "shortCode": "ZPZRTH-E",
+          "label": "Sprememba ZPZRTH-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1913",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZPZRTH-F",
+          "shortCode": "ZPZRTH-F",
+          "label": "Sprememba ZPZRTH-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 82/15  str. 8981",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3261",
+          "proposer": null
+        },
+        {
+          "id": "ZPZRTH-amend-ZPZRTH-G",
+          "shortCode": "ZPZRTH-G",
+          "label": "Sprememba ZPZRTH-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 84/18  str. 13384",
+          "publishedAt": "2018-12-28",
+          "effectiveFrom": "2018-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4123",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje - Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH-A",
+      "kind": "zakon",
+      "keywords": [
+        "rudarski obrat",
+        "politika zaposlovanja",
+        "regionalni razvoj"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2011",
+      "gazette": "Uradni list RS 42/2003  str. 4799",
+      "issuingBody": null,
+      "adoptedAt": "2003-05-09",
+      "validFrom": "2003-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2011",
+      "versions": [
+        {
+          "id": "ZPZRTH-A-original",
+          "shortCode": "ZPZRTH-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2003  str. 4799",
+          "publishedAt": "2003-05-09",
+          "effectiveFrom": "2003-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2011",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH-B",
+      "kind": "zakon",
+      "keywords": [
+        "rudarski obrat",
+        "premog",
+        "odškodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3165",
+      "gazette": "Uradni list RS 71/04  str. 8642",
+      "issuingBody": null,
+      "adoptedAt": "2004-06-30",
+      "validFrom": "2004-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3165",
+      "versions": [
+        {
+          "id": "ZPZRTH-B-original",
+          "shortCode": "ZPZRTH-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/04  str. 8642",
+          "publishedAt": "2004-06-30",
+          "effectiveFrom": "2004-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3165",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH-C",
+      "kind": "zakon",
+      "keywords": [
+        "rudarski obrat",
+        "prestrukturiranje industrije",
+        "preusmeritev gospodarstva",
+        "odškodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2189",
+      "gazette": "Uradni list RS 43/10  str. 6136",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-31",
+      "validFrom": "2010-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2189",
+      "versions": [
+        {
+          "id": "ZPZRTH-C-original",
+          "shortCode": "ZPZRTH-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/10  str. 6136",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2189",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH-F",
+      "kind": "zakon",
+      "keywords": [
+        "rudarstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3261",
+      "gazette": "Uradni list RS 82/15  str. 8981",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-03",
+      "validFrom": "2015-11-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3261",
+      "versions": [
+        {
+          "id": "ZPZRTH-F-original",
+          "shortCode": "ZPZRTH-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/15  str. 8981",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3261",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPZRTH-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o postopnem zapiranju Rudnika Trbovlje-Hrastnik in razvojnem prestrukturiranju regije",
+      "shortCode": "ZPZRTH-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-4123",
+      "gazette": "Uradni list RS 84/18  str. 13384",
+      "issuingBody": null,
+      "adoptedAt": "2018-12-28",
+      "validFrom": "2018-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4123",
+      "versions": [
+        {
+          "id": "ZPZRTH-G-original",
+          "shortCode": "ZPZRTH-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/18  str. 13384",
+          "publishedAt": "2018-12-28",
+          "effectiveFrom": "2018-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPZRTH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4123",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

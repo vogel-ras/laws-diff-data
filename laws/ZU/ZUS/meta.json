@@ -1,0 +1,260 @@
+{
+  "root": "ZUS",
+  "path": "laws/ZU/ZUS",
+  "members": [
+    {
+      "id": "ZUS",
+      "title": "Zakon o upravnem sporu",
+      "shortTitle": "Zakon o upravnem sporu",
+      "shortCode": "ZUS",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek",
+        "tožba pred upravnim sodiščem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2634",
+      "gazette": "Uradni list RS 50/97  str. 4334",
+      "issuingBody": null,
+      "adoptedAt": "1997-08-18",
+      "validFrom": "1997-08-18",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2634",
+      "versions": [
+        {
+          "id": "ZUS-original",
+          "shortCode": "ZUS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/97  str. 4334",
+          "publishedAt": "1997-08-18",
+          "effectiveFrom": "1997-08-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2634",
+          "proposer": null
+        },
+        {
+          "id": "ZUS-amend-ZUS-A",
+          "shortCode": "ZUS-A",
+          "label": "Sprememba ZUS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 70/2000  str. 8662",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3304",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUS-1",
+      "title": "Zakon o upravnem sporu",
+      "shortTitle": "Zakon o upravnem sporu",
+      "shortCode": "ZUS-1",
+      "kind": "zakon",
+      "keywords": [
+        "tožba pred upravnim sodiščem",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4487",
+      "gazette": "Uradni list RS 105/06  str. 10605",
+      "issuingBody": null,
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4487",
+      "versions": [
+        {
+          "id": "ZUS-1-original",
+          "shortCode": "ZUS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 105/06  str. 10605",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4487",
+          "proposer": null
+        },
+        {
+          "id": "ZUS-1-amend-ZUS-1A",
+          "shortCode": "ZUS-1A",
+          "label": "Sprememba ZUS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 62/10  str. 9353",
+          "publishedAt": "2010-07-30",
+          "effectiveFrom": "2010-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3388",
+          "proposer": null
+        },
+        {
+          "id": "ZUS-1-amend-ZUS-1C",
+          "shortCode": "ZUS-1C",
+          "label": "Sprememba ZUS-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 49/23  str. 4163",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUS-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravnem sporu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravnem sporu",
+      "shortCode": "ZUS-1A",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek",
+        "tožba pred upravnim sodiščem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3388",
+      "gazette": "Uradni list RS 62/10  str. 9353",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-30",
+      "validFrom": "2010-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3388",
+      "versions": [
+        {
+          "id": "ZUS-1A-original",
+          "shortCode": "ZUS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 62/10  str. 9353",
+          "publishedAt": "2010-07-30",
+          "effectiveFrom": "2010-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3388",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUS-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravnem sporu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravnem sporu",
+      "shortCode": "ZUS-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1516",
+      "gazette": "Uradni list RS 49/23  str. 4163",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-28",
+      "validFrom": "2023-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1516",
+      "versions": [
+        {
+          "id": "ZUS-1C-original",
+          "shortCode": "ZUS-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/23  str. 4163",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnem sporu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnem sporu",
+      "shortCode": "ZUS-A",
+      "kind": "zakon",
+      "keywords": [
+        "upravno sodišče",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3304",
+      "gazette": "Uradni list RS 70/2000  str. 8662",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-08",
+      "validFrom": "2000-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3304",
+      "versions": [
+        {
+          "id": "ZUS-A-original",
+          "shortCode": "ZUS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/2000  str. 8662",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3304",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

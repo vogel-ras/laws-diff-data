@@ -1,0 +1,58 @@
+{
+  "root": "URED8443",
+  "path": "laws/UR/URED8443",
+  "members": [
+    {
+      "id": "URED8443",
+      "title": "Uredba o karti regionalne pomoči za obdobje 2022–2027",
+      "shortTitle": "Uredba o karti regionalne pomoči za obdobje 2022–2027",
+      "shortCode": "URED8443",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-0287",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-11",
+      "validFrom": "2024-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0287",
+      "versions": [
+        {
+          "id": "URED8443-original",
+          "shortCode": "URED8443",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-11",
+          "effectiveFrom": "2024-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0287",
+          "proposer": null
+        },
+        {
+          "id": "URED8443-npb-URED8443",
+          "shortCode": "URED8443-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-02-04",
+          "effectiveFrom": "2022-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8443",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

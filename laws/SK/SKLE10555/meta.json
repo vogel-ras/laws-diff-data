@@ -1,0 +1,82 @@
+{
+  "root": "SKLE10555",
+  "path": "laws/SK/SKLE10555",
+  "members": [
+    {
+      "id": "SKLE10555",
+      "title": "Sklep o omejitvah glede sredstev in referenčnih vrednosti pri zavarovanjih z naložbenim tveganjem",
+      "shortTitle": "Sklep o omejitvah glede sredstev in referenčnih vrednosti pri zavarovanjih z naložbenim tveganjem",
+      "shortCode": "SKLE10555",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2016-01-0611",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2016-03-04",
+      "validFrom": "2016-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2016-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0611",
+      "versions": [
+        {
+          "id": "SKLE10555-original",
+          "shortCode": "SKLE10555",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-03-04",
+          "effectiveFrom": "2016-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE11568",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o omejitvah glede sredstev in referenčnih vrednosti pri zavarovanjih z naložbenim tveganjem",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o omejitvah glede sredstev in referenčnih vrednosti pri zavarovanjih z naložbenim tveganjem",
+      "shortCode": "SKLE11568",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2018-01-2926",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2018-09-07",
+      "validFrom": "2018-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2926",
+      "versions": [
+        {
+          "id": "SKLE11568-original",
+          "shortCode": "SKLE11568",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-07",
+          "effectiveFrom": "2018-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10555"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2926",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

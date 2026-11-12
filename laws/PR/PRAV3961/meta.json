@@ -1,0 +1,97 @@
+{
+  "root": "PRAV3961",
+  "path": "laws/PR/PRAV3961",
+  "members": [
+    {
+      "id": "PRAV12231",
+      "title": "Pravilnik o spremembah Pravilnika o ohranjanju biotske raznovrstnosti v živinoreji",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o ohranjanju biotske raznovrstnosti v živinoreji",
+      "shortCode": "PRAV12231",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3557",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-12-08",
+      "validFrom": "2014-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3557",
+      "versions": [
+        {
+          "id": "PRAV12231-original",
+          "shortCode": "PRAV12231",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-08",
+          "effectiveFrom": "2014-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3961"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3557",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3961",
+      "title": "Pravilnik o ohranjanju biotske raznovrstnosti v živinoreji",
+      "shortTitle": "Pravilnik o ohranjanju biotske raznovrstnosti v živinoreji",
+      "shortCode": "PRAV3961",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4111",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-08-13",
+      "validFrom": "2004-08-13",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4111",
+      "versions": [
+        {
+          "id": "PRAV3961-original",
+          "shortCode": "PRAV3961",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-13",
+          "effectiveFrom": "2004-08-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4111",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3961-npb-PRAV3961",
+          "shortCode": "PRAV3961-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-08-13",
+          "effectiveFrom": "2004-08-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3961",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

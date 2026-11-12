@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2241",
+  "path": "laws/OD/ODRE2241",
+  "members": [
+    {
+      "id": "ODRE2241",
+      "title": "Odredba o določitvi objektov in okolišev objektov policije v Tacnu, na Gmajnicah in v Gotenici za objekte in okoliše objektov posebnega pomena ter ukrepih za njihovo varovanje",
+      "shortTitle": "Odredba o določitvi objektov in okolišev objektov policije v Tacnu, na Gmajnicah in v Gotenici za objekte in okoliše objektov posebnega pomena ter ukrepih za njihovo varovanje",
+      "shortCode": "ODRE2241",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2013-01-2813",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2813",
+      "versions": [
+        {
+          "id": "ODRE2241-original",
+          "shortCode": "ODRE2241",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2813",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2241-npb-ODRE2241",
+          "shortCode": "ODRE2241-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-09-20",
+          "effectiveFrom": "2013-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2241",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2786",
+      "title": "Odredba o spremembah Odredbe o določitvi objektov in okolišev objektov policije v Tacnu, na Gmajnicah in v Gotenici za objekte in okoliše objektov posebnega pomena ter ukrepih za njihovo varovanje",
+      "shortTitle": "Odredba o spremembah Odredbe o določitvi objektov in okolišev objektov policije v Tacnu, na Gmajnicah in v Gotenici za objekte in okoliše objektov posebnega pomena ter ukrepih za njihovo varovanje",
+      "shortCode": "ODRE2786",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2022-01-3092",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3092",
+      "versions": [
+        {
+          "id": "ODRE2786-original",
+          "shortCode": "ODRE2786",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2241"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3092",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

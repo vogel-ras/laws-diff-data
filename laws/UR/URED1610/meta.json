@@ -1,0 +1,199 @@
+{
+  "root": "URED1610",
+  "path": "laws/UR/URED1610",
+  "members": [
+    {
+      "id": "URED1610",
+      "title": "Uredba o ureditvi trga z žiti",
+      "shortTitle": "Uredba o ureditvi trga z žiti",
+      "shortCode": "URED1610",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2031",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-10",
+      "validFrom": "2001-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2031",
+      "versions": [
+        {
+          "id": "URED1610-original",
+          "shortCode": "URED1610",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2031",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1883",
+      "title": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortTitle": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortCode": "URED1883",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-4100",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-10-05",
+      "validFrom": "2001-10-05",
+      "validTo": null,
+      "latestPublishedAt": "2001-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4100",
+      "versions": [
+        {
+          "id": "URED1883-original",
+          "shortCode": "URED1883",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-10-05",
+          "effectiveFrom": "2001-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1610"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4100",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1978",
+      "title": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortTitle": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortCode": "URED1978",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-4736",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-11-23",
+      "validFrom": "2001-11-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4736",
+      "versions": [
+        {
+          "id": "URED1978-original",
+          "shortCode": "URED1978",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-11-23",
+          "effectiveFrom": "2001-11-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1610"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4736",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2695",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o ureditvi trga z žiti",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o ureditvi trga z žiti",
+      "shortCode": "URED2695",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1048",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-14",
+      "validFrom": "2003-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1048",
+      "versions": [
+        {
+          "id": "URED2695-original",
+          "shortCode": "URED2695",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-14",
+          "effectiveFrom": "2003-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1610"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1048",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2941",
+      "title": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortTitle": "Uredba o spremembi uredbe o ureditvi trga z žiti",
+      "shortCode": "URED2941",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3309",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-14",
+      "validFrom": "2003-07-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3309",
+      "versions": [
+        {
+          "id": "URED2941-original",
+          "shortCode": "URED2941",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-14",
+          "effectiveFrom": "2003-07-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1610"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3309",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

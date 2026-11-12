@@ -1,0 +1,97 @@
+{
+  "root": "URED4508",
+  "path": "laws/UR/URED4508",
+  "members": [
+    {
+      "id": "URED4508",
+      "title": "Uredba o koncesiji za rabo podzemne vode iz vrtin B-2/59, VB-4/74 in VB-5/75 za dejavnost kopališč in naravnih zdravilišč",
+      "shortTitle": "Uredba o koncesiji za rabo podzemne vode iz vrtin B-2/59, VB-4/74 in VB-5/75 za dejavnost kopališč in naravnih zdravilišč",
+      "shortCode": "URED4508",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2110",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-05-04",
+      "validFrom": "2007-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2110",
+      "versions": [
+        {
+          "id": "URED4508-original",
+          "shortCode": "URED4508",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-04",
+          "effectiveFrom": "2007-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2110",
+          "proposer": null
+        },
+        {
+          "id": "URED4508-npb-URED4508",
+          "shortCode": "URED4508-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-05-04",
+          "effectiveFrom": "2007-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4508",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4744",
+      "title": "Uredba o spremembah Uredbe o koncesiji za rabo podzemne vode iz vrtin B-2/59, VB-4/74 in VB-5/75 za dejavnost kopališč in naravnih zdravilišč",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za rabo podzemne vode iz vrtin B-2/59, VB-4/74 in VB-5/75 za dejavnost kopališč in naravnih zdravilišč",
+      "shortCode": "URED4744",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-6180",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-28",
+      "validFrom": "2007-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6180",
+      "versions": [
+        {
+          "id": "URED4744-original",
+          "shortCode": "URED4744",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-28",
+          "effectiveFrom": "2007-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4508"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6180",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

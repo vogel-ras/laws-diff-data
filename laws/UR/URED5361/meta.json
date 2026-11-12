@@ -1,0 +1,58 @@
+{
+  "root": "URED5361",
+  "path": "laws/UR/URED5361",
+  "members": [
+    {
+      "id": "URED5361",
+      "title": "Uredba o izvajanju Operativnega programa za razvoj ribištva v Republiki Sloveniji 2007–2013",
+      "shortTitle": "Uredba o izvajanju Operativnega programa za razvoj ribištva v Republiki Sloveniji 2007–2013",
+      "shortCode": "URED5361",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1472",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-04-22",
+      "validFrom": "2011-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1472",
+      "versions": [
+        {
+          "id": "URED5361-original",
+          "shortCode": "URED5361",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-22",
+          "effectiveFrom": "2011-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1472",
+          "proposer": null
+        },
+        {
+          "id": "URED5361-npb-URED5361",
+          "shortCode": "URED5361-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-04-22",
+          "effectiveFrom": "2011-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5361",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

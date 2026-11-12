@@ -1,0 +1,136 @@
+{
+  "root": "URED2551",
+  "path": "laws/UR/URED2551",
+  "members": [
+    {
+      "id": "URED2551",
+      "title": "Uredba o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortTitle": "Uredba o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortCode": "URED2551",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3508",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-25",
+      "validFrom": "2003-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3508",
+      "versions": [
+        {
+          "id": "URED2551-original",
+          "shortCode": "URED2551",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-25",
+          "effectiveFrom": "2003-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3508",
+          "proposer": null
+        },
+        {
+          "id": "URED2551-npb-URED2551",
+          "shortCode": "URED2551-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-25",
+          "effectiveFrom": "2003-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2551",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3682",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortCode": "URED3682",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4805",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-09",
+      "validFrom": "2005-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4805",
+      "versions": [
+        {
+          "id": "URED3682-original",
+          "shortCode": "URED3682",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-09",
+          "effectiveFrom": "2005-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2551"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4805",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7968",
+      "title": "Uredba o spremembi Uredbe o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortTitle": "Uredba o spremembi Uredbe o preiskovanju letalskih nesreč, resnih incidentov in incidentov",
+      "shortCode": "URED7968",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2459",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-08-30",
+      "validFrom": "2019-08-30",
+      "validTo": null,
+      "latestPublishedAt": "2019-08-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2459",
+      "versions": [
+        {
+          "id": "URED7968-original",
+          "shortCode": "URED7968",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-08-30",
+          "effectiveFrom": "2019-08-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2551"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2459",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

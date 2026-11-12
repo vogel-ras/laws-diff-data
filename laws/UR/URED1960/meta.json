@@ -1,0 +1,121 @@
+{
+  "root": "URED1960",
+  "path": "laws/UR/URED1960",
+  "members": [
+    {
+      "id": "URED1960",
+      "title": "Uredba o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortTitle": "Uredba o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortCode": "URED1960",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-4850",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-12-07",
+      "validFrom": "2001-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4850",
+      "versions": [
+        {
+          "id": "URED1960-original",
+          "shortCode": "URED1960",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-12-07",
+          "effectiveFrom": "2001-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4850",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5601",
+      "title": "Uredba o spremembah Uredbe o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortCode": "URED5601",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5290",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-17",
+      "validFrom": "2010-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5290",
+      "versions": [
+        {
+          "id": "URED5601-original",
+          "shortCode": "URED5601",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1960"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5290",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8186",
+      "title": "Uredba o spremembah Uredbe o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesijah za gospodarsko izkoriščanje naplavin iz struge reke Soče",
+      "shortCode": "URED8186",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3552",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-12-24",
+      "validFrom": "2020-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3552",
+      "versions": [
+        {
+          "id": "URED8186-original",
+          "shortCode": "URED8186",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-24",
+          "effectiveFrom": "2020-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1960"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3552",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

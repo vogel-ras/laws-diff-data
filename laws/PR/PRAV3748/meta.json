@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3748",
+  "path": "laws/PR/PRAV3748",
+  "members": [
+    {
+      "id": "PRAV3748",
+      "title": "Pravilnik o poreklu za čistopasemske plemenske prašiče, njihovo seme, jajčne celice in zarodke",
+      "shortTitle": "Pravilnik o poreklu za čistopasemske plemenske prašiče, njihovo seme, jajčne celice in zarodke",
+      "shortCode": "PRAV3748",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4256",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4256",
+      "versions": [
+        {
+          "id": "PRAV3748-original",
+          "shortCode": "PRAV3748",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4256",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5659",
+      "title": "Pravilnik o spremembah pravilnika o poreklu za čistopasemske plemenske prašiče, njihovo seme, jajčne celice in zarodke",
+      "shortTitle": "Pravilnik o spremembah pravilnika o poreklu za čistopasemske plemenske prašiče, njihovo seme, jajčne celice in zarodke",
+      "shortCode": "PRAV5659",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1124",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1124",
+      "versions": [
+        {
+          "id": "PRAV5659-original",
+          "shortCode": "PRAV5659",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3748"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1124",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

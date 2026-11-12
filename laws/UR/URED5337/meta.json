@@ -1,0 +1,97 @@
+{
+  "root": "URED5337",
+  "path": "laws/UR/URED5337",
+  "members": [
+    {
+      "id": "URED5337",
+      "title": "Uredba o izvajanju uredbe (ES) o aromah za živila",
+      "shortTitle": "Uredba o izvajanju uredbe (ES) o aromah za živila",
+      "shortCode": "URED5337",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0549",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-02-25",
+      "validFrom": "2011-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0549",
+      "versions": [
+        {
+          "id": "URED5337-original",
+          "shortCode": "URED5337",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-02-25",
+          "effectiveFrom": "2011-02-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0549",
+          "proposer": null
+        },
+        {
+          "id": "URED5337-npb-URED5337",
+          "shortCode": "URED5337-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-02-25",
+          "effectiveFrom": "2011-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5337",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6497",
+      "title": "Uredba o spremembah Uredbe o izvajanju uredbe (ES) o aromah za živila",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju uredbe (ES) o aromah za živila",
+      "shortCode": "URED6497",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3736",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-12-11",
+      "validFrom": "2013-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3736",
+      "versions": [
+        {
+          "id": "URED6497-original",
+          "shortCode": "URED6497",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-12-11",
+          "effectiveFrom": "2013-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5337"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3736",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

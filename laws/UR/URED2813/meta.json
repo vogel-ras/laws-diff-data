@@ -1,0 +1,97 @@
+{
+  "root": "URED2813",
+  "path": "laws/UR/URED2813",
+  "members": [
+    {
+      "id": "URED2813",
+      "title": "Uredba o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leto 2003",
+      "shortTitle": "Uredba o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leto 2003",
+      "shortCode": "URED2813",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0987",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-13",
+      "validFrom": "2003-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0987",
+      "versions": [
+        {
+          "id": "URED2813-original",
+          "shortCode": "URED2813",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0987",
+          "proposer": null
+        },
+        {
+          "id": "URED2813-npb-URED2813",
+          "shortCode": "URED2813-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2813",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2927",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leto 2003",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o financiranju in sofinanciranju razvoja morskega in sladkovodnega ribištva za leto 2003",
+      "shortCode": "URED2927",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3427",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-18",
+      "validFrom": "2003-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3427",
+      "versions": [
+        {
+          "id": "URED2927-original",
+          "shortCode": "URED2927",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2813"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3427",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

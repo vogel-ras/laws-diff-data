@@ -1,0 +1,121 @@
+{
+  "root": "NAVO554",
+  "path": "laws/NA/NAVO554",
+  "members": [
+    {
+      "id": "NAVO554",
+      "title": "Navodilo o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortTitle": "Navodilo o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortCode": "NAVO554",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2001-01-4865",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2001-12-07",
+      "validFrom": "2001-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4865",
+      "versions": [
+        {
+          "id": "NAVO554-original",
+          "shortCode": "NAVO554",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-12-07",
+          "effectiveFrom": "2001-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4865",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO728",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortCode": "NAVO728",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2004-01-4622",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-10-11",
+      "validFrom": "2004-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4622",
+      "versions": [
+        {
+          "id": "NAVO728-original",
+          "shortCode": "NAVO728",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-11",
+          "effectiveFrom": "2004-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO554"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO730",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila o načinih zavarovanja in obrestovanja odloga plačila dolga dolžnika do države oziroma občine",
+      "shortCode": "NAVO730",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2008-01-5577",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-12-29",
+      "validFrom": "2008-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5577",
+      "versions": [
+        {
+          "id": "NAVO730-original",
+          "shortCode": "NAVO730",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-29",
+          "effectiveFrom": "2008-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO554"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5577",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

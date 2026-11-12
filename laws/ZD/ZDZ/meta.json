@@ -1,0 +1,99 @@
+{
+  "root": "ZDZ",
+  "path": "laws/ZD/ZDZ",
+  "members": [
+    {
+      "id": "ZAKO9386",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Državnem zboru (ZDZ-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Državnem zboru (ZDZ-A)",
+      "shortCode": "ZDZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0458",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-19",
+      "validFrom": "2026-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0458",
+      "versions": [
+        {
+          "id": "ZAKO9386-original",
+          "shortCode": "ZDZ-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0458",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZ",
+      "title": "Zakon o Državnem zboru",
+      "shortTitle": "Zakon o Državnem zboru",
+      "shortCode": "ZDZ",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2921",
+      "gazette": "Uradni list RS 66/19  str. 7865",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2921",
+      "versions": [
+        {
+          "id": "ZDZ-original",
+          "shortCode": "ZDZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7865",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2921",
+          "proposer": null
+        },
+        {
+          "id": "ZDZ-amend-ZAKO9386",
+          "shortCode": "ZDZ-A",
+          "label": "Sprememba ZDZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0458",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

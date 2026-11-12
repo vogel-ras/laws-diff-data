@@ -1,0 +1,82 @@
+{
+  "root": "NEZN128",
+  "path": "laws/NE/NEZN128",
+  "members": [
+    {
+      "id": "NEZN128",
+      "title": "Pravilnik o onesnaževalcih v živilih",
+      "shortTitle": "Pravilnik o onesnaževalcih v živilih",
+      "shortCode": "NEZN128",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2003-01-3323",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-07-16",
+      "validFrom": "2003-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3323",
+      "versions": [
+        {
+          "id": "NEZN128-original",
+          "shortCode": "NEZN128",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-16",
+          "effectiveFrom": "2003-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3323",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5457",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o onesnaževalcih v živilih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o onesnaževalcih v živilih",
+      "shortCode": "PRAV5457",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0881",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-04",
+      "validFrom": "2004-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0881",
+      "versions": [
+        {
+          "id": "PRAV5457-original",
+          "shortCode": "PRAV5457",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-04",
+          "effectiveFrom": "2004-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NEZN128"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0881",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

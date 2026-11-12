@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2024",
+  "path": "laws/PR/PRAV2024",
+  "members": [
+    {
+      "id": "PRAV2024",
+      "title": "Pravilnik o vodenju registra društev",
+      "shortTitle": "Pravilnik o vodenju registra društev",
+      "shortCode": "PRAV2024",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1996-01-1237",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-04-19",
+      "validFrom": "1996-04-19",
+      "validTo": null,
+      "latestPublishedAt": "1996-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1237",
+      "versions": [
+        {
+          "id": "PRAV2024-original",
+          "shortCode": "PRAV2024",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-04-19",
+          "effectiveFrom": "1996-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1237",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2025",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o vodenju registra društev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o vodenju registra društev",
+      "shortCode": "PRAV2025",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0189",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-01-20",
+      "validFrom": "2000-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0189",
+      "versions": [
+        {
+          "id": "PRAV2025-original",
+          "shortCode": "PRAV2025",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-20",
+          "effectiveFrom": "2000-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2024"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0189",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

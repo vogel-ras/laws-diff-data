@@ -1,0 +1,121 @@
+{
+  "root": "ODRE157",
+  "path": "laws/OD/ODRE157",
+  "members": [
+    {
+      "id": "ODRE157",
+      "title": "Odredba o merskih enotah",
+      "shortTitle": "Odredba o merskih enotah",
+      "shortCode": "ODRE157",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1996-01-0110",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-01-19",
+      "validFrom": "1996-01-19",
+      "validTo": null,
+      "latestPublishedAt": "1996-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0110",
+      "versions": [
+        {
+          "id": "ODRE157-original",
+          "shortCode": "ODRE157",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-01-19",
+          "effectiveFrom": "1996-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0110",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2517",
+      "title": "Odredba o spremembah Odredbe o merskih enotah",
+      "shortTitle": "Odredba o spremembah Odredbe o merskih enotah",
+      "shortCode": "ODRE2517",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2019-01-3662",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-12-27",
+      "validFrom": "2019-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3662",
+      "versions": [
+        {
+          "id": "ODRE2517-original",
+          "shortCode": "ODRE2517",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-27",
+          "effectiveFrom": "2019-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3662",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9825",
+      "title": "Odredba o spremembah Odredbe o merskih enotah",
+      "shortTitle": "Odredba o spremembah Odredbe o merskih enotah",
+      "shortCode": "PRAV9825",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-4937",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za visoko šolstvo, znanost in tehnologijo",
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4937",
+      "versions": [
+        {
+          "id": "PRAV9825-original",
+          "shortCode": "PRAV9825",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4937",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

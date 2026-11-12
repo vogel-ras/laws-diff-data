@@ -1,0 +1,82 @@
+{
+  "root": "URED1218",
+  "path": "laws/UR/URED1218",
+  "members": [
+    {
+      "id": "URED1218",
+      "title": "Uredba o finančnih intervencijah za celostno urejanje podeželja in obnovo vasi za leto 2000",
+      "shortTitle": "Uredba o finančnih intervencijah za celostno urejanje podeželja in obnovo vasi za leto 2000",
+      "shortCode": "URED1218",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1475",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-04-07",
+      "validFrom": "2000-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1475",
+      "versions": [
+        {
+          "id": "URED1218-original",
+          "shortCode": "URED1218",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-04-07",
+          "effectiveFrom": "2000-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1475",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1312",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o finančnih intervencijah za celostno urejanje podeželja in obnovo vasi za leto 2000",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o finančnih intervencijah za celostno urejanje podeželja in obnovo vasi za leto 2000",
+      "shortCode": "URED1312",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-2787",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-07-07",
+      "validFrom": "2000-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2787",
+      "versions": [
+        {
+          "id": "URED1312-original",
+          "shortCode": "URED1312",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-07",
+          "effectiveFrom": "2000-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1218"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2787",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

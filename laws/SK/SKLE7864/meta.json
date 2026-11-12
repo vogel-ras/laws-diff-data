@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7864",
+  "path": "laws/SK/SKLE7864",
+  "members": [
+    {
+      "id": "SKLE7864",
+      "title": "Sklep o Kabinetu predsednika Vlade Republike Slovenije",
+      "shortTitle": "Sklep o Kabinetu predsednika Vlade Republike Slovenije",
+      "shortCode": "SKLE7864",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2008-01-4845",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-11-25",
+      "validFrom": "2008-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4845",
+      "versions": [
+        {
+          "id": "SKLE7864-original",
+          "shortCode": "SKLE7864",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-25",
+          "effectiveFrom": "2008-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4845",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9209",
+      "title": "Sklep o spremembi Sklepa o Kabinetu predsednika Vlade Republike Slovenije",
+      "shortTitle": "Sklep o spremembi Sklepa o Kabinetu predsednika Vlade Republike Slovenije",
+      "shortCode": "SKLE9209",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2012-01-0453",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-02-14",
+      "validFrom": "2012-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0453",
+      "versions": [
+        {
+          "id": "SKLE9209-original",
+          "shortCode": "SKLE9209",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-14",
+          "effectiveFrom": "2012-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7864"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0453",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

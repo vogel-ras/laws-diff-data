@@ -1,0 +1,165 @@
+{
+  "root": "ZNIBDR",
+  "path": "laws/ZN/ZNIBDR",
+  "members": [
+    {
+      "id": "ZNIBDR",
+      "title": "Zakon o nadzoru izvoza blaga z dvojno rabo",
+      "shortTitle": "Zakon o nadzoru izvoza blaga z dvojno rabo",
+      "shortCode": "ZNIBDR",
+      "kind": "zakon",
+      "keywords": [
+        "izvoz",
+        "orožje za množično uničevanje",
+        "biološko orožje",
+        "kemično orožje",
+        "razstrelivo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1602",
+      "gazette": "Uradni list RS 37/04  str. 4454",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1602",
+      "versions": [
+        {
+          "id": "ZNIBDR-original",
+          "shortCode": "ZNIBDR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4454",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1602",
+          "proposer": null
+        },
+        {
+          "id": "ZNIBDR-amend-ZNIBDR-A",
+          "shortCode": "ZNIBDR-A",
+          "label": "Sprememba ZNIBDR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 8/10  str. 934",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNIBDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0252",
+          "proposer": null
+        },
+        {
+          "id": "ZNIBDR-amend-ZNIBDR-B",
+          "shortCode": "ZNIBDR-B",
+          "label": "Sprememba ZNIBDR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 29/23  str. 1734",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNIBDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0617",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNIBDR-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nadzoru izvoza blaga z dvojno rabo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nadzoru izvoza blaga z dvojno rabo",
+      "shortCode": "ZNIBDR-A",
+      "kind": "zakon",
+      "keywords": [
+        "blago z dvojno rabo",
+        "nadzor izvoza",
+        "prenos tehnologije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0252",
+      "gazette": "Uradni list RS 8/10  str. 934",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-05",
+      "validFrom": "2010-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0252",
+      "versions": [
+        {
+          "id": "ZNIBDR-A-original",
+          "shortCode": "ZNIBDR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/10  str. 934",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNIBDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0252",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNIBDR-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nadzoru izvoza blaga z dvojno rabo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nadzoru izvoza blaga z dvojno rabo",
+      "shortCode": "ZNIBDR-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0617",
+      "gazette": "Uradni list RS 29/23  str. 1734",
+      "issuingBody": null,
+      "adoptedAt": "2023-03-07",
+      "validFrom": "2023-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0617",
+      "versions": [
+        {
+          "id": "ZNIBDR-B-original",
+          "shortCode": "ZNIBDR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/23  str. 1734",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNIBDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0617",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "URED5757",
+  "path": "laws/UR/URED5757",
+  "members": [
+    {
+      "id": "URED5757",
+      "title": "Uredba o izvajanju ukrepov endogene regionalne politike",
+      "shortTitle": "Uredba o izvajanju ukrepov endogene regionalne politike",
+      "shortCode": "URED5757",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1092",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-04-01",
+      "validFrom": "2011-04-01",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1092",
+      "versions": [
+        {
+          "id": "URED5757-original",
+          "shortCode": "URED5757",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-01",
+          "effectiveFrom": "2011-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1092",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6885",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov endogene regionalne politike",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov endogene regionalne politike",
+      "shortCode": "URED6885",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3040",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-10-16",
+      "validFrom": "2015-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3040",
+      "versions": [
+        {
+          "id": "URED6885-original",
+          "shortCode": "URED6885",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-10-16",
+          "effectiveFrom": "2015-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5757"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3040",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8801",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov endogene regionalne politike",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepov endogene regionalne politike",
+      "shortCode": "URED8801",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-2013",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-06-09",
+      "validFrom": "2023-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2013",
+      "versions": [
+        {
+          "id": "URED8801-original",
+          "shortCode": "URED8801",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-09",
+          "effectiveFrom": "2023-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5757"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2013",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

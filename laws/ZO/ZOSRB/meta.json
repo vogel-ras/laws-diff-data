@@ -1,0 +1,160 @@
+{
+  "root": "ZOSRB",
+  "path": "laws/ZO/ZOSRB",
+  "members": [
+    {
+      "id": "ZAKO7540",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o organu in skladu za reševanje bank (ZOSRB-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o organu in skladu za reševanje bank (ZOSRB-B)",
+      "shortCode": "ZOSRB-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1443",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-01",
+      "validFrom": "2017-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1443",
+      "versions": [
+        {
+          "id": "ZAKO7540-original",
+          "shortCode": "ZOSRB-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1443",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOSRB",
+      "title": "Zakon o organu in skladu za reševanje bank",
+      "shortTitle": "Zakon o organu in skladu za reševanje bank",
+      "shortCode": "ZOSRB",
+      "kind": "zakon",
+      "keywords": [
+        "banka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-4070",
+      "gazette": "Uradni list RS 97/14  str. 10981",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-30",
+      "validFrom": "2014-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4070",
+      "versions": [
+        {
+          "id": "ZOSRB-original",
+          "shortCode": "ZOSRB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/14  str. 10981",
+          "publishedAt": "2014-12-30",
+          "effectiveFrom": "2014-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4070",
+          "proposer": null
+        },
+        {
+          "id": "ZOSRB-amend-ZOSRB-A",
+          "shortCode": "ZOSRB-A",
+          "label": "Sprememba ZOSRB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 91/15  str. 10253",
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOSRB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3572",
+          "proposer": null
+        },
+        {
+          "id": "ZOSRB-amend-ZAKO7540",
+          "shortCode": "ZOSRB-B",
+          "label": "Sprememba ZOSRB-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1443",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOSRB-A",
+      "title": "Zakon o dopolnitvah Zakona o organu in skladu za reševanje bank",
+      "shortTitle": "Zakon o dopolnitvah Zakona o organu in skladu za reševanje bank",
+      "shortCode": "ZOSRB-A",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3572",
+      "gazette": "Uradni list RS 91/15  str. 10253",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-30",
+      "validFrom": "2015-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3572",
+      "versions": [
+        {
+          "id": "ZOSRB-A-original",
+          "shortCode": "ZOSRB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/15  str. 10253",
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3572",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "PRAV7895",
+  "path": "laws/PR/PRAV7895",
+  "members": [
+    {
+      "id": "PRAV7895",
+      "title": "Pravilnik o financiranju javnih del",
+      "shortTitle": "Pravilnik o financiranju javnih del",
+      "shortCode": "PRAV7895",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4740",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-11-03",
+      "validFrom": "2006-11-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4740",
+      "versions": [
+        {
+          "id": "PRAV7895-original",
+          "shortCode": "PRAV7895",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-03",
+          "effectiveFrom": "2006-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4740",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7902",
+      "title": "Pravilnik o spremembi Pravilnika o financiranju javnih del",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o financiranju javnih del",
+      "shortCode": "PRAV7902",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4994",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4994",
+      "versions": [
+        {
+          "id": "PRAV7902-original",
+          "shortCode": "PRAV7902",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7895"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4994",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8579",
+      "title": "Pravilnik o spremembi Pravilnika o financiranju javnih del",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o financiranju javnih del",
+      "shortCode": "PRAV8579",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-4752",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2007-10-19",
+      "validFrom": "2007-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4752",
+      "versions": [
+        {
+          "id": "PRAV8579-original",
+          "shortCode": "PRAV8579",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-10-19",
+          "effectiveFrom": "2007-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7895"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4752",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1148",
+  "path": "ordinances/OD/ODLO1148",
+  "members": [
+    {
+      "id": "ODLO1148",
+      "title": "Odlok o višini sredstev za ukrepe kmetijske strukturne politike in kmetijske politike razvoja podeželja za proračunsko leto 2002",
+      "shortTitle": "Odlok o višini sredstev za ukrepe kmetijske strukturne politike in kmetijske politike razvoja podeželja za proračunsko leto 2002",
+      "shortCode": "ODLO1148",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-1586",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-04-16",
+      "validFrom": "2002-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1586",
+      "versions": [
+        {
+          "id": "ODLO1148-original",
+          "shortCode": "ODLO1148",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-16",
+          "effectiveFrom": "2002-04-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1586",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1148-npb-ODLO1148",
+          "shortCode": "ODLO1148-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-04-16",
+          "effectiveFrom": "2002-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1148",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1221",
+      "title": "Odlok o spremembah odloka o višini sredstev za ukrepe kmetijske strukturne politike in kmetijske politike razvoja podeželja za proračunsko leto 2002",
+      "shortTitle": "Odlok o spremembah odloka o višini sredstev za ukrepe kmetijske strukturne politike in kmetijske politike razvoja podeželja za proračunsko leto 2002",
+      "shortCode": "ODLO1221",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-3961",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-09-13",
+      "validFrom": "2002-09-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3961",
+      "versions": [
+        {
+          "id": "ODLO1221-original",
+          "shortCode": "ODLO1221",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-13",
+          "effectiveFrom": "2002-09-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1148"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3961",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

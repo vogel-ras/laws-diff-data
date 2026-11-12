@@ -1,0 +1,121 @@
+{
+  "root": "URED2930",
+  "path": "laws/UR/URED2930",
+  "members": [
+    {
+      "id": "URED2930",
+      "title": "Uredba o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortTitle": "Uredba o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortCode": "URED2930",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3229",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-11",
+      "validFrom": "2003-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3229",
+      "versions": [
+        {
+          "id": "URED2930-original",
+          "shortCode": "URED2930",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-11",
+          "effectiveFrom": "2003-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3229",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5600",
+      "title": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortCode": "URED5600",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5289",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-17",
+      "validFrom": "2010-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5289",
+      "versions": [
+        {
+          "id": "URED5600-original",
+          "shortCode": "URED5600",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2930"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8187",
+      "title": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz lovilnih jam na reki Soči, Tolminki in Bači",
+      "shortCode": "URED8187",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3553",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-12-24",
+      "validFrom": "2020-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3553",
+      "versions": [
+        {
+          "id": "URED8187-original",
+          "shortCode": "URED8187",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-24",
+          "effectiveFrom": "2020-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2930"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3553",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

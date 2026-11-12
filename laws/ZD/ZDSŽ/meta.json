@@ -1,0 +1,109 @@
+{
+  "root": "ZDSŽ",
+  "path": "laws/ZD/ZDSŽ",
+  "members": [
+    {
+      "id": "ZDS_",
+      "title": "Zakon o družbi Slovenske železnice",
+      "shortTitle": "Zakon o družbi Slovenske železnice",
+      "shortCode": "ZDSŽ",
+      "kind": "zakon",
+      "keywords": [
+        "holding",
+        "železniški promet",
+        "prevozno podjetje",
+        "uporabnina za infrastrukturo",
+        "prevozne zmogljivosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5476",
+      "gazette": "Uradni list RS 106/10  str. 16421",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5476",
+      "versions": [
+        {
+          "id": "ZDS_-original",
+          "shortCode": "ZDSŽ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16421",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5476",
+          "proposer": null
+        },
+        {
+          "id": "ZDS_-amend-ZDS_-B",
+          "shortCode": "ZDSŽ-B",
+          "label": "Sprememba ZDS_-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 30/16  str. 4260",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDS_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1266",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDS_-B",
+      "title": "Zakon o spremembi Zakona o družbi Slovenske železnice",
+      "shortTitle": "Zakon o spremembi Zakona o družbi Slovenske železnice",
+      "shortCode": "ZDSŽ-B",
+      "kind": "zakon",
+      "keywords": [
+        "železniško omrežje",
+        "železniški promet",
+        "železniški vozni park"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1266",
+      "gazette": "Uradni list RS 30/16  str. 4260",
+      "issuingBody": null,
+      "adoptedAt": "2016-04-25",
+      "validFrom": "2016-04-25",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1266",
+      "versions": [
+        {
+          "id": "ZDS_-B-original",
+          "shortCode": "ZDSŽ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/16  str. 4260",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDS_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1266",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

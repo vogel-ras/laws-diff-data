@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10853",
+  "path": "laws/PR/PRAV10853",
+  "members": [
+    {
+      "id": "PRAV10853",
+      "title": "Pravilnik o pogojih za pridobitev naziva državni notranji revizor in preizkušeni državni notranji revizor",
+      "shortTitle": "Pravilnik o pogojih za pridobitev naziva državni notranji revizor in preizkušeni državni notranji revizor",
+      "shortCode": "PRAV10853",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2134",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2015-07-10",
+      "validFrom": "2015-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2134",
+      "versions": [
+        {
+          "id": "PRAV10853-original",
+          "shortCode": "PRAV10853",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-07-10",
+          "effectiveFrom": "2015-07-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2134",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10853-npb-PRAV10853",
+          "shortCode": "PRAV10853-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-07-10",
+          "effectiveFrom": "2015-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10853",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13748",
+      "title": "Pravilnik o spremembi Pravilnika o pogojih za pridobitev naziva državni notranji revizor in preizkušeni državni notranji revizor",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o pogojih za pridobitev naziva državni notranji revizor in preizkušeni državni notranji revizor",
+      "shortCode": "PRAV13748",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-2206",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-07-19",
+      "validFrom": "2019-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2206",
+      "versions": [
+        {
+          "id": "PRAV13748-original",
+          "shortCode": "PRAV13748",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10853"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2206",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

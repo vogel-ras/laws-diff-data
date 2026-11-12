@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11983",
+  "path": "laws/PR/PRAV11983",
+  "members": [
+    {
+      "id": "PRAV11983",
+      "title": "Pravilnik o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortTitle": "Pravilnik o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortCode": "PRAV11983",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-0199",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-01-30",
+      "validFrom": "2015-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0199",
+      "versions": [
+        {
+          "id": "PRAV11983-original",
+          "shortCode": "PRAV11983",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-01-30",
+          "effectiveFrom": "2015-01-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0199",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11983-npb-PRAV11983",
+          "shortCode": "PRAV11983-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-01-30",
+          "effectiveFrom": "2015-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11983",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12557",
+      "title": "Pravilnik o spremembi Pravilnika o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortCode": "PRAV12557",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2931",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-10-08",
+      "validFrom": "2015-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2931",
+      "versions": [
+        {
+          "id": "PRAV12557-original",
+          "shortCode": "PRAV12557",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-10-08",
+          "effectiveFrom": "2015-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2931",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13776",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovnih izpitih uslužbencev Finančne uprave Republike Slovenije",
+      "shortCode": "PRAV13776",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1511",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-05-24",
+      "validFrom": "2019-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1511",
+      "versions": [
+        {
+          "id": "PRAV13776-original",
+          "shortCode": "PRAV13776",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-24",
+          "effectiveFrom": "2019-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1511",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

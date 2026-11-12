@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5087",
+  "path": "laws/PR/PRAV5087",
+  "members": [
+    {
+      "id": "PRAV5087",
+      "title": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij pri reji drobnice",
+      "shortTitle": "Pravilnik o pogojih za odobritev organizacij in priznanje drugih organizacij pri reji drobnice",
+      "shortCode": "PRAV5087",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4246",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-09-30",
+      "validFrom": "2003-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4246",
+      "versions": [
+        {
+          "id": "PRAV5087-original",
+          "shortCode": "PRAV5087",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-30",
+          "effectiveFrom": "2003-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4246",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5087-npb-PRAV5087",
+          "shortCode": "PRAV5087-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-30",
+          "effectiveFrom": "2003-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5087",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8758",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij pri reji drobnice",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za odobritev organizacij in priznanje drugih organizacij pri reji drobnice",
+      "shortCode": "PRAV8758",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1722",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1722",
+      "versions": [
+        {
+          "id": "PRAV8758-original",
+          "shortCode": "PRAV8758",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5087"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1722",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

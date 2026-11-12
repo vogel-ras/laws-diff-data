@@ -1,0 +1,121 @@
+{
+  "root": "SKLE1906",
+  "path": "laws/SK/SKLE1906",
+  "members": [
+    {
+      "id": "SKLE1906",
+      "title": "Sklep o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortTitle": "Sklep o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortCode": "SKLE1906",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-0476",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-02",
+      "validFrom": "2001-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0476",
+      "versions": [
+        {
+          "id": "SKLE1906-original",
+          "shortCode": "SKLE1906",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-02",
+          "effectiveFrom": "2001-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0476",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5086",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortCode": "SKLE5086",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-4633",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-10-15",
+      "validFrom": "2004-10-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4633",
+      "versions": [
+        {
+          "id": "SKLE5086-original",
+          "shortCode": "SKLE5086",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-15",
+          "effectiveFrom": "2004-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1906"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4633",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6153",
+      "title": "Sklep o spremembah Sklepa o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortTitle": "Sklep o spremembah Sklepa o Generalnem sekretariatu Vlade Republike Slovenije",
+      "shortCode": "SKLE6153",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2005-01-4810",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-09",
+      "validFrom": "2005-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4810",
+      "versions": [
+        {
+          "id": "SKLE6153-original",
+          "shortCode": "SKLE6153",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-09",
+          "effectiveFrom": "2005-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1906"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4810",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

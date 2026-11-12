@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2077",
+  "path": "laws/PR/PRAV2077",
+  "members": [
+    {
+      "id": "PRAV2077",
+      "title": "Pravilnik o postopku in vsebini vloge za zaščito podatkov o sestavinah kozmetičnih proizvodov",
+      "shortTitle": "Pravilnik o postopku in vsebini vloge za zaščito podatkov o sestavinah kozmetičnih proizvodov",
+      "shortCode": "PRAV2077",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0084",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0084",
+      "versions": [
+        {
+          "id": "PRAV2077-original",
+          "shortCode": "PRAV2077",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0084",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8572",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku in vsebini vloge za zaščito podatkov o sestavinah kozmetičnih proizvodov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku in vsebini vloge za zaščito podatkov o sestavinah kozmetičnih proizvodov",
+      "shortCode": "PRAV8572",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5173",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-11-16",
+      "validFrom": "2007-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5173",
+      "versions": [
+        {
+          "id": "PRAV8572-original",
+          "shortCode": "PRAV8572",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-16",
+          "effectiveFrom": "2007-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2077"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5173",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

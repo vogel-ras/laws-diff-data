@@ -1,0 +1,172 @@
+{
+  "root": "ZDRad",
+  "path": "laws/ZD/ZDRad",
+  "members": [
+    {
+      "id": "ZDRad",
+      "title": "Zakon o digitalni radiodifuziji",
+      "shortTitle": "Zakon o digitalni radiodifuziji",
+      "shortCode": "ZDRad",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska pošta",
+        "telekomunikacije",
+        "urejanje telekomunikacij",
+        "prenosno omrežje",
+        "kabelska televizija",
+        "satelitske komunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5066",
+      "gazette": "Uradni list RS 102/07  str. 13762",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5066",
+      "versions": [
+        {
+          "id": "ZDRad-original",
+          "shortCode": "ZDRad",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13762",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5066",
+          "proposer": null
+        },
+        {
+          "id": "ZDRad-amend-ZDRad-A",
+          "shortCode": "ZDRad-A",
+          "label": "Sprememba ZDRad-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 85/10  str. 12923",
+          "publishedAt": "2010-10-29",
+          "effectiveFrom": "2010-10-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDRad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4556",
+          "proposer": null
+        },
+        {
+          "id": "ZDRad-amend-ZDRad-B",
+          "shortCode": "ZDRad-B",
+          "label": "Sprememba ZDRad-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 47/12  str. 4813",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1961",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRad-A",
+      "title": "Zakon o dopolnitvah Zakona o digitalni radiodifuziji",
+      "shortTitle": "Zakon o dopolnitvah Zakona o digitalni radiodifuziji",
+      "shortCode": "ZDRad-A",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska pošta",
+        "telekomunikacije",
+        "urejanje telekomunikacij",
+        "prenosno omrežje",
+        "kabelska televizija",
+        "satelitske komunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4556",
+      "gazette": "Uradni list RS 85/10  str. 12923",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-29",
+      "validFrom": "2010-10-29",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4556",
+      "versions": [
+        {
+          "id": "ZDRad-A-original",
+          "shortCode": "ZDRad-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/10  str. 12923",
+          "publishedAt": "2010-10-29",
+          "effectiveFrom": "2010-10-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4556",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRad-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o digitalni radiodifuziji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o digitalni radiodifuziji",
+      "shortCode": "ZDRad-B",
+      "kind": "zakon",
+      "keywords": [
+        "digitalna tehnologija",
+        "radiodifuzija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1961",
+      "gazette": "Uradni list RS 47/12  str. 4813",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-22",
+      "validFrom": "2012-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1961",
+      "versions": [
+        {
+          "id": "ZDRad-B-original",
+          "shortCode": "ZDRad-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/12  str. 4813",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRad"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1961",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED466",
+  "path": "laws/UR/URED466",
+  "members": [
+    {
+      "id": "URED466",
+      "title": "Uredba o uvedbi in uporabi klasifikacijskega sistema izobraževanja in usposabljanja",
+      "shortTitle": "Uredba o uvedbi in uporabi klasifikacijskega sistema izobraževanja in usposabljanja",
+      "shortCode": "URED466",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-1964",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-05-05",
+      "validFrom": "2006-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1964",
+      "versions": [
+        {
+          "id": "URED466-original",
+          "shortCode": "URED466",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-05",
+          "effectiveFrom": "2006-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1964",
+          "proposer": null
+        },
+        {
+          "id": "URED466-npb-URED466",
+          "shortCode": "URED466-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-05-05",
+          "effectiveFrom": "2006-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6996",
+      "title": "Uredba o spremembah Uredbe o uvedbi in uporabi klasifikacijskega sistema izobraževanja in usposabljanja",
+      "shortTitle": "Uredba o spremembah Uredbe o uvedbi in uporabi klasifikacijskega sistema izobraževanja in usposabljanja",
+      "shortCode": "URED6996",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0362",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-02-17",
+      "validFrom": "2017-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0362",
+      "versions": [
+        {
+          "id": "URED6996-original",
+          "shortCode": "URED6996",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-02-17",
+          "effectiveFrom": "2017-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED466"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0362",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "ODRE2103",
+  "path": "laws/OD/ODRE2103",
+  "members": [
+    {
+      "id": "ODRE2103",
+      "title": "Odredba o številu in sedežih izvršiteljev",
+      "shortTitle": "Odredba o številu in sedežih izvršiteljev",
+      "shortCode": "ODRE2103",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2011-01-2179",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-02-15",
+      "validFrom": "2023-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2179",
+      "versions": [
+        {
+          "id": "ODRE2103-original",
+          "shortCode": "ODRE2103",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-15",
+          "effectiveFrom": "2023-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2179",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2103-npb-ODRE2103",
+          "shortCode": "ODRE2103-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-06-13",
+          "effectiveFrom": "2011-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2103",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2136",
+      "title": "Odredba o spremembi Odredbe o številu in sedežih izvršiteljev",
+      "shortTitle": "Odredba o spremembi Odredbe o številu in sedežih izvršiteljev",
+      "shortCode": "ODRE2136",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2011-01-4348",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-12",
+      "validFrom": "2011-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4348",
+      "versions": [
+        {
+          "id": "ODRE2136-original",
+          "shortCode": "ODRE2136",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-12",
+          "effectiveFrom": "2011-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2103"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4348",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2803",
+      "title": "Odredba o spremembah Odredbe o številu in sedežih izvršiteljev",
+      "shortTitle": "Odredba o spremembah Odredbe o številu in sedežih izvršiteljev",
+      "shortCode": "ODRE2803",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2023-01-0358",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-02-15",
+      "validFrom": "2023-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0358",
+      "versions": [
+        {
+          "id": "ODRE2803-original",
+          "shortCode": "ODRE2803",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-15",
+          "effectiveFrom": "2023-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2103"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0358",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

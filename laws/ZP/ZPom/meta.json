@@ -1,0 +1,106 @@
+{
+  "root": "ZPom",
+  "path": "laws/ZP/ZPom",
+  "members": [
+    {
+      "id": "ZPom",
+      "title": "Zakon o pomilostitvi",
+      "shortTitle": "Zakon o pomilostitvi",
+      "shortCode": "ZPom",
+      "kind": "zakon",
+      "keywords": [
+        "zastaranje izvršitve kazni",
+        "kazenska sankcija",
+        "izvršitev kazni"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2165",
+      "gazette": "Uradni list RS 45/95  str. 3514",
+      "issuingBody": null,
+      "adoptedAt": "1995-08-04",
+      "validFrom": "1995-08-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2165",
+      "versions": [
+        {
+          "id": "ZPom-original",
+          "shortCode": "ZPom",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/95  str. 3514",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2165",
+          "proposer": null
+        },
+        {
+          "id": "ZPom-amend-ZPom-A",
+          "shortCode": "ZPom-A",
+          "label": "Sprememba ZPom-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10405",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3837",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPom-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o pomilostitvi",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o pomilostitvi",
+      "shortCode": "ZPom-A",
+      "kind": "zakon",
+      "keywords": [
+        "kazenska sankcija",
+        "izvršitev kazni"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3837",
+      "gazette": "Uradni list RS 86/04  str. 10405",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3837",
+      "versions": [
+        {
+          "id": "ZPom-A-original",
+          "shortCode": "ZPom-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10405",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3837",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

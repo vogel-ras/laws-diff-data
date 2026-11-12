@@ -1,0 +1,103 @@
+{
+  "root": "ZSolI",
+  "path": "laws/ZS/ZSolI",
+  "members": [
+    {
+      "id": "ZSolI",
+      "title": "Zakon o šolski inšpekciji",
+      "shortTitle": "Zakon o šolski inšpekciji",
+      "shortCode": "ZSolI",
+      "kind": "zakon",
+      "keywords": [
+        "šolska inšpekcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-1827",
+      "gazette": "Uradni list RS 29/96  str. 2356",
+      "issuingBody": null,
+      "adoptedAt": "1996-05-31",
+      "validFrom": "1996-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1827",
+      "versions": [
+        {
+          "id": "ZSolI-original",
+          "shortCode": "ZSolI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/96  str. 2356",
+          "publishedAt": "1996-05-31",
+          "effectiveFrom": "1996-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1827",
+          "proposer": null
+        },
+        {
+          "id": "ZSolI-amend-ZSolI-A",
+          "shortCode": "ZSolI-A",
+          "label": "Sprememba ZSolI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 91/05  str. 9279",
+          "publishedAt": "2005-10-14",
+          "effectiveFrom": "2005-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSolI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3885",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSolI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o šolski inšpekciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o šolski inšpekciji",
+      "shortCode": "ZSolI-A",
+      "kind": "zakon",
+      "keywords": [
+        "šolska inšpekcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3885",
+      "gazette": "Uradni list RS 91/05  str. 9279",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-14",
+      "validFrom": "2005-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3885",
+      "versions": [
+        {
+          "id": "ZSolI-A-original",
+          "shortCode": "ZSolI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/05  str. 9279",
+          "publishedAt": "2005-10-14",
+          "effectiveFrom": "2005-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSolI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3885",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "root": "ZDR",
+  "path": "laws/ZD/ZDR",
+  "members": [
+    {
+      "id": "1993_01_2574",
+      "title": "Zakon o spremembah in dopolnitvah zakona o delovnih razmerjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o delovnih razmerjih",
+      "shortCode": "1993_01_2574",
+      "kind": "zakon",
+      "keywords": [
+        "delovno pravo",
+        "delovnopravna zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2574",
+      "gazette": "Uradni list RS 71/93  str. 3691",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-30",
+      "validFrom": "1993-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2574",
+      "versions": [
+        {
+          "id": "1993_01_2574-original",
+          "shortCode": "1993_01_2574",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/93  str. 3691",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2574",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDR",
+      "title": "Zakon o delovnih razmerjih",
+      "shortTitle": "Zakon o delovnih razmerjih",
+      "shortCode": "ZDR",
+      "kind": "zakon",
+      "keywords": [
+        "delavec",
+        "delodajalec",
+        "delovni čas",
+        "dopust iz socialnih pravic",
+        "pogodba",
+        "konkurenčna klavzula",
+        "pripravništvo",
+        "politika zaposlovanja",
+        "sindikat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2006",
+      "gazette": "Uradni list RS 42/2002  str. 4075",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-15",
+      "validFrom": "2002-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2006",
+      "versions": [
+        {
+          "id": "ZDR-original",
+          "shortCode": "ZDR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2002  str. 4075",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2006",
+          "proposer": null
+        },
+        {
+          "id": "ZDR-amend-ZDR-A",
+          "shortCode": "ZDR-A",
+          "label": "Sprememba ZDR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 103/07  str. 13905",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5131",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDR-1",
+      "title": "Zakon o delovnih razmerjih",
+      "shortTitle": "Zakon o delovnih razmerjih",
+      "shortCode": "ZDR-1",
+      "kind": "zakon",
+      "keywords": [
+        "delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0784",
+      "gazette": "Uradni list RS 21/13  str. 2771",
+      "issuingBody": null,
+      "adoptedAt": "2013-03-13",
+      "validFrom": "2013-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0784",
+      "versions": [
+        {
+          "id": "ZDR-1-original",
+          "shortCode": "ZDR-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/13  str. 2771",
+          "publishedAt": "2013-03-13",
+          "effectiveFrom": "2013-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0784",
+          "proposer": null
+        },
+        {
+          "id": "ZDR-1-amend-ZDR-1D",
+          "shortCode": "ZDR-1D",
+          "label": "Sprememba ZDR-1D",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 114/23  str. 9599",
+          "publishedAt": "2023-11-15",
+          "effectiveFrom": "2023-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3325",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDR-1D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o delovnih razmerjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o delovnih razmerjih",
+      "shortCode": "ZDR-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3325",
+      "gazette": "Uradni list RS 114/23  str. 9599",
+      "issuingBody": null,
+      "adoptedAt": "2023-11-15",
+      "validFrom": "2023-11-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3325",
+      "versions": [
+        {
+          "id": "ZDR-1D-original",
+          "shortCode": "ZDR-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/23  str. 9599",
+          "publishedAt": "2023-11-15",
+          "effectiveFrom": "2023-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3325",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDR-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o delovnih razmerjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o delovnih razmerjih",
+      "shortCode": "ZDR-A",
+      "kind": "zakon",
+      "keywords": [
+        "delovno pravo",
+        "delovnopravna zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5131",
+      "gazette": "Uradni list RS 103/07  str. 13905",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-13",
+      "validFrom": "2007-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5131",
+      "versions": [
+        {
+          "id": "ZDR-A-original",
+          "shortCode": "ZDR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 103/07  str. 13905",
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5131",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

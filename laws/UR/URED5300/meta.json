@@ -1,0 +1,58 @@
+{
+  "root": "URED5300",
+  "path": "laws/UR/URED5300",
+  "members": [
+    {
+      "id": "URED5300",
+      "title": "Uredba o državnem prostorskem načrtu za prenosni plinovod M5/R51 na odseku od Vodic do Termoelektrarne Toplarne Ljubljana",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za prenosni plinovod M5/R51 na odseku od Vodic do Termoelektrarne Toplarne Ljubljana",
+      "shortCode": "URED5300",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-5083",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-12-30",
+      "validFrom": "2009-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5083",
+      "versions": [
+        {
+          "id": "URED5300-original",
+          "shortCode": "URED5300",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-30",
+          "effectiveFrom": "2009-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5083",
+          "proposer": null
+        },
+        {
+          "id": "URED5300-npb-URED5300",
+          "shortCode": "URED5300-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-12-30",
+          "effectiveFrom": "2009-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5300",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

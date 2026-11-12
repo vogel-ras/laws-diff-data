@@ -1,0 +1,97 @@
+{
+  "root": "URED1634",
+  "path": "laws/UR/URED1634",
+  "members": [
+    {
+      "id": "URED1634",
+      "title": "Uredba o pravilih za opravljanje tehničnega in finančnega nadzora nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje - Hrastnik",
+      "shortTitle": "Uredba o pravilih za opravljanje tehničnega in finančnega nadzora nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje - Hrastnik",
+      "shortCode": "URED1634",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2034",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-10",
+      "validFrom": "2001-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2034",
+      "versions": [
+        {
+          "id": "URED1634-original",
+          "shortCode": "URED1634",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2034",
+          "proposer": null
+        },
+        {
+          "id": "URED1634-npb-URED1634",
+          "shortCode": "URED1634-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1634",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2176",
+      "title": "Uredba o spremembi uredbe o pravilih za opravljanje tehničnega in finančnega nadzora nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje - Hrastnik",
+      "shortTitle": "Uredba o spremembi uredbe o pravilih za opravljanje tehničnega in finančnega nadzora nad izvajanjem programa postopnega zapiranja Rudnika Trbovlje - Hrastnik",
+      "shortCode": "URED2176",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-1178",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-29",
+      "validFrom": "2002-03-29",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1178",
+      "versions": [
+        {
+          "id": "URED2176-original",
+          "shortCode": "URED2176",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-29",
+          "effectiveFrom": "2002-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1634"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1178",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

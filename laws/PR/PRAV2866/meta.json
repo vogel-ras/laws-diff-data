@@ -1,0 +1,58 @@
+{
+  "root": "PRAV2866",
+  "path": "laws/PR/PRAV2866",
+  "members": [
+    {
+      "id": "PRAV2866",
+      "title": "Pravilnik o hrupu zrakoplovov",
+      "shortTitle": "Pravilnik o hrupu zrakoplovov",
+      "shortCode": "PRAV2866",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2546",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-07-22",
+      "validFrom": "2008-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2546",
+      "versions": [
+        {
+          "id": "PRAV2866-original",
+          "shortCode": "PRAV2866",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-22",
+          "effectiveFrom": "2008-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2546",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2866-npb-PRAV2866",
+          "shortCode": "PRAV2866-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-06-20",
+          "effectiveFrom": "2000-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2866",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

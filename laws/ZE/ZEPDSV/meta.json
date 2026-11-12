@@ -1,0 +1,105 @@
+{
+  "root": "ZEPDSV",
+  "path": "laws/ZE/ZEPDSV",
+  "members": [
+    {
+      "id": "ZEPDSV",
+      "title": "Zakon o evidencah na področju dela in socialne varnosti",
+      "shortTitle": "Zakon o evidencah na področju dela in socialne varnosti",
+      "shortCode": "ZEPDSV",
+      "kind": "zakon",
+      "keywords": [
+        "delo",
+        "delodajalec",
+        "delojemalec",
+        "socialna varnost",
+        "zbiranje podatkov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1768",
+      "gazette": "Uradni list RS 40/06  str. 4328",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-14",
+      "validFrom": "2006-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1768",
+      "versions": [
+        {
+          "id": "ZEPDSV-original",
+          "shortCode": "ZEPDSV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/06  str. 4328",
+          "publishedAt": "2006-04-14",
+          "effectiveFrom": "2006-04-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1768",
+          "proposer": null
+        },
+        {
+          "id": "ZEPDSV-amend-ZEPDSV-A",
+          "shortCode": "ZEPDSV-A",
+          "label": "Sprememba ZEPDSV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 50/23  str. 4221",
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPDSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1574",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPDSV-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o evidencah na področju dela in socialne varnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o evidencah na področju dela in socialne varnosti",
+      "shortCode": "ZEPDSV-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1574",
+      "gazette": "Uradni list RS 50/23  str. 4221",
+      "issuingBody": null,
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1574",
+      "versions": [
+        {
+          "id": "ZEPDSV-A-original",
+          "shortCode": "ZEPDSV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/23  str. 4221",
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPDSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1574",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV11560",
+  "path": "laws/PR/PRAV11560",
+  "members": [
+    {
+      "id": "PRAV11560",
+      "title": "Pravilnik o izračunu minimalne zajamčene donosnosti",
+      "shortTitle": "Pravilnik o izračunu minimalne zajamčene donosnosti",
+      "shortCode": "PRAV11560",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-0228",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2013-01-25",
+      "validFrom": "2013-01-25",
+      "validTo": null,
+      "latestPublishedAt": "2013-01-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0228",
+      "versions": [
+        {
+          "id": "PRAV11560-original",
+          "shortCode": "PRAV11560",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-01-25",
+          "effectiveFrom": "2013-01-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0228",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11560-npb-PRAV11560",
+          "shortCode": "PRAV11560-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-01-25",
+          "effectiveFrom": "2013-01-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11560",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

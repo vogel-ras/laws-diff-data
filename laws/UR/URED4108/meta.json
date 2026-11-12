@@ -1,0 +1,82 @@
+{
+  "root": "URED4108",
+  "path": "laws/UR/URED4108",
+  "members": [
+    {
+      "id": "URED4108",
+      "title": "Uredba o regionalnih razvojnih programih",
+      "shortTitle": "Uredba o regionalnih razvojnih programih",
+      "shortCode": "URED4108",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-1269",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-03-24",
+      "validFrom": "2006-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1269",
+      "versions": [
+        {
+          "id": "URED4108-original",
+          "shortCode": "URED4108",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1269",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7101",
+      "title": "Uredba o spremembi Uredbe o regionalnih razvojnih programih",
+      "shortTitle": "Uredba o spremembi Uredbe o regionalnih razvojnih programih",
+      "shortCode": "URED7101",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3041",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-10-16",
+      "validFrom": "2015-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3041",
+      "versions": [
+        {
+          "id": "URED7101-original",
+          "shortCode": "URED7101",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-10-16",
+          "effectiveFrom": "2015-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4108"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3041",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

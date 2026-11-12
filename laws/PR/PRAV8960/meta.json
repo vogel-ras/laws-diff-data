@@ -1,0 +1,58 @@
+{
+  "root": "PRAV8960",
+  "path": "laws/PR/PRAV8960",
+  "members": [
+    {
+      "id": "PRAV8960",
+      "title": "Pravilnik o geografski označbi Brkinski slivovec",
+      "shortTitle": "Pravilnik o geografski označbi Brkinski slivovec",
+      "shortCode": "PRAV8960",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-5083",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2008-12-12",
+      "validFrom": "2008-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5083",
+      "versions": [
+        {
+          "id": "PRAV8960-original",
+          "shortCode": "PRAV8960",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-12",
+          "effectiveFrom": "2008-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5083",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8960-npb-PRAV8960",
+          "shortCode": "PRAV8960-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-12-12",
+          "effectiveFrom": "2008-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8960",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

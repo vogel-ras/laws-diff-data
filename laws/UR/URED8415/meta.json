@@ -1,0 +1,97 @@
+{
+  "root": "URED8415",
+  "path": "laws/UR/URED8415",
+  "members": [
+    {
+      "id": "URED8415",
+      "title": "Uredba o zmanjšanju vpliva nekaterih plastičnih proizvodov na okolje",
+      "shortTitle": "Uredba o zmanjšanju vpliva nekaterih plastičnih proizvodov na okolje",
+      "shortCode": "URED8415",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-3198",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-10-14",
+      "validFrom": "2022-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3198",
+      "versions": [
+        {
+          "id": "URED8415-original",
+          "shortCode": "URED8415",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3198",
+          "proposer": null
+        },
+        {
+          "id": "URED8415-npb-URED8415",
+          "shortCode": "URED8415-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8415",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9088",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o zmanjšanju vpliva nekaterih plastičnih proizvodov na okolje",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o zmanjšanju vpliva nekaterih plastičnih proizvodov na okolje",
+      "shortCode": "URED9088",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-1665",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-06-14",
+      "validFrom": "2024-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1665",
+      "versions": [
+        {
+          "id": "URED9088-original",
+          "shortCode": "URED9088",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-14",
+          "effectiveFrom": "2024-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1665",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

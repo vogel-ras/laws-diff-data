@@ -1,0 +1,82 @@
+{
+  "root": "NAVO830",
+  "path": "laws/NA/NAVO830",
+  "members": [
+    {
+      "id": "NAVO830",
+      "title": "Navodilo za posredovanje zahteve za pridobitev osebnih podatkov iz registra transakcijskih računov v elektronski obliki",
+      "shortTitle": "Navodilo za posredovanje zahteve za pridobitev osebnih podatkov iz registra transakcijskih računov v elektronski obliki",
+      "shortCode": "NAVO830",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2006-01-5242",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2006-11-28",
+      "validFrom": "2006-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5242",
+      "versions": [
+        {
+          "id": "NAVO830-original",
+          "shortCode": "NAVO830",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-28",
+          "effectiveFrom": "2006-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5242",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO977",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila za posredovanje zahteve za pridobitev osebnih podatkov iz registra transakcijskih računov v elektronski obliki",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila za posredovanje zahteve za pridobitev osebnih podatkov iz registra transakcijskih računov v elektronski obliki",
+      "shortCode": "NAVO977",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2009-01-3160",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2009-09-11",
+      "validFrom": "2009-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3160",
+      "versions": [
+        {
+          "id": "NAVO977-original",
+          "shortCode": "NAVO977",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-11",
+          "effectiveFrom": "2009-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO830"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3160",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

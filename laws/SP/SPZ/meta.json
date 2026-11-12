@@ -1,0 +1,163 @@
+{
+  "root": "SPZ",
+  "path": "laws/SP/SPZ",
+  "members": [
+    {
+      "id": "SPZ",
+      "title": "Stvarnopravni zakonik",
+      "shortTitle": "Stvarnopravni zakonik",
+      "shortCode": "SPZ",
+      "kind": "zakon",
+      "keywords": [
+        "zakonik",
+        "nepremičnine",
+        "premično premoženje",
+        "lastnina",
+        "služnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4360",
+      "gazette": "Uradni list RS 87/2002  str. 9559",
+      "issuingBody": null,
+      "adoptedAt": "2002-10-17",
+      "validFrom": "2002-10-17",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4360",
+      "versions": [
+        {
+          "id": "SPZ-original",
+          "shortCode": "SPZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2002  str. 9559",
+          "publishedAt": "2002-10-17",
+          "effectiveFrom": "2002-10-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4360",
+          "proposer": null
+        },
+        {
+          "id": "SPZ-amend-SPZ-A",
+          "shortCode": "SPZ-A",
+          "label": "Sprememba SPZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 91/13  str. 9838",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "SPZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3303",
+          "proposer": null
+        },
+        {
+          "id": "SPZ-amend-SPZ-B",
+          "shortCode": "SPZ-B",
+          "label": "Sprememba SPZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 23/20  str. 1723",
+          "publishedAt": "2020-03-14",
+          "effectiveFrom": "2020-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SPZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0553",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SPZ-A",
+      "title": "Zakon o spremembah Stvarnopravnega zakonika",
+      "shortTitle": "Zakon o spremembah Stvarnopravnega zakonika",
+      "shortCode": "SPZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3303",
+      "gazette": "Uradni list RS 91/13  str. 9838",
+      "issuingBody": null,
+      "adoptedAt": "2013-11-05",
+      "validFrom": "2013-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3303",
+      "versions": [
+        {
+          "id": "SPZ-A-original",
+          "shortCode": "SPZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/13  str. 9838",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SPZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3303",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SPZ-B",
+      "title": "Zakon o spremembah in dopolnitvah Stvarnopravnega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Stvarnopravnega zakonika",
+      "shortCode": "SPZ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0553",
+      "gazette": "Uradni list RS 23/20  str. 1723",
+      "issuingBody": null,
+      "adoptedAt": "2020-03-14",
+      "validFrom": "2020-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0553",
+      "versions": [
+        {
+          "id": "SPZ-B-original",
+          "shortCode": "SPZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/20  str. 1723",
+          "publishedAt": "2020-03-14",
+          "effectiveFrom": "2020-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SPZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0553",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

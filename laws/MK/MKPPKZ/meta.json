@@ -1,0 +1,107 @@
+{
+  "root": "MKPPKZ",
+  "path": "laws/MK/MKPPKZ",
+  "members": [
+    {
+      "id": "MKPPKZ",
+      "title": "Zakon o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji",
+      "shortTitle": "Zakon o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji",
+      "shortCode": "MKPPKZ",
+      "kind": "zakon",
+      "keywords": [
+        "Evropska unija",
+        "kazenski postopek",
+        "kaznivo dejanje",
+        "Pogodba o Evropski uniji",
+        "pravna pomoč",
+        "ratifikacija sporazuma",
+        "Schengenski sporazum"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-02-0017",
+      "gazette": "Uradni list RS 7/05  str. 515",
+      "issuingBody": null,
+      "adoptedAt": "2005-05-18",
+      "validFrom": "2005-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-02-0017",
+      "versions": [
+        {
+          "id": "MKPPKZ-original",
+          "shortCode": "MKPPKZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/05  str. 515",
+          "publishedAt": "2005-05-18",
+          "effectiveFrom": "2005-05-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-02-0017",
+          "proposer": null
+        },
+        {
+          "id": "MKPPKZ-amend-ZAKO8430",
+          "shortCode": "MKPPKZ-A",
+          "label": "Sprememba MKPPKZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-10-01",
+          "effectiveFrom": "2021-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKPPKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-02-0036",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO8430",
+      "title": "Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji (MKPPKZ-A)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o medsebojni pravni pomoči v kazenskih zadevah med državami članicami Evropske unije, ki jo je Svet pripravil na podlagi 34. člena Pogodbe o Evropski uniji (MKPPKZ-A)",
+      "shortCode": "MKPPKZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-02-0036",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-10-01",
+      "validFrom": "2021-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-02-0036",
+      "versions": [
+        {
+          "id": "ZAKO8430-original",
+          "shortCode": "MKPPKZ-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-01",
+          "effectiveFrom": "2021-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKPPKZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-02-0036",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED5994",
+  "path": "laws/UR/URED5994",
+  "members": [
+    {
+      "id": "URED5994",
+      "title": "Uredba o vsebini in izdelavi načrtov zaščite in reševanja",
+      "shortTitle": "Uredba o vsebini in izdelavi načrtov zaščite in reševanja",
+      "shortCode": "URED5994",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-0921",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-03-30",
+      "validFrom": "2012-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0921",
+      "versions": [
+        {
+          "id": "URED5994-original",
+          "shortCode": "URED5994",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-03-30",
+          "effectiveFrom": "2012-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0921",
+          "proposer": null
+        },
+        {
+          "id": "URED5994-npb-URED5994",
+          "shortCode": "URED5994-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-03-30",
+          "effectiveFrom": "2012-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5994",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

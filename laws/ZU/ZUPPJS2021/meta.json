@@ -1,0 +1,99 @@
+{
+  "root": "ZUPPJS2021",
+  "path": "laws/ZU/ZUPPJS2021",
+  "members": [
+    {
+      "id": "ZUPPJS2021",
+      "title": "Zakon o ukrepih na področju plač in drugih stroškov dela v javnem sektorju za leti 2020 in 2021 ter izredni uskladitvi pokojnin",
+      "shortTitle": "Zakon o ukrepih na področju plač in drugih stroškov dela v javnem sektorju za leti 2020 in 2021 ter izredni uskladitvi pokojnin",
+      "shortCode": "ZUPPJS2021",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3305",
+      "gazette": "Uradni list RS 75/19  str. 9653",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-12",
+      "validFrom": "2019-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3305",
+      "versions": [
+        {
+          "id": "ZUPPJS2021-original",
+          "shortCode": "ZUPPJS2021",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/19  str. 9653",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3305",
+          "proposer": null
+        },
+        {
+          "id": "ZUPPJS2021-amend-ZUPPJS2021-A",
+          "shortCode": "ZUPPJS2021-A",
+          "label": "Sprememba ZUPPJS2021-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 139/20  str. 5710",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPPJS2021"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2452",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUPPJS2021-A",
+      "title": "Zakon o spremembi Zakona o ukrepih na področju plač in drugih stroškov dela v javnem sektorju za leti 2020 in 2021 ter izredni uskladitvi pokojnin",
+      "shortTitle": "Zakon o spremembi Zakona o ukrepih na področju plač in drugih stroškov dela v javnem sektorju za leti 2020 in 2021 ter izredni uskladitvi pokojnin",
+      "shortCode": "ZUPPJS2021-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2452",
+      "gazette": "Uradni list RS 139/20  str. 5710",
+      "issuingBody": null,
+      "adoptedAt": "2020-10-09",
+      "validFrom": "2020-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2452",
+      "versions": [
+        {
+          "id": "ZUPPJS2021-A-original",
+          "shortCode": "ZUPPJS2021-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/20  str. 5710",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPPJS2021"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2452",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

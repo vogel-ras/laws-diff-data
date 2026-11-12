@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8893",
+  "path": "laws/PR/PRAV8893",
+  "members": [
+    {
+      "id": "PRAV15423",
+      "title": "Pravilnik o spremembah Pravilnika o varovanju izpitne tajnosti pri maturi",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o varovanju izpitne tajnosti pri maturi",
+      "shortCode": "PRAV15423",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1378",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za vzgojo in izobraževanje",
+      "adoptedAt": "2024-05-17",
+      "validFrom": "2024-05-17",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1378",
+      "versions": [
+        {
+          "id": "PRAV15423-original",
+          "shortCode": "PRAV15423",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-05-17",
+          "effectiveFrom": "2024-05-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8893"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1378",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8893",
+      "title": "Pravilnik o varovanju izpitne tajnosti pri maturi",
+      "shortTitle": "Pravilnik o varovanju izpitne tajnosti pri maturi",
+      "shortCode": "PRAV8893",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0245",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2008-01-24",
+      "validFrom": "2008-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0245",
+      "versions": [
+        {
+          "id": "PRAV8893-original",
+          "shortCode": "PRAV8893",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-24",
+          "effectiveFrom": "2008-01-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0245",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8893-npb-PRAV8893",
+          "shortCode": "PRAV8893-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-01-24",
+          "effectiveFrom": "2008-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8893",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

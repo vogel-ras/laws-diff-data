@@ -1,0 +1,97 @@
+{
+  "root": "NAVO248",
+  "path": "laws/NA/NAVO248",
+  "members": [
+    {
+      "id": "NAVO248",
+      "title": "Navodilo za poslovanje v zvezi z zahtevami za denacionalizacijo",
+      "shortTitle": "Navodilo za poslovanje v zvezi z zahtevami za denacionalizacijo",
+      "shortCode": "NAVO248",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1991-01-1337",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-12-24",
+      "validFrom": "1991-12-24",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1337",
+      "versions": [
+        {
+          "id": "NAVO248-original",
+          "shortCode": "NAVO248",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-12-24",
+          "effectiveFrom": "1991-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1337",
+          "proposer": null
+        },
+        {
+          "id": "NAVO248-npb-NAVO248",
+          "shortCode": "NAVO248-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1991-12-24",
+          "effectiveFrom": "1991-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO248",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO249",
+      "title": "Navodilo o spremembah navodila za poslovanje v zvezi z zahtevami za denacionalizacijo",
+      "shortTitle": "Navodilo o spremembah navodila za poslovanje v zvezi z zahtevami za denacionalizacijo",
+      "shortCode": "NAVO249",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1993-01-1434",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-06-24",
+      "validFrom": "1993-06-24",
+      "validTo": null,
+      "latestPublishedAt": "1993-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1434",
+      "versions": [
+        {
+          "id": "NAVO249-original",
+          "shortCode": "NAVO249",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-06-24",
+          "effectiveFrom": "1993-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO248"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1434",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

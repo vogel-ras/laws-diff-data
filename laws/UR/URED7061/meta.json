@@ -1,0 +1,97 @@
+{
+  "root": "URED7061",
+  "path": "laws/UR/URED7061",
+  "members": [
+    {
+      "id": "URED7061",
+      "title": "Uredba o koncesiji za rabo termalne vode iz vrtin Mt-1/60, Mt-4/74, Mt-5/82, Mt-6/83 in Mt-7/93 za ogrevanje in potrebe kopališča Terme 3000 – Moravske Toplice",
+      "shortTitle": "Uredba o koncesiji za rabo termalne vode iz vrtin Mt-1/60, Mt-4/74, Mt-5/82, Mt-6/83 in Mt-7/93 za ogrevanje in potrebe kopališča Terme 3000 – Moravske Toplice",
+      "shortCode": "URED7061",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-4104",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-24",
+      "validFrom": "2015-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4104",
+      "versions": [
+        {
+          "id": "URED7061-original",
+          "shortCode": "URED7061",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4104",
+          "proposer": null
+        },
+        {
+          "id": "URED7061-npb-URED7061",
+          "shortCode": "URED7061-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7061",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8251",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za rabo termalne vode iz vrtin Mt-1/60, Mt-4/74, Mt-5/82, Mt-6/83 in Mt-7/93 za ogrevanje in potrebe kopališča Terme 3000 – Moravske Toplice",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za rabo termalne vode iz vrtin Mt-1/60, Mt-4/74, Mt-5/82, Mt-6/83 in Mt-7/93 za ogrevanje in potrebe kopališča Terme 3000 – Moravske Toplice",
+      "shortCode": "URED8251",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-2184",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-06-24",
+      "validFrom": "2021-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2184",
+      "versions": [
+        {
+          "id": "URED8251-original",
+          "shortCode": "URED8251",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-06-24",
+          "effectiveFrom": "2021-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7061"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2184",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

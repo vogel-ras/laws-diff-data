@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12104",
+  "path": "laws/PR/PRAV12104",
+  "members": [
+    {
+      "id": "PRAV12104",
+      "title": "Pravilnik o načinu upoštevanja dohodkov pri ugotavljanju upravičenosti do pravic iz javnih sredstev",
+      "shortTitle": "Pravilnik o načinu upoštevanja dohodkov pri ugotavljanju upravičenosti do pravic iz javnih sredstev",
+      "shortCode": "PRAV12104",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-2278",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-07-11",
+      "validFrom": "2014-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2278",
+      "versions": [
+        {
+          "id": "PRAV12104-original",
+          "shortCode": "PRAV12104",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-11",
+          "effectiveFrom": "2014-07-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2278",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12104-npb-PRAV12104",
+          "shortCode": "PRAV12104-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-07-11",
+          "effectiveFrom": "2014-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12104",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12199",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu upoštevanja dohodkov pri ugotavljanju upravičenosti do pravic iz javnih sredstev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu upoštevanja dohodkov pri ugotavljanju upravičenosti do pravic iz javnih sredstev",
+      "shortCode": "PRAV12199",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-2820",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-09-19",
+      "validFrom": "2014-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2014-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2820",
+      "versions": [
+        {
+          "id": "PRAV12199-original",
+          "shortCode": "PRAV12199",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-09-19",
+          "effectiveFrom": "2014-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12104"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2820",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

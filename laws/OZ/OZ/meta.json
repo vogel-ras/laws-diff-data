@@ -1,0 +1,106 @@
+{
+  "root": "OZ",
+  "path": "laws/OZ/OZ",
+  "members": [
+    {
+      "id": "OZ",
+      "title": "Obligacijski zakonik",
+      "shortTitle": "Obligacijski zakonik",
+      "shortCode": "OZ",
+      "kind": "zakon",
+      "keywords": [
+        "obligacijsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4287",
+      "gazette": "Uradni list RS 83/2001  str. 8345",
+      "issuingBody": null,
+      "adoptedAt": "2001-10-25",
+      "validFrom": "2001-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4287",
+      "versions": [
+        {
+          "id": "OZ-original",
+          "shortCode": "OZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/2001  str. 8345",
+          "publishedAt": "2001-10-25",
+          "effectiveFrom": "2001-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4287",
+          "proposer": null
+        },
+        {
+          "id": "OZ-amend-OZ-A",
+          "shortCode": "OZ-A",
+          "label": "Sprememba OZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/07  str. 5537",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "OZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2169",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "OZ-A",
+      "title": "Zakon o spremembi in dopolnitvi Obligacijskega zakonika",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Obligacijskega zakonika",
+      "shortCode": "OZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "dolg",
+        "obligacijsko pravo",
+        "plačilo",
+        "terjatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2169",
+      "gazette": "Uradni list RS 40/07  str. 5537",
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2169",
+      "versions": [
+        {
+          "id": "OZ-A-original",
+          "shortCode": "OZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/07  str. 5537",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "OZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2169",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

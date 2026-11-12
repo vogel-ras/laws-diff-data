@@ -1,0 +1,97 @@
+{
+  "root": "URED6071",
+  "path": "laws/UR/URED6071",
+  "members": [
+    {
+      "id": "URED6071",
+      "title": "Uredba o oskrbi s pitno vodo",
+      "shortTitle": "Uredba o oskrbi s pitno vodo",
+      "shortCode": "URED6071",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-3498",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-26",
+      "validFrom": "2024-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3498",
+      "versions": [
+        {
+          "id": "URED6071-original",
+          "shortCode": "URED6071",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-26",
+          "effectiveFrom": "2024-08-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3498",
+          "proposer": null
+        },
+        {
+          "id": "URED6071-npb-URED6071",
+          "shortCode": "URED6071-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-11-23",
+          "effectiveFrom": "2012-11-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8958",
+      "title": "Uredba o spremembi Uredbe o oskrbi s pitno vodo",
+      "shortTitle": "Uredba o spremembi Uredbe o oskrbi s pitno vodo",
+      "shortCode": "URED8958",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2263",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-26",
+      "validFrom": "2024-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2263",
+      "versions": [
+        {
+          "id": "URED8958-original",
+          "shortCode": "URED8958",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-26",
+          "effectiveFrom": "2024-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6071"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2263",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

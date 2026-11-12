@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3721",
+  "path": "laws/PR/PRAV3721",
+  "members": [
+    {
+      "id": "PRAV3721",
+      "title": "Pravilnik o zahtevani dokumentaciji za registracijo in oceno fitofarmacevtskih sredstev",
+      "shortTitle": "Pravilnik o zahtevani dokumentaciji za registracijo in oceno fitofarmacevtskih sredstev",
+      "shortCode": "PRAV3721",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1345",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-04-09",
+      "validFrom": "2002-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1345",
+      "versions": [
+        {
+          "id": "PRAV3721-original",
+          "shortCode": "PRAV3721",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-09",
+          "effectiveFrom": "2002-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1345",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5726",
+      "title": "Pravilnik o spremembi pravilnika o zahtevani dokumentaciji za registracijo in oceno fitofarmacevtskih sredstev",
+      "shortTitle": "Pravilnik o spremembi pravilnika o zahtevani dokumentaciji za registracijo in oceno fitofarmacevtskih sredstev",
+      "shortCode": "PRAV5726",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1344",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-31",
+      "validFrom": "2004-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1344",
+      "versions": [
+        {
+          "id": "PRAV5726-original",
+          "shortCode": "PRAV5726",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3721"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1344",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

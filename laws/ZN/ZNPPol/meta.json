@@ -1,0 +1,215 @@
+{
+  "root": "ZNPPol",
+  "path": "laws/ZN/ZNPPol",
+  "members": [
+    {
+      "id": "ZAKO9030",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije (ZNPPol-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije (ZNPPol-C)",
+      "shortCode": "ZNPPol-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2025-01-0308",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-02-13",
+      "validFrom": "2025-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0308",
+      "versions": [
+        {
+          "id": "ZAKO9030-original",
+          "shortCode": "ZNPPol-C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-02-13",
+          "effectiveFrom": "2025-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0308",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPPol",
+      "title": "Zakon o nalogah in pooblastilih policije",
+      "shortTitle": "Zakon o nalogah in pooblastilih policije",
+      "shortCode": "ZNPPol",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0435",
+      "gazette": "Uradni list RS 15/13  str. 2035",
+      "issuingBody": null,
+      "adoptedAt": "2013-02-18",
+      "validFrom": "2013-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0435",
+      "versions": [
+        {
+          "id": "ZNPPol-original",
+          "shortCode": "ZNPPol",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/13  str. 2035",
+          "publishedAt": "2013-02-18",
+          "effectiveFrom": "2013-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0435",
+          "proposer": null
+        },
+        {
+          "id": "ZNPPol-amend-ZNPPol-A",
+          "shortCode": "ZNPPol-A",
+          "label": "Sprememba ZNPPol-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 10/17  str. 1509",
+          "publishedAt": "2017-02-27",
+          "effectiveFrom": "2017-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0462",
+          "proposer": null
+        },
+        {
+          "id": "ZNPPol-amend-ZNPPol-B",
+          "shortCode": "ZNPPol-B",
+          "label": "Sprememba ZNPPol-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 47/19  str. 5893",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2290",
+          "proposer": null
+        },
+        {
+          "id": "ZNPPol-amend-ZAKO9030",
+          "shortCode": "ZNPPol-C",
+          "label": "Sprememba ZNPPol-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2025-02-13",
+          "effectiveFrom": "2025-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0308",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPPol-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije",
+      "shortCode": "ZNPPol-A",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-0462",
+      "gazette": "Uradni list RS 10/17  str. 1509",
+      "issuingBody": null,
+      "adoptedAt": "2017-02-27",
+      "validFrom": "2017-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2017-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0462",
+      "versions": [
+        {
+          "id": "ZNPPol-A-original",
+          "shortCode": "ZNPPol-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/17  str. 1509",
+          "publishedAt": "2017-02-27",
+          "effectiveFrom": "2017-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0462",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPPol-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nalogah in pooblastilih policije",
+      "shortCode": "ZNPPol-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2290",
+      "gazette": "Uradni list RS 47/19  str. 5893",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-26",
+      "validFrom": "2019-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2290",
+      "versions": [
+        {
+          "id": "ZNPPol-B-original",
+          "shortCode": "ZNPPol-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/19  str. 5893",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2290",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

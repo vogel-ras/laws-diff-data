@@ -1,0 +1,109 @@
+{
+  "root": "BMKPT",
+  "path": "laws/BM/BMKPT",
+  "members": [
+    {
+      "id": "BMKPT",
+      "title": "Zakon o ratifikaciji Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKPT",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Makedonija",
+        "prosti trg",
+        "trgovinsko sodelovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-02-0071",
+      "gazette": "Uradni list RS MP 23/99  str. 973",
+      "issuingBody": null,
+      "adoptedAt": "1999-10-05",
+      "validFrom": "1999-10-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0071",
+      "versions": [
+        {
+          "id": "BMKPT-original",
+          "shortCode": "BMKPT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 23/99  str. 973",
+          "publishedAt": "1999-10-05",
+          "effectiveFrom": "1999-10-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0071",
+          "proposer": null
+        },
+        {
+          "id": "BMKPT-amend-BMKPT-A",
+          "shortCode": "BMKPT-A",
+          "label": "Sprememba BMKPT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 24/2002  str. 993",
+          "publishedAt": "2002-11-08",
+          "effectiveFrom": "2002-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-02-0078",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "BMKPT-A",
+      "title": "Zakon o ratifikaciji Sporazuma o spremembi in dopolnitvi Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Zakon o ratifikaciji Sporazuma o spremembi in dopolnitvi Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "BMKPT-A",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Makedonija",
+        "trgovinski odnosi",
+        "prosti pretok blaga"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-02-0078",
+      "gazette": "Uradni list RS MP 24/2002  str. 993",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-08",
+      "validFrom": "2002-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-02-0078",
+      "versions": [
+        {
+          "id": "BMKPT-A-original",
+          "shortCode": "BMKPT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 24/2002  str. 993",
+          "publishedAt": "2002-11-08",
+          "effectiveFrom": "2002-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BMKPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-02-0078",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

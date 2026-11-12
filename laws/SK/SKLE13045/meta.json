@@ -1,0 +1,82 @@
+{
+  "root": "SKLE13045",
+  "path": "laws/SK/SKLE13045",
+  "members": [
+    {
+      "id": "SKLE13045",
+      "title": "Sklep o ustanovitvi javnega zdravstvenega zavoda Bolnišnica Topolšica",
+      "shortTitle": "Sklep o ustanovitvi javnega zdravstvenega zavoda Bolnišnica Topolšica",
+      "shortCode": "SKLE13045",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-4163",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-12-23",
+      "validFrom": "2022-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4163",
+      "versions": [
+        {
+          "id": "SKLE13045-original",
+          "shortCode": "SKLE13045",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-23",
+          "effectiveFrom": "2022-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4163",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13109",
+      "title": "Sklep o spremembi Sklepa o ustanovitvi javnega zdravstvenega zavoda Bolnišnica Topolšica",
+      "shortTitle": "Sklep o spremembi Sklepa o ustanovitvi javnega zdravstvenega zavoda Bolnišnica Topolšica",
+      "shortCode": "SKLE13109",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-0041",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-01-12",
+      "validFrom": "2023-01-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0041",
+      "versions": [
+        {
+          "id": "SKLE13109-original",
+          "shortCode": "SKLE13109",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-01-12",
+          "effectiveFrom": "2023-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13045"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0041",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

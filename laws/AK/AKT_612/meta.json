@@ -1,0 +1,82 @@
+{
+  "root": "AKT_612",
+  "path": "laws/AK/AKT_612",
+  "members": [
+    {
+      "id": "AKT_612",
+      "title": "Sklep o ustanovitvi Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu",
+      "shortTitle": "Sklep o ustanovitvi Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu",
+      "shortCode": "AKT_612",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2009-01-5216",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5216",
+      "versions": [
+        {
+          "id": "AKT_612-original",
+          "shortCode": "AKT_612",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5216",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE10346",
+      "title": "Sklep o spremembi Sklepa o ustanovitvi Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu",
+      "shortTitle": "Sklep o spremembi Sklepa o ustanovitvi Nacionalne agencije Republike Slovenije za kakovost v visokem šolstvu",
+      "shortCode": "SKLE10346",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2015-01-2399",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-07-31",
+      "validFrom": "2015-07-31",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2399",
+      "versions": [
+        {
+          "id": "SKLE10346-original",
+          "shortCode": "SKLE10346",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-07-31",
+          "effectiveFrom": "2015-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_612"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2399",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

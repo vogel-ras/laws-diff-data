@@ -1,0 +1,58 @@
+{
+  "root": "URED6560",
+  "path": "laws/UR/URED6560",
+  "members": [
+    {
+      "id": "URED6560",
+      "title": "Uredba o vrsti izobrazbe, strokovnem usposabljanju in preizkusu znanja za vodenje in odločanje v prekrškovnem postopku",
+      "shortTitle": "Uredba o vrsti izobrazbe, strokovnem usposabljanju in preizkusu znanja za vodenje in odločanje v prekrškovnem postopku",
+      "shortCode": "URED6560",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2780",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-09-09",
+      "validFrom": "2013-09-09",
+      "validTo": null,
+      "latestPublishedAt": "2013-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2780",
+      "versions": [
+        {
+          "id": "URED6560-original",
+          "shortCode": "URED6560",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-09-09",
+          "effectiveFrom": "2013-09-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2780",
+          "proposer": null
+        },
+        {
+          "id": "URED6560-npb-URED6560",
+          "shortCode": "URED6560-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-09-09",
+          "effectiveFrom": "2013-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6560",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

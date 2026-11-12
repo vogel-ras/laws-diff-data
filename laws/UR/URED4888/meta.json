@@ -1,0 +1,136 @@
+{
+  "root": "URED4888",
+  "path": "laws/UR/URED4888",
+  "members": [
+    {
+      "id": "URED4888",
+      "title": "Uredba o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortTitle": "Uredba o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortCode": "URED4888",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-5713",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-12-30",
+      "validFrom": "2008-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5713",
+      "versions": [
+        {
+          "id": "URED4888-original",
+          "shortCode": "URED4888",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-30",
+          "effectiveFrom": "2008-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5713",
+          "proposer": null
+        },
+        {
+          "id": "URED4888-npb-URED4888",
+          "shortCode": "URED4888-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-12-30",
+          "effectiveFrom": "2008-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4888",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5901",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortCode": "URED5901",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2724",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-09-17",
+      "validFrom": "2012-09-17",
+      "validTo": null,
+      "latestPublishedAt": "2012-09-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2724",
+      "versions": [
+        {
+          "id": "URED5901-original",
+          "shortCode": "URED5901",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-09-17",
+          "effectiveFrom": "2012-09-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4888"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2724",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6591",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o posebnih zahtevah za objekte, v katerih so eksplozivi ali pirotehnični izdelki",
+      "shortCode": "URED6591",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3447",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-11-22",
+      "validFrom": "2013-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3447",
+      "versions": [
+        {
+          "id": "URED6591-original",
+          "shortCode": "URED6591",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-11-22",
+          "effectiveFrom": "2013-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4888"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3447",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

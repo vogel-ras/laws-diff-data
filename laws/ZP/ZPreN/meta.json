@@ -1,0 +1,85 @@
+{
+  "root": "ZPreN",
+  "path": "laws/ZP/ZPreN",
+  "members": [
+    {
+      "id": "ZPreN",
+      "title": "Zakon o Prešernovi nagradi",
+      "shortTitle": "Zakon o Prešernovi nagradi",
+      "shortCode": "ZPreN",
+      "kind": "zakon",
+      "keywords": [
+        "častno odlikovanje",
+        "kultura"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1237",
+      "gazette": "Uradni list RS 29/91  str. 1242",
+      "issuingBody": null,
+      "adoptedAt": "1991-12-12",
+      "validFrom": "1991-12-12",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1237",
+      "versions": [
+        {
+          "id": "ZPreN-original",
+          "shortCode": "ZPreN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/91  str. 1242",
+          "publishedAt": "1991-12-12",
+          "effectiveFrom": "1991-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1237",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPreN-1A",
+      "title": "Zakon o spremembah Zakona o Prešernovi nagradi",
+      "shortTitle": "Zakon o spremembah Zakona o Prešernovi nagradi",
+      "shortCode": "ZPreN-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0292",
+      "gazette": "Uradni list RS 12/24  str. 684",
+      "issuingBody": null,
+      "adoptedAt": "2024-02-09",
+      "validFrom": "2024-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0292",
+      "versions": [
+        {
+          "id": "ZPreN-1A-original",
+          "shortCode": "ZPreN-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/24  str. 684",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPreN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0292",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

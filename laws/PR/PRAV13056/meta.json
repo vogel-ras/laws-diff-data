@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13056",
+  "path": "laws/PR/PRAV13056",
+  "members": [
+    {
+      "id": "PRAV13056",
+      "title": "Pravilnik o razširjenih strokovnih kolegijih",
+      "shortTitle": "Pravilnik o razširjenih strokovnih kolegijih",
+      "shortCode": "PRAV13056",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-2205",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-09",
+      "validFrom": "2024-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2205",
+      "versions": [
+        {
+          "id": "PRAV13056-original",
+          "shortCode": "PRAV13056",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-10-09",
+          "effectiveFrom": "2024-10-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2205",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13056-npb-PRAV13056",
+          "shortCode": "PRAV13056-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-21",
+          "effectiveFrom": "2026-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13056",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15490",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o razširjenih strokovnih kolegijih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o razširjenih strokovnih kolegijih",
+      "shortCode": "PRAV15490",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2607",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-09",
+      "validFrom": "2024-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2607",
+      "versions": [
+        {
+          "id": "PRAV15490-original",
+          "shortCode": "PRAV15490",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-10-09",
+          "effectiveFrom": "2024-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13056"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2607",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16244",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o razširjenih strokovnih kolegijih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o razširjenih strokovnih kolegijih",
+      "shortCode": "PRAV16244",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-2263",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-10-08",
+      "validFrom": "2026-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-10-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2263",
+      "versions": [
+        {
+          "id": "PRAV16244-original",
+          "shortCode": "PRAV16244",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-10-08",
+          "effectiveFrom": "2026-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13056"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2263",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

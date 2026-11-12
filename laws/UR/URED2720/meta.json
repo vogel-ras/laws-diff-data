@@ -1,0 +1,82 @@
+{
+  "root": "URED2720",
+  "path": "laws/UR/URED2720",
+  "members": [
+    {
+      "id": "URED2720",
+      "title": "Uredba o taksi na obremenjevanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortTitle": "Uredba o taksi na obremenjevanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortCode": "URED2720",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0524",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-02-07",
+      "validFrom": "2003-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0524",
+      "versions": [
+        {
+          "id": "URED2720-original",
+          "shortCode": "URED2720",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-07",
+          "effectiveFrom": "2003-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0524",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3338",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o taksi na obremenjevanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o taksi na obremenjevanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortCode": "URED3338",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2224",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2224",
+      "versions": [
+        {
+          "id": "URED3338-original",
+          "shortCode": "URED3338",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2720"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2224",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

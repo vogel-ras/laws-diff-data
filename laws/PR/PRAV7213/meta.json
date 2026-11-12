@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7213",
+  "path": "laws/PR/PRAV7213",
+  "members": [
+    {
+      "id": "PRAV7213",
+      "title": "Pravilnik o opravljanju socialno varstvenih storitev na podlagi dovoljenja za delo in vpisa v register",
+      "shortTitle": "Pravilnik o opravljanju socialno varstvenih storitev na podlagi dovoljenja za delo in vpisa v register",
+      "shortCode": "PRAV7213",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0074",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-08",
+      "validFrom": "2026-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0074",
+      "versions": [
+        {
+          "id": "PRAV7213-original",
+          "shortCode": "PRAV7213",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-08",
+          "effectiveFrom": "2026-01-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0074",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7213-npb-PRAV7213",
+          "shortCode": "PRAV7213-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-01-10",
+          "effectiveFrom": "2006-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7213",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

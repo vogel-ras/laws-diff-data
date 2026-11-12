@@ -1,0 +1,43 @@
+{
+  "root": "NAVO90",
+  "path": "laws/NA/NAVO90",
+  "members": [
+    {
+      "id": "NAVO90",
+      "title": "Navodilo o izvrševanju proračuna Republike Slovenije",
+      "shortTitle": "Navodilo o izvrševanju proračuna Republike Slovenije",
+      "shortCode": "NAVO90",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1998-01-0111",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-01-09",
+      "validFrom": "1998-01-09",
+      "validTo": null,
+      "latestPublishedAt": "1998-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0111",
+      "versions": [
+        {
+          "id": "NAVO90-original",
+          "shortCode": "NAVO90",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-01-09",
+          "effectiveFrom": "1998-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0111",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

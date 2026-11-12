@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10178",
+  "path": "laws/PR/PRAV10178",
+  "members": [
+    {
+      "id": "PRAV10178",
+      "title": "Pravilnik o nagradi in povračilu potnih stroškov mediatorjem, ki delujejo v programih sodišč",
+      "shortTitle": "Pravilnik o nagradi in povračilu potnih stroškov mediatorjem, ki delujejo v programih sodišč",
+      "shortCode": "PRAV10178",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0966",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-26",
+      "validFrom": "2025-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0966",
+      "versions": [
+        {
+          "id": "PRAV10178-original",
+          "shortCode": "PRAV10178",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-26",
+          "effectiveFrom": "2025-03-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0966",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10178-npb-PRAV10178",
+          "shortCode": "PRAV10178-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10178",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11576",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o nagradi in povračilu potnih stroškov mediatorjem, ki delujejo v programih sodišč",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o nagradi in povračilu potnih stroškov mediatorjem, ki delujejo v programih sodišč",
+      "shortCode": "PRAV11576",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1318",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje in javno upravo",
+      "adoptedAt": "2013-04-26",
+      "validFrom": "2013-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1318",
+      "versions": [
+        {
+          "id": "PRAV11576-original",
+          "shortCode": "PRAV11576",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-04-26",
+          "effectiveFrom": "2013-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10178"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1318",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

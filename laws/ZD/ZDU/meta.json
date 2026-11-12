@@ -1,0 +1,857 @@
+{
+  "root": "ZDU",
+  "path": "laws/ZD/ZDU",
+  "members": [
+    {
+      "id": "ZAKO9475",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi (ZDU-1P)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi (ZDU-1P)",
+      "shortCode": "ZDU-1P",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-1639",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-06-17",
+      "validFrom": "2026-06-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1639",
+      "versions": [
+        {
+          "id": "ZAKO9475-original",
+          "shortCode": "ZDU-1P",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-06-17",
+          "effectiveFrom": "2026-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1639",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1",
+      "title": "Zakon o državni upravi",
+      "shortTitle": "Zakon o državni upravi",
+      "shortCode": "ZDU-1",
+      "kind": "zakon",
+      "keywords": [
+        "ministrstvo",
+        "upravna enota",
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2526",
+      "gazette": "Uradni list RS 52/2002  str. 5272",
+      "issuingBody": null,
+      "adoptedAt": "2002-06-14",
+      "validFrom": "2002-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2526",
+      "versions": [
+        {
+          "id": "ZDU-1-original",
+          "shortCode": "ZDU-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/2002  str. 5272",
+          "publishedAt": "2002-06-14",
+          "effectiveFrom": "2002-06-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2526",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1A",
+          "shortCode": "ZDU-1A",
+          "label": "Sprememba ZDU-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 56/2003  str. 6531",
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2775",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1B",
+          "shortCode": "ZDU-1B",
+          "label": "Sprememba ZDU-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 61/04  str. 7866",
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2802",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1C",
+          "shortCode": "ZDU-1C",
+          "label": "Sprememba ZDU-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 123/04  str. 14814",
+          "publishedAt": "2004-11-18",
+          "effectiveFrom": "2004-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5121",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1D",
+          "shortCode": "ZDU-1D",
+          "label": "Sprememba ZDU-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 93/05  str. 9654",
+          "publishedAt": "2005-10-21",
+          "effectiveFrom": "2005-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4019",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1E",
+          "shortCode": "ZDU-1E",
+          "label": "Sprememba ZDU-1E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 48/09  str. 6553",
+          "publishedAt": "2009-06-26",
+          "effectiveFrom": "2009-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2380",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1F",
+          "shortCode": "ZDU-1F",
+          "label": "Sprememba ZDU-1F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 21/12  str. 1765",
+          "publishedAt": "2012-03-19",
+          "effectiveFrom": "2012-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0815",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1G",
+          "shortCode": "ZDU-1G",
+          "label": "Sprememba ZDU-1G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 47/13  str. 5340",
+          "publishedAt": "2013-05-31",
+          "effectiveFrom": "2013-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1783",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1H",
+          "shortCode": "ZDU-1H",
+          "label": "Sprememba ZDU-1H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 12/14  str. 1037",
+          "publishedAt": "2014-02-14",
+          "effectiveFrom": "2014-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0304",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1I",
+          "shortCode": "ZDU-1I",
+          "label": "Sprememba ZDU-1I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 90/14  str. 10177",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3646",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1J",
+          "shortCode": "ZDU-1J",
+          "label": "Sprememba ZDU-1J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 51/16  str. 7437",
+          "publishedAt": "2016-07-22",
+          "effectiveFrom": "2016-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2246",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1K",
+          "shortCode": "ZDU-1K",
+          "label": "Sprememba ZDU-1K",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 36/21  str. 2424",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0716",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1N",
+          "shortCode": "ZDU-1N",
+          "label": "Sprememba ZDU-1N",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 153/22  str. 12473",
+          "publishedAt": "2022-12-06",
+          "effectiveFrom": "2022-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3795",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZDU-1O",
+          "shortCode": "ZDU-1O",
+          "label": "Sprememba ZDU-1O",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": "Uradni list RS 18/23  str. 1135",
+          "publishedAt": "2023-02-13",
+          "effectiveFrom": "2023-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0348",
+          "proposer": null
+        },
+        {
+          "id": "ZDU-1-amend-ZAKO9475",
+          "shortCode": "ZDU-1P",
+          "label": "Sprememba ZAKO9475",
+          "kind": "amendment",
+          "sequence": 15,
+          "gazette": null,
+          "publishedAt": "2026-06-17",
+          "effectiveFrom": "2026-06-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1639",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1A",
+      "title": "Zakon o spremembah zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah zakona o državni upravi",
+      "shortCode": "ZDU-1A",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava",
+        "ministrstvo",
+        "državni organi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2775",
+      "gazette": "Uradni list RS 56/2003  str. 6531",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-13",
+      "validFrom": "2003-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2775",
+      "versions": [
+        {
+          "id": "ZDU-1A-original",
+          "shortCode": "ZDU-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/2003  str. 6531",
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2775",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortCode": "ZDU-1B",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava",
+        "ministrstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2802",
+      "gazette": "Uradni list RS 61/04  str. 7866",
+      "issuingBody": null,
+      "adoptedAt": "2004-06-04",
+      "validFrom": "2004-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2802",
+      "versions": [
+        {
+          "id": "ZDU-1B-original",
+          "shortCode": "ZDU-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/04  str. 7866",
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2802",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortCode": "ZDU-1C",
+      "kind": "zakon",
+      "keywords": [
+        "ministrstvo",
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-5121",
+      "gazette": "Uradni list RS 123/04  str. 14814",
+      "issuingBody": null,
+      "adoptedAt": "2004-11-18",
+      "validFrom": "2004-11-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5121",
+      "versions": [
+        {
+          "id": "ZDU-1C-original",
+          "shortCode": "ZDU-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 123/04  str. 14814",
+          "publishedAt": "2004-11-18",
+          "effectiveFrom": "2004-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortCode": "ZDU-1D",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4019",
+      "gazette": "Uradni list RS 93/05  str. 9654",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-21",
+      "validFrom": "2005-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4019",
+      "versions": [
+        {
+          "id": "ZDU-1D-original",
+          "shortCode": "ZDU-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/05  str. 9654",
+          "publishedAt": "2005-10-21",
+          "effectiveFrom": "2005-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4019",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državni upravi",
+      "shortCode": "ZDU-1E",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava",
+        "ministrstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2380",
+      "gazette": "Uradni list RS 48/09  str. 6553",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-26",
+      "validFrom": "2009-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2380",
+      "versions": [
+        {
+          "id": "ZDU-1E-original",
+          "shortCode": "ZDU-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/09  str. 6553",
+          "publishedAt": "2009-06-26",
+          "effectiveFrom": "2009-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2380",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortCode": "ZDU-1F",
+      "kind": "zakon",
+      "keywords": [
+        "vlada",
+        "ministrstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-0815",
+      "gazette": "Uradni list RS 21/12  str. 1765",
+      "issuingBody": null,
+      "adoptedAt": "2012-03-19",
+      "validFrom": "2012-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0815",
+      "versions": [
+        {
+          "id": "ZDU-1F-original",
+          "shortCode": "ZDU-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/12  str. 1765",
+          "publishedAt": "2012-03-19",
+          "effectiveFrom": "2012-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0815",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortCode": "ZDU-1G",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1783",
+      "gazette": "Uradni list RS 47/13  str. 5340",
+      "issuingBody": null,
+      "adoptedAt": "2013-05-31",
+      "validFrom": "2013-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1783",
+      "versions": [
+        {
+          "id": "ZDU-1G-original",
+          "shortCode": "ZDU-1G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/13  str. 5340",
+          "publishedAt": "2013-05-31",
+          "effectiveFrom": "2013-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1783",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1H",
+      "title": "Zakon o spremembi Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembi Zakona o državni upravi",
+      "shortCode": "ZDU-1H",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0304",
+      "gazette": "Uradni list RS 12/14  str. 1037",
+      "issuingBody": null,
+      "adoptedAt": "2014-02-14",
+      "validFrom": "2014-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2014-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0304",
+      "versions": [
+        {
+          "id": "ZDU-1H-original",
+          "shortCode": "ZDU-1H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/14  str. 1037",
+          "publishedAt": "2014-02-14",
+          "effectiveFrom": "2014-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0304",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortCode": "ZDU-1I",
+      "kind": "zakon",
+      "keywords": [
+        "vlada"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3646",
+      "gazette": "Uradni list RS 90/14  str. 10177",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-15",
+      "validFrom": "2014-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3646",
+      "versions": [
+        {
+          "id": "ZDU-1I-original",
+          "shortCode": "ZDU-1I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/14  str. 10177",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3646",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortCode": "ZDU-1J",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2246",
+      "gazette": "Uradni list RS 51/16  str. 7437",
+      "issuingBody": null,
+      "adoptedAt": "2016-07-22",
+      "validFrom": "2016-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2246",
+      "versions": [
+        {
+          "id": "ZDU-1J-original",
+          "shortCode": "ZDU-1J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/16  str. 7437",
+          "publishedAt": "2016-07-22",
+          "effectiveFrom": "2016-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2246",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1K",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o državni upravi",
+      "shortCode": "ZDU-1K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0716",
+      "gazette": "Uradni list RS 36/21  str. 2424",
+      "issuingBody": null,
+      "adoptedAt": "2021-03-12",
+      "validFrom": "2021-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0716",
+      "versions": [
+        {
+          "id": "ZDU-1K-original",
+          "shortCode": "ZDU-1K",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/21  str. 2424",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0716",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1N",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o državni upravi",
+      "shortCode": "ZDU-1N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3795",
+      "gazette": "Uradni list RS 153/22  str. 12473",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-06",
+      "validFrom": "2022-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3795",
+      "versions": [
+        {
+          "id": "ZDU-1N-original",
+          "shortCode": "ZDU-1N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 153/22  str. 12473",
+          "publishedAt": "2022-12-06",
+          "effectiveFrom": "2022-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3795",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDU-1O",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državni upravi",
+      "shortCode": "ZDU-1O",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0348",
+      "gazette": "Uradni list RS 18/23  str. 1135",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-13",
+      "validFrom": "2023-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0348",
+      "versions": [
+        {
+          "id": "ZDU-1O-original",
+          "shortCode": "ZDU-1O",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/23  str. 1135",
+          "publishedAt": "2023-02-13",
+          "effectiveFrom": "2023-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDU-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0348",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

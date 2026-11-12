@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10836",
+  "path": "laws/PR/PRAV10836",
+  "members": [
+    {
+      "id": "PRAV10836",
+      "title": "Pravilnik o obrazcih, dokumentaciji in stroških pri vrednotenju in priznavanju izobraževanja",
+      "shortTitle": "Pravilnik o obrazcih, dokumentaciji in stroških pri vrednotenju in priznavanju izobraževanja",
+      "shortCode": "PRAV10836",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-4422",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-16",
+      "validFrom": "2011-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4422",
+      "versions": [
+        {
+          "id": "PRAV10836-original",
+          "shortCode": "PRAV10836",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-16",
+          "effectiveFrom": "2011-12-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4422",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10836-npb-PRAV10836",
+          "shortCode": "PRAV10836-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-12-16",
+          "effectiveFrom": "2011-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10836",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12551",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcih, dokumentaciji in stroških pri vrednotenju in priznavanju izobraževanja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcih, dokumentaciji in stroških pri vrednotenju in priznavanju izobraževanja",
+      "shortCode": "PRAV12551",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3575",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-11-30",
+      "validFrom": "2015-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3575",
+      "versions": [
+        {
+          "id": "PRAV12551-original",
+          "shortCode": "PRAV12551",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10836"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3575",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

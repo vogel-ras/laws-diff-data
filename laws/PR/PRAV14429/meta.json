@@ -1,0 +1,82 @@
+{
+  "root": "PRAV14429",
+  "path": "laws/PR/PRAV14429",
+  "members": [
+    {
+      "id": "PRAV14429",
+      "title": "Pravilnik o načinu poročanja in posredovanja zahtevkov za povračilo stroškov ter najvišji višini povračila stroškov sekvenciranja genoma SARS-CoV-2",
+      "shortTitle": "Pravilnik o načinu poročanja in posredovanja zahtevkov za povračilo stroškov ter najvišji višini povračila stroškov sekvenciranja genoma SARS-CoV-2",
+      "shortCode": "PRAV14429",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-3273",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-10-22",
+      "validFrom": "2021-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3273",
+      "versions": [
+        {
+          "id": "PRAV14429-original",
+          "shortCode": "PRAV14429",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3273",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14530",
+      "title": "Pravilnik o spremembi Pravilnika o načinu poročanja in posredovanja zahtevkov za povračilo stroškov ter najvišji višini povračila stroškov sekvenciranja genoma SARS-CoV-2",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o načinu poročanja in posredovanja zahtevkov za povračilo stroškov ter najvišji višini povračila stroškov sekvenciranja genoma SARS-CoV-2",
+      "shortCode": "PRAV14530",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-4296",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-12-30",
+      "validFrom": "2021-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2021-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4296",
+      "versions": [
+        {
+          "id": "PRAV14530-original",
+          "shortCode": "PRAV14530",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-30",
+          "effectiveFrom": "2021-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14429"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4296",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

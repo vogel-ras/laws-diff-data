@@ -1,0 +1,97 @@
+{
+  "root": "URED3572",
+  "path": "laws/UR/URED3572",
+  "members": [
+    {
+      "id": "URED3572",
+      "title": "Uredba o izvajanju Uredbe (ES) o gensko spremenjenih živilih in krmi in Uredbe (ES) o sledljivosti in označevanju gensko spremenjenih organizmov ter sledljivosti živil in krme, izdelanih iz gensko spremenjenih organizmov",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) o gensko spremenjenih živilih in krmi in Uredbe (ES) o sledljivosti in označevanju gensko spremenjenih organizmov ter sledljivosti živil in krme, izdelanih iz gensko spremenjenih organizmov",
+      "shortCode": "URED3572",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3645",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-09-16",
+      "validFrom": "2005-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2005-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3645",
+      "versions": [
+        {
+          "id": "URED3572-original",
+          "shortCode": "URED3572",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-09-16",
+          "effectiveFrom": "2005-09-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3645",
+          "proposer": null
+        },
+        {
+          "id": "URED3572-npb-URED3572",
+          "shortCode": "URED3572-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-09-16",
+          "effectiveFrom": "2005-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3572",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5464",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) o gensko spremenjenih živilih in krmi in Uredbe (ES) o sledljivosti in označevanju gensko spremenjenih organizmov ter sledljivosti živil in krme, izdelanih iz gensko spremenjenih organizmov",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe (ES) o gensko spremenjenih živilih in krmi in Uredbe (ES) o sledljivosti in označevanju gensko spremenjenih organizmov ter sledljivosti živil in krme, izdelanih iz gensko spremenjenih organizmov",
+      "shortCode": "URED5464",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1851",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-05-14",
+      "validFrom": "2010-05-14",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1851",
+      "versions": [
+        {
+          "id": "URED5464-original",
+          "shortCode": "URED5464",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-05-14",
+          "effectiveFrom": "2010-05-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3572"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1851",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

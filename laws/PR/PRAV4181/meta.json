@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4181",
+  "path": "laws/PR/PRAV4181",
+  "members": [
+    {
+      "id": "PRAV4181",
+      "title": "Pravilnik o meroslovnih zahtevah za statične števce delovne električne energije razredov točnosti 0,2 S in 0,5 S",
+      "shortTitle": "Pravilnik o meroslovnih zahtevah za statične števce delovne električne energije razredov točnosti 0,2 S in 0,5 S",
+      "shortCode": "PRAV4181",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1388",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2002-04-12",
+      "validFrom": "2002-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1388",
+      "versions": [
+        {
+          "id": "PRAV4181-original",
+          "shortCode": "PRAV4181",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-12",
+          "effectiveFrom": "2002-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1388",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4181-npb-PRAV4181",
+          "shortCode": "PRAV4181-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-04-12",
+          "effectiveFrom": "2002-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4181",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7858",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o meroslovnih zahtevah za statične števce delovne električne energije razredov točnosti 0,2 S in 0,5 S",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o meroslovnih zahtevah za statične števce delovne električne energije razredov točnosti 0,2 S in 0,5 S",
+      "shortCode": "PRAV7858",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4549",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-10-13",
+      "validFrom": "2006-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4549",
+      "versions": [
+        {
+          "id": "PRAV7858-original",
+          "shortCode": "PRAV7858",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4181"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4549",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

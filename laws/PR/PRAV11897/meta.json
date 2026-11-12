@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11897",
+  "path": "laws/PR/PRAV11897",
+  "members": [
+    {
+      "id": "PRAV11897",
+      "title": "Pravilnik o postopku priznanja označbe »izbrana kakovost«",
+      "shortTitle": "Pravilnik o postopku priznanja označbe »izbrana kakovost«",
+      "shortCode": "PRAV11897",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3097",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-10-23",
+      "validFrom": "2015-10-23",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3097",
+      "versions": [
+        {
+          "id": "PRAV11897-original",
+          "shortCode": "PRAV11897",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-10-23",
+          "effectiveFrom": "2015-10-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3097",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11897-npb-PRAV11897",
+          "shortCode": "PRAV11897-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-10-23",
+          "effectiveFrom": "2015-10-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11897",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14406",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku priznanja označbe »izbrana kakovost«",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopku priznanja označbe »izbrana kakovost«",
+      "shortCode": "PRAV14406",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2392",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-07-15",
+      "validFrom": "2022-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2392",
+      "versions": [
+        {
+          "id": "PRAV14406-original",
+          "shortCode": "PRAV14406",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-15",
+          "effectiveFrom": "2022-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11897"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2392",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

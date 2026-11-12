@@ -1,0 +1,121 @@
+{
+  "root": "PRAV8431",
+  "path": "laws/PR/PRAV8431",
+  "members": [
+    {
+      "id": "PRAV8431",
+      "title": "Pravilnik o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortTitle": "Pravilnik o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortCode": "PRAV8431",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2703",
+      "gazette": null,
+      "issuingBody": "Elektro-Slovenija, d.o.o.",
+      "adoptedAt": "2007-06-06",
+      "validFrom": "2007-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2703",
+      "versions": [
+        {
+          "id": "PRAV8431-original",
+          "shortCode": "PRAV8431",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-06",
+          "effectiveFrom": "2007-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2703",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8552",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortCode": "PRAV8552",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-3937",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-08-10",
+      "validFrom": "2007-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3937",
+      "versions": [
+        {
+          "id": "PRAV8552-original",
+          "shortCode": "PRAV8552",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-08-10",
+          "effectiveFrom": "2007-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8431"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3937",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8601",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu in pogojih dodeljevanja čezmejnih prenosnih zmogljivosti",
+      "shortCode": "PRAV8601",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5142",
+      "gazette": null,
+      "issuingBody": "Elektro-Slovenija, d.o.o.",
+      "adoptedAt": "2007-11-13",
+      "validFrom": "2007-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5142",
+      "versions": [
+        {
+          "id": "PRAV8601-original",
+          "shortCode": "PRAV8601",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-13",
+          "effectiveFrom": "2007-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8431"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5142",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

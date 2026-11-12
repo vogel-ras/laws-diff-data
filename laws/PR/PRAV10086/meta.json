@@ -1,0 +1,82 @@
+{
+  "root": "PRAV10086",
+  "path": "laws/PR/PRAV10086",
+  "members": [
+    {
+      "id": "PRAV10086",
+      "title": "Pravilnik o metodah za določanje prihrankov energije pri končnih odjemalcih",
+      "shortTitle": "Pravilnik o metodah za določanje prihrankov energije pri končnih odjemalcih",
+      "shortCode": "PRAV10086",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0132",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-01-22",
+      "validFrom": "2010-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0132",
+      "versions": [
+        {
+          "id": "PRAV10086-original",
+          "shortCode": "PRAV10086",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-01-22",
+          "effectiveFrom": "2010-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11391",
+      "title": "Pravilnik o spremembah Pravilnika o metodah za določanje prihrankov energije pri končnih odjemalcih",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o metodah za določanje prihrankov energije pri končnih odjemalcih",
+      "shortCode": "PRAV11391",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-2482",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-07-22",
+      "validFrom": "2013-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2482",
+      "versions": [
+        {
+          "id": "PRAV11391-original",
+          "shortCode": "PRAV11391",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-07-22",
+          "effectiveFrom": "2013-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10086"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2482",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "root": "MEKIDP",
+  "path": "laws/ME/MEKIDP",
+  "members": [
+    {
+      "id": "MEKIDP",
+      "title": "Zakon o ratifikaciji Evropske konvencije o izročitvi, Dodatnega protokola k Evropski konvenciji o izročitvi in Drugega dodatnega protokola k evropski konvenciji o izročitvi",
+      "shortTitle": "Zakon o ratifikaciji Evropske konvencije o izročitvi, Dodatnega protokola k Evropski konvenciji o izročitvi in Drugega dodatnega protokola k evropski konvenciji o izročitvi",
+      "shortCode": "MEKIDP",
+      "kind": "zakon",
+      "keywords": [
+        "izročitev",
+        "evropska konvencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-02-0104",
+      "gazette": "Uradni list RS MP 22/94  str. 1471",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-21",
+      "validFrom": "1994-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0104",
+      "versions": [
+        {
+          "id": "MEKIDP-original",
+          "shortCode": "MEKIDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 22/94  str. 1471",
+          "publishedAt": "1994-12-21",
+          "effectiveFrom": "1994-12-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-02-0104",
+          "proposer": null
+        },
+        {
+          "id": "MEKIDP-amend-MEKIDP-A",
+          "shortCode": "MEKIDP-A",
+          "label": "Sprememba MEKIDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 9/07  str. 1008",
+          "publishedAt": "2007-07-30",
+          "effectiveFrom": "2007-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MEKIDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-02-0073",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MEKIDP-A",
+      "title": "Zakon o spremembi zakona o ratifikaciji Evropske konvencije o izročitvi, Dodatnega protokola k Evropski konvenciji o izročitvi in Drugega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortTitle": "Zakon o spremembi zakona o ratifikaciji Evropske konvencije o izročitvi, Dodatnega protokola k Evropski konvenciji o izročitvi in Drugega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortCode": "MEKIDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "evropska konvencija",
+        "izročitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-02-0073",
+      "gazette": "Uradni list RS MP 9/07  str. 1008",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-30",
+      "validFrom": "2007-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-02-0073",
+      "versions": [
+        {
+          "id": "MEKIDP-A-original",
+          "shortCode": "MEKIDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 9/07  str. 1008",
+          "publishedAt": "2007-07-30",
+          "effectiveFrom": "2007-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MEKIDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-02-0073",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "root": "ZCes",
+  "path": "laws/ZC/ZCes",
+  "members": [
+    {
+      "id": "ZAKO7454",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o cestah (ZCes-1C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o cestah (ZCes-1C)",
+      "shortCode": "ZCes-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0411",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-21",
+      "validFrom": "2018-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0411",
+      "versions": [
+        {
+          "id": "ZAKO7454-original",
+          "shortCode": "ZCes-1C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCes-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0411",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO8298",
+      "title": "Zakon o cestah (ZCes-2)",
+      "shortTitle": "Zakon o cestah (ZCes-2)",
+      "shortCode": "ZCes-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2022-01-3113",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-11-04",
+      "validFrom": "2022-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3113",
+      "versions": [
+        {
+          "id": "ZAKO8298-original",
+          "shortCode": "ZCes-2",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-11-04",
+          "effectiveFrom": "2022-11-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3113",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8298-amend-ZCes-2A",
+          "shortCode": "ZCes-2A",
+          "label": "Sprememba ZCes-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 29/23  str. 1736",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8298"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0618",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCes-1",
+      "title": "Zakon o cestah",
+      "shortTitle": "Zakon o cestah",
+      "shortCode": "ZCes-1",
+      "kind": "zakon",
+      "keywords": [
+        "prometna infrastruktura",
+        "varnost v cestnem prometu",
+        "cestno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5732",
+      "gazette": "Uradni list RS 109/10  str. 16849",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-30",
+      "validFrom": "2010-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5732",
+      "versions": [
+        {
+          "id": "ZCes-1-original",
+          "shortCode": "ZCes-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/10  str. 16849",
+          "publishedAt": "2010-12-30",
+          "effectiveFrom": "2010-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5732",
+          "proposer": null
+        },
+        {
+          "id": "ZCes-1-amend-ZCes-1A",
+          "shortCode": "ZCes-1A",
+          "label": "Sprememba ZCes-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 48/12  str. 4906",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZCes-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2012",
+          "proposer": null
+        },
+        {
+          "id": "ZCes-1-amend-ZAKO7454",
+          "shortCode": "ZCes-1C",
+          "label": "Sprememba ZCes-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCes-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0411",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCes-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o cestah",
+      "shortCode": "ZCes-1A",
+      "kind": "zakon",
+      "keywords": [
+        "cestno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2012",
+      "gazette": "Uradni list RS 48/12  str. 4906",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-26",
+      "validFrom": "2012-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2012",
+      "versions": [
+        {
+          "id": "ZCes-1A-original",
+          "shortCode": "ZCes-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/12  str. 4906",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCes-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2012",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCes-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o cestah",
+      "shortCode": "ZCes-2A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0618",
+      "gazette": "Uradni list RS 29/23  str. 1736",
+      "issuingBody": null,
+      "adoptedAt": "2023-03-07",
+      "validFrom": "2023-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0618",
+      "versions": [
+        {
+          "id": "ZCes-2A-original",
+          "shortCode": "ZCes-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/23  str. 1736",
+          "publishedAt": "2023-03-07",
+          "effectiveFrom": "2023-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8298"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0618",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

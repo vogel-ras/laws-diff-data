@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15436",
+  "path": "laws/PR/PRAV15436",
+  "members": [
+    {
+      "id": "PRAV15436",
+      "title": "Pravilnik o izobraževanju učencev s posebnimi potrebami na domu",
+      "shortTitle": "Pravilnik o izobraževanju učencev s posebnimi potrebami na domu",
+      "shortCode": "PRAV15436",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1832",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-02",
+      "validFrom": "2024-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1832",
+      "versions": [
+        {
+          "id": "PRAV15436-original",
+          "shortCode": "PRAV15436",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-02",
+          "effectiveFrom": "2024-07-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1832",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15436-npb-PRAV15436",
+          "shortCode": "PRAV15436-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15436",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15829",
+      "title": "Pravilnik o spremembi Pravilnika o izobraževanju učencev s posebnimi potrebami na domu",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izobraževanju učencev s posebnimi potrebami na domu",
+      "shortCode": "PRAV15829",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2639",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za vzgojo in izobraževanje",
+      "adoptedAt": "2025-10-03",
+      "validFrom": "2025-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2639",
+      "versions": [
+        {
+          "id": "PRAV15829-original",
+          "shortCode": "PRAV15829",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-03",
+          "effectiveFrom": "2025-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15436"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2639",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

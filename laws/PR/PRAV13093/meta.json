@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13093",
+  "path": "laws/PR/PRAV13093",
+  "members": [
+    {
+      "id": "PRAV13093",
+      "title": "Pravilnik o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortTitle": "Pravilnik o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortCode": "PRAV13093",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-1844",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-04",
+      "validFrom": "2017-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1844",
+      "versions": [
+        {
+          "id": "PRAV13093-original",
+          "shortCode": "PRAV13093",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-04",
+          "effectiveFrom": "2017-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1844",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15692",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o nagradi in povračilu stroškov zakonitim zastopnikom mladoletnikov brez spremstva",
+      "shortCode": "PRAV15692",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-1217",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2025-04-30",
+      "validFrom": "2025-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1217",
+      "versions": [
+        {
+          "id": "PRAV15692-original",
+          "shortCode": "PRAV15692",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-30",
+          "effectiveFrom": "2025-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13093"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1217",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

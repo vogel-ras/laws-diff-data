@@ -1,0 +1,121 @@
+{
+  "root": "OdPSDP",
+  "path": "ordinances/OD/OdPSDP",
+  "members": [
+    {
+      "id": "ODLO51",
+      "title": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP-A)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP-A)",
+      "shortCode": "OdPSDP-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-0509",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "1999-02-19",
+      "validFrom": "1999-02-19",
+      "validTo": null,
+      "latestPublishedAt": "1999-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0509",
+      "versions": [
+        {
+          "id": "ODLO51-original",
+          "shortCode": "OdPSDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-02-19",
+          "effectiveFrom": "1999-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO90"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0509",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO90",
+      "title": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP)",
+      "shortCode": "OdPSDP",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1995-01-3329",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-12-15",
+      "validFrom": "1995-12-15",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3329",
+      "versions": [
+        {
+          "id": "ODLO90-original",
+          "shortCode": "OdPSDP",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-12-15",
+          "effectiveFrom": "1995-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3329",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PLAN21",
+      "title": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP-B)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah prostorskih sestavin dolgoročnega in srednjeročnega družbenega plana Republike Slovenije (OdPSDP-B)",
+      "shortCode": "OdPSDP-B",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2003-01-0093",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-01-16",
+      "validFrom": "2003-01-16",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0093",
+      "versions": [
+        {
+          "id": "PLAN21-original",
+          "shortCode": "OdPSDP-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-16",
+          "effectiveFrom": "2003-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO90"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0093",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "root": "ZGla",
+  "path": "laws/ZG/ZGla",
+  "members": [
+    {
+      "id": "ZGla",
+      "title": "Zakon o glasbenih šolah",
+      "shortTitle": "Zakon o glasbenih šolah",
+      "shortCode": "ZGla",
+      "kind": "zakon",
+      "keywords": [
+        "umetnostna vzgoja",
+        "glasba",
+        "izobraževalni zavod",
+        "izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0851",
+      "gazette": "Uradni list RS 19/2000  str. 2577",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-03",
+      "validFrom": "2000-03-03",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0851",
+      "versions": [
+        {
+          "id": "ZGla-original",
+          "shortCode": "ZGla",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/2000  str. 2577",
+          "publishedAt": "2000-03-03",
+          "effectiveFrom": "2000-03-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0851",
+          "proposer": null
+        },
+        {
+          "id": "ZGla-amend-ZGla-A",
+          "shortCode": "ZGla-A",
+          "label": "Sprememba ZGla-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 60/06  str. 6556",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGla"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2540",
+          "proposer": null
+        },
+        {
+          "id": "ZGla-amend-ZGla-B",
+          "shortCode": "ZGla-B",
+          "label": "Sprememba ZGla-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 53/24  str. 4922",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGla"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1819",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGla-A",
+      "title": "Zakon o spremembah zakona o glasbenih šolah",
+      "shortTitle": "Zakon o spremembah zakona o glasbenih šolah",
+      "shortCode": "ZGla-A",
+      "kind": "zakon",
+      "keywords": [
+        "glasba",
+        "izobraževanje",
+        "ocenjevanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2540",
+      "gazette": "Uradni list RS 60/06  str. 6556",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2540",
+      "versions": [
+        {
+          "id": "ZGla-A-original",
+          "shortCode": "ZGla-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/06  str. 6556",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGla"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2540",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGla-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o glasbenih šolah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o glasbenih šolah",
+      "shortCode": "ZGla-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1819",
+      "gazette": "Uradni list RS 53/24  str. 4922",
+      "issuingBody": null,
+      "adoptedAt": "2024-06-28",
+      "validFrom": "2024-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1819",
+      "versions": [
+        {
+          "id": "ZGla-B-original",
+          "shortCode": "ZGla-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/24  str. 4922",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGla"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1819",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

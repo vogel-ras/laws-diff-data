@@ -1,0 +1,82 @@
+{
+  "root": "URED3254",
+  "path": "laws/UR/URED3254",
+  "members": [
+    {
+      "id": "URED3254",
+      "title": "Uredba o izvajanju porabe sredstev strukturne politike v Republiki Sloveniji",
+      "shortTitle": "Uredba o izvajanju porabe sredstev strukturne politike v Republiki Sloveniji",
+      "shortCode": "URED3254",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1297",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-29",
+      "validFrom": "2004-03-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1297",
+      "versions": [
+        {
+          "id": "URED3254-original",
+          "shortCode": "URED3254",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-29",
+          "effectiveFrom": "2004-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1297",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3370",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju porabe sredstev strukturne politike v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju porabe sredstev strukturne politike v Republiki Sloveniji",
+      "shortCode": "URED3370",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2258",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2258",
+      "versions": [
+        {
+          "id": "URED3370-original",
+          "shortCode": "URED3370",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3254"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2258",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

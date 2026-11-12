@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3547",
+  "path": "laws/PR/PRAV3547",
+  "members": [
+    {
+      "id": "PRAV3547",
+      "title": "Pravilnik o pogojih in načinu opravljanja mrliško pregledne službe",
+      "shortTitle": "Pravilnik o pogojih in načinu opravljanja mrliško pregledne službe",
+      "shortCode": "PRAV3547",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1993-01-2045",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-10-08",
+      "validFrom": "1993-10-08",
+      "validTo": null,
+      "latestPublishedAt": "1993-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2045",
+      "versions": [
+        {
+          "id": "PRAV3547-original",
+          "shortCode": "PRAV3547",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-10-08",
+          "effectiveFrom": "1993-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2045",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8315",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in načinu opravljanja mrliško pregledne službe",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih in načinu opravljanja mrliško pregledne službe",
+      "shortCode": "PRAV8315",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0457",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2008-02-11",
+      "validFrom": "2008-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0457",
+      "versions": [
+        {
+          "id": "PRAV8315-original",
+          "shortCode": "PRAV8315",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-02-11",
+          "effectiveFrom": "2008-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3547"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0457",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

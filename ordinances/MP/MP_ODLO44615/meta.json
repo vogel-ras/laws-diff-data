@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO44615",
+  "path": "ordinances/MP/MP_ODLO44615",
+  "members": [
+    {
+      "id": "MP_ODLO44615",
+      "title": "Odlok o urejanju Mestne tržnice v Občini Grosuplje (ODLO)",
+      "shortTitle": "Odlok o urejanju Mestne tržnice v Občini Grosuplje (ODLO)",
+      "shortCode": "MP_ODLO44615",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2020-01-1264",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1264",
+      "versions": [
+        {
+          "id": "MP_ODLO44615-original",
+          "shortCode": "MP_ODLO44615",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1264",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO49816",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o urejanju Mestne tržnice v Občini Grosuplje (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o urejanju Mestne tržnice v Občini Grosuplje (ODLO)",
+      "shortCode": "MP_ODLO49816",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Grosuplje",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-0438",
+      "gazette": null,
+      "issuingBody": "Občina Grosuplje",
+      "adoptedAt": "2024-02-23",
+      "validFrom": "2024-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0438",
+      "versions": [
+        {
+          "id": "MP_ODLO49816-original",
+          "shortCode": "MP_ODLO49816",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-02-23",
+          "effectiveFrom": "2024-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO44615"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0438",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "root": "ZGim",
+  "path": "laws/ZG/ZGim",
+  "members": [
+    {
+      "id": "ZAKO6821",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah (ZGim-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah (ZGim-C)",
+      "shortCode": "ZGim-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3193",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-30",
+      "validFrom": "2017-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3193",
+      "versions": [
+        {
+          "id": "ZAKO6821-original",
+          "shortCode": "ZGim-C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-30",
+          "effectiveFrom": "2017-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3193",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGim",
+      "title": "Zakon o gimnazijah",
+      "shortTitle": "Zakon o gimnazijah",
+      "shortCode": "ZGim",
+      "kind": "zakon",
+      "keywords": [
+        "srednješolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0571",
+      "gazette": "Uradni list RS 12/96  str. 889",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-29",
+      "validFrom": "1996-02-29",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0571",
+      "versions": [
+        {
+          "id": "ZGim-original",
+          "shortCode": "ZGim",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/96  str. 889",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0571",
+          "proposer": null
+        },
+        {
+          "id": "ZGim-amend-ZGim-A",
+          "shortCode": "ZGim-A",
+          "label": "Sprememba ZGim-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2001  str. 6036",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3148",
+          "proposer": null
+        },
+        {
+          "id": "ZGim-amend-ZGim-B",
+          "shortCode": "ZGim-B",
+          "label": "Sprememba ZGim-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 115/06  str. 11995",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4909",
+          "proposer": null
+        },
+        {
+          "id": "ZGim-amend-ZAKO6821",
+          "shortCode": "ZGim-C",
+          "label": "Sprememba ZGim-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2017-11-30",
+          "effectiveFrom": "2017-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3193",
+          "proposer": null
+        },
+        {
+          "id": "ZGim-amend-ZGim-D",
+          "shortCode": "ZGim-D",
+          "label": "Sprememba ZGim-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 46/19  str. 5685",
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2180",
+          "proposer": null
+        },
+        {
+          "id": "ZGim-amend-ZGim-E",
+          "shortCode": "ZGim-E",
+          "label": "Sprememba ZGim-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 53/24  str. 4926",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1821",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGim-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gimnazijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gimnazijah",
+      "shortCode": "ZGim-A",
+      "kind": "zakon",
+      "keywords": [
+        "srednješolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3148",
+      "gazette": "Uradni list RS 59/2001  str. 6036",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-19",
+      "validFrom": "2001-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3148",
+      "versions": [
+        {
+          "id": "ZGim-A-original",
+          "shortCode": "ZGim-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2001  str. 6036",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3148",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGim-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gimnazijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gimnazijah",
+      "shortCode": "ZGim-B",
+      "kind": "zakon",
+      "keywords": [
+        "srednješolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4909",
+      "gazette": "Uradni list RS 115/06  str. 11995",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4909",
+      "versions": [
+        {
+          "id": "ZGim-B-original",
+          "shortCode": "ZGim-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11995",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4909",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGim-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah",
+      "shortCode": "ZGim-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2180",
+      "gazette": "Uradni list RS 46/19  str. 5685",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-19",
+      "validFrom": "2019-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2180",
+      "versions": [
+        {
+          "id": "ZGim-D-original",
+          "shortCode": "ZGim-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/19  str. 5685",
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2180",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGim-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gimnazijah",
+      "shortCode": "ZGim-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1821",
+      "gazette": "Uradni list RS 53/24  str. 4926",
+      "issuingBody": null,
+      "adoptedAt": "2024-06-28",
+      "validFrom": "2024-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1821",
+      "versions": [
+        {
+          "id": "ZGim-E-original",
+          "shortCode": "ZGim-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/24  str. 4926",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGim"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1821",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

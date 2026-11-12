@@ -1,0 +1,46 @@
+{
+  "root": "ZUDE",
+  "path": "laws/ZU/ZUDE",
+  "members": [
+    {
+      "id": "ZUDE",
+      "title": "Zakon o uporabi denarne enote Republike Slovenije",
+      "shortTitle": "Zakon o uporabi denarne enote Republike Slovenije",
+      "shortCode": "ZUDE",
+      "kind": "zakon",
+      "keywords": [
+        "denar",
+        "nacionalna valuta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0599",
+      "gazette": "Uradni list RS 17/91  str. 557",
+      "issuingBody": null,
+      "adoptedAt": "1991-10-08",
+      "validFrom": "1991-10-08",
+      "validTo": null,
+      "latestPublishedAt": "1991-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0599",
+      "versions": [
+        {
+          "id": "ZUDE-original",
+          "shortCode": "ZUDE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/91  str. 557",
+          "publishedAt": "1991-10-08",
+          "effectiveFrom": "1991-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0599",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

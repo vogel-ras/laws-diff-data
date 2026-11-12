@@ -1,0 +1,221 @@
+{
+  "root": "ZPNačrt",
+  "path": "laws/ZP/ZPNačrt",
+  "members": [
+    {
+      "id": "ZPNa_rt",
+      "title": "Zakon o prostorskem načrtovanju",
+      "shortTitle": "Zakon o prostorskem načrtovanju",
+      "shortCode": "ZPNačrt",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje",
+        "urejanje prostora"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-1761",
+      "gazette": "Uradni list RS 33/07  str. 4585",
+      "issuingBody": null,
+      "adoptedAt": "2007-04-13",
+      "validFrom": "2007-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1761",
+      "versions": [
+        {
+          "id": "ZPNa_rt-original",
+          "shortCode": "ZPNačrt",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/07  str. 4585",
+          "publishedAt": "2007-04-13",
+          "effectiveFrom": "2007-04-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1761",
+          "proposer": null
+        },
+        {
+          "id": "ZPNa_rt-amend-ZPNa_rt-A",
+          "shortCode": "ZPNačrt-A",
+          "label": "Sprememba ZPNa_rt-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 108/09  str. 14789",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4890",
+          "proposer": null
+        },
+        {
+          "id": "ZPNa_rt-amend-ZPNa_rt-B",
+          "shortCode": "ZPNačrt-B",
+          "label": "Sprememba ZPNa_rt-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 57/12  str. 5974",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2413",
+          "proposer": null
+        },
+        {
+          "id": "ZPNa_rt-amend-ZPNa_rt-C",
+          "shortCode": "ZPNačrt-C",
+          "label": "Sprememba ZPNa_rt-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 109/12  str. 12138",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4323",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNa_rt-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortCode": "ZPNačrt-A",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje",
+        "urejanje prostora"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4890",
+      "gazette": "Uradni list RS 108/09  str. 14789",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4890",
+      "versions": [
+        {
+          "id": "ZPNa_rt-A-original",
+          "shortCode": "ZPNačrt-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/09  str. 14789",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4890",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNa_rt-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortCode": "ZPNačrt-B",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2413",
+      "gazette": "Uradni list RS 57/12  str. 5974",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2413",
+      "versions": [
+        {
+          "id": "ZPNa_rt-B-original",
+          "shortCode": "ZPNačrt-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5974",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2413",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNa_rt-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spremembah in dopolnitvah Zakona o prostorskem načrtovanju",
+      "shortCode": "ZPNačrt-C",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4323",
+      "gazette": "Uradni list RS 109/12  str. 12138",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4323",
+      "versions": [
+        {
+          "id": "ZPNa_rt-C-original",
+          "shortCode": "ZPNačrt-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12138",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNa_rt"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4323",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

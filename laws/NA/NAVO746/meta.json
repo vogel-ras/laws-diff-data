@@ -1,0 +1,82 @@
+{
+  "root": "NAVO746",
+  "path": "laws/NA/NAVO746",
+  "members": [
+    {
+      "id": "NAVO746",
+      "title": "Navodilo o vsebini in načinu poročanja o izplačanih plačah pri pravnih osebah za potrebe statističnega raziskovanja",
+      "shortTitle": "Navodilo o vsebini in načinu poročanja o izplačanih plačah pri pravnih osebah za potrebe statističnega raziskovanja",
+      "shortCode": "NAVO746",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2005-01-0151",
+      "gazette": null,
+      "issuingBody": "Statistični urad Republike Slovenije",
+      "adoptedAt": "2005-01-21",
+      "validFrom": "2005-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2005-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0151",
+      "versions": [
+        {
+          "id": "NAVO746-original",
+          "shortCode": "NAVO746",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-01-21",
+          "effectiveFrom": "2005-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0151",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO781",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o vsebini in načinu poročanja o izplačanih plačah pri pravnih osebah za potrebe statističnega raziskovanja",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o vsebini in načinu poročanja o izplačanih plačah pri pravnih osebah za potrebe statističnega raziskovanja",
+      "shortCode": "NAVO781",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2005-01-3695",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-09-23",
+      "validFrom": "2005-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3695",
+      "versions": [
+        {
+          "id": "NAVO781-original",
+          "shortCode": "NAVO781",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-09-23",
+          "effectiveFrom": "2005-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO746"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3695",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

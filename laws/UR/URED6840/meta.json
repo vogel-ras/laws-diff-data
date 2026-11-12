@@ -1,0 +1,121 @@
+{
+  "root": "URED6840",
+  "path": "laws/UR/URED6840",
+  "members": [
+    {
+      "id": "URED6840",
+      "title": "Uredba o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortTitle": "Uredba o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortCode": "URED6840",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-3057",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-04-30",
+      "validFrom": "2015-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3057",
+      "versions": [
+        {
+          "id": "URED6840-original",
+          "shortCode": "URED6840",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-04-30",
+          "effectiveFrom": "2015-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3057",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6999",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortCode": "URED6999",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1296",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-04-30",
+      "validFrom": "2015-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1296",
+      "versions": [
+        {
+          "id": "URED6999-original",
+          "shortCode": "URED6999",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-04-30",
+          "effectiveFrom": "2015-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6840"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1296",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8544",
+      "title": "Uredba o spremembi Uredbe o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortTitle": "Uredba o spremembi Uredbe o omejevalnih ukrepih zaradi delovanja Rusije v povezavi z razmerami v Ukrajini in izvajanju uredb (EU) v zvezi s temi omejevalnimi ukrepi",
+      "shortCode": "URED8544",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-0783",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-03-22",
+      "validFrom": "2022-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2022-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0783",
+      "versions": [
+        {
+          "id": "URED8544-original",
+          "shortCode": "URED8544",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-03-22",
+          "effectiveFrom": "2022-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6840"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0783",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

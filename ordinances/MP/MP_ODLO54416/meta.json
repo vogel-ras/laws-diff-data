@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO54416",
+  "path": "ordinances/MP/MP_ODLO54416",
+  "members": [
+    {
+      "id": "MP_ODLO54416",
+      "title": "Odlok o nadomestilu za uporabo stavbnega zemljišča v občini Mislinja (ODLO)",
+      "shortTitle": "Odlok o nadomestilu za uporabo stavbnega zemljišča v občini Mislinja (ODLO)",
+      "shortCode": "MP_ODLO54416",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2017-97-0592",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-97-0592",
+      "versions": [
+        {
+          "id": "MP_ODLO54416-original",
+          "shortCode": "MP_ODLO54416",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-97-0592",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO7178",
+      "title": "Odlok o spremembah in dopolnitvah odloka o nadomestilu za uporabo stavbnega zemljišča v Občini Mislinja (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah odloka o nadomestilu za uporabo stavbnega zemljišča v Občini Mislinja (ODLO)",
+      "shortCode": "MP_ODLO7178",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Mislinja",
+      "status": "Neveljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2003-01-5622",
+      "gazette": null,
+      "issuingBody": "Občina Mislinja",
+      "adoptedAt": "2003-12-24",
+      "validFrom": "2003-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5622",
+      "versions": [
+        {
+          "id": "MP_ODLO7178-original",
+          "shortCode": "MP_ODLO7178",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-24",
+          "effectiveFrom": "2003-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO54416"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5622",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

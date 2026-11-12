@@ -1,0 +1,58 @@
+{
+  "root": "URED7625",
+  "path": "laws/UR/URED7625",
+  "members": [
+    {
+      "id": "URED7625",
+      "title": "Uredba o sevalnih dejavnostih",
+      "shortTitle": "Uredba o sevalnih dejavnostih",
+      "shortCode": "URED7625",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0818",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2018-03-23",
+      "validFrom": "2018-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0818",
+      "versions": [
+        {
+          "id": "URED7625-original",
+          "shortCode": "URED7625",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-23",
+          "effectiveFrom": "2018-03-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0818",
+          "proposer": null
+        },
+        {
+          "id": "URED7625-npb-URED7625",
+          "shortCode": "URED7625-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-23",
+          "effectiveFrom": "2018-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7625",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

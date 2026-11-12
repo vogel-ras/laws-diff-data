@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13114",
+  "path": "laws/PR/PRAV13114",
+  "members": [
+    {
+      "id": "PRAV13114",
+      "title": "Pravilnik o evidencah prekrškovnih organov, evidenci pravnomočnih sodb oziroma sklepov o prekrških, skupni evidenci kazenskih točk v cestnem prometu ter skupni informacijski infrastrukturi",
+      "shortTitle": "Pravilnik o evidencah prekrškovnih organov, evidenci pravnomočnih sodb oziroma sklepov o prekrških, skupni evidenci kazenskih točk v cestnem prometu ter skupni informacijski infrastrukturi",
+      "shortCode": "PRAV13114",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0065",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-07",
+      "validFrom": "2025-08-07",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0065",
+      "versions": [
+        {
+          "id": "PRAV13114-original",
+          "shortCode": "PRAV13114",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-07",
+          "effectiveFrom": "2025-08-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0065",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13114-npb-PRAV13114",
+          "shortCode": "PRAV13114-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-01-12",
+          "effectiveFrom": "2018-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13114",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14144",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidencah prekrškovnih organov, evidenci pravnomočnih sodb oziroma sklepov o prekrških, skupni evidenci kazenskih točk v cestnem prometu ter skupni informacijski infrastrukturi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o evidencah prekrškovnih organov, evidenci pravnomočnih sodb oziroma sklepov o prekrških, skupni evidenci kazenskih točk v cestnem prometu ter skupni informacijski infrastrukturi",
+      "shortCode": "PRAV14144",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-3024",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2020-11-27",
+      "validFrom": "2020-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3024",
+      "versions": [
+        {
+          "id": "PRAV14144-original",
+          "shortCode": "PRAV14144",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-27",
+          "effectiveFrom": "2020-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13114"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3024",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

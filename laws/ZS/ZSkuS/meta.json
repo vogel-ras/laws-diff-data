@@ -1,0 +1,101 @@
+{
+  "root": "ZSkuS",
+  "path": "laws/ZS/ZSkuS",
+  "members": [
+    {
+      "id": "ZSkuS",
+      "title": "Zakon o skupnosti študentov",
+      "shortTitle": "Zakon o skupnosti študentov",
+      "shortCode": "ZSkuS",
+      "kind": "zakon",
+      "keywords": [
+        "študent/dijak"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1524",
+      "gazette": "Uradni list RS 38/94  str. 2449",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1524",
+      "versions": [
+        {
+          "id": "ZSkuS-original",
+          "shortCode": "ZSkuS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/94  str. 2449",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1524",
+          "proposer": null
+        },
+        {
+          "id": "ZSkuS-amend-ZSkuS-A",
+          "shortCode": "ZSkuS-A",
+          "label": "Sprememba ZSkuS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/19  str. 6979",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSkuS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSkuS-A",
+      "title": "Zakon o spremembah Zakona o skupnosti študentov",
+      "shortTitle": "Zakon o spremembah Zakona o skupnosti študentov",
+      "shortCode": "ZSkuS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2611",
+      "gazette": "Uradni list RS 59/19  str. 6979",
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2611",
+      "versions": [
+        {
+          "id": "ZSkuS-A-original",
+          "shortCode": "ZSkuS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6979",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSkuS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2611",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

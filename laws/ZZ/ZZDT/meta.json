@@ -1,0 +1,205 @@
+{
+  "root": "ZZDT",
+  "path": "laws/ZZ/ZZDT",
+  "members": [
+    {
+      "id": "ZZDT",
+      "title": "Zakon o zaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o zaposlovanju in delu tujcev",
+      "shortCode": "ZZDT",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3058",
+      "gazette": "Uradni list RS 66/2000  str. 8211",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3058",
+      "versions": [
+        {
+          "id": "ZZDT-original",
+          "shortCode": "ZZDT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/2000  str. 8211",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3058",
+          "proposer": null
+        },
+        {
+          "id": "ZZDT-amend-ZZDT-A",
+          "shortCode": "ZZDT-A",
+          "label": "Sprememba ZZDT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 101/05  str. 10614",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4398",
+          "proposer": null
+        },
+        {
+          "id": "ZZDT-amend-ZZDT-B",
+          "shortCode": "ZZDT-B",
+          "label": "Sprememba ZZDT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 52/07  str. 7068",
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2779",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDT-1",
+      "title": "Zakon o zaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o zaposlovanju in delu tujcev",
+      "shortCode": "ZZDT-1",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "dovoljenje za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1152",
+      "gazette": "Uradni list RS 26/11  str. 3387",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1152",
+      "versions": [
+        {
+          "id": "ZZDT-1-original",
+          "shortCode": "ZZDT-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3387",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1152",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDT-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in delu tujcev",
+      "shortCode": "ZZDT-A",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "dovoljenje za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4398",
+      "gazette": "Uradni list RS 101/05  str. 10614",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4398",
+      "versions": [
+        {
+          "id": "ZZDT-A-original",
+          "shortCode": "ZZDT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/05  str. 10614",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4398",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDT-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in delu tujcev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlovanju in delu tujcev",
+      "shortCode": "ZZDT-B",
+      "kind": "zakon",
+      "keywords": [
+        "tuji državljan",
+        "trg dela",
+        "dovoljenje za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2779",
+      "gazette": "Uradni list RS 52/07  str. 7068",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-12",
+      "validFrom": "2007-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2779",
+      "versions": [
+        {
+          "id": "ZZDT-B-original",
+          "shortCode": "ZZDT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/07  str. 7068",
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2779",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

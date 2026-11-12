@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5340",
+  "path": "laws/PR/PRAV5340",
+  "members": [
+    {
+      "id": "PRAV5340",
+      "title": "Pravilnik o načinu in rokih obračuna in plačila aktivnih in pasivnih obresti kratkoročnih instrumentov sistema enotnega zakladniškega računa",
+      "shortTitle": "Pravilnik o načinu in rokih obračuna in plačila aktivnih in pasivnih obresti kratkoročnih instrumentov sistema enotnega zakladniškega računa",
+      "shortCode": "PRAV5340",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5049",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2003-11-27",
+      "validFrom": "2003-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5049",
+      "versions": [
+        {
+          "id": "PRAV5340-original",
+          "shortCode": "PRAV5340",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-27",
+          "effectiveFrom": "2003-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5049",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6222",
+      "title": "Pravilnik o spremembi Pravilnika o načinu in rokih obračuna in plačila aktivnih in pasivnih obresti kratkoročnih instrumentov sistema enotnega zakladniškega računa",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o načinu in rokih obračuna in plačila aktivnih in pasivnih obresti kratkoročnih instrumentov sistema enotnega zakladniškega računa",
+      "shortCode": "PRAV6222",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5257",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2004-11-22",
+      "validFrom": "2004-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5257",
+      "versions": [
+        {
+          "id": "PRAV6222-original",
+          "shortCode": "PRAV6222",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-22",
+          "effectiveFrom": "2004-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5340"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5257",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

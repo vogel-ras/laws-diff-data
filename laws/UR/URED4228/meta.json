@@ -1,0 +1,136 @@
+{
+  "root": "URED4228",
+  "path": "laws/UR/URED4228",
+  "members": [
+    {
+      "id": "URED4228",
+      "title": "Uredba o doplačilni znamki v mesecu požarne varnosti",
+      "shortTitle": "Uredba o doplačilni znamki v mesecu požarne varnosti",
+      "shortCode": "URED4228",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3628",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-08-04",
+      "validFrom": "2006-08-04",
+      "validTo": null,
+      "latestPublishedAt": "2006-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3628",
+      "versions": [
+        {
+          "id": "URED4228-original",
+          "shortCode": "URED4228",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-08-04",
+          "effectiveFrom": "2006-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3628",
+          "proposer": null
+        },
+        {
+          "id": "URED4228-npb-URED4228",
+          "shortCode": "URED4228-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-08-04",
+          "effectiveFrom": "2006-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4228",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5813",
+      "title": "Uredba o spremembi Uredbe o doplačilni znamki v mesecu požarne varnosti",
+      "shortTitle": "Uredba o spremembi Uredbe o doplačilni znamki v mesecu požarne varnosti",
+      "shortCode": "URED5813",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1507",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-04-29",
+      "validFrom": "2011-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1507",
+      "versions": [
+        {
+          "id": "URED5813-original",
+          "shortCode": "URED5813",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-29",
+          "effectiveFrom": "2011-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4228"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1507",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6005",
+      "title": "Uredba o spremembi Uredbe o doplačilni znamki v mesecu požarne varnosti",
+      "shortTitle": "Uredba o spremembi Uredbe o doplačilni znamki v mesecu požarne varnosti",
+      "shortCode": "URED6005",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-0334",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-02-03",
+      "validFrom": "2012-02-03",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0334",
+      "versions": [
+        {
+          "id": "URED6005-original",
+          "shortCode": "URED6005",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-03",
+          "effectiveFrom": "2012-02-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4228"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0334",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

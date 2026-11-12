@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13612",
+  "path": "laws/PR/PRAV13612",
+  "members": [
+    {
+      "id": "PRAV13612",
+      "title": "Pravilnik o potniških ladjah",
+      "shortTitle": "Pravilnik o potniških ladjah",
+      "shortCode": "PRAV13612",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-3326",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-01",
+      "validFrom": "2025-08-01",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3326",
+      "versions": [
+        {
+          "id": "PRAV13612-original",
+          "shortCode": "PRAV13612",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-01",
+          "effectiveFrom": "2025-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3326",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13612-npb-PRAV13612",
+          "shortCode": "PRAV13612-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-12-13",
+          "effectiveFrom": "2019-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13612",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

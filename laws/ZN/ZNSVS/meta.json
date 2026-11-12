@@ -1,0 +1,166 @@
+{
+  "root": "ZNSVS",
+  "path": "laws/ZN/ZNSVS",
+  "members": [
+    {
+      "id": "ZNSVS",
+      "title": "Zakon o nacionalni stanovanjski varčevalni shemi",
+      "shortTitle": "Zakon o nacionalni stanovanjski varčevalni shemi",
+      "shortCode": "ZNSVS",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "kredit",
+        "posojilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3811",
+      "gazette": "Uradni list RS 86/2000  str. 10018",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-26",
+      "validFrom": "2000-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3811",
+      "versions": [
+        {
+          "id": "ZNSVS-original",
+          "shortCode": "ZNSVS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/2000  str. 10018",
+          "publishedAt": "2000-09-26",
+          "effectiveFrom": "2000-09-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3811",
+          "proposer": null
+        },
+        {
+          "id": "ZNSVS-amend-ZNSVS-A",
+          "shortCode": "ZNSVS-A",
+          "label": "Sprememba ZNSVS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 14/06  str. 1342",
+          "publishedAt": "2006-02-14",
+          "effectiveFrom": "2006-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNSVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0539",
+          "proposer": null
+        },
+        {
+          "id": "ZNSVS-amend-ZNSVS-B",
+          "shortCode": "ZNSVS-B",
+          "label": "Sprememba ZNSVS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 60/07  str. 8367",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNSVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3212",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNSVS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o nacionalni stanovanjski varčevalni shemi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o nacionalni stanovanjski varčevalni shemi",
+      "shortCode": "ZNSVS-A",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika",
+        "varčevalna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0539",
+      "gazette": "Uradni list RS 14/06  str. 1342",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-14",
+      "validFrom": "2006-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0539",
+      "versions": [
+        {
+          "id": "ZNSVS-A-original",
+          "shortCode": "ZNSVS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/06  str. 1342",
+          "publishedAt": "2006-02-14",
+          "effectiveFrom": "2006-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNSVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0539",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNSVS-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o nacionalni stanovanjski varčevalni shemi in subvencijah mladim družinam za prvo reševanje stanovanjskega vprašanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o nacionalni stanovanjski varčevalni shemi in subvencijah mladim družinam za prvo reševanje stanovanjskega vprašanja",
+      "shortCode": "ZNSVS-B",
+      "kind": "zakon",
+      "keywords": [
+        "stanovanje",
+        "stanovanjska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3212",
+      "gazette": "Uradni list RS 60/07  str. 8367",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-06",
+      "validFrom": "2007-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3212",
+      "versions": [
+        {
+          "id": "ZNSVS-B-original",
+          "shortCode": "ZNSVS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/07  str. 8367",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNSVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3212",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

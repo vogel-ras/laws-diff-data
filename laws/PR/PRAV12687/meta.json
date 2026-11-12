@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12687",
+  "path": "laws/PR/PRAV12687",
+  "members": [
+    {
+      "id": "PRAV12687",
+      "title": "Pravilnik o pristojbinah za opravljanje izpitov, izmeritev čolnov in ugotavljanje njihove sposobnosti za plovbo ter cenah tiskovin",
+      "shortTitle": "Pravilnik o pristojbinah za opravljanje izpitov, izmeritev čolnov in ugotavljanje njihove sposobnosti za plovbo ter cenah tiskovin",
+      "shortCode": "PRAV12687",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0893",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0893",
+      "versions": [
+        {
+          "id": "PRAV12687-original",
+          "shortCode": "PRAV12687",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0893",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12687-npb-PRAV12687",
+          "shortCode": "PRAV12687-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12687",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14167",
+      "title": "Pravilnik o spremembi Pravilnika o pristojbinah za opravljanje izpitov, izmeritev čolnov in ugotavljanje njihove sposobnosti za plovbo ter cenah tiskovin",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o pristojbinah za opravljanje izpitov, izmeritev čolnov in ugotavljanje njihove sposobnosti za plovbo ter cenah tiskovin",
+      "shortCode": "PRAV14167",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0029",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-01-08",
+      "validFrom": "2021-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2021-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0029",
+      "versions": [
+        {
+          "id": "PRAV14167-original",
+          "shortCode": "PRAV14167",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-01-08",
+          "effectiveFrom": "2021-01-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12687"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0029",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

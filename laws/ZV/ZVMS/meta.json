@@ -1,0 +1,107 @@
+{
+  "root": "ZVMS",
+  "path": "laws/ZV/ZVMS",
+  "members": [
+    {
+      "id": "ZAKO7757",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o veterinarskih merilih skladnosti (ZVMS-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o veterinarskih merilih skladnosti (ZVMS-A)",
+      "shortCode": "ZVMS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0949",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0949",
+      "versions": [
+        {
+          "id": "ZAKO7757-original",
+          "shortCode": "ZVMS-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0949",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVMS",
+      "title": "Zakon o veterinarskih merilih skladnosti",
+      "shortTitle": "Zakon o veterinarskih merilih skladnosti",
+      "shortCode": "ZVMS",
+      "kind": "zakon",
+      "keywords": [
+        "bolezen",
+        "Evropska unija",
+        "evropski pravni prostor",
+        "veterina",
+        "veterinarska zakonodaja",
+        "živalska krma",
+        "živalski proizvod"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4018",
+      "gazette": "Uradni list RS 93/05  str. 9632",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-21",
+      "validFrom": "2005-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4018",
+      "versions": [
+        {
+          "id": "ZVMS-original",
+          "shortCode": "ZVMS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/05  str. 9632",
+          "publishedAt": "2005-10-21",
+          "effectiveFrom": "2005-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4018",
+          "proposer": null
+        },
+        {
+          "id": "ZVMS-amend-ZAKO7757",
+          "shortCode": "ZVMS-A",
+          "label": "Sprememba ZVMS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0949",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

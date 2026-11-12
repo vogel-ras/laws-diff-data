@@ -1,0 +1,107 @@
+{
+  "root": "MKPKKD",
+  "path": "laws/MK/MKPKKD",
+  "members": [
+    {
+      "id": "MKPKKD",
+      "title": "Zakon o ratifikaciji Konvencije o pranju, odkrivanju, zasegu in zaplembi premoženjske koristi, pridobljene s kaznivim dejanjem",
+      "shortTitle": "Zakon o ratifikaciji Konvencije o pranju, odkrivanju, zasegu in zaplembi premoženjske koristi, pridobljene s kaznivim dejanjem",
+      "shortCode": "MKPKKD",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodna konvencija",
+        "kaznivo dejanje",
+        "zaplemba premoženja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-02-0043",
+      "gazette": "Uradni list RS MP 11/97  str. 638",
+      "issuingBody": null,
+      "adoptedAt": "1997-07-11",
+      "validFrom": "1997-07-11",
+      "validTo": null,
+      "latestPublishedAt": "1998-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-02-0043",
+      "versions": [
+        {
+          "id": "MKPKKD-original",
+          "shortCode": "MKPKKD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 11/97  str. 638",
+          "publishedAt": "1997-07-11",
+          "effectiveFrom": "1997-07-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-02-0043",
+          "proposer": null
+        },
+        {
+          "id": "MKPKKD-amend-MKPKKD-A",
+          "shortCode": "MKPKKD-A",
+          "label": "Sprememba MKPKKD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 8/98  str. 137",
+          "publishedAt": "1998-04-18",
+          "effectiveFrom": "1998-04-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKPKKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0020",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MKPKKD-A",
+      "title": "Zakon o spremembi zakona o ratifikaciji Konvencije o pranju, odkrivanju, zasegu in zaplembi premoženjske koristi, pridobljene s kaznivim dejanjem",
+      "shortTitle": "Zakon o spremembi zakona o ratifikaciji Konvencije o pranju, odkrivanju, zasegu in zaplembi premoženjske koristi, pridobljene s kaznivim dejanjem",
+      "shortCode": "MKPKKD-A",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "kaznivo dejanje",
+        "zaplemba premoženja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-02-0020",
+      "gazette": "Uradni list RS MP 8/98  str. 137",
+      "issuingBody": null,
+      "adoptedAt": "1998-04-18",
+      "validFrom": "1998-04-18",
+      "validTo": null,
+      "latestPublishedAt": "1998-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0020",
+      "versions": [
+        {
+          "id": "MKPKKD-A-original",
+          "shortCode": "MKPKKD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 8/98  str. 137",
+          "publishedAt": "1998-04-18",
+          "effectiveFrom": "1998-04-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKPKKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0020",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

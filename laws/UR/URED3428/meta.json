@@ -1,0 +1,58 @@
+{
+  "root": "URED3428",
+  "path": "laws/UR/URED3428",
+  "members": [
+    {
+      "id": "URED3428",
+      "title": "Uredba o državnem lokacijskem načrtu za navezavo luke Koper na avtocestno omrežje",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za navezavo luke Koper na avtocestno omrežje",
+      "shortCode": "URED3428",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3474",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-07-19",
+      "validFrom": "2004-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3474",
+      "versions": [
+        {
+          "id": "URED3428-original",
+          "shortCode": "URED3428",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-19",
+          "effectiveFrom": "2004-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3474",
+          "proposer": null
+        },
+        {
+          "id": "URED3428-npb-URED3428",
+          "shortCode": "URED3428-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-07-19",
+          "effectiveFrom": "2004-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3428",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

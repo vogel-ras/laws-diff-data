@@ -1,0 +1,685 @@
+{
+  "root": "ZZDej",
+  "path": "laws/ZZ/ZZDej",
+  "members": [
+    {
+      "id": "ZAKO7305",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (ZZDej-K)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti (ZZDej-K)",
+      "shortCode": "ZZDej-K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3026",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-13",
+      "validFrom": "2017-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3026",
+      "versions": [
+        {
+          "id": "ZAKO7305-original",
+          "shortCode": "ZZDej-K",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-13",
+          "effectiveFrom": "2017-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3026",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej",
+      "title": "Zakon o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o zdravstveni dejavnosti",
+      "shortCode": "ZZDej",
+      "kind": "zakon",
+      "keywords": [
+        "državna zdravstvena služba",
+        "javno zdravje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0460",
+      "gazette": "Uradni list RS 9/92  str. 590",
+      "issuingBody": null,
+      "adoptedAt": "1992-02-21",
+      "validFrom": "1992-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0460",
+      "versions": [
+        {
+          "id": "ZZDej-original",
+          "shortCode": "ZZDej",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/92  str. 590",
+          "publishedAt": "1992-02-21",
+          "effectiveFrom": "1992-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0460",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-B",
+          "shortCode": "ZZDej-B",
+          "label": "Sprememba ZZDej-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/95  str. 2695",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1816",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-C",
+          "shortCode": "ZZDej-C",
+          "label": "Sprememba ZZDej-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0380",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-D",
+          "shortCode": "ZZDej-D",
+          "label": "Sprememba ZZDej-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 90/99  str. 13509",
+          "publishedAt": "1999-11-05",
+          "effectiveFrom": "1999-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4299",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-E",
+          "shortCode": "ZZDej-E",
+          "label": "Sprememba ZZDej-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 31/2000  str. 3776",
+          "publishedAt": "2000-04-07",
+          "effectiveFrom": "2000-04-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1440",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-F",
+          "shortCode": "ZZDej-F",
+          "label": "Sprememba ZZDej-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 45/2001  str. 4989",
+          "publishedAt": "2001-06-07",
+          "effectiveFrom": "2001-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2545",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-G",
+          "shortCode": "ZZDej-G",
+          "label": "Sprememba ZZDej-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 2/04  str. 236",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0076",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-H",
+          "shortCode": "ZZDej-H",
+          "label": "Sprememba ZZDej-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 80/04  str. 9723",
+          "publishedAt": "2004-07-23",
+          "effectiveFrom": "2004-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3536",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-J",
+          "shortCode": "ZZDej-J",
+          "label": "Sprememba ZZDej-J",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 14/13  str. 1862",
+          "publishedAt": "2013-02-15",
+          "effectiveFrom": "2013-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0372",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZAKO7305",
+          "shortCode": "ZZDej-K",
+          "label": "Sprememba ZZDej-K",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": null,
+          "publishedAt": "2017-11-13",
+          "effectiveFrom": "2017-11-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3026",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-L",
+          "shortCode": "ZZDej-L",
+          "label": "Sprememba ZZDej-L",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 73/19  str. 8799",
+          "publishedAt": "2019-12-06",
+          "effectiveFrom": "2019-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3228",
+          "proposer": null
+        },
+        {
+          "id": "ZZDej-amend-ZZDej-M",
+          "shortCode": "ZZDej-M",
+          "label": "Sprememba ZZDej-M",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 82/20  str. 2869",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1233",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-B",
+      "kind": "zakon",
+      "keywords": [
+        "javno zdravje",
+        "državna zdravstvena služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1816",
+      "gazette": "Uradni list RS 37/95  str. 2695",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-30",
+      "validFrom": "1995-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1816",
+      "versions": [
+        {
+          "id": "ZZDej-B-original",
+          "shortCode": "ZZDej-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/95  str. 2695",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1816",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-C",
+      "title": "Zakon o spremembi zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembi zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-C",
+      "kind": "zakon",
+      "keywords": [
+        "javno zdravje",
+        "državna zdravstvena služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0380",
+      "gazette": "Uradni list RS 8/96  str. 617",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0380",
+      "versions": [
+        {
+          "id": "ZZDej-C-original",
+          "shortCode": "ZZDej-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0380",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-D",
+      "title": "Zakon o dopolnitvi zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o dopolnitvi zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-D",
+      "kind": "zakon",
+      "keywords": [
+        "poklic v zdravstvu",
+        "zdravstvena nega",
+        "zdravstvena služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4299",
+      "gazette": "Uradni list RS 90/99  str. 13509",
+      "issuingBody": null,
+      "adoptedAt": "1999-11-05",
+      "validFrom": "1999-11-05",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4299",
+      "versions": [
+        {
+          "id": "ZZDej-D-original",
+          "shortCode": "ZZDej-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/99  str. 13509",
+          "publishedAt": "1999-11-05",
+          "effectiveFrom": "1999-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4299",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-E",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena ustanova"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-1440",
+      "gazette": "Uradni list RS 31/2000  str. 3776",
+      "issuingBody": null,
+      "adoptedAt": "2000-04-07",
+      "validFrom": "2000-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1440",
+      "versions": [
+        {
+          "id": "ZZDej-E-original",
+          "shortCode": "ZZDej-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/2000  str. 3776",
+          "publishedAt": "2000-04-07",
+          "effectiveFrom": "2000-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-F",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena ustanova",
+        "zdravnik",
+        "zdravstvena politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2545",
+      "gazette": "Uradni list RS 45/2001  str. 4989",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-07",
+      "validFrom": "2001-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2545",
+      "versions": [
+        {
+          "id": "ZZDej-F-original",
+          "shortCode": "ZZDej-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/2001  str. 4989",
+          "publishedAt": "2001-06-07",
+          "effectiveFrom": "2001-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2545",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-G",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena politika",
+        "zdravnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0076",
+      "gazette": "Uradni list RS 2/04  str. 236",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0076",
+      "versions": [
+        {
+          "id": "ZZDej-G-original",
+          "shortCode": "ZZDej-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 236",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0076",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-H",
+      "title": "Zakon o dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o dopolnitvah zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-H",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena nega"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3536",
+      "gazette": "Uradni list RS 80/04  str. 9723",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-23",
+      "validFrom": "2004-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3536",
+      "versions": [
+        {
+          "id": "ZZDej-H-original",
+          "shortCode": "ZZDej-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 80/04  str. 9723",
+          "publishedAt": "2004-07-23",
+          "effectiveFrom": "2004-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3536",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-J",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstvena politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0372",
+      "gazette": "Uradni list RS 14/13  str. 1862",
+      "issuingBody": null,
+      "adoptedAt": "2013-02-15",
+      "validFrom": "2013-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2013-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0372",
+      "versions": [
+        {
+          "id": "ZZDej-J-original",
+          "shortCode": "ZZDej-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/13  str. 1862",
+          "publishedAt": "2013-02-15",
+          "effectiveFrom": "2013-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0372",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-L",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-L",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3228",
+      "gazette": "Uradni list RS 73/19  str. 8799",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-06",
+      "validFrom": "2019-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3228",
+      "versions": [
+        {
+          "id": "ZZDej-L-original",
+          "shortCode": "ZZDej-L",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/19  str. 8799",
+          "publishedAt": "2019-12-06",
+          "effectiveFrom": "2019-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3228",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZDej-M",
+      "title": "Zakon o dopolnitvi Zakona o zdravstveni dejavnosti",
+      "shortTitle": "Zakon o dopolnitvi Zakona o zdravstveni dejavnosti",
+      "shortCode": "ZZDej-M",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1233",
+      "gazette": "Uradni list RS 82/20  str. 2869",
+      "issuingBody": null,
+      "adoptedAt": "2020-06-05",
+      "validFrom": "2020-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2020-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1233",
+      "versions": [
+        {
+          "id": "ZZDej-M-original",
+          "shortCode": "ZZDej-M",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/20  str. 2869",
+          "publishedAt": "2020-06-05",
+          "effectiveFrom": "2020-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZDej"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1233",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

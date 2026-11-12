@@ -1,0 +1,169 @@
+{
+  "root": "ZPIZVZ",
+  "path": "laws/ZP/ZPIZVZ",
+  "members": [
+    {
+      "id": "ZPIZVZ",
+      "title": "Zakon o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortTitle": "Zakon o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortCode": "ZPIZVZ",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje",
+        "vojaško osebje",
+        "socialna varnost",
+        "upokojenec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2142",
+      "gazette": "Uradni list RS 49/98  str. 3480",
+      "issuingBody": null,
+      "adoptedAt": "1998-07-03",
+      "validFrom": "1998-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2142",
+      "versions": [
+        {
+          "id": "ZPIZVZ-original",
+          "shortCode": "ZPIZVZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/98  str. 3480",
+          "publishedAt": "1998-07-03",
+          "effectiveFrom": "1998-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2142",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZVZ-amend-ZPIZVZ-A",
+          "shortCode": "ZPIZVZ-A",
+          "label": "Sprememba ZPIZVZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 118/06  str. 12412",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5022",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZVZ-amend-ZPIZVZ-B",
+          "shortCode": "ZPIZVZ-B",
+          "label": "Sprememba ZPIZVZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 28/09  str. 3966",
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1189",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZVZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortCode": "ZPIZVZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "socialna varnost",
+        "upokojenec",
+        "vojaško osebje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5022",
+      "gazette": "Uradni list RS 118/06  str. 12412",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-17",
+      "validFrom": "2006-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5022",
+      "versions": [
+        {
+          "id": "ZPIZVZ-A-original",
+          "shortCode": "ZPIZVZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 118/06  str. 12412",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5022",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZVZ-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravicah iz pokojninskega in invalidskega zavarovanja bivših vojaških zavarovancev",
+      "shortCode": "ZPIZVZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "socialna varnost",
+        "upokojenec",
+        "vojaško osebje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1189",
+      "gazette": "Uradni list RS 28/09  str. 3966",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-10",
+      "validFrom": "2009-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1189",
+      "versions": [
+        {
+          "id": "ZPIZVZ-B-original",
+          "shortCode": "ZPIZVZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/09  str. 3966",
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZVZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1189",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

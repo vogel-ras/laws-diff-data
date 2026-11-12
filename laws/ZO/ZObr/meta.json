@@ -1,0 +1,393 @@
+{
+  "root": "ZObr",
+  "path": "laws/ZO/ZObr",
+  "members": [
+    {
+      "id": "ZObr",
+      "title": "Zakon o obrambi",
+      "shortTitle": "Zakon o obrambi",
+      "shortCode": "ZObr",
+      "kind": "zakon",
+      "keywords": [
+        "obrambna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2980",
+      "gazette": "Uradni list RS 82/94  str. 5029",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-30",
+      "validFrom": "1994-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2980",
+      "versions": [
+        {
+          "id": "ZObr-original",
+          "shortCode": "ZObr",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/94  str. 5029",
+          "publishedAt": "1994-12-30",
+          "effectiveFrom": "1994-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2980",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-A",
+          "shortCode": "ZObr-A",
+          "label": "Sprememba ZObr-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 44/97  str. 3989",
+          "publishedAt": "1997-07-24",
+          "effectiveFrom": "1997-07-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2415",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-B",
+          "shortCode": "ZObr-B",
+          "label": "Sprememba ZObr-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 87/97  str. 8371",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4011",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-C",
+          "shortCode": "ZObr-C",
+          "label": "Sprememba ZObr-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 47/2002  str. 4737",
+          "publishedAt": "2002-05-29",
+          "effectiveFrom": "2002-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2276",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-D",
+          "shortCode": "ZObr-D",
+          "label": "Sprememba ZObr-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 40/04  str. 4712",
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1665",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-E",
+          "shortCode": "ZObr-E",
+          "label": "Sprememba ZObr-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 95/15  str. 11055",
+          "publishedAt": "2015-12-10",
+          "effectiveFrom": "2015-12-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3750",
+          "proposer": null
+        },
+        {
+          "id": "ZObr-amend-ZObr-F",
+          "shortCode": "ZObr-F",
+          "label": "Sprememba ZObr-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 139/20  str. 5715",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2455",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o obrambi",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o obrambi",
+      "shortCode": "ZObr-A",
+      "kind": "zakon",
+      "keywords": [
+        "obrambna politika",
+        "nepremičnine",
+        "raba zemljišč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2415",
+      "gazette": "Uradni list RS 44/97  str. 3989",
+      "issuingBody": null,
+      "adoptedAt": "1997-07-24",
+      "validFrom": "1997-07-24",
+      "validTo": null,
+      "latestPublishedAt": "1997-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2415",
+      "versions": [
+        {
+          "id": "ZObr-A-original",
+          "shortCode": "ZObr-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/97  str. 3989",
+          "publishedAt": "1997-07-24",
+          "effectiveFrom": "1997-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2415",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortCode": "ZObr-B",
+      "kind": "zakon",
+      "keywords": [
+        "obrambna politika",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-4011",
+      "gazette": "Uradni list RS 87/97  str. 8371",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-29",
+      "validFrom": "1997-12-29",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4011",
+      "versions": [
+        {
+          "id": "ZObr-B-original",
+          "shortCode": "ZObr-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/97  str. 8371",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4011",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortCode": "ZObr-C",
+      "kind": "zakon",
+      "keywords": [
+        "obrambna politika",
+        "vojaške sile na tujem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2276",
+      "gazette": "Uradni list RS 47/2002  str. 4737",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-29",
+      "validFrom": "2002-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2276",
+      "versions": [
+        {
+          "id": "ZObr-C-original",
+          "shortCode": "ZObr-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/2002  str. 4737",
+          "publishedAt": "2002-05-29",
+          "effectiveFrom": "2002-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2276",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o obrambi",
+      "shortCode": "ZObr-D",
+      "kind": "zakon",
+      "keywords": [
+        "obrambna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1665",
+      "gazette": "Uradni list RS 40/04  str. 4712",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-20",
+      "validFrom": "2004-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1665",
+      "versions": [
+        {
+          "id": "ZObr-D-original",
+          "shortCode": "ZObr-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/04  str. 4712",
+          "publishedAt": "2004-04-20",
+          "effectiveFrom": "2004-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1665",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-E",
+      "title": "Zakon o dopolnitvi Zakona o obrambi",
+      "shortTitle": "Zakon o dopolnitvi Zakona o obrambi",
+      "shortCode": "ZObr-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3750",
+      "gazette": "Uradni list RS 95/15  str. 11055",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-10",
+      "validFrom": "2015-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3750",
+      "versions": [
+        {
+          "id": "ZObr-E-original",
+          "shortCode": "ZObr-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/15  str. 11055",
+          "publishedAt": "2015-12-10",
+          "effectiveFrom": "2015-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3750",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZObr-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o obrambi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o obrambi",
+      "shortCode": "ZObr-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2455",
+      "gazette": "Uradni list RS 139/20  str. 5715",
+      "issuingBody": null,
+      "adoptedAt": "2020-10-09",
+      "validFrom": "2020-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2455",
+      "versions": [
+        {
+          "id": "ZObr-F-original",
+          "shortCode": "ZObr-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/20  str. 5715",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZObr"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2455",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

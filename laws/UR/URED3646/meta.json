@@ -1,0 +1,82 @@
+{
+  "root": "URED3646",
+  "path": "laws/UR/URED3646",
+  "members": [
+    {
+      "id": "URED3646",
+      "title": "Uredba o oblikovanju cen komunalnih storitev",
+      "shortTitle": "Uredba o oblikovanju cen komunalnih storitev",
+      "shortCode": "URED3646",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1860",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-06",
+      "validFrom": "2005-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1860",
+      "versions": [
+        {
+          "id": "URED3646-original",
+          "shortCode": "URED3646",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-06",
+          "effectiveFrom": "2005-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1860",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4635",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o oblikovanju cen komunalnih storitev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o oblikovanju cen komunalnih storitev",
+      "shortCode": "URED4635",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-4277",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-09-21",
+      "validFrom": "2007-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-09-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4277",
+      "versions": [
+        {
+          "id": "URED4635-original",
+          "shortCode": "URED4635",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-09-21",
+          "effectiveFrom": "2007-09-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3646"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4277",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

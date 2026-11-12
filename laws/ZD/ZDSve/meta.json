@@ -1,0 +1,163 @@
+{
+  "root": "ZDSve",
+  "path": "laws/ZD/ZDSve",
+  "members": [
+    {
+      "id": "ZDSve",
+      "title": "Zakon o državnem svetu",
+      "shortTitle": "Zakon o državnem svetu",
+      "shortCode": "ZDSve",
+      "kind": "zakon",
+      "keywords": [
+        "Državni svet",
+        "nacionalni parlament",
+        "parlamentarni dom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2069",
+      "gazette": "Uradni list RS 44/92  str. 2673",
+      "issuingBody": null,
+      "adoptedAt": "1992-09-12",
+      "validFrom": "1992-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2069",
+      "versions": [
+        {
+          "id": "ZDSve-original",
+          "shortCode": "ZDSve",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/92  str. 2673",
+          "publishedAt": "1992-09-12",
+          "effectiveFrom": "1992-09-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2069",
+          "proposer": null
+        },
+        {
+          "id": "ZDSve-amend-ZDSve-A",
+          "shortCode": "ZDSve-A",
+          "label": "Sprememba ZDSve-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/05  str. 8165",
+          "publishedAt": "2005-08-12",
+          "effectiveFrom": "2005-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDSve"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3386",
+          "proposer": null
+        },
+        {
+          "id": "ZDSve-amend-ZDSve-B",
+          "shortCode": "ZDSve-B",
+          "label": "Sprememba ZDSve-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 16/23  str. 983",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSve"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0305",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSve-A",
+      "title": "Zakon o dopolnitvah zakona o državnem svetu",
+      "shortTitle": "Zakon o dopolnitvah zakona o državnem svetu",
+      "shortCode": "ZDSve-A",
+      "kind": "zakon",
+      "keywords": [
+        "nacionalni parlament",
+        "Državni svet",
+        "parlamentarni dom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3386",
+      "gazette": "Uradni list RS 76/05  str. 8165",
+      "issuingBody": null,
+      "adoptedAt": "2005-08-12",
+      "validFrom": "2005-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3386",
+      "versions": [
+        {
+          "id": "ZDSve-A-original",
+          "shortCode": "ZDSve-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/05  str. 8165",
+          "publishedAt": "2005-08-12",
+          "effectiveFrom": "2005-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSve"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3386",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDSve-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem svetu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem svetu",
+      "shortCode": "ZDSve-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0305",
+      "gazette": "Uradni list RS 16/23  str. 983",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-07",
+      "validFrom": "2023-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0305",
+      "versions": [
+        {
+          "id": "ZDSve-B-original",
+          "shortCode": "ZDSve-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/23  str. 983",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDSve"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0305",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

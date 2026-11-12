@@ -1,0 +1,146 @@
+{
+  "root": "ZNKEB",
+  "path": "laws/ZN/ZNKEB",
+  "members": [
+    {
+      "id": "ZAKO340",
+      "title": "Zakon o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest (ZNKEB)",
+      "shortTitle": "Zakon o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest (ZNKEB)",
+      "shortCode": "ZNKEB",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1994-01-3031",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-06-10",
+      "validFrom": "1994-06-10",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-3031",
+      "versions": [
+        {
+          "id": "ZAKO340-original",
+          "shortCode": "ZNKEB",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-06-10",
+          "effectiveFrom": "1994-06-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-3031",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNKEB",
+      "title": "Zakon o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest",
+      "shortTitle": "Zakon o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest",
+      "shortCode": "ZNKEB",
+      "kind": "zakon",
+      "keywords": [
+        "kredit",
+        "kreditna garancija",
+        "EBRD",
+        "cestno omrežje",
+        "prometna infrastruktura"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1316",
+      "gazette": "Uradni list RS 32/94  str. 2045",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-10",
+      "validFrom": "1994-06-10",
+      "validTo": null,
+      "latestPublishedAt": "1998-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1316",
+      "versions": [
+        {
+          "id": "ZNKEB-original",
+          "shortCode": "ZNKEB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/94  str. 2045",
+          "publishedAt": "1994-06-10",
+          "effectiveFrom": "1994-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1316",
+          "proposer": null
+        },
+        {
+          "id": "ZNKEB-amend-ZNKEB-A",
+          "shortCode": "ZNKEB-A",
+          "label": "Sprememba ZNKEB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/98  str. 4134",
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNKEB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2601",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNKEB-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o najetju kredita Republike Slovenije pri Evropski banki za obnovo in razvoj za projekt prenove obstoječih magistralnih cest",
+      "shortCode": "ZNKEB-A",
+      "kind": "zakon",
+      "keywords": [
+        "EBRD",
+        "kredit",
+        "hitra cesta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2601",
+      "gazette": "Uradni list RS 57/98  str. 4134",
+      "issuingBody": null,
+      "adoptedAt": "1998-08-14",
+      "validFrom": "1998-08-14",
+      "validTo": null,
+      "latestPublishedAt": "1998-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2601",
+      "versions": [
+        {
+          "id": "ZNKEB-A-original",
+          "shortCode": "ZNKEB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/98  str. 4134",
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNKEB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2601",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

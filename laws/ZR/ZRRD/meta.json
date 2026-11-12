@@ -1,0 +1,283 @@
+{
+  "root": "ZRRD",
+  "path": "laws/ZR/ZRRD",
+  "members": [
+    {
+      "id": "ZRRD",
+      "title": "Zakon o raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZRRD",
+      "kind": "zakon",
+      "keywords": [
+        "znanstvene raziskave"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4808",
+      "gazette": "Uradni list RS 96/2002  str. 10533",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4808",
+      "versions": [
+        {
+          "id": "ZRRD-original",
+          "shortCode": "ZRRD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10533",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4808",
+          "proposer": null
+        },
+        {
+          "id": "ZRRD-amend-ZRRD-A",
+          "shortCode": "ZRRD-A",
+          "label": "Sprememba ZRRD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 115/05  str. 12519",
+          "publishedAt": "2005-12-20",
+          "effectiveFrom": "2005-12-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5086",
+          "proposer": null
+        },
+        {
+          "id": "ZRRD-amend-ZRRD-B",
+          "shortCode": "ZRRD-B",
+          "label": "Sprememba ZRRD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 112/07  str. 15439",
+          "publishedAt": "2007-12-07",
+          "effectiveFrom": "2007-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5553",
+          "proposer": null
+        },
+        {
+          "id": "ZRRD-amend-ZRRD-C",
+          "shortCode": "ZRRD-C",
+          "label": "Sprememba ZRRD-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 9/11  str. 837",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0325",
+          "proposer": null
+        },
+        {
+          "id": "ZRRD-amend-ZRRD-D",
+          "shortCode": "ZRRD-D",
+          "label": "Sprememba ZRRD-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 9/19  str. 669",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0290",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRRD-A",
+      "title": "Zakon o spremembi zakona o raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o spremembi zakona o raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZRRD-A",
+      "kind": "zakon",
+      "keywords": [
+        "raziskave in razvoj",
+        "raziskovalna politika",
+        "imenovanje osebja",
+        "javna ustanova"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-5086",
+      "gazette": "Uradni list RS 115/05  str. 12519",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-20",
+      "validFrom": "2005-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5086",
+      "versions": [
+        {
+          "id": "ZRRD-A-original",
+          "shortCode": "ZRRD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/05  str. 12519",
+          "publishedAt": "2005-12-20",
+          "effectiveFrom": "2005-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5086",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRRD-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZRRD-B",
+      "kind": "zakon",
+      "keywords": [
+        "prenos kapitala",
+        "terjatev",
+        "gospodarska družba",
+        "pravna oseba",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5553",
+      "gazette": "Uradni list RS 112/07  str. 15439",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-07",
+      "validFrom": "2007-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5553",
+      "versions": [
+        {
+          "id": "ZRRD-B-original",
+          "shortCode": "ZRRD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 112/07  str. 15439",
+          "publishedAt": "2007-12-07",
+          "effectiveFrom": "2007-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5553",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRRD-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZRRD-C",
+      "kind": "zakon",
+      "keywords": [
+        "raziskave in razvoj",
+        "raziskovalna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0325",
+      "gazette": "Uradni list RS 9/11  str. 837",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0325",
+      "versions": [
+        {
+          "id": "ZRRD-C-original",
+          "shortCode": "ZRRD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 837",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0325",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRRD-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o raziskovalni in razvojni dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o raziskovalni in razvojni dejavnosti",
+      "shortCode": "ZRRD-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0290",
+      "gazette": "Uradni list RS 9/19  str. 669",
+      "issuingBody": null,
+      "adoptedAt": "2019-02-11",
+      "validFrom": "2019-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0290",
+      "versions": [
+        {
+          "id": "ZRRD-D-original",
+          "shortCode": "ZRRD-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/19  str. 669",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0290",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

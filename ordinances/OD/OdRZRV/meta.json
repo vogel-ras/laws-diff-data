@@ -1,0 +1,99 @@
+{
+  "root": "OdRZRV",
+  "path": "ordinances/OD/OdRZRV",
+  "members": [
+    {
+      "id": "ODLO374",
+      "title": "Odlok o razpisu zakonodajnega referenduma za volitve v državni zbor (OdRZRV)",
+      "shortTitle": "Odlok o razpisu zakonodajnega referenduma za volitve v državni zbor (OdRZRV)",
+      "shortCode": "OdRZRV",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1996-01-2792",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-08-09",
+      "validFrom": "1996-08-09",
+      "validTo": null,
+      "latestPublishedAt": "1996-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2792",
+      "versions": [
+        {
+          "id": "ODLO374-original",
+          "shortCode": "OdRZRV",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-08-09",
+          "effectiveFrom": "1996-08-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2792",
+          "proposer": null
+        },
+        {
+          "id": "ODLO374-amend-ODLO375",
+          "shortCode": "OdRZRV-A",
+          "label": "Sprememba OdRZRV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1996-09-20",
+          "effectiveFrom": "1996-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO374"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO375",
+      "title": "Predlog odloka o spremembah in dopolnitvah odloka o razpisu zakonodajnega referenduma za volitve v Državni zbor (OdRZRV-A)",
+      "shortTitle": "Predlog odloka o spremembah in dopolnitvah odloka o razpisu zakonodajnega referenduma za volitve v Državni zbor (OdRZRV-A)",
+      "shortCode": "OdRZRV-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1996-01-3121",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-09-20",
+      "validFrom": "1996-09-20",
+      "validTo": null,
+      "latestPublishedAt": "1996-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3121",
+      "versions": [
+        {
+          "id": "ODLO375-original",
+          "shortCode": "OdRZRV-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-09-20",
+          "effectiveFrom": "1996-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO374"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3121",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

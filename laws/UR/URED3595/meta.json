@@ -1,0 +1,97 @@
+{
+  "root": "URED3595",
+  "path": "laws/UR/URED3595",
+  "members": [
+    {
+      "id": "URED3595",
+      "title": "Uredba o izvajanju uredb (ES) o predhodnih sestavinah za prepovedane droge",
+      "shortTitle": "Uredba o izvajanju uredb (ES) o predhodnih sestavinah za prepovedane droge",
+      "shortCode": "URED3595",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3683",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-09-23",
+      "validFrom": "2005-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3683",
+      "versions": [
+        {
+          "id": "URED3595-original",
+          "shortCode": "URED3595",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-09-23",
+          "effectiveFrom": "2005-09-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3683",
+          "proposer": null
+        },
+        {
+          "id": "URED3595-npb-URED3595",
+          "shortCode": "URED3595-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-09-23",
+          "effectiveFrom": "2005-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3595",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5083",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) o predhodnih sestavinah za prepovedane droge",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) o predhodnih sestavinah za prepovedane droge",
+      "shortCode": "URED5083",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3185",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-09-18",
+      "validFrom": "2009-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3185",
+      "versions": [
+        {
+          "id": "URED5083-original",
+          "shortCode": "URED5083",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3595"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3185",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

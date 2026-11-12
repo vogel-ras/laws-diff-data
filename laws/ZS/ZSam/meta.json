@@ -1,0 +1,47 @@
+{
+  "root": "ZSam",
+  "path": "laws/ZS/ZSam",
+  "members": [
+    {
+      "id": "ZSam-1",
+      "title": "Zakon o samoprispevku",
+      "shortTitle": "Zakon o samoprispevku",
+      "shortCode": "ZSam-1",
+      "kind": "zakon",
+      "keywords": [
+        "sredstva lokalne skupnosti",
+        "financiranje",
+        "občina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4449",
+      "gazette": "Uradni list RS 87/2001  str. 8694",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-08",
+      "validFrom": "2001-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4449",
+      "versions": [
+        {
+          "id": "ZSam-1-original",
+          "shortCode": "ZSam-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2001  str. 8694",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4449",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

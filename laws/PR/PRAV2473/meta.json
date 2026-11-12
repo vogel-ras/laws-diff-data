@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2473",
+  "path": "laws/PR/PRAV2473",
+  "members": [
+    {
+      "id": "PRAV2473",
+      "title": "Pravilnik o pogojih za pridobitev dovoljenja za delo za opravljanje strokovnih nalog varnosti pri delu",
+      "shortTitle": "Pravilnik o pogojih za pridobitev dovoljenja za delo za opravljanje strokovnih nalog varnosti pri delu",
+      "shortCode": "PRAV2473",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0533",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-02-04",
+      "validFrom": "2000-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0533",
+      "versions": [
+        {
+          "id": "PRAV2473-original",
+          "shortCode": "PRAV2473",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-04",
+          "effectiveFrom": "2000-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0533",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3309",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih za pridobitev dovoljenja za delo za opravljanje strokovnih nalog varnosti pri delu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih za pridobitev dovoljenja za delo za opravljanje strokovnih nalog varnosti pri delu",
+      "shortCode": "PRAV3309",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3905",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-10-06",
+      "validFrom": "2000-10-06",
+      "validTo": null,
+      "latestPublishedAt": "2000-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3905",
+      "versions": [
+        {
+          "id": "PRAV3309-original",
+          "shortCode": "PRAV3309",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-10-06",
+          "effectiveFrom": "2000-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2473"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3905",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "root": "ZSRT",
+  "path": "laws/ZS/ZSRT",
+  "members": [
+    {
+      "id": "ZAKO6452",
+      "title": "Zakon o spodbujanju razvoja turizma (ZSRT-1)",
+      "shortTitle": "Zakon o spodbujanju razvoja turizma (ZSRT-1)",
+      "shortCode": "ZSRT-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0541",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-28",
+      "validFrom": "2018-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0541",
+      "versions": [
+        {
+          "id": "ZAKO6452-original",
+          "shortCode": "ZSRT-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-28",
+          "effectiveFrom": "2018-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSRT",
+      "title": "Zakon o spodbujanju razvoja turizma",
+      "shortTitle": "Zakon o spodbujanju razvoja turizma",
+      "shortCode": "ZSRT",
+      "kind": "zakon",
+      "keywords": [
+        "turizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0073",
+      "gazette": "Uradni list RS 2/04  str. 207",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0073",
+      "versions": [
+        {
+          "id": "ZSRT-original",
+          "shortCode": "ZSRT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 207",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0073",
+          "proposer": null
+        },
+        {
+          "id": "ZSRT-amend-ZSRT-A",
+          "shortCode": "ZSRT-A",
+          "label": "Sprememba ZSRT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/12  str. 5959",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSRT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2408",
+          "proposer": null
+        },
+        {
+          "id": "ZSRT-amend-ZSRT-B",
+          "shortCode": "ZSRT-B",
+          "label": "Sprememba ZSRT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 17/15  str. 1753",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSRT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0620",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSRT-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju razvoja turizma",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju razvoja turizma",
+      "shortCode": "ZSRT-A",
+      "kind": "zakon",
+      "keywords": [
+        "turizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2408",
+      "gazette": "Uradni list RS 57/12  str. 5959",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2408",
+      "versions": [
+        {
+          "id": "ZSRT-A-original",
+          "shortCode": "ZSRT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5959",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSRT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2408",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSRT-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju razvoja turizma",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o spodbujanju razvoja turizma",
+      "shortCode": "ZSRT-B",
+      "kind": "zakon",
+      "keywords": [
+        "turizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0620",
+      "gazette": "Uradni list RS 17/15  str. 1753",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-13",
+      "validFrom": "2015-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0620",
+      "versions": [
+        {
+          "id": "ZSRT-B-original",
+          "shortCode": "ZSRT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/15  str. 1753",
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSRT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0620",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

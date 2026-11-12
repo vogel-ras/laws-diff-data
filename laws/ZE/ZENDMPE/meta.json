@@ -1,0 +1,48 @@
+{
+  "root": "ZENDMPE",
+  "path": "laws/ZE/ZENDMPE",
+  "members": [
+    {
+      "id": "ZENDMPE",
+      "title": "Zakon o evidentiranju nepremičnin, državne meje in prostorskih enot",
+      "shortTitle": "Zakon o evidentiranju nepremičnin, državne meje in prostorskih enot",
+      "shortCode": "ZENDMPE",
+      "kind": "zakon",
+      "keywords": [
+        "nepremičnine",
+        "državna meja",
+        "zemljiški kataster",
+        "popis"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2447",
+      "gazette": "Uradni list RS 52/2000  str. 6921",
+      "issuingBody": null,
+      "adoptedAt": "2000-06-13",
+      "validFrom": "2000-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2447",
+      "versions": [
+        {
+          "id": "ZENDMPE-original",
+          "shortCode": "ZENDMPE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/2000  str. 6921",
+          "publishedAt": "2000-06-13",
+          "effectiveFrom": "2000-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2447",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

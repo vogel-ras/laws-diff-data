@@ -1,0 +1,223 @@
+{
+  "root": "ZPSDP",
+  "path": "laws/ZP/ZPSDP",
+  "members": [
+    {
+      "id": "ZPSDP",
+      "title": "Zakon o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortTitle": "Zakon o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortCode": "ZPSDP",
+      "kind": "zakon",
+      "keywords": [
+        "negospodarski sektor",
+        "državni organi",
+        "dodatki in povračilo stroškov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-4007",
+      "gazette": "Uradni list RS 87/97  str. 8368",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-29",
+      "validFrom": "1997-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4007",
+      "versions": [
+        {
+          "id": "ZPSDP-original",
+          "shortCode": "ZPSDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/97  str. 8368",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4007",
+          "proposer": null
+        },
+        {
+          "id": "ZPSDP-amend-ZPSDP-A",
+          "shortCode": "ZPSDP-A",
+          "label": "Sprememba ZPSDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/98  str. 649",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0431",
+          "proposer": null
+        },
+        {
+          "id": "ZPSDP-amend-ZPSDP-B",
+          "shortCode": "ZPSDP-B",
+          "label": "Sprememba ZPSDP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 48/2001  str. 5238",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2643",
+          "proposer": null
+        },
+        {
+          "id": "ZPSDP-amend-ZPSDP-C",
+          "shortCode": "ZPSDP-C",
+          "label": "Sprememba ZPSDP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 8/20  str. 672",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0198",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSDP-A",
+      "title": "Zakon o spremembi zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortTitle": "Zakon o spremembi zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortCode": "ZPSDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "dodatki in povračilo stroškov",
+        "negospodarski sektor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-0431",
+      "gazette": "Uradni list RS 9/98  str. 649",
+      "issuingBody": null,
+      "adoptedAt": "1998-02-06",
+      "validFrom": "1998-02-06",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0431",
+      "versions": [
+        {
+          "id": "ZPSDP-A-original",
+          "shortCode": "ZPSDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/98  str. 649",
+          "publishedAt": "1998-02-06",
+          "effectiveFrom": "1998-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0431",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSDP-B",
+      "title": "Zakon o spremembah zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortTitle": "Zakon o spremembah zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortCode": "ZPSDP-B",
+      "kind": "zakon",
+      "keywords": [
+        "prehrana",
+        "odpravnina ob odpustu",
+        "delo",
+        "plačani dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2643",
+      "gazette": "Uradni list RS 48/2001  str. 5238",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-13",
+      "validFrom": "2001-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2643",
+      "versions": [
+        {
+          "id": "ZPSDP-B-original",
+          "shortCode": "ZPSDP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/2001  str. 5238",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2643",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSDP-C",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o višini povračil stroškov v zvezi z delom in nekaterih drugih prejemkov",
+      "shortCode": "ZPSDP-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0198",
+      "gazette": "Uradni list RS 8/20  str. 672",
+      "issuingBody": null,
+      "adoptedAt": "2020-02-07",
+      "validFrom": "2020-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0198",
+      "versions": [
+        {
+          "id": "ZPSDP-C-original",
+          "shortCode": "ZPSDP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/20  str. 672",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0198",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

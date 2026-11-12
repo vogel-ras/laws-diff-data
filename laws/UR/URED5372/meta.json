@@ -1,0 +1,58 @@
+{
+  "root": "URED5372",
+  "path": "laws/UR/URED5372",
+  "members": [
+    {
+      "id": "URED5372",
+      "title": "Uredba o fizikalno-kemijskih lastnostih tekočih goriv",
+      "shortTitle": "Uredba o fizikalno-kemijskih lastnostih tekočih goriv",
+      "shortCode": "URED5372",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-3198",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-09-23",
+      "validFrom": "2011-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-05-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3198",
+      "versions": [
+        {
+          "id": "URED5372-original",
+          "shortCode": "URED5372",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-23",
+          "effectiveFrom": "2011-09-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3198",
+          "proposer": null
+        },
+        {
+          "id": "URED5372-npb-URED5372",
+          "shortCode": "URED5372-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-05-02",
+          "effectiveFrom": "2026-05-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5372",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

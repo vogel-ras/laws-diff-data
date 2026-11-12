@@ -1,0 +1,161 @@
+{
+  "root": "ZEPEP",
+  "path": "laws/ZE/ZEPEP",
+  "members": [
+    {
+      "id": "ZAKO6795",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o elektronskem poslovanju in elektronskem podpisu (ZEPEP-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o elektronskem poslovanju in elektronskem podpisu (ZEPEP-B)",
+      "shortCode": "ZEPEP-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-1915",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-06-23",
+      "validFrom": "2014-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1915",
+      "versions": [
+        {
+          "id": "ZAKO6795-original",
+          "shortCode": "ZEPEP-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPEP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1915",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPEP",
+      "title": "Zakon o elektronskem poslovanju in elektronskem podpisu",
+      "shortTitle": "Zakon o elektronskem poslovanju in elektronskem podpisu",
+      "shortCode": "ZEPEP",
+      "kind": "zakon",
+      "keywords": [
+        "elektronski podpis",
+        "elektronsko poslovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2615",
+      "gazette": "Uradni list RS 57/2000  str. 7465",
+      "issuingBody": null,
+      "adoptedAt": "2000-06-23",
+      "validFrom": "2000-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2615",
+      "versions": [
+        {
+          "id": "ZEPEP-original",
+          "shortCode": "ZEPEP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/2000  str. 7465",
+          "publishedAt": "2000-06-23",
+          "effectiveFrom": "2000-06-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2615",
+          "proposer": null
+        },
+        {
+          "id": "ZEPEP-amend-ZEPEP-A",
+          "shortCode": "ZEPEP-A",
+          "label": "Sprememba ZEPEP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 25/04  str. 2839",
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEPEP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1066",
+          "proposer": null
+        },
+        {
+          "id": "ZEPEP-amend-ZAKO6795",
+          "shortCode": "ZEPEP-B",
+          "label": "Sprememba ZEPEP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2014-06-23",
+          "effectiveFrom": "2014-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPEP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1915",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEPEP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o elektronskem poslovanju in elektronskem podpisu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o elektronskem poslovanju in elektronskem podpisu",
+      "shortCode": "ZEPEP-A",
+      "kind": "zakon",
+      "keywords": [
+        "elektronski podpis",
+        "elektronsko poslovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1066",
+      "gazette": "Uradni list RS 25/04  str. 2839",
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1066",
+      "versions": [
+        {
+          "id": "ZEPEP-A-original",
+          "shortCode": "ZEPEP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/04  str. 2839",
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEPEP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1066",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

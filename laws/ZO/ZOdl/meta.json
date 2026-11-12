@@ -1,0 +1,104 @@
+{
+  "root": "ZOdl",
+  "path": "laws/ZO/ZOdl",
+  "members": [
+    {
+      "id": "ZOdl",
+      "title": "Zakon o odlikovanjih Republike Slovenije",
+      "shortTitle": "Zakon o odlikovanjih Republike Slovenije",
+      "shortCode": "ZOdl",
+      "kind": "zakon",
+      "keywords": [
+        "častno odlikovanje",
+        "Slovenija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0002",
+      "gazette": "Uradni list RS 1/95  str. 1",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0002",
+      "versions": [
+        {
+          "id": "ZOdl-original",
+          "shortCode": "ZOdl",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 1",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0002",
+          "proposer": null
+        },
+        {
+          "id": "ZOdl-amend-ZOdl-A",
+          "shortCode": "ZOdl-A",
+          "label": "Sprememba ZOdl-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 22/04  str. 2490",
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdl"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0919",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdl-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odlikovanjih Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odlikovanjih Republike Slovenije",
+      "shortCode": "ZOdl-A",
+      "kind": "zakon",
+      "keywords": [
+        "častno odlikovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0919",
+      "gazette": "Uradni list RS 22/04  str. 2490",
+      "issuingBody": null,
+      "adoptedAt": "2004-03-10",
+      "validFrom": "2004-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0919",
+      "versions": [
+        {
+          "id": "ZOdl-A-original",
+          "shortCode": "ZOdl-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/04  str. 2490",
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdl"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0919",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

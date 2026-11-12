@@ -1,0 +1,136 @@
+{
+  "root": "URED6951",
+  "path": "laws/UR/URED6951",
+  "members": [
+    {
+      "id": "URED6951",
+      "title": "Uredba o odvajanju in čiščenju komunalne odpadne vode",
+      "shortTitle": "Uredba o odvajanju in čiščenju komunalne odpadne vode",
+      "shortCode": "URED6951",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3842",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-18",
+      "validFrom": "2015-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3842",
+      "versions": [
+        {
+          "id": "URED6951-original",
+          "shortCode": "URED6951",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-18",
+          "effectiveFrom": "2015-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3842",
+          "proposer": null
+        },
+        {
+          "id": "URED6951-npb-URED6951",
+          "shortCode": "URED6951-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 5)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-18",
+          "effectiveFrom": "2015-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6951",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7834",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o odvajanju in čiščenju komunalne odpadne vode",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o odvajanju in čiščenju komunalne odpadne vode",
+      "shortCode": "URED7834",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-3723",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-12-27",
+      "validFrom": "2019-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3723",
+      "versions": [
+        {
+          "id": "URED7834-original",
+          "shortCode": "URED7834",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-27",
+          "effectiveFrom": "2019-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6951"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3723",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8378",
+      "title": "Uredba o spremembah Uredbe o odvajanju in čiščenju komunalne odpadne vode",
+      "shortTitle": "Uredba o spremembah Uredbe o odvajanju in čiščenju komunalne odpadne vode",
+      "shortCode": "URED8378",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-3885",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-12-10",
+      "validFrom": "2021-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2021-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3885",
+      "versions": [
+        {
+          "id": "URED8378-original",
+          "shortCode": "URED8378",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-10",
+          "effectiveFrom": "2021-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6951"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3885",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

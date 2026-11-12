@@ -1,0 +1,82 @@
+{
+  "root": "URED2752",
+  "path": "laws/UR/URED2752",
+  "members": [
+    {
+      "id": "URED2752",
+      "title": "Uredba o uvedbi in uporabi enotne klasifikacije vrst objektov in o določitvi objektov državnega pomena",
+      "shortTitle": "Uredba o uvedbi in uporabi enotne klasifikacije vrst objektov in o določitvi objektov državnega pomena",
+      "shortCode": "URED2752",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1359",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-03-26",
+      "validFrom": "2010-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1359",
+      "versions": [
+        {
+          "id": "URED2752-original",
+          "shortCode": "URED2752",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-26",
+          "effectiveFrom": "2010-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1359",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5429",
+      "title": "Uredba o spremembi Uredbe o uvedbi in uporabi enotne klasifikacije vrst objektov in o določitvi objektov državnega pomena",
+      "shortTitle": "Uredba o spremembi Uredbe o uvedbi in uporabi enotne klasifikacije vrst objektov in o določitvi objektov državnega pomena",
+      "shortCode": "URED5429",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1097",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-03-26",
+      "validFrom": "2010-03-26",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1097",
+      "versions": [
+        {
+          "id": "URED5429-original",
+          "shortCode": "URED5429",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-26",
+          "effectiveFrom": "2010-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2752"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1097",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

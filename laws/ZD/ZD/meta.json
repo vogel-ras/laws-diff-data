@@ -1,0 +1,216 @@
+{
+  "root": "ZD",
+  "path": "laws/ZD/ZD",
+  "members": [
+    {
+      "id": "ZAKO317",
+      "title": "Zakon o dedovanju (ZD)",
+      "shortTitle": "Zakon o dedovanju (ZD)",
+      "shortCode": "ZD",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1976-04-0645",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1976-06-04",
+      "validFrom": "1976-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1976-04-0645",
+      "versions": [
+        {
+          "id": "ZAKO317-original",
+          "shortCode": "ZD",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1976-06-04",
+          "effectiveFrom": "1976-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1976-04-0645",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO317-amend-ZD-B",
+          "shortCode": "ZD-B",
+          "label": "Sprememba ZD-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/2001  str. 6869",
+          "publishedAt": "2001-08-10",
+          "effectiveFrom": "2001-08-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3565",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO317-amend-ZD-C",
+          "shortCode": "ZD-C",
+          "label": "Sprememba ZD-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 63/16  str. 8787",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2687",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO317-amend-ZD-D",
+          "shortCode": "ZD-D",
+          "label": "Sprememba ZD-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 102/24  str. 10704",
+          "publishedAt": "2024-12-03",
+          "effectiveFrom": "2024-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3205",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZD-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o dedovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o dedovanju",
+      "shortCode": "ZD-B",
+      "kind": "zakon",
+      "keywords": [
+        "dedno pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3565",
+      "gazette": "Uradni list RS 67/2001  str. 6869",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-10",
+      "validFrom": "2001-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3565",
+      "versions": [
+        {
+          "id": "ZD-B-original",
+          "shortCode": "ZD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2001  str. 6869",
+          "publishedAt": "2001-08-10",
+          "effectiveFrom": "2001-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3565",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZD-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o dedovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o dedovanju",
+      "shortCode": "ZD-C",
+      "kind": "zakon",
+      "keywords": [
+        "dediščina",
+        "zakon"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2687",
+      "gazette": "Uradni list RS 63/16  str. 8787",
+      "issuingBody": null,
+      "adoptedAt": "2016-10-07",
+      "validFrom": "2016-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2687",
+      "versions": [
+        {
+          "id": "ZD-C-original",
+          "shortCode": "ZD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/16  str. 8787",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2687",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZD-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o dedovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o dedovanju",
+      "shortCode": "ZD-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3205",
+      "gazette": "Uradni list RS 102/24  str. 10704",
+      "issuingBody": null,
+      "adoptedAt": "2024-12-03",
+      "validFrom": "2024-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3205",
+      "versions": [
+        {
+          "id": "ZD-D-original",
+          "shortCode": "ZD-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/24  str. 10704",
+          "publishedAt": "2024-12-03",
+          "effectiveFrom": "2024-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO317"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3205",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

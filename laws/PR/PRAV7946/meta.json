@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7946",
+  "path": "laws/PR/PRAV7946",
+  "members": [
+    {
+      "id": "PRAV7946",
+      "title": "Pravilnik o čolnih in plavajočih napravah",
+      "shortTitle": "Pravilnik o čolnih in plavajočih napravah",
+      "shortCode": "PRAV7946",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0979",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-01-15",
+      "validFrom": "2010-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2010-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0979",
+      "versions": [
+        {
+          "id": "PRAV7946-original",
+          "shortCode": "PRAV7946",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-01-15",
+          "effectiveFrom": "2010-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0979",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7946-npb-PRAV7946",
+          "shortCode": "PRAV7946-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-14",
+          "effectiveFrom": "2008-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7946",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

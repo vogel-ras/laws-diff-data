@@ -1,0 +1,97 @@
+{
+  "root": "URED4609",
+  "path": "laws/UR/URED4609",
+  "members": [
+    {
+      "id": "URED4609",
+      "title": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob 250-letnici rojstva Valentina Vodnika",
+      "shortTitle": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob 250-letnici rojstva Valentina Vodnika",
+      "shortCode": "URED4609",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5126",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5126",
+      "versions": [
+        {
+          "id": "URED4609-original",
+          "shortCode": "URED4609",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5126",
+          "proposer": null
+        },
+        {
+          "id": "URED4609-npb-URED4609",
+          "shortCode": "URED4609-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4609",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4851",
+      "title": "Uredba o spremembi Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob 250-letnici rojstva Valentina Vodnika",
+      "shortTitle": "Uredba o spremembi Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob 250-letnici rojstva Valentina Vodnika",
+      "shortCode": "URED4851",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0259",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-01-25",
+      "validFrom": "2008-01-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0259",
+      "versions": [
+        {
+          "id": "URED4851-original",
+          "shortCode": "URED4851",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-25",
+          "effectiveFrom": "2008-01-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4609"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0259",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

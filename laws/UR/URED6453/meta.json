@@ -1,0 +1,97 @@
+{
+  "root": "URED6453",
+  "path": "laws/UR/URED6453",
+  "members": [
+    {
+      "id": "URED6453",
+      "title": "Uredba o državnem prostorskem načrtu za zagotavljanje poplavne varnosti jugozahodnega dela Ljubljane in naselij v občini Dobrova - Polhov Gradec",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za zagotavljanje poplavne varnosti jugozahodnega dela Ljubljane in naselij v občini Dobrova - Polhov Gradec",
+      "shortCode": "URED6453",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2724",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-09-02",
+      "validFrom": "2013-09-02",
+      "validTo": null,
+      "latestPublishedAt": "2013-09-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2724",
+      "versions": [
+        {
+          "id": "URED6453-original",
+          "shortCode": "URED6453",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-09-02",
+          "effectiveFrom": "2013-09-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2724",
+          "proposer": null
+        },
+        {
+          "id": "URED6453-npb-URED6453",
+          "shortCode": "URED6453-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-09-02",
+          "effectiveFrom": "2013-09-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6453",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7295",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o državnem prostorskem načrtu za zagotavljanje poplavne varnosti jugozahodnega dela Ljubljane in naselij v občini Dobrova - Polhov Gradec",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o državnem prostorskem načrtu za zagotavljanje poplavne varnosti jugozahodnega dela Ljubljane in naselij v občini Dobrova - Polhov Gradec",
+      "shortCode": "URED7295",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0161",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-01-20",
+      "validFrom": "2017-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0161",
+      "versions": [
+        {
+          "id": "URED7295-original",
+          "shortCode": "URED7295",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-01-20",
+          "effectiveFrom": "2017-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6453"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0161",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED9259",
+  "path": "laws/UR/URED9259",
+  "members": [
+    {
+      "id": "URED9259",
+      "title": "Uredba o delu plače za delovno uspešnost iz naslova prodaje blaga in storitev na trgu",
+      "shortTitle": "Uredba o delu plače za delovno uspešnost iz naslova prodaje blaga in storitev na trgu",
+      "shortCode": "URED9259",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3549",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-12-20",
+      "validFrom": "2024-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3549",
+      "versions": [
+        {
+          "id": "URED9259-original",
+          "shortCode": "URED9259",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3549",
+          "proposer": null
+        },
+        {
+          "id": "URED9259-npb-URED9259",
+          "shortCode": "URED9259-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9259",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9349",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o delu plače za delovno uspešnost iz naslova prodaje blaga in storitev na trgu",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o delu plače za delovno uspešnost iz naslova prodaje blaga in storitev na trgu",
+      "shortCode": "URED9349",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1339",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-05-09",
+      "validFrom": "2025-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1339",
+      "versions": [
+        {
+          "id": "URED9349-original",
+          "shortCode": "URED9349",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-09",
+          "effectiveFrom": "2025-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9259"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1339",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

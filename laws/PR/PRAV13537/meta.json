@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13537",
+  "path": "laws/PR/PRAV13537",
+  "members": [
+    {
+      "id": "PRAV13537",
+      "title": "Pravilnik o vsebini in obliki diplom ter potrdil o drugih oblikah izobraževanja na Visokošolskem zavodu Fizioterapevtika",
+      "shortTitle": "Pravilnik o vsebini in obliki diplom ter potrdil o drugih oblikah izobraževanja na Visokošolskem zavodu Fizioterapevtika",
+      "shortCode": "PRAV13537",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2119",
+      "gazette": null,
+      "issuingBody": "Visokošolski zavod Fizioterapevtika",
+      "adoptedAt": "2018-06-19",
+      "validFrom": "2018-06-19",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2119",
+      "versions": [
+        {
+          "id": "PRAV13537-original",
+          "shortCode": "PRAV13537",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-19",
+          "effectiveFrom": "2018-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2119",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13779",
+      "title": "Pravilnik o spremembi Pravilnika o vsebini in obliki diplom ter potrdil o drugih oblikah izobraževanja na Visokošolskem zavodu Fizioterapevtika",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vsebini in obliki diplom ter potrdil o drugih oblikah izobraževanja na Visokošolskem zavodu Fizioterapevtika",
+      "shortCode": "PRAV13779",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0928",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-04-05",
+      "validFrom": "2019-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0928",
+      "versions": [
+        {
+          "id": "PRAV13779-original",
+          "shortCode": "PRAV13779",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13537"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0928",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "root": "ZFS",
+  "path": "laws/ZF/ZFS",
+  "members": [
+    {
+      "id": "ZFS",
+      "title": "Zakon o filmskem skladu Republike Slovenije",
+      "shortTitle": "Zakon o filmskem skladu Republike Slovenije",
+      "shortCode": "ZFS",
+      "kind": "zakon",
+      "keywords": [
+        "filmska produkcija",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0664",
+      "gazette": "Uradni list RS 17/94  str. 941",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-01",
+      "validFrom": "1994-04-01",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0664",
+      "versions": [
+        {
+          "id": "ZFS-original",
+          "shortCode": "ZFS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/94  str. 941",
+          "publishedAt": "1994-04-01",
+          "effectiveFrom": "1994-04-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0664",
+          "proposer": null
+        },
+        {
+          "id": "ZFS-amend-ZFS-A",
+          "shortCode": "ZFS-A",
+          "label": "Sprememba ZFS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2001  str. 6062",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3150",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Filmskem skladu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Filmskem skladu Republike Slovenije",
+      "shortCode": "ZFS-A",
+      "kind": "zakon",
+      "keywords": [
+        "filmska produkcija",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3150",
+      "gazette": "Uradni list RS 59/2001  str. 6062",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-19",
+      "validFrom": "2001-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3150",
+      "versions": [
+        {
+          "id": "ZFS-A-original",
+          "shortCode": "ZFS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2001  str. 6062",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3150",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "root": "ZBS",
+  "path": "laws/ZB/ZBS",
+  "members": [
+    {
+      "id": "ZBS",
+      "title": "Zakon o Banki Slovenije",
+      "shortTitle": "Zakon o Banki Slovenije",
+      "shortCode": "ZBS",
+      "kind": "zakon",
+      "keywords": [
+        "centralna banka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0017",
+      "gazette": "Uradni list RS 1/91  str. 52",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0017",
+      "versions": [
+        {
+          "id": "ZBS-original",
+          "shortCode": "ZBS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 52",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0017",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBS-1",
+      "title": "Zakon o Banki Slovenije",
+      "shortTitle": "Zakon o Banki Slovenije",
+      "shortCode": "ZBS-1",
+      "kind": "zakon",
+      "keywords": [
+        "centralna banka",
+        "bankovci",
+        "denarni trg"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2814",
+      "gazette": "Uradni list RS 58/2002  str. 6067",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-04",
+      "validFrom": "2002-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2814",
+      "versions": [
+        {
+          "id": "ZBS-1-original",
+          "shortCode": "ZBS-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/2002  str. 6067",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2814",
+          "proposer": null
+        },
+        {
+          "id": "ZBS-1-amend-ZBS-1A",
+          "shortCode": "ZBS-1A",
+          "label": "Sprememba ZBS-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/06  str. 4142",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1676",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBS-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Banki Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Banki Slovenije",
+      "shortCode": "ZBS-1A",
+      "kind": "zakon",
+      "keywords": [
+        "evro",
+        "Evropska centralna banka",
+        "centralna banka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1676",
+      "gazette": "Uradni list RS 39/06  str. 4142",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-13",
+      "validFrom": "2006-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1676",
+      "versions": [
+        {
+          "id": "ZBS-1A-original",
+          "shortCode": "ZBS-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/06  str. 4142",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBS-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1676",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED2252",
+  "path": "laws/UR/URED2252",
+  "members": [
+    {
+      "id": "URED2252",
+      "title": "Uredba o določitvi ureditvenega območja mednarodnega mejnega prehoda Metlika",
+      "shortTitle": "Uredba o določitvi ureditvenega območja mednarodnega mejnega prehoda Metlika",
+      "shortCode": "URED2252",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-1140",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-03-22",
+      "validFrom": "2002-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1140",
+      "versions": [
+        {
+          "id": "URED2252-original",
+          "shortCode": "URED2252",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-22",
+          "effectiveFrom": "2002-03-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1140",
+          "proposer": null
+        },
+        {
+          "id": "URED2252-npb-URED2252",
+          "shortCode": "URED2252-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-03-22",
+          "effectiveFrom": "2002-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2252",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3284",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o določitvi ureditvenega območja mednarodnega mejnega prehoda Metlika",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o določitvi ureditvenega območja mednarodnega mejnega prehoda Metlika",
+      "shortCode": "URED3284",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0505",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-02-12",
+      "validFrom": "2004-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0505",
+      "versions": [
+        {
+          "id": "URED3284-original",
+          "shortCode": "URED3284",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-12",
+          "effectiveFrom": "2004-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2252"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0505",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

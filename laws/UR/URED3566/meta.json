@@ -1,0 +1,82 @@
+{
+  "root": "URED3566",
+  "path": "laws/UR/URED3566",
+  "members": [
+    {
+      "id": "URED3566",
+      "title": "Uredba o izvajanju Uredb Sveta in Evropske Komisije o ukrepu informiranja in promocije kmetijskih proizvodov",
+      "shortTitle": "Uredba o izvajanju Uredb Sveta in Evropske Komisije o ukrepu informiranja in promocije kmetijskih proizvodov",
+      "shortCode": "URED3566",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0138",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-01-21",
+      "validFrom": "2005-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2005-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0138",
+      "versions": [
+        {
+          "id": "URED3566-original",
+          "shortCode": "URED3566",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-01-21",
+          "effectiveFrom": "2005-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0138",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3954",
+      "title": "Uredba o spremembah Uredbe o izvajanju uredb Sveta in Evropske komisije o ukrepu informiranja in promocije kmetijskih proizvodov",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju uredb Sveta in Evropske komisije o ukrepu informiranja in promocije kmetijskih proizvodov",
+      "shortCode": "URED3954",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-0269",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-01-24",
+      "validFrom": "2006-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0269",
+      "versions": [
+        {
+          "id": "URED3954-original",
+          "shortCode": "URED3954",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3566"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0269",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

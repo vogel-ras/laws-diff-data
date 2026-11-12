@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4069",
+  "path": "laws/PR/PRAV4069",
+  "members": [
+    {
+      "id": "PRAV4069",
+      "title": "Pravilnik o projektni in tehnični dokumentaciji",
+      "shortTitle": "Pravilnik o projektni in tehnični dokumentaciji",
+      "shortCode": "PRAV4069",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2995",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2004-06-18",
+      "validFrom": "2004-06-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2995",
+      "versions": [
+        {
+          "id": "PRAV4069-original",
+          "shortCode": "PRAV4069",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-18",
+          "effectiveFrom": "2004-06-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2995",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6280",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o projektni in tehnični dokumentaciji",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o projektni in tehnični dokumentaciji",
+      "shortCode": "PRAV6280",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2295",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-06-03",
+      "validFrom": "2005-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2295",
+      "versions": [
+        {
+          "id": "PRAV6280-original",
+          "shortCode": "PRAV6280",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-03",
+          "effectiveFrom": "2005-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4069"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2295",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

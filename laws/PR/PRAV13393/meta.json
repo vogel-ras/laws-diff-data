@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13393",
+  "path": "laws/PR/PRAV13393",
+  "members": [
+    {
+      "id": "PRAV13393",
+      "title": "Pravilnik o kolesarskih povezavah",
+      "shortTitle": "Pravilnik o kolesarskih povezavah",
+      "shortCode": "PRAV13393",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1275",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-26",
+      "validFrom": "2018-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1275",
+      "versions": [
+        {
+          "id": "PRAV13393-original",
+          "shortCode": "PRAV13393",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-26",
+          "effectiveFrom": "2018-04-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1275",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13393-npb-PRAV13393",
+          "shortCode": "PRAV13393-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-26",
+          "effectiveFrom": "2018-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13393",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13869",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o kolesarskih povezavah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o kolesarskih povezavah",
+      "shortCode": "PRAV13869",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-2882",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-10-30",
+      "validFrom": "2019-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2882",
+      "versions": [
+        {
+          "id": "PRAV13869-original",
+          "shortCode": "PRAV13869",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-10-30",
+          "effectiveFrom": "2019-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13393"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2882",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

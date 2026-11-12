@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14722",
+  "path": "laws/PR/PRAV14722",
+  "members": [
+    {
+      "id": "PRAV14722",
+      "title": "Pravilnik o ovojnici, vročilnici in drugih sporočilih za vročanje v upravnem postopku",
+      "shortTitle": "Pravilnik o ovojnici, vročilnici in drugih sporočilih za vročanje v upravnem postopku",
+      "shortCode": "PRAV14722",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2177",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-07-01",
+      "validFrom": "2022-07-01",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2177",
+      "versions": [
+        {
+          "id": "PRAV14722-original",
+          "shortCode": "PRAV14722",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-01",
+          "effectiveFrom": "2022-07-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2177",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14722-npb-PRAV14722",
+          "shortCode": "PRAV14722-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-26",
+          "effectiveFrom": "2026-02-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14722",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16041",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o ovojnici, vročilnici in drugih sporočilih za vročanje v upravnem postopku",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o ovojnici, vročilnici in drugih sporočilih za vročanje v upravnem postopku",
+      "shortCode": "PRAV16041",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0580",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2026-02-25",
+      "validFrom": "2026-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0580",
+      "versions": [
+        {
+          "id": "PRAV16041-original",
+          "shortCode": "PRAV16041",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14722"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0580",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

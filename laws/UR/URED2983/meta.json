@@ -1,0 +1,97 @@
+{
+  "root": "URED2983",
+  "path": "laws/UR/URED2983",
+  "members": [
+    {
+      "id": "URED2983",
+      "title": "Uredba o republiških priznavalninah na področju kulture",
+      "shortTitle": "Uredba o republiških priznavalninah na področju kulture",
+      "shortCode": "URED2983",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3369",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-18",
+      "validFrom": "2003-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3369",
+      "versions": [
+        {
+          "id": "URED2983-original",
+          "shortCode": "URED2983",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3369",
+          "proposer": null
+        },
+        {
+          "id": "URED2983-npb-URED2983",
+          "shortCode": "URED2983-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-18",
+          "effectiveFrom": "2003-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2983",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6501",
+      "title": "Uredba o spremembah Uredbe o republiških priznavalninah na področju kulture",
+      "shortTitle": "Uredba o spremembah Uredbe o republiških priznavalninah na področju kulture",
+      "shortCode": "URED6501",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2135",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-06-28",
+      "validFrom": "2013-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2135",
+      "versions": [
+        {
+          "id": "URED6501-original",
+          "shortCode": "URED6501",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-06-28",
+          "effectiveFrom": "2013-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2983"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2135",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

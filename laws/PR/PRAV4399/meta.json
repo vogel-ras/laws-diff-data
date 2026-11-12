@@ -1,0 +1,58 @@
+{
+  "root": "PRAV4399",
+  "path": "laws/PR/PRAV4399",
+  "members": [
+    {
+      "id": "PRAV4399",
+      "title": "Pravilnik o uniformah Civilne zaščite Republike Slovenije",
+      "shortTitle": "Pravilnik o uniformah Civilne zaščite Republike Slovenije",
+      "shortCode": "PRAV4399",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4671",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2002-11-04",
+      "validFrom": "2002-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4671",
+      "versions": [
+        {
+          "id": "PRAV4399-original",
+          "shortCode": "PRAV4399",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-04",
+          "effectiveFrom": "2002-11-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4671",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4399-npb-PRAV4399",
+          "shortCode": "PRAV4399-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-11-04",
+          "effectiveFrom": "2002-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4399",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

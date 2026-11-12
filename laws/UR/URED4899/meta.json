@@ -1,0 +1,82 @@
+{
+  "root": "URED4899",
+  "path": "laws/UR/URED4899",
+  "members": [
+    {
+      "id": "URED4899",
+      "title": "Uredba o pristaniških zmogljivostih za prevzem ladijskih odpadkov in ostankov tovora",
+      "shortTitle": "Uredba o pristaniških zmogljivostih za prevzem ladijskih odpadkov in ostankov tovora",
+      "shortCode": "URED4899",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3491",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-07-30",
+      "validFrom": "2008-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3491",
+      "versions": [
+        {
+          "id": "URED4899-original",
+          "shortCode": "URED4899",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-30",
+          "effectiveFrom": "2008-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3491",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7383",
+      "title": "Uredba o spremembah Uredbe o pristaniških zmogljivostih za prevzem ladijskih odpadkov in ostankov tovora",
+      "shortTitle": "Uredba o spremembah Uredbe o pristaniških zmogljivostih za prevzem ladijskih odpadkov in ostankov tovora",
+      "shortCode": "URED7383",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0544",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-03-10",
+      "validFrom": "2017-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0544",
+      "versions": [
+        {
+          "id": "URED7383-original",
+          "shortCode": "URED7383",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-10",
+          "effectiveFrom": "2017-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4899"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0544",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

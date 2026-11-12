@@ -1,0 +1,58 @@
+{
+  "root": "URED6061",
+  "path": "laws/UR/URED6061",
+  "members": [
+    {
+      "id": "URED6061",
+      "title": "Uredba o emisiji hlapnih organskih spojin v zrak iz naprav za skladiščenje in pretakanje bencina",
+      "shortTitle": "Uredba o emisiji hlapnih organskih spojin v zrak iz naprav za skladiščenje in pretakanje bencina",
+      "shortCode": "URED6061",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1612",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-05-18",
+      "validFrom": "2012-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1612",
+      "versions": [
+        {
+          "id": "URED6061-original",
+          "shortCode": "URED6061",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-05-18",
+          "effectiveFrom": "2012-05-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1612",
+          "proposer": null
+        },
+        {
+          "id": "URED6061-npb-URED6061",
+          "shortCode": "URED6061-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-05-18",
+          "effectiveFrom": "2012-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6061",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

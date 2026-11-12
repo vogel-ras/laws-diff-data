@@ -1,0 +1,143 @@
+{
+  "root": "ZPFOLERD",
+  "path": "laws/ZP/ZPFOLERD",
+  "members": [
+    {
+      "id": "ZAKO5261",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti (ZPFOLERD-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti (ZPFOLERD-A)",
+      "shortCode": "ZPFOLERD-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2820",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-06-30",
+      "validFrom": "2008-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2820",
+      "versions": [
+        {
+          "id": "ZAKO5261-original",
+          "shortCode": "ZPFOLERD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFOLERD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2820",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPFOLERD",
+      "title": "Zakon o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti",
+      "shortTitle": "Zakon o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti",
+      "shortCode": "ZPFOLERD",
+      "kind": "zakon",
+      "keywords": [
+        "preglednost uprave",
+        "ekonomski odnosi",
+        "državni organi",
+        "javne finance",
+        "državna pomoč",
+        "finančno poslovodenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2827",
+      "gazette": "Uradni list RS 53/07  str. 7245",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-15",
+      "validFrom": "2007-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2827",
+      "versions": [
+        {
+          "id": "ZPFOLERD-original",
+          "shortCode": "ZPFOLERD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/07  str. 7245",
+          "publishedAt": "2007-06-15",
+          "effectiveFrom": "2007-06-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2827",
+          "proposer": null
+        },
+        {
+          "id": "ZPFOLERD-amend-ZAKO5261",
+          "shortCode": "ZPFOLERD-A",
+          "label": "Sprememba ZPFOLERD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPFOLERD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2820",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPFOLERD-1",
+      "title": "Zakon o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti",
+      "shortTitle": "Zakon o preglednosti finančnih odnosov in ločenem evidentiranju različnih dejavnosti",
+      "shortCode": "ZPFOLERD-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1584",
+      "gazette": "Uradni list RS 33/11  str. 4379",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-03",
+      "validFrom": "2011-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1584",
+      "versions": [
+        {
+          "id": "ZPFOLERD-1-original",
+          "shortCode": "ZPFOLERD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/11  str. 4379",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1584",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+{
+  "root": "ZLD",
+  "path": "laws/ZL/ZLD",
+  "members": [
+    {
+      "id": "ZLD",
+      "title": "Zakon o lekarniški dejavnosti",
+      "shortTitle": "Zakon o lekarniški dejavnosti",
+      "shortCode": "ZLD",
+      "kind": "zakon",
+      "keywords": [
+        "javno zdravje",
+        "lekarna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0461",
+      "gazette": "Uradni list RS 9/92  str. 601",
+      "issuingBody": null,
+      "adoptedAt": "1992-02-21",
+      "validFrom": "1992-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0461",
+      "versions": [
+        {
+          "id": "ZLD-original",
+          "shortCode": "ZLD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/92  str. 601",
+          "publishedAt": "1992-02-21",
+          "effectiveFrom": "1992-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0461",
+          "proposer": null
+        },
+        {
+          "id": "ZLD-amend-ZLD-A",
+          "shortCode": "ZLD-A",
+          "label": "Sprememba ZLD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/99  str. 4469",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1873",
+          "proposer": null
+        },
+        {
+          "id": "ZLD-amend-ZLD-B",
+          "shortCode": "ZLD-B",
+          "label": "Sprememba ZLD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 2/04  str. 163",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0065",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLD-1",
+      "title": "Zakon o lekarniški dejavnosti",
+      "shortTitle": "Zakon o lekarniški dejavnosti",
+      "shortCode": "ZLD-1",
+      "kind": "zakon",
+      "keywords": [
+        "lekarna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-3687",
+      "gazette": "Uradni list RS 85/16  str. 12731",
+      "issuingBody": null,
+      "adoptedAt": "2016-12-28",
+      "validFrom": "2016-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2021-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3687",
+      "versions": [
+        {
+          "id": "ZLD-1-original",
+          "shortCode": "ZLD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/16  str. 12731",
+          "publishedAt": "2016-12-28",
+          "effectiveFrom": "2016-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3687",
+          "proposer": null
+        },
+        {
+          "id": "ZLD-1-amend-ZLD-1B",
+          "shortCode": "ZLD-1B",
+          "label": "Sprememba ZLD-1B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 73/19  str. 8799",
+          "publishedAt": "2019-12-06",
+          "effectiveFrom": "2019-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3227",
+          "proposer": null
+        },
+        {
+          "id": "ZLD-1-amend-ZLD-1C",
+          "shortCode": "ZLD-1C",
+          "label": "Sprememba ZLD-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 186/21  str. 10963",
+          "publishedAt": "2021-11-30",
+          "effectiveFrom": "2021-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLD-1B",
+      "title": "Zakon o spremembi Zakona o lekarniški dejavnosti",
+      "shortTitle": "Zakon o spremembi Zakona o lekarniški dejavnosti",
+      "shortCode": "ZLD-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3227",
+      "gazette": "Uradni list RS 73/19  str. 8799",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-06",
+      "validFrom": "2019-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3227",
+      "versions": [
+        {
+          "id": "ZLD-1B-original",
+          "shortCode": "ZLD-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/19  str. 8799",
+          "publishedAt": "2019-12-06",
+          "effectiveFrom": "2019-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3227",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLD-1C",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o lekarniški dejavnosti",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o lekarniški dejavnosti",
+      "shortCode": "ZLD-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-3698",
+      "gazette": "Uradni list RS 186/21  str. 10963",
+      "issuingBody": null,
+      "adoptedAt": "2021-11-30",
+      "validFrom": "2021-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2021-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3698",
+      "versions": [
+        {
+          "id": "ZLD-1C-original",
+          "shortCode": "ZLD-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 186/21  str. 10963",
+          "publishedAt": "2021-11-30",
+          "effectiveFrom": "2021-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLD-A",
+      "title": "Zakon o dopolnitvi zakona o lekarniški dejavnosti",
+      "shortTitle": "Zakon o dopolnitvi zakona o lekarniški dejavnosti",
+      "shortCode": "ZLD-A",
+      "kind": "zakon",
+      "keywords": [
+        "lekarna",
+        "lekarnar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1873",
+      "gazette": "Uradni list RS 38/99  str. 4469",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-21",
+      "validFrom": "1999-05-21",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1873",
+      "versions": [
+        {
+          "id": "ZLD-A-original",
+          "shortCode": "ZLD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/99  str. 4469",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1873",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZLD-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o lekarniški dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o lekarniški dejavnosti",
+      "shortCode": "ZLD-B",
+      "kind": "zakon",
+      "keywords": [
+        "lekarna",
+        "lekarnar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0065",
+      "gazette": "Uradni list RS 2/04  str. 163",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0065",
+      "versions": [
+        {
+          "id": "ZLD-B-original",
+          "shortCode": "ZLD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 163",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZLD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0065",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

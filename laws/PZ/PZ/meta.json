@@ -1,0 +1,512 @@
+{
+  "root": "PZ",
+  "path": "laws/PZ/PZ",
+  "members": [
+    {
+      "id": "PZ",
+      "title": "Pomorski zakonik",
+      "shortTitle": "Pomorski zakonik",
+      "shortCode": "PZ",
+      "kind": "zakon",
+      "keywords": [
+        "območje proste trgovine",
+        "brezcarinska prodaja",
+        "prosta cona"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1582",
+      "gazette": "Uradni list RS 26/2001  str. 2677",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-12",
+      "validFrom": "2001-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1582",
+      "versions": [
+        {
+          "id": "PZ-original",
+          "shortCode": "PZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/2001  str. 2677",
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1582",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-A",
+          "shortCode": "PZ-A",
+          "label": "Sprememba PZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/2002  str. 1585",
+          "publishedAt": "2002-02-11",
+          "effectiveFrom": "2002-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0908",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-B",
+          "shortCode": "PZ-B",
+          "label": "Sprememba PZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 2/04  str. 238",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0077",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-C",
+          "shortCode": "PZ-C",
+          "label": "Sprememba PZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 49/06  str. 5269",
+          "publishedAt": "2006-05-12",
+          "effectiveFrom": "2006-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2092",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-D",
+          "shortCode": "PZ-D",
+          "label": "Sprememba PZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 88/10  str. 13395",
+          "publishedAt": "2010-11-05",
+          "effectiveFrom": "2010-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4707",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-F",
+          "shortCode": "PZ-F",
+          "label": "Sprememba PZ-F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 33/16  str. 4823",
+          "publishedAt": "2016-05-09",
+          "effectiveFrom": "2016-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1428",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-ZAKO7576",
+          "shortCode": "PZ-G",
+          "label": "Sprememba PZ-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": null,
+          "publishedAt": "2017-07-22",
+          "effectiveFrom": "2017-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2066",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-H",
+          "shortCode": "PZ-H",
+          "label": "Sprememba PZ-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 18/21  str. 1207",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0411",
+          "proposer": null
+        },
+        {
+          "id": "PZ-amend-PZ-I",
+          "shortCode": "PZ-I",
+          "label": "Sprememba PZ-I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 76/23  str. 6682",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2394",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-A",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "pomorsko pravo",
+        "zakonik",
+        "plovilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0908",
+      "gazette": "Uradni list RS 21/2002  str. 1585",
+      "issuingBody": null,
+      "adoptedAt": "2002-02-11",
+      "validFrom": "2002-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0908",
+      "versions": [
+        {
+          "id": "PZ-A-original",
+          "shortCode": "PZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/2002  str. 1585",
+          "publishedAt": "2002-02-11",
+          "effectiveFrom": "2002-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0908",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-B",
+      "title": "Zakon o dopolnitvah pomorskega zakonika",
+      "shortTitle": "Zakon o dopolnitvah pomorskega zakonika",
+      "shortCode": "PZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "morje",
+        "plovilo",
+        "pomorsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0077",
+      "gazette": "Uradni list RS 2/04  str. 238",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0077",
+      "versions": [
+        {
+          "id": "PZ-B-original",
+          "shortCode": "PZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 238",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0077",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-C",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "pomorsko pravo",
+        "zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2092",
+      "gazette": "Uradni list RS 49/06  str. 5269",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-12",
+      "validFrom": "2006-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2092",
+      "versions": [
+        {
+          "id": "PZ-C-original",
+          "shortCode": "PZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/06  str. 5269",
+          "publishedAt": "2006-05-12",
+          "effectiveFrom": "2006-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2092",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-D",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "pomorsko pravo",
+        "zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4707",
+      "gazette": "Uradni list RS 88/10  str. 13395",
+      "issuingBody": null,
+      "adoptedAt": "2010-11-05",
+      "validFrom": "2010-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4707",
+      "versions": [
+        {
+          "id": "PZ-D-original",
+          "shortCode": "PZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 88/10  str. 13395",
+          "publishedAt": "2010-11-05",
+          "effectiveFrom": "2010-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4707",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-F",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-F",
+      "kind": "zakon",
+      "keywords": [
+        "pomorska politika",
+        "zakonik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1428",
+      "gazette": "Uradni list RS 33/16  str. 4823",
+      "issuingBody": null,
+      "adoptedAt": "2016-05-09",
+      "validFrom": "2016-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1428",
+      "versions": [
+        {
+          "id": "PZ-F-original",
+          "shortCode": "PZ-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/16  str. 4823",
+          "publishedAt": "2016-05-09",
+          "effectiveFrom": "2016-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1428",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-H",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0411",
+      "gazette": "Uradni list RS 18/21  str. 1207",
+      "issuingBody": null,
+      "adoptedAt": "2021-02-09",
+      "validFrom": "2021-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0411",
+      "versions": [
+        {
+          "id": "PZ-H-original",
+          "shortCode": "PZ-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/21  str. 1207",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0411",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PZ-I",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika",
+      "shortCode": "PZ-I",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2394",
+      "gazette": "Uradni list RS 76/23  str. 6682",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2394",
+      "versions": [
+        {
+          "id": "PZ-I-original",
+          "shortCode": "PZ-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6682",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2394",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7576",
+      "title": "Zakon o spremembah in dopolnitvah Pomorskega zakonika (PZ-G)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Pomorskega zakonika (PZ-G)",
+      "shortCode": "PZ-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2066",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-22",
+      "validFrom": "2017-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2066",
+      "versions": [
+        {
+          "id": "ZAKO7576-original",
+          "shortCode": "PZ-G",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-22",
+          "effectiveFrom": "2017-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2066",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

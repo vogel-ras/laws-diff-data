@@ -1,0 +1,43 @@
+{
+  "root": "ZKN",
+  "path": "laws/ZK/ZKN",
+  "members": [
+    {
+      "id": "ZKN",
+      "title": "Zakon o katastru nepremičnin",
+      "shortTitle": "Zakon o katastru nepremičnin",
+      "shortCode": "ZKN",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1047",
+      "gazette": "Uradni list RS 54/21  str. 3123",
+      "issuingBody": null,
+      "adoptedAt": "2021-04-09",
+      "validFrom": "2021-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1047",
+      "versions": [
+        {
+          "id": "ZKN-original",
+          "shortCode": "ZKN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/21  str. 3123",
+          "publishedAt": "2021-04-09",
+          "effectiveFrom": "2021-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1047",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

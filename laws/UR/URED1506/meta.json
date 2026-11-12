@@ -1,0 +1,97 @@
+{
+  "root": "URED1506",
+  "path": "laws/UR/URED1506",
+  "members": [
+    {
+      "id": "URED1506",
+      "title": "Uredba o lokacijskem načrtu za avtocesto na odseku Kronovo-Smednik",
+      "shortTitle": "Uredba o lokacijskem načrtu za avtocesto na odseku Kronovo-Smednik",
+      "shortCode": "URED1506",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-1674",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-04-13",
+      "validFrom": "2001-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1674",
+      "versions": [
+        {
+          "id": "URED1506-original",
+          "shortCode": "URED1506",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-13",
+          "effectiveFrom": "2001-04-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1674",
+          "proposer": null
+        },
+        {
+          "id": "URED1506-npb-URED1506",
+          "shortCode": "URED1506-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-04-13",
+          "effectiveFrom": "2001-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1506",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2094",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o lokacijskem načrtu za avtocesto na odseku Kronovo-Smednik",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o lokacijskem načrtu za avtocesto na odseku Kronovo-Smednik",
+      "shortCode": "URED2094",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0447",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-02-06",
+      "validFrom": "2002-02-06",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0447",
+      "versions": [
+        {
+          "id": "URED2094-original",
+          "shortCode": "URED2094",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-06",
+          "effectiveFrom": "2002-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1506"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0447",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "root": "ZSOS",
+  "path": "laws/ZS/ZSOS",
+  "members": [
+    {
+      "id": "ZSOS",
+      "title": "Zakon o Slovenskem odškodninskem skladu",
+      "shortTitle": "Zakon o Slovenskem odškodninskem skladu",
+      "shortCode": "ZSOS",
+      "kind": "zakon",
+      "keywords": [
+        "odškodnina",
+        "privatizacija",
+        "zaplemba premoženja",
+        "lastnina",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0294",
+      "gazette": "Uradni list RS 7/93  str. 265",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-04",
+      "validFrom": "1993-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0294",
+      "versions": [
+        {
+          "id": "ZSOS-original",
+          "shortCode": "ZSOS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/93  str. 265",
+          "publishedAt": "1993-02-04",
+          "effectiveFrom": "1993-02-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0294",
+          "proposer": null
+        },
+        {
+          "id": "ZSOS-amend-ZSOS-A",
+          "shortCode": "ZSOS-A",
+          "label": "Sprememba ZSOS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 48/94  str. 3020",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSOS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1826",
+          "proposer": null
+        },
+        {
+          "id": "ZSOS-amend-ZSOS-B",
+          "shortCode": "ZSOS-B",
+          "label": "Sprememba ZSOS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/11  str. 835",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0321",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSOS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Slovenskem odškodninskem skladu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Slovenskem odškodninskem skladu",
+      "shortCode": "ZSOS-A",
+      "kind": "zakon",
+      "keywords": [
+        "odškodnina",
+        "zaplemba premoženja",
+        "lastnina",
+        "privatizacija",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1826",
+      "gazette": "Uradni list RS 48/94  str. 3020",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1826",
+      "versions": [
+        {
+          "id": "ZSOS-A-original",
+          "shortCode": "ZSOS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/94  str. 3020",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1826",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSOS-B",
+      "title": "Zakon o dopolnitvi Zakona o Slovenskem odškodninskem skladu",
+      "shortTitle": "Zakon o dopolnitvi Zakona o Slovenskem odškodninskem skladu",
+      "shortCode": "ZSOS-B",
+      "kind": "zakon",
+      "keywords": [
+        "odškodnina",
+        "zaplemba premoženja",
+        "sklad",
+        "lastnina",
+        "privatizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0321",
+      "gazette": "Uradni list RS 9/11  str. 835",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0321",
+      "versions": [
+        {
+          "id": "ZSOS-B-original",
+          "shortCode": "ZSOS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 835",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSOS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0321",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

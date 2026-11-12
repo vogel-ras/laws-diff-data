@@ -1,0 +1,277 @@
+{
+  "root": "ZVPoz",
+  "path": "laws/ZV/ZVPoz",
+  "members": [
+    {
+      "id": "ZVPoz",
+      "title": "Zakon o varstvu pred požarom",
+      "shortTitle": "Zakon o varstvu pred požarom",
+      "shortCode": "ZVPoz",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pred požarom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2577",
+      "gazette": "Uradni list RS 71/93  str. 3702",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-30",
+      "validFrom": "1993-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2577",
+      "versions": [
+        {
+          "id": "ZVPoz-original",
+          "shortCode": "ZVPoz",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/93  str. 3702",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2577",
+          "proposer": null
+        },
+        {
+          "id": "ZVPoz-amend-ZVPoz-A",
+          "shortCode": "ZVPoz-A",
+          "label": "Sprememba ZVPoz-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 87/2001  str. 8693",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4447",
+          "proposer": null
+        },
+        {
+          "id": "ZVPoz-amend-ZVPoz-B",
+          "shortCode": "ZVPoz-B",
+          "label": "Sprememba ZVPoz-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 105/06  str. 10637",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4491",
+          "proposer": null
+        },
+        {
+          "id": "ZVPoz-amend-ZVPoz-C",
+          "shortCode": "ZVPoz-C",
+          "label": "Sprememba ZVPoz-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 9/11  str. 836",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0323",
+          "proposer": null
+        },
+        {
+          "id": "ZVPoz-amend-ZVPoz-D",
+          "shortCode": "ZVPoz-D",
+          "label": "Sprememba ZVPoz-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 83/12  str. 8560",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3292",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPoz-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom",
+      "shortCode": "ZVPoz-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pred požarom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4447",
+      "gazette": "Uradni list RS 87/2001  str. 8693",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-08",
+      "validFrom": "2001-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4447",
+      "versions": [
+        {
+          "id": "ZVPoz-A-original",
+          "shortCode": "ZVPoz-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2001  str. 8693",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4447",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPoz-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu pred požarom",
+      "shortCode": "ZVPoz-B",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pred požarom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4491",
+      "gazette": "Uradni list RS 105/06  str. 10637",
+      "issuingBody": null,
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4491",
+      "versions": [
+        {
+          "id": "ZVPoz-B-original",
+          "shortCode": "ZVPoz-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 105/06  str. 10637",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4491",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPoz-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom",
+      "shortCode": "ZVPoz-C",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pred požarom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0323",
+      "gazette": "Uradni list RS 9/11  str. 836",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0323",
+      "versions": [
+        {
+          "id": "ZVPoz-C-original",
+          "shortCode": "ZVPoz-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 836",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0323",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPoz-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred požarom",
+      "shortCode": "ZVPoz-D",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pred požarom"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3292",
+      "gazette": "Uradni list RS 83/12  str. 8560",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-06",
+      "validFrom": "2012-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3292",
+      "versions": [
+        {
+          "id": "ZVPoz-D-original",
+          "shortCode": "ZVPoz-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/12  str. 8560",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPoz"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3292",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

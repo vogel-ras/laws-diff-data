@@ -1,0 +1,104 @@
+{
+  "root": "ZGPHKD",
+  "path": "laws/ZG/ZGPHKD",
+  "members": [
+    {
+      "id": "ZGPHKD",
+      "title": "Zakon o ureditvi določenih vprašanj, v zvezi z graditvijo železniške proge na smeri Puconci - Hodoš - državna meja, in dograditvijo drugega tira železniške proge Koper - Divača",
+      "shortTitle": "Zakon o ureditvi določenih vprašanj, v zvezi z graditvijo železniške proge na smeri Puconci - Hodoš - državna meja, in dograditvijo drugega tira železniške proge Koper - Divača",
+      "shortCode": "ZGPHKD",
+      "kind": "zakon",
+      "keywords": [
+        "železniško omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2449",
+      "gazette": "Uradni list RS 38/96  str. 3274",
+      "issuingBody": null,
+      "adoptedAt": "1996-07-19",
+      "validFrom": "1996-07-19",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2449",
+      "versions": [
+        {
+          "id": "ZGPHKD-original",
+          "shortCode": "ZGPHKD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/96  str. 3274",
+          "publishedAt": "1996-07-19",
+          "effectiveFrom": "1996-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2449",
+          "proposer": null
+        },
+        {
+          "id": "ZGPHKD-amend-ZGPHKD-A",
+          "shortCode": "ZGPHKD-A",
+          "label": "Sprememba ZGPHKD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 48/98  str. 3417",
+          "publishedAt": "1998-06-30",
+          "effectiveFrom": "1998-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGPHKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2110",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGPHKD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ureditvi določenih vprašanj v zvezi z graditvijo železniške proge na smeri Puconci - Hodoš - državna meja in dograditvijo drugega tira železniške proge Koper - Divača",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ureditvi določenih vprašanj v zvezi z graditvijo železniške proge na smeri Puconci - Hodoš - državna meja in dograditvijo drugega tira železniške proge Koper - Divača",
+      "shortCode": "ZGPHKD-A",
+      "kind": "zakon",
+      "keywords": [
+        "železniško omrežje",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2110",
+      "gazette": "Uradni list RS 48/98  str. 3417",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-30",
+      "validFrom": "1998-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2110",
+      "versions": [
+        {
+          "id": "ZGPHKD-A-original",
+          "shortCode": "ZGPHKD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/98  str. 3417",
+          "publishedAt": "1998-06-30",
+          "effectiveFrom": "1998-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGPHKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2110",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "ODRE90",
+  "path": "laws/OD/ODRE90",
+  "members": [
+    {
+      "id": "ODRE90",
+      "title": "Odredba o označevanju domačih živali v prometu",
+      "shortTitle": "Odredba o označevanju domačih živali v prometu",
+      "shortCode": "ODRE90",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1545",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1545",
+      "versions": [
+        {
+          "id": "ODRE90-original",
+          "shortCode": "ODRE90",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1545",
+          "proposer": null
+        },
+        {
+          "id": "ODRE90-npb-ODRE90",
+          "shortCode": "ODRE90-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 5)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE90",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE95",
+      "title": "Odredba o spremembi odredbe o označevanju domačih živali v prometu",
+      "shortTitle": "Odredba o spremembi odredbe o označevanju domačih živali v prometu",
+      "shortCode": "ODRE95",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1994-01-1788",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-07-30",
+      "validFrom": "1994-07-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1788",
+      "versions": [
+        {
+          "id": "ODRE95-original",
+          "shortCode": "ODRE95",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-30",
+          "effectiveFrom": "1994-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE90"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1788",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

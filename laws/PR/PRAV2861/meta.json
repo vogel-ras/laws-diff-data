@@ -1,0 +1,97 @@
+{
+  "root": "PRAV2861",
+  "path": "laws/PR/PRAV2861",
+  "members": [
+    {
+      "id": "PRAV2861",
+      "title": "Pravilnik o pogojih za zavetišča za zapuščene živali",
+      "shortTitle": "Pravilnik o pogojih za zavetišča za zapuščene živali",
+      "shortCode": "PRAV2861",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2089",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2000-05-27",
+      "validFrom": "2000-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2089",
+      "versions": [
+        {
+          "id": "PRAV2861-original",
+          "shortCode": "PRAV2861",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-05-27",
+          "effectiveFrom": "2000-05-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2089",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2861-npb-PRAV2861",
+          "shortCode": "PRAV2861-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-05-27",
+          "effectiveFrom": "2000-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2861",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6021",
+      "title": "Pravilnik o spremembi pravilnika o pogojih za zavetišča za zapuščene živali",
+      "shortTitle": "Pravilnik o spremembi pravilnika o pogojih za zavetišča za zapuščene živali",
+      "shortCode": "PRAV6021",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3459",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-07-16",
+      "validFrom": "2004-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3459",
+      "versions": [
+        {
+          "id": "PRAV6021-original",
+          "shortCode": "PRAV6021",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-16",
+          "effectiveFrom": "2004-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2861"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3459",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

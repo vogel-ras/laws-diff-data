@@ -1,0 +1,103 @@
+{
+  "root": "ZEMŽM",
+  "path": "laws/ZE/ZEMŽM",
+  "members": [
+    {
+      "id": "ZEM_M",
+      "title": "Zakon o enakih možnostih žensk in moških",
+      "shortTitle": "Zakon o enakih možnostih žensk in moških",
+      "shortCode": "ZEMŽM",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "živilo",
+        "zaščitna oprema"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2837",
+      "gazette": "Uradni list RS 59/2002  str. 6104",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2837",
+      "versions": [
+        {
+          "id": "ZEM_M-original",
+          "shortCode": "ZEMŽM",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6104",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2837",
+          "proposer": null
+        },
+        {
+          "id": "ZEM_M-amend-ZEM_M-A",
+          "shortCode": "ZEMŽM-A",
+          "label": "Sprememba ZEM_M-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/19  str. 6988",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEM_M"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2616",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEM_M-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o enakih možnostih žensk in moških",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o enakih možnostih žensk in moških",
+      "shortCode": "ZEMŽM-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2616",
+      "gazette": "Uradni list RS 59/19  str. 6988",
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2616",
+      "versions": [
+        {
+          "id": "ZEM_M-A-original",
+          "shortCode": "ZEMŽM-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6988",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEM_M"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2616",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

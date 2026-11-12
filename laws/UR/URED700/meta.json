@@ -1,0 +1,58 @@
+{
+  "root": "URED700",
+  "path": "laws/UR/URED700",
+  "members": [
+    {
+      "id": "URED700",
+      "title": "Uredba o lokacijskem načrtu za smer avtoceste Maribor-slovensko-madžarska meja na odseku Vučja vas-Beltinci",
+      "shortTitle": "Uredba o lokacijskem načrtu za smer avtoceste Maribor-slovensko-madžarska meja na odseku Vučja vas-Beltinci",
+      "shortCode": "URED700",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-3020",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-08-06",
+      "validFrom": "1999-08-06",
+      "validTo": null,
+      "latestPublishedAt": "1999-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3020",
+      "versions": [
+        {
+          "id": "URED700-original",
+          "shortCode": "URED700",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-08-06",
+          "effectiveFrom": "1999-08-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3020",
+          "proposer": null
+        },
+        {
+          "id": "URED700-npb-URED700",
+          "shortCode": "URED700-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-08-06",
+          "effectiveFrom": "1999-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED700",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

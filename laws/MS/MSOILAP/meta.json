@@ -1,0 +1,48 @@
+{
+  "root": "MSOILAP",
+  "path": "laws/MS/MSOILAP",
+  "members": [
+    {
+      "id": "MSOILAP",
+      "title": "Zakon o ratifikaciji Pogodbe Svetovne organizacije za intelektualno lastnino o avtorski pravici",
+      "shortTitle": "Zakon o ratifikaciji Pogodbe Svetovne organizacije za intelektualno lastnino o avtorski pravici",
+      "shortCode": "MSOILAP",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "mednarodna organizacija",
+        "intelektualna lastnina",
+        "avtorska pravica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-02-0077",
+      "gazette": "Uradni list RS MP 25/99  str. 1077",
+      "issuingBody": null,
+      "adoptedAt": "1999-10-15",
+      "validFrom": "1999-10-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0077",
+      "versions": [
+        {
+          "id": "MSOILAP-original",
+          "shortCode": "MSOILAP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 25/99  str. 1077",
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-02-0077",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

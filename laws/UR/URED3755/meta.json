@@ -1,0 +1,58 @@
+{
+  "root": "URED3755",
+  "path": "laws/UR/URED3755",
+  "members": [
+    {
+      "id": "URED3755",
+      "title": "Uredba o državnem lokacijskem načrtu za daljnovod 2 x 400 kV Beričevo-Krško",
+      "shortTitle": "Uredba o državnem lokacijskem načrtu za daljnovod 2 x 400 kV Beričevo-Krško",
+      "shortCode": "URED3755",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-0155",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-01-17",
+      "validFrom": "2006-01-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0155",
+      "versions": [
+        {
+          "id": "URED3755-original",
+          "shortCode": "URED3755",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-17",
+          "effectiveFrom": "2006-01-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0155",
+          "proposer": null
+        },
+        {
+          "id": "URED3755-npb-URED3755",
+          "shortCode": "URED3755-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-01-17",
+          "effectiveFrom": "2006-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3755",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

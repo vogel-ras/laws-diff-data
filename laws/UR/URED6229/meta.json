@@ -1,0 +1,97 @@
+{
+  "root": "URED6229",
+  "path": "laws/UR/URED6229",
+  "members": [
+    {
+      "id": "URED6229",
+      "title": "Uredba o državnem prostorskem načrtu za cesto G2-108 Hrastnik–Zidani Most in deviacijo ceste G1-5 Rimske Toplice–Zidani Most–Radeče",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za cesto G2-108 Hrastnik–Zidani Most in deviacijo ceste G1-5 Rimske Toplice–Zidani Most–Radeče",
+      "shortCode": "URED6229",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2929",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-10-08",
+      "validFrom": "2012-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2012-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2929",
+      "versions": [
+        {
+          "id": "URED6229-original",
+          "shortCode": "URED6229",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-10-08",
+          "effectiveFrom": "2012-10-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2929",
+          "proposer": null
+        },
+        {
+          "id": "URED6229-npb-URED6229",
+          "shortCode": "URED6229-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-10-08",
+          "effectiveFrom": "2012-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6229",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8547",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o državnem prostorskem načrtu za cesto G2-108 Hrastnik–Zidani Most in deviacijo ceste G1-5 Rimske Toplice–Zidani Most–Radeče",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o državnem prostorskem načrtu za cesto G2-108 Hrastnik–Zidani Most in deviacijo ceste G1-5 Rimske Toplice–Zidani Most–Radeče",
+      "shortCode": "URED8547",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-3412",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-11-02",
+      "validFrom": "2022-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3412",
+      "versions": [
+        {
+          "id": "URED8547-original",
+          "shortCode": "URED8547",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-11-02",
+          "effectiveFrom": "2022-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6229"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3412",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

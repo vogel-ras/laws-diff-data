@@ -1,0 +1,58 @@
+{
+  "root": "URED625",
+  "path": "laws/UR/URED625",
+  "members": [
+    {
+      "id": "URED625",
+      "title": "Uredba o emisiji kadmija pri odvajanju odpadnih vod",
+      "shortTitle": "Uredba o emisiji kadmija pri odvajanju odpadnih vod",
+      "shortCode": "URED625",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-3992",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-10-15",
+      "validFrom": "1999-10-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3992",
+      "versions": [
+        {
+          "id": "URED625-original",
+          "shortCode": "URED625",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3992",
+          "proposer": null
+        },
+        {
+          "id": "URED625-npb-URED625",
+          "shortCode": "URED625-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED625",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

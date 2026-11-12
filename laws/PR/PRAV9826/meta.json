@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9826",
+  "path": "laws/PR/PRAV9826",
+  "members": [
+    {
+      "id": "PRAV10277",
+      "title": "Pravilnik o spremembi Pravilnika o merilih za določanje nagrade članom poravnalnega odbora",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o merilih za določanje nagrade članom poravnalnega odbora",
+      "shortCode": "PRAV10277",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-2455",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2011-07-01",
+      "validFrom": "2011-07-01",
+      "validTo": null,
+      "latestPublishedAt": "2011-07-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2455",
+      "versions": [
+        {
+          "id": "PRAV10277-original",
+          "shortCode": "PRAV10277",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-07-01",
+          "effectiveFrom": "2011-07-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9826"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2455",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9826",
+      "title": "Pravilnik o merilih za določanje nagrade članom poravnalnega odbora",
+      "shortTitle": "Pravilnik o merilih za določanje nagrade članom poravnalnega odbora",
+      "shortCode": "PRAV9826",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0528",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2010-02-22",
+      "validFrom": "2010-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0528",
+      "versions": [
+        {
+          "id": "PRAV9826-original",
+          "shortCode": "PRAV9826",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-02-22",
+          "effectiveFrom": "2010-02-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0528",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9826-npb-PRAV9826",
+          "shortCode": "PRAV9826-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-02-22",
+          "effectiveFrom": "2010-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9826",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

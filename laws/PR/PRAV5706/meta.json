@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5706",
+  "path": "laws/PR/PRAV5706",
+  "members": [
+    {
+      "id": "PRAV5706",
+      "title": "Pravilnik o razveljavitvi oziroma prenehanju veljavnosti predpisov na področju kakovosti kmetijskih pridelkov oziroma živil",
+      "shortTitle": "Pravilnik o razveljavitvi oziroma prenehanju veljavnosti predpisov na področju kakovosti kmetijskih pridelkov oziroma živil",
+      "shortCode": "PRAV5706",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1346",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-31",
+      "validFrom": "2004-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1346",
+      "versions": [
+        {
+          "id": "PRAV5706-original",
+          "shortCode": "PRAV5706",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1346",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5706-npb-PRAV5706",
+          "shortCode": "PRAV5706-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5706",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5820",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o razveljavitvi oziroma prenehanju veljavnosti predpisov na področju kakovosti kmetijskih pridelkov oziroma živil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o razveljavitvi oziroma prenehanju veljavnosti predpisov na področju kakovosti kmetijskih pridelkov oziroma živil",
+      "shortCode": "PRAV5820",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2316",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-05-07",
+      "validFrom": "2004-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2316",
+      "versions": [
+        {
+          "id": "PRAV5820-original",
+          "shortCode": "PRAV5820",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-05-07",
+          "effectiveFrom": "2004-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5706"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2316",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

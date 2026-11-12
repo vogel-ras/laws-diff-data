@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12540",
+  "path": "laws/PR/PRAV12540",
+  "members": [
+    {
+      "id": "PRAV12540",
+      "title": "Pravilnik o pogojih in načinu zmanjšanja števila vzorčnih enot in pogostosti vzorčenja klavnih trupov, mletega mesa in mesnih pripravkov",
+      "shortTitle": "Pravilnik o pogojih in načinu zmanjšanja števila vzorčnih enot in pogostosti vzorčenja klavnih trupov, mletega mesa in mesnih pripravkov",
+      "shortCode": "PRAV12540",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2113",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2016-07-08",
+      "validFrom": "2016-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2113",
+      "versions": [
+        {
+          "id": "PRAV12540-original",
+          "shortCode": "PRAV12540",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-07-08",
+          "effectiveFrom": "2016-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2113",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12540-npb-PRAV12540",
+          "shortCode": "PRAV12540-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-07-08",
+          "effectiveFrom": "2016-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12540",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13290",
+      "title": "Pravilnik o spremembah Pravilnika o pogojih in načinu zmanjšanja števila vzorčnih enot in pogostosti vzorčenja klavnih trupov, mletega mesa in mesnih pripravkov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o pogojih in načinu zmanjšanja števila vzorčnih enot in pogostosti vzorčenja klavnih trupov, mletega mesa in mesnih pripravkov",
+      "shortCode": "PRAV13290",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0098",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-01-24",
+      "validFrom": "2020-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0098",
+      "versions": [
+        {
+          "id": "PRAV13290-original",
+          "shortCode": "PRAV13290",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-01-24",
+          "effectiveFrom": "2020-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12540"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0098",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

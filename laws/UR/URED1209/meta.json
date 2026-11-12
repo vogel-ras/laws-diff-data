@@ -1,0 +1,121 @@
+{
+  "root": "URED1209",
+  "path": "laws/UR/URED1209",
+  "members": [
+    {
+      "id": "URED1209",
+      "title": "Uredba o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortTitle": "Uredba o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortCode": "URED1209",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-0997",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-03-27",
+      "validFrom": "1998-03-27",
+      "validTo": null,
+      "latestPublishedAt": "1998-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0997",
+      "versions": [
+        {
+          "id": "URED1209-original",
+          "shortCode": "URED1209",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-03-27",
+          "effectiveFrom": "1998-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0997",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1210",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortCode": "URED1210",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-2597",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-08-07",
+      "validFrom": "1998-08-07",
+      "validTo": null,
+      "latestPublishedAt": "1998-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2597",
+      "versions": [
+        {
+          "id": "URED1210-original",
+          "shortCode": "URED1210",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-08-07",
+          "effectiveFrom": "1998-08-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1209"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2597",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1306",
+      "title": "Uredba o spremembah uredbe o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortTitle": "Uredba o spremembah uredbe o skupnih osnovah in kriterijih za notranjo organizacijo in sistemizacijo delovnih mest v organih državne uprave",
+      "shortCode": "URED1306",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-2732",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-06-30",
+      "validFrom": "2000-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2732",
+      "versions": [
+        {
+          "id": "URED1306-original",
+          "shortCode": "URED1306",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-30",
+          "effectiveFrom": "2000-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1209"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2732",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

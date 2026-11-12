@@ -1,0 +1,121 @@
+{
+  "root": "ODRE8",
+  "path": "laws/OD/ODRE8",
+  "members": [
+    {
+      "id": "ODRE8",
+      "title": "Pravilnik o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortTitle": "Pravilnik o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortCode": "ODRE8",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-0702",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2000-02-23",
+      "validFrom": "2000-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2000-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0702",
+      "versions": [
+        {
+          "id": "ODRE8-original",
+          "shortCode": "ODRE8",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-02-23",
+          "effectiveFrom": "2000-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0702",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4253",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortCode": "PRAV4253",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-2627",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2002-06-21",
+      "validFrom": "2002-06-21",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2627",
+      "versions": [
+        {
+          "id": "PRAV4253-original",
+          "shortCode": "PRAV4253",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-21",
+          "effectiveFrom": "2002-06-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE8"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2627",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4673",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o odstranjevanju polikloriranih bifenilov in polikloriranih terfenilov",
+      "shortCode": "PRAV4673",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0725",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2003-02-21",
+      "validFrom": "2003-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0725",
+      "versions": [
+        {
+          "id": "PRAV4673-original",
+          "shortCode": "PRAV4673",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-21",
+          "effectiveFrom": "2003-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE8"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0725",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

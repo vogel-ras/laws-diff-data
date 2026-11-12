@@ -1,0 +1,82 @@
+{
+  "root": "SKLE13040",
+  "path": "laws/SK/SKLE13040",
+  "members": [
+    {
+      "id": "SKLE13040",
+      "title": "Sklep o ustanovitvi javnega zdravstvenega zavoda Univerzitetni klinični center Maribor",
+      "shortTitle": "Sklep o ustanovitvi javnega zdravstvenega zavoda Univerzitetni klinični center Maribor",
+      "shortCode": "SKLE13040",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-4171",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-12-23",
+      "validFrom": "2022-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4171",
+      "versions": [
+        {
+          "id": "SKLE13040-original",
+          "shortCode": "SKLE13040",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-23",
+          "effectiveFrom": "2022-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4171",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13160",
+      "title": "Sklep o spremembah Sklepa o ustanovitvi javnega zdravstvenega zavoda Univerzitetni klinični center Maribor",
+      "shortTitle": "Sklep o spremembah Sklepa o ustanovitvi javnega zdravstvenega zavoda Univerzitetni klinični center Maribor",
+      "shortCode": "SKLE13160",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-0992",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-03-27",
+      "validFrom": "2023-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0992",
+      "versions": [
+        {
+          "id": "SKLE13160-original",
+          "shortCode": "SKLE13160",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-03-27",
+          "effectiveFrom": "2023-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13040"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0992",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

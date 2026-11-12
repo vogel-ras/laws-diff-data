@@ -1,0 +1,107 @@
+{
+  "root": "ZZZPF",
+  "path": "laws/ZZ/ZZZPF",
+  "members": [
+    {
+      "id": "ZZZPF",
+      "title": "Zakon o začasnem znižanju plač funkcionarjev",
+      "shortTitle": "Zakon o začasnem znižanju plač funkcionarjev",
+      "shortCode": "ZZZPF",
+      "kind": "zakon",
+      "keywords": [
+        "določanje plač",
+        "znižanje plač",
+        "plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-0754",
+      "gazette": "Uradni list RS 20/09  str. 2609",
+      "issuingBody": null,
+      "adoptedAt": "2009-03-16",
+      "validFrom": "2009-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0754",
+      "versions": [
+        {
+          "id": "ZZZPF-original",
+          "shortCode": "ZZZPF",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/09  str. 2609",
+          "publishedAt": "2009-03-16",
+          "effectiveFrom": "2009-03-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0754",
+          "proposer": null
+        },
+        {
+          "id": "ZZZPF-amend-ZZZPF-A",
+          "shortCode": "ZZZPF-A",
+          "label": "Sprememba ZZZPF-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 13/10  str. 1459",
+          "publishedAt": "2010-02-22",
+          "effectiveFrom": "2010-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZPF"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0521",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZPF-A",
+      "title": "Zakon o spremembi Zakona o začasnem znižanju plač funkcionarjev",
+      "shortTitle": "Zakon o spremembi Zakona o začasnem znižanju plač funkcionarjev",
+      "shortCode": "ZZZPF-A",
+      "kind": "zakon",
+      "keywords": [
+        "določanje plač",
+        "znižanje plač",
+        "plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0521",
+      "gazette": "Uradni list RS 13/10  str. 1459",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-22",
+      "validFrom": "2010-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0521",
+      "versions": [
+        {
+          "id": "ZZZPF-A-original",
+          "shortCode": "ZZZPF-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/10  str. 1459",
+          "publishedAt": "2010-02-22",
+          "effectiveFrom": "2010-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZZPF"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0521",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

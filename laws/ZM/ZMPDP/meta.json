@@ -1,0 +1,103 @@
+{
+  "root": "ZMPDP",
+  "path": "laws/ZM/ZMPDP",
+  "members": [
+    {
+      "id": "ZMPDP",
+      "title": "Zakon o merilih in postopku za dajanje poroštev Republike Slovenije",
+      "shortTitle": "Zakon o merilih in postopku za dajanje poroštev Republike Slovenije",
+      "shortCode": "ZMPDP",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0961",
+      "gazette": "Uradni list RS 21/95  str. 1609",
+      "issuingBody": null,
+      "adoptedAt": "1995-04-14",
+      "validFrom": "1995-04-14",
+      "validTo": null,
+      "latestPublishedAt": "1996-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0961",
+      "versions": [
+        {
+          "id": "ZMPDP-original",
+          "shortCode": "ZMPDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/95  str. 1609",
+          "publishedAt": "1995-04-14",
+          "effectiveFrom": "1995-04-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0961",
+          "proposer": null
+        },
+        {
+          "id": "ZMPDP-amend-ZMPDP-A",
+          "shortCode": "ZMPDP-A",
+          "label": "Sprememba ZMPDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 18/96  str. 1504",
+          "publishedAt": "1996-04-02",
+          "effectiveFrom": "1996-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMPDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1064",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMPDP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o merilih in postopku za dajanje poroštev Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o merilih in postopku za dajanje poroštev Republike Slovenije",
+      "shortCode": "ZMPDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-1064",
+      "gazette": "Uradni list RS 18/96  str. 1504",
+      "issuingBody": null,
+      "adoptedAt": "1996-04-02",
+      "validFrom": "1996-04-02",
+      "validTo": null,
+      "latestPublishedAt": "1996-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1064",
+      "versions": [
+        {
+          "id": "ZMPDP-A-original",
+          "shortCode": "ZMPDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/96  str. 1504",
+          "publishedAt": "1996-04-02",
+          "effectiveFrom": "1996-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMPDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1064",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

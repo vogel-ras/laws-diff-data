@@ -1,0 +1,45 @@
+{
+  "root": "ZMetD",
+  "path": "laws/ZM/ZMetD",
+  "members": [
+    {
+      "id": "ZMetD",
+      "title": "Zakon o meteorološki dejavnosti",
+      "shortTitle": "Zakon o meteorološki dejavnosti",
+      "shortCode": "ZMetD",
+      "kind": "zakon",
+      "keywords": [
+        "meteorologija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2089",
+      "gazette": "Uradni list RS 49/06  str. 5253",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-12",
+      "validFrom": "2006-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2089",
+      "versions": [
+        {
+          "id": "ZMetD-original",
+          "shortCode": "ZMetD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/06  str. 5253",
+          "publishedAt": "2006-05-12",
+          "effectiveFrom": "2006-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2089",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

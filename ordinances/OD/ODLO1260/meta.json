@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1260",
+  "path": "ordinances/OD/ODLO1260",
+  "members": [
+    {
+      "id": "ODLO1260",
+      "title": "Odlok o preoblikovanju Vodnogospodarskega inštituta, družbe za gospodarjenje z vodami, d.o.o., v javni zavod \"Inštitut za vode Republike Slovenije\"",
+      "shortTitle": "Odlok o preoblikovanju Vodnogospodarskega inštituta, družbe za gospodarjenje z vodami, d.o.o., v javni zavod \"Inštitut za vode Republike Slovenije\"",
+      "shortCode": "ODLO1260",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-0991",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-13",
+      "validFrom": "2003-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0991",
+      "versions": [
+        {
+          "id": "ODLO1260-original",
+          "shortCode": "ODLO1260",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0991",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1260-npb-ODLO1260",
+          "shortCode": "ODLO1260-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1260",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1694",
+      "title": "Odlok o spremembi Odloka o preoblikovanju Vodnogospodarskega inštituta, družbe za gospodarjenje z vodami, d. o. o., v javni zavod \"Inštitut za vode Republike Slovenije\"",
+      "shortTitle": "Odlok o spremembi Odloka o preoblikovanju Vodnogospodarskega inštituta, družbe za gospodarjenje z vodami, d. o. o., v javni zavod \"Inštitut za vode Republike Slovenije\"",
+      "shortCode": "ODLO1694",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2012-01-0241",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-01-27",
+      "validFrom": "2012-01-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-01-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0241",
+      "versions": [
+        {
+          "id": "ODLO1694-original",
+          "shortCode": "ODLO1694",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-01-27",
+          "effectiveFrom": "2012-01-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1260"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0241",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

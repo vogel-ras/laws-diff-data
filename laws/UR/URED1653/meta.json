@@ -1,0 +1,136 @@
+{
+  "root": "URED1653",
+  "path": "laws/UR/URED1653",
+  "members": [
+    {
+      "id": "URED1653",
+      "title": "Uredba o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortTitle": "Uredba o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortCode": "URED1653",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0965",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-13",
+      "validFrom": "2002-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0965",
+      "versions": [
+        {
+          "id": "URED1653-original",
+          "shortCode": "URED1653",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-13",
+          "effectiveFrom": "2002-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0965",
+          "proposer": null
+        },
+        {
+          "id": "URED1653-npb-URED1653",
+          "shortCode": "URED1653-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-03-13",
+          "effectiveFrom": "2002-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1653",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4067",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortCode": "URED4067",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-0322",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-01-29",
+      "validFrom": "2007-01-29",
+      "validTo": null,
+      "latestPublishedAt": "2007-01-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0322",
+      "versions": [
+        {
+          "id": "URED4067-original",
+          "shortCode": "URED4067",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-01-29",
+          "effectiveFrom": "2007-01-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1653"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0322",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6162",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o postopku upravljanja z zaseženimi predmeti, premoženjem in varščinami",
+      "shortCode": "URED6162",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-3941",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-12-21",
+      "validFrom": "2012-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3941",
+      "versions": [
+        {
+          "id": "URED6162-original",
+          "shortCode": "URED6162",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-21",
+          "effectiveFrom": "2012-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1653"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3941",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

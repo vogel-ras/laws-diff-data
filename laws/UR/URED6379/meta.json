@@ -1,0 +1,58 @@
+{
+  "root": "URED6379",
+  "path": "laws/UR/URED6379",
+  "members": [
+    {
+      "id": "URED6379",
+      "title": "Uredba o karti regionalne pomoči za obdobje 2014–2021",
+      "shortTitle": "Uredba o karti regionalne pomoči za obdobje 2014–2021",
+      "shortCode": "URED6379",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3733",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-12-11",
+      "validFrom": "2013-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3733",
+      "versions": [
+        {
+          "id": "URED6379-original",
+          "shortCode": "URED6379",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-12-11",
+          "effectiveFrom": "2013-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3733",
+          "proposer": null
+        },
+        {
+          "id": "URED6379-npb-URED6379",
+          "shortCode": "URED6379-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-12-11",
+          "effectiveFrom": "2013-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6379",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

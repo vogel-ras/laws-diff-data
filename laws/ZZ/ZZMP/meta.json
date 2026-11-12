@@ -1,0 +1,223 @@
+{
+  "root": "ZZMP",
+  "path": "laws/ZZ/ZZMP",
+  "members": [
+    {
+      "id": "ZZMP",
+      "title": "Zakon o zdravilih in medicinskih pripomočkih",
+      "shortTitle": "Zakon o zdravilih in medicinskih pripomočkih",
+      "shortCode": "ZZMP",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo",
+        "nadzor zdravil",
+        "veterina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4814",
+      "gazette": "Uradni list RS 101/99  str. 15013",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-16",
+      "validFrom": "1999-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4814",
+      "versions": [
+        {
+          "id": "ZZMP-original",
+          "shortCode": "ZZMP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/99  str. 15013",
+          "publishedAt": "1999-12-16",
+          "effectiveFrom": "1999-12-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4814",
+          "proposer": null
+        },
+        {
+          "id": "ZZMP-amend-ZZMP-A",
+          "shortCode": "ZZMP-A",
+          "label": "Sprememba ZZMP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 70/2000  str. 8674",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3309",
+          "proposer": null
+        },
+        {
+          "id": "ZZMP-amend-ZZMP-B",
+          "shortCode": "ZZMP-B",
+          "label": "Sprememba ZZMP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 7/2002  str. 653",
+          "publishedAt": "2002-01-30",
+          "effectiveFrom": "2002-01-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0355",
+          "proposer": null
+        },
+        {
+          "id": "ZZMP-amend-ZZMP-C",
+          "shortCode": "ZZMP-C",
+          "label": "Sprememba ZZMP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 67/2002  str. 7579",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3228",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZMP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih",
+      "shortCode": "ZZMP-A",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo",
+        "zdravilo za uporabo v veterinarski medicini"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3309",
+      "gazette": "Uradni list RS 70/2000  str. 8674",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-08",
+      "validFrom": "2000-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3309",
+      "versions": [
+        {
+          "id": "ZZMP-A-original",
+          "shortCode": "ZZMP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/2000  str. 8674",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3309",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZMP-B",
+      "title": "Zakon o spremembi zakona o zdravilih in medicinskih pripomočkih",
+      "shortTitle": "Zakon o spremembi zakona o zdravilih in medicinskih pripomočkih",
+      "shortCode": "ZZMP-B",
+      "kind": "zakon",
+      "keywords": [
+        "zdravilo",
+        "medicinski in kirurški instrumenti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0355",
+      "gazette": "Uradni list RS 7/2002  str. 653",
+      "issuingBody": null,
+      "adoptedAt": "2002-01-30",
+      "validFrom": "2002-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0355",
+      "versions": [
+        {
+          "id": "ZZMP-B-original",
+          "shortCode": "ZZMP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/2002  str. 653",
+          "publishedAt": "2002-01-30",
+          "effectiveFrom": "2002-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0355",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZMP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravilih in medicinskih pripomočkih",
+      "shortCode": "ZZMP-C",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3228",
+      "gazette": "Uradni list RS 67/2002  str. 7579",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3228",
+      "versions": [
+        {
+          "id": "ZZMP-C-original",
+          "shortCode": "ZZMP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7579",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3228",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

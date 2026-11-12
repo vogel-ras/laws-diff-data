@@ -1,0 +1,82 @@
+{
+  "root": "NAVO519",
+  "path": "laws/NA/NAVO519",
+  "members": [
+    {
+      "id": "NAVO519",
+      "title": "Navodilo o opremljanju jabolk in hrušk v specialno promocijsko embalažo na ciljnih trgih",
+      "shortTitle": "Navodilo o opremljanju jabolk in hrušk v specialno promocijsko embalažo na ciljnih trgih",
+      "shortCode": "NAVO519",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2001-01-2123",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-05-17",
+      "validFrom": "2001-05-17",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2123",
+      "versions": [
+        {
+          "id": "NAVO519-original",
+          "shortCode": "NAVO519",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-17",
+          "effectiveFrom": "2001-05-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2123",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO583",
+      "title": "Navodilo o spremembi navodila o opremljanju jabolk in hrušk v specialno promocijsko embalažo na ciljnih trgih",
+      "shortTitle": "Navodilo o spremembi navodila o opremljanju jabolk in hrušk v specialno promocijsko embalažo na ciljnih trgih",
+      "shortCode": "NAVO583",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2002-01-1393",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-04-12",
+      "validFrom": "2002-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1393",
+      "versions": [
+        {
+          "id": "NAVO583-original",
+          "shortCode": "NAVO583",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-12",
+          "effectiveFrom": "2002-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1393",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

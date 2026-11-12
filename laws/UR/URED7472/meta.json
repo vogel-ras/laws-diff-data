@@ -1,0 +1,136 @@
+{
+  "root": "URED7472",
+  "path": "laws/UR/URED7472",
+  "members": [
+    {
+      "id": "URED7472",
+      "title": "Uredba o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortTitle": "Uredba o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortCode": "URED7472",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0736",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2018-03-16",
+      "validFrom": "2018-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0736",
+      "versions": [
+        {
+          "id": "URED7472-original",
+          "shortCode": "URED7472",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-16",
+          "effectiveFrom": "2018-03-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0736",
+          "proposer": null
+        },
+        {
+          "id": "URED7472-npb-URED7472",
+          "shortCode": "URED7472-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-16",
+          "effectiveFrom": "2018-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7472",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7790",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortCode": "URED7790",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-2918",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-09-07",
+      "validFrom": "2018-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2918",
+      "versions": [
+        {
+          "id": "URED7790-original",
+          "shortCode": "URED7790",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-07",
+          "effectiveFrom": "2018-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7472"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2918",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8339",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi v zrak iz srednjih kurilnih naprav, plinskih turbin in nepremičnih motorjev",
+      "shortCode": "URED8339",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2504",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-07-22",
+      "validFrom": "2022-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2504",
+      "versions": [
+        {
+          "id": "URED8339-original",
+          "shortCode": "URED8339",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-22",
+          "effectiveFrom": "2022-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7472"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2504",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

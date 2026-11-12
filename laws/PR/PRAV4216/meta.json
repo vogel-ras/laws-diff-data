@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4216",
+  "path": "laws/PR/PRAV4216",
+  "members": [
+    {
+      "id": "PRAV4216",
+      "title": "Pravilnik o svetu uporabnikov",
+      "shortTitle": "Pravilnik o svetu uporabnikov",
+      "shortCode": "PRAV4216",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1964",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2002-05-10",
+      "validFrom": "2002-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1964",
+      "versions": [
+        {
+          "id": "PRAV4216-original",
+          "shortCode": "PRAV4216",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-05-10",
+          "effectiveFrom": "2002-05-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1964",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4216-npb-PRAV4216",
+          "shortCode": "PRAV4216-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-05-10",
+          "effectiveFrom": "2002-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4216",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5989",
+      "title": "Pravilnik o spremembah pravilnika o svetu uporabnikov",
+      "shortTitle": "Pravilnik o spremembah pravilnika o svetu uporabnikov",
+      "shortCode": "PRAV5989",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-3210",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-07-02",
+      "validFrom": "2004-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3210",
+      "versions": [
+        {
+          "id": "PRAV5989-original",
+          "shortCode": "PRAV5989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-02",
+          "effectiveFrom": "2004-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4216"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3210",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

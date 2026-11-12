@@ -1,0 +1,121 @@
+{
+  "root": "PRAV6709",
+  "path": "laws/PR/PRAV6709",
+  "members": [
+    {
+      "id": "PRAV11502",
+      "title": "Pravilnik o spremembi Pravilnika o vpisu v srednje šole",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vpisu v srednje šole",
+      "shortCode": "PRAV11502",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-4219",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost, kulturo in šport",
+      "adoptedAt": "2012-12-28",
+      "validFrom": "2012-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4219",
+      "versions": [
+        {
+          "id": "PRAV11502-original",
+          "shortCode": "PRAV11502",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-28",
+          "effectiveFrom": "2012-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6709"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4219",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6709",
+      "title": "Pravilnik o vpisu v srednje šole",
+      "shortTitle": "Pravilnik o vpisu v srednje šole",
+      "shortCode": "PRAV6709",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0478",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2006-02-07",
+      "validFrom": "2006-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0478",
+      "versions": [
+        {
+          "id": "PRAV6709-original",
+          "shortCode": "PRAV6709",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-07",
+          "effectiveFrom": "2006-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0478",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7954",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisu v srednje šole",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisu v srednje šole",
+      "shortCode": "PRAV7954",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0375",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-02-01",
+      "validFrom": "2008-02-01",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0375",
+      "versions": [
+        {
+          "id": "PRAV7954-original",
+          "shortCode": "PRAV7954",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-02-01",
+          "effectiveFrom": "2008-02-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6709"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0375",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

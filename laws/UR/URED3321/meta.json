@@ -1,0 +1,121 @@
+{
+  "root": "URED3321",
+  "path": "laws/UR/URED3321",
+  "members": [
+    {
+      "id": "URED3321",
+      "title": "Uredba o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortTitle": "Uredba o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortCode": "URED3321",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3787",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-10-04",
+      "validFrom": "2005-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3787",
+      "versions": [
+        {
+          "id": "URED3321-original",
+          "shortCode": "URED3321",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-04",
+          "effectiveFrom": "2005-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3787",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5637",
+      "title": "Uredba o spremembi Uredbe o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortTitle": "Uredba o spremembi Uredbe o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortCode": "URED5637",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5469",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-24",
+      "validFrom": "2010-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5469",
+      "versions": [
+        {
+          "id": "URED5637-original",
+          "shortCode": "URED5637",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-24",
+          "effectiveFrom": "2010-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8806",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o preprečevanju večjih nesreč in zmanjševanju njihovih posledic",
+      "shortCode": "URED8806",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-1616",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1616",
+      "versions": [
+        {
+          "id": "URED8806-original",
+          "shortCode": "URED8806",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1616",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

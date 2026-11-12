@@ -1,0 +1,47 @@
+{
+  "root": "ZDRS-C",
+  "path": "laws/ZD/ZDRS-C",
+  "members": [
+    {
+      "id": "ZDRS-_",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS-Č",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4804",
+      "gazette": "Uradni list RS 96/2002  str. 10510",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4804",
+      "versions": [
+        {
+          "id": "ZDRS-_-original",
+          "shortCode": "ZDRS-Č",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10510",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS-C"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4804",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

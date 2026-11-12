@@ -1,0 +1,105 @@
+{
+  "root": "BATIDO",
+  "path": "laws/BA/BATIDO",
+  "members": [
+    {
+      "id": "BATIDO",
+      "title": "Zakon o ratifikaciji Konvencije med Republiko Slovenijo in Republiko Avstrijo o izogibanju dvojnega obdavčevanja v zvezi z davki na dohodek in premoženje",
+      "shortTitle": "Zakon o ratifikaciji Konvencije med Republiko Slovenijo in Republiko Avstrijo o izogibanju dvojnega obdavčevanja v zvezi z davki na dohodek in premoženje",
+      "shortCode": "BATIDO",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "Avstrija",
+        "dvojna obdavčitev",
+        "davek na dohodek",
+        "davek od premoženja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-02-0008",
+      "gazette": "Uradni list RS MP 4/98  str. 46",
+      "issuingBody": null,
+      "adoptedAt": "1998-03-13",
+      "validFrom": "1998-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0008",
+      "versions": [
+        {
+          "id": "BATIDO-original",
+          "shortCode": "BATIDO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 4/98  str. 46",
+          "publishedAt": "1998-03-13",
+          "effectiveFrom": "1998-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0008",
+          "proposer": null
+        },
+        {
+          "id": "BATIDO-amend-ZAKO6361",
+          "shortCode": "BATIDO-B",
+          "label": "Sprememba BATIDO-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-06-27",
+          "effectiveFrom": "2012-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BATIDO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0035",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO6361",
+      "title": "Zakon o ratifikaciji Protokola med Republiko Slovenijo in Republiko Avstrijo in Dodatnega protokola o spremembah Konvencije o izogibanju dvojnega obdavčevanja v zvezi z davki na dohodek in premoženje, podpisane v Ljubljani 1. oktobra 1997, spremenjene s protokolom, podpisanim v Ljubljani 26. septembra 2006 (BATIDO-B)",
+      "shortTitle": "Zakon o ratifikaciji Protokola med Republiko Slovenijo in Republiko Avstrijo in Dodatnega protokola o spremembah Konvencije o izogibanju dvojnega obdavčevanja v zvezi z davki na dohodek in premoženje, podpisane v Ljubljani 1. oktobra 1997, spremenjene s protokolom, podpisanim v Ljubljani 26. septembra 2006 (BATIDO-B)",
+      "shortCode": "BATIDO-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2012-02-0035",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-06-27",
+      "validFrom": "2012-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0035",
+      "versions": [
+        {
+          "id": "ZAKO6361-original",
+          "shortCode": "BATIDO-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-27",
+          "effectiveFrom": "2012-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "BATIDO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0035",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

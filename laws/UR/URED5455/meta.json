@@ -1,0 +1,82 @@
+{
+  "root": "URED5455",
+  "path": "laws/UR/URED5455",
+  "members": [
+    {
+      "id": "URED5455",
+      "title": "Uredba o izvajanju uredb (ES) o uvozu nekaterih živil neživalskega izvora iz tretjih držav",
+      "shortTitle": "Uredba o izvajanju uredb (ES) o uvozu nekaterih živil neživalskega izvora iz tretjih držav",
+      "shortCode": "URED5455",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-1475",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-10-22",
+      "validFrom": "2010-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1475",
+      "versions": [
+        {
+          "id": "URED5455-original",
+          "shortCode": "URED5455",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-10-22",
+          "effectiveFrom": "2010-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1475",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5558",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) o uvozu nekaterih živil neživalskega izvora iz tretjih držav",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju uredb (ES) o uvozu nekaterih živil neživalskega izvora iz tretjih držav",
+      "shortCode": "URED5558",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-4492",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-10-22",
+      "validFrom": "2010-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4492",
+      "versions": [
+        {
+          "id": "URED5558-original",
+          "shortCode": "URED5558",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-10-22",
+          "effectiveFrom": "2010-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5455"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4492",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

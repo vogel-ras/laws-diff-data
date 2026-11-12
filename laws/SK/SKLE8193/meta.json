@@ -1,0 +1,82 @@
+{
+  "root": "SKLE8193",
+  "path": "laws/SK/SKLE8193",
+  "members": [
+    {
+      "id": "SKLE8193",
+      "title": "Sklep o kapitalu plačilnih institucij",
+      "shortTitle": "Sklep o kapitalu plačilnih institucij",
+      "shortCode": "SKLE8193",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-3222",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-21",
+      "validFrom": "2009-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3222",
+      "versions": [
+        {
+          "id": "SKLE8193-original",
+          "shortCode": "SKLE8193",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-21",
+          "effectiveFrom": "2009-09-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3222",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8935",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o kapitalu plačilnih institucij",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o kapitalu plačilnih institucij",
+      "shortCode": "SKLE8935",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-1416",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2011-04-22",
+      "validFrom": "2011-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1416",
+      "versions": [
+        {
+          "id": "SKLE8935-original",
+          "shortCode": "SKLE8935",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-22",
+          "effectiveFrom": "2011-04-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8193"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1416",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

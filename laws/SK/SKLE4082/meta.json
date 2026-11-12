@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4082",
+  "path": "laws/SK/SKLE4082",
+  "members": [
+    {
+      "id": "SKLE4082",
+      "title": "Sklep o podrobnejši vsebini pravil upravljanja vzajemnega sklada",
+      "shortTitle": "Sklep o podrobnejši vsebini pravil upravljanja vzajemnega sklada",
+      "shortCode": "SKLE4082",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3846",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-08-14",
+      "validFrom": "2003-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3846",
+      "versions": [
+        {
+          "id": "SKLE4082-original",
+          "shortCode": "SKLE4082",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-14",
+          "effectiveFrom": "2003-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3846",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5127",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o podrobnejši vsebini pravil upravljanja vzajemnega sklada",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o podrobnejši vsebini pravil upravljanja vzajemnega sklada",
+      "shortCode": "SKLE5127",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-5304",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2004-11-25",
+      "validFrom": "2004-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5304",
+      "versions": [
+        {
+          "id": "SKLE5127-original",
+          "shortCode": "SKLE5127",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-25",
+          "effectiveFrom": "2004-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4082"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5304",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

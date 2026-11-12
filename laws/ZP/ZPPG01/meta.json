@@ -1,0 +1,106 @@
+{
+  "root": "ZPPG01",
+  "path": "laws/ZP/ZPPG01",
+  "members": [
+    {
+      "id": "ZPPG01",
+      "title": "Zakon o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001",
+      "shortTitle": "Zakon o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001",
+      "shortCode": "ZPPG01",
+      "kind": "zakon",
+      "keywords": [
+        "popis prebivalstva",
+        "popis",
+        "stanovanje",
+        "statistika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3056",
+      "gazette": "Uradni list RS 66/2000  str. 8204",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3056",
+      "versions": [
+        {
+          "id": "ZPPG01-original",
+          "shortCode": "ZPPG01",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/2000  str. 8204",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3056",
+          "proposer": null
+        },
+        {
+          "id": "ZPPG01-amend-ZPPG01-A",
+          "shortCode": "ZPPG01-A",
+          "label": "Sprememba ZPPG01-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 26/2001  str. 2774",
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPG01"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1584",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPG01-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popisu prebivalstva, gospodinjstev in stanovanj v Republiki Sloveniji leta 2001",
+      "shortCode": "ZPPG01-A",
+      "kind": "zakon",
+      "keywords": [
+        "popis prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1584",
+      "gazette": "Uradni list RS 26/2001  str. 2774",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-12",
+      "validFrom": "2001-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1584",
+      "versions": [
+        {
+          "id": "ZPPG01-A-original",
+          "shortCode": "ZPPG01-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/2001  str. 2774",
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPG01"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1584",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

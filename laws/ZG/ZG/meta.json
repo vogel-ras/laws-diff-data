@@ -1,0 +1,456 @@
+{
+  "root": "ZG",
+  "path": "laws/ZG/ZG",
+  "members": [
+    {
+      "id": "ZG",
+      "title": "Zakon o gozdovih",
+      "shortTitle": "Zakon o gozdovih",
+      "shortCode": "ZG",
+      "kind": "zakon",
+      "keywords": [
+        "gozd",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1299",
+      "gazette": "Uradni list RS 30/93  str. 1677",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-10",
+      "validFrom": "1993-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1299",
+      "versions": [
+        {
+          "id": "ZG-original",
+          "shortCode": "ZG",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/93  str. 1677",
+          "publishedAt": "1993-06-10",
+          "effectiveFrom": "1993-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1299",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-A",
+          "shortCode": "ZG-A",
+          "label": "Sprememba ZG-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/2002  str. 7582",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3231",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-B",
+          "shortCode": "ZG-B",
+          "label": "Sprememba ZG-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 110/07  str. 15085",
+          "publishedAt": "2007-12-03",
+          "effectiveFrom": "2007-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5469",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-C",
+          "shortCode": "ZG-C",
+          "label": "Sprememba ZG-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 106/10  str. 16427",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5480",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-D",
+          "shortCode": "ZG-D",
+          "label": "Sprememba ZG-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 63/13  str. 7658",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2521",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-E",
+          "shortCode": "ZG-E",
+          "label": "Sprememba ZG-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 17/14  str. 1948",
+          "publishedAt": "2014-03-07",
+          "effectiveFrom": "2014-03-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0541",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-F",
+          "shortCode": "ZG-F",
+          "label": "Sprememba ZG-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 24/15  str. 2676",
+          "publishedAt": "2015-04-10",
+          "effectiveFrom": "2015-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0992",
+          "proposer": null
+        },
+        {
+          "id": "ZG-amend-ZG-G",
+          "shortCode": "ZG-G",
+          "label": "Sprememba ZG-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 77/16  str. 11043",
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3230",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gozdovih",
+      "shortCode": "ZG-A",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi",
+        "javna lastnina",
+        "tožba pred sodiščem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3231",
+      "gazette": "Uradni list RS 67/2002  str. 7582",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3231",
+      "versions": [
+        {
+          "id": "ZG-A-original",
+          "shortCode": "ZG-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7582",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3231",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gozdovih",
+      "shortCode": "ZG-B",
+      "kind": "zakon",
+      "keywords": [
+        "gozd",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5469",
+      "gazette": "Uradni list RS 110/07  str. 15085",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-03",
+      "validFrom": "2007-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5469",
+      "versions": [
+        {
+          "id": "ZG-B-original",
+          "shortCode": "ZG-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/07  str. 15085",
+          "publishedAt": "2007-12-03",
+          "effectiveFrom": "2007-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-C",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o gozdovih",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o gozdovih",
+      "shortCode": "ZG-C",
+      "kind": "zakon",
+      "keywords": [
+        "gozd",
+        "gozdarska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5480",
+      "gazette": "Uradni list RS 106/10  str. 16427",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5480",
+      "versions": [
+        {
+          "id": "ZG-C-original",
+          "shortCode": "ZG-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16427",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5480",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortCode": "ZG-D",
+      "kind": "zakon",
+      "keywords": [
+        "gozd"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2521",
+      "gazette": "Uradni list RS 63/13  str. 7658",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2521",
+      "versions": [
+        {
+          "id": "ZG-D-original",
+          "shortCode": "ZG-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7658",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2521",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortCode": "ZG-E",
+      "kind": "zakon",
+      "keywords": [
+        "gozd"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0541",
+      "gazette": "Uradni list RS 17/14  str. 1948",
+      "issuingBody": null,
+      "adoptedAt": "2014-03-07",
+      "validFrom": "2014-03-07",
+      "validTo": null,
+      "latestPublishedAt": "2014-03-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0541",
+      "versions": [
+        {
+          "id": "ZG-E-original",
+          "shortCode": "ZG-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/14  str. 1948",
+          "publishedAt": "2014-03-07",
+          "effectiveFrom": "2014-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-F",
+      "title": "Zakon o spremembah Zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah Zakona o gozdovih",
+      "shortCode": "ZG-F",
+      "kind": "zakon",
+      "keywords": [
+        "gozd"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0992",
+      "gazette": "Uradni list RS 24/15  str. 2676",
+      "issuingBody": null,
+      "adoptedAt": "2015-04-10",
+      "validFrom": "2015-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0992",
+      "versions": [
+        {
+          "id": "ZG-F-original",
+          "shortCode": "ZG-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 24/15  str. 2676",
+          "publishedAt": "2015-04-10",
+          "effectiveFrom": "2015-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0992",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZG-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gozdovih",
+      "shortCode": "ZG-G",
+      "kind": "zakon",
+      "keywords": [
+        "gozd"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-3230",
+      "gazette": "Uradni list RS 77/16  str. 11043",
+      "issuingBody": null,
+      "adoptedAt": "2016-12-02",
+      "validFrom": "2016-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3230",
+      "versions": [
+        {
+          "id": "ZG-G-original",
+          "shortCode": "ZG-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/16  str. 11043",
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3230",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

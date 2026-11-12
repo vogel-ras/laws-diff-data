@@ -1,0 +1,121 @@
+{
+  "root": "URED3720",
+  "path": "laws/UR/URED3720",
+  "members": [
+    {
+      "id": "URED3720",
+      "title": "Uredba o določitvi kvote za zaposlovanje invalidov",
+      "shortTitle": "Uredba o določitvi kvote za zaposlovanje invalidov",
+      "shortCode": "URED3720",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4883",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-13",
+      "validFrom": "2005-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4883",
+      "versions": [
+        {
+          "id": "URED3720-original",
+          "shortCode": "URED3720",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-13",
+          "effectiveFrom": "2005-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4883",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4860",
+      "title": "Uredba o spremembah Uredbe o določitvi kvote za zaposlovanje invalidov",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi kvote za zaposlovanje invalidov",
+      "shortCode": "URED4860",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0766",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-02-29",
+      "validFrom": "2008-02-29",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0766",
+      "versions": [
+        {
+          "id": "URED4860-original",
+          "shortCode": "URED4860",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-02-29",
+          "effectiveFrom": "2008-02-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3720"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0766",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9263",
+      "title": "Uredba o spremembah Uredbe o določitvi kvote za zaposlovanje invalidov",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi kvote za zaposlovanje invalidov",
+      "shortCode": "URED9263",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3402",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-12-13",
+      "validFrom": "2024-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3402",
+      "versions": [
+        {
+          "id": "URED9263-original",
+          "shortCode": "URED9263",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-13",
+          "effectiveFrom": "2024-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3720"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3402",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

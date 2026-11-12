@@ -1,0 +1,105 @@
+{
+  "root": "ZIPI",
+  "path": "laws/ZI/ZIPI",
+  "members": [
+    {
+      "id": "ZIPI",
+      "title": "Zakon o infrastrukturi za prostorske informacije",
+      "shortTitle": "Zakon o infrastrukturi za prostorske informacije",
+      "shortCode": "ZIPI",
+      "kind": "zakon",
+      "keywords": [
+        "geografski informacijski sistem",
+        "dostop do informacij",
+        "zbiranje podatkov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0250",
+      "gazette": "Uradni list RS 8/10  str. 929",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-05",
+      "validFrom": "2010-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0250",
+      "versions": [
+        {
+          "id": "ZIPI-original",
+          "shortCode": "ZIPI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/10  str. 929",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0250",
+          "proposer": null
+        },
+        {
+          "id": "ZIPI-amend-ZIPI-A",
+          "shortCode": "ZIPI-A",
+          "label": "Sprememba ZIPI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 84/15  str. 9160",
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3305",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPI-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o infrastrukturi za prostorske informacije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o infrastrukturi za prostorske informacije",
+      "shortCode": "ZIPI-A",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3305",
+      "gazette": "Uradni list RS 84/15  str. 9160",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-06",
+      "validFrom": "2015-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3305",
+      "versions": [
+        {
+          "id": "ZIPI-A-original",
+          "shortCode": "ZIPI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/15  str. 9160",
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3305",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

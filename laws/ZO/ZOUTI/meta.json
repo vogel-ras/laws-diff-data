@@ -1,0 +1,222 @@
+{
+  "root": "ZOUTI",
+  "path": "laws/ZO/ZOUTI",
+  "members": [
+    {
+      "id": "ZOUTI",
+      "title": "Zakon o omejevanju uporabe tobačnih izdelkov",
+      "shortTitle": "Zakon o omejevanju uporabe tobačnih izdelkov",
+      "shortCode": "ZOUTI",
+      "kind": "zakon",
+      "keywords": [
+        "tobak",
+        "kajenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-3318",
+      "gazette": "Uradni list RS 57/96  str. 4770",
+      "issuingBody": null,
+      "adoptedAt": "1996-10-19",
+      "validFrom": "1996-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3318",
+      "versions": [
+        {
+          "id": "ZOUTI-original",
+          "shortCode": "ZOUTI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/96  str. 4770",
+          "publishedAt": "1996-10-19",
+          "effectiveFrom": "1996-10-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3318",
+          "proposer": null
+        },
+        {
+          "id": "ZOUTI-amend-ZOUTI-A",
+          "shortCode": "ZOUTI-A",
+          "label": "Sprememba ZOUTI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 119/2002  str. 16673",
+          "publishedAt": "2002-12-30",
+          "effectiveFrom": "2002-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5830",
+          "proposer": null
+        },
+        {
+          "id": "ZOUTI-amend-ZOUTI-B",
+          "shortCode": "ZOUTI-B",
+          "label": "Sprememba ZOUTI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 101/05  str. 10612",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4396",
+          "proposer": null
+        },
+        {
+          "id": "ZOUTI-amend-ZOUTI-C",
+          "shortCode": "ZOUTI-C",
+          "label": "Sprememba ZOUTI-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 60/07  str. 8363",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3210",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOUTI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortCode": "ZOUTI-A",
+      "kind": "zakon",
+      "keywords": [
+        "tobak"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5830",
+      "gazette": "Uradni list RS 119/2002  str. 16673",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-30",
+      "validFrom": "2002-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5830",
+      "versions": [
+        {
+          "id": "ZOUTI-A-original",
+          "shortCode": "ZOUTI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 119/2002  str. 16673",
+          "publishedAt": "2002-12-30",
+          "effectiveFrom": "2002-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5830",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOUTI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortCode": "ZOUTI-B",
+      "kind": "zakon",
+      "keywords": [
+        "tobak",
+        "kajenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4396",
+      "gazette": "Uradni list RS 101/05  str. 10612",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4396",
+      "versions": [
+        {
+          "id": "ZOUTI-B-original",
+          "shortCode": "ZOUTI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/05  str. 10612",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4396",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOUTI-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o omejevanju uporabe tobačnih izdelkov",
+      "shortCode": "ZOUTI-C",
+      "kind": "zakon",
+      "keywords": [
+        "tobak",
+        "kajenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3210",
+      "gazette": "Uradni list RS 60/07  str. 8363",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-06",
+      "validFrom": "2007-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3210",
+      "versions": [
+        {
+          "id": "ZOUTI-C-original",
+          "shortCode": "ZOUTI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/07  str. 8363",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOUTI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3210",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

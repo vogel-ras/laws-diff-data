@@ -1,0 +1,108 @@
+{
+  "root": "ZIPRS0607",
+  "path": "laws/ZI/ZIPRS0607",
+  "members": [
+    {
+      "id": "ZIPRS0607",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2006 in 2007",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2006 in 2007",
+      "shortCode": "ZIPRS0607",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "proračun",
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-5137",
+      "gazette": "Uradni list RS 116/05  str. 13151",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-22",
+      "validFrom": "2005-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5137",
+      "versions": [
+        {
+          "id": "ZIPRS0607-original",
+          "shortCode": "ZIPRS0607",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 116/05  str. 13151",
+          "publishedAt": "2005-12-22",
+          "effectiveFrom": "2005-12-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5137",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0607-amend-ZIPRS0607-A",
+          "shortCode": "ZIPRS0607-A",
+          "label": "Sprememba ZIPRS0607-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 103/06  str. 10489",
+          "publishedAt": "2006-10-06",
+          "effectiveFrom": "2006-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0607"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4432",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0607-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leto 2006 in 2007",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leto 2006 in 2007",
+      "shortCode": "ZIPRS0607-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna",
+        "proračun",
+        "javne finance",
+        "državni proračun"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4432",
+      "gazette": "Uradni list RS 103/06  str. 10489",
+      "issuingBody": null,
+      "adoptedAt": "2006-10-06",
+      "validFrom": "2006-10-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4432",
+      "versions": [
+        {
+          "id": "ZIPRS0607-A-original",
+          "shortCode": "ZIPRS0607-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 103/06  str. 10489",
+          "publishedAt": "2006-10-06",
+          "effectiveFrom": "2006-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0607"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4432",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

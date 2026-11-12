@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13433",
+  "path": "laws/PR/PRAV13433",
+  "members": [
+    {
+      "id": "PRAV13433",
+      "title": "Pravilnik o tečaju slovenščine za dijake v srednjih šolah",
+      "shortTitle": "Pravilnik o tečaju slovenščine za dijake v srednjih šolah",
+      "shortCode": "PRAV13433",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1383",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-12",
+      "validFrom": "2024-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1383",
+      "versions": [
+        {
+          "id": "PRAV13433-original",
+          "shortCode": "PRAV13433",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-12",
+          "effectiveFrom": "2024-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1383",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13433-npb-PRAV13433",
+          "shortCode": "PRAV13433-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-26",
+          "effectiveFrom": "2018-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13433",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14002",
+      "title": "Pravilnik o spremembah Pravilnika o tečaju slovenščine za dijake v srednjih šolah",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o tečaju slovenščine za dijake v srednjih šolah",
+      "shortCode": "PRAV14002",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0547",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za izobraževanje, znanost in šport",
+      "adoptedAt": "2020-03-13",
+      "validFrom": "2020-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0547",
+      "versions": [
+        {
+          "id": "PRAV14002-original",
+          "shortCode": "PRAV14002",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-03-13",
+          "effectiveFrom": "2020-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13433"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0547",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15409",
+      "title": "Pravilnik o spremembah Pravilnika o tečaju slovenščine za dijake v srednjih šolah",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o tečaju slovenščine za dijake v srednjih šolah",
+      "shortCode": "PRAV15409",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2210",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-12",
+      "validFrom": "2024-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2210",
+      "versions": [
+        {
+          "id": "PRAV15409-original",
+          "shortCode": "PRAV15409",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-12",
+          "effectiveFrom": "2024-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13433"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2210",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13234",
+  "path": "laws/PR/PRAV13234",
+  "members": [
+    {
+      "id": "PRAV13234",
+      "title": "Pravilnik o pogojih za izvajanje postopkov na živalih",
+      "shortTitle": "Pravilnik o pogojih za izvajanje postopkov na živalih",
+      "shortCode": "PRAV13234",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0685",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-04-14",
+      "validFrom": "2026-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0685",
+      "versions": [
+        {
+          "id": "PRAV13234-original",
+          "shortCode": "PRAV13234",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-14",
+          "effectiveFrom": "2026-04-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0685",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13234-npb-PRAV13234",
+          "shortCode": "PRAV13234-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-23",
+          "effectiveFrom": "2026-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13234",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15684",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za izvajanje postopkov na živalih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o pogojih za izvajanje postopkov na živalih",
+      "shortCode": "PRAV15684",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0876",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-04-08",
+      "validFrom": "2026-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0876",
+      "versions": [
+        {
+          "id": "PRAV15684-original",
+          "shortCode": "PRAV15684",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-08",
+          "effectiveFrom": "2026-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13234"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0876",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

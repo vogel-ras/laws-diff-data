@@ -1,0 +1,82 @@
+{
+  "root": "URED3132",
+  "path": "laws/UR/URED3132",
+  "members": [
+    {
+      "id": "URED3132",
+      "title": "Uredba o Pravno-informacijskem sistemu Republike Slovenije",
+      "shortTitle": "Uredba o Pravno-informacijskem sistemu Republike Slovenije",
+      "shortCode": "URED3132",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-2788",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-06-23",
+      "validFrom": "2006-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2788",
+      "versions": [
+        {
+          "id": "URED3132-original",
+          "shortCode": "URED3132",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-06-23",
+          "effectiveFrom": "2006-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2788",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5899",
+      "title": "Uredba o spremembi Uredbe o Pravno-informacijskem sistemu Republike Slovenije",
+      "shortTitle": "Uredba o spremembi Uredbe o Pravno-informacijskem sistemu Republike Slovenije",
+      "shortCode": "URED5899",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-4108",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-11-25",
+      "validFrom": "2011-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4108",
+      "versions": [
+        {
+          "id": "URED5899-original",
+          "shortCode": "URED5899",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-25",
+          "effectiveFrom": "2011-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3132"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4108",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

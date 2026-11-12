@@ -1,0 +1,106 @@
+{
+  "root": "ZSFCJA",
+  "path": "laws/ZS/ZSFCJA",
+  "members": [
+    {
+      "id": "ZSFCJA",
+      "title": "Zakon o Slovenskem filmskem centru, javni agenciji Republike Slovenije",
+      "shortTitle": "Zakon o Slovenskem filmskem centru, javni agenciji Republike Slovenije",
+      "shortCode": "ZSFCJA",
+      "kind": "zakon",
+      "keywords": [
+        "pravna oseba",
+        "javni interes",
+        "filmska produkcija",
+        "avdiovizualna produkcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4217",
+      "gazette": "Uradni list RS 77/10  str. 11291",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-04",
+      "validFrom": "2010-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4217",
+      "versions": [
+        {
+          "id": "ZSFCJA-original",
+          "shortCode": "ZSFCJA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/10  str. 11291",
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4217",
+          "proposer": null
+        },
+        {
+          "id": "ZSFCJA-amend-ZSFCJA-A",
+          "shortCode": "ZSFCJA-A",
+          "label": "Sprememba ZSFCJA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 63/16  str. 8791",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSFCJA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2688",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSFCJA-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem filmskem centru, javni agenciji Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem filmskem centru, javni agenciji Republike Slovenije",
+      "shortCode": "ZSFCJA-A",
+      "kind": "zakon",
+      "keywords": [
+        "filmska umetnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2688",
+      "gazette": "Uradni list RS 63/16  str. 8791",
+      "issuingBody": null,
+      "adoptedAt": "2016-10-07",
+      "validFrom": "2016-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2688",
+      "versions": [
+        {
+          "id": "ZSFCJA-A-original",
+          "shortCode": "ZSFCJA-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/16  str. 8791",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSFCJA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2688",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

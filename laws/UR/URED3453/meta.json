@@ -1,0 +1,121 @@
+{
+  "root": "URED3453",
+  "path": "laws/UR/URED3453",
+  "members": [
+    {
+      "id": "URED3453",
+      "title": "Uredba o varovanju tajnih podatkov",
+      "shortTitle": "Uredba o varovanju tajnih podatkov",
+      "shortCode": "URED3453",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-3282",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-08-05",
+      "validFrom": "2005-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3282",
+      "versions": [
+        {
+          "id": "URED3453-original",
+          "shortCode": "URED3453",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-05",
+          "effectiveFrom": "2005-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3282",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5767",
+      "title": "Uredba o spremembah Uredbe o varovanju tajnih podatkov",
+      "shortTitle": "Uredba o spremembah Uredbe o varovanju tajnih podatkov",
+      "shortCode": "URED5767",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0273",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-02-04",
+      "validFrom": "2011-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0273",
+      "versions": [
+        {
+          "id": "URED5767-original",
+          "shortCode": "URED5767",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-02-04",
+          "effectiveFrom": "2011-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3453"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0273",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9169",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o varovanju tajnih podatkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o varovanju tajnih podatkov",
+      "shortCode": "URED9169",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-3299",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-09",
+      "validFrom": "2024-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3299",
+      "versions": [
+        {
+          "id": "URED9169-original",
+          "shortCode": "URED9169",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-09",
+          "effectiveFrom": "2024-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3453"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3299",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

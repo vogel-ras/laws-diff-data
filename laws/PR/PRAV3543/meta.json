@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3543",
+  "path": "laws/PR/PRAV3543",
+  "members": [
+    {
+      "id": "PRAV3543",
+      "title": "Pravilnik o pogojih in postopku za pridobitev naziva svetnik ali višji svetnik",
+      "shortTitle": "Pravilnik o pogojih in postopku za pridobitev naziva svetnik ali višji svetnik",
+      "shortCode": "PRAV3543",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-0457",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-02-04",
+      "validFrom": "1995-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1995-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0457",
+      "versions": [
+        {
+          "id": "PRAV3543-original",
+          "shortCode": "PRAV3543",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-02-04",
+          "effectiveFrom": "1995-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0457",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3544",
+      "title": "Pravilnik o spremembah pravilnika o pogojih in postopku za pridobitev naziva svetnik ali višji svetnik",
+      "shortTitle": "Pravilnik o spremembah pravilnika o pogojih in postopku za pridobitev naziva svetnik ali višji svetnik",
+      "shortCode": "PRAV3544",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1995-01-1653",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-06-22",
+      "validFrom": "1995-06-22",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1653",
+      "versions": [
+        {
+          "id": "PRAV3544-original",
+          "shortCode": "PRAV3544",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-06-22",
+          "effectiveFrom": "1995-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3543"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1653",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

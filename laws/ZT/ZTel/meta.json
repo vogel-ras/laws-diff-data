@@ -1,0 +1,82 @@
+{
+  "root": "ZTel",
+  "path": "laws/ZT/ZTel",
+  "members": [
+    {
+      "id": "ZTel",
+      "title": "Zakon o telekomunikacijah",
+      "shortTitle": "Zakon o telekomunikacijah",
+      "shortCode": "ZTel",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1948",
+      "gazette": "Uradni list RS 35/97  str. 3044",
+      "issuingBody": null,
+      "adoptedAt": "1997-06-13",
+      "validFrom": "1997-06-13",
+      "validTo": null,
+      "latestPublishedAt": "1997-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1948",
+      "versions": [
+        {
+          "id": "ZTel-original",
+          "shortCode": "ZTel",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/97  str. 3044",
+          "publishedAt": "1997-06-13",
+          "effectiveFrom": "1997-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1948",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTel-1",
+      "title": "Zakon o telekomunikacijah",
+      "shortTitle": "Zakon o telekomunikacijah",
+      "shortCode": "ZTel-1",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1828",
+      "gazette": "Uradni list RS 30/2001  str. 3208",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-26",
+      "validFrom": "2001-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1828",
+      "versions": [
+        {
+          "id": "ZTel-1-original",
+          "shortCode": "ZTel-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/2001  str. 3208",
+          "publishedAt": "2001-04-26",
+          "effectiveFrom": "2001-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1828",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

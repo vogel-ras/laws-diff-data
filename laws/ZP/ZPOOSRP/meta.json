@@ -1,0 +1,286 @@
+{
+  "root": "ZPOOSRP",
+  "path": "laws/ZP/ZPOOSRP",
+  "members": [
+    {
+      "id": "ZPOOSRP",
+      "title": "Zakon o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortTitle": "Zakon o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortCode": "ZPOOSRP",
+      "kind": "zakon",
+      "keywords": [
+        "potres",
+        "naravna nesreča",
+        "državna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-1948",
+      "gazette": "Uradni list RS 45/98  str. 3195",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-12",
+      "validFrom": "1998-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1948",
+      "versions": [
+        {
+          "id": "ZPOOSRP-original",
+          "shortCode": "ZPOOSRP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/98  str. 3195",
+          "publishedAt": "1998-06-12",
+          "effectiveFrom": "1998-06-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1948",
+          "proposer": null
+        },
+        {
+          "id": "ZPOOSRP-amend-ZPOOSRP-A",
+          "shortCode": "ZPOOSRP-A",
+          "label": "Sprememba ZPOOSRP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/98  str. 5005",
+          "publishedAt": "1998-10-02",
+          "effectiveFrom": "1998-10-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3181",
+          "proposer": null
+        },
+        {
+          "id": "ZPOOSRP-amend-ZPOOSRP-B",
+          "shortCode": "ZPOOSRP-B",
+          "label": "Sprememba ZPOOSRP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 110/99  str. 16654",
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5163",
+          "proposer": null
+        },
+        {
+          "id": "ZPOOSRP-amend-ZPOOSRP-C",
+          "shortCode": "ZPOOSRP-C",
+          "label": "Sprememba ZPOOSRP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 59/2001  str. 6030",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3144",
+          "proposer": null
+        },
+        {
+          "id": "ZPOOSRP-amend-ZPOOSRP-D",
+          "shortCode": "ZPOOSRP-D",
+          "label": "Sprememba ZPOOSRP-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 86/04  str. 10471",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3854",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOOSRP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi in spodbujanju razvoja v Posočju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi in spodbujanju razvoja v Posočju",
+      "shortCode": "ZPOOSRP-A",
+      "kind": "zakon",
+      "keywords": [
+        "potres",
+        "državna pomoč",
+        "kredit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3181",
+      "gazette": "Uradni list RS 67/98  str. 5005",
+      "issuingBody": null,
+      "adoptedAt": "1998-10-02",
+      "validFrom": "1998-10-02",
+      "validTo": null,
+      "latestPublishedAt": "1998-10-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3181",
+      "versions": [
+        {
+          "id": "ZPOOSRP-A-original",
+          "shortCode": "ZPOOSRP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/98  str. 5005",
+          "publishedAt": "1998-10-02",
+          "effectiveFrom": "1998-10-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3181",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOOSRP-B",
+      "title": "Zakon o dopolnitvi zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortTitle": "Zakon o dopolnitvi zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortCode": "ZPOOSRP-B",
+      "kind": "zakon",
+      "keywords": [
+        "potres",
+        "naravna nesreča",
+        "državna pomoč"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-5163",
+      "gazette": "Uradni list RS 110/99  str. 16654",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-30",
+      "validFrom": "1999-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5163",
+      "versions": [
+        {
+          "id": "ZPOOSRP-B-original",
+          "shortCode": "ZPOOSRP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/99  str. 16654",
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5163",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOOSRP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortCode": "ZPOOSRP-C",
+      "kind": "zakon",
+      "keywords": [
+        "potres",
+        "državna pomoč",
+        "program pomoči"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3144",
+      "gazette": "Uradni list RS 59/2001  str. 6030",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-19",
+      "validFrom": "2001-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3144",
+      "versions": [
+        {
+          "id": "ZPOOSRP-C-original",
+          "shortCode": "ZPOOSRP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2001  str. 6030",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3144",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOOSRP-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o popotresni obnovi objektov in spodbujanju razvoja v Posočju",
+      "shortCode": "ZPOOSRP-D",
+      "kind": "zakon",
+      "keywords": [
+        "naravno okolje",
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3854",
+      "gazette": "Uradni list RS 86/04  str. 10471",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3854",
+      "versions": [
+        {
+          "id": "ZPOOSRP-D-original",
+          "shortCode": "ZPOOSRP-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10471",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOOSRP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3854",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

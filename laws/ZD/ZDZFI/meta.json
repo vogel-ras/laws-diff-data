@@ -1,0 +1,283 @@
+{
+  "root": "ZDZFI",
+  "path": "laws/ZD/ZDZFI",
+  "members": [
+    {
+      "id": "ZDZFI",
+      "title": "Zakon o Družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortTitle": "Zakon o Družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortCode": "ZDZFI",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje izvoza",
+        "zavarovanje izvoznih kreditov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-1564",
+      "gazette": "Uradni list RS 32/92  str. 2137",
+      "issuingBody": null,
+      "adoptedAt": "1992-06-30",
+      "validFrom": "1992-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1564",
+      "versions": [
+        {
+          "id": "ZDZFI-original",
+          "shortCode": "ZDZFI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/92  str. 2137",
+          "publishedAt": "1992-06-30",
+          "effectiveFrom": "1992-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1564",
+          "proposer": null
+        },
+        {
+          "id": "ZDZFI-amend-ZDZFI-A",
+          "shortCode": "ZDZFI-A",
+          "label": "Sprememba ZDZFI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/95  str. 2694",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1814",
+          "proposer": null
+        },
+        {
+          "id": "ZDZFI-amend-ZDZFI-B",
+          "shortCode": "ZDZFI-B",
+          "label": "Sprememba ZDZFI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 34/96  str. 2821",
+          "publishedAt": "1996-06-29",
+          "effectiveFrom": "1996-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2204",
+          "proposer": null
+        },
+        {
+          "id": "ZDZFI-amend-ZDZFI-C",
+          "shortCode": "ZDZFI-C",
+          "label": "Sprememba ZDZFI-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 31/97  str. 2724",
+          "publishedAt": "1997-05-30",
+          "effectiveFrom": "1997-05-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1734",
+          "proposer": null
+        },
+        {
+          "id": "ZDZFI-amend-ZDZFI-D",
+          "shortCode": "ZDZFI-D",
+          "label": "Sprememba ZDZFI-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 99/99  str. 14769",
+          "publishedAt": "1999-12-09",
+          "effectiveFrom": "1999-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4697",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZFI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortCode": "ZDZFI-A",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje izvoza",
+        "zavarovanje izvoznih kreditov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1814",
+      "gazette": "Uradni list RS 37/95  str. 2694",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-30",
+      "validFrom": "1995-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1995-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1814",
+      "versions": [
+        {
+          "id": "ZDZFI-A-original",
+          "shortCode": "ZDZFI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/95  str. 2694",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1814",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZFI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortCode": "ZDZFI-B",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje izvoza",
+        "zavarovanje izvoznih kreditov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2204",
+      "gazette": "Uradni list RS 34/96  str. 2821",
+      "issuingBody": null,
+      "adoptedAt": "1996-06-29",
+      "validFrom": "1996-06-29",
+      "validTo": null,
+      "latestPublishedAt": "1996-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2204",
+      "versions": [
+        {
+          "id": "ZDZFI-B-original",
+          "shortCode": "ZDZFI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 34/96  str. 2821",
+          "publishedAt": "1996-06-29",
+          "effectiveFrom": "1996-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2204",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZFI-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortCode": "ZDZFI-C",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje izvoza",
+        "drseči tečaj",
+        "zavarovanje izvoznih kreditov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1734",
+      "gazette": "Uradni list RS 31/97  str. 2724",
+      "issuingBody": null,
+      "adoptedAt": "1997-05-30",
+      "validFrom": "1997-05-30",
+      "validTo": null,
+      "latestPublishedAt": "1997-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1734",
+      "versions": [
+        {
+          "id": "ZDZFI-C-original",
+          "shortCode": "ZDZFI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/97  str. 2724",
+          "publishedAt": "1997-05-30",
+          "effectiveFrom": "1997-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1734",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDZFI-D",
+      "title": "Zakon o spremembi in dopolnitvi zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o družbi za zavarovanje in financiranje izvoza Slovenije",
+      "shortCode": "ZDZFI-D",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje izvoza",
+        "delniška družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4697",
+      "gazette": "Uradni list RS 99/99  str. 14769",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-09",
+      "validFrom": "1999-12-09",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4697",
+      "versions": [
+        {
+          "id": "ZDZFI-D-original",
+          "shortCode": "ZDZFI-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 99/99  str. 14769",
+          "publishedAt": "1999-12-09",
+          "effectiveFrom": "1999-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDZFI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4697",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED6889",
+  "path": "laws/UR/URED6889",
+  "members": [
+    {
+      "id": "URED6889",
+      "title": "Uredba o državnem prostorskem načrtu za prenosni plinovod M3/1 Kalce–Vodice",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za prenosni plinovod M3/1 Kalce–Vodice",
+      "shortCode": "URED6889",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-0630",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-03-13",
+      "validFrom": "2015-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0630",
+      "versions": [
+        {
+          "id": "URED6889-original",
+          "shortCode": "URED6889",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0630",
+          "proposer": null
+        },
+        {
+          "id": "URED6889-npb-URED6889",
+          "shortCode": "URED6889-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-03-13",
+          "effectiveFrom": "2015-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6889",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

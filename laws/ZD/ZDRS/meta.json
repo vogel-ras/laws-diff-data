@@ -1,0 +1,333 @@
+{
+  "root": "ZDRS",
+  "path": "laws/ZD/ZDRS",
+  "members": [
+    {
+      "id": "ZAKO7688",
+      "title": "Zakon o dopolnitvah Zakona o državljanstvu Republike Slovenije (ZDRS-E)",
+      "shortTitle": "Zakon o dopolnitvah Zakona o državljanstvu Republike Slovenije (ZDRS-E)",
+      "shortCode": "ZDRS-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2003",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-20",
+      "validFrom": "2017-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2003",
+      "versions": [
+        {
+          "id": "ZAKO7688-original",
+          "shortCode": "ZDRS-E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2003",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRS",
+      "title": "Zakon o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0008",
+      "gazette": "Uradni list RS 1/91  str. 6",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0008",
+      "versions": [
+        {
+          "id": "ZDRS-original",
+          "shortCode": "ZDRS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 6",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0008",
+          "proposer": null
+        },
+        {
+          "id": "ZDRS-amend-ZDRS-A",
+          "shortCode": "ZDRS-A",
+          "label": "Sprememba ZDRS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 30/91  str. 1245",
+          "publishedAt": "1991-12-14",
+          "effectiveFrom": "1991-12-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1238",
+          "proposer": null
+        },
+        {
+          "id": "ZDRS-amend-ZDRS-B",
+          "shortCode": "ZDRS-B",
+          "label": "Sprememba ZDRS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 38/92  str. 2409",
+          "publishedAt": "1992-08-01",
+          "effectiveFrom": "1992-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1892",
+          "proposer": null
+        },
+        {
+          "id": "ZDRS-amend-ZDRS-C",
+          "shortCode": "ZDRS-C",
+          "label": "Sprememba ZDRS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 13/94  str. 715",
+          "publishedAt": "1994-03-10",
+          "effectiveFrom": "1994-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0516",
+          "proposer": null
+        },
+        {
+          "id": "ZDRS-amend-ZDRS-D",
+          "shortCode": "ZDRS-D",
+          "label": "Sprememba ZDRS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 127/06  str. 13935",
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5355",
+          "proposer": null
+        },
+        {
+          "id": "ZDRS-amend-ZAKO7688",
+          "shortCode": "ZDRS-E",
+          "label": "Sprememba ZDRS-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2003",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRS-A",
+      "title": "Zakon o dopolnitvi zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o dopolnitvi zakona o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS-A",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1238",
+      "gazette": "Uradni list RS 30/91  str. 1245",
+      "issuingBody": null,
+      "adoptedAt": "1991-12-14",
+      "validFrom": "1991-12-14",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1238",
+      "versions": [
+        {
+          "id": "ZDRS-A-original",
+          "shortCode": "ZDRS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/91  str. 1245",
+          "publishedAt": "1991-12-14",
+          "effectiveFrom": "1991-12-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1238",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRS-B",
+      "title": "Zakon o spremembi in dopolnitvi zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS-B",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-1892",
+      "gazette": "Uradni list RS 38/92  str. 2409",
+      "issuingBody": null,
+      "adoptedAt": "1992-08-01",
+      "validFrom": "1992-08-01",
+      "validTo": null,
+      "latestPublishedAt": "1992-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1892",
+      "versions": [
+        {
+          "id": "ZDRS-B-original",
+          "shortCode": "ZDRS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/92  str. 2409",
+          "publishedAt": "1992-08-01",
+          "effectiveFrom": "1992-08-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1892",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRS-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS-C",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0516",
+      "gazette": "Uradni list RS 13/94  str. 715",
+      "issuingBody": null,
+      "adoptedAt": "1994-03-10",
+      "validFrom": "1994-03-10",
+      "validTo": null,
+      "latestPublishedAt": "1994-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0516",
+      "versions": [
+        {
+          "id": "ZDRS-C-original",
+          "shortCode": "ZDRS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/94  str. 715",
+          "publishedAt": "1994-03-10",
+          "effectiveFrom": "1994-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDRS-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državljanstvu Republike Slovenije",
+      "shortCode": "ZDRS-D",
+      "kind": "zakon",
+      "keywords": [
+        "državljanstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5355",
+      "gazette": "Uradni list RS 127/06  str. 13935",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-07",
+      "validFrom": "2006-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5355",
+      "versions": [
+        {
+          "id": "ZDRS-D-original",
+          "shortCode": "ZDRS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 127/06  str. 13935",
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5355",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

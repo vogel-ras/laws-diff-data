@@ -1,0 +1,163 @@
+{
+  "root": "ZVPSBNO",
+  "path": "laws/ZV/ZVPSBNO",
+  "members": [
+    {
+      "id": "ZVPSBNO",
+      "title": "Zakon o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortTitle": "Zakon o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortCode": "ZVPSBNO",
+      "kind": "zakon",
+      "keywords": [
+        "odškodnina",
+        "sodni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2091",
+      "gazette": "Uradni list RS 49/06  str. 5265",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-12",
+      "validFrom": "2006-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2091",
+      "versions": [
+        {
+          "id": "ZVPSBNO-original",
+          "shortCode": "ZVPSBNO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/06  str. 5265",
+          "publishedAt": "2006-05-12",
+          "effectiveFrom": "2006-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2091",
+          "proposer": null
+        },
+        {
+          "id": "ZVPSBNO-amend-ZVPSBNO-A",
+          "shortCode": "ZVPSBNO-A",
+          "label": "Sprememba ZVPSBNO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 58/09  str. 8137",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVPSBNO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2867",
+          "proposer": null
+        },
+        {
+          "id": "ZVPSBNO-amend-ZVPSBNO-B",
+          "shortCode": "ZVPSBNO-B",
+          "label": "Sprememba ZVPSBNO-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 38/12  str. 4068",
+          "publishedAt": "2012-05-25",
+          "effectiveFrom": "2012-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPSBNO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1629",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPSBNO-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortCode": "ZVPSBNO-A",
+      "kind": "zakon",
+      "keywords": [
+        "odškodnina",
+        "sodni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2867",
+      "gazette": "Uradni list RS 58/09  str. 8137",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-27",
+      "validFrom": "2009-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2867",
+      "versions": [
+        {
+          "id": "ZVPSBNO-A-original",
+          "shortCode": "ZVPSBNO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/09  str. 8137",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPSBNO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2867",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPSBNO-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu pravice do sojenja brez nepotrebnega odlašanja",
+      "shortCode": "ZVPSBNO-B",
+      "kind": "zakon",
+      "keywords": [
+        "sodni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1629",
+      "gazette": "Uradni list RS 38/12  str. 4068",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-25",
+      "validFrom": "2012-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1629",
+      "versions": [
+        {
+          "id": "ZVPSBNO-B-original",
+          "shortCode": "ZVPSBNO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/12  str. 4068",
+          "publishedAt": "2012-05-25",
+          "effectiveFrom": "2012-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPSBNO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1629",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

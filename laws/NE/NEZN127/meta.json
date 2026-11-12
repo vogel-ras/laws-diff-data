@@ -1,0 +1,121 @@
+{
+  "root": "NEZN127",
+  "path": "laws/NE/NEZN127",
+  "members": [
+    {
+      "id": "NEZN127",
+      "title": "Pravilnik o higieni živil",
+      "shortTitle": "Pravilnik o higieni živil",
+      "shortCode": "NEZN127",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2002-01-2890",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-07-10",
+      "validFrom": "2002-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2890",
+      "versions": [
+        {
+          "id": "NEZN127-original",
+          "shortCode": "NEZN127",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-10",
+          "effectiveFrom": "2002-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2890",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4407",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o higieni živil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o higieni živil",
+      "shortCode": "PRAV4407",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0468",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-02-06",
+      "validFrom": "2004-02-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0468",
+      "versions": [
+        {
+          "id": "PRAV4407-original",
+          "shortCode": "PRAV4407",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-06",
+          "effectiveFrom": "2004-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NEZN127"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0468",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5881",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o higieni živil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o higieni živil",
+      "shortCode": "PRAV5881",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2322",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-05-07",
+      "validFrom": "2004-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2322",
+      "versions": [
+        {
+          "id": "PRAV5881-original",
+          "shortCode": "PRAV5881",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-05-07",
+          "effectiveFrom": "2004-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NEZN127"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2322",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

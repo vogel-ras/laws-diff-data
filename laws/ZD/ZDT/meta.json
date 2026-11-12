@@ -1,0 +1,718 @@
+{
+  "root": "ZDT",
+  "path": "laws/ZD/ZDT",
+  "members": [
+    {
+      "id": "ZAKO5812",
+      "title": "Zakon o državnem tožilstvu (ZDT-1)",
+      "shortTitle": "Zakon o državnem tožilstvu (ZDT-1)",
+      "shortCode": "ZDT-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2713",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-07-22",
+      "validFrom": "2011-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2713",
+      "versions": [
+        {
+          "id": "ZAKO5812-original",
+          "shortCode": "ZDT-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-07-22",
+          "effectiveFrom": "2011-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2713",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5812-amend-ZDT-1A",
+          "shortCode": "ZDT-1A",
+          "label": "Sprememba ZDT-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/12  str. 4811",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1958",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5812-amend-ZDT-1B",
+          "shortCode": "ZDT-1B",
+          "label": "Sprememba ZDT-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 19/15  str. 1987",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0712",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5812-amend-ZDT-1C",
+          "shortCode": "ZDT-1C",
+          "label": "Sprememba ZDT-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 36/19  str. 4245",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1626",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5812-amend-ZDT-1D",
+          "shortCode": "ZDT-1D",
+          "label": "Sprememba ZDT-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 139/20  str. 5710",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2453",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT",
+      "title": "Zakon o državnem tožilstvu",
+      "shortTitle": "Zakon o državnem tožilstvu",
+      "shortCode": "ZDT",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2169",
+      "gazette": "Uradni list RS 63/94  str. 3567",
+      "issuingBody": null,
+      "adoptedAt": "1994-10-13",
+      "validFrom": "1994-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2169",
+      "versions": [
+        {
+          "id": "ZDT-original",
+          "shortCode": "ZDT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/94  str. 3567",
+          "publishedAt": "1994-10-13",
+          "effectiveFrom": "1994-10-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2169",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-A",
+          "shortCode": "ZDT-A",
+          "label": "Sprememba ZDT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/99  str. 7539",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2793",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-B",
+          "shortCode": "ZDT-B",
+          "label": "Sprememba ZDT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 110/2002  str. 13138",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5389",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-C",
+          "shortCode": "ZDT-C",
+          "label": "Sprememba ZDT-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 17/06  str. 1508",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0624",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-D",
+          "shortCode": "ZDT-D",
+          "label": "Sprememba ZDT-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 14/07  str. 1545",
+          "publishedAt": "2007-02-16",
+          "effectiveFrom": "2007-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0602",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-E",
+          "shortCode": "ZDT-E",
+          "label": "Sprememba ZDT-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 40/07  str. 5539",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2171",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-F",
+          "shortCode": "ZDT-F",
+          "label": "Sprememba ZDT-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 57/07  str. 7751",
+          "publishedAt": "2007-06-29",
+          "effectiveFrom": "2007-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3032",
+          "proposer": null
+        },
+        {
+          "id": "ZDT-amend-ZDT-G",
+          "shortCode": "ZDT-G",
+          "label": "Sprememba ZDT-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 87/09  str. 11776",
+          "publishedAt": "2009-11-02",
+          "effectiveFrom": "2009-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3840",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortCode": "ZDT-1A",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1958",
+      "gazette": "Uradni list RS 47/12  str. 4811",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-22",
+      "validFrom": "2012-06-22",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1958",
+      "versions": [
+        {
+          "id": "ZDT-1A-original",
+          "shortCode": "ZDT-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/12  str. 4811",
+          "publishedAt": "2012-06-22",
+          "effectiveFrom": "2012-06-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1958",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortCode": "ZDT-1B",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-0712",
+      "gazette": "Uradni list RS 19/15  str. 1987",
+      "issuingBody": null,
+      "adoptedAt": "2015-03-20",
+      "validFrom": "2015-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0712",
+      "versions": [
+        {
+          "id": "ZDT-1B-original",
+          "shortCode": "ZDT-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/15  str. 1987",
+          "publishedAt": "2015-03-20",
+          "effectiveFrom": "2015-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0712",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortCode": "ZDT-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1626",
+      "gazette": "Uradni list RS 36/19  str. 4245",
+      "issuingBody": null,
+      "adoptedAt": "2019-06-07",
+      "validFrom": "2019-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1626",
+      "versions": [
+        {
+          "id": "ZDT-1C-original",
+          "shortCode": "ZDT-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/19  str. 4245",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1626",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-1D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortCode": "ZDT-1D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2453",
+      "gazette": "Uradni list RS 139/20  str. 5710",
+      "issuingBody": null,
+      "adoptedAt": "2020-10-09",
+      "validFrom": "2020-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2453",
+      "versions": [
+        {
+          "id": "ZDT-1D-original",
+          "shortCode": "ZDT-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/20  str. 5710",
+          "publishedAt": "2020-10-09",
+          "effectiveFrom": "2020-10-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2453",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-A",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2793",
+      "gazette": "Uradni list RS 59/99  str. 7539",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-23",
+      "validFrom": "1999-07-23",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2793",
+      "versions": [
+        {
+          "id": "ZDT-A-original",
+          "shortCode": "ZDT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/99  str. 7539",
+          "publishedAt": "1999-07-23",
+          "effectiveFrom": "1999-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2793",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-B",
+      "kind": "zakon",
+      "keywords": [
+        "dohodek",
+        "rudarski obrat",
+        "premog"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5389",
+      "gazette": "Uradni list RS 110/2002  str. 13138",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5389",
+      "versions": [
+        {
+          "id": "ZDT-B-original",
+          "shortCode": "ZDT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13138",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5389",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-C",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0624",
+      "gazette": "Uradni list RS 17/06  str. 1508",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-17",
+      "validFrom": "2006-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0624",
+      "versions": [
+        {
+          "id": "ZDT-C-original",
+          "shortCode": "ZDT-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/06  str. 1508",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0624",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-D",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-0602",
+      "gazette": "Uradni list RS 14/07  str. 1545",
+      "issuingBody": null,
+      "adoptedAt": "2007-02-16",
+      "validFrom": "2007-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0602",
+      "versions": [
+        {
+          "id": "ZDT-D-original",
+          "shortCode": "ZDT-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/07  str. 1545",
+          "publishedAt": "2007-02-16",
+          "effectiveFrom": "2007-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0602",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-E",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2171",
+      "gazette": "Uradni list RS 40/07  str. 5539",
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2171",
+      "versions": [
+        {
+          "id": "ZDT-E-original",
+          "shortCode": "ZDT-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/07  str. 5539",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2171",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o državnem tožilstvu",
+      "shortCode": "ZDT-F",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3032",
+      "gazette": "Uradni list RS 57/07  str. 7751",
+      "issuingBody": null,
+      "adoptedAt": "2007-06-29",
+      "validFrom": "2007-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3032",
+      "versions": [
+        {
+          "id": "ZDT-F-original",
+          "shortCode": "ZDT-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/07  str. 7751",
+          "publishedAt": "2007-06-29",
+          "effectiveFrom": "2007-06-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3032",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDT-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o državnem tožilstvu",
+      "shortCode": "ZDT-G",
+      "kind": "zakon",
+      "keywords": [
+        "državno tožilstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3840",
+      "gazette": "Uradni list RS 87/09  str. 11776",
+      "issuingBody": null,
+      "adoptedAt": "2009-11-02",
+      "validFrom": "2009-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3840",
+      "versions": [
+        {
+          "id": "ZDT-G-original",
+          "shortCode": "ZDT-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/09  str. 11776",
+          "publishedAt": "2009-11-02",
+          "effectiveFrom": "2009-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3840",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

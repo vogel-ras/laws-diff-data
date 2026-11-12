@@ -1,0 +1,165 @@
+{
+  "root": "ZGV",
+  "path": "laws/ZG/ZGV",
+  "members": [
+    {
+      "id": "ZGV",
+      "title": "Zakon o gorskih vodnikih",
+      "shortTitle": "Zakon o gorskih vodnikih",
+      "shortCode": "ZGV",
+      "kind": "zakon",
+      "keywords": [
+        "turizem",
+        "gorsko območje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-3007",
+      "gazette": "Uradni list RS 63/99  str. 8121",
+      "issuingBody": null,
+      "adoptedAt": "1999-08-06",
+      "validFrom": "1999-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3007",
+      "versions": [
+        {
+          "id": "ZGV-original",
+          "shortCode": "ZGV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/99  str. 8121",
+          "publishedAt": "1999-08-06",
+          "effectiveFrom": "1999-08-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3007",
+          "proposer": null
+        },
+        {
+          "id": "ZGV-amend-ZGV-A",
+          "shortCode": "ZGV-A",
+          "label": "Sprememba ZGV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/04  str. 4456",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZGV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1603",
+          "proposer": null
+        },
+        {
+          "id": "ZGV-amend-ZGV-B",
+          "shortCode": "ZGV-B",
+          "label": "Sprememba ZGV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 59/10  str. 8899",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3276",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGV-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o gorskih vodnikih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o gorskih vodnikih",
+      "shortCode": "ZGV-A",
+      "kind": "zakon",
+      "keywords": [
+        "gorsko območje",
+        "turizem",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1603",
+      "gazette": "Uradni list RS 37/04  str. 4456",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1603",
+      "versions": [
+        {
+          "id": "ZGV-A-original",
+          "shortCode": "ZGV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4456",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1603",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGV-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gorskih vodnikih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gorskih vodnikih",
+      "shortCode": "ZGV-B",
+      "kind": "zakon",
+      "keywords": [
+        "turizem",
+        "gorsko območje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-3276",
+      "gazette": "Uradni list RS 59/10  str. 8899",
+      "issuingBody": null,
+      "adoptedAt": "2010-07-23",
+      "validFrom": "2010-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3276",
+      "versions": [
+        {
+          "id": "ZGV-B-original",
+          "shortCode": "ZGV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/10  str. 8899",
+          "publishedAt": "2010-07-23",
+          "effectiveFrom": "2010-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3276",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

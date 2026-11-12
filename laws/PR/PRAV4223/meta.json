@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4223",
+  "path": "laws/PR/PRAV4223",
+  "members": [
+    {
+      "id": "PRAV4223",
+      "title": "Pravilnik o prezračevanju in klimatizaciji stavb",
+      "shortTitle": "Pravilnik o prezračevanju in klimatizaciji stavb",
+      "shortCode": "PRAV4223",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-2013",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-12-05",
+      "validFrom": "2002-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2013",
+      "versions": [
+        {
+          "id": "PRAV4223-original",
+          "shortCode": "PRAV4223",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-05",
+          "effectiveFrom": "2002-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2013",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4223-npb-PRAV4223",
+          "shortCode": "PRAV4223-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4223",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4476",
+      "title": "Pravilnik o spremembi pravilnika o prezračevanju in klimatizaciji stavb",
+      "shortTitle": "Pravilnik o spremembi pravilnika o prezračevanju in klimatizaciji stavb",
+      "shortCode": "PRAV4476",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5224",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2002-12-05",
+      "validFrom": "2002-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5224",
+      "versions": [
+        {
+          "id": "PRAV4476-original",
+          "shortCode": "PRAV4476",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-05",
+          "effectiveFrom": "2002-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4223"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5224",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

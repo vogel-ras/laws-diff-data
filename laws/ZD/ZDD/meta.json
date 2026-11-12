@@ -1,0 +1,360 @@
+{
+  "root": "ZDD",
+  "path": "laws/ZD/ZDD",
+  "members": [
+    {
+      "id": "ZDD",
+      "title": "Zakon o detektivski dejavnosti",
+      "shortTitle": "Zakon o detektivski dejavnosti",
+      "shortCode": "ZDD",
+      "kind": "zakon",
+      "keywords": [
+        "preiskava",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1317",
+      "gazette": "Uradni list RS 32/94  str. 2045",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-10",
+      "validFrom": "1994-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1317",
+      "versions": [
+        {
+          "id": "ZDD-original",
+          "shortCode": "ZDD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/94  str. 2045",
+          "publishedAt": "1994-06-10",
+          "effectiveFrom": "1994-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1317",
+          "proposer": null
+        },
+        {
+          "id": "ZDD-amend-ZDD-A",
+          "shortCode": "ZDD-A",
+          "label": "Sprememba ZDD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 96/2002  str. 10503",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4802",
+          "proposer": null
+        },
+        {
+          "id": "ZDD-amend-ZDD-B",
+          "shortCode": "ZDD-B",
+          "label": "Sprememba ZDD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 90/05  str. 9233",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3850",
+          "proposer": null
+        },
+        {
+          "id": "ZDD-amend-ZDD-C",
+          "shortCode": "ZDD-C",
+          "label": "Sprememba ZDD-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 60/07  str. 8368",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3213",
+          "proposer": null
+        },
+        {
+          "id": "ZDD-amend-ZDD-D",
+          "shortCode": "ZDD-D",
+          "label": "Sprememba ZDD-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 29/10  str. 3872",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1265",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-1",
+      "title": "Zakon o detektivski dejavnosti",
+      "shortTitle": "Zakon o detektivski dejavnosti",
+      "shortCode": "ZDD-1",
+      "kind": "zakon",
+      "keywords": [
+        "preiskava",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0689",
+      "gazette": "Uradni list RS 17/11  str. 2047",
+      "issuingBody": null,
+      "adoptedAt": "2011-03-11",
+      "validFrom": "2011-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0689",
+      "versions": [
+        {
+          "id": "ZDD-1-original",
+          "shortCode": "ZDD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/11  str. 2047",
+          "publishedAt": "2011-03-11",
+          "effectiveFrom": "2011-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0689",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-2",
+      "title": "Zakon o detektivski dejavnosti",
+      "shortTitle": "Zakon o detektivski dejavnosti",
+      "shortCode": "ZDD-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2865",
+      "gazette": "Uradni list RS 95/24  str. 9119",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2865",
+      "versions": [
+        {
+          "id": "ZDD-2-original",
+          "shortCode": "ZDD-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9119",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2865",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortCode": "ZDD-A",
+      "kind": "zakon",
+      "keywords": [
+        "kaznivo dejanje",
+        "preiskava",
+        "javna varnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4802",
+      "gazette": "Uradni list RS 96/2002  str. 10503",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4802",
+      "versions": [
+        {
+          "id": "ZDD-A-original",
+          "shortCode": "ZDD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10503",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4802",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-B",
+      "title": "Zakon o spremembah zakona o detektivski dejavnosti",
+      "shortTitle": "Zakon o spremembah zakona o detektivski dejavnosti",
+      "shortCode": "ZDD-B",
+      "kind": "zakon",
+      "keywords": [
+        "preiskava",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3850",
+      "gazette": "Uradni list RS 90/05  str. 9233",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-10",
+      "validFrom": "2005-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3850",
+      "versions": [
+        {
+          "id": "ZDD-B-original",
+          "shortCode": "ZDD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/05  str. 9233",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3850",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortCode": "ZDD-C",
+      "kind": "zakon",
+      "keywords": [
+        "preiskava",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3213",
+      "gazette": "Uradni list RS 60/07  str. 8368",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-06",
+      "validFrom": "2007-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3213",
+      "versions": [
+        {
+          "id": "ZDD-C-original",
+          "shortCode": "ZDD-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/07  str. 8368",
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3213",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDD-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o detektivski dejavnosti",
+      "shortCode": "ZDD-D",
+      "kind": "zakon",
+      "keywords": [
+        "preiskava",
+        "storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1265",
+      "gazette": "Uradni list RS 29/10  str. 3872",
+      "issuingBody": null,
+      "adoptedAt": "2010-04-09",
+      "validFrom": "2010-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1265",
+      "versions": [
+        {
+          "id": "ZDD-D-original",
+          "shortCode": "ZDD-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/10  str. 3872",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1265",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

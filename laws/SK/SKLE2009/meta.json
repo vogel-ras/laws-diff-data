@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2009",
+  "path": "laws/SK/SKLE2009",
+  "members": [
+    {
+      "id": "SKLE2009",
+      "title": "Sklep o ustanovitvi, organizaciji in delovnem področju Urada za enake možnosti",
+      "shortTitle": "Sklep o ustanovitvi, organizaciji in delovnem področju Urada za enake možnosti",
+      "shortCode": "SKLE2009",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-0850",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-23",
+      "validFrom": "2001-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0850",
+      "versions": [
+        {
+          "id": "SKLE2009-original",
+          "shortCode": "SKLE2009",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-23",
+          "effectiveFrom": "2001-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0850",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4290",
+      "title": "Sklep o spremembah sklepa o ustanovitvi, organizaciji in delovnem področju Urada za enake možnosti",
+      "shortTitle": "Sklep o spremembah sklepa o ustanovitvi, organizaciji in delovnem področju Urada za enake možnosti",
+      "shortCode": "SKLE4290",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-5400",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5400",
+      "versions": [
+        {
+          "id": "SKLE4290-original",
+          "shortCode": "SKLE4290",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2009"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5400",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

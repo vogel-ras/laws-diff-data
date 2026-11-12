@@ -1,0 +1,105 @@
+{
+  "root": "ZPNOVS",
+  "path": "laws/ZP/ZPNOVS",
+  "members": [
+    {
+      "id": "ZPNOVS",
+      "title": "Zakon o parlamentarnem nadzoru obveščevalnih in varnostnih služb",
+      "shortTitle": "Zakon o parlamentarnem nadzoru obveščevalnih in varnostnih služb",
+      "shortCode": "ZPNOVS",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarni nadzor",
+        "tajna služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0985",
+      "gazette": "Uradni list RS 26/2003  str. 3215",
+      "issuingBody": null,
+      "adoptedAt": "2003-03-13",
+      "validFrom": "2003-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0985",
+      "versions": [
+        {
+          "id": "ZPNOVS-original",
+          "shortCode": "ZPNOVS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/2003  str. 3215",
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0985",
+          "proposer": null
+        },
+        {
+          "id": "ZPNOVS-amend-ZPNOVS-A",
+          "shortCode": "ZPNOVS-A",
+          "label": "Sprememba ZPNOVS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 67/07  str. 9525",
+          "publishedAt": "2007-07-27",
+          "effectiveFrom": "2007-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNOVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3702",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPNOVS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o parlamentarnem nadzoru obveščevalnih in varnostnih služb",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o parlamentarnem nadzoru obveščevalnih in varnostnih služb",
+      "shortCode": "ZPNOVS-A",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarni nadzor",
+        "tajna služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3702",
+      "gazette": "Uradni list RS 67/07  str. 9525",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-27",
+      "validFrom": "2007-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3702",
+      "versions": [
+        {
+          "id": "ZPNOVS-A-original",
+          "shortCode": "ZPNOVS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/07  str. 9525",
+          "publishedAt": "2007-07-27",
+          "effectiveFrom": "2007-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPNOVS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3702",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

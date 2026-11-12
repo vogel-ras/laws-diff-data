@@ -1,0 +1,105 @@
+{
+  "root": "ZIPRS0203",
+  "path": "laws/ZI/ZIPRS0203",
+  "members": [
+    {
+      "id": "ZIPRS0203",
+      "title": "Zakon o izvrševanju proračuna Republike Slovenije za leto 2002 in 2003",
+      "shortTitle": "Zakon o izvrševanju proračuna Republike Slovenije za leto 2002 in 2003",
+      "shortCode": "ZIPRS0203",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-5060",
+      "gazette": "Uradni list RS 103/2001  str. 10663",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-17",
+      "validFrom": "2001-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5060",
+      "versions": [
+        {
+          "id": "ZIPRS0203-original",
+          "shortCode": "ZIPRS0203",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 103/2001  str. 10663",
+          "publishedAt": "2001-12-17",
+          "effectiveFrom": "2001-12-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5060",
+          "proposer": null
+        },
+        {
+          "id": "ZIPRS0203-amend-ZIPRS0203-A",
+          "shortCode": "ZIPRS0203-A",
+          "label": "Sprememba ZIPRS0203-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2002  str. 6994",
+          "publishedAt": "2002-07-19",
+          "effectiveFrom": "2002-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0203"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3072",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS0203-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leto 2002 in 2003",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije za leto 2002 in 2003",
+      "shortCode": "ZIPRS0203-A",
+      "kind": "zakon",
+      "keywords": [
+        "državni proračun",
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3072",
+      "gazette": "Uradni list RS 64/2002  str. 6994",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-19",
+      "validFrom": "2002-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3072",
+      "versions": [
+        {
+          "id": "ZIPRS0203-A-original",
+          "shortCode": "ZIPRS0203-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2002  str. 6994",
+          "publishedAt": "2002-07-19",
+          "effectiveFrom": "2002-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIPRS0203"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3072",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

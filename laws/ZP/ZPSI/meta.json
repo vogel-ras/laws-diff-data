@@ -1,0 +1,315 @@
+{
+  "root": "ZPSI",
+  "path": "laws/ZP/ZPSI",
+  "members": [
+    {
+      "id": "ZAKO6822",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju (ZPSI-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju (ZPSI-1A)",
+      "shortCode": "ZPSI-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3194",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-30",
+      "validFrom": "2017-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3194",
+      "versions": [
+        {
+          "id": "ZAKO6822-original",
+          "shortCode": "ZPSI-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-30",
+          "effectiveFrom": "2017-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3194",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSI",
+      "title": "Zakon o poklicnem in strokovnem izobraževanju",
+      "shortTitle": "Zakon o poklicnem in strokovnem izobraževanju",
+      "shortCode": "ZPSI",
+      "kind": "zakon",
+      "keywords": [
+        "izobraževanje",
+        "poklicno izobraževanje",
+        "strokovno izpopolnjevanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0568",
+      "gazette": "Uradni list RS 12/96  str. 862",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-29",
+      "validFrom": "1996-02-29",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0568",
+      "versions": [
+        {
+          "id": "ZPSI-original",
+          "shortCode": "ZPSI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/96  str. 862",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0568",
+          "proposer": null
+        },
+        {
+          "id": "ZPSI-amend-ZPSI-A",
+          "shortCode": "ZPSI-A",
+          "label": "Sprememba ZPSI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 44/2000  str. 5933",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2063",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSI-1",
+      "title": "Zakon o poklicnem in strokovnem izobraževanju",
+      "shortTitle": "Zakon o poklicnem in strokovnem izobraževanju",
+      "shortCode": "ZPSI-1",
+      "kind": "zakon",
+      "keywords": [
+        "izobraževanje",
+        "poklicno izobraževanje",
+        "strokovno izpopolnjevanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3449",
+      "gazette": "Uradni list RS 79/06  str. 8495",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-27",
+      "validFrom": "2006-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3449",
+      "versions": [
+        {
+          "id": "ZPSI-1-original",
+          "shortCode": "ZPSI-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/06  str. 8495",
+          "publishedAt": "2006-07-27",
+          "effectiveFrom": "2006-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3449",
+          "proposer": null
+        },
+        {
+          "id": "ZPSI-1-amend-ZAKO6822",
+          "shortCode": "ZPSI-1A",
+          "label": "Sprememba ZPSI-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-11-30",
+          "effectiveFrom": "2017-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3194",
+          "proposer": null
+        },
+        {
+          "id": "ZPSI-1-amend-ZPSI-1B",
+          "shortCode": "ZPSI-1B",
+          "label": "Sprememba ZPSI-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 46/19  str. 5683",
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2179",
+          "proposer": null
+        },
+        {
+          "id": "ZPSI-1-amend-ZPSI-1C",
+          "shortCode": "ZPSI-1C",
+          "label": "Sprememba ZPSI-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 53/24  str. 4924",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1820",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSI-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju",
+      "shortCode": "ZPSI-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2179",
+      "gazette": "Uradni list RS 46/19  str. 5683",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-19",
+      "validFrom": "2019-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2179",
+      "versions": [
+        {
+          "id": "ZPSI-1B-original",
+          "shortCode": "ZPSI-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/19  str. 5683",
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2179",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSI-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poklicnem in strokovnem izobraževanju",
+      "shortCode": "ZPSI-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1820",
+      "gazette": "Uradni list RS 53/24  str. 4924",
+      "issuingBody": null,
+      "adoptedAt": "2024-06-28",
+      "validFrom": "2024-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1820",
+      "versions": [
+        {
+          "id": "ZPSI-1C-original",
+          "shortCode": "ZPSI-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/24  str. 4924",
+          "publishedAt": "2024-06-28",
+          "effectiveFrom": "2024-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1820",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poklicnem in strokovnem izobraževanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poklicnem in strokovnem izobraževanju",
+      "shortCode": "ZPSI-A",
+      "kind": "zakon",
+      "keywords": [
+        "poklicno izobraževanje",
+        "strokovno izpopolnjevanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2063",
+      "gazette": "Uradni list RS 44/2000  str. 5933",
+      "issuingBody": null,
+      "adoptedAt": "2000-05-26",
+      "validFrom": "2000-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2063",
+      "versions": [
+        {
+          "id": "ZPSI-A-original",
+          "shortCode": "ZPSI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/2000  str. 5933",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2063",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

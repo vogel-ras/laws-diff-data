@@ -1,0 +1,489 @@
+{
+  "root": "ZEKom",
+  "path": "laws/ZE/ZEKom",
+  "members": [
+    {
+      "id": "ZAKO7549",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah (ZEKom-1C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah (ZEKom-1C)",
+      "shortCode": "ZEKom-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2002",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-19",
+      "validFrom": "2017-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2002",
+      "versions": [
+        {
+          "id": "ZAKO7549-original",
+          "shortCode": "ZEKom-1C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-19",
+          "effectiveFrom": "2017-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom",
+      "title": "Zakon o elektronskih komunikacijah",
+      "shortTitle": "Zakon o elektronskih komunikacijah",
+      "shortCode": "ZEKom",
+      "kind": "zakon",
+      "keywords": [
+        "elektronsko poslovanje",
+        "telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1925",
+      "gazette": "Uradni list RS 43/04  str. 5217",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-26",
+      "validFrom": "2004-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1925",
+      "versions": [
+        {
+          "id": "ZEKom-original",
+          "shortCode": "ZEKom",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/04  str. 5217",
+          "publishedAt": "2004-04-26",
+          "effectiveFrom": "2004-04-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1925",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-amend-ZEKom-A",
+          "shortCode": "ZEKom-A",
+          "label": "Sprememba ZEKom-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 129/06  str. 14113",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5430",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-amend-ZEKom-B",
+          "shortCode": "ZEKom-B",
+          "label": "Sprememba ZEKom-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 110/09  str. 14965",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4985",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-amend-ZEKom-C",
+          "shortCode": "ZEKom-C",
+          "label": "Sprememba ZEKom-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 33/11  str. 4392",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1590",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-1",
+      "title": "Zakon o elektronskih komunikacijah",
+      "shortTitle": "Zakon o elektronskih komunikacijah",
+      "shortCode": "ZEKom-1",
+      "kind": "zakon",
+      "keywords": [
+        "komunikacijski sistem",
+        "internat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4315",
+      "gazette": "Uradni list RS 109/12  str. 12069",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4315",
+      "versions": [
+        {
+          "id": "ZEKom-1-original",
+          "shortCode": "ZEKom-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12069",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4315",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-1-amend-ZEKom-1A",
+          "shortCode": "ZEKom-1A",
+          "label": "Sprememba ZEKom-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 110/13  str. 12902",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4029",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-1-amend-ZEKom-1B",
+          "shortCode": "ZEKom-1B",
+          "label": "Sprememba ZEKom-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 81/15  str. 8832",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3188",
+          "proposer": null
+        },
+        {
+          "id": "ZEKom-1-amend-ZAKO7549",
+          "shortCode": "ZEKom-1C",
+          "label": "Sprememba ZEKom-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2017-07-19",
+          "effectiveFrom": "2017-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-1A",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o elektronskih komunikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o elektronskih komunikacijah",
+      "shortCode": "ZEKom-1A",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije",
+        "elektronska oprema",
+        "obdelava podatkov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4029",
+      "gazette": "Uradni list RS 110/13  str. 12902",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4029",
+      "versions": [
+        {
+          "id": "ZEKom-1A-original",
+          "shortCode": "ZEKom-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/13  str. 12902",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4029",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortCode": "ZEKom-1B",
+      "kind": "zakon",
+      "keywords": [
+        "komunikacijski sistem",
+        "internat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3188",
+      "gazette": "Uradni list RS 81/15  str. 8832",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-30",
+      "validFrom": "2015-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3188",
+      "versions": [
+        {
+          "id": "ZEKom-1B-original",
+          "shortCode": "ZEKom-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/15  str. 8832",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3188",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-2",
+      "title": "Zakon o elektronskih komunikacijah",
+      "shortTitle": "Zakon o elektronskih komunikacijah",
+      "shortCode": "ZEKom-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3081",
+      "gazette": "Uradni list RS 130/22  str. 9585",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3081",
+      "versions": [
+        {
+          "id": "ZEKom-2-original",
+          "shortCode": "ZEKom-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/22  str. 9585",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3081",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o elektronskih komunikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o elektronskih komunikacijah",
+      "shortCode": "ZEKom-A",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska oprema",
+        "elektronska pošta",
+        "obdelava podatkov",
+        "prenosno omrežje",
+        "telekomunikacije",
+        "urejanje telekomunikacij"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5430",
+      "gazette": "Uradni list RS 129/06  str. 14113",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-12",
+      "validFrom": "2006-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5430",
+      "versions": [
+        {
+          "id": "ZEKom-A-original",
+          "shortCode": "ZEKom-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 129/06  str. 14113",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5430",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortCode": "ZEKom-B",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska oprema",
+        "elektronska pošta",
+        "obdelava podatkov",
+        "prenosno omrežje",
+        "telekomunikacije",
+        "urejanje telekomunikacij"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4985",
+      "gazette": "Uradni list RS 110/09  str. 14965",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-29",
+      "validFrom": "2009-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4985",
+      "versions": [
+        {
+          "id": "ZEKom-B-original",
+          "shortCode": "ZEKom-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/09  str. 14965",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4985",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEKom-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o elektronskih komunikacijah",
+      "shortCode": "ZEKom-C",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska oprema",
+        "elektronska pošta",
+        "obdelava podatkov",
+        "prenosno omrežje",
+        "urejanje telekomunikacij",
+        "telekomunikacije",
+        "informacijsko omrežje",
+        "internet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1590",
+      "gazette": "Uradni list RS 33/11  str. 4392",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-03",
+      "validFrom": "2011-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1590",
+      "versions": [
+        {
+          "id": "ZEKom-C-original",
+          "shortCode": "ZEKom-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/11  str. 4392",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEKom"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1590",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

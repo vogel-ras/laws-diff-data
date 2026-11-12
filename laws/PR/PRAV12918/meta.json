@@ -1,0 +1,60 @@
+{
+  "root": "PRAV12918",
+  "path": "laws/PR/PRAV12918",
+  "members": [
+    {
+      "id": "PRAV12918",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o nadzornem informacijskem sistemu igralnih naprav",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o nadzornem informacijskem sistemu igralnih naprav",
+      "shortCode": "PRAV12918",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2133",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-18",
+      "validFrom": "2024-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2133",
+      "versions": [
+        {
+          "id": "PRAV12918-original",
+          "shortCode": "PRAV12918",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-18",
+          "effectiveFrom": "2024-09-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PRAV4102"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2133",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12918-npb-PRAV12918",
+          "shortCode": "PRAV12918-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-06-18",
+          "effectiveFrom": "2021-06-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12918",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

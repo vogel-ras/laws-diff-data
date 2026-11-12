@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO46943",
+  "path": "ordinances/MP/MP_ODLO46943",
+  "members": [
+    {
+      "id": "MP_ODLO46943",
+      "title": "Odlok o načinu opravljanja gospodarske javne službe zavetišča za zapuščene živali na območju Mestne občine Celje (ODLO)",
+      "shortTitle": "Odlok o načinu opravljanja gospodarske javne službe zavetišča za zapuščene živali na območju Mestne občine Celje (ODLO)",
+      "shortCode": "MP_ODLO46943",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2022-01-2115",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-17",
+      "validFrom": "2026-01-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2115",
+      "versions": [
+        {
+          "id": "MP_ODLO46943-original",
+          "shortCode": "MP_ODLO46943",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-17",
+          "effectiveFrom": "2026-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2115",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO60334",
+      "title": "Odlok o spremembi Odloka o načinu opravljanja gospodarske javne službe zavetišča za zapuščene živali na območju Mestne občine Celje (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o načinu opravljanja gospodarske javne službe zavetišča za zapuščene živali na območju Mestne občine Celje (ODLO)",
+      "shortCode": "MP_ODLO60334",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Celje",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2025-01-3307",
+      "gazette": null,
+      "issuingBody": "Mestna občina Celje",
+      "adoptedAt": "2025-11-28",
+      "validFrom": "2025-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3307",
+      "versions": [
+        {
+          "id": "MP_ODLO60334-original",
+          "shortCode": "MP_ODLO60334",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-28",
+          "effectiveFrom": "2025-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO46943"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3307",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

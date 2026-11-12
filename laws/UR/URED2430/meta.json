@@ -1,0 +1,82 @@
+{
+  "root": "URED2430",
+  "path": "laws/UR/URED2430",
+  "members": [
+    {
+      "id": "URED2430",
+      "title": "Uredba o pridobivanju in posredovanju podatkov med organi javne uprave za potrebe upravnih postopkov",
+      "shortTitle": "Uredba o pridobivanju in posredovanju podatkov med organi javne uprave za potrebe upravnih postopkov",
+      "shortCode": "URED2430",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-1816",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-04-29",
+      "validFrom": "2002-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1816",
+      "versions": [
+        {
+          "id": "URED2430-original",
+          "shortCode": "URED2430",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-29",
+          "effectiveFrom": "2002-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1816",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3179",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o pridobivanju in posredovanju podatkov med organi javne uprave za potrebe upravnih postopkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o pridobivanju in posredovanju podatkov med organi javne uprave za potrebe upravnih postopkov",
+      "shortCode": "URED3179",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-5495",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-12-22",
+      "validFrom": "2003-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5495",
+      "versions": [
+        {
+          "id": "URED3179-original",
+          "shortCode": "URED3179",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-22",
+          "effectiveFrom": "2003-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2430"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5495",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

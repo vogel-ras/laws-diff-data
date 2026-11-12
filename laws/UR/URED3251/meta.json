@@ -1,0 +1,97 @@
+{
+  "root": "URED3251",
+  "path": "laws/UR/URED3251",
+  "members": [
+    {
+      "id": "URED3251",
+      "title": "Uredba o načinu izvajanja gospodarske javne službe urejanje voda na vplivnem območju energetskega izkoriščanja Spodnje Save",
+      "shortTitle": "Uredba o načinu izvajanja gospodarske javne službe urejanje voda na vplivnem območju energetskega izkoriščanja Spodnje Save",
+      "shortCode": "URED3251",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0928",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-10",
+      "validFrom": "2004-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0928",
+      "versions": [
+        {
+          "id": "URED3251-original",
+          "shortCode": "URED3251",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0928",
+          "proposer": null
+        },
+        {
+          "id": "URED3251-npb-URED3251",
+          "shortCode": "URED3251-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3251",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3567",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvajanja gospodarske javne službe urejanje voda na vplivnem območju energetskega izkoriščanja Spodnje Save",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvajanja gospodarske javne službe urejanje voda na vplivnem območju energetskega izkoriščanja Spodnje Save",
+      "shortCode": "URED3567",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-5252",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-11-22",
+      "validFrom": "2004-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5252",
+      "versions": [
+        {
+          "id": "URED3567-original",
+          "shortCode": "URED3567",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-22",
+          "effectiveFrom": "2004-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3251"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5252",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

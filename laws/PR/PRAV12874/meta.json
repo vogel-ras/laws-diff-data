@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12874",
+  "path": "laws/PR/PRAV12874",
+  "members": [
+    {
+      "id": "PRAV12874",
+      "title": "Pravilnik o psih pomočnikih",
+      "shortTitle": "Pravilnik o psih pomočnikih",
+      "shortCode": "PRAV12874",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0170",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-05",
+      "validFrom": "2026-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0170",
+      "versions": [
+        {
+          "id": "PRAV12874-original",
+          "shortCode": "PRAV12874",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-05",
+          "effectiveFrom": "2026-02-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0170",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12874-npb-PRAV12874",
+          "shortCode": "PRAV12874-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-01-26",
+          "effectiveFrom": "2018-01-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12874",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16056",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o psih pomočnikih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o psih pomočnikih",
+      "shortCode": "PRAV16056",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0247",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2026-02-04",
+      "validFrom": "2026-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0247",
+      "versions": [
+        {
+          "id": "PRAV16056-original",
+          "shortCode": "PRAV16056",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-04",
+          "effectiveFrom": "2026-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12874"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0247",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

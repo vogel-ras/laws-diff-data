@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2483",
+  "path": "laws/OD/ODRE2483",
+  "members": [
+    {
+      "id": "ODRE2483",
+      "title": "Odredba o določitvi programa strokovnega usposabljanja in programa obdobnega strokovnega izpopolnjevanja za varnostnega menedžerja",
+      "shortTitle": "Odredba o določitvi programa strokovnega usposabljanja in programa obdobnega strokovnega izpopolnjevanja za varnostnega menedžerja",
+      "shortCode": "ODRE2483",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2019-01-0909",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-23",
+      "validFrom": "2026-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0909",
+      "versions": [
+        {
+          "id": "ODRE2483-original",
+          "shortCode": "ODRE2483",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-23",
+          "effectiveFrom": "2026-01-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0909",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2483-npb-ODRE2483",
+          "shortCode": "ODRE2483-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-04-04",
+          "effectiveFrom": "2019-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2483",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2720",
+      "title": "Odredba o spremembi Odredbe o določitvi programa strokovnega usposabljanja in programa obdobnega strokovnega izpopolnjevanja za varnostnega menedžerja",
+      "shortTitle": "Odredba o spremembi Odredbe o določitvi programa strokovnega usposabljanja in programa obdobnega strokovnega izpopolnjevanja za varnostnega menedžerja",
+      "shortCode": "ODRE2720",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2022-01-0319",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2022-02-11",
+      "validFrom": "2022-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0319",
+      "versions": [
+        {
+          "id": "ODRE2720-original",
+          "shortCode": "ODRE2720",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-11",
+          "effectiveFrom": "2022-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2483"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0319",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

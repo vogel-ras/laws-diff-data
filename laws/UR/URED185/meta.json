@@ -1,0 +1,82 @@
+{
+  "root": "URED185",
+  "path": "laws/UR/URED185",
+  "members": [
+    {
+      "id": "URED1259",
+      "title": "Uredba o spremembi uredbe o emisiji snovi v zrak iz naprav pri pridobivanju aluminija",
+      "shortTitle": "Uredba o spremembi uredbe o emisiji snovi v zrak iz naprav pri pridobivanju aluminija",
+      "shortCode": "URED1259",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-2335",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-06-06",
+      "validFrom": "2000-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2335",
+      "versions": [
+        {
+          "id": "URED1259-original",
+          "shortCode": "URED1259",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-06",
+          "effectiveFrom": "2000-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED185"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2335",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED185",
+      "title": "Uredba o emisiji snovi v zrak iz naprav pri pridobivanju aluminija",
+      "shortTitle": "Uredba o emisiji snovi v zrak iz naprav pri pridobivanju aluminija",
+      "shortCode": "URED185",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-2608",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-11-25",
+      "validFrom": "1994-11-25",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2608",
+      "versions": [
+        {
+          "id": "URED185-original",
+          "shortCode": "URED185",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-11-25",
+          "effectiveFrom": "1994-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2608",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "URED5261",
+  "path": "laws/UR/URED5261",
+  "members": [
+    {
+      "id": "URED5261",
+      "title": "Uredba o izvajanju Zakona o jamstveni shemi Republike Slovenije za fizične osebe",
+      "shortTitle": "Uredba o izvajanju Zakona o jamstveni shemi Republike Slovenije za fizične osebe",
+      "shortCode": "URED5261",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3049",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-08-14",
+      "validFrom": "2009-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3049",
+      "versions": [
+        {
+          "id": "URED5261-original",
+          "shortCode": "URED5261",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-14",
+          "effectiveFrom": "2009-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3049",
+          "proposer": null
+        },
+        {
+          "id": "URED5261-npb-URED5261",
+          "shortCode": "URED5261-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-08-14",
+          "effectiveFrom": "2009-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5261",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5274",
+      "title": "Uredba o spremembah Uredbe o izvajanju Zakona o jamstveni shemi Republike Slovenije za fizične osebe",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Zakona o jamstveni shemi Republike Slovenije za fizične osebe",
+      "shortCode": "URED5274",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3147",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-07",
+      "validFrom": "2009-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3147",
+      "versions": [
+        {
+          "id": "URED5274-original",
+          "shortCode": "URED5274",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-07",
+          "effectiveFrom": "2009-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5261"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3147",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

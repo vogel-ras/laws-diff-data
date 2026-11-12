@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3417",
+  "path": "laws/PR/PRAV3417",
+  "members": [
+    {
+      "id": "PRAV3417",
+      "title": "Pravilnik o vsebini in obliki potrdila o skladnosti izdelkov iz plemenitih kovin s predpisi",
+      "shortTitle": "Pravilnik o vsebini in obliki potrdila o skladnosti izdelkov iz plemenitih kovin s predpisi",
+      "shortCode": "PRAV3417",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-4080",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-10-20",
+      "validFrom": "2000-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2000-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4080",
+      "versions": [
+        {
+          "id": "PRAV3417-original",
+          "shortCode": "PRAV3417",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-10-20",
+          "effectiveFrom": "2000-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4080",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3906",
+      "title": "Pravilnik o spremembi pravilnika o vsebini in obliki potrdila o skladnosti izdelkov iz plemenitih kovin s predpisi",
+      "shortTitle": "Pravilnik o spremembi pravilnika o vsebini in obliki potrdila o skladnosti izdelkov iz plemenitih kovin s predpisi",
+      "shortCode": "PRAV3906",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3184",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-07-20",
+      "validFrom": "2001-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3184",
+      "versions": [
+        {
+          "id": "PRAV3906-original",
+          "shortCode": "PRAV3906",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-20",
+          "effectiveFrom": "2001-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3417"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3184",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

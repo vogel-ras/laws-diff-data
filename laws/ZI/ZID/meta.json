@@ -1,0 +1,202 @@
+{
+  "root": "ZID",
+  "path": "laws/ZI/ZID",
+  "members": [
+    {
+      "id": "ZID",
+      "title": "Zakon o inšpekciji dela",
+      "shortTitle": "Zakon o inšpekciji dela",
+      "shortCode": "ZID",
+      "kind": "zakon",
+      "keywords": [
+        "inšpektorat za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1523",
+      "gazette": "Uradni list RS 38/94  str. 2446",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1523",
+      "versions": [
+        {
+          "id": "ZID-original",
+          "shortCode": "ZID",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/94  str. 2446",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1523",
+          "proposer": null
+        },
+        {
+          "id": "ZID-amend-ZID-A",
+          "shortCode": "ZID-A",
+          "label": "Sprememba ZID-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 32/97  str. 2846",
+          "publishedAt": "1997-06-05",
+          "effectiveFrom": "1997-06-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1812",
+          "proposer": null
+        },
+        {
+          "id": "ZID-amend-ZID-B",
+          "shortCode": "ZID-B",
+          "label": "Sprememba ZID-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 36/2000  str. 4189",
+          "publishedAt": "2000-04-26",
+          "effectiveFrom": "2000-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1686",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZID-1",
+      "title": "Zakon o inšpekciji dela",
+      "shortTitle": "Zakon o inšpekciji dela",
+      "shortCode": "ZID-1",
+      "kind": "zakon",
+      "keywords": [
+        "inšpektorat za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0663",
+      "gazette": "Uradni list RS 19/14  str. 2231",
+      "issuingBody": null,
+      "adoptedAt": "2014-03-17",
+      "validFrom": "2014-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2014-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0663",
+      "versions": [
+        {
+          "id": "ZID-1-original",
+          "shortCode": "ZID-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/14  str. 2231",
+          "publishedAt": "2014-03-17",
+          "effectiveFrom": "2014-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0663",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZID-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o inšpekciji dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o inšpekciji dela",
+      "shortCode": "ZID-A",
+      "kind": "zakon",
+      "keywords": [
+        "inšpektorat za delo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1812",
+      "gazette": "Uradni list RS 32/97  str. 2846",
+      "issuingBody": null,
+      "adoptedAt": "1997-06-05",
+      "validFrom": "1997-06-05",
+      "validTo": null,
+      "latestPublishedAt": "1997-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1812",
+      "versions": [
+        {
+          "id": "ZID-A-original",
+          "shortCode": "ZID-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/97  str. 2846",
+          "publishedAt": "1997-06-05",
+          "effectiveFrom": "1997-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1812",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZID-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o inšpekciji dela",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o inšpekciji dela",
+      "shortCode": "ZID-B",
+      "kind": "zakon",
+      "keywords": [
+        "zdravje pri delu",
+        "varstvo pri delu",
+        "nadzorni organ"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-1686",
+      "gazette": "Uradni list RS 36/2000  str. 4189",
+      "issuingBody": null,
+      "adoptedAt": "2000-04-26",
+      "validFrom": "2000-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1686",
+      "versions": [
+        {
+          "id": "ZID-B-original",
+          "shortCode": "ZID-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/2000  str. 4189",
+          "publishedAt": "2000-04-26",
+          "effectiveFrom": "2000-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1686",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

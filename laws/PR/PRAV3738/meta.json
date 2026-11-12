@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3738",
+  "path": "laws/PR/PRAV3738",
+  "members": [
+    {
+      "id": "PRAV3738",
+      "title": "Pravilnik o identifikaciji in registraciji kopitarjev",
+      "shortTitle": "Pravilnik o identifikaciji in registraciji kopitarjev",
+      "shortCode": "PRAV3738",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5361",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-16",
+      "validFrom": "2003-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5361",
+      "versions": [
+        {
+          "id": "PRAV3738-original",
+          "shortCode": "PRAV3738",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-16",
+          "effectiveFrom": "2003-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5361",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5707",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o identifikaciji in registraciji kopitarjev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o identifikaciji in registraciji kopitarjev",
+      "shortCode": "PRAV5707",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1114",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1114",
+      "versions": [
+        {
+          "id": "PRAV5707-original",
+          "shortCode": "PRAV5707",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3738"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1114",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED3380",
+  "path": "laws/UR/URED3380",
+  "members": [
+    {
+      "id": "URED3380",
+      "title": "Uredba o koncesiji za odvzem naplavin iz reke Save na območju Občine Litija na odvzemnih mestih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortTitle": "Uredba o koncesiji za odvzem naplavin iz reke Save na območju Občine Litija na odvzemnih mestih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortCode": "URED3380",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3276",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-07-09",
+      "validFrom": "2004-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3276",
+      "versions": [
+        {
+          "id": "URED3380-original",
+          "shortCode": "URED3380",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-09",
+          "effectiveFrom": "2004-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3276",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8189",
+      "title": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz reke Save na območju Občine Litija na odvzemnih mestih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za odvzem naplavin iz reke Save na območju Občine Litija na odvzemnih mestih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortCode": "URED8189",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3554",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-12-24",
+      "validFrom": "2020-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3554",
+      "versions": [
+        {
+          "id": "URED8189-original",
+          "shortCode": "URED8189",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-24",
+          "effectiveFrom": "2020-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3380"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3554",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

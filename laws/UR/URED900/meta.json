@@ -1,0 +1,97 @@
+{
+  "root": "URED900",
+  "path": "laws/UR/URED900",
+  "members": [
+    {
+      "id": "URED6394",
+      "title": "Uredba o spremembah Uredbe o kombiniranem prevozu",
+      "shortTitle": "Uredba o spremembah Uredbe o kombiniranem prevozu",
+      "shortCode": "URED6394",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-1873",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-06-07",
+      "validFrom": "2013-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1873",
+      "versions": [
+        {
+          "id": "URED6394-original",
+          "shortCode": "URED6394",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-06-07",
+          "effectiveFrom": "2013-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED900"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1873",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED900",
+      "title": "Uredba o kombiniranem prevozu",
+      "shortTitle": "Uredba o kombiniranem prevozu",
+      "shortCode": "URED900",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-0343",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-01-19",
+      "validFrom": "2001-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0343",
+      "versions": [
+        {
+          "id": "URED900-original",
+          "shortCode": "URED900",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-01-19",
+          "effectiveFrom": "2001-01-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0343",
+          "proposer": null
+        },
+        {
+          "id": "URED900-npb-URED900",
+          "shortCode": "URED900-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-01-19",
+          "effectiveFrom": "2001-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED900",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

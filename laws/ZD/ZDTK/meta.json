@@ -1,0 +1,105 @@
+{
+  "root": "ZDTK",
+  "path": "laws/ZD/ZDTK",
+  "members": [
+    {
+      "id": "ZDTK",
+      "title": "Zakon o družbah tveganega kapitala",
+      "shortTitle": "Zakon o družbah tveganega kapitala",
+      "shortCode": "ZDTK",
+      "kind": "zakon",
+      "keywords": [
+        "tvegani kapital",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4537",
+      "gazette": "Uradni list RS 92/07  str. 12245",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-10",
+      "validFrom": "2007-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4537",
+      "versions": [
+        {
+          "id": "ZDTK-original",
+          "shortCode": "ZDTK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/07  str. 12245",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4537",
+          "proposer": null
+        },
+        {
+          "id": "ZDTK-amend-ZDTK-A",
+          "shortCode": "ZDTK-A",
+          "label": "Sprememba ZDTK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/09  str. 7930",
+          "publishedAt": "2009-07-24",
+          "effectiveFrom": "2009-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDTK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2788",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDTK-A",
+      "title": "Zakon o dopolnitvah zakona o družbah tveganega kapitala",
+      "shortTitle": "Zakon o dopolnitvah zakona o družbah tveganega kapitala",
+      "shortCode": "ZDTK-A",
+      "kind": "zakon",
+      "keywords": [
+        "tvegani kapital",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2788",
+      "gazette": "Uradni list RS 57/09  str. 7930",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-24",
+      "validFrom": "2009-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2788",
+      "versions": [
+        {
+          "id": "ZDTK-A-original",
+          "shortCode": "ZDTK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/09  str. 7930",
+          "publishedAt": "2009-07-24",
+          "effectiveFrom": "2009-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDTK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2788",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

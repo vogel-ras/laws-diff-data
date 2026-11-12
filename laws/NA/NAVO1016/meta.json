@@ -1,0 +1,82 @@
+{
+  "root": "NAVO1016",
+  "path": "laws/NA/NAVO1016",
+  "members": [
+    {
+      "id": "NAVO1016",
+      "title": "Navodilo o izvajanju Sklepa o preverjanju pristnosti in primernosti eurobankovcev ter njihovem ponovnem dajanju v obtok",
+      "shortTitle": "Navodilo o izvajanju Sklepa o preverjanju pristnosti in primernosti eurobankovcev ter njihovem ponovnem dajanju v obtok",
+      "shortCode": "NAVO1016",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2010-01-5317",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-22",
+      "validFrom": "2026-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5317",
+      "versions": [
+        {
+          "id": "NAVO1016-original",
+          "shortCode": "NAVO1016",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-22",
+          "effectiveFrom": "2026-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5317",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO1064",
+      "title": "Navodilo o spremembi Navodila o izvajanju Sklepa o preverjanju pristnosti in primernosti eurobankovcev ter njihovem ponovnem dajanju v obtok",
+      "shortTitle": "Navodilo o spremembi Navodila o izvajanju Sklepa o preverjanju pristnosti in primernosti eurobankovcev ter njihovem ponovnem dajanju v obtok",
+      "shortCode": "NAVO1064",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2013-01-0732",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-03-08",
+      "validFrom": "2013-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0732",
+      "versions": [
+        {
+          "id": "NAVO1064-original",
+          "shortCode": "NAVO1064",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-03-08",
+          "effectiveFrom": "2013-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO1016"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0732",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

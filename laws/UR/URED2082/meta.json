@@ -1,0 +1,82 @@
+{
+  "root": "URED2082",
+  "path": "laws/UR/URED2082",
+  "members": [
+    {
+      "id": "URED2082",
+      "title": "Uredba o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih",
+      "shortTitle": "Uredba o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih",
+      "shortCode": "URED2082",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0086",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-01-15",
+      "validFrom": "2002-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0086",
+      "versions": [
+        {
+          "id": "URED2082-original",
+          "shortCode": "URED2082",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-01-15",
+          "effectiveFrom": "2002-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0086",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2932",
+      "title": "Uredba o spremembi uredbe o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih",
+      "shortTitle": "Uredba o spremembi uredbe o zagotavljanju varnosti in zdravja pri delu na začasnih in premičnih gradbiščih",
+      "shortCode": "URED2932",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-2800",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-06-13",
+      "validFrom": "2003-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2800",
+      "versions": [
+        {
+          "id": "URED2932-original",
+          "shortCode": "URED2932",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2082"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2800",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

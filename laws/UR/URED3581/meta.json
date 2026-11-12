@@ -1,0 +1,82 @@
+{
+  "root": "URED3581",
+  "path": "laws/UR/URED3581",
+  "members": [
+    {
+      "id": "URED3581",
+      "title": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortTitle": "Uredba o okoljski dajatvi za onesnaževanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortCode": "URED3581",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0139",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-01-21",
+      "validFrom": "2005-01-21",
+      "validTo": null,
+      "latestPublishedAt": "2005-01-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0139",
+      "versions": [
+        {
+          "id": "URED3581-original",
+          "shortCode": "URED3581",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-01-21",
+          "effectiveFrom": "2005-01-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0139",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3999",
+      "title": "Uredba o spremembi Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortTitle": "Uredba o spremembi Uredbe o okoljski dajatvi za onesnaževanje okolja zaradi nastajanja izrabljenih motornih vozil",
+      "shortCode": "URED3999",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-5193",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-27",
+      "validFrom": "2005-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5193",
+      "versions": [
+        {
+          "id": "URED3999-original",
+          "shortCode": "URED3999",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-27",
+          "effectiveFrom": "2005-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3581"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5193",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

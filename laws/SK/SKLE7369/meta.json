@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7369",
+  "path": "laws/SK/SKLE7369",
+  "members": [
+    {
+      "id": "SKLE7369",
+      "title": "Sklep o izvajanju obveznosti razkrivanja nadzorovanih informacij",
+      "shortTitle": "Sklep o izvajanju obveznosti razkrivanja nadzorovanih informacij",
+      "shortCode": "SKLE7369",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-5286",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2007-11-21",
+      "validFrom": "2007-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5286",
+      "versions": [
+        {
+          "id": "SKLE7369-original",
+          "shortCode": "SKLE7369",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-21",
+          "effectiveFrom": "2007-11-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5286",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE7572",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o izvajanju obveznosti razkrivanja nadzorovanih informacij",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o izvajanju obveznosti razkrivanja nadzorovanih informacij",
+      "shortCode": "SKLE7572",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2008-01-1291",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2008-04-04",
+      "validFrom": "2008-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1291",
+      "versions": [
+        {
+          "id": "SKLE7572-original",
+          "shortCode": "SKLE7572",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-04",
+          "effectiveFrom": "2008-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7369"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1291",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

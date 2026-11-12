@@ -1,0 +1,58 @@
+{
+  "root": "URED6412",
+  "path": "laws/UR/URED6412",
+  "members": [
+    {
+      "id": "URED6412",
+      "title": "Uredba o varovanju določenih oseb, prostorov, objektov in okolišev objektov, ki jih varuje policija",
+      "shortTitle": "Uredba o varovanju določenih oseb, prostorov, objektov in okolišev objektov, ki jih varuje policija",
+      "shortCode": "URED6412",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2567",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2567",
+      "versions": [
+        {
+          "id": "URED6412-original",
+          "shortCode": "URED6412",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2567",
+          "proposer": null
+        },
+        {
+          "id": "URED6412-npb-URED6412",
+          "shortCode": "URED6412-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6412",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

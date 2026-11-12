@@ -1,0 +1,103 @@
+{
+  "root": "ZUPUDPP",
+  "path": "laws/ZU/ZUPUDPP",
+  "members": [
+    {
+      "id": "ZUPUDPP",
+      "title": "Zakon o umeščanju prostorskih ureditev državnega pomena v prostor",
+      "shortTitle": "Zakon o umeščanju prostorskih ureditev državnega pomena v prostor",
+      "shortCode": "ZUPUDPP",
+      "kind": "zakon",
+      "keywords": [
+        "urejanje prostora"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4305",
+      "gazette": "Uradni list RS 80/10  str. 12126",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-12",
+      "validFrom": "2010-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4305",
+      "versions": [
+        {
+          "id": "ZUPUDPP-original",
+          "shortCode": "ZUPUDPP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 80/10  str. 12126",
+          "publishedAt": "2010-10-12",
+          "effectiveFrom": "2010-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4305",
+          "proposer": null
+        },
+        {
+          "id": "ZUPUDPP-amend-ZUPUDPP-A",
+          "shortCode": "ZUPUDPP-A",
+          "label": "Sprememba ZUPUDPP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/12  str. 5978",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPUDPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUPUDPP-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o umeščanju prostorskih ureditev državnega pomena v prostor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o umeščanju prostorskih ureditev državnega pomena v prostor",
+      "shortCode": "ZUPUDPP-A",
+      "kind": "zakon",
+      "keywords": [
+        "prostorsko načrtovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2414",
+      "gazette": "Uradni list RS 57/12  str. 5978",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2414",
+      "versions": [
+        {
+          "id": "ZUPUDPP-A-original",
+          "shortCode": "ZUPUDPP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5978",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUPUDPP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2414",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14155",
+  "path": "laws/PR/PRAV14155",
+  "members": [
+    {
+      "id": "PRAV14155",
+      "title": "Pravilnik o obrazcu predloga za trajno opustitev cepljenja",
+      "shortTitle": "Pravilnik o obrazcu predloga za trajno opustitev cepljenja",
+      "shortCode": "PRAV14155",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0652",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-09",
+      "validFrom": "2026-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0652",
+      "versions": [
+        {
+          "id": "PRAV14155-original",
+          "shortCode": "PRAV14155",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-09",
+          "effectiveFrom": "2026-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0652",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14155-npb-PRAV14155",
+          "shortCode": "PRAV14155-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-03-05",
+          "effectiveFrom": "2021-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14155",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14615",
+      "title": "Pravilnik o spremembi Pravilnika o obrazcu predloga za trajno opustitev cepljenja",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o obrazcu predloga za trajno opustitev cepljenja",
+      "shortCode": "PRAV14615",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0930",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-04-01",
+      "validFrom": "2022-04-01",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0930",
+      "versions": [
+        {
+          "id": "PRAV14615-original",
+          "shortCode": "PRAV14615",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-01",
+          "effectiveFrom": "2022-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14155"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0930",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

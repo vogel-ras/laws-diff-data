@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3458",
+  "path": "laws/PR/PRAV3458",
+  "members": [
+    {
+      "id": "PRAV3458",
+      "title": "Pravilnik o prilagajanju šolskih obveznosti",
+      "shortTitle": "Pravilnik o prilagajanju šolskih obveznosti",
+      "shortCode": "PRAV3458",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-4594",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-23",
+      "validFrom": "1998-12-23",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4594",
+      "versions": [
+        {
+          "id": "PRAV3458-original",
+          "shortCode": "PRAV3458",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-23",
+          "effectiveFrom": "1998-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4594",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8374",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o prilagajanju šolskih obveznosti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o prilagajanju šolskih obveznosti",
+      "shortCode": "PRAV8374",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2995",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-06-26",
+      "validFrom": "2007-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2995",
+      "versions": [
+        {
+          "id": "PRAV8374-original",
+          "shortCode": "PRAV8374",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-26",
+          "effectiveFrom": "2007-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3458"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

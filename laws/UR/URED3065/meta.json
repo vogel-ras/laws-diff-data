@@ -1,0 +1,121 @@
+{
+  "root": "URED3065",
+  "path": "laws/UR/URED3065",
+  "members": [
+    {
+      "id": "URED3065",
+      "title": "Uredba o dodatni delovni uspešnosti v javnem sektorju",
+      "shortTitle": "Uredba o dodatni delovni uspešnosti v javnem sektorju",
+      "shortCode": "URED3065",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0943",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-03-12",
+      "validFrom": "2004-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0943",
+      "versions": [
+        {
+          "id": "URED3065-original",
+          "shortCode": "URED3065",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-12",
+          "effectiveFrom": "2004-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0943",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3420",
+      "title": "Uredba o spremembi Uredbe o dodatni delovni uspešnosti v javnem sektorju",
+      "shortTitle": "Uredba o spremembi Uredbe o dodatni delovni uspešnosti v javnem sektorju",
+      "shortCode": "URED3420",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3168",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-06-30",
+      "validFrom": "2004-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3168",
+      "versions": [
+        {
+          "id": "URED3420-original",
+          "shortCode": "URED3420",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-30",
+          "effectiveFrom": "2004-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3065"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3168",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4312",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dodatni delovni uspešnosti v javnem sektorju",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dodatni delovni uspešnosti v javnem sektorju",
+      "shortCode": "URED4312",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-5687",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-12-22",
+      "validFrom": "2006-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5687",
+      "versions": [
+        {
+          "id": "URED4312-original",
+          "shortCode": "URED4312",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-22",
+          "effectiveFrom": "2006-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3065"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5687",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

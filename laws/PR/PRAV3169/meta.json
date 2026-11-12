@@ -1,0 +1,121 @@
+{
+  "root": "PRAV3169",
+  "path": "laws/PR/PRAV3169",
+  "members": [
+    {
+      "id": "PRAV3169",
+      "title": "Pravilnik o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortTitle": "Pravilnik o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortCode": "PRAV3169",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3691",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-09-13",
+      "validFrom": "2000-09-13",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3691",
+      "versions": [
+        {
+          "id": "PRAV3169-original",
+          "shortCode": "PRAV3169",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-13",
+          "effectiveFrom": "2000-09-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3691",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4016",
+      "title": "Pravilnik o spremembah pravilnika o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah pravilnika o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortCode": "PRAV4016",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-4540",
+      "gazette": null,
+      "issuingBody": "Ustavno sodišče Republike Slovenije",
+      "adoptedAt": "2001-11-16",
+      "validFrom": "2001-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4540",
+      "versions": [
+        {
+          "id": "PRAV4016-original",
+          "shortCode": "PRAV4016",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-11-16",
+          "effectiveFrom": "2001-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3169"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4540",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4175",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o notranji organizaciji in pisarniškem poslovanju Ustavnega sodišča Republike Slovenije",
+      "shortCode": "PRAV4175",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1272",
+      "gazette": null,
+      "issuingBody": "Ustavno sodišče Republike Slovenije",
+      "adoptedAt": "2002-04-05",
+      "validFrom": "2002-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1272",
+      "versions": [
+        {
+          "id": "PRAV4175-original",
+          "shortCode": "PRAV4175",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-05",
+          "effectiveFrom": "2002-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3169"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1272",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

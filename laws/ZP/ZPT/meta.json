@@ -1,0 +1,105 @@
+{
+  "root": "ZPT",
+  "path": "laws/ZP/ZPT",
+  "members": [
+    {
+      "id": "ZPT",
+      "title": "Zakon o pospeševanju turizma",
+      "shortTitle": "Zakon o pospeševanju turizma",
+      "shortCode": "ZPT",
+      "kind": "zakon",
+      "keywords": [
+        "turizem",
+        "turistična politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2602",
+      "gazette": "Uradni list RS 57/98  str. 4134",
+      "issuingBody": null,
+      "adoptedAt": "1998-08-14",
+      "validFrom": "1998-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2602",
+      "versions": [
+        {
+          "id": "ZPT-original",
+          "shortCode": "ZPT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/98  str. 4134",
+          "publishedAt": "1998-08-14",
+          "effectiveFrom": "1998-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2602",
+          "proposer": null
+        },
+        {
+          "id": "ZPT-amend-ZPT-A",
+          "shortCode": "ZPT-A",
+          "label": "Sprememba ZPT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 21/2002  str. 1588",
+          "publishedAt": "2002-03-11",
+          "effectiveFrom": "2002-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0910",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPT-A",
+      "title": "Zakon o dopolnitvi zakona o pospeševanju turizma",
+      "shortTitle": "Zakon o dopolnitvi zakona o pospeševanju turizma",
+      "shortCode": "ZPT-A",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "prometna signalizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0910",
+      "gazette": "Uradni list RS 21/2002  str. 1588",
+      "issuingBody": null,
+      "adoptedAt": "2002-03-11",
+      "validFrom": "2002-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0910",
+      "versions": [
+        {
+          "id": "ZPT-A-original",
+          "shortCode": "ZPT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/2002  str. 1588",
+          "publishedAt": "2002-03-11",
+          "effectiveFrom": "2002-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0910",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

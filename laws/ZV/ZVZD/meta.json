@@ -1,0 +1,142 @@
+{
+  "root": "ZVZD",
+  "path": "laws/ZV/ZVZD",
+  "members": [
+    {
+      "id": "ZAKO5537",
+      "title": "Zakon o varnosti in zdravju pri delu (ZVZD-1)",
+      "shortTitle": "Zakon o varnosti in zdravju pri delu (ZVZD-1)",
+      "shortCode": "ZVZD-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2039",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-06-03",
+      "validFrom": "2011-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2039",
+      "versions": [
+        {
+          "id": "ZAKO5537-original",
+          "shortCode": "ZVZD-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2039",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVZD",
+      "title": "Zakon o varnosti in zdravju pri delu",
+      "shortTitle": "Zakon o varnosti in zdravju pri delu",
+      "shortCode": "ZVZD",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo pri delu",
+        "zdravje pri delu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2652",
+      "gazette": "Uradni list RS 56/99  str. 7063",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-13",
+      "validFrom": "1999-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2652",
+      "versions": [
+        {
+          "id": "ZVZD-original",
+          "shortCode": "ZVZD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/99  str. 7063",
+          "publishedAt": "1999-07-13",
+          "effectiveFrom": "1999-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2652",
+          "proposer": null
+        },
+        {
+          "id": "ZVZD-amend-ZVZD-A",
+          "shortCode": "ZVZD-A",
+          "label": "Sprememba ZVZD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2001  str. 6587",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVZD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3475",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVZD-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o varnosti in zdravju pri delu",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o varnosti in zdravju pri delu",
+      "shortCode": "ZVZD-A",
+      "kind": "zakon",
+      "keywords": [
+        "notar",
+        "nepremičnine"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3475",
+      "gazette": "Uradni list RS 64/2001  str. 6587",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3475",
+      "versions": [
+        {
+          "id": "ZVZD-A-original",
+          "shortCode": "ZVZD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6587",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVZD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3475",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10006",
+  "path": "laws/PR/PRAV10006",
+  "members": [
+    {
+      "id": "PRAV10006",
+      "title": "Pravilnik o službenem znaku, izkaznici in službeni obleki gozdarskih nadzornikov",
+      "shortTitle": "Pravilnik o službenem znaku, izkaznici in službeni obleki gozdarskih nadzornikov",
+      "shortCode": "PRAV10006",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-4918",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2010-11-25",
+      "validFrom": "2010-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4918",
+      "versions": [
+        {
+          "id": "PRAV10006-original",
+          "shortCode": "PRAV10006",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-25",
+          "effectiveFrom": "2010-11-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4918",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10006-npb-PRAV10006",
+          "shortCode": "PRAV10006-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-11-25",
+          "effectiveFrom": "2010-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10006",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

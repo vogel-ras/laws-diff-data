@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1989",
+  "path": "ordinances/OD/ODLO1989",
+  "members": [
+    {
+      "id": "ODLO1989",
+      "title": "Odlok o ustanovitvi Sveta Republike Slovenije za varovanje civilnega letalstva",
+      "shortTitle": "Odlok o ustanovitvi Sveta Republike Slovenije za varovanje civilnega letalstva",
+      "shortCode": "ODLO1989",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2019-01-2754",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-10-18",
+      "validFrom": "2019-10-18",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2754",
+      "versions": [
+        {
+          "id": "ODLO1989-original",
+          "shortCode": "ODLO1989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-10-18",
+          "effectiveFrom": "2019-10-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2754",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1989-npb-ODLO1989",
+          "shortCode": "ODLO1989-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-10-18",
+          "effectiveFrom": "2019-10-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1989",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2750",
+      "title": "Odlok o spremembi Odloka o ustanovitvi Sveta Republike Slovenije za varovanje civilnega letalstva",
+      "shortTitle": "Odlok o spremembi Odloka o ustanovitvi Sveta Republike Slovenije za varovanje civilnega letalstva",
+      "shortCode": "ODLO2750",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2023-01-3694",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-12-08",
+      "validFrom": "2023-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3694",
+      "versions": [
+        {
+          "id": "ODLO2750-original",
+          "shortCode": "ODLO2750",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-08",
+          "effectiveFrom": "2023-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1989"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3694",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

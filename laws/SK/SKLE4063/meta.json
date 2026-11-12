@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4063",
+  "path": "laws/SK/SKLE4063",
+  "members": [
+    {
+      "id": "SKLE4063",
+      "title": "Sklep o pogojih za uvedbo, trgovanje in poravnavo transakcij z investicijskimi kuponi vzajemnega sklada na organiziranem trgu",
+      "shortTitle": "Sklep o pogojih za uvedbo, trgovanje in poravnavo transakcij z investicijskimi kuponi vzajemnega sklada na organiziranem trgu",
+      "shortCode": "SKLE4063",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3830",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-08-14",
+      "validFrom": "2003-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3830",
+      "versions": [
+        {
+          "id": "SKLE4063-original",
+          "shortCode": "SKLE4063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-14",
+          "effectiveFrom": "2003-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3830",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8031",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o pogojih za uvedbo, trgovanje in poravnavo transakcij z investicijskimi kuponi vzajemnega sklada na organiziranem trgu",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o pogojih za uvedbo, trgovanje in poravnavo transakcij z investicijskimi kuponi vzajemnega sklada na organiziranem trgu",
+      "shortCode": "SKLE8031",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-1202",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-10",
+      "validFrom": "2009-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1202",
+      "versions": [
+        {
+          "id": "SKLE8031-original",
+          "shortCode": "SKLE8031",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4063"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1202",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

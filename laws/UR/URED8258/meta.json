@@ -1,0 +1,136 @@
+{
+  "root": "URED8258",
+  "path": "laws/UR/URED8258",
+  "members": [
+    {
+      "id": "URED8258",
+      "title": "Uredba o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortTitle": "Uredba o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortCode": "URED8258",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-0640",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-03-05",
+      "validFrom": "2021-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0640",
+      "versions": [
+        {
+          "id": "URED8258-original",
+          "shortCode": "URED8258",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-05",
+          "effectiveFrom": "2021-03-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0640",
+          "proposer": null
+        },
+        {
+          "id": "URED8258-npb-URED8258",
+          "shortCode": "URED8258-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-03-05",
+          "effectiveFrom": "2021-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8258",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8427",
+      "title": "Uredba o spremembah Uredbe o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortTitle": "Uredba o spremembah Uredbe o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortCode": "URED8427",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-1346",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-04-29",
+      "validFrom": "2022-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2022-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1346",
+      "versions": [
+        {
+          "id": "URED8427-original",
+          "shortCode": "URED8427",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-04-29",
+          "effectiveFrom": "2022-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8258"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1346",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8609",
+      "title": "Uredba o spremembi Uredbe o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi dogodkov, ob katerih se v letu 2022 izdajo priložnostni kovanci",
+      "shortCode": "URED8609",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2595",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-07-29",
+      "validFrom": "2022-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2595",
+      "versions": [
+        {
+          "id": "URED8609-original",
+          "shortCode": "URED8609",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-29",
+          "effectiveFrom": "2022-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8258"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2595",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

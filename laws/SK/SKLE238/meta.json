@@ -1,0 +1,82 @@
+{
+  "root": "SKLE238",
+  "path": "laws/SK/SKLE238",
+  "members": [
+    {
+      "id": "SKLE238",
+      "title": "Sklep o obveznosti poročanja o poslovanju s tujino",
+      "shortTitle": "Sklep o obveznosti poročanja o poslovanju s tujino",
+      "shortCode": "SKLE238",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-2411",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2411",
+      "versions": [
+        {
+          "id": "SKLE238-original",
+          "shortCode": "SKLE238",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2411",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9604",
+      "title": "Sklep o spremembi Sklepa o obveznosti poročanja o poslovanju s tujino",
+      "shortTitle": "Sklep o spremembi Sklepa o obveznosti poročanja o poslovanju s tujino",
+      "shortCode": "SKLE9604",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2013-01-0880",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-03-20",
+      "validFrom": "2013-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0880",
+      "versions": [
+        {
+          "id": "SKLE9604-original",
+          "shortCode": "SKLE9604",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-03-20",
+          "effectiveFrom": "2013-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE238"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0880",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

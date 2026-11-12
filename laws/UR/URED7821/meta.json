@@ -1,0 +1,97 @@
+{
+  "root": "URED7821",
+  "path": "laws/UR/URED7821",
+  "members": [
+    {
+      "id": "URED7821",
+      "title": "Uredba o izvajanju uredbe (EU) glede neupravičenega geografskega blokiranja in drugih oblik diskriminacije na notranjem trgu",
+      "shortTitle": "Uredba o izvajanju uredbe (EU) glede neupravičenega geografskega blokiranja in drugih oblik diskriminacije na notranjem trgu",
+      "shortCode": "URED7821",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-0298",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-02-15",
+      "validFrom": "2019-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0298",
+      "versions": [
+        {
+          "id": "URED7821-original",
+          "shortCode": "URED7821",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-02-15",
+          "effectiveFrom": "2019-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0298",
+          "proposer": null
+        },
+        {
+          "id": "URED7821-npb-URED7821",
+          "shortCode": "URED7821-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-02-15",
+          "effectiveFrom": "2019-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7821",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8282",
+      "title": "Uredba o spremembi Uredbe o izvajanju uredbe (EU) glede neupravičenega geografskega blokiranja in drugih oblik diskriminacije na notranjem trgu",
+      "shortTitle": "Uredba o spremembi Uredbe o izvajanju uredbe (EU) glede neupravičenega geografskega blokiranja in drugih oblik diskriminacije na notranjem trgu",
+      "shortCode": "URED8282",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-1347",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-04-23",
+      "validFrom": "2021-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1347",
+      "versions": [
+        {
+          "id": "URED8282-original",
+          "shortCode": "URED8282",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-23",
+          "effectiveFrom": "2021-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7821"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1347",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

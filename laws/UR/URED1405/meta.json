@@ -1,0 +1,82 @@
+{
+  "root": "URED1405",
+  "path": "laws/UR/URED1405",
+  "members": [
+    {
+      "id": "URED1405",
+      "title": "Uredba o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Proščka, Kneže, Bače, Ročice, Brusnika, Klavžarice, Radovne, Završnice in Vipave za proizvodnjo električne energije",
+      "shortTitle": "Uredba o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Proščka, Kneže, Bače, Ročice, Brusnika, Klavžarice, Radovne, Završnice in Vipave za proizvodnjo električne energije",
+      "shortCode": "URED1405",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-0542",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1995-02-17",
+      "validFrom": "1995-02-17",
+      "validTo": null,
+      "latestPublishedAt": "1995-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0542",
+      "versions": [
+        {
+          "id": "URED1405-original",
+          "shortCode": "URED1405",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-02-17",
+          "effectiveFrom": "1995-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0542",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4278",
+      "title": "Uredba o spremembi Uredbe o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Proščka, Kneže, Bače, Ročice, Brusnika, Klavžarice, Radovne, Završnice in Vipave za proizvodnjo električne energije",
+      "shortTitle": "Uredba o spremembi Uredbe o koncesijah za gospodarsko izkoriščanje vode na posameznih odsekih vodotokov Proščka, Kneže, Bače, Ročice, Brusnika, Klavžarice, Radovne, Završnice in Vipave za proizvodnjo električne energije",
+      "shortCode": "URED4278",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4545",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-10-13",
+      "validFrom": "2006-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4545",
+      "versions": [
+        {
+          "id": "URED4278-original",
+          "shortCode": "URED4278",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1405"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4545",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

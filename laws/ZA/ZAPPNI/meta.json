@@ -1,0 +1,111 @@
+{
+  "root": "ZAPPNI",
+  "path": "laws/ZA/ZAPPNI",
+  "members": [
+    {
+      "id": "ZAPPNI",
+      "title": "Zakon o Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortTitle": "Zakon o Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortCode": "ZAPPNI",
+      "kind": "zakon",
+      "keywords": [
+        "davčni nadzor",
+        "revidiranja",
+        "privatizacija",
+        "finančni posel",
+        "agencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1828",
+      "gazette": "Uradni list RS 48/94  str. 3021",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1828",
+      "versions": [
+        {
+          "id": "ZAPPNI-original",
+          "shortCode": "ZAPPNI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/94  str. 3021",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1828",
+          "proposer": null
+        },
+        {
+          "id": "ZAPPNI-amend-ZAPPNI-A",
+          "shortCode": "ZAPPNI-A",
+          "label": "Sprememba ZAPPNI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 58/95  str. 4653",
+          "publishedAt": "1995-10-13",
+          "effectiveFrom": "1995-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAPPNI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2696",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAPPNI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Agenciji Republike Slovenije za plačilni promet, nadziranje in informiranje",
+      "shortCode": "ZAPPNI-A",
+      "kind": "zakon",
+      "keywords": [
+        "davčni nadzor",
+        "revidiranja",
+        "privatizacija",
+        "finančni posel",
+        "agencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2696",
+      "gazette": "Uradni list RS 58/95  str. 4653",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-13",
+      "validFrom": "1995-10-13",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2696",
+      "versions": [
+        {
+          "id": "ZAPPNI-A-original",
+          "shortCode": "ZAPPNI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/95  str. 4653",
+          "publishedAt": "1995-10-13",
+          "effectiveFrom": "1995-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAPPNI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2696",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

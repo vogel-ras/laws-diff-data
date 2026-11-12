@@ -1,0 +1,82 @@
+{
+  "root": "PRAV15615",
+  "path": "laws/PR/PRAV15615",
+  "members": [
+    {
+      "id": "PRAV15615",
+      "title": "Pravilnik o uvrstitvi delovnih mest in nazivov v plačne razrede",
+      "shortTitle": "Pravilnik o uvrstitvi delovnih mest in nazivov v plačne razrede",
+      "shortCode": "PRAV15615",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-3244",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-09",
+      "validFrom": "2024-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3244",
+      "versions": [
+        {
+          "id": "PRAV15615-original",
+          "shortCode": "PRAV15615",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-09",
+          "effectiveFrom": "2024-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3244",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16196",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o uvrstitvi delovnih mest in nazivov v plačne razrede",
+      "shortCode": "PRAV16196",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-1004",
+      "gazette": null,
+      "issuingBody": "Fiskalni svet",
+      "adoptedAt": "2026-04-21",
+      "validFrom": "2026-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1004",
+      "versions": [
+        {
+          "id": "PRAV16196-original",
+          "shortCode": "PRAV16196",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-21",
+          "effectiveFrom": "2026-04-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15615"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1004",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

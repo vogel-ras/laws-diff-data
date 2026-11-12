@@ -1,0 +1,97 @@
+{
+  "root": "URED6091",
+  "path": "laws/UR/URED6091",
+  "members": [
+    {
+      "id": "URED6091",
+      "title": "Uredba o rudarskih pravicah za izkoriščanje mineralnih surovin v pridobivalnih prostorih Vrčice 2 v občini Semič, Renče 2 v občini Renče - Vogrsko, Pleterje P2b v občini Kidričevo in Paka pri Velenju 2 v mestni občini Velenje",
+      "shortTitle": "Uredba o rudarskih pravicah za izkoriščanje mineralnih surovin v pridobivalnih prostorih Vrčice 2 v občini Semič, Renče 2 v občini Renče - Vogrsko, Pleterje P2b v občini Kidričevo in Paka pri Velenju 2 v mestni občini Velenje",
+      "shortCode": "URED6091",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1340",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-06-11",
+      "validFrom": "2025-06-11",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1340",
+      "versions": [
+        {
+          "id": "URED6091-original",
+          "shortCode": "URED6091",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-11",
+          "effectiveFrom": "2025-06-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1340",
+          "proposer": null
+        },
+        {
+          "id": "URED6091-npb-URED6091",
+          "shortCode": "URED6091-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-04-26",
+          "effectiveFrom": "2012-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6091",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6197",
+      "title": "Uredba o spremembi Uredbe o rudarskih pravicah za izkoriščanje mineralnih surovin v pridobivalnih prostorih Vrčice 2 v občini Semič, Renče 2 v občini Renče - Vogrsko, Pleterje P2b v občini Kidričevo in Paka pri Velenju 2 v mestni občini Velenje",
+      "shortTitle": "Uredba o spremembi Uredbe o rudarskih pravicah za izkoriščanje mineralnih surovin v pridobivalnih prostorih Vrčice 2 v občini Semič, Renče 2 v občini Renče - Vogrsko, Pleterje P2b v občini Kidričevo in Paka pri Velenju 2 v mestni občini Velenje",
+      "shortCode": "URED6197",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2390",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-07-23",
+      "validFrom": "2012-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2390",
+      "versions": [
+        {
+          "id": "URED6197-original",
+          "shortCode": "URED6197",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-07-23",
+          "effectiveFrom": "2012-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6091"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2390",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

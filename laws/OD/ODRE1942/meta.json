@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1942",
+  "path": "laws/OD/ODRE1942",
+  "members": [
+    {
+      "id": "ODRE1942",
+      "title": "Pravilnik o merilih za preverjanje poročila o emisijah toplogrednih plinov in pogojih, ki jih mora izpolnjevati preveritelj",
+      "shortTitle": "Pravilnik o merilih za preverjanje poročila o emisijah toplogrednih plinov in pogojih, ki jih mora izpolnjevati preveritelj",
+      "shortCode": "ODRE1942",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2005-01-0526",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2005-02-24",
+      "validFrom": "2005-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0526",
+      "versions": [
+        {
+          "id": "ODRE1942-original",
+          "shortCode": "ODRE1942",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-24",
+          "effectiveFrom": "2005-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0526",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7082",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za preverjanje poročila o emisijah toplogrednih plinov in pogojih, ki jih mora izpolnjevati preveritelj",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za preverjanje poročila o emisijah toplogrednih plinov in pogojih, ki jih mora izpolnjevati preveritelj",
+      "shortCode": "PRAV7082",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3532",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2005-08-26",
+      "validFrom": "2005-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3532",
+      "versions": [
+        {
+          "id": "PRAV7082-original",
+          "shortCode": "PRAV7082",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-26",
+          "effectiveFrom": "2005-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1942"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3532",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

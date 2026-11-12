@@ -1,0 +1,227 @@
+{
+  "root": "ZDPre",
+  "path": "laws/ZD/ZDPre",
+  "members": [
+    {
+      "id": "ZDPre",
+      "title": "Zakon o družinskih prejemkih",
+      "shortTitle": "Zakon o družinskih prejemkih",
+      "shortCode": "ZDPre",
+      "kind": "zakon",
+      "keywords": [
+        "družinska politika",
+        "porodniški dopust",
+        "starševski dodatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2371",
+      "gazette": "Uradni list RS 65/93  str. 3178",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-03",
+      "validFrom": "1993-12-03",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2371",
+      "versions": [
+        {
+          "id": "ZDPre-original",
+          "shortCode": "ZDPre",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/93  str. 3178",
+          "publishedAt": "1993-12-03",
+          "effectiveFrom": "1993-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2371",
+          "proposer": null
+        },
+        {
+          "id": "ZDPre-amend-ZDPre-A",
+          "shortCode": "ZDPre-A",
+          "label": "Sprememba ZDPre-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 71/94  str. 3987",
+          "publishedAt": "1994-11-18",
+          "effectiveFrom": "1994-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2549",
+          "proposer": null
+        },
+        {
+          "id": "ZDPre-amend-ZDPre-B",
+          "shortCode": "ZDPre-B",
+          "label": "Sprememba ZDPre-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 73/95  str. 5649",
+          "publishedAt": "1995-12-22",
+          "effectiveFrom": "1995-12-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3377",
+          "proposer": null
+        },
+        {
+          "id": "ZDPre-amend-ZDPre-C",
+          "shortCode": "ZDPre-C",
+          "label": "Sprememba ZDPre-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 26/99  str. 2874",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1211",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDPre-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortCode": "ZDPre-A",
+      "kind": "zakon",
+      "keywords": [
+        "družinska politika",
+        "starševski dodatki",
+        "porodniški dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2549",
+      "gazette": "Uradni list RS 71/94  str. 3987",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-18",
+      "validFrom": "1994-11-18",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2549",
+      "versions": [
+        {
+          "id": "ZDPre-A-original",
+          "shortCode": "ZDPre-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/94  str. 3987",
+          "publishedAt": "1994-11-18",
+          "effectiveFrom": "1994-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2549",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDPre-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortCode": "ZDPre-B",
+      "kind": "zakon",
+      "keywords": [
+        "družinska politika",
+        "porodniški dopust",
+        "starševski dodatki"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-3377",
+      "gazette": "Uradni list RS 73/95  str. 5649",
+      "issuingBody": null,
+      "adoptedAt": "1995-12-22",
+      "validFrom": "1995-12-22",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3377",
+      "versions": [
+        {
+          "id": "ZDPre-B-original",
+          "shortCode": "ZDPre-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/95  str. 5649",
+          "publishedAt": "1995-12-22",
+          "effectiveFrom": "1995-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3377",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDPre-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o družinskih prejemkih",
+      "shortCode": "ZDPre-C",
+      "kind": "zakon",
+      "keywords": [
+        "starševski dodatki",
+        "nega na domu",
+        "družinska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1211",
+      "gazette": "Uradni list RS 26/99  str. 2874",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-15",
+      "validFrom": "1999-04-15",
+      "validTo": null,
+      "latestPublishedAt": "1999-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1211",
+      "versions": [
+        {
+          "id": "ZDPre-C-original",
+          "shortCode": "ZDPre-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/99  str. 2874",
+          "publishedAt": "1999-04-15",
+          "effectiveFrom": "1999-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1211",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

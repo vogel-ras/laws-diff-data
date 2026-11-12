@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12269",
+  "path": "laws/PR/PRAV12269",
+  "members": [
+    {
+      "id": "PRAV12269",
+      "title": "Pravilnik o enostavnih tlačnih posodah",
+      "shortTitle": "Pravilnik o enostavnih tlačnih posodah",
+      "shortCode": "PRAV12269",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-1714",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-06-03",
+      "validFrom": "2016-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1714",
+      "versions": [
+        {
+          "id": "PRAV12269-original",
+          "shortCode": "PRAV12269",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1714",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12269-npb-PRAV12269",
+          "shortCode": "PRAV12269-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12269",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13535",
+      "title": "Pravilnik o spremembah Pravilnika o enostavnih tlačnih posodah",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o enostavnih tlačnih posodah",
+      "shortCode": "PRAV13535",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2955",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-09-12",
+      "validFrom": "2018-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2955",
+      "versions": [
+        {
+          "id": "PRAV13535-original",
+          "shortCode": "PRAV13535",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-12",
+          "effectiveFrom": "2018-09-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12269"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2955",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

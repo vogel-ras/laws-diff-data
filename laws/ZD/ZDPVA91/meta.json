@@ -1,0 +1,107 @@
+{
+  "root": "ZDPVA91",
+  "path": "laws/ZD/ZDPVA91",
+  "members": [
+    {
+      "id": "ZDPVA91",
+      "title": "Zakon o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991",
+      "shortTitle": "Zakon o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991",
+      "shortCode": "ZDPVA91",
+      "kind": "zakon",
+      "keywords": [
+        "škoda",
+        "povrnitev škode",
+        "vojna škoda"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0462",
+      "gazette": "Uradni list RS 11/91  str. 417",
+      "issuingBody": null,
+      "adoptedAt": "1991-08-30",
+      "validFrom": "1991-08-30",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0462",
+      "versions": [
+        {
+          "id": "ZDPVA91-original",
+          "shortCode": "ZDPVA91",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/91  str. 417",
+          "publishedAt": "1991-08-30",
+          "effectiveFrom": "1991-08-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0462",
+          "proposer": null
+        },
+        {
+          "id": "ZDPVA91-amend-ZDPVA91-A",
+          "shortCode": "ZDPVA91-A",
+          "label": "Sprememba ZDPVA91-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 32/91  str. 1325",
+          "publishedAt": "1991-12-24",
+          "effectiveFrom": "1991-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPVA91"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1331",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDPVA91-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o delnem povračilu škode povzročene z vojaško agresijo na Republiko Slovenijo v letu 1991",
+      "shortCode": "ZDPVA91-A",
+      "kind": "zakon",
+      "keywords": [
+        "škoda",
+        "povrnitev škode",
+        "vojna škoda"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1331",
+      "gazette": "Uradni list RS 32/91  str. 1325",
+      "issuingBody": null,
+      "adoptedAt": "1991-12-24",
+      "validFrom": "1991-12-24",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1331",
+      "versions": [
+        {
+          "id": "ZDPVA91-A-original",
+          "shortCode": "ZDPVA91-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/91  str. 1325",
+          "publishedAt": "1991-12-24",
+          "effectiveFrom": "1991-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDPVA91"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1331",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

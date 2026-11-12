@@ -1,0 +1,164 @@
+{
+  "root": "ZMPUPR",
+  "path": "laws/ZM/ZMPUPR",
+  "members": [
+    {
+      "id": "ZMPUPR",
+      "title": "Zakon o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999 - 2001",
+      "shortTitle": "Zakon o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999 - 2001",
+      "shortCode": "ZMPUPR",
+      "kind": "zakon",
+      "keywords": [
+        "nadzorni organ",
+        "živilska inšpekcija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1963",
+      "gazette": "Uradni list RS 39/99  str. 4565",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-25",
+      "validFrom": "1999-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1963",
+      "versions": [
+        {
+          "id": "ZMPUPR-original",
+          "shortCode": "ZMPUPR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/99  str. 4565",
+          "publishedAt": "1999-05-25",
+          "effectiveFrom": "1999-05-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1963",
+          "proposer": null
+        },
+        {
+          "id": "ZMPUPR-amend-ZMPUPR-A",
+          "shortCode": "ZMPUPR-A",
+          "label": "Sprememba ZMPUPR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 124/2000  str. 13694",
+          "publishedAt": "2000-12-29",
+          "effectiveFrom": "2000-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMPUPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5206",
+          "proposer": null
+        },
+        {
+          "id": "ZMPUPR-amend-ZMPUPR-B",
+          "shortCode": "ZMPUPR-B",
+          "label": "Sprememba ZMPUPR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 48/2001  str. 5238",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMPUPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2644",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMPUPR-A",
+      "title": "Zakon o dopolnitvi zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001",
+      "shortTitle": "Zakon o dopolnitvi zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001",
+      "shortCode": "ZMPUPR-A",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača",
+        "plačani dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-5206",
+      "gazette": "Uradni list RS 124/2000  str. 13694",
+      "issuingBody": null,
+      "adoptedAt": "2000-12-29",
+      "validFrom": "2000-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5206",
+      "versions": [
+        {
+          "id": "ZMPUPR-A-original",
+          "shortCode": "ZMPUPR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 124/2000  str. 13694",
+          "publishedAt": "2000-12-29",
+          "effectiveFrom": "2000-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMPUPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5206",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMPUPR-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o minimalni plači, o načinu usklajevanja plač in o regresu za letni dopust v obdobju 1999-2001",
+      "shortCode": "ZMPUPR-B",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača",
+        "plačani dopust"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2644",
+      "gazette": "Uradni list RS 48/2001  str. 5238",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-13",
+      "validFrom": "2001-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2644",
+      "versions": [
+        {
+          "id": "ZMPUPR-B-original",
+          "shortCode": "ZMPUPR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/2001  str. 5238",
+          "publishedAt": "2001-06-13",
+          "effectiveFrom": "2001-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMPUPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2644",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

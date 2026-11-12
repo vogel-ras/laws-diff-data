@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11481",
+  "path": "laws/PR/PRAV11481",
+  "members": [
+    {
+      "id": "PRAV11481",
+      "title": "Pravilnik o postopkih in pogojih vodenja računov neposrednih in posrednih uporabnikov državnega in občinskih proračunov pri Upravi Republike Slovenije za javna plačila",
+      "shortTitle": "Pravilnik o postopkih in pogojih vodenja računov neposrednih in posrednih uporabnikov državnega in občinskih proračunov pri Upravi Republike Slovenije za javna plačila",
+      "shortCode": "PRAV11481",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-4364",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4364",
+      "versions": [
+        {
+          "id": "PRAV11481-original",
+          "shortCode": "PRAV11481",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4364",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11481-npb-PRAV11481",
+          "shortCode": "PRAV11481-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11481",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12260",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopkih in pogojih vodenja računov neposrednih in posrednih uporabnikov državnega in občinskih proračunov pri Upravi Republike Slovenije za javna plačila",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o postopkih in pogojih vodenja računov neposrednih in posrednih uporabnikov državnega in občinskih proračunov pri Upravi Republike Slovenije za javna plačila",
+      "shortCode": "PRAV12260",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3701",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-12-19",
+      "validFrom": "2014-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3701",
+      "versions": [
+        {
+          "id": "PRAV12260-original",
+          "shortCode": "PRAV12260",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-19",
+          "effectiveFrom": "2014-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11481"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3701",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "SKLE6800",
+  "path": "laws/SK/SKLE6800",
+  "members": [
+    {
+      "id": "SKLE6800",
+      "title": "Sklep o priznavanju zunanjih bonitetnih institucij",
+      "shortTitle": "Sklep o priznavanju zunanjih bonitetnih institucij",
+      "shortCode": "SKLE6800",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-5660",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-21",
+      "validFrom": "2006-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5660",
+      "versions": [
+        {
+          "id": "SKLE6800-original",
+          "shortCode": "SKLE6800",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-21",
+          "effectiveFrom": "2006-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5660",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8615",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o priznavanju zunanjih bonitetnih institucij",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o priznavanju zunanjih bonitetnih institucij",
+      "shortCode": "SKLE8615",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-3576",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2010-08-06",
+      "validFrom": "2010-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2010-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3576",
+      "versions": [
+        {
+          "id": "SKLE8615-original",
+          "shortCode": "SKLE8615",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-08-06",
+          "effectiveFrom": "2010-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE6800"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3576",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9164",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o priznavanju zunanjih bonitetnih institucij",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o priznavanju zunanjih bonitetnih institucij",
+      "shortCode": "SKLE9164",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-4268",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-09",
+      "validFrom": "2011-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4268",
+      "versions": [
+        {
+          "id": "SKLE9164-original",
+          "shortCode": "SKLE9164",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-09",
+          "effectiveFrom": "2011-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE6800"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4268",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

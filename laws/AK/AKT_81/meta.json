@@ -1,0 +1,82 @@
+{
+  "root": "AKT_81",
+  "path": "laws/AK/AKT_81",
+  "members": [
+    {
+      "id": "AKT_81",
+      "title": "Sklep o razvrstitvi aktivnih bilančnih in zunajbilančnih postavk bank in hranilnic",
+      "shortTitle": "Sklep o razvrstitvi aktivnih bilančnih in zunajbilančnih postavk bank in hranilnic",
+      "shortCode": "AKT_81",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1999-01-1552",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-05-06",
+      "validFrom": "1999-05-06",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1552",
+      "versions": [
+        {
+          "id": "AKT_81-original",
+          "shortCode": "AKT_81",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-05-06",
+          "effectiveFrom": "1999-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1552",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE2631",
+      "title": "Sklep o spremembi sklepa o razvrstitvi aktivnih bilančnih in zunajbilančnih postavk bank in hranilnic",
+      "shortTitle": "Sklep o spremembi sklepa o razvrstitvi aktivnih bilančnih in zunajbilančnih postavk bank in hranilnic",
+      "shortCode": "SKLE2631",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-5066",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2001-12-17",
+      "validFrom": "2001-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5066",
+      "versions": [
+        {
+          "id": "SKLE2631-original",
+          "shortCode": "SKLE2631",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-12-17",
+          "effectiveFrom": "2001-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_81"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5066",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

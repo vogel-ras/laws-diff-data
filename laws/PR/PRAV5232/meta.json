@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5232",
+  "path": "laws/PR/PRAV5232",
+  "members": [
+    {
+      "id": "PRAV5232",
+      "title": "Pravilnik o dodatnih ukrepih za preprečevanje vnosa in širjenja borove ogorčice",
+      "shortTitle": "Pravilnik o dodatnih ukrepih za preprečevanje vnosa in širjenja borove ogorčice",
+      "shortCode": "PRAV5232",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1014",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-15",
+      "validFrom": "2004-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1014",
+      "versions": [
+        {
+          "id": "PRAV5232-original",
+          "shortCode": "PRAV5232",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-15",
+          "effectiveFrom": "2004-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1014",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6117",
+      "title": "Pravilnik o spremembah pravilnika o dodatnih ukrepih za preprečevanje vnosa in širjenja borove ogorčice",
+      "shortTitle": "Pravilnik o spremembah pravilnika o dodatnih ukrepih za preprečevanje vnosa in širjenja borove ogorčice",
+      "shortCode": "PRAV6117",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4534",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-10-07",
+      "validFrom": "2004-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4534",
+      "versions": [
+        {
+          "id": "PRAV6117-original",
+          "shortCode": "PRAV6117",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-07",
+          "effectiveFrom": "2004-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5232"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4534",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

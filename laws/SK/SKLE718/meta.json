@@ -1,0 +1,82 @@
+{
+  "root": "SKLE718",
+  "path": "laws/SK/SKLE718",
+  "members": [
+    {
+      "id": "SKLE718",
+      "title": "Sklep o pošiljanju podatkov o knjigovodskem stanju računov bank",
+      "shortTitle": "Sklep o pošiljanju podatkov o knjigovodskem stanju računov bank",
+      "shortCode": "SKLE718",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1991-01-0829",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-10-31",
+      "validFrom": "1991-10-31",
+      "validTo": null,
+      "latestPublishedAt": "1991-10-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0829",
+      "versions": [
+        {
+          "id": "SKLE718-original",
+          "shortCode": "SKLE718",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-10-31",
+          "effectiveFrom": "1991-10-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0829",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE720",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o pošiljanju podatkov o knjigovodskem stanju računov bank",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o pošiljanju podatkov o knjigovodskem stanju računov bank",
+      "shortCode": "SKLE720",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1994-01-2780",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-12-15",
+      "validFrom": "1994-12-15",
+      "validTo": null,
+      "latestPublishedAt": "1994-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2780",
+      "versions": [
+        {
+          "id": "SKLE720-original",
+          "shortCode": "SKLE720",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-12-15",
+          "effectiveFrom": "1994-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE718"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2780",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

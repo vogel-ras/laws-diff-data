@@ -1,0 +1,82 @@
+{
+  "root": "URED5023",
+  "path": "laws/UR/URED5023",
+  "members": [
+    {
+      "id": "URED5023",
+      "title": "Uredba o merilih in pogojih za odobritev posojil po 81.a členu Zakona o javnih financah",
+      "shortTitle": "Uredba o merilih in pogojih za odobritev posojil po 81.a členu Zakona o javnih financah",
+      "shortCode": "URED5023",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-5330",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-12-19",
+      "validFrom": "2008-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5330",
+      "versions": [
+        {
+          "id": "URED5023-original",
+          "shortCode": "URED5023",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-19",
+          "effectiveFrom": "2008-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5330",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5580",
+      "title": "Uredba o spremembi Uredbe o merilih in pogojih za odobritev posojil po 81.a členu Zakona o javnih financah",
+      "shortTitle": "Uredba o spremembi Uredbe o merilih in pogojih za odobritev posojil po 81.a členu Zakona o javnih financah",
+      "shortCode": "URED5580",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3815",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-08-27",
+      "validFrom": "2010-08-27",
+      "validTo": null,
+      "latestPublishedAt": "2010-08-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3815",
+      "versions": [
+        {
+          "id": "URED5580-original",
+          "shortCode": "URED5580",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-08-27",
+          "effectiveFrom": "2010-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5023"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3815",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

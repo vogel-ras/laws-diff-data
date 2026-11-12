@@ -1,0 +1,103 @@
+{
+  "root": "ZGZ",
+  "path": "laws/ZG/ZGZ",
+  "members": [
+    {
+      "id": "ZGZ",
+      "title": "Zakon o gospodarskih zbornicah",
+      "shortTitle": "Zakon o gospodarskih zbornicah",
+      "shortCode": "ZGZ",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska zbornica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2537",
+      "gazette": "Uradni list RS 60/06  str. 6549",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2537",
+      "versions": [
+        {
+          "id": "ZGZ-original",
+          "shortCode": "ZGZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/06  str. 6549",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2537",
+          "proposer": null
+        },
+        {
+          "id": "ZGZ-amend-ZGZ-A",
+          "shortCode": "ZGZ-A",
+          "label": "Sprememba ZGZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 110/09  str. 14974",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4986",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZGZ-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o gospodarskih zbornicah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o gospodarskih zbornicah",
+      "shortCode": "ZGZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska zbornica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4986",
+      "gazette": "Uradni list RS 110/09  str. 14974",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-29",
+      "validFrom": "2009-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4986",
+      "versions": [
+        {
+          "id": "ZGZ-A-original",
+          "shortCode": "ZGZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/09  str. 14974",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZGZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4986",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

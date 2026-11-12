@@ -1,0 +1,216 @@
+{
+  "root": "ZPVPJN",
+  "path": "laws/ZP/ZPVPJN",
+  "members": [
+    {
+      "id": "ZAKO7336",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja (ZPVPJN-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja (ZPVPJN-B)",
+      "shortCode": "ZPVPJN-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2880",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-10-26",
+      "validFrom": "2017-10-26",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2880",
+      "versions": [
+        {
+          "id": "ZAKO7336-original",
+          "shortCode": "ZPVPJN-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-10-26",
+          "effectiveFrom": "2017-10-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2880",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPVPJN",
+      "title": "Zakon o pravnem varstvu v postopkih javnega naročanja",
+      "shortTitle": "Zakon o pravnem varstvu v postopkih javnega naročanja",
+      "shortCode": "ZPVPJN",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo",
+        "načelo pravne varnosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-2040",
+      "gazette": "Uradni list RS 43/11  str. 5660",
+      "issuingBody": null,
+      "adoptedAt": "2011-06-03",
+      "validFrom": "2011-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2040",
+      "versions": [
+        {
+          "id": "ZPVPJN-original",
+          "shortCode": "ZPVPJN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/11  str. 5660",
+          "publishedAt": "2011-06-03",
+          "effectiveFrom": "2011-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2040",
+          "proposer": null
+        },
+        {
+          "id": "ZPVPJN-amend-ZPVPJN-A",
+          "shortCode": "ZPVPJN-A",
+          "label": "Sprememba ZPVPJN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 63/13  str. 7635",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2513",
+          "proposer": null
+        },
+        {
+          "id": "ZPVPJN-amend-ZAKO7336",
+          "shortCode": "ZPVPJN-B",
+          "label": "Sprememba ZPVPJN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-10-26",
+          "effectiveFrom": "2017-10-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2880",
+          "proposer": null
+        },
+        {
+          "id": "ZPVPJN-amend-ZPVPJN-C",
+          "shortCode": "ZPVPJN-C",
+          "label": "Sprememba ZPVPJN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 72/19  str. 8741",
+          "publishedAt": "2019-12-04",
+          "effectiveFrom": "2019-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3209",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPVPJN-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja",
+      "shortCode": "ZPVPJN-A",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2513",
+      "gazette": "Uradni list RS 63/13  str. 7635",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2513",
+      "versions": [
+        {
+          "id": "ZPVPJN-A-original",
+          "shortCode": "ZPVPJN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7635",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2513",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPVPJN-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pravnem varstvu v postopkih javnega naročanja",
+      "shortCode": "ZPVPJN-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3209",
+      "gazette": "Uradni list RS 72/19  str. 8741",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-04",
+      "validFrom": "2019-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3209",
+      "versions": [
+        {
+          "id": "ZPVPJN-C-original",
+          "shortCode": "ZPVPJN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/19  str. 8741",
+          "publishedAt": "2019-12-04",
+          "effectiveFrom": "2019-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVPJN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3209",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

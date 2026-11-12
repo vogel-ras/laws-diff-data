@@ -1,0 +1,82 @@
+{
+  "root": "URED1005",
+  "path": "laws/UR/URED1005",
+  "members": [
+    {
+      "id": "URED1005",
+      "title": "Uredba o načinu zbiranja lastniških certifikatov s strani pooblaščenih investicijskih družb",
+      "shortTitle": "Uredba o načinu zbiranja lastniških certifikatov s strani pooblaščenih investicijskih družb",
+      "shortCode": "URED1005",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1993-01-2637",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1993-12-31",
+      "validFrom": "1993-12-31",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2637",
+      "versions": [
+        {
+          "id": "URED1005-original",
+          "shortCode": "URED1005",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-12-31",
+          "effectiveFrom": "1993-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2637",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1006",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o načinu zbiranja lastniških certifikatov s strani pooblaščenih investicijskih družb",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o načinu zbiranja lastniških certifikatov s strani pooblaščenih investicijskih družb",
+      "shortCode": "URED1006",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-1676",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1994-07-08",
+      "validFrom": "1994-07-08",
+      "validTo": null,
+      "latestPublishedAt": "1994-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1676",
+      "versions": [
+        {
+          "id": "URED1006-original",
+          "shortCode": "URED1006",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-07-08",
+          "effectiveFrom": "1994-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1005"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1676",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

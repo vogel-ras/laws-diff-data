@@ -1,0 +1,102 @@
+{
+  "root": "ZCestV",
+  "path": "laws/ZC/ZCestV",
+  "members": [
+    {
+      "id": "ZAKO4970",
+      "title": "Zakon o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg (ZCestV)",
+      "shortTitle": "Zakon o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg (ZCestV)",
+      "shortCode": "ZCestV",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-3013",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-07-08",
+      "validFrom": "2008-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3013",
+      "versions": [
+        {
+          "id": "ZAKO4970-original",
+          "shortCode": "ZCestV",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-08",
+          "effectiveFrom": "2008-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3013",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO4970-amend-ZCestV-A",
+          "shortCode": "ZCestV-A",
+          "label": "Sprememba ZCestV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 109/09  str. 14866",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4970"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4927",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCestV-A",
+      "title": "Zakon o spremembi Zakona o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg",
+      "shortTitle": "Zakon o spremembi Zakona o cestnini za vozila, katerih največja dovoljena masa presega 3.500 kg",
+      "shortCode": "ZCestV-A",
+      "kind": "zakon",
+      "keywords": [
+        "cestnina",
+        "gospodarsko vozilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4927",
+      "gazette": "Uradni list RS 109/09  str. 14866",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4927",
+      "versions": [
+        {
+          "id": "ZCestV-A-original",
+          "shortCode": "ZCestV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/09  str. 14866",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO4970"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4927",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

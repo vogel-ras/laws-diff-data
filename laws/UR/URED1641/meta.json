@@ -1,0 +1,82 @@
+{
+  "root": "URED1641",
+  "path": "laws/UR/URED1641",
+  "members": [
+    {
+      "id": "URED1641",
+      "title": "Uredba o programih kmetijske strukturne politike in kmetijske politike razvoja podeželja za leto 2001",
+      "shortTitle": "Uredba o programih kmetijske strukturne politike in kmetijske politike razvoja podeželja za leto 2001",
+      "shortCode": "URED1641",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-3218",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-20",
+      "validFrom": "2001-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3218",
+      "versions": [
+        {
+          "id": "URED1641-original",
+          "shortCode": "URED1641",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-20",
+          "effectiveFrom": "2001-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3218",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1974",
+      "title": "Uredba o spremembah uredbe o programih kmetijske strukturne politike in kmetijske politike razvoja podeželja za leto 2001",
+      "shortTitle": "Uredba o spremembah uredbe o programih kmetijske strukturne politike in kmetijske politike razvoja podeželja za leto 2001",
+      "shortCode": "URED1974",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-4595",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-11-16",
+      "validFrom": "2001-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4595",
+      "versions": [
+        {
+          "id": "URED1974-original",
+          "shortCode": "URED1974",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-11-16",
+          "effectiveFrom": "2001-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1641"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4595",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

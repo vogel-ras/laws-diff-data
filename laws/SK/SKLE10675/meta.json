@@ -1,0 +1,82 @@
+{
+  "root": "SKLE10675",
+  "path": "laws/SK/SKLE10675",
+  "members": [
+    {
+      "id": "SKLE10675",
+      "title": "Sklep o podrobnejših pravilih glede skrbniških storitev za notranji sklad zavarovalnice",
+      "shortTitle": "Sklep o podrobnejših pravilih glede skrbniških storitev za notranji sklad zavarovalnice",
+      "shortCode": "SKLE10675",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2016-01-0612",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2016-03-04",
+      "validFrom": "2016-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2016-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0612",
+      "versions": [
+        {
+          "id": "SKLE10675-original",
+          "shortCode": "SKLE10675",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-03-04",
+          "effectiveFrom": "2016-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0612",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE11567",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejših pravilih glede skrbniških storitev za notranji sklad zavarovalnice",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o podrobnejših pravilih glede skrbniških storitev za notranji sklad zavarovalnice",
+      "shortCode": "SKLE11567",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2018-01-2925",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-09-07",
+      "validFrom": "2018-09-07",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2925",
+      "versions": [
+        {
+          "id": "SKLE11567-original",
+          "shortCode": "SKLE11567",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-07",
+          "effectiveFrom": "2018-09-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10675"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2925",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

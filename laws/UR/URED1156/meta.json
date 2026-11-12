@@ -1,0 +1,82 @@
+{
+  "root": "URED1156",
+  "path": "laws/UR/URED1156",
+  "members": [
+    {
+      "id": "URED1156",
+      "title": "Uredba o izobrazbi, ki jo morajo imeti zaposleni za vodenje in odločanje v upravnem postopku in o strokovnem izpitu iz upravnega postopka",
+      "shortTitle": "Uredba o izobrazbi, ki jo morajo imeti zaposleni za vodenje in odločanje v upravnem postopku in o strokovnem izpitu iz upravnega postopka",
+      "shortCode": "URED1156",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1391",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-03-31",
+      "validFrom": "2000-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1391",
+      "versions": [
+        {
+          "id": "URED1156-original",
+          "shortCode": "URED1156",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-31",
+          "effectiveFrom": "2000-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1391",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3402",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izobrazbi, ki jo morajo imeti zaposleni za vodenje in odločanje v upravnem postopku, in o strokovnem izpitu iz upravnega postopka",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izobrazbi, ki jo morajo imeti zaposleni za vodenje in odločanje v upravnem postopku, in o strokovnem izpitu iz upravnega postopka",
+      "shortCode": "URED3402",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-2990",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-06-18",
+      "validFrom": "2004-06-18",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2990",
+      "versions": [
+        {
+          "id": "URED3402-original",
+          "shortCode": "URED3402",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-18",
+          "effectiveFrom": "2004-06-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1156"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2990",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

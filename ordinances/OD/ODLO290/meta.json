@@ -1,0 +1,97 @@
+{
+  "root": "ODLO290",
+  "path": "ordinances/OD/ODLO290",
+  "members": [
+    {
+      "id": "ODLO1288",
+      "title": "Odlok o spremembi odloka o razglasitvi Domačije Zgornja Radovna 25 za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Domačije Zgornja Radovna 25 za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1288",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-2698",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-06-06",
+      "validFrom": "2003-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2698",
+      "versions": [
+        {
+          "id": "ODLO1288-original",
+          "shortCode": "ODLO1288",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-06",
+          "effectiveFrom": "2003-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO290"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO290",
+      "title": "Odlok o razglasitvi Domačije Zgornja Radovna 25 za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Domačije Zgornja Radovna 25 za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO290",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3891",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-12",
+      "validFrom": "2026-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3891",
+      "versions": [
+        {
+          "id": "ODLO290-original",
+          "shortCode": "ODLO290",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-12",
+          "effectiveFrom": "2026-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3891",
+          "proposer": null
+        },
+        {
+          "id": "ODLO290-npb-ODLO290",
+          "shortCode": "ODLO290-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO290",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

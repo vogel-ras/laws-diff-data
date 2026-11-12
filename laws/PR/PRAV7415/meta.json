@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7415",
+  "path": "laws/PR/PRAV7415",
+  "members": [
+    {
+      "id": "PRAV7415",
+      "title": "Pravilnik o obliki, vsebini in uporabi obrazca domačega plačilnega navodila",
+      "shortTitle": "Pravilnik o obliki, vsebini in uporabi obrazca domačega plačilnega navodila",
+      "shortCode": "PRAV7415",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5881",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-12-20",
+      "validFrom": "2007-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5881",
+      "versions": [
+        {
+          "id": "PRAV7415-original",
+          "shortCode": "PRAV7415",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-20",
+          "effectiveFrom": "2007-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5881",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8527",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki, vsebini in uporabi obrazca domačega plačilnega navodila",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki, vsebini in uporabi obrazca domačega plačilnega navodila",
+      "shortCode": "PRAV8527",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5849",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2007-12-20",
+      "validFrom": "2007-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5849",
+      "versions": [
+        {
+          "id": "PRAV8527-original",
+          "shortCode": "PRAV8527",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-20",
+          "effectiveFrom": "2007-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7415"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5849",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

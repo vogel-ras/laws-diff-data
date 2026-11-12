@@ -1,0 +1,82 @@
+{
+  "root": "URED8880",
+  "path": "laws/UR/URED8880",
+  "members": [
+    {
+      "id": "URED8880",
+      "title": "Uredba o ukrepih za zatiranje in preprečevanje širjenja zlate trsne rumenice",
+      "shortTitle": "Uredba o ukrepih za zatiranje in preprečevanje širjenja zlate trsne rumenice",
+      "shortCode": "URED8880",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-2577",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-22",
+      "validFrom": "2024-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2577",
+      "versions": [
+        {
+          "id": "URED8880-original",
+          "shortCode": "URED8880",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2577",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9050",
+      "title": "Uredbo o spremembah in dopolnitvah Uredbe o ukrepih za zatiranje in preprečevanje širjenja zlate trsne rumenice",
+      "shortTitle": "Uredbo o spremembah in dopolnitvah Uredbe o ukrepih za zatiranje in preprečevanje širjenja zlate trsne rumenice",
+      "shortCode": "URED9050",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2082",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-22",
+      "validFrom": "2024-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2082",
+      "versions": [
+        {
+          "id": "URED9050-original",
+          "shortCode": "URED9050",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-22",
+          "effectiveFrom": "2024-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8880"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2082",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

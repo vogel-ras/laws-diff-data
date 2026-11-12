@@ -1,0 +1,82 @@
+{
+  "root": "SKLE609",
+  "path": "laws/SK/SKLE609",
+  "members": [
+    {
+      "id": "SKLE1239",
+      "title": "Sklep o spremembah sklepa o drugih osebnih prejemkih in povračilih sodnikov",
+      "shortTitle": "Sklep o spremembah sklepa o drugih osebnih prejemkih in povračilih sodnikov",
+      "shortCode": "SKLE1239",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-2923",
+      "gazette": null,
+      "issuingBody": "Sodni svet Republike Slovenije",
+      "adoptedAt": "2000-07-14",
+      "validFrom": "2000-07-14",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2923",
+      "versions": [
+        {
+          "id": "SKLE1239-original",
+          "shortCode": "SKLE1239",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-14",
+          "effectiveFrom": "2000-07-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE609"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2923",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE609",
+      "title": "Sklep o drugih osebnih prejemkih in povračilih sodnikov",
+      "shortTitle": "Sklep o drugih osebnih prejemkih in povračilih sodnikov",
+      "shortCode": "SKLE609",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1994-01-2424",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-10-28",
+      "validFrom": "1994-10-28",
+      "validTo": null,
+      "latestPublishedAt": "1994-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2424",
+      "versions": [
+        {
+          "id": "SKLE609-original",
+          "shortCode": "SKLE609",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-10-28",
+          "effectiveFrom": "1994-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2424",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

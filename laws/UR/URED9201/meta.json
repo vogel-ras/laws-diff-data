@@ -1,0 +1,97 @@
+{
+  "root": "URED9201",
+  "path": "laws/UR/URED9201",
+  "members": [
+    {
+      "id": "URED9201",
+      "title": "Uredba o izvedbi intervencij kmetijske politike za leto 2025",
+      "shortTitle": "Uredba o izvedbi intervencij kmetijske politike za leto 2025",
+      "shortCode": "URED9201",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-0085",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-14",
+      "validFrom": "2025-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0085",
+      "versions": [
+        {
+          "id": "URED9201-original",
+          "shortCode": "URED9201",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-01-14",
+          "effectiveFrom": "2025-01-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0085",
+          "proposer": null
+        },
+        {
+          "id": "URED9201-npb-URED9201",
+          "shortCode": "URED9201-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-01-10",
+          "effectiveFrom": "2025-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9201",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9335",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi intervencij kmetijske politike za leto 2025",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi intervencij kmetijske politike za leto 2025",
+      "shortCode": "URED9335",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1405",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-05-23",
+      "validFrom": "2025-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1405",
+      "versions": [
+        {
+          "id": "URED9335-original",
+          "shortCode": "URED9335",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-23",
+          "effectiveFrom": "2025-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9201"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1405",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "root": "ZBR",
+  "path": "laws/ZB/ZBR",
+  "members": [
+    {
+      "id": "ZBR",
+      "title": "Zakon o blagovnih rezervah",
+      "shortTitle": "Zakon o blagovnih rezervah",
+      "shortCode": "ZBR",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna zaloga",
+        "državne rezerve",
+        "rezerve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2790",
+      "gazette": "Uradni list RS 60/95  str. 4749",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-20",
+      "validFrom": "1995-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2790",
+      "versions": [
+        {
+          "id": "ZBR-original",
+          "shortCode": "ZBR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/95  str. 4749",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2790",
+          "proposer": null
+        },
+        {
+          "id": "ZBR-amend-ZBR-A",
+          "shortCode": "ZBR-A",
+          "label": "Sprememba ZBR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/99  str. 4470",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1876",
+          "proposer": null
+        },
+        {
+          "id": "ZBR-amend-ZBR-B",
+          "shortCode": "ZBR-B",
+          "label": "Sprememba ZBR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 50/04  str. 6710",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2297",
+          "proposer": null
+        },
+        {
+          "id": "ZBR-amend-ZBR-C",
+          "shortCode": "ZBR-C",
+          "label": "Sprememba ZBR-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 86/09  str. 11582",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3805",
+          "proposer": null
+        },
+        {
+          "id": "ZBR-amend-ZBR-D",
+          "shortCode": "ZBR-D",
+          "label": "Sprememba ZBR-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 83/12  str. 8556",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBR-1",
+      "title": "Zakon o državnih blagovnih rezervah",
+      "shortTitle": "Zakon o državnih blagovnih rezervah",
+      "shortCode": "ZBR-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0691",
+      "gazette": "Uradni list RS 23/24  str. 1729",
+      "issuingBody": null,
+      "adoptedAt": "2024-03-19",
+      "validFrom": "2024-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0691",
+      "versions": [
+        {
+          "id": "ZBR-1-original",
+          "shortCode": "ZBR-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/24  str. 1729",
+          "publishedAt": "2024-03-19",
+          "effectiveFrom": "2024-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0691",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBR-A",
+      "title": "Zakon o dopolnitvah zakona o blagovnih rezervah",
+      "shortTitle": "Zakon o dopolnitvah zakona o blagovnih rezervah",
+      "shortCode": "ZBR-A",
+      "kind": "zakon",
+      "keywords": [
+        "naftni derivat",
+        "državne rezerve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1876",
+      "gazette": "Uradni list RS 38/99  str. 4470",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-21",
+      "validFrom": "1999-05-21",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1876",
+      "versions": [
+        {
+          "id": "ZBR-A-original",
+          "shortCode": "ZBR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/99  str. 4470",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1876",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBR-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o blagovnih rezervah",
+      "shortCode": "ZBR-B",
+      "kind": "zakon",
+      "keywords": [
+        "rezerve",
+        "nafta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2297",
+      "gazette": "Uradni list RS 50/04  str. 6710",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-06",
+      "validFrom": "2004-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2297",
+      "versions": [
+        {
+          "id": "ZBR-B-original",
+          "shortCode": "ZBR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/04  str. 6710",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2297",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBR-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah",
+      "shortCode": "ZBR-C",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna zaloga",
+        "državne rezerve",
+        "rezerve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3805",
+      "gazette": "Uradni list RS 86/09  str. 11582",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3805",
+      "versions": [
+        {
+          "id": "ZBR-C-original",
+          "shortCode": "ZBR-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/09  str. 11582",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3805",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBR-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o blagovnih rezervah",
+      "shortCode": "ZBR-D",
+      "kind": "zakon",
+      "keywords": [
+        "rezerve",
+        "naftni derivat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3289",
+      "gazette": "Uradni list RS 83/12  str. 8556",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-06",
+      "validFrom": "2012-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3289",
+      "versions": [
+        {
+          "id": "ZBR-D-original",
+          "shortCode": "ZBR-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/12  str. 8556",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3289",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,397 @@
+{
+  "root": "ZRLI",
+  "path": "laws/ZR/ZRLI",
+  "members": [
+    {
+      "id": "ZRLI",
+      "title": "Zakon o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI",
+      "kind": "zakon",
+      "keywords": [
+        "referendum",
+        "peticija",
+        "ljudska iniciativa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0561",
+      "gazette": "Uradni list RS 15/94  str. 817",
+      "issuingBody": null,
+      "adoptedAt": "1994-03-18",
+      "validFrom": "1994-03-18",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0561",
+      "versions": [
+        {
+          "id": "ZRLI-original",
+          "shortCode": "ZRLI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/94  str. 817",
+          "publishedAt": "1994-03-18",
+          "effectiveFrom": "1994-03-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0561",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-A",
+          "shortCode": "ZRLI-A",
+          "label": "Sprememba ZRLI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/96  str. 3383",
+          "publishedAt": "1996-07-19",
+          "effectiveFrom": "1996-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2501",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-B",
+          "shortCode": "ZRLI-B",
+          "label": "Sprememba ZRLI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 59/2001  str. 6029",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3143",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-C",
+          "shortCode": "ZRLI-C",
+          "label": "Sprememba ZRLI-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 83/04  str. 10076",
+          "publishedAt": "2004-07-29",
+          "effectiveFrom": "2004-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3691",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-D",
+          "shortCode": "ZRLI-D",
+          "label": "Sprememba ZRLI-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 139/06  str. 16170",
+          "publishedAt": "2006-12-29",
+          "effectiveFrom": "2006-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6044",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-E",
+          "shortCode": "ZRLI-E",
+          "label": "Sprememba ZRLI-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 52/20  str. 2139",
+          "publishedAt": "2020-04-15",
+          "effectiveFrom": "2020-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0785",
+          "proposer": null
+        },
+        {
+          "id": "ZRLI-amend-ZRLI-F",
+          "shortCode": "ZRLI-F",
+          "label": "Sprememba ZRLI-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 30/24  str. 2260",
+          "publishedAt": "2024-04-05",
+          "effectiveFrom": "2024-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0828",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o referendumu in ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o referendumu in ljudski iniciativi",
+      "shortCode": "ZRLI-A",
+      "kind": "zakon",
+      "keywords": [
+        "ljudska iniciativa",
+        "referendum",
+        "peticija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-2501",
+      "gazette": "Uradni list RS 38/96  str. 3383",
+      "issuingBody": null,
+      "adoptedAt": "1996-07-19",
+      "validFrom": "1996-07-19",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2501",
+      "versions": [
+        {
+          "id": "ZRLI-A-original",
+          "shortCode": "ZRLI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/96  str. 3383",
+          "publishedAt": "1996-07-19",
+          "effectiveFrom": "1996-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2501",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI-B",
+      "kind": "zakon",
+      "keywords": [
+        "referendum",
+        "ljudska iniciativa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3143",
+      "gazette": "Uradni list RS 59/2001  str. 6029",
+      "issuingBody": null,
+      "adoptedAt": "2001-07-19",
+      "validFrom": "2001-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3143",
+      "versions": [
+        {
+          "id": "ZRLI-B-original",
+          "shortCode": "ZRLI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2001  str. 6029",
+          "publishedAt": "2001-07-19",
+          "effectiveFrom": "2001-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3143",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI-C",
+      "kind": "zakon",
+      "keywords": [
+        "referendum",
+        "ljudska iniciativa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3691",
+      "gazette": "Uradni list RS 83/04  str. 10076",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-29",
+      "validFrom": "2004-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3691",
+      "versions": [
+        {
+          "id": "ZRLI-C-original",
+          "shortCode": "ZRLI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/04  str. 10076",
+          "publishedAt": "2004-07-29",
+          "effectiveFrom": "2004-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3691",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI-D",
+      "kind": "zakon",
+      "keywords": [
+        "referendum",
+        "peticija",
+        "ljudska iniciativa"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-6044",
+      "gazette": "Uradni list RS 139/06  str. 16170",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-29",
+      "validFrom": "2006-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6044",
+      "versions": [
+        {
+          "id": "ZRLI-D-original",
+          "shortCode": "ZRLI-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/06  str. 16170",
+          "publishedAt": "2006-12-29",
+          "effectiveFrom": "2006-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6044",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-E",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0785",
+      "gazette": "Uradni list RS 52/20  str. 2139",
+      "issuingBody": null,
+      "adoptedAt": "2020-04-15",
+      "validFrom": "2020-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0785",
+      "versions": [
+        {
+          "id": "ZRLI-E-original",
+          "shortCode": "ZRLI-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/20  str. 2139",
+          "publishedAt": "2020-04-15",
+          "effectiveFrom": "2020-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0785",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRLI-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o referendumu in o ljudski iniciativi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o referendumu in o ljudski iniciativi",
+      "shortCode": "ZRLI-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0828",
+      "gazette": "Uradni list RS 30/24  str. 2260",
+      "issuingBody": null,
+      "adoptedAt": "2024-04-05",
+      "validFrom": "2024-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0828",
+      "versions": [
+        {
+          "id": "ZRLI-F-original",
+          "shortCode": "ZRLI-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/24  str. 2260",
+          "publishedAt": "2024-04-05",
+          "effectiveFrom": "2024-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRLI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0828",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

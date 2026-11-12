@@ -1,0 +1,82 @@
+{
+  "root": "SKLE3219",
+  "path": "laws/SK/SKLE3219",
+  "members": [
+    {
+      "id": "SKLE3219",
+      "title": "Sklep o soglasju za odprtje Konzulata Nove Zelandije v Republiki Sloveniji s sedežem v Ljubljani, na čelu s častno konzulko",
+      "shortTitle": "Sklep o soglasju za odprtje Konzulata Nove Zelandije v Republiki Sloveniji s sedežem v Ljubljani, na čelu s častno konzulko",
+      "shortCode": "SKLE3219",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-3387",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-26",
+      "validFrom": "2026-01-26",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3387",
+      "versions": [
+        {
+          "id": "SKLE3219-original",
+          "shortCode": "SKLE3219",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-26",
+          "effectiveFrom": "2026-01-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3387",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8737",
+      "title": "Sklep o spremembi Sklepa o soglasju za odprtje Konzulata Nove Zelandije v Republiki Sloveniji s sedežem v Ljubljani, na čelu s častno konzulko",
+      "shortTitle": "Sklep o spremembi Sklepa o soglasju za odprtje Konzulata Nove Zelandije v Republiki Sloveniji s sedežem v Ljubljani, na čelu s častno konzulko",
+      "shortCode": "SKLE8737",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-4522",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-12-21",
+      "validFrom": "2011-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4522",
+      "versions": [
+        {
+          "id": "SKLE8737-original",
+          "shortCode": "SKLE8737",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-21",
+          "effectiveFrom": "2011-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3219"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4522",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

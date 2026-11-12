@@ -1,0 +1,82 @@
+{
+  "root": "URED8900",
+  "path": "laws/UR/URED8900",
+  "members": [
+    {
+      "id": "URED8900",
+      "title": "Uredba o izvajanju lokalnega razvoja, ki ga vodi skupnost, v obdobju do leta 2027",
+      "shortTitle": "Uredba o izvajanju lokalnega razvoja, ki ga vodi skupnost, v obdobju do leta 2027",
+      "shortCode": "URED8900",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-4070",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-15",
+      "validFrom": "2024-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4070",
+      "versions": [
+        {
+          "id": "URED8900-original",
+          "shortCode": "URED8900",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-15",
+          "effectiveFrom": "2024-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4070",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9105",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju lokalnega razvoja, ki ga vodi skupnost, v obdobju do leta 2027",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju lokalnega razvoja, ki ga vodi skupnost, v obdobju do leta 2027",
+      "shortCode": "URED9105",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2047",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-17",
+      "validFrom": "2024-07-17",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2047",
+      "versions": [
+        {
+          "id": "URED9105-original",
+          "shortCode": "URED9105",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-17",
+          "effectiveFrom": "2024-07-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8900"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2047",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

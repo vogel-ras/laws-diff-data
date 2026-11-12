@@ -1,0 +1,45 @@
+{
+  "root": "ZTIB",
+  "path": "laws/ZT/ZTIB",
+  "members": [
+    {
+      "id": "ZTIB",
+      "title": "Zakon o taksi na izvoženo blago",
+      "shortTitle": "Zakon o taksi na izvoženo blago",
+      "shortCode": "ZTIB",
+      "kind": "zakon",
+      "keywords": [
+        "izvozna dajatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1799",
+      "gazette": "Uradni list RS 46/93  str. 2483",
+      "issuingBody": null,
+      "adoptedAt": "1993-08-06",
+      "validFrom": "1993-08-06",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1799",
+      "versions": [
+        {
+          "id": "ZTIB-original",
+          "shortCode": "ZTIB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/93  str. 2483",
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1799",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

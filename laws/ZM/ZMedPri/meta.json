@@ -1,0 +1,48 @@
+{
+  "root": "ZMedPri",
+  "path": "laws/ZM/ZMedPri",
+  "members": [
+    {
+      "id": "ZMedPri",
+      "title": "Zakon o medicinskih pripomočkih",
+      "shortTitle": "Zakon o medicinskih pripomočkih",
+      "shortCode": "ZMedPri",
+      "kind": "zakon",
+      "keywords": [
+        "medicinski in kirurški instrumenti",
+        "radiobiologija",
+        "nadzor zdravil",
+        "varstvo pri delu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4284",
+      "gazette": "Uradni list RS 98/09  str. 13005",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-04",
+      "validFrom": "2009-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4284",
+      "versions": [
+        {
+          "id": "ZMedPri-original",
+          "shortCode": "ZMedPri",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/09  str. 13005",
+          "publishedAt": "2009-12-04",
+          "effectiveFrom": "2009-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4284",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

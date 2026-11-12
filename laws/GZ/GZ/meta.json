@@ -1,0 +1,192 @@
+{
+  "root": "GZ",
+  "path": "laws/GZ/GZ",
+  "members": [
+    {
+      "id": "GZ-1A",
+      "title": "Zakon o spremembah Gradbenega zakona",
+      "shortTitle": "Zakon o spremembah Gradbenega zakona",
+      "shortCode": "GZ-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-4095",
+      "gazette": "Uradni list RS 133/23  str. 12297",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-27",
+      "validFrom": "2023-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4095",
+      "versions": [
+        {
+          "id": "GZ-1A-original",
+          "shortCode": "GZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/23  str. 12297",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8244"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4095",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "GZ-A",
+      "title": "Zakon o spremembi Gradbenega zakona",
+      "shortTitle": "Zakon o spremembi Gradbenega zakona",
+      "shortCode": "GZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0978",
+      "gazette": "Uradni list RS 65/20  str. 2393",
+      "issuingBody": null,
+      "adoptedAt": "2020-05-08",
+      "validFrom": "2020-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0978",
+      "versions": [
+        {
+          "id": "GZ-A-original",
+          "shortCode": "GZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/20  str. 2393",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7108"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0978",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7108",
+      "title": "Gradbeni zakon (GZ)",
+      "shortTitle": "Gradbeni zakon (GZ)",
+      "shortCode": "GZ",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2914",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-02",
+      "validFrom": "2017-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2914",
+      "versions": [
+        {
+          "id": "ZAKO7108-original",
+          "shortCode": "GZ",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-02",
+          "effectiveFrom": "2017-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2914",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7108-amend-GZ-A",
+          "shortCode": "GZ-A",
+          "label": "Sprememba GZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/20  str. 2393",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7108"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0978",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO8244",
+      "title": "Gradbeni zakon (GZ-1)",
+      "shortTitle": "Gradbeni zakon (GZ-1)",
+      "shortCode": "GZ-1",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-3972",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-04-05",
+      "validFrom": "2024-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3972",
+      "versions": [
+        {
+          "id": "ZAKO8244-amend-GZ-1A",
+          "shortCode": "GZ-1A",
+          "label": "Sprememba GZ-1A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/23  str. 12297",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8244"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4095",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8244-original",
+          "shortCode": "GZ-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-04-05",
+          "effectiveFrom": "2024-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3972",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

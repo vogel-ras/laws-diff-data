@@ -1,0 +1,121 @@
+{
+  "root": "MP_ODLO49250",
+  "path": "ordinances/MP/MP_ODLO49250",
+  "members": [
+    {
+      "id": "MP_ODLO49250",
+      "title": "Odlok o proračunu Mestne občine Krško za leto 2024 (ODLO)",
+      "shortTitle": "Odlok o proračunu Mestne občine Krško za leto 2024 (ODLO)",
+      "shortCode": "MP_ODLO49250",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-4243",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4243",
+      "versions": [
+        {
+          "id": "MP_ODLO49250-original",
+          "shortCode": "MP_ODLO49250",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4243",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO50620",
+      "title": "Odlok o spremembi Odloka o proračunu Mestne Občine Krško za leto 2024 (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o proračunu Mestne Občine Krško za leto 2024 (ODLO)",
+      "shortCode": "MP_ODLO50620",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Krško",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-1528",
+      "gazette": null,
+      "issuingBody": "Občina Krško",
+      "adoptedAt": "2024-05-31",
+      "validFrom": "2024-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1528",
+      "versions": [
+        {
+          "id": "MP_ODLO50620-original",
+          "shortCode": "MP_ODLO50620",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-05-31",
+          "effectiveFrom": "2024-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO49250"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1528",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO52661",
+      "title": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2024/II (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o proračunu Mestne občine Krško za leto 2024/II (ODLO)",
+      "shortCode": "MP_ODLO52661",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Krško",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-2925",
+      "gazette": null,
+      "issuingBody": "Občina Krško",
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2925",
+      "versions": [
+        {
+          "id": "MP_ODLO52661-original",
+          "shortCode": "MP_ODLO52661",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO49250"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2925",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

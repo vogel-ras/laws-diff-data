@@ -1,0 +1,136 @@
+{
+  "root": "PRAV8377",
+  "path": "laws/PR/PRAV8377",
+  "members": [
+    {
+      "id": "PRAV8377",
+      "title": "Pravilnik o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortTitle": "Pravilnik o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortCode": "PRAV8377",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-6273",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-29",
+      "validFrom": "2008-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6273",
+      "versions": [
+        {
+          "id": "PRAV8377-original",
+          "shortCode": "PRAV8377",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-29",
+          "effectiveFrom": "2008-08-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6273",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8377-npb-PRAV8377",
+          "shortCode": "PRAV8377-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-12-28",
+          "effectiveFrom": "2007-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8377",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9153",
+      "title": "Pravilnik o spremembi Pravilnika o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortCode": "PRAV9153",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3698",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-29",
+      "validFrom": "2008-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3698",
+      "versions": [
+        {
+          "id": "PRAV9153-original",
+          "shortCode": "PRAV9153",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-29",
+          "effectiveFrom": "2008-08-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8377"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3698",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9373",
+      "title": "Pravilnik o spremembah Pravilnika o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o strokovnem izpitu s področja zdravstvenega varstva rastlin",
+      "shortCode": "PRAV9373",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1067",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-03",
+      "validFrom": "2009-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1067",
+      "versions": [
+        {
+          "id": "PRAV9373-original",
+          "shortCode": "PRAV9373",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-03",
+          "effectiveFrom": "2009-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8377"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1067",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

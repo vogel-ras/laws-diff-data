@@ -1,0 +1,82 @@
+{
+  "root": "URED3624",
+  "path": "laws/UR/URED3624",
+  "members": [
+    {
+      "id": "URED3624",
+      "title": "Uredba o podpori za pridelavo semena kmetijskih rastlin",
+      "shortTitle": "Uredba o podpori za pridelavo semena kmetijskih rastlin",
+      "shortCode": "URED3624",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0289",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0289",
+      "versions": [
+        {
+          "id": "URED3624-original",
+          "shortCode": "URED3624",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3832",
+      "title": "Uredba o spremembah Uredbe o podpori za pridelavo semena kmetijskih rastlin",
+      "shortTitle": "Uredba o spremembah Uredbe o podpori za pridelavo semena kmetijskih rastlin",
+      "shortCode": "URED3832",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1953",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-13",
+      "validFrom": "2005-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1953",
+      "versions": [
+        {
+          "id": "URED3832-original",
+          "shortCode": "URED3832",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-13",
+          "effectiveFrom": "2005-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3624"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1953",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

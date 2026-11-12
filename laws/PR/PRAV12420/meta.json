@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12420",
+  "path": "laws/PR/PRAV12420",
+  "members": [
+    {
+      "id": "PRAV12420",
+      "title": "Pravilnik o strokovnem izpitu za inšpektorja",
+      "shortTitle": "Pravilnik o strokovnem izpitu za inšpektorja",
+      "shortCode": "PRAV12420",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1710",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-06-12",
+      "validFrom": "2015-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1710",
+      "versions": [
+        {
+          "id": "PRAV12420-original",
+          "shortCode": "PRAV12420",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-12",
+          "effectiveFrom": "2015-06-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1710",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12420-npb-PRAV12420",
+          "shortCode": "PRAV12420-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-06-12",
+          "effectiveFrom": "2015-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12420",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

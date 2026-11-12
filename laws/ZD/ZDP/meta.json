@@ -1,0 +1,424 @@
+{
+  "root": "ZDP",
+  "path": "laws/ZD/ZDP",
+  "members": [
+    {
+      "id": "ZDP",
+      "title": "Zakon o deviznem poslovanju",
+      "shortTitle": "Zakon o deviznem poslovanju",
+      "shortCode": "ZDP",
+      "kind": "zakon",
+      "keywords": [
+        "devizna politika",
+        "tuja valuta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0016",
+      "gazette": "Uradni list RS 1/91  str. 43",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0016",
+      "versions": [
+        {
+          "id": "ZDP-original",
+          "shortCode": "ZDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 43",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0016",
+          "proposer": null
+        },
+        {
+          "id": "ZDP-amend-ZDP-A",
+          "shortCode": "ZDP-A",
+          "label": "Sprememba ZDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 71/93  str. 3713",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2580",
+          "proposer": null
+        },
+        {
+          "id": "ZDP-amend-ZDP-B",
+          "shortCode": "ZDP-B",
+          "label": "Sprememba ZDP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 63/95  str. 4936",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2919",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-1",
+      "title": "Zakon o deviznem poslovanju",
+      "shortTitle": "Zakon o deviznem poslovanju",
+      "shortCode": "ZDP-1",
+      "kind": "zakon",
+      "keywords": [
+        "devizni posel"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1033",
+      "gazette": "Uradni list RS 23/99  str. 2496",
+      "issuingBody": null,
+      "adoptedAt": "1999-04-08",
+      "validFrom": "1999-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1033",
+      "versions": [
+        {
+          "id": "ZDP-1-original",
+          "shortCode": "ZDP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/99  str. 2496",
+          "publishedAt": "1999-04-08",
+          "effectiveFrom": "1999-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1033",
+          "proposer": null
+        },
+        {
+          "id": "ZDP-1-amend-ZDP-1A",
+          "shortCode": "ZDP-1A",
+          "label": "Sprememba ZDP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/2003  str. 11421",
+          "publishedAt": "2003-08-04",
+          "effectiveFrom": "2003-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3649",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o deviznem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o deviznem poslovanju",
+      "shortCode": "ZDP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "devizna politika",
+        "devizni trg",
+        "prosti pretok kapitala",
+        "evro"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3649",
+      "gazette": "Uradni list RS 76/2003  str. 11421",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-04",
+      "validFrom": "2003-08-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3649",
+      "versions": [
+        {
+          "id": "ZDP-1A-original",
+          "shortCode": "ZDP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/2003  str. 11421",
+          "publishedAt": "2003-08-04",
+          "effectiveFrom": "2003-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3649",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-2",
+      "title": "Zakon o deviznem poslovanju",
+      "shortTitle": "Zakon o deviznem poslovanju",
+      "shortCode": "ZDP-2",
+      "kind": "zakon",
+      "keywords": [
+        "družba za upravljanje",
+        "investicijska družba",
+        "delniška družba",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-0486",
+      "gazette": "Uradni list RS 16/08  str. 1145",
+      "issuingBody": null,
+      "adoptedAt": "2008-02-15",
+      "validFrom": "2008-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0486",
+      "versions": [
+        {
+          "id": "ZDP-2-original",
+          "shortCode": "ZDP-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/08  str. 1145",
+          "publishedAt": "2008-02-15",
+          "effectiveFrom": "2008-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0486",
+          "proposer": null
+        },
+        {
+          "id": "ZDP-2-amend-ZDP-2A",
+          "shortCode": "ZDP-2A",
+          "label": "Sprememba ZDP-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 85/09  str. 11352",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3789",
+          "proposer": null
+        },
+        {
+          "id": "ZDP-2-amend-ZDP-2B",
+          "shortCode": "ZDP-2B",
+          "label": "Sprememba ZDP-2B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 109/12  str. 12123",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4316",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju",
+      "shortCode": "ZDP-2A",
+      "kind": "zakon",
+      "keywords": [
+        "devizna politika",
+        "tuja valuta",
+        "pranje denarja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3789",
+      "gazette": "Uradni list RS 85/09  str. 11352",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3789",
+      "versions": [
+        {
+          "id": "ZDP-2A-original",
+          "shortCode": "ZDP-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/09  str. 11352",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3789",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-2B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o deviznem poslovanju",
+      "shortCode": "ZDP-2B",
+      "kind": "zakon",
+      "keywords": [
+        "devizni posel"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4316",
+      "gazette": "Uradni list RS 109/12  str. 12123",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4316",
+      "versions": [
+        {
+          "id": "ZDP-2B-original",
+          "shortCode": "ZDP-2B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12123",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4316",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-A",
+      "title": "Zakon o dopolnitvah zakona o deviznem poslovanju",
+      "shortTitle": "Zakon o dopolnitvah zakona o deviznem poslovanju",
+      "shortCode": "ZDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "devizna politika",
+        "tuja valuta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2580",
+      "gazette": "Uradni list RS 71/93  str. 3713",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-30",
+      "validFrom": "1993-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2580",
+      "versions": [
+        {
+          "id": "ZDP-A-original",
+          "shortCode": "ZDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/93  str. 3713",
+          "publishedAt": "1993-12-30",
+          "effectiveFrom": "1993-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2580",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDP-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o deviznem poslovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o deviznem poslovanju",
+      "shortCode": "ZDP-B",
+      "kind": "zakon",
+      "keywords": [
+        "devizna politika",
+        "tuja valuta"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2919",
+      "gazette": "Uradni list RS 63/95  str. 4936",
+      "issuingBody": null,
+      "adoptedAt": "1995-11-06",
+      "validFrom": "1995-11-06",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2919",
+      "versions": [
+        {
+          "id": "ZDP-B-original",
+          "shortCode": "ZDP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/95  str. 4936",
+          "publishedAt": "1995-11-06",
+          "effectiveFrom": "1995-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2919",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

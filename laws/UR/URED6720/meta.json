@@ -1,0 +1,58 @@
+{
+  "root": "URED6720",
+  "path": "laws/UR/URED6720",
+  "members": [
+    {
+      "id": "URED6720",
+      "title": "Uredba o uniformi, položajnih oznakah in simbolih policije",
+      "shortTitle": "Uredba o uniformi, položajnih oznakah in simbolih policije",
+      "shortCode": "URED6720",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2704",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-08-29",
+      "validFrom": "2014-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2014-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2704",
+      "versions": [
+        {
+          "id": "URED6720-original",
+          "shortCode": "URED6720",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-08-29",
+          "effectiveFrom": "2014-08-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2704",
+          "proposer": null
+        },
+        {
+          "id": "URED6720-npb-URED6720",
+          "shortCode": "URED6720-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-08-29",
+          "effectiveFrom": "2014-08-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6720",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "root": "ZUOPDD",
+  "path": "laws/ZU/ZUOPDD",
+  "members": [
+    {
+      "id": "ZUOPDD",
+      "title": "Zakon o ureditvi obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij",
+      "shortTitle": "Zakon o ureditvi obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij",
+      "shortCode": "ZUOPDD",
+      "kind": "zakon",
+      "keywords": [
+        "davek od plač",
+        "privatizacija",
+        "javna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2471",
+      "gazette": "Uradni list RS 69/94  str. 3844",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-05",
+      "validFrom": "1994-11-05",
+      "validTo": null,
+      "latestPublishedAt": "1995-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2471",
+      "versions": [
+        {
+          "id": "ZUOPDD-original",
+          "shortCode": "ZUOPDD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/94  str. 3844",
+          "publishedAt": "1994-11-05",
+          "effectiveFrom": "1994-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2471",
+          "proposer": null
+        },
+        {
+          "id": "ZUOPDD-amend-ZUOPDD-A",
+          "shortCode": "ZUOPDD-A",
+          "label": "Sprememba ZUOPDD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 7/95  str. 717",
+          "publishedAt": "1995-02-04",
+          "effectiveFrom": "1995-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUOPDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0449",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUOPDD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ureditvi obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ureditvi obračunavanja in plačevanja določenih davkov in prispevkov v postopkih lastninskega preoblikovanja podjetij",
+      "shortCode": "ZUOPDD-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek od plač",
+        "privatizacija",
+        "javna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0449",
+      "gazette": "Uradni list RS 7/95  str. 717",
+      "issuingBody": null,
+      "adoptedAt": "1995-02-04",
+      "validFrom": "1995-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1995-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0449",
+      "versions": [
+        {
+          "id": "ZUOPDD-A-original",
+          "shortCode": "ZUOPDD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/95  str. 717",
+          "publishedAt": "1995-02-04",
+          "effectiveFrom": "1995-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUOPDD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0449",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

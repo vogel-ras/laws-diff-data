@@ -1,0 +1,58 @@
+{
+  "root": "PRAV7890",
+  "path": "laws/PR/PRAV7890",
+  "members": [
+    {
+      "id": "PRAV7890",
+      "title": "Pravilnik o plačilih staršev za programe v vrtcih",
+      "shortTitle": "Pravilnik o plačilih staršev za programe v vrtcih",
+      "shortCode": "PRAV7890",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5437",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-08-01",
+      "validFrom": "2008-08-01",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5437",
+      "versions": [
+        {
+          "id": "PRAV7890-original",
+          "shortCode": "PRAV7890",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-01",
+          "effectiveFrom": "2008-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5437",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7890-npb-PRAV7890",
+          "shortCode": "PRAV7890-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7890",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

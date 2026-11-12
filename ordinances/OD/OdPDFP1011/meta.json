@@ -1,0 +1,99 @@
+{
+  "root": "OdPDFP1011",
+  "path": "ordinances/OD/OdPDFP1011",
+  "members": [
+    {
+      "id": "ODLO1621",
+      "title": "Odlok o Programu prodaje državnega finančnega premoženja za leti 2010 in 2011 (OdPDFP1011)",
+      "shortTitle": "Odlok o Programu prodaje državnega finančnega premoženja za leti 2010 in 2011 (OdPDFP1011)",
+      "shortCode": "OdPDFP1011",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2009-01-4251",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-10-25",
+      "validFrom": "2011-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4251",
+      "versions": [
+        {
+          "id": "ODLO1621-amend-ODLO1681",
+          "shortCode": "OdPDFP1011-A",
+          "label": "Sprememba OdPDFP1011-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-25",
+          "effectiveFrom": "2011-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ODLO1621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3586",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1621-original",
+          "shortCode": "OdPDFP1011",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-10-25",
+          "effectiveFrom": "2011-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4251",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1681",
+      "title": "Odlok o dopolnitvi Odloka o Programu prodaje državnega finančnega premoženja za leti 2010 in 2011 (OdPDFP1011-A)",
+      "shortTitle": "Odlok o dopolnitvi Odloka o Programu prodaje državnega finančnega premoženja za leti 2010 in 2011 (OdPDFP1011-A)",
+      "shortCode": "OdPDFP1011-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2011-01-3586",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-10-25",
+      "validFrom": "2011-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3586",
+      "versions": [
+        {
+          "id": "ODLO1681-original",
+          "shortCode": "OdPDFP1011-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-25",
+          "effectiveFrom": "2011-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3586",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

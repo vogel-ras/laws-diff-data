@@ -1,0 +1,261 @@
+{
+  "root": "ZMEPIZ",
+  "path": "laws/ZM/ZMEPIZ",
+  "members": [
+    {
+      "id": "ZMEPIZ",
+      "title": "Zakon o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortTitle": "Zakon o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortCode": "ZMEPIZ",
+      "kind": "zakon",
+      "keywords": [
+        "evidenca dokumentarnega gradiva",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3709",
+      "gazette": "Uradni list RS 81/2000  str. 9773",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-15",
+      "validFrom": "2000-09-15",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3709",
+      "versions": [
+        {
+          "id": "ZMEPIZ-original",
+          "shortCode": "ZMEPIZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/2000  str. 9773",
+          "publishedAt": "2000-09-15",
+          "effectiveFrom": "2000-09-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3709",
+          "proposer": null
+        },
+        {
+          "id": "ZMEPIZ-amend-ZMEPIZ-A",
+          "shortCode": "ZMEPIZ-A",
+          "label": "Sprememba ZMEPIZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 111/07  str. 15240",
+          "publishedAt": "2007-12-05",
+          "effectiveFrom": "2007-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMEPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5508",
+          "proposer": null
+        },
+        {
+          "id": "ZMEPIZ-amend-ZMEPIZ-B",
+          "shortCode": "ZMEPIZ-B",
+          "label": "Sprememba ZMEPIZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 25/11  str. 3269",
+          "publishedAt": "2011-04-04",
+          "effectiveFrom": "2011-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMEPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1094",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMEPIZ-1",
+      "title": "Zakon o matični evidenci zavarovancev in uživalcev pravic iz obveznega pokojninskega in invalidskega zavarovanja",
+      "shortTitle": "Zakon o matični evidenci zavarovancev in uživalcev pravic iz obveznega pokojninskega in invalidskega zavarovanja",
+      "shortCode": "ZMEPIZ-1",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4125",
+      "gazette": "Uradni list RS 111/13  str. 13133",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4125",
+      "versions": [
+        {
+          "id": "ZMEPIZ-1-original",
+          "shortCode": "ZMEPIZ-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/13  str. 13133",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4125",
+          "proposer": null
+        },
+        {
+          "id": "ZMEPIZ-1-amend-ZMEPIZ-1A",
+          "shortCode": "ZMEPIZ-1A",
+          "label": "Sprememba ZMEPIZ-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 97/14  str. 10985",
+          "publishedAt": "2014-12-30",
+          "effectiveFrom": "2014-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMEPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4072",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMEPIZ-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o matični evidenci zavarovancev in uživalcev pravic iz obveznega pokojninskega in invalidskega zavarovanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o matični evidenci zavarovancev in uživalcev pravic iz obveznega pokojninskega in invalidskega zavarovanja",
+      "shortCode": "ZMEPIZ-1A",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-4072",
+      "gazette": "Uradni list RS 97/14  str. 10985",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-30",
+      "validFrom": "2014-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4072",
+      "versions": [
+        {
+          "id": "ZMEPIZ-1A-original",
+          "shortCode": "ZMEPIZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/14  str. 10985",
+          "publishedAt": "2014-12-30",
+          "effectiveFrom": "2014-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMEPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4072",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMEPIZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortCode": "ZMEPIZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5508",
+      "gazette": "Uradni list RS 111/07  str. 15240",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-05",
+      "validFrom": "2007-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5508",
+      "versions": [
+        {
+          "id": "ZMEPIZ-A-original",
+          "shortCode": "ZMEPIZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/07  str. 15240",
+          "publishedAt": "2007-12-05",
+          "effectiveFrom": "2007-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMEPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5508",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMEPIZ-B",
+      "title": "Zakon o spremembi Zakona o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortTitle": "Zakon o spremembi Zakona o matični evidenci zavarovancev in uživalcev pravic iz pokojninskega in invalidskega zavarovanja",
+      "shortCode": "ZMEPIZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1094",
+      "gazette": "Uradni list RS 25/11  str. 3269",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-04",
+      "validFrom": "2011-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1094",
+      "versions": [
+        {
+          "id": "ZMEPIZ-B-original",
+          "shortCode": "ZMEPIZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/11  str. 3269",
+          "publishedAt": "2011-04-04",
+          "effectiveFrom": "2011-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMEPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1094",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

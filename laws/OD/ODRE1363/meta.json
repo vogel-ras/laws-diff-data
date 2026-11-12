@@ -1,0 +1,97 @@
+{
+  "root": "ODRE1363",
+  "path": "laws/OD/ODRE1363",
+  "members": [
+    {
+      "id": "ODRE1363",
+      "title": "Odredba o uvedbi namakanja na območju Občine Krško",
+      "shortTitle": "Odredba o uvedbi namakanja na območju Občine Krško",
+      "shortCode": "ODRE1363",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-3775",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2000-09-22",
+      "validFrom": "2000-09-22",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3775",
+      "versions": [
+        {
+          "id": "ODRE1363-original",
+          "shortCode": "ODRE1363",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-22",
+          "effectiveFrom": "2000-09-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3775",
+          "proposer": null
+        },
+        {
+          "id": "ODRE1363-npb-ODRE1363",
+          "shortCode": "ODRE1363-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-09-22",
+          "effectiveFrom": "2000-09-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE1363",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1667",
+      "title": "Odredba o spremembah odredbe o uvedbi namakanja na območju Občine Krško",
+      "shortTitle": "Odredba o spremembah odredbe o uvedbi namakanja na območju Občine Krško",
+      "shortCode": "ODRE1667",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-3465",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-07-31",
+      "validFrom": "2001-07-31",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3465",
+      "versions": [
+        {
+          "id": "ODRE1667-original",
+          "shortCode": "ODRE1667",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-31",
+          "effectiveFrom": "2001-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1363"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3465",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

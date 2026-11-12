@@ -1,0 +1,97 @@
+{
+  "root": "ODLO230",
+  "path": "ordinances/OD/ODLO230",
+  "members": [
+    {
+      "id": "ODLO1118",
+      "title": "Odlok o spremembi odloka o razglasitvi Gradu Borl za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Gradu Borl za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1118",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-0969",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-13",
+      "validFrom": "2002-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0969",
+      "versions": [
+        {
+          "id": "ODLO1118-original",
+          "shortCode": "ODLO1118",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-13",
+          "effectiveFrom": "2002-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO230"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0969",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO230",
+      "title": "Odlok o razglasitvi Gradu Borl za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Gradu Borl za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO230",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3809",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-12",
+      "validFrom": "2026-02-12",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3809",
+      "versions": [
+        {
+          "id": "ODLO230-original",
+          "shortCode": "ODLO230",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-12",
+          "effectiveFrom": "2026-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3809",
+          "proposer": null
+        },
+        {
+          "id": "ODLO230-npb-ODLO230",
+          "shortCode": "ODLO230-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO230",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

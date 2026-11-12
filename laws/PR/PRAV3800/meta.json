@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3800",
+  "path": "laws/PR/PRAV3800",
+  "members": [
+    {
+      "id": "PRAV3800",
+      "title": "Pravilnik o pogojih in metodologiji izbora in financiranja projektov temeljnega in aplikativnega raziskovanja",
+      "shortTitle": "Pravilnik o pogojih in metodologiji izbora in financiranja projektov temeljnega in aplikativnega raziskovanja",
+      "shortCode": "PRAV3800",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-1200",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-03-23",
+      "validFrom": "2001-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1200",
+      "versions": [
+        {
+          "id": "PRAV3800-original",
+          "shortCode": "PRAV3800",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-03-23",
+          "effectiveFrom": "2001-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1200",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4203",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih in metodologiji izbora in financiranja projektov temeljnega in aplikativnega raziskovanja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih in metodologiji izbora in financiranja projektov temeljnega in aplikativnega raziskovanja",
+      "shortCode": "PRAV4203",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1826",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-04-29",
+      "validFrom": "2002-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1826",
+      "versions": [
+        {
+          "id": "PRAV4203-original",
+          "shortCode": "PRAV4203",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-29",
+          "effectiveFrom": "2002-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3800"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1826",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

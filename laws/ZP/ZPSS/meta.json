@@ -1,0 +1,109 @@
+{
+  "root": "ZPSS",
+  "path": "laws/ZP/ZPSS",
+  "members": [
+    {
+      "id": "ZPSS",
+      "title": "Zakon o predsanaciji, sanaciji, stečaju in likvidaciji bank in hranilnic",
+      "shortTitle": "Zakon o predsanaciji, sanaciji, stečaju in likvidaciji bank in hranilnic",
+      "shortCode": "ZPSS",
+      "kind": "zakon",
+      "keywords": [
+        "stečaj",
+        "likvidacija",
+        "banka",
+        "hranilnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0020",
+      "gazette": "Uradni list RS 1/91  str. 67",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0020",
+      "versions": [
+        {
+          "id": "ZPSS-original",
+          "shortCode": "ZPSS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 67",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0020",
+          "proposer": null
+        },
+        {
+          "id": "ZPSS-amend-ZPSS-A",
+          "shortCode": "ZPSS-A",
+          "label": "Sprememba ZPSS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 46/93  str. 2483",
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1798",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSS-A",
+      "title": "Zakon o spremembah zakona o predsanaciji, sanaciji, stečaju in likvidaciji bank in hranilnic",
+      "shortTitle": "Zakon o spremembah zakona o predsanaciji, sanaciji, stečaju in likvidaciji bank in hranilnic",
+      "shortCode": "ZPSS-A",
+      "kind": "zakon",
+      "keywords": [
+        "stečaj",
+        "likvidacija",
+        "banka",
+        "hranilnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1798",
+      "gazette": "Uradni list RS 46/93  str. 2483",
+      "issuingBody": null,
+      "adoptedAt": "1993-08-06",
+      "validFrom": "1993-08-06",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1798",
+      "versions": [
+        {
+          "id": "ZPSS-A-original",
+          "shortCode": "ZPSS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/93  str. 2483",
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1798",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

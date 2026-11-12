@@ -1,0 +1,101 @@
+{
+  "root": "ZZ",
+  "path": "laws/ZZ/ZZ",
+  "members": [
+    {
+      "id": "ZAKO10",
+      "title": "Zakon o zavodih (ZZ)",
+      "shortTitle": "Zakon o zavodih (ZZ)",
+      "shortCode": "ZZ",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1991-03-0481",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-10",
+      "validFrom": "2026-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-0481",
+      "versions": [
+        {
+          "id": "ZAKO10-amend-ZZ-A",
+          "shortCode": "ZZ-A",
+          "label": "Sprememba ZZ-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO10"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0379",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO10-original",
+          "shortCode": "ZZ",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-10",
+          "effectiveFrom": "2026-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-03-0481",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZ-A",
+      "title": "Zakon o spremembi zakona o zavodih",
+      "shortTitle": "Zakon o spremembi zakona o zavodih",
+      "shortCode": "ZZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "javna ustanova"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0379",
+      "gazette": "Uradni list RS 8/96  str. 617",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0379",
+      "versions": [
+        {
+          "id": "ZZ-A-original",
+          "shortCode": "ZZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/96  str. 617",
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO10"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0379",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13543",
+  "path": "laws/PR/PRAV13543",
+  "members": [
+    {
+      "id": "PRAV13543",
+      "title": "Pravilnik o usposabljanju kandidatov za voznike motornih vozil",
+      "shortTitle": "Pravilnik o usposabljanju kandidatov za voznike motornih vozil",
+      "shortCode": "PRAV13543",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2065",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-06-15",
+      "validFrom": "2021-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2065",
+      "versions": [
+        {
+          "id": "PRAV13543-original",
+          "shortCode": "PRAV13543",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-06-15",
+          "effectiveFrom": "2021-06-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2065",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13543-npb-PRAV13543",
+          "shortCode": "PRAV13543-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-06-15",
+          "effectiveFrom": "2021-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13543",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14664",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju kandidatov za voznike motornih vozil",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o usposabljanju kandidatov za voznike motornih vozil",
+      "shortCode": "PRAV14664",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-1618",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-05-17",
+      "validFrom": "2022-05-17",
+      "validTo": null,
+      "latestPublishedAt": "2022-05-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1618",
+      "versions": [
+        {
+          "id": "PRAV14664-original",
+          "shortCode": "PRAV14664",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-05-17",
+          "effectiveFrom": "2022-05-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13543"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1618",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

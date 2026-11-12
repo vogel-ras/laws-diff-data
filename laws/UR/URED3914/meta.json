@@ -1,0 +1,97 @@
+{
+  "root": "URED3914",
+  "path": "laws/UR/URED3914",
+  "members": [
+    {
+      "id": "URED3914",
+      "title": "Uredba o izvajanju Uredbe Sveta (EGS) in Uredbe Komisije (EGS) o pravilih za dobavo hrane iz intervencijskih zalog",
+      "shortTitle": "Uredba o izvajanju Uredbe Sveta (EGS) in Uredbe Komisije (EGS) o pravilih za dobavo hrane iz intervencijskih zalog",
+      "shortCode": "URED3914",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-4195",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-10-28",
+      "validFrom": "2005-10-28",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4195",
+      "versions": [
+        {
+          "id": "URED3914-original",
+          "shortCode": "URED3914",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-28",
+          "effectiveFrom": "2005-10-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4195",
+          "proposer": null
+        },
+        {
+          "id": "URED3914-npb-URED3914",
+          "shortCode": "URED3914-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-10-28",
+          "effectiveFrom": "2005-10-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3914",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4313",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe Sveta (EGS) in Uredbe Komisije (EGS) o pravilih za dobavo hrane iz intervencijskih zalog",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe Sveta (EGS) in Uredbe Komisije (EGS) o pravilih za dobavo hrane iz intervencijskih zalog",
+      "shortCode": "URED4313",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-1925",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-04-20",
+      "validFrom": "2007-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1925",
+      "versions": [
+        {
+          "id": "URED4313-original",
+          "shortCode": "URED4313",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-04-20",
+          "effectiveFrom": "2007-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3914"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1925",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

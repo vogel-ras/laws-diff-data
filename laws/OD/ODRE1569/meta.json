@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1569",
+  "path": "laws/OD/ODRE1569",
+  "members": [
+    {
+      "id": "ODRE1569",
+      "title": "Odredba o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1996",
+      "shortTitle": "Odredba o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1996",
+      "shortCode": "ODRE1569",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1995-01-3497",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1995-12-30",
+      "validFrom": "1995-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3497",
+      "versions": [
+        {
+          "id": "ODRE1569-original",
+          "shortCode": "ODRE1569",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-12-30",
+          "effectiveFrom": "1995-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3497",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2202",
+      "title": "Odredba o spremembi odredbe o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1996",
+      "shortTitle": "Odredba o spremembi odredbe o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1996",
+      "shortCode": "ODRE2202",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1996-01-1234",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1996-04-19",
+      "validFrom": "1996-04-19",
+      "validTo": null,
+      "latestPublishedAt": "1996-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1234",
+      "versions": [
+        {
+          "id": "ODRE2202-original",
+          "shortCode": "ODRE2202",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-04-19",
+          "effectiveFrom": "1996-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1569"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1234",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

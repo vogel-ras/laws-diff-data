@@ -1,0 +1,121 @@
+{
+  "root": "SKLE10481",
+  "path": "laws/SK/SKLE10481",
+  "members": [
+    {
+      "id": "SKLE10481",
+      "title": "Sklep o uporabi Smernic o varnosti spletnih plačil",
+      "shortTitle": "Sklep o uporabi Smernic o varnosti spletnih plačil",
+      "shortCode": "SKLE10481",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2015-01-1951",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2015-06-30",
+      "validFrom": "2015-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1951",
+      "versions": [
+        {
+          "id": "SKLE10481-original",
+          "shortCode": "SKLE10481",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1951",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE10564",
+      "title": "Sklep o spremembi Sklepa o uporabi Smernic o varnosti spletnih plačil",
+      "shortTitle": "Sklep o spremembi Sklepa o uporabi Smernic o varnosti spletnih plačil",
+      "shortCode": "SKLE10564",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2015-01-2308",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-07-24",
+      "validFrom": "2015-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2308",
+      "versions": [
+        {
+          "id": "SKLE10564-original",
+          "shortCode": "SKLE10564",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-07-24",
+          "effectiveFrom": "2015-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10481"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2308",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE11100",
+      "title": "Sklep o spremembi Sklepa o uporabi Smernic o varnosti spletnih plačil",
+      "shortTitle": "Sklep o spremembi Sklepa o uporabi Smernic o varnosti spletnih plačil",
+      "shortCode": "SKLE11100",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2017-01-1000",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-04-14",
+      "validFrom": "2017-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2017-04-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1000",
+      "versions": [
+        {
+          "id": "SKLE11100-original",
+          "shortCode": "SKLE11100",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-04-14",
+          "effectiveFrom": "2017-04-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE10481"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1000",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

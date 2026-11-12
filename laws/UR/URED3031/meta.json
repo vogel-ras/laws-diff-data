@@ -1,0 +1,97 @@
+{
+  "root": "URED3031",
+  "path": "laws/UR/URED3031",
+  "members": [
+    {
+      "id": "URED3031",
+      "title": "Uredba o nadomestilu plače oziroma izgubljenega zaslužka med opravljanjem določenih dolžnosti obrambe, o uveljavljanju pravice do enkratne denarne pomoči in o zneskih te pomoči",
+      "shortTitle": "Uredba o nadomestilu plače oziroma izgubljenega zaslužka med opravljanjem določenih dolžnosti obrambe, o uveljavljanju pravice do enkratne denarne pomoči in o zneskih te pomoči",
+      "shortCode": "URED3031",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4163",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-09-26",
+      "validFrom": "2003-09-26",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4163",
+      "versions": [
+        {
+          "id": "URED3031-original",
+          "shortCode": "URED3031",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-26",
+          "effectiveFrom": "2003-09-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4163",
+          "proposer": null
+        },
+        {
+          "id": "URED3031-npb-URED3031",
+          "shortCode": "URED3031-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-09-26",
+          "effectiveFrom": "2003-09-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3031",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5107",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o nadomestilu plače oziroma izgubljenega zaslužka med opravljanjem določenih dolžnosti obrambe, o uveljavljanju pravice do enkratne denarne pomoči in o zneskih te pomoči",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o nadomestilu plače oziroma izgubljenega zaslužka med opravljanjem določenih dolžnosti obrambe, o uveljavljanju pravice do enkratne denarne pomoči in o zneskih te pomoči",
+      "shortCode": "URED5107",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-5085",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-12-30",
+      "validFrom": "2009-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5085",
+      "versions": [
+        {
+          "id": "URED5107-original",
+          "shortCode": "URED5107",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-30",
+          "effectiveFrom": "2009-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3031"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5085",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,451 @@
+{
+  "root": "ZUP",
+  "path": "laws/ZU/ZUP",
+  "members": [
+    {
+      "id": "ZUP",
+      "title": "Zakon o splošnem upravnem postopku",
+      "shortTitle": "Zakon o splošnem upravnem postopku",
+      "shortCode": "ZUP",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-3777",
+      "gazette": "Uradni list RS 80/99  str. 12441",
+      "issuingBody": null,
+      "adoptedAt": "1999-10-01",
+      "validFrom": "1999-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3777",
+      "versions": [
+        {
+          "id": "ZUP-original",
+          "shortCode": "ZUP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 80/99  str. 12441",
+          "publishedAt": "1999-10-01",
+          "effectiveFrom": "1999-10-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3777",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-A",
+          "shortCode": "ZUP-A",
+          "label": "Sprememba ZUP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 70/2000  str. 8675",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3310",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-B",
+          "shortCode": "ZUP-B",
+          "label": "Sprememba ZUP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 52/2002  str. 5266",
+          "publishedAt": "2002-06-14",
+          "effectiveFrom": "2002-06-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2524",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-C",
+          "shortCode": "ZUP-C",
+          "label": "Sprememba ZUP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 73/04  str. 8845",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3234",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-D",
+          "shortCode": "ZUP-D",
+          "label": "Sprememba ZUP-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 119/05  str. 13645",
+          "publishedAt": "2005-12-28",
+          "effectiveFrom": "2005-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5310",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-E",
+          "shortCode": "ZUP-E",
+          "label": "Sprememba ZUP-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 126/07  str. 18729",
+          "publishedAt": "2007-12-31",
+          "effectiveFrom": "2007-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6415",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-G",
+          "shortCode": "ZUP-G",
+          "label": "Sprememba ZUP-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 8/10  str. 933",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0251",
+          "proposer": null
+        },
+        {
+          "id": "ZUP-amend-ZUP-H",
+          "shortCode": "ZUP-H",
+          "label": "Sprememba ZUP-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 82/13  str. 9188",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3034",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-A",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3310",
+      "gazette": "Uradni list RS 70/2000  str. 8675",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-08",
+      "validFrom": "2000-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3310",
+      "versions": [
+        {
+          "id": "ZUP-A-original",
+          "shortCode": "ZUP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/2000  str. 8675",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3310",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-B",
+      "title": "Zakon o dopolnitvah zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o dopolnitvah zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-B",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2524",
+      "gazette": "Uradni list RS 52/2002  str. 5266",
+      "issuingBody": null,
+      "adoptedAt": "2002-06-14",
+      "validFrom": "2002-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2524",
+      "versions": [
+        {
+          "id": "ZUP-B-original",
+          "shortCode": "ZUP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 52/2002  str. 5266",
+          "publishedAt": "2002-06-14",
+          "effectiveFrom": "2002-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2524",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-C",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3234",
+      "gazette": "Uradni list RS 73/04  str. 8845",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-05",
+      "validFrom": "2004-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3234",
+      "versions": [
+        {
+          "id": "ZUP-C-original",
+          "shortCode": "ZUP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/04  str. 8845",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3234",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-D",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-5310",
+      "gazette": "Uradni list RS 119/05  str. 13645",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-28",
+      "validFrom": "2005-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5310",
+      "versions": [
+        {
+          "id": "ZUP-D-original",
+          "shortCode": "ZUP-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 119/05  str. 13645",
+          "publishedAt": "2005-12-28",
+          "effectiveFrom": "2005-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5310",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-E",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-6415",
+      "gazette": "Uradni list RS 126/07  str. 18729",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-31",
+      "validFrom": "2007-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6415",
+      "versions": [
+        {
+          "id": "ZUP-E-original",
+          "shortCode": "ZUP-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/07  str. 18729",
+          "publishedAt": "2007-12-31",
+          "effectiveFrom": "2007-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6415",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-G",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0251",
+      "gazette": "Uradni list RS 8/10  str. 933",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-05",
+      "validFrom": "2010-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0251",
+      "versions": [
+        {
+          "id": "ZUP-G-original",
+          "shortCode": "ZUP-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/10  str. 933",
+          "publishedAt": "2010-02-05",
+          "effectiveFrom": "2010-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0251",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUP-H",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o splošnem upravnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o splošnem upravnem postopku",
+      "shortCode": "ZUP-H",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3034",
+      "gazette": "Uradni list RS 82/13  str. 9188",
+      "issuingBody": null,
+      "adoptedAt": "2013-10-08",
+      "validFrom": "2013-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3034",
+      "versions": [
+        {
+          "id": "ZUP-H-original",
+          "shortCode": "ZUP-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/13  str. 9188",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3034",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

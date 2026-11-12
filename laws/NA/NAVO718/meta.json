@@ -1,0 +1,82 @@
+{
+  "root": "NAVO718",
+  "path": "laws/NA/NAVO718",
+  "members": [
+    {
+      "id": "NAVO718",
+      "title": "Navodilo o izračunu postavke \"Posebni prevrednotovalni popravek kapitala v zvezi s sredstvi, ki niso financirana iz zavarovalno-tehničnih rezervacij\" v obrazcih KUS-P in KUS-Ž",
+      "shortTitle": "Navodilo o izračunu postavke \"Posebni prevrednotovalni popravek kapitala v zvezi s sredstvi, ki niso financirana iz zavarovalno-tehničnih rezervacij\" v obrazcih KUS-P in KUS-Ž",
+      "shortCode": "NAVO718",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2004-01-4222",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-08-27",
+      "validFrom": "2004-08-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4222",
+      "versions": [
+        {
+          "id": "NAVO718-original",
+          "shortCode": "NAVO718",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-27",
+          "effectiveFrom": "2004-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4222",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO805",
+      "title": "Navodilo o spremembah in dopolnitvah Navodila o izračunu postavke \"Posebni prevrednotovalni popravek kapitala v zvezi s sredstvi, ki niso financirana iz zavarovalno-tehničnih rezervacij\" v obrazcih KUS-P in KUS-Ž",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah Navodila o izračunu postavke \"Posebni prevrednotovalni popravek kapitala v zvezi s sredstvi, ki niso financirana iz zavarovalno-tehničnih rezervacij\" v obrazcih KUS-P in KUS-Ž",
+      "shortCode": "NAVO805",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2006-01-1283",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-24",
+      "validFrom": "2006-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1283",
+      "versions": [
+        {
+          "id": "NAVO805-original",
+          "shortCode": "NAVO805",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO718"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1283",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

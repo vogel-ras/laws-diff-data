@@ -1,0 +1,58 @@
+{
+  "root": "URED7162",
+  "path": "laws/UR/URED7162",
+  "members": [
+    {
+      "id": "URED7162",
+      "title": "Uredba o navzkrižni skladnosti",
+      "shortTitle": "Uredba o navzkrižni skladnosti",
+      "shortCode": "URED7162",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3806",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-11",
+      "validFrom": "2015-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3806",
+      "versions": [
+        {
+          "id": "URED7162-original",
+          "shortCode": "URED7162",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3806",
+          "proposer": null
+        },
+        {
+          "id": "URED7162-npb-URED7162",
+          "shortCode": "URED7162-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 6)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7162",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

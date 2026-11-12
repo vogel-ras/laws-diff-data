@@ -1,0 +1,99 @@
+{
+  "root": "DP2026",
+  "path": "laws/DP/DP2026",
+  "members": [
+    {
+      "id": "DRPR30",
+      "title": "Proračun Republike Slovenije za leto 2026 (DP2026)",
+      "shortTitle": "Proračun Republike Slovenije za leto 2026 (DP2026)",
+      "shortCode": "DP2026",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3307",
+      "gazette": null,
+      "issuingBody": "Državni zbor Republike Slovenije",
+      "adoptedAt": "2024-12-10",
+      "validFrom": "2024-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3307",
+      "versions": [
+        {
+          "id": "DRPR30-original",
+          "shortCode": "DP2026",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-10",
+          "effectiveFrom": "2024-12-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3307",
+          "proposer": null
+        },
+        {
+          "id": "DRPR30-amend-DRPR31",
+          "shortCode": "DP2026-A",
+          "label": "Sprememba DP2026-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-11-28",
+          "effectiveFrom": "2025-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR30"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3358",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "DRPR31",
+      "title": "Spremembe proračuna Republike Slovenije za leto 2026 (DP2026-A)",
+      "shortTitle": "Spremembe proračuna Republike Slovenije za leto 2026 (DP2026-A)",
+      "shortCode": "DP2026-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2025-01-3358",
+      "gazette": null,
+      "issuingBody": "Državni zbor Republike Slovenije",
+      "adoptedAt": "2025-11-28",
+      "validFrom": "2025-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3358",
+      "versions": [
+        {
+          "id": "DRPR31-original",
+          "shortCode": "DP2026-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-28",
+          "effectiveFrom": "2025-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRPR30"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3358",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

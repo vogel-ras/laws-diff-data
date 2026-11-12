@@ -1,0 +1,102 @@
+{
+  "root": "ZPacP",
+  "path": "laws/ZP/ZPacP",
+  "members": [
+    {
+      "id": "ZPacP",
+      "title": "Zakon o pacientovih pravicah",
+      "shortTitle": "Zakon o pacientovih pravicah",
+      "shortCode": "ZPacP",
+      "kind": "zakon",
+      "keywords": [
+        "bolnikove pravice",
+        "pravice posameznika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-0455",
+      "gazette": "Uradni list RS 15/08  str. 1045",
+      "issuingBody": null,
+      "adoptedAt": "2008-02-11",
+      "validFrom": "2008-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0455",
+      "versions": [
+        {
+          "id": "ZPacP-original",
+          "shortCode": "ZPacP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/08  str. 1045",
+          "publishedAt": "2008-02-11",
+          "effectiveFrom": "2008-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0455",
+          "proposer": null
+        },
+        {
+          "id": "ZPacP-amend-ZPacP-B",
+          "shortCode": "ZPacP-B",
+          "label": "Sprememba ZPacP-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 177/20  str. 8458",
+          "publishedAt": "2020-12-01",
+          "effectiveFrom": "2020-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPacP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3111",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPacP-B",
+      "title": "Zakon o spremembah Zakona o pacientovih pravicah",
+      "shortTitle": "Zakon o spremembah Zakona o pacientovih pravicah",
+      "shortCode": "ZPacP-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-3111",
+      "gazette": "Uradni list RS 177/20  str. 8458",
+      "issuingBody": null,
+      "adoptedAt": "2020-12-01",
+      "validFrom": "2020-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3111",
+      "versions": [
+        {
+          "id": "ZPacP-B-original",
+          "shortCode": "ZPacP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 177/20  str. 8458",
+          "publishedAt": "2020-12-01",
+          "effectiveFrom": "2020-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPacP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3111",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

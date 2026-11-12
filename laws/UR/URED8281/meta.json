@@ -1,0 +1,58 @@
+{
+  "root": "URED8281",
+  "path": "laws/UR/URED8281",
+  "members": [
+    {
+      "id": "URED8281",
+      "title": "Uredba o objektih in okoliših objektov posebnega pomena za obrambo",
+      "shortTitle": "Uredba o objektih in okoliših objektov posebnega pomena za obrambo",
+      "shortCode": "URED8281",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-3270",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-10-22",
+      "validFrom": "2021-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3270",
+      "versions": [
+        {
+          "id": "URED8281-original",
+          "shortCode": "URED8281",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3270",
+          "proposer": null
+        },
+        {
+          "id": "URED8281-npb-URED8281",
+          "shortCode": "URED8281-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8281",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "SKLE1913",
+  "path": "laws/SK/SKLE1913",
+  "members": [
+    {
+      "id": "SKLE1913",
+      "title": "Sklep o letnem poročilu zavarovalnic",
+      "shortTitle": "Sklep o letnem poročilu zavarovalnic",
+      "shortCode": "SKLE1913",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-0489",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2001-02-02",
+      "validFrom": "2001-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0489",
+      "versions": [
+        {
+          "id": "SKLE1913-original",
+          "shortCode": "SKLE1913",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-02",
+          "effectiveFrom": "2001-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0489",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4375",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o letnem poročilu zavarovalnic - SKL 2002",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o letnem poročilu zavarovalnic - SKL 2002",
+      "shortCode": "SKLE4375",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-5505",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2003-12-22",
+      "validFrom": "2003-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5505",
+      "versions": [
+        {
+          "id": "SKLE4375-original",
+          "shortCode": "SKLE4375",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-22",
+          "effectiveFrom": "2003-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1913"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5505",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4868",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o letnem poročilu zavarovalnic - SKL 2002",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o letnem poročilu zavarovalnic - SKL 2002",
+      "shortCode": "SKLE4868",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-3294",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2004-07-09",
+      "validFrom": "2004-07-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3294",
+      "versions": [
+        {
+          "id": "SKLE4868-original",
+          "shortCode": "SKLE4868",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-09",
+          "effectiveFrom": "2004-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1913"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3294",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

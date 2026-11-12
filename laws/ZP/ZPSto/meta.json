@@ -1,0 +1,358 @@
+{
+  "root": "ZPSto",
+  "path": "laws/ZP/ZPSto",
+  "members": [
+    {
+      "id": "ZPSto",
+      "title": "Zakon o poštnih storitvah",
+      "shortTitle": "Zakon o poštnih storitvah",
+      "shortCode": "ZPSto",
+      "kind": "zakon",
+      "keywords": [
+        "pošta in telekomunikacije",
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1949",
+      "gazette": "Uradni list RS 35/97  str. 3057",
+      "issuingBody": null,
+      "adoptedAt": "1997-06-13",
+      "validFrom": "1997-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1949",
+      "versions": [
+        {
+          "id": "ZPSto-original",
+          "shortCode": "ZPSto",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/97  str. 3057",
+          "publishedAt": "1997-06-13",
+          "effectiveFrom": "1997-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1949",
+          "proposer": null
+        },
+        {
+          "id": "ZPSto-amend-ZPSto-A",
+          "shortCode": "ZPSto-A",
+          "label": "Sprememba ZPSto-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2001  str. 6586",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3473",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-1",
+      "title": "Zakon o poštnih storitvah - EU",
+      "shortTitle": "Zakon o poštnih storitvah - EU",
+      "shortCode": "ZPSto-1",
+      "kind": "zakon",
+      "keywords": [
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2003",
+      "gazette": "Uradni list RS 42/2002  str. 4061",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-15",
+      "validFrom": "2002-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2003",
+      "versions": [
+        {
+          "id": "ZPSto-1-original",
+          "shortCode": "ZPSto-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2002  str. 4061",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2003",
+          "proposer": null
+        },
+        {
+          "id": "ZPSto-1-amend-ZPSto-1A",
+          "shortCode": "ZPSto-1A",
+          "label": "Sprememba ZPSto-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 37/04  str. 4433",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1596",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poštnih storitvah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poštnih storitvah",
+      "shortCode": "ZPSto-1A",
+      "kind": "zakon",
+      "keywords": [
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1596",
+      "gazette": "Uradni list RS 37/04  str. 4433",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1596",
+      "versions": [
+        {
+          "id": "ZPSto-1A-original",
+          "shortCode": "ZPSto-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4433",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1596",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-2",
+      "title": "Zakon o poštnih storitvah",
+      "shortTitle": "Zakon o poštnih storitvah",
+      "shortCode": "ZPSto-2",
+      "kind": "zakon",
+      "keywords": [
+        "poštne storitve",
+        "pošta in telekomunikacije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2497",
+      "gazette": "Uradni list RS 51/09  str. 6929",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-03",
+      "validFrom": "2009-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2497",
+      "versions": [
+        {
+          "id": "ZPSto-2-original",
+          "shortCode": "ZPSto-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/09  str. 6929",
+          "publishedAt": "2009-07-03",
+          "effectiveFrom": "2009-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2497",
+          "proposer": null
+        },
+        {
+          "id": "ZPSto-2-amend-ZPSto-2A",
+          "shortCode": "ZPSto-2A",
+          "label": "Sprememba ZPSto-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 77/10  str. 11295",
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSto-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4218",
+          "proposer": null
+        },
+        {
+          "id": "ZPSto-2-amend-ZPSto-2B",
+          "shortCode": "ZPSto-2B",
+          "label": "Sprememba ZPSto-2B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 81/15  str. 8831",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3187",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-2A",
+      "title": "Zakon o spremembah Zakona o poštnih storitvah",
+      "shortTitle": "Zakon o spremembah Zakona o poštnih storitvah",
+      "shortCode": "ZPSto-2A",
+      "kind": "zakon",
+      "keywords": [
+        "pošta in telekomunikacije",
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4218",
+      "gazette": "Uradni list RS 77/10  str. 11295",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-04",
+      "validFrom": "2010-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4218",
+      "versions": [
+        {
+          "id": "ZPSto-2A-original",
+          "shortCode": "ZPSto-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/10  str. 11295",
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4218",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-2B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o poštnih storitvah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o poštnih storitvah",
+      "shortCode": "ZPSto-2B",
+      "kind": "zakon",
+      "keywords": [
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3187",
+      "gazette": "Uradni list RS 81/15  str. 8831",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-30",
+      "validFrom": "2015-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3187",
+      "versions": [
+        {
+          "id": "ZPSto-2B-original",
+          "shortCode": "ZPSto-2B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/15  str. 8831",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3187",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSto-A",
+      "title": "Zakon o spremembi zakona o poštnih storitvah",
+      "shortTitle": "Zakon o spremembi zakona o poštnih storitvah",
+      "shortCode": "ZPSto-A",
+      "kind": "zakon",
+      "keywords": [
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3473",
+      "gazette": "Uradni list RS 64/2001  str. 6586",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3473",
+      "versions": [
+        {
+          "id": "ZPSto-A-original",
+          "shortCode": "ZPSto-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6586",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSto"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3473",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

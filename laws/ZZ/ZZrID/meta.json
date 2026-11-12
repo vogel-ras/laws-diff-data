@@ -1,0 +1,155 @@
+{
+  "root": "ZZrID",
+  "path": "laws/ZZ/ZZrID",
+  "members": [
+    {
+      "id": "ZAKO7733",
+      "title": "Zakon o znanstvenoraziskovalni in inovacijski dejavnosti (ZZrID)",
+      "shortTitle": "Zakon o znanstvenoraziskovalni in inovacijski dejavnosti (ZZrID)",
+      "shortCode": "ZZrID",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-3695",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-04",
+      "validFrom": "2024-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3695",
+      "versions": [
+        {
+          "id": "ZAKO7733-amend-ZZrID-A",
+          "shortCode": "ZZrID-A",
+          "label": "Sprememba ZZrID-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/23  str. 3595",
+          "publishedAt": "2023-04-03",
+          "effectiveFrom": "2023-04-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7733"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1129",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7733-amend-ZAKO9130",
+          "shortCode": "ZZrID-B",
+          "label": "Sprememba ZZrID-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-04",
+          "effectiveFrom": "2024-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7733"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3202",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7733-original",
+          "shortCode": "ZZrID",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2024-12-04",
+          "effectiveFrom": "2024-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3695",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9130",
+      "title": "Zakon o dopolnitvi Zakona o znanstvenoraziskovalni in inovacijski dejavnosti (ZZrID-B)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o znanstvenoraziskovalni in inovacijski dejavnosti (ZZrID-B)",
+      "shortCode": "ZZrID-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3202",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-04",
+      "validFrom": "2024-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3202",
+      "versions": [
+        {
+          "id": "ZAKO9130-original",
+          "shortCode": "ZZrID-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-04",
+          "effectiveFrom": "2024-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7733"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3202",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZrID-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o znanstvenoraziskovalni in inovacijski dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o znanstvenoraziskovalni in inovacijski dejavnosti",
+      "shortCode": "ZZrID-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1129",
+      "gazette": "Uradni list RS 40/23  str. 3595",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-03",
+      "validFrom": "2023-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1129",
+      "versions": [
+        {
+          "id": "ZZrID-A-original",
+          "shortCode": "ZZrID-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/23  str. 3595",
+          "publishedAt": "2023-04-03",
+          "effectiveFrom": "2023-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7733"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1129",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

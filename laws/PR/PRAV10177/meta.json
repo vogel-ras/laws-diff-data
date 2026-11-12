@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10177",
+  "path": "laws/PR/PRAV10177",
+  "members": [
+    {
+      "id": "PRAV10177",
+      "title": "Pravilnik o mediatorjih v programih sodišč",
+      "shortTitle": "Pravilnik o mediatorjih v programih sodišč",
+      "shortCode": "PRAV10177",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-0965",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0965",
+      "versions": [
+        {
+          "id": "PRAV10177-original",
+          "shortCode": "PRAV10177",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0965",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10177-npb-PRAV10177",
+          "shortCode": "PRAV10177-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10177",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11575",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o mediatorjih v programih sodišč",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o mediatorjih v programih sodišč",
+      "shortCode": "PRAV11575",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1317",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-04-26",
+      "validFrom": "2013-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1317",
+      "versions": [
+        {
+          "id": "PRAV11575-original",
+          "shortCode": "PRAV11575",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-04-26",
+          "effectiveFrom": "2013-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10177"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1317",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

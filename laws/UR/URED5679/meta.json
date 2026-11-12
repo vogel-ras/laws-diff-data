@@ -1,0 +1,82 @@
+{
+  "root": "URED5679",
+  "path": "laws/UR/URED5679",
+  "members": [
+    {
+      "id": "URED5679",
+      "title": "Uredba o izvedbi ukrepov kmetijske politike za leto 2012",
+      "shortTitle": "Uredba o izvedbi ukrepov kmetijske politike za leto 2012",
+      "shortCode": "URED5679",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-4327",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-12-09",
+      "validFrom": "2011-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4327",
+      "versions": [
+        {
+          "id": "URED5679-original",
+          "shortCode": "URED5679",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-09",
+          "effectiveFrom": "2011-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4327",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6090",
+      "title": "Uredba o spremembah Uredbe o izvedbi ukrepov kmetijske politike za leto 2012",
+      "shortTitle": "Uredba o spremembah Uredbe o izvedbi ukrepov kmetijske politike za leto 2012",
+      "shortCode": "URED6090",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1178",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-04-13",
+      "validFrom": "2012-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2012-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1178",
+      "versions": [
+        {
+          "id": "URED6090-original",
+          "shortCode": "URED6090",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-04-13",
+          "effectiveFrom": "2012-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5679"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1178",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

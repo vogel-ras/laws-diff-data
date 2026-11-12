@@ -1,0 +1,227 @@
+{
+  "root": "ZDen",
+  "path": "laws/ZD/ZDen",
+  "members": [
+    {
+      "id": "ZDen",
+      "title": "Zakon o denacionalizaciji",
+      "shortTitle": "Zakon o denacionalizaciji",
+      "shortCode": "ZDen",
+      "kind": "zakon",
+      "keywords": [
+        "denacionalizacija",
+        "lastnina",
+        "javna lastnina",
+        "nacionalizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-1094",
+      "gazette": "Uradni list RS 27/91  str. 1093",
+      "issuingBody": null,
+      "adoptedAt": "1991-11-29",
+      "validFrom": "1991-11-29",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1094",
+      "versions": [
+        {
+          "id": "ZDen-original",
+          "shortCode": "ZDen",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 27/91  str. 1093",
+          "publishedAt": "1991-11-29",
+          "effectiveFrom": "1991-11-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1094",
+          "proposer": null
+        },
+        {
+          "id": "ZDen-amend-ZDen-A",
+          "shortCode": "ZDen-A",
+          "label": "Sprememba ZDen-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 31/93  str. 1703",
+          "publishedAt": "1993-06-11",
+          "effectiveFrom": "1993-06-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1310",
+          "proposer": null
+        },
+        {
+          "id": "ZDen-amend-ZDen-B",
+          "shortCode": "ZDen-B",
+          "label": "Sprememba ZDen-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 65/98  str. 4853",
+          "publishedAt": "1998-09-25",
+          "effectiveFrom": "1998-09-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3015",
+          "proposer": null
+        },
+        {
+          "id": "ZDen-amend-ZDen-C",
+          "shortCode": "ZDen-C",
+          "label": "Sprememba ZDen-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 66/2000  str. 8202",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3054",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDen-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o denacionalizaciji",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o denacionalizaciji",
+      "shortCode": "ZDen-A",
+      "kind": "zakon",
+      "keywords": [
+        "denacionalizacija",
+        "lastnina",
+        "javna lastnina",
+        "nacionalizacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1310",
+      "gazette": "Uradni list RS 31/93  str. 1703",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-11",
+      "validFrom": "1993-06-11",
+      "validTo": null,
+      "latestPublishedAt": "1993-06-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1310",
+      "versions": [
+        {
+          "id": "ZDen-A-original",
+          "shortCode": "ZDen-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/93  str. 1703",
+          "publishedAt": "1993-06-11",
+          "effectiveFrom": "1993-06-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1310",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDen-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o denacionalizaciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o denacionalizaciji",
+      "shortCode": "ZDen-B",
+      "kind": "zakon",
+      "keywords": [
+        "privatizacija",
+        "lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3015",
+      "gazette": "Uradni list RS 65/98  str. 4853",
+      "issuingBody": null,
+      "adoptedAt": "1998-09-25",
+      "validFrom": "1998-09-25",
+      "validTo": null,
+      "latestPublishedAt": "1998-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3015",
+      "versions": [
+        {
+          "id": "ZDen-B-original",
+          "shortCode": "ZDen-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/98  str. 4853",
+          "publishedAt": "1998-09-25",
+          "effectiveFrom": "1998-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDen-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o denacionalizaciji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o denacionalizaciji",
+      "shortCode": "ZDen-C",
+      "kind": "zakon",
+      "keywords": [
+        "denacionalizacija",
+        "lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3054",
+      "gazette": "Uradni list RS 66/2000  str. 8202",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3054",
+      "versions": [
+        {
+          "id": "ZDen-C-original",
+          "shortCode": "ZDen-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/2000  str. 8202",
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDen"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3054",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

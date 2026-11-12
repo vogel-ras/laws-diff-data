@@ -1,0 +1,82 @@
+{
+  "root": "URED2717",
+  "path": "laws/UR/URED2717",
+  "members": [
+    {
+      "id": "URED2717",
+      "title": "Uredba o določitvi obsega kontingentov za uvoz blaga v letu 2003",
+      "shortTitle": "Uredba o določitvi obsega kontingentov za uvoz blaga v letu 2003",
+      "shortCode": "URED2717",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-5353",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-12-13",
+      "validFrom": "2002-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5353",
+      "versions": [
+        {
+          "id": "URED2717-original",
+          "shortCode": "URED2717",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-13",
+          "effectiveFrom": "2002-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5353",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2931",
+      "title": "Uredba o spremembi uredbe o določitvi obsega kontingentov za uvoz blaga v letu 2003",
+      "shortTitle": "Uredba o spremembi uredbe o določitvi obsega kontingentov za uvoz blaga v letu 2003",
+      "shortCode": "URED2931",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-2799",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-06-13",
+      "validFrom": "2003-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2799",
+      "versions": [
+        {
+          "id": "URED2931-original",
+          "shortCode": "URED2931",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2717"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2799",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

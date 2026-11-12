@@ -1,0 +1,136 @@
+{
+  "root": "PRAV7450",
+  "path": "laws/PR/PRAV7450",
+  "members": [
+    {
+      "id": "PRAV10513",
+      "title": "Pravilnik o spremembah Pravilnika o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortCode": "PRAV10513",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5772",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-31",
+      "validFrom": "2010-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5772",
+      "versions": [
+        {
+          "id": "PRAV10513-original",
+          "shortCode": "PRAV10513",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-31",
+          "effectiveFrom": "2010-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7450"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5772",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7450",
+      "title": "Pravilnik o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortTitle": "Pravilnik o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortCode": "PRAV7450",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0480",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-02-07",
+      "validFrom": "2006-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0480",
+      "versions": [
+        {
+          "id": "PRAV7450-original",
+          "shortCode": "PRAV7450",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-02-07",
+          "effectiveFrom": "2006-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0480",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7450-npb-PRAV7450",
+          "shortCode": "PRAV7450-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-02-07",
+          "effectiveFrom": "2006-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7450",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8370",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obrazcu zahteve za uveljavljanje odškodnine",
+      "shortCode": "PRAV8370",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-2469",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2007-05-25",
+      "validFrom": "2007-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2469",
+      "versions": [
+        {
+          "id": "PRAV8370-original",
+          "shortCode": "PRAV8370",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-25",
+          "effectiveFrom": "2007-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7450"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2469",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

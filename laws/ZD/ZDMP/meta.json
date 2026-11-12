@@ -1,0 +1,103 @@
+{
+  "root": "ZDMP",
+  "path": "laws/ZD/ZDMP",
+  "members": [
+    {
+      "id": "ZAKO5365",
+      "title": "Zakon o dopolnitvi Zakona o določitvi minimalne plače (ZDMP-A)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o določitvi minimalne plače (ZDMP-A)",
+      "shortCode": "ZDMP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1461",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-04-11",
+      "validFrom": "2008-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1461",
+      "versions": [
+        {
+          "id": "ZAKO5365-original",
+          "shortCode": "ZDMP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-11",
+          "effectiveFrom": "2008-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1461",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDMP",
+      "title": "Zakon o določitvi minimalne plače",
+      "shortTitle": "Zakon o določitvi minimalne plače",
+      "shortCode": "ZDMP",
+      "kind": "zakon",
+      "keywords": [
+        "določanje plač",
+        "minimalna plača",
+        "plačna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4832",
+      "gazette": "Uradni list RS 114/06  str. 11836",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-09",
+      "validFrom": "2006-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4832",
+      "versions": [
+        {
+          "id": "ZDMP-original",
+          "shortCode": "ZDMP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/06  str. 11836",
+          "publishedAt": "2006-11-09",
+          "effectiveFrom": "2006-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4832",
+          "proposer": null
+        },
+        {
+          "id": "ZDMP-amend-ZAKO5365",
+          "shortCode": "ZDMP-A",
+          "label": "Sprememba ZDMP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-04-11",
+          "effectiveFrom": "2008-04-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDMP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1461",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

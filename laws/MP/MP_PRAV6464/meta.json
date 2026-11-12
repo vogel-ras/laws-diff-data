@@ -1,0 +1,82 @@
+{
+  "root": "MP_PRAV6464",
+  "path": "laws/MP/MP_PRAV6464",
+  "members": [
+    {
+      "id": "MP_PRAV6464",
+      "title": "Pravilnik o subvencioniranju stroškov kastracije in sterilizacije lastniških mačk na območju Občine Pivka (PRAV)",
+      "shortTitle": "Pravilnik o subvencioniranju stroškov kastracije in sterilizacije lastniških mačk na območju Občine Pivka (PRAV)",
+      "shortCode": "MP_PRAV6464",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2019-01-2594",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2594",
+      "versions": [
+        {
+          "id": "MP_PRAV6464-original",
+          "shortCode": "MP_PRAV6464",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2594",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV6990",
+      "title": "Pravilnik o spremembi Pravilnika o subvencioniranju stroškov kastracije in sterilizacije lastniških mačk na območju Občine Pivka (PRAV)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o subvencioniranju stroškov kastracije in sterilizacije lastniških mačk na območju Občine Pivka (PRAV)",
+      "shortCode": "MP_PRAV6990",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Pivka",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2022-01-3510",
+      "gazette": null,
+      "issuingBody": "Občina Pivka",
+      "adoptedAt": "2022-11-11",
+      "validFrom": "2022-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3510",
+      "versions": [
+        {
+          "id": "MP_PRAV6990-original",
+          "shortCode": "MP_PRAV6990",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-11-11",
+          "effectiveFrom": "2022-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6464"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3510",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

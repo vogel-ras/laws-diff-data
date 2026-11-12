@@ -1,0 +1,97 @@
+{
+  "root": "URED8883",
+  "path": "laws/UR/URED8883",
+  "members": [
+    {
+      "id": "URED8883",
+      "title": "Uredba o načinu zagotavljanja ustrezne nastanitve, oskrbe in obravnave mladoletnikov brez spremstva",
+      "shortTitle": "Uredba o načinu zagotavljanja ustrezne nastanitve, oskrbe in obravnave mladoletnikov brez spremstva",
+      "shortCode": "URED8883",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-3055",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-10-13",
+      "validFrom": "2023-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3055",
+      "versions": [
+        {
+          "id": "URED8883-original",
+          "shortCode": "URED8883",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-10-13",
+          "effectiveFrom": "2023-10-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3055",
+          "proposer": null
+        },
+        {
+          "id": "URED8883-npb-URED8883",
+          "shortCode": "URED8883-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-10-13",
+          "effectiveFrom": "2023-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8883",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9039",
+      "title": "Uredba o spremembi Uredbe o načinu zagotavljanja ustrezne nastanitve, oskrbe in obravnave mladoletnikov brez spremstva",
+      "shortTitle": "Uredba o spremembi Uredbe o načinu zagotavljanja ustrezne nastanitve, oskrbe in obravnave mladoletnikov brez spremstva",
+      "shortCode": "URED9039",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0219",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-01-30",
+      "validFrom": "2024-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2024-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0219",
+      "versions": [
+        {
+          "id": "URED9039-original",
+          "shortCode": "URED9039",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-01-30",
+          "effectiveFrom": "2024-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8883"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0219",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

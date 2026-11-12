@@ -1,0 +1,121 @@
+{
+  "root": "PRAV3",
+  "path": "laws/PR/PRAV3",
+  "members": [
+    {
+      "id": "PRAV3",
+      "title": "Pravilnik o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortTitle": "Pravilnik o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortCode": "PRAV3",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-0242",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-01-23",
+      "validFrom": "1998-01-23",
+      "validTo": null,
+      "latestPublishedAt": "1998-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0242",
+      "versions": [
+        {
+          "id": "PRAV3-original",
+          "shortCode": "PRAV3",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-01-23",
+          "effectiveFrom": "1998-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0242",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6815",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortCode": "PRAV6815",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3002",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-07-06",
+      "validFrom": "2006-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3002",
+      "versions": [
+        {
+          "id": "PRAV6815-original",
+          "shortCode": "PRAV6815",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-06",
+          "effectiveFrom": "2006-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8028",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o gozdnogospodarskih in gozdnogojitvenih načrtih",
+      "shortCode": "PRAV8028",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0340",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-02-01",
+      "validFrom": "2008-02-01",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0340",
+      "versions": [
+        {
+          "id": "PRAV8028-original",
+          "shortCode": "PRAV8028",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-02-01",
+          "effectiveFrom": "2008-02-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0340",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

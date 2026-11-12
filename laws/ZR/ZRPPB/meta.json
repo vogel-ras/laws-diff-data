@@ -1,0 +1,250 @@
+{
+  "root": "ZRPPB",
+  "path": "laws/ZR/ZRPPB",
+  "members": [
+    {
+      "id": "ZAKO8315",
+      "title": "Zakon o reševanju in prisilnem prenehanju bank (ZRPPB-1)",
+      "shortTitle": "Zakon o reševanju in prisilnem prenehanju bank (ZRPPB-1)",
+      "shortCode": "ZRPPB-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-1972",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-15",
+      "validFrom": "2025-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1972",
+      "versions": [
+        {
+          "id": "ZAKO8315-amend-ZRPPB-1A",
+          "shortCode": "ZRPPB-1A",
+          "label": "Sprememba ZRPPB-1A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/23  str. 12298",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8315"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4096",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8315-amend-ZAKO9009",
+          "shortCode": "ZRPPB-1B",
+          "label": "Sprememba ZRPPB-1B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-04",
+          "effectiveFrom": "2024-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8315"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3203",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8315-original",
+          "shortCode": "ZRPPB-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2025-01-15",
+          "effectiveFrom": "2025-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1972",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9009",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank (ZRPPB-1B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank (ZRPPB-1B)",
+      "shortCode": "ZRPPB-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3203",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-04",
+      "validFrom": "2024-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3203",
+      "versions": [
+        {
+          "id": "ZAKO9009-original",
+          "shortCode": "ZRPPB-1B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-04",
+          "effectiveFrom": "2024-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8315"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3203",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRPPB",
+      "title": "Zakon o reševanju in prisilnem prenehanju bank",
+      "shortTitle": "Zakon o reševanju in prisilnem prenehanju bank",
+      "shortCode": "ZRPPB",
+      "kind": "zakon",
+      "keywords": [
+        "banka"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1921",
+      "gazette": "Uradni list RS 44/16  str. 6473",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-24",
+      "validFrom": "2016-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1921",
+      "versions": [
+        {
+          "id": "ZRPPB-original",
+          "shortCode": "ZRPPB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/16  str. 6473",
+          "publishedAt": "2016-06-24",
+          "effectiveFrom": "2016-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1921",
+          "proposer": null
+        },
+        {
+          "id": "ZRPPB-amend-ZRPPB-A",
+          "shortCode": "ZRPPB-A",
+          "label": "Sprememba ZRPPB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 9/19  str. 668",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRPPB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRPPB-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank",
+      "shortCode": "ZRPPB-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-4096",
+      "gazette": "Uradni list RS 133/23  str. 12298",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-27",
+      "validFrom": "2023-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4096",
+      "versions": [
+        {
+          "id": "ZRPPB-1A-original",
+          "shortCode": "ZRPPB-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/23  str. 12298",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8315"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4096",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRPPB-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o reševanju in prisilnem prenehanju bank",
+      "shortCode": "ZRPPB-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0289",
+      "gazette": "Uradni list RS 9/19  str. 668",
+      "issuingBody": null,
+      "adoptedAt": "2019-02-11",
+      "validFrom": "2019-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0289",
+      "versions": [
+        {
+          "id": "ZRPPB-A-original",
+          "shortCode": "ZRPPB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/19  str. 668",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRPPB"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0289",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED4085",
+  "path": "laws/UR/URED4085",
+  "members": [
+    {
+      "id": "URED4085",
+      "title": "Uredba o izvajanju nadzora varnosti zrakoplovov iz tretjih držav, ki pristajajo na letališčih v Republiki Sloveniji",
+      "shortTitle": "Uredba o izvajanju nadzora varnosti zrakoplovov iz tretjih držav, ki pristajajo na letališčih v Republiki Sloveniji",
+      "shortCode": "URED4085",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3410",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-25",
+      "validFrom": "2006-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3410",
+      "versions": [
+        {
+          "id": "URED4085-original",
+          "shortCode": "URED4085",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3410",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4929",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju nadzora varnosti zrakoplovov iz tretjih držav, ki pristajajo na letališčih v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju nadzora varnosti zrakoplovov iz tretjih držav, ki pristajajo na letališčih v Republiki Sloveniji",
+      "shortCode": "URED4929",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-0342",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-02-13",
+      "validFrom": "2009-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2009-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0342",
+      "versions": [
+        {
+          "id": "URED4929-original",
+          "shortCode": "URED4929",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-02-13",
+          "effectiveFrom": "2009-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4085"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0342",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

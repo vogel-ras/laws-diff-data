@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO43380",
+  "path": "ordinances/MP/MP_ODLO43380",
+  "members": [
+    {
+      "id": "MP_ODLO43380",
+      "title": "Odlok o sofinanciranju letnega programa športa v Občini Žirovnica (ODLO)",
+      "shortTitle": "Odlok o sofinanciranju letnega programa športa v Občini Žirovnica (ODLO)",
+      "shortCode": "MP_ODLO43380",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2019-01-0581",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0581",
+      "versions": [
+        {
+          "id": "MP_ODLO43380-original",
+          "shortCode": "MP_ODLO43380",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0581",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO52708",
+      "title": "Odlok o spremembi Odloka o sofinanciranju letnega programa športa v Občini Žirovnica (ODLO)",
+      "shortTitle": "Odlok o spremembi Odloka o sofinanciranju letnega programa športa v Občini Žirovnica (ODLO)",
+      "shortCode": "MP_ODLO52708",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Žirovnica",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2024-01-3004",
+      "gazette": null,
+      "issuingBody": "Občina Žirovnica",
+      "adoptedAt": "2024-11-15",
+      "validFrom": "2024-11-15",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3004",
+      "versions": [
+        {
+          "id": "MP_ODLO52708-original",
+          "shortCode": "MP_ODLO52708",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-15",
+          "effectiveFrom": "2024-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO43380"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3004",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

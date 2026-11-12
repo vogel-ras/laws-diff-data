@@ -1,0 +1,97 @@
+{
+  "root": "PRAV417",
+  "path": "laws/PR/PRAV417",
+  "members": [
+    {
+      "id": "PRAV417",
+      "title": "Pravilnik o varnosti in zdravju pri delu na ribiških ladjah",
+      "shortTitle": "Pravilnik o varnosti in zdravju pri delu na ribiških ladjah",
+      "shortCode": "PRAV417",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-0364",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-01-26",
+      "validFrom": "2001-01-26",
+      "validTo": null,
+      "latestPublishedAt": "2001-01-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0364",
+      "versions": [
+        {
+          "id": "PRAV417-original",
+          "shortCode": "PRAV417",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-01-26",
+          "effectiveFrom": "2001-01-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0364",
+          "proposer": null
+        },
+        {
+          "id": "PRAV417-npb-PRAV417",
+          "shortCode": "PRAV417-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-01-26",
+          "effectiveFrom": "2001-01-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV417",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6837",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti in zdravju pri delu na ribiških ladjah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o varnosti in zdravju pri delu na ribiških ladjah",
+      "shortCode": "PRAV6837",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1399",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-04-19",
+      "validFrom": "2005-04-19",
+      "validTo": null,
+      "latestPublishedAt": "2005-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1399",
+      "versions": [
+        {
+          "id": "PRAV6837-original",
+          "shortCode": "PRAV6837",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-04-19",
+          "effectiveFrom": "2005-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV417"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1399",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

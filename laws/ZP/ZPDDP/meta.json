@@ -1,0 +1,219 @@
+{
+  "root": "ZPDDP",
+  "path": "laws/ZP/ZPDDP",
+  "members": [
+    {
+      "id": "ZPDDP",
+      "title": "Zakon o posebnem davku na določene prejemke",
+      "shortTitle": "Zakon o posebnem davku na določene prejemke",
+      "shortCode": "ZPDDP",
+      "kind": "zakon",
+      "keywords": [
+        "davek na dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2632",
+      "gazette": "Uradni list RS 72/93  str. 3786",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-31",
+      "validFrom": "1993-12-31",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2632",
+      "versions": [
+        {
+          "id": "ZPDDP-original",
+          "shortCode": "ZPDDP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/93  str. 3786",
+          "publishedAt": "1993-12-31",
+          "effectiveFrom": "1993-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2632",
+          "proposer": null
+        },
+        {
+          "id": "ZPDDP-amend-ZPDDP-A",
+          "shortCode": "ZPDDP-A",
+          "label": "Sprememba ZPDDP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 22/94  str. 1325",
+          "publishedAt": "1994-04-28",
+          "effectiveFrom": "1994-04-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0954",
+          "proposer": null
+        },
+        {
+          "id": "ZPDDP-amend-ZPDDP-B",
+          "shortCode": "ZPDDP-B",
+          "label": "Sprememba ZPDDP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 45/95  str. 3506",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2162",
+          "proposer": null
+        },
+        {
+          "id": "ZPDDP-amend-ZPDDP-C",
+          "shortCode": "ZPDDP-C",
+          "label": "Sprememba ZPDDP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 12/96  str. 900",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0573",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDDP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o posebnem davku na določene prejemke",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o posebnem davku na določene prejemke",
+      "shortCode": "ZPDDP-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek na dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0954",
+      "gazette": "Uradni list RS 22/94  str. 1325",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-28",
+      "validFrom": "1994-04-28",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0954",
+      "versions": [
+        {
+          "id": "ZPDDP-A-original",
+          "shortCode": "ZPDDP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/94  str. 1325",
+          "publishedAt": "1994-04-28",
+          "effectiveFrom": "1994-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0954",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDDP-B",
+      "title": "Zakon o dopolnitvi zakona o posebnem davku na določene prejemke",
+      "shortTitle": "Zakon o dopolnitvi zakona o posebnem davku na določene prejemke",
+      "shortCode": "ZPDDP-B",
+      "kind": "zakon",
+      "keywords": [
+        "davek na dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2162",
+      "gazette": "Uradni list RS 45/95  str. 3506",
+      "issuingBody": null,
+      "adoptedAt": "1995-08-04",
+      "validFrom": "1995-08-04",
+      "validTo": null,
+      "latestPublishedAt": "1995-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2162",
+      "versions": [
+        {
+          "id": "ZPDDP-B-original",
+          "shortCode": "ZPDDP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/95  str. 3506",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2162",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDDP-C",
+      "title": "Zakon o dopolnitvi zakona o posebnem davku na določene prejemke",
+      "shortTitle": "Zakon o dopolnitvi zakona o posebnem davku na določene prejemke",
+      "shortCode": "ZPDDP-C",
+      "kind": "zakon",
+      "keywords": [
+        "davek na dohodek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0573",
+      "gazette": "Uradni list RS 12/96  str. 900",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-29",
+      "validFrom": "1996-02-29",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0573",
+      "versions": [
+        {
+          "id": "ZPDDP-C-original",
+          "shortCode": "ZPDDP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/96  str. 900",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDDP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0573",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

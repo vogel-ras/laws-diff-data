@@ -1,0 +1,121 @@
+{
+  "root": "PRAV4084",
+  "path": "laws/PR/PRAV4084",
+  "members": [
+    {
+      "id": "PRAV12860",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisih v kataster stavb",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisih v kataster stavb",
+      "shortCode": "PRAV12860",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2812",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-10-21",
+      "validFrom": "2016-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2812",
+      "versions": [
+        {
+          "id": "PRAV12860-original",
+          "shortCode": "PRAV12860",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-10-21",
+          "effectiveFrom": "2016-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4084"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2812",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4084",
+      "title": "Pravilnik o vpisih v kataster stavb",
+      "shortTitle": "Pravilnik o vpisih v kataster stavb",
+      "shortCode": "PRAV4084",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-0622",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2002-02-21",
+      "validFrom": "2002-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0622",
+      "versions": [
+        {
+          "id": "PRAV4084-original",
+          "shortCode": "PRAV4084",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-21",
+          "effectiveFrom": "2002-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9413",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisih v kataster stavb",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vpisih v kataster stavb",
+      "shortCode": "PRAV9413",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-1503",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2009-04-24",
+      "validFrom": "2009-04-24",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1503",
+      "versions": [
+        {
+          "id": "PRAV9413-original",
+          "shortCode": "PRAV9413",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-24",
+          "effectiveFrom": "2009-04-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4084"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1503",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

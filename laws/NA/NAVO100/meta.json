@@ -1,0 +1,97 @@
+{
+  "root": "NAVO100",
+  "path": "laws/NA/NAVO100",
+  "members": [
+    {
+      "id": "NAVO100",
+      "title": "Pravilnik o izvajanju komasacij kmetijskih zemljišč",
+      "shortTitle": "Pravilnik o izvajanju komasacij kmetijskih zemljišč",
+      "shortCode": "NAVO100",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "2004-01-4214",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-08-27",
+      "validFrom": "2004-08-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4214",
+      "versions": [
+        {
+          "id": "NAVO100-original",
+          "shortCode": "NAVO100",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-27",
+          "effectiveFrom": "2004-08-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4214",
+          "proposer": null
+        },
+        {
+          "id": "NAVO100-npb-NAVO100",
+          "shortCode": "NAVO100-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-08-27",
+          "effectiveFrom": "2004-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO100",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7627",
+      "title": "Pravilnik o spremembah Pravilnika o izvajanju komasacij kmetijskih zemljišč",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izvajanju komasacij kmetijskih zemljišč",
+      "shortCode": "PRAV7627",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4193",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-09-22",
+      "validFrom": "2006-09-22",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4193",
+      "versions": [
+        {
+          "id": "PRAV7627-original",
+          "shortCode": "PRAV7627",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-22",
+          "effectiveFrom": "2006-09-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO100"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4193",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

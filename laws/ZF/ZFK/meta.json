@@ -1,0 +1,103 @@
+{
+  "root": "ZFK",
+  "path": "laws/ZF/ZFK",
+  "members": [
+    {
+      "id": "ZFK",
+      "title": "Zakon o finančnih konglomeratih",
+      "shortTitle": "Zakon o finančnih konglomeratih",
+      "shortCode": "ZFK",
+      "kind": "zakon",
+      "keywords": [
+        "konglomerat"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1837",
+      "gazette": "Uradni list RS 43/06  str. 4613",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-21",
+      "validFrom": "2006-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1837",
+      "versions": [
+        {
+          "id": "ZFK-original",
+          "shortCode": "ZFK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/06  str. 4613",
+          "publishedAt": "2006-04-21",
+          "effectiveFrom": "2006-04-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1837",
+          "proposer": null
+        },
+        {
+          "id": "ZFK-amend-ZFK-B",
+          "shortCode": "ZFK-B",
+          "label": "Sprememba ZFK-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 56/13  str. 6431",
+          "publishedAt": "2013-07-02",
+          "effectiveFrom": "2013-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2142",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFK-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o finančnih konglomeratih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o finančnih konglomeratih",
+      "shortCode": "ZFK-B",
+      "kind": "zakon",
+      "keywords": [
+        "finančna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2142",
+      "gazette": "Uradni list RS 56/13  str. 6431",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-02",
+      "validFrom": "2013-07-02",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2142",
+      "versions": [
+        {
+          "id": "ZFK-B-original",
+          "shortCode": "ZFK-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/13  str. 6431",
+          "publishedAt": "2013-07-02",
+          "effectiveFrom": "2013-07-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2142",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "root": "ZVin",
+  "path": "laws/ZV/ZVin",
+  "members": [
+    {
+      "id": "ZAKO9206",
+      "title": "Zakon o vinu (ZVin-1)",
+      "shortTitle": "Zakon o vinu (ZVin-1)",
+      "shortCode": "ZVin-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0585",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-02",
+      "validFrom": "2026-03-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0585",
+      "versions": [
+        {
+          "id": "ZAKO9206-original",
+          "shortCode": "ZVin-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-02",
+          "effectiveFrom": "2026-03-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0585",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVin",
+      "title": "Zakon o vinu",
+      "shortTitle": "Zakon o vinu",
+      "shortCode": "ZVin",
+      "kind": "zakon",
+      "keywords": [
+        "vino",
+        "vinogradništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4488",
+      "gazette": "Uradni list RS 105/06  str. 10616",
+      "issuingBody": null,
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4488",
+      "versions": [
+        {
+          "id": "ZVin-original",
+          "shortCode": "ZVin",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 105/06  str. 10616",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4488",
+          "proposer": null
+        },
+        {
+          "id": "ZVin-amend-ZVin-B",
+          "shortCode": "ZVin-B",
+          "label": "Sprememba ZVin-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 111/13  str. 13182",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVin"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4133",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVin-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vinu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vinu",
+      "shortCode": "ZVin-B",
+      "kind": "zakon",
+      "keywords": [
+        "vino"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4133",
+      "gazette": "Uradni list RS 111/13  str. 13182",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4133",
+      "versions": [
+        {
+          "id": "ZVin-B-original",
+          "shortCode": "ZVin-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/13  str. 13182",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVin"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4133",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

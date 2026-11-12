@@ -1,0 +1,82 @@
+{
+  "root": "PRAV10341",
+  "path": "laws/PR/PRAV10341",
+  "members": [
+    {
+      "id": "PRAV10341",
+      "title": "Pravilnik o razvrščanju zdravil na listo",
+      "shortTitle": "Pravilnik o razvrščanju zdravil na listo",
+      "shortCode": "PRAV10341",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5779",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-31",
+      "validFrom": "2010-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5779",
+      "versions": [
+        {
+          "id": "PRAV10341-original",
+          "shortCode": "PRAV10341",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-31",
+          "effectiveFrom": "2010-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5779",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15121",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrščanju zdravil na listo",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrščanju zdravil na listo",
+      "shortCode": "PRAV15121",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-3527",
+      "gazette": null,
+      "issuingBody": "Zavod za zdravstveno zavarovanje Slovenije",
+      "adoptedAt": "2023-12-01",
+      "validFrom": "2023-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3527",
+      "versions": [
+        {
+          "id": "PRAV15121-original",
+          "shortCode": "PRAV15121",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-01",
+          "effectiveFrom": "2023-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10341"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3527",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

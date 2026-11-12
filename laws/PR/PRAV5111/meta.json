@@ -1,0 +1,136 @@
+{
+  "root": "PRAV5111",
+  "path": "laws/PR/PRAV5111",
+  "members": [
+    {
+      "id": "PRAV5111",
+      "title": "Pravilnik o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortTitle": "Pravilnik o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortCode": "PRAV5111",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3223",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-20",
+      "validFrom": "2024-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3223",
+      "versions": [
+        {
+          "id": "PRAV5111-original",
+          "shortCode": "PRAV5111",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-20",
+          "effectiveFrom": "2024-11-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3223",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5111-npb-PRAV5111",
+          "shortCode": "PRAV5111-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-07-07",
+          "effectiveFrom": "2003-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5111",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6263",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortCode": "PRAV6263",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5290",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2004-11-25",
+      "validFrom": "2004-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5290",
+      "versions": [
+        {
+          "id": "PRAV6263-original",
+          "shortCode": "PRAV6263",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-25",
+          "effectiveFrom": "2004-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5111"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5290",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7632",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu uresničevanja posameznih pravic in obveznosti iz delovnega razmerja načelnikov upravnih enot",
+      "shortCode": "PRAV7632",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1276",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-24",
+      "validFrom": "2006-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1276",
+      "versions": [
+        {
+          "id": "PRAV7632-original",
+          "shortCode": "PRAV7632",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-24",
+          "effectiveFrom": "2006-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5111"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1276",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

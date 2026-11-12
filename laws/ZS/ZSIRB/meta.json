@@ -1,0 +1,104 @@
+{
+  "root": "ZSIRB",
+  "path": "laws/ZS/ZSIRB",
+  "members": [
+    {
+      "id": "ZAKO5207",
+      "title": "Zakon o Slovenski izvozni in razvojni banki (ZSIRB)",
+      "shortTitle": "Zakon o Slovenski izvozni in razvojni banki (ZSIRB)",
+      "shortCode": "ZSIRB",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-06-06",
+      "validFrom": "2008-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2342",
+      "versions": [
+        {
+          "id": "ZAKO5207-original",
+          "shortCode": "ZSIRB",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-06",
+          "effectiveFrom": "2008-06-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2342",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5207-amend-ZSIRB-A",
+          "shortCode": "ZSIRB-A",
+          "label": "Sprememba ZSIRB-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 20/09  str. 2609",
+          "publishedAt": "2009-03-16",
+          "effectiveFrom": "2009-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5207"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0755",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSIRB-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o slovenski izvozni in razvojni banki",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o slovenski izvozni in razvojni banki",
+      "shortCode": "ZSIRB-A",
+      "kind": "zakon",
+      "keywords": [
+        "razvojna banka",
+        "izvoz",
+        "zavarovanje",
+        "financiranje izvoza"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-0755",
+      "gazette": "Uradni list RS 20/09  str. 2609",
+      "issuingBody": null,
+      "adoptedAt": "2009-03-16",
+      "validFrom": "2009-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0755",
+      "versions": [
+        {
+          "id": "ZSIRB-A-original",
+          "shortCode": "ZSIRB-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/09  str. 2609",
+          "publishedAt": "2009-03-16",
+          "effectiveFrom": "2009-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5207"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0755",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "URED6353",
+  "path": "laws/UR/URED6353",
+  "members": [
+    {
+      "id": "URED6353",
+      "title": "Uredba o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortTitle": "Uredba o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortCode": "URED6353",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-3691",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-12-19",
+      "validFrom": "2014-12-19",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3691",
+      "versions": [
+        {
+          "id": "URED6353-original",
+          "shortCode": "URED6353",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-19",
+          "effectiveFrom": "2014-12-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3691",
+          "proposer": null
+        },
+        {
+          "id": "URED6353-npb-URED6353",
+          "shortCode": "URED6353-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-12-19",
+          "effectiveFrom": "2014-12-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6353",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6992",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortCode": "URED6992",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1922",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-06-26",
+      "validFrom": "2015-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1922",
+      "versions": [
+        {
+          "id": "URED6992-original",
+          "shortCode": "URED6992",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-26",
+          "effectiveFrom": "2015-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6353"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1922",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7955",
+      "title": "Uredba o spremembah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortTitle": "Uredba o spremembah Uredbe o merilih za določitev višine nadomestila zaradi omejene rabe prostora in zaradi načrtovanja intervencijskih ukrepov na območju jedrskega objekta",
+      "shortCode": "URED7955",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-0208",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-02-07",
+      "validFrom": "2020-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0208",
+      "versions": [
+        {
+          "id": "URED7955-original",
+          "shortCode": "URED7955",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6353"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0208",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

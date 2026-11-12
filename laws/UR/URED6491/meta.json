@@ -1,0 +1,82 @@
+{
+  "root": "URED6491",
+  "path": "laws/UR/URED6491",
+  "members": [
+    {
+      "id": "URED6491",
+      "title": "Uredba o izvajanju Uredbe (EU) o gostovanju v javnih mobilnih komunikacijskih omrežjih v Uniji",
+      "shortTitle": "Uredba o izvajanju Uredbe (EU) o gostovanju v javnih mobilnih komunikacijskih omrežjih v Uniji",
+      "shortCode": "URED6491",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2064",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-06-28",
+      "validFrom": "2013-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2013-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2064",
+      "versions": [
+        {
+          "id": "URED6491-original",
+          "shortCode": "URED6491",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-06-28",
+          "effectiveFrom": "2013-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2064",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7265",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (EU) o gostovanju v javnih mobilnih komunikacijskih omrežjih v Uniji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (EU) o gostovanju v javnih mobilnih komunikacijskih omrežjih v Uniji",
+      "shortCode": "URED7265",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-1167",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-04-15",
+      "validFrom": "2016-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1167",
+      "versions": [
+        {
+          "id": "URED7265-original",
+          "shortCode": "URED7265",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-04-15",
+          "effectiveFrom": "2016-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6491"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1167",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

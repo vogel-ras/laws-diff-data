@@ -1,0 +1,159 @@
+{
+  "root": "ZMinP",
+  "path": "laws/ZM/ZMinP",
+  "members": [
+    {
+      "id": "ZMinP",
+      "title": "Zakon o minimalni plači",
+      "shortTitle": "Zakon o minimalni plači",
+      "shortCode": "ZMinP",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0519",
+      "gazette": "Uradni list RS 13/10  str. 1457",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-22",
+      "validFrom": "2010-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0519",
+      "versions": [
+        {
+          "id": "ZMinP-original",
+          "shortCode": "ZMinP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/10  str. 1457",
+          "publishedAt": "2010-02-22",
+          "effectiveFrom": "2010-02-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0519",
+          "proposer": null
+        },
+        {
+          "id": "ZMinP-amend-ZMinP-A",
+          "shortCode": "ZMinP-A",
+          "label": "Sprememba ZMinP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 92/15  str. 10389",
+          "publishedAt": "2015-12-04",
+          "effectiveFrom": "2015-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMinP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3610",
+          "proposer": null
+        },
+        {
+          "id": "ZMinP-amend-ZMinP-B",
+          "shortCode": "ZMinP-B",
+          "label": "Sprememba ZMinP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 83/18  str. 13247",
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMinP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4067",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMinP-A",
+      "title": "Zakon o dopolnitvi Zakona o minimalni plači",
+      "shortTitle": "Zakon o dopolnitvi Zakona o minimalni plači",
+      "shortCode": "ZMinP-A",
+      "kind": "zakon",
+      "keywords": [
+        "minimalna plača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3610",
+      "gazette": "Uradni list RS 92/15  str. 10389",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-04",
+      "validFrom": "2015-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3610",
+      "versions": [
+        {
+          "id": "ZMinP-A-original",
+          "shortCode": "ZMinP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/15  str. 10389",
+          "publishedAt": "2015-12-04",
+          "effectiveFrom": "2015-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMinP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3610",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMinP-B",
+      "title": "Zakon o spremembah Zakona o minimalni plači",
+      "shortTitle": "Zakon o spremembah Zakona o minimalni plači",
+      "shortCode": "ZMinP-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-4067",
+      "gazette": "Uradni list RS 83/18  str. 13247",
+      "issuingBody": null,
+      "adoptedAt": "2018-12-24",
+      "validFrom": "2018-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4067",
+      "versions": [
+        {
+          "id": "ZMinP-B-original",
+          "shortCode": "ZMinP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/18  str. 13247",
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMinP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4067",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

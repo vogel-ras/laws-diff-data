@@ -1,0 +1,58 @@
+{
+  "root": "URED1370",
+  "path": "laws/UR/URED1370",
+  "members": [
+    {
+      "id": "URED1370",
+      "title": "Uredba o prenehanju veljavnosti uredb o preoblikovanju javnih podjetij za proizvodnjo električne energije",
+      "shortTitle": "Uredba o prenehanju veljavnosti uredb o preoblikovanju javnih podjetij za proizvodnjo električne energije",
+      "shortCode": "URED1370",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-3676",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-09-08",
+      "validFrom": "2000-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3676",
+      "versions": [
+        {
+          "id": "URED1370-original",
+          "shortCode": "URED1370",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-08",
+          "effectiveFrom": "2000-09-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3676",
+          "proposer": null
+        },
+        {
+          "id": "URED1370-npb-URED1370",
+          "shortCode": "URED1370-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-09-08",
+          "effectiveFrom": "2000-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1370",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

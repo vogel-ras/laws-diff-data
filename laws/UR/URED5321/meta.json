@@ -1,0 +1,136 @@
+{
+  "root": "URED5321",
+  "path": "laws/UR/URED5321",
+  "members": [
+    {
+      "id": "URED5321",
+      "title": "Uredba o inšpekcijskem nadzoru tujih ladij",
+      "shortTitle": "Uredba o inšpekcijskem nadzoru tujih ladij",
+      "shortCode": "URED5321",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5419",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-24",
+      "validFrom": "2010-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5419",
+      "versions": [
+        {
+          "id": "URED5321-original",
+          "shortCode": "URED5321",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-24",
+          "effectiveFrom": "2010-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5419",
+          "proposer": null
+        },
+        {
+          "id": "URED5321-npb-URED5321",
+          "shortCode": "URED5321-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-24",
+          "effectiveFrom": "2010-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5321",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6615",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o inšpekcijskem nadzoru tujih ladij",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o inšpekcijskem nadzoru tujih ladij",
+      "shortCode": "URED6615",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-4043",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-12-29",
+      "validFrom": "2014-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4043",
+      "versions": [
+        {
+          "id": "URED6615-original",
+          "shortCode": "URED6615",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-29",
+          "effectiveFrom": "2014-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4043",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7829",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o inšpekcijskem nadzoru tujih ladij",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o inšpekcijskem nadzoru tujih ladij",
+      "shortCode": "URED7829",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-3182",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-11-29",
+      "validFrom": "2019-11-29",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3182",
+      "versions": [
+        {
+          "id": "URED7829-original",
+          "shortCode": "URED7829",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-11-29",
+          "effectiveFrom": "2019-11-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5321"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3182",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

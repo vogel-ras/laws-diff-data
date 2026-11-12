@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1904",
+  "path": "laws/OD/ODRE1904",
+  "members": [
+    {
+      "id": "ODRE1904",
+      "title": "Pravilnik o ugotavljanju in oceni zdravstvene zmožnosti članov posadke na ladjah",
+      "shortTitle": "Pravilnik o ugotavljanju in oceni zdravstvene zmožnosti članov posadke na ladjah",
+      "shortCode": "ODRE1904",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2003-01-3943",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2003-08-21",
+      "validFrom": "2003-08-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3943",
+      "versions": [
+        {
+          "id": "ODRE1904-original",
+          "shortCode": "ODRE1904",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3943",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5876",
+      "title": "Pravilnik o spremembi Pravilnika o ugotavljanju in oceni zdravstvene zmožnosti članov posadke na ladjah",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o ugotavljanju in oceni zdravstvene zmožnosti članov posadke na ladjah",
+      "shortCode": "PRAV5876",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2277",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-05-23",
+      "validFrom": "2006-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2277",
+      "versions": [
+        {
+          "id": "PRAV5876-original",
+          "shortCode": "PRAV5876",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-23",
+          "effectiveFrom": "2006-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1904"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2277",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

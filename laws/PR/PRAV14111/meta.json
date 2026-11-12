@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14111",
+  "path": "laws/PR/PRAV14111",
+  "members": [
+    {
+      "id": "PRAV14111",
+      "title": "Pravilnik o vsebini in obliki diplom Fakultete za dizajn",
+      "shortTitle": "Pravilnik o vsebini in obliki diplom Fakultete za dizajn",
+      "shortCode": "PRAV14111",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-2212",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-09-11",
+      "validFrom": "2020-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2020-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2212",
+      "versions": [
+        {
+          "id": "PRAV14111-original",
+          "shortCode": "PRAV14111",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-09-11",
+          "effectiveFrom": "2020-09-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2212",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14111-npb-PRAV14111",
+          "shortCode": "PRAV14111-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-09-11",
+          "effectiveFrom": "2020-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14111",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14593",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini in obliki diplom Fakultete za dizajn",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini in obliki diplom Fakultete za dizajn",
+      "shortCode": "PRAV14593",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Objavljen akt brez datuma začetka veljavnosti",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0251",
+      "gazette": null,
+      "issuingBody": "Fakulteta za dizajn, samostojni visokošolski zavod, pridružena članica Univerze na Primorskem",
+      "adoptedAt": "2022-02-04",
+      "validFrom": "2022-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0251",
+      "versions": [
+        {
+          "id": "PRAV14593-original",
+          "shortCode": "PRAV14593",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-04",
+          "effectiveFrom": "2022-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14111"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0251",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

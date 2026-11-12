@@ -1,0 +1,432 @@
+{
+  "root": "ZT",
+  "path": "laws/ZT/ZT",
+  "members": [
+    {
+      "id": "ZAKO5327",
+      "title": "Zakon o trgovini (ZT-1)",
+      "shortTitle": "Zakon o trgovini (ZT-1)",
+      "shortCode": "ZT-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-0887",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-03-10",
+      "validFrom": "2008-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0887",
+      "versions": [
+        {
+          "id": "ZAKO5327-original",
+          "shortCode": "ZT-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-03-10",
+          "effectiveFrom": "2008-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0887",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5327-amend-ZT-1A",
+          "shortCode": "ZT-1A",
+          "label": "Sprememba ZT-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/15  str. 5146",
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1931",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5327-amend-ZT-1C",
+          "shortCode": "ZT-1C",
+          "label": "Sprememba ZT-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 161/22  str. 13241",
+          "publishedAt": "2022-12-23",
+          "effectiveFrom": "2022-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4086",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT",
+      "title": "Zakon o trgovini",
+      "shortTitle": "Zakon o trgovini",
+      "shortCode": "ZT",
+      "kind": "zakon",
+      "keywords": [
+        "trgovinski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0815",
+      "gazette": "Uradni list RS 18/93  str. 821",
+      "issuingBody": null,
+      "adoptedAt": "1993-04-09",
+      "validFrom": "1993-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0815",
+      "versions": [
+        {
+          "id": "ZT-original",
+          "shortCode": "ZT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/93  str. 821",
+          "publishedAt": "1993-04-09",
+          "effectiveFrom": "1993-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0815",
+          "proposer": null
+        },
+        {
+          "id": "ZT-amend-ZT-A",
+          "shortCode": "ZT-A",
+          "label": "Sprememba ZT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 96/2002  str. 10493",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4799",
+          "proposer": null
+        },
+        {
+          "id": "ZT-amend-ZT-B",
+          "shortCode": "ZT-B",
+          "label": "Sprememba ZT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 22/04  str. 2489",
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0918",
+          "proposer": null
+        },
+        {
+          "id": "ZT-amend-ZT-C",
+          "shortCode": "ZT-C",
+          "label": "Sprememba ZT-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 7/06  str. 605",
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0267",
+          "proposer": null
+        },
+        {
+          "id": "ZT-amend-ZT-D",
+          "shortCode": "ZT-D",
+          "label": "Sprememba ZT-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 118/06  str. 12420",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5025",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-1A",
+      "title": "Zakon o spremembah Zakona o trgovini",
+      "shortTitle": "Zakon o spremembah Zakona o trgovini",
+      "shortCode": "ZT-1A",
+      "kind": "zakon",
+      "keywords": [
+        "trgovinska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1931",
+      "gazette": "Uradni list RS 47/15  str. 5146",
+      "issuingBody": null,
+      "adoptedAt": "2015-06-30",
+      "validFrom": "2015-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1931",
+      "versions": [
+        {
+          "id": "ZT-1A-original",
+          "shortCode": "ZT-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/15  str. 5146",
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1931",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-1C",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o trgovini",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o trgovini",
+      "shortCode": "ZT-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4086",
+      "gazette": "Uradni list RS 161/22  str. 13241",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-23",
+      "validFrom": "2022-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4086",
+      "versions": [
+        {
+          "id": "ZT-1C-original",
+          "shortCode": "ZT-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 161/22  str. 13241",
+          "publishedAt": "2022-12-23",
+          "effectiveFrom": "2022-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5327"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4086",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o trgovini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o trgovini",
+      "shortCode": "ZT-A",
+      "kind": "zakon",
+      "keywords": [
+        "občina",
+        "referendum"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4799",
+      "gazette": "Uradni list RS 96/2002  str. 10493",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4799",
+      "versions": [
+        {
+          "id": "ZT-A-original",
+          "shortCode": "ZT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10493",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4799",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-B",
+      "title": "Zakon o spremembah zakona o trgovini",
+      "shortTitle": "Zakon o spremembah zakona o trgovini",
+      "shortCode": "ZT-B",
+      "kind": "zakon",
+      "keywords": [
+        "trgovinska politika",
+        "obratovalni čas"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0918",
+      "gazette": "Uradni list RS 22/04  str. 2489",
+      "issuingBody": null,
+      "adoptedAt": "2004-03-10",
+      "validFrom": "2004-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0918",
+      "versions": [
+        {
+          "id": "ZT-B-original",
+          "shortCode": "ZT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/04  str. 2489",
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0918",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-C",
+      "title": "Zakon o spremembah zakona o trgovini",
+      "shortTitle": "Zakon o spremembah zakona o trgovini",
+      "shortCode": "ZT-C",
+      "kind": "zakon",
+      "keywords": [
+        "trgovina na debelo",
+        "trgovinski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0267",
+      "gazette": "Uradni list RS 7/06  str. 605",
+      "issuingBody": null,
+      "adoptedAt": "2006-01-24",
+      "validFrom": "2006-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0267",
+      "versions": [
+        {
+          "id": "ZT-C-original",
+          "shortCode": "ZT-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/06  str. 605",
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0267",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZT-D",
+      "title": "Zakon o spremembah zakona o trgovini",
+      "shortTitle": "Zakon o spremembah zakona o trgovini",
+      "shortCode": "ZT-D",
+      "kind": "zakon",
+      "keywords": [
+        "obratovalni čas",
+        "trgovinski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5025",
+      "gazette": "Uradni list RS 118/06  str. 12420",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-17",
+      "validFrom": "2006-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5025",
+      "versions": [
+        {
+          "id": "ZT-D-original",
+          "shortCode": "ZT-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 118/06  str. 12420",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5025",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

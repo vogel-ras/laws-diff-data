@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9648",
+  "path": "laws/PR/PRAV9648",
+  "members": [
+    {
+      "id": "PRAV9648",
+      "title": "Pravilnik o vinu z oznako priznanega tradicionalnega poimenovanja - Bizeljčan",
+      "shortTitle": "Pravilnik o vinu z oznako priznanega tradicionalnega poimenovanja - Bizeljčan",
+      "shortCode": "PRAV9648",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0865",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2009-03-23",
+      "validFrom": "2009-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0865",
+      "versions": [
+        {
+          "id": "PRAV9648-original",
+          "shortCode": "PRAV9648",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-23",
+          "effectiveFrom": "2009-03-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0865",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9648-npb-PRAV9648",
+          "shortCode": "PRAV9648-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-03-23",
+          "effectiveFrom": "2009-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9648",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9740",
+      "title": "Pravilnik o spremembi Pravilnika o vinu z oznako priznanega tradicionalnega poimenovanja - Bizeljčan",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o vinu z oznako priznanega tradicionalnega poimenovanja - Bizeljčan",
+      "shortCode": "PRAV9740",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-2915",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2009-07-30",
+      "validFrom": "2009-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2915",
+      "versions": [
+        {
+          "id": "PRAV9740-original",
+          "shortCode": "PRAV9740",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-07-30",
+          "effectiveFrom": "2009-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9648"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2915",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

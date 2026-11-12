@@ -1,0 +1,82 @@
+{
+  "root": "URED5013",
+  "path": "laws/UR/URED5013",
+  "members": [
+    {
+      "id": "URED5013",
+      "title": "Uredba o merilih in pogojih za izdajanje poroštev po 86.a členu Zakona o javnih financah",
+      "shortTitle": "Uredba o merilih in pogojih za izdajanje poroštev po 86.a členu Zakona o javnih financah",
+      "shortCode": "URED5013",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-4988",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-12-05",
+      "validFrom": "2008-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4988",
+      "versions": [
+        {
+          "id": "URED5013-original",
+          "shortCode": "URED5013",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-05",
+          "effectiveFrom": "2008-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4988",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5542",
+      "title": "Uredba o spremembi Uredbe o merilih in pogojih za izdajanje poroštev po 86.a členu Zakona o javnih financah",
+      "shortTitle": "Uredba o spremembi Uredbe o merilih in pogojih za izdajanje poroštev po 86.a členu Zakona o javnih financah",
+      "shortCode": "URED5542",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-3502",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-07-30",
+      "validFrom": "2010-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3502",
+      "versions": [
+        {
+          "id": "URED5542-original",
+          "shortCode": "URED5542",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-30",
+          "effectiveFrom": "2010-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5013"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3502",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

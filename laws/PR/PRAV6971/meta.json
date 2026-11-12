@@ -1,0 +1,136 @@
+{
+  "root": "PRAV6971",
+  "path": "laws/PR/PRAV6971",
+  "members": [
+    {
+      "id": "PRAV6971",
+      "title": "Pravilnik o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortTitle": "Pravilnik o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortCode": "PRAV6971",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2494",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2005-06-15",
+      "validFrom": "2005-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2494",
+      "versions": [
+        {
+          "id": "PRAV6971-original",
+          "shortCode": "PRAV6971",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-15",
+          "effectiveFrom": "2005-06-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2494",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6971-npb-PRAV6971",
+          "shortCode": "PRAV6971-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-06-15",
+          "effectiveFrom": "2005-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6971",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8157",
+      "title": "Pravilnik o spremembi Pravilnika o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortCode": "PRAV8157",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-6002",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2006-12-28",
+      "validFrom": "2006-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6002",
+      "versions": [
+        {
+          "id": "PRAV8157-original",
+          "shortCode": "PRAV8157",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-28",
+          "effectiveFrom": "2006-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6971"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9284",
+      "title": "Pravilnik o spremembi Pravilnika o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o programski klasifikaciji izdatkov občinskih proračunov",
+      "shortCode": "PRAV9284",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4691",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2008-11-17",
+      "validFrom": "2008-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2008-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4691",
+      "versions": [
+        {
+          "id": "PRAV9284-original",
+          "shortCode": "PRAV9284",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-11-17",
+          "effectiveFrom": "2008-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6971"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4691",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

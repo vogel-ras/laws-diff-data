@@ -1,0 +1,519 @@
+{
+  "root": "ZPol",
+  "path": "laws/ZP/ZPol",
+  "members": [
+    {
+      "id": "ZPol",
+      "title": "Zakon o policiji",
+      "shortTitle": "Zakon o policiji",
+      "shortCode": "ZPol",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "policijska kontrola",
+        "javni red"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2140",
+      "gazette": "Uradni list RS 49/98  str. 3465",
+      "issuingBody": null,
+      "adoptedAt": "1998-07-03",
+      "validFrom": "1998-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2140",
+      "versions": [
+        {
+          "id": "ZPol-original",
+          "shortCode": "ZPol",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/98  str. 3465",
+          "publishedAt": "1998-07-03",
+          "effectiveFrom": "1998-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2140",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-A",
+          "shortCode": "ZPol-A",
+          "label": "Sprememba ZPol-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 93/2001  str. 9041",
+          "publishedAt": "2001-11-23",
+          "effectiveFrom": "2001-11-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4635",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-B",
+          "shortCode": "ZPol-B",
+          "label": "Sprememba ZPol-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 79/2003  str. 11741",
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3740",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-C",
+          "shortCode": "ZPol-C",
+          "label": "Sprememba ZPol-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 50/04  str. 6709",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2296",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-D",
+          "shortCode": "ZPol-D",
+          "label": "Sprememba ZPol-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 53/05  str. 5211",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2219",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-E",
+          "shortCode": "ZPol-E",
+          "label": "Sprememba ZPol-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 98/05  str. 10176",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4297",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-F",
+          "shortCode": "ZPol-F",
+          "label": "Sprememba ZPol-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 78/06  str. 8380",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3402",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-G",
+          "shortCode": "ZPol-G",
+          "label": "Sprememba ZPol-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 42/09  str. 5890",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2039",
+          "proposer": null
+        },
+        {
+          "id": "ZPol-amend-ZPol-H",
+          "shortCode": "ZPol-H",
+          "label": "Sprememba ZPol-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 22/10  str. 2693",
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0900",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-A",
+      "title": "Zakon o dopolnitvah zakona o policiji",
+      "shortTitle": "Zakon o dopolnitvah zakona o policiji",
+      "shortCode": "ZPol-A",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4635",
+      "gazette": "Uradni list RS 93/2001  str. 9041",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-23",
+      "validFrom": "2001-11-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-11-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4635",
+      "versions": [
+        {
+          "id": "ZPol-A-original",
+          "shortCode": "ZPol-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/2001  str. 9041",
+          "publishedAt": "2001-11-23",
+          "effectiveFrom": "2001-11-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4635",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortCode": "ZPol-B",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "kazenski postopek",
+        "kaznivo dejanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3740",
+      "gazette": "Uradni list RS 79/2003  str. 11741",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-12",
+      "validFrom": "2003-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3740",
+      "versions": [
+        {
+          "id": "ZPol-B-original",
+          "shortCode": "ZPol-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/2003  str. 11741",
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3740",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortCode": "ZPol-C",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2296",
+      "gazette": "Uradni list RS 50/04  str. 6709",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-06",
+      "validFrom": "2004-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2296",
+      "versions": [
+        {
+          "id": "ZPol-C-original",
+          "shortCode": "ZPol-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/04  str. 6709",
+          "publishedAt": "2004-05-06",
+          "effectiveFrom": "2004-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2296",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-D",
+      "title": "Zakon o spremembi zakona o policiji",
+      "shortTitle": "Zakon o spremembi zakona o policiji",
+      "shortCode": "ZPol-D",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2219",
+      "gazette": "Uradni list RS 53/05  str. 5211",
+      "issuingBody": null,
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2219",
+      "versions": [
+        {
+          "id": "ZPol-D-original",
+          "shortCode": "ZPol-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/05  str. 5211",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2219",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortCode": "ZPol-E",
+      "kind": "zakon",
+      "keywords": [
+        "policija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4297",
+      "gazette": "Uradni list RS 98/05  str. 10176",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-07",
+      "validFrom": "2005-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4297",
+      "versions": [
+        {
+          "id": "ZPol-E-original",
+          "shortCode": "ZPol-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/05  str. 10176",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4297",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o policiji",
+      "shortCode": "ZPol-F",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "policijska kontrola",
+        "policijski nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3402",
+      "gazette": "Uradni list RS 78/06  str. 8380",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-25",
+      "validFrom": "2006-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3402",
+      "versions": [
+        {
+          "id": "ZPol-F-original",
+          "shortCode": "ZPol-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/06  str. 8380",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o policiji",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o policiji",
+      "shortCode": "ZPol-G",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "policijska kontrola",
+        "javni red"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2039",
+      "gazette": "Uradni list RS 42/09  str. 5890",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-05",
+      "validFrom": "2009-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2039",
+      "versions": [
+        {
+          "id": "ZPol-G-original",
+          "shortCode": "ZPol-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/09  str. 5890",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2039",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPol-H",
+      "title": "Zakon o dopolnitvah Zakona o policiji",
+      "shortTitle": "Zakon o dopolnitvah Zakona o policiji",
+      "shortCode": "ZPol-H",
+      "kind": "zakon",
+      "keywords": [
+        "policija",
+        "boj proti kriminalu"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0900",
+      "gazette": "Uradni list RS 22/10  str. 2693",
+      "issuingBody": null,
+      "adoptedAt": "2010-03-19",
+      "validFrom": "2010-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0900",
+      "versions": [
+        {
+          "id": "ZPol-H-original",
+          "shortCode": "ZPol-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/10  str. 2693",
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPol"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0900",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

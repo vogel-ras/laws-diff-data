@@ -1,0 +1,82 @@
+{
+  "root": "URED4869",
+  "path": "laws/UR/URED4869",
+  "members": [
+    {
+      "id": "URED4869",
+      "title": "Uredba o ustanavljanju evropskega združenja za teritorialno sodelovanje",
+      "shortTitle": "Uredba o ustanavljanju evropskega združenja za teritorialno sodelovanje",
+      "shortCode": "URED4869",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1192",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-03-28",
+      "validFrom": "2008-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2008-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1192",
+      "versions": [
+        {
+          "id": "URED4869-original",
+          "shortCode": "URED4869",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-03-28",
+          "effectiveFrom": "2008-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1192",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5546",
+      "title": "Uredba o spremembah Uredbe o ustanavljanju evropskega združenja za teritorialno sodelovanje",
+      "shortTitle": "Uredba o spremembah Uredbe o ustanavljanju evropskega združenja za teritorialno sodelovanje",
+      "shortCode": "URED5546",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-0370",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0370",
+      "versions": [
+        {
+          "id": "URED5546-original",
+          "shortCode": "URED5546",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4869"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0370",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

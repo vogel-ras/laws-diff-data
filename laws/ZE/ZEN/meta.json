@@ -1,0 +1,158 @@
+{
+  "root": "ZEN",
+  "path": "laws/ZE/ZEN",
+  "members": [
+    {
+      "id": "ZAKO7743",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o evidentiranju nepremičnin (ZEN-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o evidentiranju nepremičnin (ZEN-A)",
+      "shortCode": "ZEN-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0277",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-02",
+      "validFrom": "2018-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0277",
+      "versions": [
+        {
+          "id": "ZAKO7743-original",
+          "shortCode": "ZEN-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-02",
+          "effectiveFrom": "2018-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0277",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEN",
+      "title": "Zakon o evidentiranju nepremičnin",
+      "shortTitle": "Zakon o evidentiranju nepremičnin",
+      "shortCode": "ZEN",
+      "kind": "zakon",
+      "keywords": [
+        "nepremičnine",
+        "nepremičninski trg"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2024",
+      "gazette": "Uradni list RS 47/06  str. 5029",
+      "issuingBody": null,
+      "adoptedAt": "2006-05-09",
+      "validFrom": "2006-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2024",
+      "versions": [
+        {
+          "id": "ZEN-original",
+          "shortCode": "ZEN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/06  str. 5029",
+          "publishedAt": "2006-05-09",
+          "effectiveFrom": "2006-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2024",
+          "proposer": null
+        },
+        {
+          "id": "ZEN-amend-ZAKO7743",
+          "shortCode": "ZEN-A",
+          "label": "Sprememba ZEN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-02-02",
+          "effectiveFrom": "2018-02-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZEN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0277",
+          "proposer": null
+        },
+        {
+          "id": "ZEN-amend-ZEN-B",
+          "shortCode": "ZEN-B",
+          "label": "Sprememba ZEN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 33/19  str. 3989",
+          "publishedAt": "2019-05-22",
+          "effectiveFrom": "2019-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1494",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZEN-B",
+      "title": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o evidentiranju nepremičnin",
+      "shortTitle": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o evidentiranju nepremičnin",
+      "shortCode": "ZEN-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1494",
+      "gazette": "Uradni list RS 33/19  str. 3989",
+      "issuingBody": null,
+      "adoptedAt": "2019-05-22",
+      "validFrom": "2019-05-22",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1494",
+      "versions": [
+        {
+          "id": "ZEN-B-original",
+          "shortCode": "ZEN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/19  str. 3989",
+          "publishedAt": "2019-05-22",
+          "effectiveFrom": "2019-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZEN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1494",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

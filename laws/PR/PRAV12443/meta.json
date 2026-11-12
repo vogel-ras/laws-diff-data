@@ -1,0 +1,82 @@
+{
+  "root": "PRAV12443",
+  "path": "laws/PR/PRAV12443",
+  "members": [
+    {
+      "id": "PRAV12443",
+      "title": "Pravilnik o metodah za določanje prihrankov energije",
+      "shortTitle": "Pravilnik o metodah za določanje prihrankov energije",
+      "shortCode": "PRAV12443",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-2730",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-09-18",
+      "validFrom": "2015-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2015-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2730",
+      "versions": [
+        {
+          "id": "PRAV12443-original",
+          "shortCode": "PRAV12443",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-09-18",
+          "effectiveFrom": "2015-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2730",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12936",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o metodah za določanje prihrankov energije",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o metodah za določanje prihrankov energije",
+      "shortCode": "PRAV12936",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-0676",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-03-24",
+      "validFrom": "2017-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2017-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0676",
+      "versions": [
+        {
+          "id": "PRAV12936-original",
+          "shortCode": "PRAV12936",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-03-24",
+          "effectiveFrom": "2017-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12443"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0676",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

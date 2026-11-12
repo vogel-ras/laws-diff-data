@@ -1,0 +1,82 @@
+{
+  "root": "SKLE8177",
+  "path": "laws/SK/SKLE8177",
+  "members": [
+    {
+      "id": "SKLE8177",
+      "title": "Sklep o poslovnih knjigah, letnih in polletnih poročilih borznoposredniških družb",
+      "shortTitle": "Sklep o poslovnih knjigah, letnih in polletnih poročilih borznoposredniških družb",
+      "shortCode": "SKLE8177",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-3267",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-25",
+      "validFrom": "2009-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3267",
+      "versions": [
+        {
+          "id": "SKLE8177-original",
+          "shortCode": "SKLE8177",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-25",
+          "effectiveFrom": "2009-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3267",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9081",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o poslovnih knjigah, letnih in polletnih poročilih borznoposredniških družb",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o poslovnih knjigah, letnih in polletnih poročilih borznoposredniških družb",
+      "shortCode": "SKLE9081",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-3400",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2011-10-11",
+      "validFrom": "2011-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3400",
+      "versions": [
+        {
+          "id": "SKLE9081-original",
+          "shortCode": "SKLE9081",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-11",
+          "effectiveFrom": "2011-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8177"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3400",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

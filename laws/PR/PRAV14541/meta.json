@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14541",
+  "path": "laws/PR/PRAV14541",
+  "members": [
+    {
+      "id": "PRAV14541",
+      "title": "Pravilnik o lokacijski informaciji",
+      "shortTitle": "Pravilnik o lokacijski informaciji",
+      "shortCode": "PRAV14541",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2300",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-07-08",
+      "validFrom": "2022-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2022-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2300",
+      "versions": [
+        {
+          "id": "PRAV14541-original",
+          "shortCode": "PRAV14541",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-07-08",
+          "effectiveFrom": "2022-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2300",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14541-npb-PRAV14541",
+          "shortCode": "PRAV14541-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-07-08",
+          "effectiveFrom": "2022-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14993",
+      "title": "Pravilnik o spremembah Pravilnika o lokacijski informaciji",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o lokacijski informaciji",
+      "shortCode": "PRAV14993",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-2296",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-07-03",
+      "validFrom": "2023-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2296",
+      "versions": [
+        {
+          "id": "PRAV14993-original",
+          "shortCode": "PRAV14993",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-07-03",
+          "effectiveFrom": "2023-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14541"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2296",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

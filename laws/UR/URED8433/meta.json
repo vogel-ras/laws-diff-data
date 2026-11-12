@@ -1,0 +1,97 @@
+{
+  "root": "URED8433",
+  "path": "laws/UR/URED8433",
+  "members": [
+    {
+      "id": "URED8433",
+      "title": "Uredba o izvedbi ukrepov kmetijske politike za leto 2022",
+      "shortTitle": "Uredba o izvedbi ukrepov kmetijske politike za leto 2022",
+      "shortCode": "URED8433",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-0439",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-02-18",
+      "validFrom": "2022-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0439",
+      "versions": [
+        {
+          "id": "URED8433-original",
+          "shortCode": "URED8433",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-18",
+          "effectiveFrom": "2022-02-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0439",
+          "proposer": null
+        },
+        {
+          "id": "URED8433-npb-URED8433",
+          "shortCode": "URED8433-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-02-18",
+          "effectiveFrom": "2022-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8433",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8557",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi ukrepov kmetijske politike za leto 2022",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi ukrepov kmetijske politike za leto 2022",
+      "shortCode": "URED8557",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2664",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-08-19",
+      "validFrom": "2022-08-19",
+      "validTo": null,
+      "latestPublishedAt": "2022-08-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2664",
+      "versions": [
+        {
+          "id": "URED8557-original",
+          "shortCode": "URED8557",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-08-19",
+          "effectiveFrom": "2022-08-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8433"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2664",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

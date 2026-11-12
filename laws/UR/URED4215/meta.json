@@ -1,0 +1,82 @@
+{
+  "root": "URED4215",
+  "path": "laws/UR/URED4215",
+  "members": [
+    {
+      "id": "URED4215",
+      "title": "Uredba o koncesiji za graditev sedežnice Pesnik na Ribniškem Pohorju",
+      "shortTitle": "Uredba o koncesiji za graditev sedežnice Pesnik na Ribniškem Pohorju",
+      "shortCode": "URED4215",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4186",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-09-22",
+      "validFrom": "2006-09-22",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4186",
+      "versions": [
+        {
+          "id": "URED4215-original",
+          "shortCode": "URED4215",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-22",
+          "effectiveFrom": "2006-09-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4186",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4845",
+      "title": "Uredba o spremembah Uredbe o koncesiji za graditev sedežnice Pesnik na Ribniškem Pohorju",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za graditev sedežnice Pesnik na Ribniškem Pohorju",
+      "shortCode": "URED4845",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1582",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-04-18",
+      "validFrom": "2008-04-18",
+      "validTo": null,
+      "latestPublishedAt": "2008-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1582",
+      "versions": [
+        {
+          "id": "URED4845-original",
+          "shortCode": "URED4845",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-04-18",
+          "effectiveFrom": "2008-04-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4215"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1582",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

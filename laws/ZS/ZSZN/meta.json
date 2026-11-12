@@ -1,0 +1,204 @@
+{
+  "root": "ZSZN",
+  "path": "laws/ZS/ZSZN",
+  "members": [
+    {
+      "id": "ZAKO7429",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o strokovnih in znanstvenih naslovih (ZSZN-1A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o strokovnih in znanstvenih naslovih (ZSZN-1A)",
+      "shortCode": "ZSZN-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2524",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-10-06",
+      "validFrom": "2017-10-06",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2524",
+      "versions": [
+        {
+          "id": "ZAKO7429-original",
+          "shortCode": "ZSZN-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-10-06",
+          "effectiveFrom": "2017-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZN-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2524",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSZN",
+      "title": "Zakon o strokovnih in znanstvenih naslovih",
+      "shortTitle": "Zakon o strokovnih in znanstvenih naslovih",
+      "shortCode": "ZSZN",
+      "kind": "zakon",
+      "keywords": [
+        "diploma",
+        "izobraževanje",
+        "podiplomsko izobraževanje",
+        "znanstveno izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2047",
+      "gazette": "Uradni list RS 47/98  str. 3351",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-29",
+      "validFrom": "1998-06-29",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2047",
+      "versions": [
+        {
+          "id": "ZSZN-original",
+          "shortCode": "ZSZN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/98  str. 3351",
+          "publishedAt": "1998-06-29",
+          "effectiveFrom": "1998-06-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2047",
+          "proposer": null
+        },
+        {
+          "id": "ZSZN-amend-ZSZN-A",
+          "shortCode": "ZSZN-A",
+          "label": "Sprememba ZSZN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 55/2003  str. 6476",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2754",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSZN-1",
+      "title": "Zakon o strokovnih in znanstvenih naslovih",
+      "shortTitle": "Zakon o strokovnih in znanstvenih naslovih",
+      "shortCode": "ZSZN-1",
+      "kind": "zakon",
+      "keywords": [
+        "diploma",
+        "izobraževanje",
+        "podiplomsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2571",
+      "gazette": "Uradni list RS 61/06  str. 6638",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-13",
+      "validFrom": "2006-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2017-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2571",
+      "versions": [
+        {
+          "id": "ZSZN-1-original",
+          "shortCode": "ZSZN-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/06  str. 6638",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2571",
+          "proposer": null
+        },
+        {
+          "id": "ZSZN-1-amend-ZAKO7429",
+          "shortCode": "ZSZN-1A",
+          "label": "Sprememba ZSZN-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-10-06",
+          "effectiveFrom": "2017-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZN-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2524",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSZN-A",
+      "title": "Zakon o spremembah zakona o strokovnih in znanstvenih naslovih",
+      "shortTitle": "Zakon o spremembah zakona o strokovnih in znanstvenih naslovih",
+      "shortCode": "ZSZN-A",
+      "kind": "zakon",
+      "keywords": [
+        "visokošolsko izobraževanje",
+        "znanstveno izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2754",
+      "gazette": "Uradni list RS 55/2003  str. 6476",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-09",
+      "validFrom": "2003-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2754",
+      "versions": [
+        {
+          "id": "ZSZN-A-original",
+          "shortCode": "ZSZN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/2003  str. 6476",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2754",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZNKP",
+  "path": "laws/ZN/ZNKP",
+  "members": [
+    {
+      "id": "ZNKP",
+      "title": "Zakon o nekaterih koncesijskih pogodbah",
+      "shortTitle": "Zakon o nekaterih koncesijskih pogodbah",
+      "shortCode": "ZNKP",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0287",
+      "gazette": "Uradni list RS 9/19  str. 623",
+      "issuingBody": null,
+      "adoptedAt": "2019-02-11",
+      "validFrom": "2019-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0287",
+      "versions": [
+        {
+          "id": "ZNKP-original",
+          "shortCode": "ZNKP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/19  str. 623",
+          "publishedAt": "2019-02-11",
+          "effectiveFrom": "2019-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0287",
+          "proposer": null
+        },
+        {
+          "id": "ZNKP-amend-ZNKP-A",
+          "shortCode": "ZNKP-A",
+          "label": "Sprememba ZNKP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 50/23  str. 4219",
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNKP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1573",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNKP-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nekaterih koncesijskih pogodbah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nekaterih koncesijskih pogodbah",
+      "shortCode": "ZNKP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1573",
+      "gazette": "Uradni list RS 50/23  str. 4219",
+      "issuingBody": null,
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1573",
+      "versions": [
+        {
+          "id": "ZNKP-A-original",
+          "shortCode": "ZNKP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/23  str. 4219",
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNKP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1573",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

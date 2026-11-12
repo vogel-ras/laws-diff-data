@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12300",
+  "path": "laws/PR/PRAV12300",
+  "members": [
+    {
+      "id": "PRAV12300",
+      "title": "Pravilnik o tehničnih, strokovnih in organizacijskih pogojih, ki jih morajo izpolnjevati organizacije za izdelavo strokovnih podlag s področja kmetijstva",
+      "shortTitle": "Pravilnik o tehničnih, strokovnih in organizacijskih pogojih, ki jih morajo izpolnjevati organizacije za izdelavo strokovnih podlag s področja kmetijstva",
+      "shortCode": "PRAV12300",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-3399",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2016-12-15",
+      "validFrom": "2016-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3399",
+      "versions": [
+        {
+          "id": "PRAV12300-original",
+          "shortCode": "PRAV12300",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-15",
+          "effectiveFrom": "2016-12-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3399",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12300-npb-PRAV12300",
+          "shortCode": "PRAV12300-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-15",
+          "effectiveFrom": "2016-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12300",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13591",
+      "title": "Pravilnik o spremembi Pravilnika o tehničnih, strokovnih in organizacijskih pogojih, ki jih morajo izpolnjevati organizacije za izdelavo strokovnih podlag s področja kmetijstva",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o tehničnih, strokovnih in organizacijskih pogojih, ki jih morajo izpolnjevati organizacije za izdelavo strokovnih podlag s področja kmetijstva",
+      "shortCode": "PRAV13591",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-0427",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-02-27",
+      "validFrom": "2019-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2019-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0427",
+      "versions": [
+        {
+          "id": "PRAV13591-original",
+          "shortCode": "PRAV13591",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-02-27",
+          "effectiveFrom": "2019-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12300"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0427",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

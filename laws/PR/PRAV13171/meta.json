@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13171",
+  "path": "laws/PR/PRAV13171",
+  "members": [
+    {
+      "id": "PRAV13171",
+      "title": "Pravilnik o zdravstvenih pregledih pomorščakov",
+      "shortTitle": "Pravilnik o zdravstvenih pregledih pomorščakov",
+      "shortCode": "PRAV13171",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-3452",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-02-10",
+      "validFrom": "2025-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3452",
+      "versions": [
+        {
+          "id": "PRAV13171-original",
+          "shortCode": "PRAV13171",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-02-10",
+          "effectiveFrom": "2025-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3452",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13171-npb-PRAV13171",
+          "shortCode": "PRAV13171-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-12-15",
+          "effectiveFrom": "2017-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13171",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13564",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o zdravstvenih pregledih pomorščakov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o zdravstvenih pregledih pomorščakov",
+      "shortCode": "PRAV13564",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0096",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-01-24",
+      "validFrom": "2020-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0096",
+      "versions": [
+        {
+          "id": "PRAV13564-original",
+          "shortCode": "PRAV13564",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-01-24",
+          "effectiveFrom": "2020-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13171"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0096",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

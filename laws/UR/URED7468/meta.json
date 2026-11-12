@@ -1,0 +1,97 @@
+{
+  "root": "URED7468",
+  "path": "laws/UR/URED7468",
+  "members": [
+    {
+      "id": "URED7468",
+      "title": "Uredba o izvajanju šolske sheme",
+      "shortTitle": "Uredba o izvajanju šolske sheme",
+      "shortCode": "URED7468",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-1434",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-05-26",
+      "validFrom": "2017-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2017-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1434",
+      "versions": [
+        {
+          "id": "URED7468-original",
+          "shortCode": "URED7468",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-05-26",
+          "effectiveFrom": "2017-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1434",
+          "proposer": null
+        },
+        {
+          "id": "URED7468-npb-URED7468",
+          "shortCode": "URED7468-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-05-26",
+          "effectiveFrom": "2017-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7468",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7935",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju šolske sheme",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju šolske sheme",
+      "shortCode": "URED7935",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2277",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-07-19",
+      "validFrom": "2019-07-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2277",
+      "versions": [
+        {
+          "id": "URED7935-original",
+          "shortCode": "URED7935",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-07-19",
+          "effectiveFrom": "2019-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7468"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2277",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

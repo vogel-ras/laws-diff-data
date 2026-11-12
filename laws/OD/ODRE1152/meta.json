@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1152",
+  "path": "laws/OD/ODRE1152",
+  "members": [
+    {
+      "id": "ODRE1152",
+      "title": "Odredba o določitvi cen jedilnega olja, sladkorja, jedilne soli, masti in pralnih praškov iz republiških blagovnih rezerv",
+      "shortTitle": "Odredba o določitvi cen jedilnega olja, sladkorja, jedilne soli, masti in pralnih praškov iz republiških blagovnih rezerv",
+      "shortCode": "ODRE1152",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1991-01-0208",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-07-19",
+      "validFrom": "1991-07-19",
+      "validTo": null,
+      "latestPublishedAt": "1991-07-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0208",
+      "versions": [
+        {
+          "id": "ODRE1152-original",
+          "shortCode": "ODRE1152",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-07-19",
+          "effectiveFrom": "1991-07-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1158",
+      "title": "Odredba o spremembi odredbe o določitvi cen jedilnega olja, sladkorja, jedilne soli, masti in pralnih praškov iz republiških blagovnih rezerv",
+      "shortTitle": "Odredba o spremembi odredbe o določitvi cen jedilnega olja, sladkorja, jedilne soli, masti in pralnih praškov iz republiških blagovnih rezerv",
+      "shortCode": "ODRE1158",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1991-01-0416",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-08-16",
+      "validFrom": "1991-08-16",
+      "validTo": null,
+      "latestPublishedAt": "1991-08-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0416",
+      "versions": [
+        {
+          "id": "ODRE1158-original",
+          "shortCode": "ODRE1158",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-08-16",
+          "effectiveFrom": "1991-08-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1152"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0416",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

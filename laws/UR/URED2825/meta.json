@@ -1,0 +1,121 @@
+{
+  "root": "URED2825",
+  "path": "laws/UR/URED2825",
+  "members": [
+    {
+      "id": "URED2825",
+      "title": "Uredba o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortTitle": "Uredba o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortCode": "URED2825",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0734",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-03-25",
+      "validFrom": "2005-03-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-03-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0734",
+      "versions": [
+        {
+          "id": "URED2825-original",
+          "shortCode": "URED2825",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-03-25",
+          "effectiveFrom": "2005-03-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0734",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3189",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortCode": "URED3189",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1029",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-03-25",
+      "validFrom": "2005-03-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-03-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1029",
+      "versions": [
+        {
+          "id": "URED3189-original",
+          "shortCode": "URED3189",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-03-25",
+          "effectiveFrom": "2005-03-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2825"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1029",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4658",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o dovoljenjih in soglasjih za promet in proizvodnjo vojaškega orožja in opreme",
+      "shortCode": "URED4658",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5639",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-11",
+      "validFrom": "2007-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5639",
+      "versions": [
+        {
+          "id": "URED4658-original",
+          "shortCode": "URED4658",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-11",
+          "effectiveFrom": "2007-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2825"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5639",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

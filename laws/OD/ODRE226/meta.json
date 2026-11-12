@@ -1,0 +1,121 @@
+{
+  "root": "ODRE226",
+  "path": "laws/OD/ODRE226",
+  "members": [
+    {
+      "id": "ODRE226",
+      "title": "Pravilnik o osebni varovalni opremi",
+      "shortTitle": "Pravilnik o osebni varovalni opremi",
+      "shortCode": "ODRE226",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-4076",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarske dejavnosti",
+      "adoptedAt": "2000-10-20",
+      "validFrom": "2000-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2000-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4076",
+      "versions": [
+        {
+          "id": "ODRE226-original",
+          "shortCode": "ODRE226",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-10-20",
+          "effectiveFrom": "2000-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4076",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10571",
+      "title": "Pravilnik o spremembah Pravilnika o osebni varovalni opremi",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o osebni varovalni opremi",
+      "shortCode": "PRAV10571",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-3241",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-09-30",
+      "validFrom": "2011-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2011-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3241",
+      "versions": [
+        {
+          "id": "PRAV10571-original",
+          "shortCode": "PRAV10571",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-09-30",
+          "effectiveFrom": "2011-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE226"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3241",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7435",
+      "title": "Pravilnik o spremembah Pravilnika o osebni varovalni opremi",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o osebni varovalni opremi",
+      "shortCode": "PRAV7435",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-0902",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-03",
+      "validFrom": "2006-03-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0902",
+      "versions": [
+        {
+          "id": "PRAV7435-original",
+          "shortCode": "PRAV7435",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-03",
+          "effectiveFrom": "2006-03-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE226"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0902",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

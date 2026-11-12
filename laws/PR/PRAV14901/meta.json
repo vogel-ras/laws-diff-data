@@ -1,0 +1,121 @@
+{
+  "root": "PRAV14901",
+  "path": "laws/PR/PRAV14901",
+  "members": [
+    {
+      "id": "PRAV14901",
+      "title": "Pravilnik o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortTitle": "Pravilnik o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortCode": "PRAV14901",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-0366",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-24",
+      "validFrom": "2025-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0366",
+      "versions": [
+        {
+          "id": "PRAV14901-original",
+          "shortCode": "PRAV14901",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-24",
+          "effectiveFrom": "2025-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0366",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15301",
+      "title": "Pravilnik o spremembah Pravilnika o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortCode": "PRAV15301",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0929",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2024-04-12",
+      "validFrom": "2024-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0929",
+      "versions": [
+        {
+          "id": "PRAV15301-original",
+          "shortCode": "PRAV15301",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14901"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0929",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15667",
+      "title": "Pravilnik o spremembah Pravilnika o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izračunu standardnega prihodka kmetijskih gospodarstev",
+      "shortCode": "PRAV15667",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0595",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-03-24",
+      "validFrom": "2025-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0595",
+      "versions": [
+        {
+          "id": "PRAV15667-original",
+          "shortCode": "PRAV15667",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-24",
+          "effectiveFrom": "2025-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14901"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0595",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

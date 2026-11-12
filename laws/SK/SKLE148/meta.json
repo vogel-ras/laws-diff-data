@@ -1,0 +1,82 @@
+{
+  "root": "SKLE148",
+  "path": "laws/SK/SKLE148",
+  "members": [
+    {
+      "id": "SKLE148",
+      "title": "Sklep o sofinanciranju podiplomskega študija",
+      "shortTitle": "Sklep o sofinanciranju podiplomskega študija",
+      "shortCode": "SKLE148",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1998-01-1829",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-05-30",
+      "validFrom": "1998-05-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1829",
+      "versions": [
+        {
+          "id": "SKLE148-original",
+          "shortCode": "SKLE148",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-05-30",
+          "effectiveFrom": "1998-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1829",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4114",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o sofinanciranju podiplomskega študija",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o sofinanciranju podiplomskega študija",
+      "shortCode": "SKLE4114",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3240",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-07-11",
+      "validFrom": "2003-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3240",
+      "versions": [
+        {
+          "id": "SKLE4114-original",
+          "shortCode": "SKLE4114",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-07-11",
+          "effectiveFrom": "2003-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE148"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3240",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

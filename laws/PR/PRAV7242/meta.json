@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7242",
+  "path": "laws/PR/PRAV7242",
+  "members": [
+    {
+      "id": "PRAV7242",
+      "title": "Pravilnik o stopnjah običajnega odpisa blaga v proizvodnji pijač (primanjkljaj in uničenje iz naslova kala, razsipa ali razlitja, razbitja in okvare blaga)",
+      "shortTitle": "Pravilnik o stopnjah običajnega odpisa blaga v proizvodnji pijač (primanjkljaj in uničenje iz naslova kala, razsipa ali razlitja, razbitja in okvare blaga)",
+      "shortCode": "PRAV7242",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-4602",
+      "gazette": null,
+      "issuingBody": "Gospodarska zbornica Slovenije",
+      "adoptedAt": "2005-11-25",
+      "validFrom": "2005-11-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4602",
+      "versions": [
+        {
+          "id": "PRAV7242-original",
+          "shortCode": "PRAV7242",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-11-25",
+          "effectiveFrom": "2005-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4602",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7672",
+      "title": "Pravilnik o spremembi Pravilnika o stopnjah običajnega odpisa blaga v proizvodnji pijač (primanjkljaj in uničenje iz naslova kala, razsipa ali razlitja, razbitja in okvare blaga)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o stopnjah običajnega odpisa blaga v proizvodnji pijač (primanjkljaj in uničenje iz naslova kala, razsipa ali razlitja, razbitja in okvare blaga)",
+      "shortCode": "PRAV7672",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1362",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-30",
+      "validFrom": "2006-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1362",
+      "versions": [
+        {
+          "id": "PRAV7672-original",
+          "shortCode": "PRAV7672",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-30",
+          "effectiveFrom": "2006-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7242"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1362",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

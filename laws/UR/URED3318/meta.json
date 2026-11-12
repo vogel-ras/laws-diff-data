@@ -1,0 +1,97 @@
+{
+  "root": "URED3318",
+  "path": "laws/UR/URED3318",
+  "members": [
+    {
+      "id": "URED3318",
+      "title": "Uredba o organizacijah za ugotavljanje skladnosti za potrebe ureditev kmetijskih trgov",
+      "shortTitle": "Uredba o organizacijah za ugotavljanje skladnosti za potrebe ureditev kmetijskih trgov",
+      "shortCode": "URED3318",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1624",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-16",
+      "validFrom": "2004-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1624",
+      "versions": [
+        {
+          "id": "URED3318-original",
+          "shortCode": "URED3318",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-16",
+          "effectiveFrom": "2004-04-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1624",
+          "proposer": null
+        },
+        {
+          "id": "URED3318-npb-URED3318",
+          "shortCode": "URED3318-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-04-16",
+          "effectiveFrom": "2004-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3318",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3505",
+      "title": "Uredba o spremembi Uredbe o organizacijah za ugotavljanje skladnosti za potrebe ureditev kmetijskih trgov",
+      "shortTitle": "Uredba o spremembi Uredbe o organizacijah za ugotavljanje skladnosti za potrebe ureditev kmetijskih trgov",
+      "shortCode": "URED3505",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4409",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-09-23",
+      "validFrom": "2004-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2004-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4409",
+      "versions": [
+        {
+          "id": "URED3505-original",
+          "shortCode": "URED3505",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-09-23",
+          "effectiveFrom": "2004-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3318"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4409",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

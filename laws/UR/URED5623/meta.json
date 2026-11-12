@@ -1,0 +1,121 @@
+{
+  "root": "URED5623",
+  "path": "laws/UR/URED5623",
+  "members": [
+    {
+      "id": "URED5623",
+      "title": "Uredba o sofinanciranju doktorskega študija",
+      "shortTitle": "Uredba o sofinanciranju doktorskega študija",
+      "shortCode": "URED5623",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-4749",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-11-05",
+      "validFrom": "2010-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4749",
+      "versions": [
+        {
+          "id": "URED5623-original",
+          "shortCode": "URED5623",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-05",
+          "effectiveFrom": "2010-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4749",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6176",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sofinanciranju doktorskega študija",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sofinanciranju doktorskega študija",
+      "shortCode": "URED6176",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-2589",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2012-08-24",
+      "validFrom": "2012-08-24",
+      "validTo": null,
+      "latestPublishedAt": "2012-08-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2589",
+      "versions": [
+        {
+          "id": "URED6176-original",
+          "shortCode": "URED6176",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-08-24",
+          "effectiveFrom": "2012-08-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5623"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2589",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8088",
+      "title": "Uredba o spremembi Uredbe o sofinanciranju doktorskega študija",
+      "shortTitle": "Uredba o spremembi Uredbe o sofinanciranju doktorskega študija",
+      "shortCode": "URED8088",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-1981",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-07-27",
+      "validFrom": "2020-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1981",
+      "versions": [
+        {
+          "id": "URED8088-original",
+          "shortCode": "URED8088",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-07-27",
+          "effectiveFrom": "2020-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5623"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1981",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED2205",
+  "path": "laws/UR/URED2205",
+  "members": [
+    {
+      "id": "URED2205",
+      "title": "Uredba o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin in razvoja tehnične infrastrukture na področju medijev",
+      "shortTitle": "Uredba o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin in razvoja tehnične infrastrukture na področju medijev",
+      "shortCode": "URED2205",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2563",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-06-14",
+      "validFrom": "2002-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2563",
+      "versions": [
+        {
+          "id": "URED2205-original",
+          "shortCode": "URED2205",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-14",
+          "effectiveFrom": "2002-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2563",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3334",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin in razvoja tehnične infrastrukture na področju medijev",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvedbi rednega letnega javnega razpisa za sofinanciranje ustvarjanja programskih vsebin in razvoja tehnične infrastrukture na področju medijev",
+      "shortCode": "URED3334",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1544",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-09",
+      "validFrom": "2004-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1544",
+      "versions": [
+        {
+          "id": "URED3334-original",
+          "shortCode": "URED3334",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-09",
+          "effectiveFrom": "2004-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2205"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1544",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

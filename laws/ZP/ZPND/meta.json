@@ -1,0 +1,104 @@
+{
+  "root": "ZPND",
+  "path": "laws/ZP/ZPND",
+  "members": [
+    {
+      "id": "ZPND",
+      "title": "Zakon o preprečevanju nasilja v družini",
+      "shortTitle": "Zakon o preprečevanju nasilja v družini",
+      "shortCode": "ZPND",
+      "kind": "zakon",
+      "keywords": [
+        "družinsko nasilje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-0487",
+      "gazette": "Uradni list RS 16/08  str. 1148",
+      "issuingBody": null,
+      "adoptedAt": "2008-02-15",
+      "validFrom": "2008-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0487",
+      "versions": [
+        {
+          "id": "ZPND-original",
+          "shortCode": "ZPND",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/08  str. 1148",
+          "publishedAt": "2008-02-15",
+          "effectiveFrom": "2008-02-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0487",
+          "proposer": null
+        },
+        {
+          "id": "ZPND-amend-ZPND-A",
+          "shortCode": "ZPND-A",
+          "label": "Sprememba ZPND-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 68/16  str. 9445",
+          "publishedAt": "2016-11-04",
+          "effectiveFrom": "2016-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPND"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2931",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPND-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju nasilja v družini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preprečevanju nasilja v družini",
+      "shortCode": "ZPND-A",
+      "kind": "zakon",
+      "keywords": [
+        "družina",
+        "nasilje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2931",
+      "gazette": "Uradni list RS 68/16  str. 9445",
+      "issuingBody": null,
+      "adoptedAt": "2016-11-04",
+      "validFrom": "2016-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2931",
+      "versions": [
+        {
+          "id": "ZPND-A-original",
+          "shortCode": "ZPND-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/16  str. 9445",
+          "publishedAt": "2016-11-04",
+          "effectiveFrom": "2016-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPND"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2931",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZIUGDT",
+  "path": "laws/ZI/ZIUGDT",
+  "members": [
+    {
+      "id": "ZAKO7524",
+      "title": "Zakon o izgradnji, upravljanju in gospodarjenju z drugim tirom železniške proge Divača–Koper (ZIUGDT)",
+      "shortTitle": "Zakon o izgradnji, upravljanju in gospodarjenju z drugim tirom železniške proge Divača–Koper (ZIUGDT)",
+      "shortCode": "ZIUGDT",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-2625",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-11",
+      "validFrom": "2024-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2625",
+      "versions": [
+        {
+          "id": "ZAKO7524-amend-ZIUGDT-A",
+          "shortCode": "ZIUGDT-A",
+          "label": "Sprememba ZIUGDT-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9145",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7524"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2873",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7524-original",
+          "shortCode": "ZIUGDT",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-11-11",
+          "effectiveFrom": "2024-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2625",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIUGDT-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izgradnji, upravljanju in gospodarjenju z drugim tirom železniške proge Divača–Koper",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izgradnji, upravljanju in gospodarjenju z drugim tirom železniške proge Divača–Koper",
+      "shortCode": "ZIUGDT-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2873",
+      "gazette": "Uradni list RS 95/24  str. 9145",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-08",
+      "validFrom": "2024-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2873",
+      "versions": [
+        {
+          "id": "ZIUGDT-A-original",
+          "shortCode": "ZIUGDT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 95/24  str. 9145",
+          "publishedAt": "2024-11-08",
+          "effectiveFrom": "2024-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7524"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2873",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

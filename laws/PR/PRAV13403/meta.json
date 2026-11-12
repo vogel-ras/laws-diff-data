@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13403",
+  "path": "laws/PR/PRAV13403",
+  "members": [
+    {
+      "id": "PRAV13403",
+      "title": "Pravilnik o posebnih zahtevah varstva pred sevanji in načinu ocene doz",
+      "shortTitle": "Pravilnik o posebnih zahtevah varstva pred sevanji in načinu ocene doz",
+      "shortCode": "PRAV13403",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2424",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-07-06",
+      "validFrom": "2018-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2424",
+      "versions": [
+        {
+          "id": "PRAV13403-original",
+          "shortCode": "PRAV13403",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-07-06",
+          "effectiveFrom": "2018-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2424",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13403-npb-PRAV13403",
+          "shortCode": "PRAV13403-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-07-06",
+          "effectiveFrom": "2018-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14185",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o posebnih zahtevah varstva pred sevanji in načinu ocene doz",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o posebnih zahtevah varstva pred sevanji in načinu ocene doz",
+      "shortCode": "PRAV14185",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0633",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-03-04",
+      "validFrom": "2021-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0633",
+      "versions": [
+        {
+          "id": "PRAV14185-original",
+          "shortCode": "PRAV14185",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-03-04",
+          "effectiveFrom": "2021-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13403"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0633",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

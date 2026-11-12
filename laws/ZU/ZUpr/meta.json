@@ -1,0 +1,45 @@
+{
+  "root": "ZUpr",
+  "path": "laws/ZU/ZUpr",
+  "members": [
+    {
+      "id": "ZUpr",
+      "title": "Zakon o upravi",
+      "shortTitle": "Zakon o upravi",
+      "shortCode": "ZUpr",
+      "kind": "zakon",
+      "keywords": [
+        "javna uprava"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2393",
+      "gazette": "Uradni list RS 67/94  str. 3720",
+      "issuingBody": null,
+      "adoptedAt": "1994-10-27",
+      "validFrom": "1994-10-27",
+      "validTo": null,
+      "latestPublishedAt": "1994-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2393",
+      "versions": [
+        {
+          "id": "ZUpr-original",
+          "shortCode": "ZUpr",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/94  str. 3720",
+          "publishedAt": "1994-10-27",
+          "effectiveFrom": "1994-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2393",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

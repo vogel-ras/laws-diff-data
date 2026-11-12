@@ -1,0 +1,97 @@
+{
+  "root": "ODLO265",
+  "path": "ordinances/OD/ODLO265",
+  "members": [
+    {
+      "id": "ODLO1289",
+      "title": "Odlok o spremembi odloka o razglasitvi Domačije Vešner za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi Domačije Vešner za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1289",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-2699",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-06-06",
+      "validFrom": "2003-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2699",
+      "versions": [
+        {
+          "id": "ODLO1289-original",
+          "shortCode": "ODLO1289",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-06",
+          "effectiveFrom": "2003-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO265"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2699",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO265",
+      "title": "Odlok o razglasitvi Domačije Vešner za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Domačije Vešner za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO265",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3844",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-10-05",
+      "validFrom": "1999-10-05",
+      "validTo": null,
+      "latestPublishedAt": "1999-10-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3844",
+      "versions": [
+        {
+          "id": "ODLO265-original",
+          "shortCode": "ODLO265",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-10-05",
+          "effectiveFrom": "1999-10-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3844",
+          "proposer": null
+        },
+        {
+          "id": "ODLO265-npb-ODLO265",
+          "shortCode": "ODLO265-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-05",
+          "effectiveFrom": "1999-10-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO265",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

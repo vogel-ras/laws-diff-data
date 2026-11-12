@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13934",
+  "path": "laws/PR/PRAV13934",
+  "members": [
+    {
+      "id": "PRAV13934",
+      "title": "Pravilnik o diplomatski, konzularni in službeni izkaznici",
+      "shortTitle": "Pravilnik o diplomatski, konzularni in službeni izkaznici",
+      "shortCode": "PRAV13934",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-0507",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-03-10",
+      "validFrom": "2020-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0507",
+      "versions": [
+        {
+          "id": "PRAV13934-original",
+          "shortCode": "PRAV13934",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-03-10",
+          "effectiveFrom": "2020-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0507",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9731",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatski, konzularni in službeni izkaznici",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatski, konzularni in službeni izkaznici",
+      "shortCode": "PRAV9731",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3293",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-29",
+      "validFrom": "2009-09-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3293",
+      "versions": [
+        {
+          "id": "PRAV9731-original",
+          "shortCode": "PRAV9731",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-29",
+          "effectiveFrom": "2009-09-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13934"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3293",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

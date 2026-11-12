@@ -1,0 +1,47 @@
+{
+  "root": "ZIPRS-A",
+  "path": "laws/ZI/ZIPRS-A",
+  "members": [
+    {
+      "id": "ZIPRS-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvrševanju proračuna Republike Slovenije",
+      "shortCode": "ZIPRS-A",
+      "kind": "zakon",
+      "keywords": [
+        "izvrševanje proračuna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3694",
+      "gazette": "Uradni list RS 78/97  str. 6645",
+      "issuingBody": null,
+      "adoptedAt": "1997-10-12",
+      "validFrom": "1997-10-12",
+      "validTo": null,
+      "latestPublishedAt": "1997-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3694",
+      "versions": [
+        {
+          "id": "ZIPRS-A-original",
+          "shortCode": "ZIPRS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/97  str. 6645",
+          "publishedAt": "1997-10-12",
+          "effectiveFrom": "1997-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO800"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3694",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "URED6060",
+  "path": "laws/UR/URED6060",
+  "members": [
+    {
+      "id": "URED6060",
+      "title": "Uredba o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortTitle": "Uredba o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortCode": "URED6060",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-3443",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-11-16",
+      "validFrom": "2012-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3443",
+      "versions": [
+        {
+          "id": "URED6060-original",
+          "shortCode": "URED6060",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-11-16",
+          "effectiveFrom": "2012-11-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3443",
+          "proposer": null
+        },
+        {
+          "id": "URED6060-npb-URED6060",
+          "shortCode": "URED6060-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-11-16",
+          "effectiveFrom": "2012-11-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6060",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6962",
+      "title": "Uredba o spremembi Uredbe o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortTitle": "Uredba o spremembi Uredbe o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortCode": "URED6962",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-3716",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-22",
+      "validFrom": "2017-12-22",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3716",
+      "versions": [
+        {
+          "id": "URED6962-original",
+          "shortCode": "URED6962",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-22",
+          "effectiveFrom": "2017-12-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6060"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3716",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8004",
+      "title": "Uredba o spremembi Uredbe o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortTitle": "Uredba o spremembi Uredbe o metodologiji za oblikovanje cen storitev obveznih občinskih gospodarskih javnih služb varstva okolja",
+      "shortCode": "URED8004",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-3494",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-12-20",
+      "validFrom": "2019-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3494",
+      "versions": [
+        {
+          "id": "URED8004-original",
+          "shortCode": "URED8004",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-20",
+          "effectiveFrom": "2019-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6060"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3494",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

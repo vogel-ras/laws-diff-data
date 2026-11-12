@@ -1,0 +1,157 @@
+{
+  "root": "ZPPPK",
+  "path": "laws/ZP/ZPPPK",
+  "members": [
+    {
+      "id": "ZPPPK",
+      "title": "Zakon o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortTitle": "Zakon o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortCode": "ZPPPK",
+      "kind": "zakon",
+      "keywords": [
+        "poklicna kvalifikacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1704",
+      "gazette": "Uradni list RS 39/16  str. 5865",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-03",
+      "validFrom": "2016-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1704",
+      "versions": [
+        {
+          "id": "ZPPPK-original",
+          "shortCode": "ZPPPK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/16  str. 5865",
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1704",
+          "proposer": null
+        },
+        {
+          "id": "ZPPPK-amend-ZPPPK-A",
+          "shortCode": "ZPPPK-A",
+          "label": "Sprememba ZPPPK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 47/19  str. 5889",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPPPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2288",
+          "proposer": null
+        },
+        {
+          "id": "ZPPPK-amend-ZPPPK-C",
+          "shortCode": "ZPPPK-C",
+          "label": "Sprememba ZPPPK-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 76/23  str. 6671",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2387",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPPK-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortCode": "ZPPPK-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2288",
+      "gazette": "Uradni list RS 47/19  str. 5889",
+      "issuingBody": null,
+      "adoptedAt": "2019-07-26",
+      "validFrom": "2019-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2019-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2288",
+      "versions": [
+        {
+          "id": "ZPPPK-A-original",
+          "shortCode": "ZPPPK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/19  str. 5889",
+          "publishedAt": "2019-07-26",
+          "effectiveFrom": "2019-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPPK-C",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o postopku priznavanja poklicnih kvalifikacij za opravljanje reguliranih poklicev",
+      "shortCode": "ZPPPK-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2387",
+      "gazette": "Uradni list RS 76/23  str. 6671",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2387",
+      "versions": [
+        {
+          "id": "ZPPPK-C-original",
+          "shortCode": "ZPPPK-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6671",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2387",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

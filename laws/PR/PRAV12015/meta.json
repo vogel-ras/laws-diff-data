@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12015",
+  "path": "laws/PR/PRAV12015",
+  "members": [
+    {
+      "id": "PRAV12015",
+      "title": "Pravilnik o vsebini in načinu predložitve letnega poročila političnih strank",
+      "shortTitle": "Pravilnik o vsebini in načinu predložitve letnega poročila političnih strank",
+      "shortCode": "PRAV12015",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-2089",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2014-07-04",
+      "validFrom": "2014-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2089",
+      "versions": [
+        {
+          "id": "PRAV12015-original",
+          "shortCode": "PRAV12015",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-04",
+          "effectiveFrom": "2014-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2089",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12015-npb-PRAV12015",
+          "shortCode": "PRAV12015-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-07-04",
+          "effectiveFrom": "2014-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15220",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini in načinu predložitve letnega poročila političnih strank",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini in načinu predložitve letnega poročila političnih strank",
+      "shortCode": "PRAV15220",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1312",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2024-05-10",
+      "validFrom": "2024-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1312",
+      "versions": [
+        {
+          "id": "PRAV15220-original",
+          "shortCode": "PRAV15220",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-05-10",
+          "effectiveFrom": "2024-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12015"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1312",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

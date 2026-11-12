@@ -1,0 +1,82 @@
+{
+  "root": "PRAV6509",
+  "path": "laws/PR/PRAV6509",
+  "members": [
+    {
+      "id": "PRAV6509",
+      "title": "Pravilnik o izdaji energetskega dovoljenja",
+      "shortTitle": "Pravilnik o izdaji energetskega dovoljenja",
+      "shortCode": "PRAV6509",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-0171",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2007-01-19",
+      "validFrom": "2007-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2007-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0171",
+      "versions": [
+        {
+          "id": "PRAV6509-original",
+          "shortCode": "PRAV6509",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-01-19",
+          "effectiveFrom": "2007-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0171",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9677",
+      "title": "Pravilnik o spremembah Pravilnika o izdaji energetskega dovoljenja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izdaji energetskega dovoljenja",
+      "shortCode": "PRAV9677",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3072",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-08-24",
+      "validFrom": "2009-08-24",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3072",
+      "versions": [
+        {
+          "id": "PRAV9677-original",
+          "shortCode": "PRAV9677",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-24",
+          "effectiveFrom": "2009-08-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6509"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3072",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "PRAV213",
+  "path": "laws/PR/PRAV213",
+  "members": [
+    {
+      "id": "PRAV12405",
+      "title": "Pravilnik o spremembah Pravilnika o žganih pijačah",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o žganih pijačah",
+      "shortCode": "PRAV12405",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1331",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2015-05-08",
+      "validFrom": "2015-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2015-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1331",
+      "versions": [
+        {
+          "id": "PRAV12405-original",
+          "shortCode": "PRAV12405",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-05-08",
+          "effectiveFrom": "2015-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV213"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1331",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV213",
+      "title": "Pravilnik o žganih pijačah",
+      "shortTitle": "Pravilnik o žganih pijačah",
+      "shortCode": "PRAV213",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2442",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-05-29",
+      "validFrom": "2003-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2442",
+      "versions": [
+        {
+          "id": "PRAV213-original",
+          "shortCode": "PRAV213",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-29",
+          "effectiveFrom": "2003-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9344",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o žganih pijačah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o žganih pijačah",
+      "shortCode": "PRAV9344",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0192",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-01-30",
+      "validFrom": "2009-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0192",
+      "versions": [
+        {
+          "id": "PRAV9344-original",
+          "shortCode": "PRAV9344",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-01-30",
+          "effectiveFrom": "2009-01-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV213"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0192",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

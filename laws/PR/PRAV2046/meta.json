@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2046",
+  "path": "laws/PR/PRAV2046",
+  "members": [
+    {
+      "id": "PRAV2046",
+      "title": "Pravilnik o zapisniku o nadzoru nad prevozom nevarnega blaga",
+      "shortTitle": "Pravilnik o zapisniku o nadzoru nad prevozom nevarnega blaga",
+      "shortCode": "PRAV2046",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-0128",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2000-01-14",
+      "validFrom": "2000-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2000-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0128",
+      "versions": [
+        {
+          "id": "PRAV2046-original",
+          "shortCode": "PRAV2046",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-01-14",
+          "effectiveFrom": "2000-01-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0128",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4604",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o zapisniku o nadzoru nad prevozom nevarnega blaga",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o zapisniku o nadzoru nad prevozom nevarnega blaga",
+      "shortCode": "PRAV4604",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0006",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-01-09",
+      "validFrom": "2003-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0006",
+      "versions": [
+        {
+          "id": "PRAV4604-original",
+          "shortCode": "PRAV4604",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-09",
+          "effectiveFrom": "2003-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2046"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0006",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

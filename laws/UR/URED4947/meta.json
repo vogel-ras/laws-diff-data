@@ -1,0 +1,97 @@
+{
+  "root": "URED4947",
+  "path": "laws/UR/URED4947",
+  "members": [
+    {
+      "id": "URED4947",
+      "title": "Uredba o objavah v postopkih zaradi insolventnosti",
+      "shortTitle": "Uredba o objavah v postopkih zaradi insolventnosti",
+      "shortCode": "URED4947",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3805",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-09-19",
+      "validFrom": "2008-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3805",
+      "versions": [
+        {
+          "id": "URED4947-original",
+          "shortCode": "URED4947",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-19",
+          "effectiveFrom": "2008-09-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3805",
+          "proposer": null
+        },
+        {
+          "id": "URED4947-npb-URED4947",
+          "shortCode": "URED4947-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-09-19",
+          "effectiveFrom": "2008-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4947",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5232",
+      "title": "Uredba o spremembah Uredbe o objavah v postopkih zaradi insolventnosti",
+      "shortTitle": "Uredba o spremembah Uredbe o objavah v postopkih zaradi insolventnosti",
+      "shortCode": "URED5232",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2422",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-26",
+      "validFrom": "2009-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2422",
+      "versions": [
+        {
+          "id": "URED5232-original",
+          "shortCode": "URED5232",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-26",
+          "effectiveFrom": "2009-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4947"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2422",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

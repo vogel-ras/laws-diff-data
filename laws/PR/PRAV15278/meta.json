@@ -1,0 +1,82 @@
+{
+  "root": "PRAV15278",
+  "path": "laws/PR/PRAV15278",
+  "members": [
+    {
+      "id": "PRAV15278",
+      "title": "Pravilnik o določitvi dodatka za povečan obseg dela za posebne obremenitve",
+      "shortTitle": "Pravilnik o določitvi dodatka za povečan obseg dela za posebne obremenitve",
+      "shortCode": "PRAV15278",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0288",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-02-26",
+      "validFrom": "2025-02-26",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0288",
+      "versions": [
+        {
+          "id": "PRAV15278-original",
+          "shortCode": "PRAV15278",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-02-26",
+          "effectiveFrom": "2025-02-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15299",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o določitvi dodatka za povečan obseg dela za posebne obremenitve",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o določitvi dodatka za povečan obseg dela za posebne obremenitve",
+      "shortCode": "PRAV15299",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0712",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2024-03-22",
+      "validFrom": "2024-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0712",
+      "versions": [
+        {
+          "id": "PRAV15299-original",
+          "shortCode": "PRAV15299",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-22",
+          "effectiveFrom": "2024-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15278"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0712",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

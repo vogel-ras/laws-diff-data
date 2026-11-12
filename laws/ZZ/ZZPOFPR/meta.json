@@ -1,0 +1,102 @@
+{
+  "root": "ZZPOFPR",
+  "path": "laws/ZZ/ZZPOFPR",
+  "members": [
+    {
+      "id": "ZZPOFPR",
+      "title": "Zakon o zagotavljanju pogojev za opravljanje funkcije predsednika republike",
+      "shortTitle": "Zakon o zagotavljanju pogojev za opravljanje funkcije predsednika republike",
+      "shortCode": "ZZPOFPR",
+      "kind": "zakon",
+      "keywords": [
+        "predsednik",
+        "republika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0588",
+      "gazette": "Uradni list RS 15/2003  str. 2106",
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0588",
+      "versions": [
+        {
+          "id": "ZZPOFPR-original",
+          "shortCode": "ZZPOFPR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/2003  str. 2106",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0588",
+          "proposer": null
+        },
+        {
+          "id": "ZZPOFPR-amend-ZZPOFPR-A",
+          "shortCode": "ZZPOFPR-A",
+          "label": "Sprememba ZZPOFPR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 109/12  str. 12143",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZPOFPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4328",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZPOFPR-A",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o zagotavljanju pogojev za opravljanje funkcije predsednika republike",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o zagotavljanju pogojev za opravljanje funkcije predsednika republike",
+      "shortCode": "ZZPOFPR-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4328",
+      "gazette": "Uradni list RS 109/12  str. 12143",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4328",
+      "versions": [
+        {
+          "id": "ZZPOFPR-A-original",
+          "shortCode": "ZZPOFPR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12143",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZPOFPR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4328",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12764",
+  "path": "laws/PR/PRAV12764",
+  "members": [
+    {
+      "id": "PRAV12764",
+      "title": "Pravilnik o elektronskem vročanju v davčnih zadevah",
+      "shortTitle": "Pravilnik o elektronskem vročanju v davčnih zadevah",
+      "shortCode": "PRAV12764",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-4091",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2015-12-24",
+      "validFrom": "2015-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4091",
+      "versions": [
+        {
+          "id": "PRAV12764-original",
+          "shortCode": "PRAV12764",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4091",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12764-npb-PRAV12764",
+          "shortCode": "PRAV12764-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12764",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14900",
+      "title": "Pravilnik o spremembi Pravilnika o elektronskem vročanju v davčnih zadevah",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o elektronskem vročanju v davčnih zadevah",
+      "shortCode": "PRAV14900",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-4273",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2022-12-30",
+      "validFrom": "2022-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4273",
+      "versions": [
+        {
+          "id": "PRAV14900-original",
+          "shortCode": "PRAV14900",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-30",
+          "effectiveFrom": "2022-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12764"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4273",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

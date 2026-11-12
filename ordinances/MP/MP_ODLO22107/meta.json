@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO22107",
+  "path": "ordinances/MP/MP_ODLO22107",
+  "members": [
+    {
+      "id": "MP_ODLO22107",
+      "title": "Odlok o socialno varstvenih pomočeh iz sredstev proračuna Občine Kostanjevica na Krki (ODLO)",
+      "shortTitle": "Odlok o socialno varstvenih pomočeh iz sredstev proračuna Občine Kostanjevica na Krki (ODLO)",
+      "shortCode": "MP_ODLO22107",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2008-01-1379",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1379",
+      "versions": [
+        {
+          "id": "MP_ODLO22107-original",
+          "shortCode": "MP_ODLO22107",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1379",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO27090",
+      "title": "Odlok o spremembah Odloka o socialno varstvenih pomočeh iz sredstev proračuna Občine Kostanjevica na Krki (ODLO)",
+      "shortTitle": "Odlok o spremembah Odloka o socialno varstvenih pomočeh iz sredstev proračuna Občine Kostanjevica na Krki (ODLO)",
+      "shortCode": "MP_ODLO27090",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Kostanjevica na Krki",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2009-01-0778",
+      "gazette": null,
+      "issuingBody": "Občina Kostanjevica na Krki",
+      "adoptedAt": "2009-03-16",
+      "validFrom": "2009-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0778",
+      "versions": [
+        {
+          "id": "MP_ODLO27090-original",
+          "shortCode": "MP_ODLO27090",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-16",
+          "effectiveFrom": "2009-03-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO22107"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0778",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

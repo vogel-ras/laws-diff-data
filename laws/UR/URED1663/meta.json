@@ -1,0 +1,82 @@
+{
+  "root": "URED1663",
+  "path": "laws/UR/URED1663",
+  "members": [
+    {
+      "id": "URED1663",
+      "title": "Uredba o postopkih prodaje in drugih oblikah razpolaganja z državnim premoženjem",
+      "shortTitle": "Uredba o postopkih prodaje in drugih oblikah razpolaganja z državnim premoženjem",
+      "shortCode": "URED1663",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2629",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-06-12",
+      "validFrom": "2001-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2001-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2629",
+      "versions": [
+        {
+          "id": "URED1663-original",
+          "shortCode": "URED1663",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-06-12",
+          "effectiveFrom": "2001-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2629",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1729",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o postopkih prodaje in drugih oblikah razpolaganja z državnim premoženjem",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o postopkih prodaje in drugih oblikah razpolaganja z državnim premoženjem",
+      "shortCode": "URED1729",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-3265",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-27",
+      "validFrom": "2001-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3265",
+      "versions": [
+        {
+          "id": "URED1729-original",
+          "shortCode": "URED1729",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-27",
+          "effectiveFrom": "2001-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1663"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3265",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

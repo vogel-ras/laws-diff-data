@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO45352",
+  "path": "ordinances/MP/MP_ODLO45352",
+  "members": [
+    {
+      "id": "MP_ODLO45352",
+      "title": "Odlok o koncesiji za izvajanje javne službe upravljanja s spomeniškimi območji in varstva nepremične dediščine v Občini Komen (ODLO)",
+      "shortTitle": "Odlok o koncesiji za izvajanje javne službe upravljanja s spomeniškimi območji in varstva nepremične dediščine v Občini Komen (ODLO)",
+      "shortCode": "MP_ODLO45352",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2021-01-0051",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0051",
+      "versions": [
+        {
+          "id": "MP_ODLO45352-original",
+          "shortCode": "MP_ODLO45352",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0051",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO60499",
+      "title": "Odlok o spremembi Odloka o koncesiji za izvajanje javne službe upravljanja s spomeniškimi območji in varstva nepremične dediščine v Občini Komen",
+      "shortTitle": "Odlok o spremembi Odloka o koncesiji za izvajanje javne službe upravljanja s spomeniškimi območji in varstva nepremične dediščine v Občini Komen",
+      "shortCode": "MP_ODLO60499",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Komen",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2026-01-0635",
+      "gazette": null,
+      "issuingBody": "Občina Komen",
+      "adoptedAt": "2026-02-27",
+      "validFrom": "2026-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0635",
+      "versions": [
+        {
+          "id": "MP_ODLO60499-original",
+          "shortCode": "MP_ODLO60499",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-27",
+          "effectiveFrom": "2026-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO45352"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0635",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

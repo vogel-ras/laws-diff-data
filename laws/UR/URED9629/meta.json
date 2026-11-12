@@ -1,0 +1,82 @@
+{
+  "root": "URED9629",
+  "path": "laws/UR/URED9629",
+  "members": [
+    {
+      "id": "URED9629",
+      "title": "Uredba o programih storitev obveznega zdravstvenega zavarovanja, zmogljivostih, potrebnih za njegovo izvajanje, in obsegu sredstev za leto 2026",
+      "shortTitle": "Uredba o programih storitev obveznega zdravstvenega zavarovanja, zmogljivostih, potrebnih za njegovo izvajanje, in obsegu sredstev za leto 2026",
+      "shortCode": "URED9629",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0986",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-04-17",
+      "validFrom": "2026-04-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0986",
+      "versions": [
+        {
+          "id": "URED9629-original",
+          "shortCode": "URED9629",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-17",
+          "effectiveFrom": "2026-04-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0986",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9748",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o programih storitev obveznega zdravstvenega zavarovanja, zmogljivostih, potrebnih za njegovo izvajanje, in obsegu sredstev za leto 2026",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o programih storitev obveznega zdravstvenega zavarovanja, zmogljivostih, potrebnih za njegovo izvajanje, in obsegu sredstev za leto 2026",
+      "shortCode": "URED9748",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-2031",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-08-27",
+      "validFrom": "2026-08-27",
+      "validTo": null,
+      "latestPublishedAt": "2026-08-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2031",
+      "versions": [
+        {
+          "id": "URED9748-original",
+          "shortCode": "URED9748",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-08-27",
+          "effectiveFrom": "2026-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9629"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2031",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV12305",
+  "path": "laws/PR/PRAV12305",
+  "members": [
+    {
+      "id": "PRAV12305",
+      "title": "Pravilnik o razvidu visokošolskih zavodov in zagotavljanju podatkov za eVŠ",
+      "shortTitle": "Pravilnik o razvidu visokošolskih zavodov in zagotavljanju podatkov za eVŠ",
+      "shortCode": "PRAV12305",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1224",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-11-30",
+      "validFrom": "2016-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1224",
+      "versions": [
+        {
+          "id": "PRAV12305-original",
+          "shortCode": "PRAV12305",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-11-30",
+          "effectiveFrom": "2016-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1224",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12305-npb-PRAV12305",
+          "shortCode": "PRAV12305-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-04-28",
+          "effectiveFrom": "2015-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12305",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

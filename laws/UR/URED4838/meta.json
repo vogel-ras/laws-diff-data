@@ -1,0 +1,136 @@
+{
+  "root": "URED4838",
+  "path": "laws/UR/URED4838",
+  "members": [
+    {
+      "id": "URED4838",
+      "title": "Uredba o izrabljenih vozilih",
+      "shortTitle": "Uredba o izrabljenih vozilih",
+      "shortCode": "URED4838",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-1576",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-04-29",
+      "validFrom": "2011-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1576",
+      "versions": [
+        {
+          "id": "URED4838-original",
+          "shortCode": "URED4838",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-04-29",
+          "effectiveFrom": "2011-04-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1576",
+          "proposer": null
+        },
+        {
+          "id": "URED4838-npb-URED4838",
+          "shortCode": "URED4838-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-04-29",
+          "effectiveFrom": "2011-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4838",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6084",
+      "title": "Uredba o spremembi Uredbe o izrabljenih vozilih",
+      "shortTitle": "Uredba o spremembi Uredbe o izrabljenih vozilih",
+      "shortCode": "URED6084",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2012-01-1113",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2012-04-06",
+      "validFrom": "2012-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2012-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1113",
+      "versions": [
+        {
+          "id": "URED6084-original",
+          "shortCode": "URED6084",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-04-06",
+          "effectiveFrom": "2012-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4838"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1113",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8027",
+      "title": "Uredba o spremembah Uredbe o izrabljenih vozilih",
+      "shortTitle": "Uredba o spremembah Uredbe o izrabljenih vozilih",
+      "shortCode": "URED8027",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-1910",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-07-17",
+      "validFrom": "2020-07-17",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1910",
+      "versions": [
+        {
+          "id": "URED8027-original",
+          "shortCode": "URED8027",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-07-17",
+          "effectiveFrom": "2020-07-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4838"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1910",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

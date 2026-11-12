@@ -1,0 +1,46 @@
+{
+  "root": "ZIBDR",
+  "path": "laws/ZI/ZIBDR",
+  "members": [
+    {
+      "id": "ZIBDR",
+      "title": "Zakon o izvozu blaga z dvojno rabo",
+      "shortTitle": "Zakon o izvozu blaga z dvojno rabo",
+      "shortCode": "ZIBDR",
+      "kind": "zakon",
+      "keywords": [
+        "blago z dvojno rabo",
+        "nadzor izvoza"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-1438",
+      "gazette": "Uradni list RS 31/2000  str. 3769",
+      "issuingBody": null,
+      "adoptedAt": "2000-04-07",
+      "validFrom": "2000-04-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-04-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1438",
+      "versions": [
+        {
+          "id": "ZIBDR-original",
+          "shortCode": "ZIBDR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 31/2000  str. 3769",
+          "publishedAt": "2000-04-07",
+          "effectiveFrom": "2000-04-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1438",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

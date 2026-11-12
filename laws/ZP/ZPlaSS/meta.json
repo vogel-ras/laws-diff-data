@@ -1,0 +1,347 @@
+{
+  "root": "ZPlaSS",
+  "path": "laws/ZP/ZPlaSS",
+  "members": [
+    {
+      "id": "ZPlaSS",
+      "title": "Zakon o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS",
+      "kind": "zakon",
+      "keywords": [
+        "finančna institucija",
+        "bančništvo",
+        "elektronski prenos sredstev",
+        "finančna zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2864",
+      "gazette": "Uradni list RS 58/09  str. 8089",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-27",
+      "validFrom": "2009-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2864",
+      "versions": [
+        {
+          "id": "ZPlaSS-original",
+          "shortCode": "ZPlaSS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/09  str. 8089",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2864",
+          "proposer": null
+        },
+        {
+          "id": "ZPlaSS-amend-ZPlaSS-A",
+          "shortCode": "ZPlaSS-A",
+          "label": "Sprememba ZPlaSS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 34/10  str. 4677",
+          "publishedAt": "2010-04-30",
+          "effectiveFrom": "2010-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1624",
+          "proposer": null
+        },
+        {
+          "id": "ZPlaSS-amend-ZPlaSS-B",
+          "shortCode": "ZPlaSS-B",
+          "label": "Sprememba ZPlaSS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/11  str. 827",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0319",
+          "proposer": null
+        },
+        {
+          "id": "ZPlaSS-amend-ZPlaSS-C",
+          "shortCode": "ZPlaSS-C",
+          "label": "Sprememba ZPlaSS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 32/12  str. 2888",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1403",
+          "proposer": null
+        },
+        {
+          "id": "ZPlaSS-amend-ZPlaSS-D",
+          "shortCode": "ZPlaSS-D",
+          "label": "Sprememba ZPlaSS-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 81/15  str. 8833",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3190",
+          "proposer": null
+        },
+        {
+          "id": "ZPlaSS-amend-ZPlaSS-E",
+          "shortCode": "ZPlaSS-E",
+          "label": "Sprememba ZPlaSS-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 47/16  str. 6866",
+          "publishedAt": "2016-07-01",
+          "effectiveFrom": "2016-07-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2036",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS-A",
+      "kind": "zakon",
+      "keywords": [
+        "finančna institucija",
+        "finančna zakonodaja",
+        "bančništvo",
+        "elektronski prenos sredstev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1624",
+      "gazette": "Uradni list RS 34/10  str. 4677",
+      "issuingBody": null,
+      "adoptedAt": "2010-04-30",
+      "validFrom": "2010-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1624",
+      "versions": [
+        {
+          "id": "ZPlaSS-A-original",
+          "shortCode": "ZPlaSS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 34/10  str. 4677",
+          "publishedAt": "2010-04-30",
+          "effectiveFrom": "2010-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1624",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSS-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS-B",
+      "kind": "zakon",
+      "keywords": [
+        "finančna institucija",
+        "bančništvo",
+        "elektronski prenos sredstev",
+        "finančna zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0319",
+      "gazette": "Uradni list RS 9/11  str. 827",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0319",
+      "versions": [
+        {
+          "id": "ZPlaSS-B-original",
+          "shortCode": "ZPlaSS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 827",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0319",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSS-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS-C",
+      "kind": "zakon",
+      "keywords": [
+        "bančništvo",
+        "elektronski prenos sredstev",
+        "finančna institucija",
+        "finančna zakonodaja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1403",
+      "gazette": "Uradni list RS 32/12  str. 2888",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-04",
+      "validFrom": "2012-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1403",
+      "versions": [
+        {
+          "id": "ZPlaSS-C-original",
+          "shortCode": "ZPlaSS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/12  str. 2888",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSS-D",
+      "title": "Zakon o spremembah Zakona o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o spremembah Zakona o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS-D",
+      "kind": "zakon",
+      "keywords": [
+        "plačilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3190",
+      "gazette": "Uradni list RS 81/15  str. 8833",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-30",
+      "validFrom": "2015-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3190",
+      "versions": [
+        {
+          "id": "ZPlaSS-D-original",
+          "shortCode": "ZPlaSS-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/15  str. 8833",
+          "publishedAt": "2015-10-30",
+          "effectiveFrom": "2015-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3190",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSS-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah in sistemih",
+      "shortCode": "ZPlaSS-E",
+      "kind": "zakon",
+      "keywords": [
+        "plačilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2036",
+      "gazette": "Uradni list RS 47/16  str. 6866",
+      "issuingBody": null,
+      "adoptedAt": "2016-07-01",
+      "validFrom": "2016-07-01",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2036",
+      "versions": [
+        {
+          "id": "ZPlaSS-E-original",
+          "shortCode": "ZPlaSS-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/16  str. 6866",
+          "publishedAt": "2016-07-01",
+          "effectiveFrom": "2016-07-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPlaSS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2036",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

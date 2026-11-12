@@ -1,0 +1,121 @@
+{
+  "root": "PRAV3903",
+  "path": "laws/PR/PRAV3903",
+  "members": [
+    {
+      "id": "PRAV3903",
+      "title": "Pravilnik o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortTitle": "Pravilnik o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortCode": "PRAV3903",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3225",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2001-07-23",
+      "validFrom": "2001-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3225",
+      "versions": [
+        {
+          "id": "PRAV3903-original",
+          "shortCode": "PRAV3903",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-23",
+          "effectiveFrom": "2001-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3225",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4077",
+      "title": "Pravilnik o spremembah pravilnika o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortTitle": "Pravilnik o spremembah pravilnika o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortCode": "PRAV4077",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-0350",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2002-01-25",
+      "validFrom": "2002-01-25",
+      "validTo": null,
+      "latestPublishedAt": "2002-01-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0350",
+      "versions": [
+        {
+          "id": "PRAV4077-original",
+          "shortCode": "PRAV4077",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-01-25",
+          "effectiveFrom": "2002-01-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3903"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0350",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4970",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o zaposlovanju in financiranju pripravnikov zobozdravnikov",
+      "shortCode": "PRAV4970",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2954",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2003-06-20",
+      "validFrom": "2003-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2954",
+      "versions": [
+        {
+          "id": "PRAV4970-original",
+          "shortCode": "PRAV4970",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-20",
+          "effectiveFrom": "2003-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3903"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2954",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

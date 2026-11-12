@@ -1,0 +1,97 @@
+{
+  "root": "ODLO950",
+  "path": "ordinances/OD/ODLO950",
+  "members": [
+    {
+      "id": "ODLO1757",
+      "title": "Odlok o spremembi Odloka o razglasitvi Domačije Knežak 103 za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi Odloka o razglasitvi Domačije Knežak 103 za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1757",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2014-01-1802",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-06-13",
+      "validFrom": "2014-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2014-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1802",
+      "versions": [
+        {
+          "id": "ODLO1757-original",
+          "shortCode": "ODLO1757",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-06-13",
+          "effectiveFrom": "2014-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO950"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1802",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO950",
+      "title": "Odlok o razglasitvi Domačije Knežak 103 za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Domačije Knežak 103 za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO950",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2001-01-1593",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-04-12",
+      "validFrom": "2001-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1593",
+      "versions": [
+        {
+          "id": "ODLO950-original",
+          "shortCode": "ODLO950",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1593",
+          "proposer": null
+        },
+        {
+          "id": "ODLO950-npb-ODLO950",
+          "shortCode": "ODLO950-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO950",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

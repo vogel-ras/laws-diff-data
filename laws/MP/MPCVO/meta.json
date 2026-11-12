@@ -1,0 +1,106 @@
+{
+  "root": "MPCVO",
+  "path": "laws/MP/MPCVO",
+  "members": [
+    {
+      "id": "MPCVO",
+      "title": "Zakon o ratifikaciji Konvencije o presoji čezmejnih vplivov na okolje",
+      "shortTitle": "Zakon o ratifikaciji Konvencije o presoji čezmejnih vplivov na okolje",
+      "shortCode": "MPCVO",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "vpliv na okolje",
+        "varstvo okolja",
+        "mednarodna konvencija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-02-0030",
+      "gazette": "Uradni list RS MP 11/98  str. 188",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-19",
+      "validFrom": "1998-06-19",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0030",
+      "versions": [
+        {
+          "id": "MPCVO-original",
+          "shortCode": "MPCVO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 11/98  str. 188",
+          "publishedAt": "1998-06-19",
+          "effectiveFrom": "1998-06-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-02-0030",
+          "proposer": null
+        },
+        {
+          "id": "MPCVO-amend-MPCVO-A",
+          "shortCode": "MPCVO-A",
+          "label": "Sprememba MPCVO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 17/13  str. 530",
+          "publishedAt": "2013-12-16",
+          "effectiveFrom": "2013-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MPCVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-02-0081",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MPCVO-A",
+      "title": "Zakon o ratifikaciji Spremembe in Druge spremembe Konvencije o presoji čezmejnih vplivov na okolje",
+      "shortTitle": "Zakon o ratifikaciji Spremembe in Druge spremembe Konvencije o presoji čezmejnih vplivov na okolje",
+      "shortCode": "MPCVO-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-02-0081",
+      "gazette": "Uradni list RS MP 17/13  str. 530",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-16",
+      "validFrom": "2013-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-02-0081",
+      "versions": [
+        {
+          "id": "MPCVO-A-original",
+          "shortCode": "MPCVO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 17/13  str. 530",
+          "publishedAt": "2013-12-16",
+          "effectiveFrom": "2013-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MPCVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-02-0081",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

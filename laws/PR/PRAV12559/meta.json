@@ -1,0 +1,121 @@
+{
+  "root": "PRAV12559",
+  "path": "laws/PR/PRAV12559",
+  "members": [
+    {
+      "id": "PRAV12559",
+      "title": "Pravilnik o pooblastilih za obdelavo podatkov v Centralnem registru podatkov o pacientih",
+      "shortTitle": "Pravilnik o pooblastilih za obdelavo podatkov v Centralnem registru podatkov o pacientih",
+      "shortCode": "PRAV12559",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2251",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-07-22",
+      "validFrom": "2016-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2251",
+      "versions": [
+        {
+          "id": "PRAV12559-original",
+          "shortCode": "PRAV12559",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-07-22",
+          "effectiveFrom": "2016-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2251",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14357",
+      "title": "Pravilnik o spremembi Pravilnika o pooblastilih za obdelavo podatkov v Centralnem registru podatkov o pacientih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o pooblastilih za obdelavo podatkov v Centralnem registru podatkov o pacientih",
+      "shortCode": "PRAV14357",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-2066",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2021-06-15",
+      "validFrom": "2021-06-15",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2066",
+      "versions": [
+        {
+          "id": "PRAV14357-original",
+          "shortCode": "PRAV14357",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-06-15",
+          "effectiveFrom": "2021-06-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12559"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15784",
+      "title": "Pravilnik o spremembi Pravilnika o pooblastilih za obdelavo podatkov v centralnem registru podatkov o pacientih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o pooblastilih za obdelavo podatkov v centralnem registru podatkov o pacientih",
+      "shortCode": "PRAV15784",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-2392",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2025-08-22",
+      "validFrom": "2025-08-22",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2392",
+      "versions": [
+        {
+          "id": "PRAV15784-original",
+          "shortCode": "PRAV15784",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-22",
+          "effectiveFrom": "2025-08-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12559"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2392",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV12469",
+  "path": "laws/PR/PRAV12469",
+  "members": [
+    {
+      "id": "PRAV12469",
+      "title": "Pravilnik o evidentirani posebni rabi vode",
+      "shortTitle": "Pravilnik o evidentirani posebni rabi vode",
+      "shortCode": "PRAV12469",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1972",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2015-07-03",
+      "validFrom": "2015-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1972",
+      "versions": [
+        {
+          "id": "PRAV12469-original",
+          "shortCode": "PRAV12469",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-07-03",
+          "effectiveFrom": "2015-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1972",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12935",
+      "title": "Pravilnik o spremembah Pravilnika o evidentirani posebni rabi vode",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o evidentirani posebni rabi vode",
+      "shortCode": "PRAV12935",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2617",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-09-30",
+      "validFrom": "2016-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2617",
+      "versions": [
+        {
+          "id": "PRAV12935-original",
+          "shortCode": "PRAV12935",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-09-30",
+          "effectiveFrom": "2016-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12469"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2617",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

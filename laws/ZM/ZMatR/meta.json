@@ -1,0 +1,217 @@
+{
+  "root": "ZMatR",
+  "path": "laws/ZM/ZMatR",
+  "members": [
+    {
+      "id": "ZMatR",
+      "title": "Zakon o matičnem registru",
+      "shortTitle": "Zakon o matičnem registru",
+      "shortCode": "ZMatR",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-1720",
+      "gazette": "Uradni list RS 37/2003  str. 4301",
+      "issuingBody": null,
+      "adoptedAt": "2003-04-18",
+      "validFrom": "2003-04-18",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1720",
+      "versions": [
+        {
+          "id": "ZMatR-original",
+          "shortCode": "ZMatR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/2003  str. 4301",
+          "publishedAt": "2003-04-18",
+          "effectiveFrom": "2003-04-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1720",
+          "proposer": null
+        },
+        {
+          "id": "ZMatR-amend-ZMatR-A",
+          "shortCode": "ZMatR-A",
+          "label": "Sprememba ZMatR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/06  str. 4149",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1679",
+          "proposer": null
+        },
+        {
+          "id": "ZMatR-amend-ZMatR-B",
+          "shortCode": "ZMatR-B",
+          "label": "Sprememba ZMatR-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 106/10  str. 16426",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5479",
+          "proposer": null
+        },
+        {
+          "id": "ZMatR-amend-ZMatR-C",
+          "shortCode": "ZMatR-C",
+          "label": "Sprememba ZMatR-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 67/19  str. 7893",
+          "publishedAt": "2019-11-08",
+          "effectiveFrom": "2019-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2936",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMatR-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o matičnem registru",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o matičnem registru",
+      "shortCode": "ZMatR-A",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1679",
+      "gazette": "Uradni list RS 39/06  str. 4149",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-13",
+      "validFrom": "2006-04-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1679",
+      "versions": [
+        {
+          "id": "ZMatR-A-original",
+          "shortCode": "ZMatR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/06  str. 4149",
+          "publishedAt": "2006-04-13",
+          "effectiveFrom": "2006-04-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1679",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMatR-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o matičnem registru",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o matičnem registru",
+      "shortCode": "ZMatR-B",
+      "kind": "zakon",
+      "keywords": [
+        "register prebivalstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5479",
+      "gazette": "Uradni list RS 106/10  str. 16426",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5479",
+      "versions": [
+        {
+          "id": "ZMatR-B-original",
+          "shortCode": "ZMatR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16426",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5479",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMatR-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o matičnem registru",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o matičnem registru",
+      "shortCode": "ZMatR-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2936",
+      "gazette": "Uradni list RS 67/19  str. 7893",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-08",
+      "validFrom": "2019-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2936",
+      "versions": [
+        {
+          "id": "ZMatR-C-original",
+          "shortCode": "ZMatR-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/19  str. 7893",
+          "publishedAt": "2019-11-08",
+          "effectiveFrom": "2019-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMatR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2936",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

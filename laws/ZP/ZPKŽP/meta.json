@@ -1,0 +1,108 @@
+{
+  "root": "ZPKŽP",
+  "path": "laws/ZP/ZPKŽP",
+  "members": [
+    {
+      "id": "ZPK_P",
+      "title": "Zakon o promociji kmetijskih in živilskih proizvodov",
+      "shortTitle": "Zakon o promociji kmetijskih in živilskih proizvodov",
+      "shortCode": "ZPKŽP",
+      "kind": "zakon",
+      "keywords": [
+        "pospeševanje prodaje",
+        "samooskrbno kmetijstvo",
+        "proizvodnja živil",
+        "kakovost izdelka",
+        "kmetijski proizvod",
+        "obveščanje potrošnikov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1151",
+      "gazette": "Uradni list RS 26/11  str. 3381",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1151",
+      "versions": [
+        {
+          "id": "ZPK_P-original",
+          "shortCode": "ZPKŽP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3381",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1151",
+          "proposer": null
+        },
+        {
+          "id": "ZPK_P-amend-ZPK_P-A",
+          "shortCode": "ZPKŽP-A",
+          "label": "Sprememba ZPK_P-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 57/12  str. 5985",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPK_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2417",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPK_P-A",
+      "title": "Zakon o spremembah Zakona o promociji kmetijskih in živilskih proizvodov",
+      "shortTitle": "Zakon o spremembah Zakona o promociji kmetijskih in živilskih proizvodov",
+      "shortCode": "ZPKŽP-A",
+      "kind": "zakon",
+      "keywords": [
+        "kmetijski proizvod"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2417",
+      "gazette": "Uradni list RS 57/12  str. 5985",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2417",
+      "versions": [
+        {
+          "id": "ZPK_P-A-original",
+          "shortCode": "ZPKŽP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5985",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPK_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2417",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

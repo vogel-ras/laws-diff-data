@@ -1,0 +1,282 @@
+{
+  "root": "ZJC",
+  "path": "laws/ZJ/ZJC",
+  "members": [
+    {
+      "id": "ZJC",
+      "title": "Zakon o javnih cestah",
+      "shortTitle": "Zakon o javnih cestah",
+      "shortCode": "ZJC",
+      "kind": "zakon",
+      "keywords": [
+        "cestnina",
+        "cestno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1642",
+      "gazette": "Uradni list RS 29/97  str. 2553",
+      "issuingBody": null,
+      "adoptedAt": "1997-05-23",
+      "validFrom": "1997-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1642",
+      "versions": [
+        {
+          "id": "ZJC-original",
+          "shortCode": "ZJC",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/97  str. 2553",
+          "publishedAt": "1997-05-23",
+          "effectiveFrom": "1997-05-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1642",
+          "proposer": null
+        },
+        {
+          "id": "ZJC-amend-ZJC-A",
+          "shortCode": "ZJC-A",
+          "label": "Sprememba ZJC-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 18/2002  str. 1345",
+          "publishedAt": "2002-02-28",
+          "effectiveFrom": "2002-02-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0717",
+          "proposer": null
+        },
+        {
+          "id": "ZJC-amend-ZJC-B",
+          "shortCode": "ZJC-B",
+          "label": "Sprememba ZJC-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 92/05  str. 9394",
+          "publishedAt": "2005-10-18",
+          "effectiveFrom": "2005-10-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3952",
+          "proposer": null
+        },
+        {
+          "id": "ZJC-amend-ZJC-D",
+          "shortCode": "ZJC-D",
+          "label": "Sprememba ZJC-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 42/09  str. 5889",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2038",
+          "proposer": null
+        },
+        {
+          "id": "ZJC-amend-ZJC-E",
+          "shortCode": "ZJC-E",
+          "label": "Sprememba ZJC-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 109/09  str. 14866",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4926",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJC-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o javnih cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o javnih cestah",
+      "shortCode": "ZJC-A",
+      "kind": "zakon",
+      "keywords": [
+        "cestno omrežje",
+        "cestnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-0717",
+      "gazette": "Uradni list RS 18/2002  str. 1345",
+      "issuingBody": null,
+      "adoptedAt": "2002-02-28",
+      "validFrom": "2002-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0717",
+      "versions": [
+        {
+          "id": "ZJC-A-original",
+          "shortCode": "ZJC-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/2002  str. 1345",
+          "publishedAt": "2002-02-28",
+          "effectiveFrom": "2002-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0717",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJC-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o javnih cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o javnih cestah",
+      "shortCode": "ZJC-B",
+      "kind": "zakon",
+      "keywords": [
+        "cestnina",
+        "cestno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3952",
+      "gazette": "Uradni list RS 92/05  str. 9394",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-18",
+      "validFrom": "2005-10-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3952",
+      "versions": [
+        {
+          "id": "ZJC-B-original",
+          "shortCode": "ZJC-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/05  str. 9394",
+          "publishedAt": "2005-10-18",
+          "effectiveFrom": "2005-10-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3952",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJC-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnih cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnih cestah",
+      "shortCode": "ZJC-D",
+      "kind": "zakon",
+      "keywords": [
+        "cestnina",
+        "cestno omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2038",
+      "gazette": "Uradni list RS 42/09  str. 5889",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-05",
+      "validFrom": "2009-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2038",
+      "versions": [
+        {
+          "id": "ZJC-D-original",
+          "shortCode": "ZJC-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/09  str. 5889",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2038",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJC-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o javnih cestah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o javnih cestah",
+      "shortCode": "ZJC-E",
+      "kind": "zakon",
+      "keywords": [
+        "cestno omrežje",
+        "cestnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4926",
+      "gazette": "Uradni list RS 109/09  str. 14866",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4926",
+      "versions": [
+        {
+          "id": "ZJC-E-original",
+          "shortCode": "ZJC-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/09  str. 14866",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4926",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

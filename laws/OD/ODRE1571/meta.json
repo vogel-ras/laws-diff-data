@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1571",
+  "path": "laws/OD/ODRE1571",
+  "members": [
+    {
+      "id": "ODRE1571",
+      "title": "Odredba o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1999",
+      "shortTitle": "Odredba o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1999",
+      "shortCode": "ODRE1571",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1998-01-4414",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-18",
+      "validFrom": "1998-12-18",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4414",
+      "versions": [
+        {
+          "id": "ODRE1571-original",
+          "shortCode": "ODRE1571",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-18",
+          "effectiveFrom": "1998-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE230",
+      "title": "Odredba o spremembi odredbe o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1999",
+      "shortTitle": "Odredba o spremembi odredbe o valorizaciji zneskov za odmero davkov po zakonu o davkih občanov za leto 1999",
+      "shortCode": "ODRE230",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1999-01-0293",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-02-05",
+      "validFrom": "1999-02-05",
+      "validTo": null,
+      "latestPublishedAt": "1999-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0293",
+      "versions": [
+        {
+          "id": "ODRE230-original",
+          "shortCode": "ODRE230",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-02-05",
+          "effectiveFrom": "1999-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1571"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0293",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

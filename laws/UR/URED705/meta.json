@@ -1,0 +1,97 @@
+{
+  "root": "URED705",
+  "path": "laws/UR/URED705",
+  "members": [
+    {
+      "id": "URED4180",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o lokacijskem načrtu za primorski krak avtoceste na odseku hitre ceste Razdrto-Vipava",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o lokacijskem načrtu za primorski krak avtoceste na odseku hitre ceste Razdrto-Vipava",
+      "shortCode": "URED4180",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3278",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-18",
+      "validFrom": "2006-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3278",
+      "versions": [
+        {
+          "id": "URED4180-original",
+          "shortCode": "URED4180",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-18",
+          "effectiveFrom": "2006-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED705"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3278",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED705",
+      "title": "Uredba o lokacijskem načrtu za Primorski krak avtoceste na odseku hitre ceste Razdrto-Vipava",
+      "shortTitle": "Uredba o lokacijskem načrtu za Primorski krak avtoceste na odseku hitre ceste Razdrto-Vipava",
+      "shortCode": "URED705",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-3560",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-09-03",
+      "validFrom": "1999-09-03",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3560",
+      "versions": [
+        {
+          "id": "URED705-original",
+          "shortCode": "URED705",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-03",
+          "effectiveFrom": "1999-09-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3560",
+          "proposer": null
+        },
+        {
+          "id": "URED705-npb-URED705",
+          "shortCode": "URED705-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-09-03",
+          "effectiveFrom": "1999-09-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED705",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

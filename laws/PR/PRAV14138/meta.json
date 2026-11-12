@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14138",
+  "path": "laws/PR/PRAV14138",
+  "members": [
+    {
+      "id": "PRAV14138",
+      "title": "Pravilnik o tehničnih pogojih za graditev podzemnih elektroenergetskih vodov izmenične nazivne napetosti nad 1 kV do 400 kV",
+      "shortTitle": "Pravilnik o tehničnih pogojih za graditev podzemnih elektroenergetskih vodov izmenične nazivne napetosti nad 1 kV do 400 kV",
+      "shortCode": "PRAV14138",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-0853",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-09",
+      "validFrom": "2026-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0853",
+      "versions": [
+        {
+          "id": "PRAV14138-original",
+          "shortCode": "PRAV14138",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-09",
+          "effectiveFrom": "2026-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0853",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14138-npb-PRAV14138",
+          "shortCode": "PRAV14138-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-03-24",
+          "effectiveFrom": "2021-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14138",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14536",
+      "title": "Pravilnik o spremembi Pravilnika o tehničnih pogojih za graditev podzemnih elektroenergetskih vodov izmenične nazivne napetosti nad 1 kV do 400 kV",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o tehničnih pogojih za graditev podzemnih elektroenergetskih vodov izmenične nazivne napetosti nad 1 kV do 400 kV",
+      "shortCode": "PRAV14536",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0377",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-02-18",
+      "validFrom": "2022-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0377",
+      "versions": [
+        {
+          "id": "PRAV14536-original",
+          "shortCode": "PRAV14536",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-18",
+          "effectiveFrom": "2022-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14138"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0377",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

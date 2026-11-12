@@ -1,0 +1,82 @@
+{
+  "root": "PRAV883",
+  "path": "laws/PR/PRAV883",
+  "members": [
+    {
+      "id": "PRAV13542",
+      "title": "Pravilnik o spremembah Pravilnika o delu Odbora za priznanja Republike Slovenije za poslovno odličnost",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o delu Odbora za priznanja Republike Slovenije za poslovno odličnost",
+      "shortCode": "PRAV13542",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-4193",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-12-28",
+      "validFrom": "2018-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4193",
+      "versions": [
+        {
+          "id": "PRAV13542-original",
+          "shortCode": "PRAV13542",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-28",
+          "effectiveFrom": "2018-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV883"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4193",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV883",
+      "title": "Pravilnik o delu Odbora za priznanja Republike Slovenije za poslovno odličnost",
+      "shortTitle": "Pravilnik o delu Odbora za priznanja Republike Slovenije za poslovno odličnost",
+      "shortCode": "PRAV883",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-0982",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-03-26",
+      "validFrom": "1999-03-26",
+      "validTo": null,
+      "latestPublishedAt": "1999-03-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0982",
+      "versions": [
+        {
+          "id": "PRAV883-original",
+          "shortCode": "PRAV883",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-03-26",
+          "effectiveFrom": "1999-03-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0982",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

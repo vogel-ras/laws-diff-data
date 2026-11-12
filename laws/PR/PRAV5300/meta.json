@@ -1,0 +1,136 @@
+{
+  "root": "PRAV5300",
+  "path": "laws/PR/PRAV5300",
+  "members": [
+    {
+      "id": "PRAV5300",
+      "title": "Pravilnik o tehničnih prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortTitle": "Pravilnik o tehničnih prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortCode": "PRAV5300",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5128",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-11-28",
+      "validFrom": "2003-11-28",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5128",
+      "versions": [
+        {
+          "id": "PRAV5300-original",
+          "shortCode": "PRAV5300",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-28",
+          "effectiveFrom": "2003-11-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5128",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5300-npb-PRAV5300",
+          "shortCode": "PRAV5300-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-11-28",
+          "effectiveFrom": "2003-11-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5300",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7027",
+      "title": "Pravilnik o spremembi pravilnika o tehničnih, prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortTitle": "Pravilnik o spremembi pravilnika o tehničnih, prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortCode": "PRAV7027",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3001",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2005-07-18",
+      "validFrom": "2005-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3001",
+      "versions": [
+        {
+          "id": "PRAV7027-original",
+          "shortCode": "PRAV7027",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-18",
+          "effectiveFrom": "2005-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5300"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3001",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7703",
+      "title": "Pravilnik o spremembah Pravilnika o tehničnih, prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o tehničnih, prostorskih, strokovnih in organizacijskih pogojih, ki jih mora izpolnjevati organ za potrjevanje semenskega materiala kmetijskih rastlin",
+      "shortCode": "PRAV7703",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4496",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4496",
+      "versions": [
+        {
+          "id": "PRAV7703-original",
+          "shortCode": "PRAV7703",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5300"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4496",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

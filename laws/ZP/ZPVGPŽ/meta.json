@@ -1,0 +1,101 @@
+{
+  "root": "ZPVGPŽ",
+  "path": "laws/ZP/ZPVGPŽ",
+  "members": [
+    {
+      "id": "ZAKO9465",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o prikritih vojnih grobiščih in pokopu žrtev (ZPVGPŽ-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o prikritih vojnih grobiščih in pokopu žrtev (ZPVGPŽ-B)",
+      "shortCode": "ZPVGPŽ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "zakon",
+      "sopNumber": "2026-01-1496",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-06-03",
+      "validFrom": "2026-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1496",
+      "versions": [
+        {
+          "id": "ZAKO9465-original",
+          "shortCode": "ZPVGPŽ-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-06-03",
+          "effectiveFrom": "2026-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVGP_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1496",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPVGP_",
+      "title": "Zakon o prikritih vojnih grobiščih in pokopu žrtev",
+      "shortTitle": "Zakon o prikritih vojnih grobiščih in pokopu žrtev",
+      "shortCode": "ZPVGPŽ",
+      "kind": "zakon",
+      "keywords": [
+        "žrtev vojne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2276",
+      "gazette": "Uradni list RS 55/15  str. 6283",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-24",
+      "validFrom": "2015-07-24",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2276",
+      "versions": [
+        {
+          "id": "ZPVGP_-original",
+          "shortCode": "ZPVGPŽ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/15  str. 6283",
+          "publishedAt": "2015-07-24",
+          "effectiveFrom": "2015-07-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2276",
+          "proposer": null
+        },
+        {
+          "id": "ZPVGP_-amend-ZAKO9465",
+          "shortCode": "ZPVGPŽ-B",
+          "label": "Sprememba ZAKO9465",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-06-03",
+          "effectiveFrom": "2026-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPVGP_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1496",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

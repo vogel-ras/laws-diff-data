@@ -1,0 +1,121 @@
+{
+  "root": "URED3101",
+  "path": "laws/UR/URED3101",
+  "members": [
+    {
+      "id": "URED3101",
+      "title": "Uredba o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortTitle": "Uredba o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortCode": "URED3101",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-1434",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-04-06",
+      "validFrom": "2004-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1434",
+      "versions": [
+        {
+          "id": "URED3101-original",
+          "shortCode": "URED3101",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-06",
+          "effectiveFrom": "2004-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1434",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4014",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortCode": "URED4014",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4735",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-11-03",
+      "validFrom": "2006-11-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4735",
+      "versions": [
+        {
+          "id": "URED4014-original",
+          "shortCode": "URED4014",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-11-03",
+          "effectiveFrom": "2006-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3101"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4735",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4540",
+      "title": "Uredba o spremembah Uredbe o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah Uredbe o pravicah in dolžnostih beguncev v Republiki Sloveniji",
+      "shortCode": "URED4540",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-3301",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-07-10",
+      "validFrom": "2007-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3301",
+      "versions": [
+        {
+          "id": "URED4540-original",
+          "shortCode": "URED4540",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-07-10",
+          "effectiveFrom": "2007-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3101"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3301",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED7235",
+  "path": "laws/UR/URED7235",
+  "members": [
+    {
+      "id": "URED7235",
+      "title": "Uredba o izvajanju Uredbe (EU) o izboljšanju ureditve poravnav vrednostnih papirjev v Evropski uniji in o centralnih depotnih družbah",
+      "shortTitle": "Uredba o izvajanju Uredbe (EU) o izboljšanju ureditve poravnav vrednostnih papirjev v Evropski uniji in o centralnih depotnih družbah",
+      "shortCode": "URED7235",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-2552",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-09-16",
+      "validFrom": "2016-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2016-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2552",
+      "versions": [
+        {
+          "id": "URED7235-original",
+          "shortCode": "URED7235",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-09-16",
+          "effectiveFrom": "2016-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2552",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9677",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (EU) o izboljšanju ureditve poravnav vrednostnih papirjev v Evropski uniji in o centralnih depotnih družbah",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (EU) o izboljšanju ureditve poravnav vrednostnih papirjev v Evropski uniji in o centralnih depotnih družbah",
+      "shortCode": "URED9677",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-1827",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-07-10",
+      "validFrom": "2026-07-10",
+      "validTo": null,
+      "latestPublishedAt": "2026-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1827",
+      "versions": [
+        {
+          "id": "URED9677-original",
+          "shortCode": "URED9677",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-07-10",
+          "effectiveFrom": "2026-07-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7235"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1827",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

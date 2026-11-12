@@ -1,0 +1,121 @@
+{
+  "root": "URED1519",
+  "path": "laws/UR/URED1519",
+  "members": [
+    {
+      "id": "URED1519",
+      "title": "Uredba o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Uredba o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "URED1519",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-5071",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-12-27",
+      "validFrom": "2000-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5071",
+      "versions": [
+        {
+          "id": "URED1519-original",
+          "shortCode": "URED1519",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-27",
+          "effectiveFrom": "2000-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2584",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o izvajanju Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o izvajanju Sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "URED2584",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2788",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-06-28",
+      "validFrom": "2002-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2788",
+      "versions": [
+        {
+          "id": "URED2584-original",
+          "shortCode": "URED2584",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-28",
+          "effectiveFrom": "2002-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2788",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2860",
+      "title": "Uredba o spremembi uredbe o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortTitle": "Uredba o spremembi uredbe o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo",
+      "shortCode": "URED2860",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1328",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-03-28",
+      "validFrom": "2003-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1328",
+      "versions": [
+        {
+          "id": "URED2860-original",
+          "shortCode": "URED2860",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-28",
+          "effectiveFrom": "2003-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1328",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

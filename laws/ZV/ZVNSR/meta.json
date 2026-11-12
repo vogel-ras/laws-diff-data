@@ -1,0 +1,105 @@
+{
+  "root": "ZVNSR",
+  "path": "laws/ZV/ZVNSR",
+  "members": [
+    {
+      "id": "ZVNSR",
+      "title": "Zakon o varstvu novih sort rastlin",
+      "shortTitle": "Zakon o varstvu novih sort rastlin",
+      "shortCode": "ZVNSR",
+      "kind": "zakon",
+      "keywords": [
+        "rastlinstvo",
+        "varstvo rastlinstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4411",
+      "gazette": "Uradni list RS 86/98  str. 7409",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-18",
+      "validFrom": "1998-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4411",
+      "versions": [
+        {
+          "id": "ZVNSR-original",
+          "shortCode": "ZVNSR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/98  str. 7409",
+          "publishedAt": "1998-12-18",
+          "effectiveFrom": "1998-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4411",
+          "proposer": null
+        },
+        {
+          "id": "ZVNSR-amend-ZVNSR-A",
+          "shortCode": "ZVNSR-A",
+          "label": "Sprememba ZVNSR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 61/06  str. 6642",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNSR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2573",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVNSR-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu novih sort rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu novih sort rastlin",
+      "shortCode": "ZVNSR-A",
+      "kind": "zakon",
+      "keywords": [
+        "rastlinstvo",
+        "varstvo rastlinstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2573",
+      "gazette": "Uradni list RS 61/06  str. 6642",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-13",
+      "validFrom": "2006-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2573",
+      "versions": [
+        {
+          "id": "ZVNSR-A-original",
+          "shortCode": "ZVNSR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/06  str. 6642",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNSR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2573",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

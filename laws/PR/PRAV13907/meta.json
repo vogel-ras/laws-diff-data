@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13907",
+  "path": "laws/PR/PRAV13907",
+  "members": [
+    {
+      "id": "PRAV13907",
+      "title": "Pravilnik o biovarnosti ter izvajanju biovarnostnih ukrepov iz uredbe (EU) o prenosljivih boleznih živali",
+      "shortTitle": "Pravilnik o biovarnosti ter izvajanju biovarnostnih ukrepov iz uredbe (EU) o prenosljivih boleznih živali",
+      "shortCode": "PRAV13907",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-1667",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2024-06-14",
+      "validFrom": "2024-06-14",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1667",
+      "versions": [
+        {
+          "id": "PRAV13907-original",
+          "shortCode": "PRAV13907",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-14",
+          "effectiveFrom": "2024-06-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1667",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13907-npb-PRAV13907",
+          "shortCode": "PRAV13907-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-06-14",
+          "effectiveFrom": "2024-06-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13907",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15596",
+      "title": "Pravilnik o spremembi Pravilnika o biovarnosti ter izvajanju biovarnostnih ukrepov iz uredbe (EU) o prenosljivih boleznih živali",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o biovarnosti ter izvajanju biovarnostnih ukrepov iz uredbe (EU) o prenosljivih boleznih živali",
+      "shortCode": "PRAV15596",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-3446",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2024-12-20",
+      "validFrom": "2024-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3446",
+      "versions": [
+        {
+          "id": "PRAV15596-original",
+          "shortCode": "PRAV15596",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13907"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3446",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

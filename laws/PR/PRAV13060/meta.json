@@ -1,0 +1,136 @@
+{
+  "root": "PRAV13060",
+  "path": "laws/PR/PRAV13060",
+  "members": [
+    {
+      "id": "PRAV13060",
+      "title": "Pravilnik o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortTitle": "Pravilnik o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortCode": "PRAV13060",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-1813",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-30",
+      "validFrom": "2017-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1813",
+      "versions": [
+        {
+          "id": "PRAV13060-original",
+          "shortCode": "PRAV13060",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-30",
+          "effectiveFrom": "2017-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1813",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13060-npb-PRAV13060",
+          "shortCode": "PRAV13060-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-06-30",
+          "effectiveFrom": "2017-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13060",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14151",
+      "title": "Pravilnik o spremembah Pravilnika o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortCode": "PRAV14151",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-3328",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-12-17",
+      "validFrom": "2020-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3328",
+      "versions": [
+        {
+          "id": "PRAV14151-original",
+          "shortCode": "PRAV14151",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-17",
+          "effectiveFrom": "2020-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13060"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3328",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14959",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izboru in sofinanciranju programov nadaljnjega izobraževanja in usposabljanja strokovnih delavcev v vzgoji in izobraževanju",
+      "shortCode": "PRAV14959",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-0415",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-02-22",
+      "validFrom": "2023-02-22",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0415",
+      "versions": [
+        {
+          "id": "PRAV14959-original",
+          "shortCode": "PRAV14959",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-02-22",
+          "effectiveFrom": "2023-02-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13060"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0415",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

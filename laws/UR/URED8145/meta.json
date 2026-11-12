@@ -1,0 +1,82 @@
+{
+  "root": "URED8145",
+  "path": "laws/UR/URED8145",
+  "members": [
+    {
+      "id": "URED8145",
+      "title": "Uredba o seznamu funkcij, ki se v Republiki Sloveniji štejejo kot vidni javni položaj",
+      "shortTitle": "Uredba o seznamu funkcij, ki se v Republiki Sloveniji štejejo kot vidni javni položaj",
+      "shortCode": "URED8145",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2867",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-11-13",
+      "validFrom": "2020-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2867",
+      "versions": [
+        {
+          "id": "URED8145-original",
+          "shortCode": "URED8145",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-11-13",
+          "effectiveFrom": "2020-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2867",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9426",
+      "title": "Uredba o spremembi Uredbe o seznamu funkcij, ki se v Republiki Sloveniji štejejo kot vidni javni položaj",
+      "shortTitle": "Uredba o spremembi Uredbe o seznamu funkcij, ki se v Republiki Sloveniji štejejo kot vidni javni položaj",
+      "shortCode": "URED9426",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-2398",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-08-26",
+      "validFrom": "2025-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2398",
+      "versions": [
+        {
+          "id": "URED9426-original",
+          "shortCode": "URED9426",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-26",
+          "effectiveFrom": "2025-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8145"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2398",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

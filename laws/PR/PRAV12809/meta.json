@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12809",
+  "path": "laws/PR/PRAV12809",
+  "members": [
+    {
+      "id": "PRAV12809",
+      "title": "Pravilnik o določitvi seznama dodatnih drugih urbanih območij za potrebe opredelitve območij lokalnih akcijskih skupin",
+      "shortTitle": "Pravilnik o določitvi seznama dodatnih drugih urbanih območij za potrebe opredelitve območij lokalnih akcijskih skupin",
+      "shortCode": "PRAV12809",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-0455",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-08",
+      "validFrom": "2026-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0455",
+      "versions": [
+        {
+          "id": "PRAV12809-original",
+          "shortCode": "PRAV12809",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-08",
+          "effectiveFrom": "2026-01-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0455",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12809-npb-PRAV12809",
+          "shortCode": "PRAV12809-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-02-18",
+          "effectiveFrom": "2016-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12809",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12861",
+      "title": "Pravilnik o spremembi Pravilnika o določitvi seznama dodatnih drugih urbanih območij za potrebe opredelitve območij lokalnih akcijskih skupin",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o določitvi seznama dodatnih drugih urbanih območij za potrebe opredelitve območij lokalnih akcijskih skupin",
+      "shortCode": "PRAV12861",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-1482",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-05-13",
+      "validFrom": "2016-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1482",
+      "versions": [
+        {
+          "id": "PRAV12861-original",
+          "shortCode": "PRAV12861",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-05-13",
+          "effectiveFrom": "2016-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12809"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1482",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4643",
+  "path": "laws/PR/PRAV4643",
+  "members": [
+    {
+      "id": "PRAV4643",
+      "title": "Pravilnik o izvajanju preventivnih cepljenj in diagnostičnih ter drugih preiskav živali v letu 2003 za izpolnjevanje pogojev za promet",
+      "shortTitle": "Pravilnik o izvajanju preventivnih cepljenj in diagnostičnih ter drugih preiskav živali v letu 2003 za izpolnjevanje pogojev za promet",
+      "shortCode": "PRAV4643",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0245",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-01-23",
+      "validFrom": "2003-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0245",
+      "versions": [
+        {
+          "id": "PRAV4643-original",
+          "shortCode": "PRAV4643",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-23",
+          "effectiveFrom": "2003-01-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0245",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4643-npb-PRAV4643",
+          "shortCode": "PRAV4643-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-01-23",
+          "effectiveFrom": "2003-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4643",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4728",
+      "title": "Pravilnik o spremembah pravilnika o izvajanju preventivnih cepljenj in diagnostičnih ter drugih preiskav živali v letu 2003 za izpolnjevanje pogojev za promet",
+      "shortTitle": "Pravilnik o spremembah pravilnika o izvajanju preventivnih cepljenj in diagnostičnih ter drugih preiskav živali v letu 2003 za izpolnjevanje pogojev za promet",
+      "shortCode": "PRAV4728",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0648",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-02-17",
+      "validFrom": "2003-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0648",
+      "versions": [
+        {
+          "id": "PRAV4728-original",
+          "shortCode": "PRAV4728",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-17",
+          "effectiveFrom": "2003-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4643"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

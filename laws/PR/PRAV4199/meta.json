@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4199",
+  "path": "laws/PR/PRAV4199",
+  "members": [
+    {
+      "id": "PRAV4199",
+      "title": "Pravilnik o meroslovnih zahtevah za stroje za merjenje dolžine žice in kabla",
+      "shortTitle": "Pravilnik o meroslovnih zahtevah za stroje za merjenje dolžine žice in kabla",
+      "shortCode": "PRAV4199",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1788",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2002-04-26",
+      "validFrom": "2002-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1788",
+      "versions": [
+        {
+          "id": "PRAV4199-original",
+          "shortCode": "PRAV4199",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-26",
+          "effectiveFrom": "2002-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1788",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7079",
+      "title": "Pravilnik o spremembah pravilnika o meroslovnih zahtevah za stroje za merjenje dolžine žice in kabla",
+      "shortTitle": "Pravilnik o spremembah pravilnika o meroslovnih zahtevah za stroje za merjenje dolžine žice in kabla",
+      "shortCode": "PRAV7079",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3533",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za visoko šolstvo, znanost in tehnologijo",
+      "adoptedAt": "2005-08-26",
+      "validFrom": "2005-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3533",
+      "versions": [
+        {
+          "id": "PRAV7079-original",
+          "shortCode": "PRAV7079",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-26",
+          "effectiveFrom": "2005-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4199"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3533",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

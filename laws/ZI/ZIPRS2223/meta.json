@@ -1,0 +1,99 @@
+{
+  "root": "ZIPRS2223",
+  "path": "laws/ZI/ZIPRS2223",
+  "members": [
+    {
+      "id": "ZAKO8461",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2022 in 2023 (ZIPRS2223)",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2022 in 2023 (ZIPRS2223)",
+      "shortCode": "ZIPRS2223",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-3713",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-11-04",
+      "validFrom": "2022-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3713",
+      "versions": [
+        {
+          "id": "ZAKO8461-amend-ZIPRS2223-A",
+          "shortCode": "ZIPRS2223-A",
+          "label": "Sprememba ZIPRS2223-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 129/22  str. 9582",
+          "publishedAt": "2022-10-07",
+          "effectiveFrom": "2022-10-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8461"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3079",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8461-original",
+          "shortCode": "ZIPRS2223",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-11-04",
+          "effectiveFrom": "2022-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3713",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS2223-A",
+      "title": "Zakon o spremembah Zakona o izvrševanju proračunov Republike Slovenije za leti 2022 in 2023",
+      "shortTitle": "Zakon o spremembah Zakona o izvrševanju proračunov Republike Slovenije za leti 2022 in 2023",
+      "shortCode": "ZIPRS2223-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3079",
+      "gazette": "Uradni list RS 129/22  str. 9582",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-07",
+      "validFrom": "2022-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3079",
+      "versions": [
+        {
+          "id": "ZIPRS2223-A-original",
+          "shortCode": "ZIPRS2223-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 129/22  str. 9582",
+          "publishedAt": "2022-10-07",
+          "effectiveFrom": "2022-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8461"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3079",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

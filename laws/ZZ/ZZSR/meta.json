@@ -1,0 +1,106 @@
+{
+  "root": "ZZSR",
+  "path": "laws/ZZ/ZZSR",
+  "members": [
+    {
+      "id": "ZZSR",
+      "title": "Zakon o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994-2003",
+      "shortTitle": "Zakon o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994-2003",
+      "shortCode": "ZZSR",
+      "kind": "zakon",
+      "keywords": [
+        "izdatki za obrambo",
+        "obrambna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0518",
+      "gazette": "Uradni list RS 13/94  str. 717",
+      "issuingBody": null,
+      "adoptedAt": "1994-03-10",
+      "validFrom": "1994-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0518",
+      "versions": [
+        {
+          "id": "ZZSR-original",
+          "shortCode": "ZZSR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/94  str. 717",
+          "publishedAt": "1994-03-10",
+          "effectiveFrom": "1994-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0518",
+          "proposer": null
+        },
+        {
+          "id": "ZZSR-amend-ZZSR-A",
+          "shortCode": "ZZSR-A",
+          "label": "Sprememba ZZSR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 97/2001  str. 9364",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4799",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZSR-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994 - 2003",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zagotavljanju sredstev za realizacijo temeljnih razvojnih programov obrambnih sil Republike Slovenije v letih 1994 - 2003",
+      "shortCode": "ZZSR-A",
+      "kind": "zakon",
+      "keywords": [
+        "urejanje prostora",
+        "prostorsko načrtovanje",
+        "okoljska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4799",
+      "gazette": "Uradni list RS 97/2001  str. 9364",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-04",
+      "validFrom": "2001-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4799",
+      "versions": [
+        {
+          "id": "ZZSR-A-original",
+          "shortCode": "ZZSR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/2001  str. 9364",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZSR"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4799",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

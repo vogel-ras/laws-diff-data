@@ -1,0 +1,82 @@
+{
+  "root": "URED1049",
+  "path": "laws/UR/URED1049",
+  "members": [
+    {
+      "id": "URED1049",
+      "title": "Uredba o Slovenskem kmetijsko okoljskem programu in uvedbi neposrednih plačil za ukrepe v letu 2001 (EKO 2, EKO 3)",
+      "shortTitle": "Uredba o Slovenskem kmetijsko okoljskem programu in uvedbi neposrednih plačil za ukrepe v letu 2001 (EKO 2, EKO 3)",
+      "shortCode": "URED1049",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2024",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-10",
+      "validFrom": "2001-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2024",
+      "versions": [
+        {
+          "id": "URED1049-original",
+          "shortCode": "URED1049",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2024",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2366",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o Slovenskem kmetijsko okoljskem programu in uvedbi neposrednih plačil za ukrepe v letu 2001 (EKO 2, EKO 3)",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o Slovenskem kmetijsko okoljskem programu in uvedbi neposrednih plačil za ukrepe v letu 2001 (EKO 2, EKO 3)",
+      "shortCode": "URED2366",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-1573",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-04-16",
+      "validFrom": "2002-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1573",
+      "versions": [
+        {
+          "id": "URED2366-original",
+          "shortCode": "URED2366",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-16",
+          "effectiveFrom": "2002-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1049"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1573",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

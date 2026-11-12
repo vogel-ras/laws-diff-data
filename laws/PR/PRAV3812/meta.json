@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3812",
+  "path": "laws/PR/PRAV3812",
+  "members": [
+    {
+      "id": "PRAV3812",
+      "title": "Pravilnik o vodenju registra izvajalcev postopkov za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij",
+      "shortTitle": "Pravilnik o vodenju registra izvajalcev postopkov za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij",
+      "shortCode": "PRAV3812",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-1597",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2001-04-12",
+      "validFrom": "2001-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1597",
+      "versions": [
+        {
+          "id": "PRAV3812-original",
+          "shortCode": "PRAV3812",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1597",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5196",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o vodenju registra izvajalcev postopkov za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o vodenju registra izvajalcev postopkov za preverjanje in potrjevanje nacionalnih poklicnih kvalifikacij",
+      "shortCode": "PRAV5196",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3683",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2003-08-06",
+      "validFrom": "2003-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3683",
+      "versions": [
+        {
+          "id": "PRAV5196-original",
+          "shortCode": "PRAV5196",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-06",
+          "effectiveFrom": "2003-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3812"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3683",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

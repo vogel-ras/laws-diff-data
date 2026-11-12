@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4473",
+  "path": "laws/PR/PRAV4473",
+  "members": [
+    {
+      "id": "PRAV4473",
+      "title": "Pravilnik o načinu in rokih usklajevanja terjatev in obveznosti po 37. členu zakona o računovodstvu",
+      "shortTitle": "Pravilnik o načinu in rokih usklajevanja terjatev in obveznosti po 37. členu zakona o računovodstvu",
+      "shortCode": "PRAV4473",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5692",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2002-12-28",
+      "validFrom": "2002-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5692",
+      "versions": [
+        {
+          "id": "PRAV4473-original",
+          "shortCode": "PRAV4473",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5692",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5385",
+      "title": "Pravilnik o spremembi pravilnika o načinu in rokih usklajevanja terjatev in obveznosti po 37. členu zakona o računovodstvu",
+      "shortTitle": "Pravilnik o spremembi pravilnika o načinu in rokih usklajevanja terjatev in obveznosti po 37. členu zakona o računovodstvu",
+      "shortCode": "PRAV5385",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5844",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2003-12-30",
+      "validFrom": "2003-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5844",
+      "versions": [
+        {
+          "id": "PRAV5385-original",
+          "shortCode": "PRAV5385",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-30",
+          "effectiveFrom": "2003-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4473"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5844",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

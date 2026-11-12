@@ -1,0 +1,95 @@
+{
+  "root": "REACH",
+  "path": "laws/RE/REACH",
+  "members": [
+    {
+      "id": "URED4417",
+      "title": "Uredba o izvajanju Uredbe (ES) o registraciji, evalvaciji, avtorizaciji in omejevanju kemikalij (REACH)",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) o registraciji, evalvaciji, avtorizaciji in omejevanju kemikalij (REACH)",
+      "shortCode": "REACH",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0843",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-22",
+      "validFrom": "2025-08-22",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0843",
+      "versions": [
+        {
+          "id": "URED4417-original",
+          "shortCode": "REACH",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-22",
+          "effectiveFrom": "2025-08-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0843",
+          "proposer": null
+        },
+        {
+          "id": "URED4417-npb-URED4417",
+          "shortCode": "REACH-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-07",
+          "effectiveFrom": "2008-03-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4417",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8158",
+      "title": "Uredba o spremembi in dopolnitvah Uredbe o izvajanju Uredbe (ES) o registraciji, evalvaciji, avtorizaciji in omejevanju kemikalij (REACH)",
+      "shortTitle": "Uredba o spremembi in dopolnitvah Uredbe o izvajanju Uredbe (ES) o registraciji, evalvaciji, avtorizaciji in omejevanju kemikalij (REACH)",
+      "shortCode": "REACH",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3351",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-12-18",
+      "validFrom": "2020-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3351",
+      "versions": [
+        {
+          "id": "URED8158-original",
+          "shortCode": "REACH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-18",
+          "effectiveFrom": "2020-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3351",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

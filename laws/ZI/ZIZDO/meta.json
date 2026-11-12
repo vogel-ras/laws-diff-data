@@ -1,0 +1,46 @@
+{
+  "root": "ZIZDO",
+  "path": "laws/ZI/ZIZDO",
+  "members": [
+    {
+      "id": "ZIZDO",
+      "title": "Zakon o izjemnem znižanju davčne obveznosti",
+      "shortTitle": "Zakon o izjemnem znižanju davčne obveznosti",
+      "shortCode": "ZIZDO",
+      "kind": "zakon",
+      "keywords": [
+        "davčna olajšava",
+        "dohodnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2067",
+      "gazette": "Uradni list RS 44/2000  str. 5940",
+      "issuingBody": null,
+      "adoptedAt": "2000-05-26",
+      "validFrom": "2000-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2067",
+      "versions": [
+        {
+          "id": "ZIZDO-original",
+          "shortCode": "ZIZDO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/2000  str. 5940",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2067",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

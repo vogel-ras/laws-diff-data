@@ -1,0 +1,97 @@
+{
+  "root": "PRAV7011",
+  "path": "laws/PR/PRAV7011",
+  "members": [
+    {
+      "id": "PRAV7011",
+      "title": "Pravilnik o splošnih in posebnih ukrepih pri kužnem arteritisu kopitarjev (Arteritis equi)",
+      "shortTitle": "Pravilnik o splošnih in posebnih ukrepih pri kužnem arteritisu kopitarjev (Arteritis equi)",
+      "shortCode": "PRAV7011",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3339",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-10-25",
+      "validFrom": "2005-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3339",
+      "versions": [
+        {
+          "id": "PRAV7011-original",
+          "shortCode": "PRAV7011",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-25",
+          "effectiveFrom": "2005-10-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3339",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7011-npb-PRAV7011",
+          "shortCode": "PRAV7011-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-08-09",
+          "effectiveFrom": "2005-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7011",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7141",
+      "title": "Pravilnik o spremembi Pravilnika o splošnih in posebnih ukrepih pri kužnem arteritisu kopitarjev (Arteritis equi)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o splošnih in posebnih ukrepih pri kužnem arteritisu kopitarjev (Arteritis equi)",
+      "shortCode": "PRAV7141",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-4113",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-10-25",
+      "validFrom": "2005-10-25",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4113",
+      "versions": [
+        {
+          "id": "PRAV7141-original",
+          "shortCode": "PRAV7141",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-10-25",
+          "effectiveFrom": "2005-10-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7011"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4113",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

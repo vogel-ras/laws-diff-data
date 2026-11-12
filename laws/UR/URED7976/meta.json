@@ -1,0 +1,136 @@
+{
+  "root": "URED7976",
+  "path": "laws/UR/URED7976",
+  "members": [
+    {
+      "id": "URED7976",
+      "title": "Uredba o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortTitle": "Uredba o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortCode": "URED7976",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-3318",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-12-13",
+      "validFrom": "2019-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3318",
+      "versions": [
+        {
+          "id": "URED7976-original",
+          "shortCode": "URED7976",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-13",
+          "effectiveFrom": "2019-12-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3318",
+          "proposer": null
+        },
+        {
+          "id": "URED7976-npb-URED7976",
+          "shortCode": "URED7976-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-12-13",
+          "effectiveFrom": "2019-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8081",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortCode": "URED8081",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-1176",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-05-29",
+      "validFrom": "2020-05-29",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1176",
+      "versions": [
+        {
+          "id": "URED8081-original",
+          "shortCode": "URED8081",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-05-29",
+          "effectiveFrom": "2020-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1176",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8204",
+      "title": "Uredba o spremembah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortTitle": "Uredba o spremembah Uredbe o ukrepu dobrobit živali iz Programa razvoja podeželja Republike Slovenije za obdobje 2014–2020 v letu 2020",
+      "shortCode": "URED8204",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3206",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-12-10",
+      "validFrom": "2020-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3206",
+      "versions": [
+        {
+          "id": "URED8204-original",
+          "shortCode": "URED8204",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-10",
+          "effectiveFrom": "2020-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3206",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

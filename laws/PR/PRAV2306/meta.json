@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2306",
+  "path": "laws/PR/PRAV2306",
+  "members": [
+    {
+      "id": "PRAV2306",
+      "title": "Pravilnik o nadzoru nad izvajanjem zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortTitle": "Pravilnik o nadzoru nad izvajanjem zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortCode": "PRAV2306",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-4701",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-28",
+      "validFrom": "1998-12-28",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4701",
+      "versions": [
+        {
+          "id": "PRAV2306-original",
+          "shortCode": "PRAV2306",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-28",
+          "effectiveFrom": "1998-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4701",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4304",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o nadzoru nad izvajanjem zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o nadzoru nad izvajanjem zakona o zasebnem varovanju in o obveznem organiziranju službe varovanja",
+      "shortCode": "PRAV4304",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-3611",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-08-23",
+      "validFrom": "2002-08-23",
+      "validTo": null,
+      "latestPublishedAt": "2002-08-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3611",
+      "versions": [
+        {
+          "id": "PRAV4304-original",
+          "shortCode": "PRAV4304",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-08-23",
+          "effectiveFrom": "2002-08-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2306"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3611",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

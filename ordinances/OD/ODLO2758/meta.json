@@ -1,0 +1,82 @@
+{
+  "root": "ODLO2758",
+  "path": "ordinances/OD/ODLO2758",
+  "members": [
+    {
+      "id": "ODLO2758",
+      "title": "Odlok o začasnih ukrepih v upravnih zadevah za preprečevanje posledic poplav, ki so prizadele Republiko Slovenijo avgusta 2023",
+      "shortTitle": "Odlok o začasnih ukrepih v upravnih zadevah za preprečevanje posledic poplav, ki so prizadele Republiko Slovenijo avgusta 2023",
+      "shortCode": "ODLO2758",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2023-01-2598",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-08-05",
+      "validFrom": "2023-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2598",
+      "versions": [
+        {
+          "id": "ODLO2758-original",
+          "shortCode": "ODLO2758",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-08-05",
+          "effectiveFrom": "2023-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2598",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2759",
+      "title": "Odlok o spremembi Odloka o začasnih ukrepih v upravnih zadevah za preprečevanje posledic poplav, ki so prizadele Republiko Slovenijo avgusta 2023",
+      "shortTitle": "Odlok o spremembi Odloka o začasnih ukrepih v upravnih zadevah za preprečevanje posledic poplav, ki so prizadele Republiko Slovenijo avgusta 2023",
+      "shortCode": "ODLO2759",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2023-01-2619",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-08-11",
+      "validFrom": "2023-08-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2619",
+      "versions": [
+        {
+          "id": "ODLO2759-original",
+          "shortCode": "ODLO2759",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-08-11",
+          "effectiveFrom": "2023-08-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2758"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2619",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

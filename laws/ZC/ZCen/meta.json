@@ -1,0 +1,46 @@
+{
+  "root": "ZCen",
+  "path": "laws/ZC/ZCen",
+  "members": [
+    {
+      "id": "ZCen",
+      "title": "Zakon o cenah",
+      "shortTitle": "Zakon o cenah",
+      "shortCode": "ZCen",
+      "kind": "zakon",
+      "keywords": [
+        "administrativna cena",
+        "določanje cen"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0021",
+      "gazette": "Uradni list RS 1/91  str. 70",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0021",
+      "versions": [
+        {
+          "id": "ZCen-original",
+          "shortCode": "ZCen",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 70",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0021",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

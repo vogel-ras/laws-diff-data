@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5900",
+  "path": "laws/PR/PRAV5900",
+  "members": [
+    {
+      "id": "PRAV10327",
+      "title": "Pravilnik o spremembah Pravilnika o kategorijah potrošnikov, ki so upravičeni do posebnih cenovnih opcij ali paketov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o kategorijah potrošnikov, ki so upravičeni do posebnih cenovnih opcij ali paketov",
+      "shortCode": "PRAV10327",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-4869",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-11-19",
+      "validFrom": "2010-11-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4869",
+      "versions": [
+        {
+          "id": "PRAV10327-original",
+          "shortCode": "PRAV10327",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-19",
+          "effectiveFrom": "2010-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5900"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4869",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5900",
+      "title": "Pravilnik o kategorijah potrošnikov, ki so upravičeni do posebnih cenovnih opcij ali paketov",
+      "shortTitle": "Pravilnik o kategorijah potrošnikov, ki so upravičeni do posebnih cenovnih opcij ali paketov",
+      "shortCode": "PRAV5900",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-4423",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4423",
+      "versions": [
+        {
+          "id": "PRAV5900-original",
+          "shortCode": "PRAV5900",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4423",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

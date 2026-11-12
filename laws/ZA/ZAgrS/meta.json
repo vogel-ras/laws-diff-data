@@ -1,0 +1,101 @@
+{
+  "root": "ZAgrS",
+  "path": "laws/ZA/ZAgrS",
+  "members": [
+    {
+      "id": "ZAgrS",
+      "title": "Zakon o agrarnih skupnostih",
+      "shortTitle": "Zakon o agrarnih skupnostih",
+      "shortCode": "ZAgrS",
+      "kind": "zakon",
+      "keywords": [
+        "kmetijska skupnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2871",
+      "gazette": "Uradni list RS 74/15  str. 8089",
+      "issuingBody": null,
+      "adoptedAt": "2015-10-02",
+      "validFrom": "2015-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2871",
+      "versions": [
+        {
+          "id": "ZAgrS-original",
+          "shortCode": "ZAgrS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 74/15  str. 8089",
+          "publishedAt": "2015-10-02",
+          "effectiveFrom": "2015-10-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2871",
+          "proposer": null
+        },
+        {
+          "id": "ZAgrS-amend-ZAgrS-B",
+          "shortCode": "ZAgrS-B",
+          "label": "Sprememba ZAgrS-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/24  str. 3551",
+          "publishedAt": "2024-05-07",
+          "effectiveFrom": "2024-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAgrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1290",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAgrS-B",
+      "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o agrarnih skupnostih",
+      "shortTitle": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o agrarnih skupnostih",
+      "shortCode": "ZAgrS-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1290",
+      "gazette": "Uradni list RS 38/24  str. 3551",
+      "issuingBody": null,
+      "adoptedAt": "2024-05-07",
+      "validFrom": "2024-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1290",
+      "versions": [
+        {
+          "id": "ZAgrS-B-original",
+          "shortCode": "ZAgrS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/24  str. 3551",
+          "publishedAt": "2024-05-07",
+          "effectiveFrom": "2024-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAgrS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1290",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "ZUOKPOE",
+  "path": "laws/ZU/ZUOKPOE",
+  "members": [
+    {
+      "id": "ZUOKPOE",
+      "title": "Zakon o ukrepih za obvladovanje kriznih razmer na področju oskrbe z energijo",
+      "shortTitle": "Zakon o ukrepih za obvladovanje kriznih razmer na področju oskrbe z energijo",
+      "shortCode": "ZUOKPOE",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-2848",
+      "gazette": "Uradni list RS 121/22  str. 8433",
+      "issuingBody": null,
+      "adoptedAt": "2022-09-21",
+      "validFrom": "2022-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2848",
+      "versions": [
+        {
+          "id": "ZUOKPOE-original",
+          "shortCode": "ZUOKPOE",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 121/22  str. 8433",
+          "publishedAt": "2022-09-21",
+          "effectiveFrom": "2022-09-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2848",
+          "proposer": null
+        },
+        {
+          "id": "ZUOKPOE-amend-ZUOKPOE-A",
+          "shortCode": "ZUOKPOE-A",
+          "label": "Sprememba ZUOKPOE-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 49/23  str. 4167",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUOKPOE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1518",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUOKPOE-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o ukrepih za obvladovanje kriznih razmer na področju oskrbe z energijo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o ukrepih za obvladovanje kriznih razmer na področju oskrbe z energijo",
+      "shortCode": "ZUOKPOE-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1518",
+      "gazette": "Uradni list RS 49/23  str. 4167",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-28",
+      "validFrom": "2023-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1518",
+      "versions": [
+        {
+          "id": "ZUOKPOE-A-original",
+          "shortCode": "ZUOKPOE-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/23  str. 4167",
+          "publishedAt": "2023-04-28",
+          "effectiveFrom": "2023-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUOKPOE"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1518",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

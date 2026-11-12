@@ -1,0 +1,121 @@
+{
+  "root": "URED1208",
+  "path": "laws/UR/URED1208",
+  "members": [
+    {
+      "id": "URED1208",
+      "title": "Uredba o oblikovanju cen naftnih derivatov",
+      "shortTitle": "Uredba o oblikovanju cen naftnih derivatov",
+      "shortCode": "URED1208",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1398",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-03-31",
+      "validFrom": "2000-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1398",
+      "versions": [
+        {
+          "id": "URED1208-original",
+          "shortCode": "URED1208",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-31",
+          "effectiveFrom": "2000-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1398",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4156",
+      "title": "Uredba o spremembi Uredbe o oblikovanju cen naftnih derivatov",
+      "shortTitle": "Uredba o spremembi Uredbe o oblikovanju cen naftnih derivatov",
+      "shortCode": "URED4156",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-3072",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-07-07",
+      "validFrom": "2006-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3072",
+      "versions": [
+        {
+          "id": "URED4156-original",
+          "shortCode": "URED4156",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-07-07",
+          "effectiveFrom": "2006-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1208"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3072",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4807",
+      "title": "Uredba o spremembi Uredbe o oblikovanju cen naftnih derivatov",
+      "shortTitle": "Uredba o spremembi Uredbe o oblikovanju cen naftnih derivatov",
+      "shortCode": "URED4807",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5975",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-21",
+      "validFrom": "2007-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5975",
+      "versions": [
+        {
+          "id": "URED4807-original",
+          "shortCode": "URED4807",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-21",
+          "effectiveFrom": "2007-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1208"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5975",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

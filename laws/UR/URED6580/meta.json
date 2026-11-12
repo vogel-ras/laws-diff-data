@@ -1,0 +1,97 @@
+{
+  "root": "URED6580",
+  "path": "laws/UR/URED6580",
+  "members": [
+    {
+      "id": "URED6580",
+      "title": "Uredba o izvajanju Uredbe (EU) o poročanju, analizi in spremljanju dogodkov v civilnem letalstvu",
+      "shortTitle": "Uredba o izvajanju Uredbe (EU) o poročanju, analizi in spremljanju dogodkov v civilnem letalstvu",
+      "shortCode": "URED6580",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-1598",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-05-23",
+      "validFrom": "2016-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1598",
+      "versions": [
+        {
+          "id": "URED6580-original",
+          "shortCode": "URED6580",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-05-23",
+          "effectiveFrom": "2016-05-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1598",
+          "proposer": null
+        },
+        {
+          "id": "URED6580-npb-URED6580",
+          "shortCode": "URED6580-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-05-23",
+          "effectiveFrom": "2016-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6580",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7919",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe (EU) o poročanju, analizi in spremljanju dogodkov v civilnem letalstvu",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe (EU) o poročanju, analizi in spremljanju dogodkov v civilnem letalstvu",
+      "shortCode": "URED7919",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-2417",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-08-23",
+      "validFrom": "2019-08-23",
+      "validTo": null,
+      "latestPublishedAt": "2019-08-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2417",
+      "versions": [
+        {
+          "id": "URED7919-original",
+          "shortCode": "URED7919",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-08-23",
+          "effectiveFrom": "2019-08-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6580"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2417",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

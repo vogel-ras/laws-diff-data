@@ -1,0 +1,546 @@
+{
+  "root": "ZIL",
+  "path": "laws/ZI/ZIL",
+  "members": [
+    {
+      "id": "ZIL",
+      "title": "Zakon o industrijski lastnini",
+      "shortTitle": "Zakon o industrijski lastnini",
+      "shortCode": "ZIL",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0676",
+      "gazette": "Uradni list RS 13/92  str. 816",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-20",
+      "validFrom": "1992-03-20",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0676",
+      "versions": [
+        {
+          "id": "ZIL-original",
+          "shortCode": "ZIL",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/92  str. 816",
+          "publishedAt": "1992-03-20",
+          "effectiveFrom": "1992-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0676",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-amend-ZIL-A",
+          "shortCode": "ZIL-A",
+          "label": "Sprememba ZIL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 27/93  str. 1467",
+          "publishedAt": "1993-05-29",
+          "effectiveFrom": "1993-05-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1222",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-amend-ZIL-B",
+          "shortCode": "ZIL-B",
+          "label": "Sprememba ZIL-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 75/97  str. 5894",
+          "publishedAt": "1997-12-05",
+          "effectiveFrom": "1997-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3589",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1",
+      "title": "Zakon o industrijski lastnini",
+      "shortTitle": "Zakon o industrijski lastnini",
+      "shortCode": "ZIL-1",
+      "kind": "zakon",
+      "keywords": [
+        "pravdni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2547",
+      "gazette": "Uradni list RS 45/2001  str. 5007",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-07",
+      "validFrom": "2001-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2547",
+      "versions": [
+        {
+          "id": "ZIL-1-original",
+          "shortCode": "ZIL-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/2001  str. 5007",
+          "publishedAt": "2001-06-07",
+          "effectiveFrom": "2001-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2547",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1A",
+          "shortCode": "ZIL-1A",
+          "label": "Sprememba ZIL-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 96/2002  str. 10493",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4798",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1B",
+          "shortCode": "ZIL-1B",
+          "label": "Sprememba ZIL-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 37/04  str. 4453",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1601",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1C",
+          "shortCode": "ZIL-1C",
+          "label": "Sprememba ZIL-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 20/06  str. 1965",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0749",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1D",
+          "shortCode": "ZIL-1D",
+          "label": "Sprememba ZIL-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 100/13  str. 10964",
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3601",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1E",
+          "shortCode": "ZIL-1E",
+          "label": "Sprememba ZIL-1E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 23/20  str. 1727",
+          "publishedAt": "2020-03-14",
+          "effectiveFrom": "2020-03-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0555",
+          "proposer": null
+        },
+        {
+          "id": "ZIL-1-amend-ZIL-1F",
+          "shortCode": "ZIL-1F",
+          "label": "Sprememba ZIL-1F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 76/23  str. 6677",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2393",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1A",
+      "title": "Zakon o spremembi zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembi zakona o industrijski lastnini",
+      "shortCode": "ZIL-1A",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina",
+        "patent"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4798",
+      "gazette": "Uradni list RS 96/2002  str. 10493",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4798",
+      "versions": [
+        {
+          "id": "ZIL-1A-original",
+          "shortCode": "ZIL-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10493",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4798",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1B",
+      "title": "Zakon o spremembi zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembi zakona o industrijski lastnini",
+      "shortCode": "ZIL-1B",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina",
+        "patent"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1601",
+      "gazette": "Uradni list RS 37/04  str. 4453",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-15",
+      "validFrom": "2004-04-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1601",
+      "versions": [
+        {
+          "id": "ZIL-1B-original",
+          "shortCode": "ZIL-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/04  str. 4453",
+          "publishedAt": "2004-04-15",
+          "effectiveFrom": "2004-04-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1601",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o industrijski lastnini",
+      "shortCode": "ZIL-1C",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0749",
+      "gazette": "Uradni list RS 20/06  str. 1965",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-24",
+      "validFrom": "2006-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0749",
+      "versions": [
+        {
+          "id": "ZIL-1C-original",
+          "shortCode": "ZIL-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/06  str. 1965",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0749",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1D",
+      "title": "Zakon o spremembi Zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembi Zakona o industrijski lastnini",
+      "shortCode": "ZIL-1D",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3601",
+      "gazette": "Uradni list RS 100/13  str. 10964",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-06",
+      "validFrom": "2013-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3601",
+      "versions": [
+        {
+          "id": "ZIL-1D-original",
+          "shortCode": "ZIL-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/13  str. 10964",
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3601",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o industrijski lastnini",
+      "shortCode": "ZIL-1E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0555",
+      "gazette": "Uradni list RS 23/20  str. 1727",
+      "issuingBody": null,
+      "adoptedAt": "2020-03-14",
+      "validFrom": "2020-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0555",
+      "versions": [
+        {
+          "id": "ZIL-1E-original",
+          "shortCode": "ZIL-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/20  str. 1727",
+          "publishedAt": "2020-03-14",
+          "effectiveFrom": "2020-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0555",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-1F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o industrijski lastnini",
+      "shortCode": "ZIL-1F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2393",
+      "gazette": "Uradni list RS 76/23  str. 6677",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2393",
+      "versions": [
+        {
+          "id": "ZIL-1F-original",
+          "shortCode": "ZIL-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6677",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2393",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o industrijski lastnini",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o industrijski lastnini",
+      "shortCode": "ZIL-A",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1222",
+      "gazette": "Uradni list RS 27/93  str. 1467",
+      "issuingBody": null,
+      "adoptedAt": "1993-05-29",
+      "validFrom": "1993-05-29",
+      "validTo": null,
+      "latestPublishedAt": "1993-05-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1222",
+      "versions": [
+        {
+          "id": "ZIL-A-original",
+          "shortCode": "ZIL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 27/93  str. 1467",
+          "publishedAt": "1993-05-29",
+          "effectiveFrom": "1993-05-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1222",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIL-B",
+      "title": "Zakon o dopolnitvi zakona o industrijski lastnini",
+      "shortTitle": "Zakon o dopolnitvi zakona o industrijski lastnini",
+      "shortCode": "ZIL-B",
+      "kind": "zakon",
+      "keywords": [
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3589",
+      "gazette": "Uradni list RS 75/97  str. 5894",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-05",
+      "validFrom": "1997-12-05",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3589",
+      "versions": [
+        {
+          "id": "ZIL-B-original",
+          "shortCode": "ZIL-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/97  str. 5894",
+          "publishedAt": "1997-12-05",
+          "effectiveFrom": "1997-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3589",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

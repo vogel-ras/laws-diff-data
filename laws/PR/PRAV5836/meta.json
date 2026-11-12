@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5836",
+  "path": "laws/PR/PRAV5836",
+  "members": [
+    {
+      "id": "PRAV5836",
+      "title": "Pravilnik o kazenski evidenci",
+      "shortTitle": "Pravilnik o kazenski evidenci",
+      "shortCode": "PRAV5836",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1540",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-07",
+      "validFrom": "2006-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1540",
+      "versions": [
+        {
+          "id": "PRAV5836-original",
+          "shortCode": "PRAV5836",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1540",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6622",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o kazenski evidenci",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o kazenski evidenci",
+      "shortCode": "PRAV6622",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5373",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-12-07",
+      "validFrom": "2006-12-07",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5373",
+      "versions": [
+        {
+          "id": "PRAV6622-original",
+          "shortCode": "PRAV6622",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-07",
+          "effectiveFrom": "2006-12-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5836"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5373",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4575",
+  "path": "laws/PR/PRAV4575",
+  "members": [
+    {
+      "id": "PRAV12957",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za trajanje, primerih in pogojih dopusta sodnikov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za trajanje, primerih in pogojih dopusta sodnikov",
+      "shortCode": "PRAV12957",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-2971",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-10",
+      "validFrom": "2017-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2971",
+      "versions": [
+        {
+          "id": "PRAV12957-original",
+          "shortCode": "PRAV12957",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-10",
+          "effectiveFrom": "2017-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4575"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2971",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4575",
+      "title": "Pravilnik o merilih za trajanje, primerih in pogojih dopusta sodnikov",
+      "shortTitle": "Pravilnik o merilih za trajanje, primerih in pogojih dopusta sodnikov",
+      "shortCode": "PRAV4575",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-1059",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2003-03-14",
+      "validFrom": "2003-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1059",
+      "versions": [
+        {
+          "id": "PRAV4575-original",
+          "shortCode": "PRAV4575",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-14",
+          "effectiveFrom": "2003-03-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1059",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4575-npb-PRAV4575",
+          "shortCode": "PRAV4575-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-14",
+          "effectiveFrom": "2003-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4575",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

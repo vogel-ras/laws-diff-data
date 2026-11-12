@@ -1,0 +1,173 @@
+{
+  "root": "ZSSuk",
+  "path": "laws/ZS/ZSSuk",
+  "members": [
+    {
+      "id": "ZSSuk",
+      "title": "Zakon o Skladu Republike Slovenije za sukcesijo",
+      "shortTitle": "Zakon o Skladu Republike Slovenije za sukcesijo",
+      "shortCode": "ZSSuk",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "lastnina",
+        "delitev lastnine",
+        "Jugoslavija",
+        "sklad",
+        "sukcesija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0431",
+      "gazette": "Uradni list RS 10/93  str. 453",
+      "issuingBody": null,
+      "adoptedAt": "1993-02-24",
+      "validFrom": "1993-02-24",
+      "validTo": null,
+      "latestPublishedAt": "1997-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0431",
+      "versions": [
+        {
+          "id": "ZSSuk-original",
+          "shortCode": "ZSSuk",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/93  str. 453",
+          "publishedAt": "1993-02-24",
+          "effectiveFrom": "1993-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0431",
+          "proposer": null
+        },
+        {
+          "id": "ZSSuk-amend-ZSSuk-A",
+          "shortCode": "ZSSuk-A",
+          "label": "Sprememba ZSSuk-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/94  str. 2445",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSSuk"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1520",
+          "proposer": null
+        },
+        {
+          "id": "ZSSuk-amend-ZSSuk-B",
+          "shortCode": "ZSSuk-B",
+          "label": "Sprememba ZSSuk-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 40/97  str. 3746",
+          "publishedAt": "1997-07-04",
+          "effectiveFrom": "1997-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSSuk"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2258",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSSuk-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o skladu Republike Slovenije za sukcesijo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o skladu Republike Slovenije za sukcesijo",
+      "shortCode": "ZSSuk-A",
+      "kind": "zakon",
+      "keywords": [
+        "Jugoslavija",
+        "sklad",
+        "sukcesija",
+        "terjatev",
+        "lastnina",
+        "delitev lastnine"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1520",
+      "gazette": "Uradni list RS 38/94  str. 2445",
+      "issuingBody": null,
+      "adoptedAt": "1994-06-30",
+      "validFrom": "1994-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1520",
+      "versions": [
+        {
+          "id": "ZSSuk-A-original",
+          "shortCode": "ZSSuk-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/94  str. 2445",
+          "publishedAt": "1994-06-30",
+          "effectiveFrom": "1994-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSSuk"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1520",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSSuk-B",
+      "title": "Zakon o dopolnitvah zakona o Skladu Republike Slovenije za sukcesijo",
+      "shortTitle": "Zakon o dopolnitvah zakona o Skladu Republike Slovenije za sukcesijo",
+      "shortCode": "ZSSuk-B",
+      "kind": "zakon",
+      "keywords": [
+        "sklad",
+        "sukcesija",
+        "Jugoslavija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-2258",
+      "gazette": "Uradni list RS 40/97  str. 3746",
+      "issuingBody": null,
+      "adoptedAt": "1997-07-04",
+      "validFrom": "1997-07-04",
+      "validTo": null,
+      "latestPublishedAt": "1997-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2258",
+      "versions": [
+        {
+          "id": "ZSSuk-B-original",
+          "shortCode": "ZSSuk-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/97  str. 3746",
+          "publishedAt": "1997-07-04",
+          "effectiveFrom": "1997-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSSuk"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2258",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

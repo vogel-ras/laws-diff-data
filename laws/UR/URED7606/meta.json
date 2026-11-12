@@ -1,0 +1,136 @@
+{
+  "root": "URED7606",
+  "path": "laws/UR/URED7606",
+  "members": [
+    {
+      "id": "URED7606",
+      "title": "Uredba o nacionalnem radonskem programu",
+      "shortTitle": "Uredba o nacionalnem radonskem programu",
+      "shortCode": "URED7606",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0799",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2018-03-20",
+      "validFrom": "2018-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0799",
+      "versions": [
+        {
+          "id": "URED7606-original",
+          "shortCode": "URED7606",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-20",
+          "effectiveFrom": "2018-03-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0799",
+          "proposer": null
+        },
+        {
+          "id": "URED7606-npb-URED7606",
+          "shortCode": "URED7606-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-20",
+          "effectiveFrom": "2018-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7606",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7840",
+      "title": "Uredba o spremembi Uredbe o nacionalnem radonskem programu",
+      "shortTitle": "Uredba o spremembi Uredbe o nacionalnem radonskem programu",
+      "shortCode": "URED7840",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-4258",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-12-31",
+      "validFrom": "2018-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4258",
+      "versions": [
+        {
+          "id": "URED7840-original",
+          "shortCode": "URED7840",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-31",
+          "effectiveFrom": "2018-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7606"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4258",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8170",
+      "title": "Uredba o spremembi Uredbe o nacionalnem radonskem programu",
+      "shortTitle": "Uredba o spremembi Uredbe o nacionalnem radonskem programu",
+      "shortCode": "URED8170",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2624",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-10-23",
+      "validFrom": "2020-10-23",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2624",
+      "versions": [
+        {
+          "id": "URED8170-original",
+          "shortCode": "URED8170",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-23",
+          "effectiveFrom": "2020-10-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7606"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2624",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13129",
+  "path": "laws/PR/PRAV13129",
+  "members": [
+    {
+      "id": "PRAV13129",
+      "title": "Pravilnik o podeljevanju naziva primarij",
+      "shortTitle": "Pravilnik o podeljevanju naziva primarij",
+      "shortCode": "PRAV13129",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-3195",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2017-12-01",
+      "validFrom": "2017-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3195",
+      "versions": [
+        {
+          "id": "PRAV13129-original",
+          "shortCode": "PRAV13129",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-01",
+          "effectiveFrom": "2017-12-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3195",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13129-npb-PRAV13129",
+          "shortCode": "PRAV13129-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-12-01",
+          "effectiveFrom": "2017-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13129",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "URED9568",
+  "path": "laws/UR/URED9568",
+  "members": [
+    {
+      "id": "URED9568",
+      "title": "Uredba o določitvi dogodkov, ob katerih se v letu 2027 izdajo priložnostni kovanci",
+      "shortTitle": "Uredba o določitvi dogodkov, ob katerih se v letu 2027 izdajo priložnostni kovanci",
+      "shortCode": "URED9568",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-0124",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2026-01-23",
+      "validFrom": "2026-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0124",
+      "versions": [
+        {
+          "id": "URED9568-original",
+          "shortCode": "URED9568",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-23",
+          "effectiveFrom": "2026-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0124",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9779",
+      "title": "Uredba o spremembi Uredbe o določitvi dogodkov, ob katerih se v letu 2027 izdajo priložnostni kovanci",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi dogodkov, ob katerih se v letu 2027 izdajo priložnostni kovanci",
+      "shortCode": "URED9779",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-2038",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-08-28",
+      "validFrom": "2026-08-28",
+      "validTo": null,
+      "latestPublishedAt": "2026-09-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2038",
+      "versions": [
+        {
+          "id": "URED9779-original",
+          "shortCode": "URED9779",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-08-28",
+          "effectiveFrom": "2026-08-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9568"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-2038",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV106",
+  "path": "laws/PR/PRAV106",
+  "members": [
+    {
+      "id": "PRAV106",
+      "title": "Pravilnik o pogojih za opravljanje aktuarskih poslov",
+      "shortTitle": "Pravilnik o pogojih za opravljanje aktuarskih poslov",
+      "shortCode": "PRAV106",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-3189",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-08-13",
+      "validFrom": "1999-08-13",
+      "validTo": null,
+      "latestPublishedAt": "1999-08-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3189",
+      "versions": [
+        {
+          "id": "PRAV106-original",
+          "shortCode": "PRAV106",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-08-13",
+          "effectiveFrom": "1999-08-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3189",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2188",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih za opravljanje aktuarskih poslov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o pogojih za opravljanje aktuarskih poslov",
+      "shortCode": "PRAV2188",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-4622",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "1999-12-03",
+      "validFrom": "1999-12-03",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4622",
+      "versions": [
+        {
+          "id": "PRAV2188-original",
+          "shortCode": "PRAV2188",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-12-03",
+          "effectiveFrom": "1999-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV106"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4622",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

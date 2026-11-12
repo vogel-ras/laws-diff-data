@@ -1,0 +1,223 @@
+{
+  "root": "ZNPK",
+  "path": "laws/ZN/ZNPK",
+  "members": [
+    {
+      "id": "ZNPK",
+      "title": "Zakon o nacionalnih poklicnih kvalifikacijah",
+      "shortTitle": "Zakon o nacionalnih poklicnih kvalifikacijah",
+      "shortCode": "ZNPK",
+      "kind": "zakon",
+      "keywords": [
+        "poklicna kvalifikacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3708",
+      "gazette": "Uradni list RS 81/2000  str. 9769",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-15",
+      "validFrom": "2000-09-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3708",
+      "versions": [
+        {
+          "id": "ZNPK-original",
+          "shortCode": "ZNPK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/2000  str. 9769",
+          "publishedAt": "2000-09-15",
+          "effectiveFrom": "2000-09-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3708",
+          "proposer": null
+        },
+        {
+          "id": "ZNPK-amend-ZNPK-A",
+          "shortCode": "ZNPK-A",
+          "label": "Sprememba ZNPK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 55/2003  str. 6477",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2755",
+          "proposer": null
+        },
+        {
+          "id": "ZNPK-amend-ZNPK-B",
+          "shortCode": "ZNPK-B",
+          "label": "Sprememba ZNPK-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 118/06  str. 12413",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5023",
+          "proposer": null
+        },
+        {
+          "id": "ZNPK-amend-ZNPK-C",
+          "shortCode": "ZNPK-C",
+          "label": "Sprememba ZNPK-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 85/09  str. 11359",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3792",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPK-A",
+      "title": "Zakon o spremembi zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortTitle": "Zakon o spremembi zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortCode": "ZNPK-A",
+      "kind": "zakon",
+      "keywords": [
+        "poklicna kvalifikacija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2755",
+      "gazette": "Uradni list RS 55/2003  str. 6477",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-09",
+      "validFrom": "2003-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2755",
+      "versions": [
+        {
+          "id": "ZNPK-A-original",
+          "shortCode": "ZNPK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/2003  str. 6477",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2755",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPK-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortCode": "ZNPK-B",
+      "kind": "zakon",
+      "keywords": [
+        "delovna sila",
+        "poklicna kvalifikacija",
+        "poklicne izkušnje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5023",
+      "gazette": "Uradni list RS 118/06  str. 12413",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-17",
+      "validFrom": "2006-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5023",
+      "versions": [
+        {
+          "id": "ZNPK-B-original",
+          "shortCode": "ZNPK-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 118/06  str. 12413",
+          "publishedAt": "2006-11-17",
+          "effectiveFrom": "2006-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5023",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPK-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nacionalnih poklicnih kvalifikacijah",
+      "shortCode": "ZNPK-C",
+      "kind": "zakon",
+      "keywords": [
+        "delovna sila",
+        "poklicna kvalifikacija",
+        "poklicne izkušnje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3792",
+      "gazette": "Uradni list RS 85/09  str. 11359",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3792",
+      "versions": [
+        {
+          "id": "ZNPK-C-original",
+          "shortCode": "ZNPK-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/09  str. 11359",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3792",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

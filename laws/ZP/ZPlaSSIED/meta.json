@@ -1,0 +1,155 @@
+{
+  "root": "ZPlaSSIED",
+  "path": "laws/ZP/ZPlaSSIED",
+  "members": [
+    {
+      "id": "ZAKO7574",
+      "title": "Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (ZPlaSSIED)",
+      "shortTitle": "Zakon o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (ZPlaSSIED)",
+      "shortCode": "ZPlaSSIED",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0274",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-01-06",
+      "validFrom": "2025-01-06",
+      "validTo": null,
+      "latestPublishedAt": "2025-01-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0274",
+      "versions": [
+        {
+          "id": "ZAKO7574-amend-ZPlaSSIED-A",
+          "shortCode": "ZPlaSSIED-A",
+          "label": "Sprememba ZPlaSSIED-A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/20  str. 4143",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7574"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1914",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7574-amend-ZAKO8993",
+          "shortCode": "ZPlaSSIED-B",
+          "label": "Sprememba ZPlaSSIED-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-12-27",
+          "effectiveFrom": "2024-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7574"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3797",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7574-original",
+          "shortCode": "ZPlaSSIED",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2025-01-06",
+          "effectiveFrom": "2025-01-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0274",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO8993",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (ZPlaSSIED-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih (ZPlaSSIED-B)",
+      "shortCode": "ZPlaSSIED-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2024-01-3797",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-27",
+      "validFrom": "2024-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3797",
+      "versions": [
+        {
+          "id": "ZAKO8993-original",
+          "shortCode": "ZPlaSSIED-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-27",
+          "effectiveFrom": "2024-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7574"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3797",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPlaSSIED-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o plačilnih storitvah, storitvah izdajanja elektronskega denarja in plačilnih sistemih",
+      "shortCode": "ZPlaSSIED-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-1914",
+      "gazette": "Uradni list RS 102/20  str. 4143",
+      "issuingBody": null,
+      "adoptedAt": "2020-07-22",
+      "validFrom": "2020-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2020-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1914",
+      "versions": [
+        {
+          "id": "ZPlaSSIED-A-original",
+          "shortCode": "ZPlaSSIED-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/20  str. 4143",
+          "publishedAt": "2020-07-22",
+          "effectiveFrom": "2020-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7574"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1914",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

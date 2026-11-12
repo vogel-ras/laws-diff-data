@@ -1,0 +1,97 @@
+{
+  "root": "URED7078",
+  "path": "laws/UR/URED7078",
+  "members": [
+    {
+      "id": "URED7078",
+      "title": "Uredba o koncesiji za rabo termalne vode za potrebe ogrevanja objektov družbe Siliko d. o. o. iz izvira Furlanove toplice in vrtine Ft-1/81",
+      "shortTitle": "Uredba o koncesiji za rabo termalne vode za potrebe ogrevanja objektov družbe Siliko d. o. o. iz izvira Furlanove toplice in vrtine Ft-1/81",
+      "shortCode": "URED7078",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3803",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-12-11",
+      "validFrom": "2015-12-11",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3803",
+      "versions": [
+        {
+          "id": "URED7078-original",
+          "shortCode": "URED7078",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3803",
+          "proposer": null
+        },
+        {
+          "id": "URED7078-npb-URED7078",
+          "shortCode": "URED7078-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-12-11",
+          "effectiveFrom": "2015-12-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7078",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7690",
+      "title": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode za potrebe ogrevanja objektov družbe Siliko d. o. o. iz izvira Furlanove toplice in vrtine Ft-1/81",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za rabo termalne vode za potrebe ogrevanja objektov družbe Siliko d. o. o. iz izvira Furlanove toplice in vrtine Ft-1/81",
+      "shortCode": "URED7690",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0648",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-02",
+      "validFrom": "2018-03-02",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0648",
+      "versions": [
+        {
+          "id": "URED7690-original",
+          "shortCode": "URED7690",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-02",
+          "effectiveFrom": "2018-03-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7078"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

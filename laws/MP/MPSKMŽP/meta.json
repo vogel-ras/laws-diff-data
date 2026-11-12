@@ -1,0 +1,167 @@
+{
+  "root": "MPSKMŽP",
+  "path": "laws/MP/MPSKMŽP",
+  "members": [
+    {
+      "id": "MPSKM_P",
+      "title": "Zakon o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortTitle": "Zakon o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortCode": "MPSKMŽP",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "protokol",
+        "mednarodna konvencija",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-02-0008",
+      "gazette": "Uradni list RS MP 2/04  str. 65",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-22",
+      "validFrom": "2004-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2012-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-02-0008",
+      "versions": [
+        {
+          "id": "MPSKM_P-original",
+          "shortCode": "MPSKMŽP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 2/04  str. 65",
+          "publishedAt": "2004-01-22",
+          "effectiveFrom": "2004-01-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-02-0008",
+          "proposer": null
+        },
+        {
+          "id": "MPSKM_P-amend-MPSKM_P-A",
+          "shortCode": "MPSKMŽP-A",
+          "label": "Sprememba MPSKM_P-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 16/06  str. 1095",
+          "publishedAt": "2006-08-02",
+          "effectiveFrom": "2006-08-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "MPSKM_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0082",
+          "proposer": null
+        },
+        {
+          "id": "MPSKM_P-amend-MPSKM_P-B",
+          "shortCode": "MPSKMŽP-B",
+          "label": "Sprememba MPSKM_P-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS MP 11/12  str. 280",
+          "publishedAt": "2012-10-19",
+          "effectiveFrom": "2012-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MPSKM_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0067",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MPSKM_P-A",
+      "title": "Zakon o dopolnitvi zakona o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortTitle": "Zakon o dopolnitvi zakona o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortCode": "MPSKMŽP-A",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodna konvencija",
+        "protokol",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-02-0082",
+      "gazette": "Uradni list RS MP 16/06  str. 1095",
+      "issuingBody": null,
+      "adoptedAt": "2006-08-02",
+      "validFrom": "2006-08-02",
+      "validTo": null,
+      "latestPublishedAt": "2006-08-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0082",
+      "versions": [
+        {
+          "id": "MPSKM_P-A-original",
+          "shortCode": "MPSKMŽP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 16/06  str. 1095",
+          "publishedAt": "2006-08-02",
+          "effectiveFrom": "2006-08-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MPSKM_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-02-0082",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MPSKM_P-B",
+      "title": "Zakon o spremembi Zakona o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortTitle": "Zakon o spremembi Zakona o ratifikaciji Protokola o spremembi Konvencije o mednarodnem železniškem prometu (COTIF) z dne 9. maja 1980 (Protokol 1999)",
+      "shortCode": "MPSKMŽP-B",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodni prevoz",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-02-0067",
+      "gazette": "Uradni list RS MP 11/12  str. 280",
+      "issuingBody": null,
+      "adoptedAt": "2012-10-19",
+      "validFrom": "2012-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0067",
+      "versions": [
+        {
+          "id": "MPSKM_P-B-original",
+          "shortCode": "MPSKMŽP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 11/12  str. 280",
+          "publishedAt": "2012-10-19",
+          "effectiveFrom": "2012-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MPSKM_P"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0067",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

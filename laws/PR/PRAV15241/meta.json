@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15241",
+  "path": "laws/PR/PRAV15241",
+  "members": [
+    {
+      "id": "PRAV15241",
+      "title": "Pravilnik o varovanju delavcev pred tveganji zaradi izpostavljenosti rakotvornim, mutagenim ali reprotoksičnim snovem pri delu",
+      "shortTitle": "Pravilnik o varovanju delavcev pred tveganji zaradi izpostavljenosti rakotvornim, mutagenim ali reprotoksičnim snovem pri delu",
+      "shortCode": "PRAV15241",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0823",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2024-04-04",
+      "validFrom": "2024-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0823",
+      "versions": [
+        {
+          "id": "PRAV15241-original",
+          "shortCode": "PRAV15241",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-04",
+          "effectiveFrom": "2024-04-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0823",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15241-npb-PRAV15241",
+          "shortCode": "PRAV15241-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-04-04",
+          "effectiveFrom": "2024-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15241",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15592",
+      "title": "Pravilnik o spremembah Pravilnika o varovanju delavcev pred tveganji zaradi izpostavljenosti rakotvornim, mutagenim ali reprotoksičnim snovem pri delu",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o varovanju delavcev pred tveganji zaradi izpostavljenosti rakotvornim, mutagenim ali reprotoksičnim snovem pri delu",
+      "shortCode": "PRAV15592",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-0946",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2025-04-18",
+      "validFrom": "2025-04-18",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0946",
+      "versions": [
+        {
+          "id": "PRAV15592-original",
+          "shortCode": "PRAV15592",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-18",
+          "effectiveFrom": "2025-04-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15241"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0946",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

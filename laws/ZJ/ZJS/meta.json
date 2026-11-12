@@ -1,0 +1,86 @@
+{
+  "root": "ZJS",
+  "path": "laws/ZJ/ZJS",
+  "members": [
+    {
+      "id": "ZAKO4710",
+      "title": "Zakon o javnih skladih (ZJS-1)",
+      "shortTitle": "Zakon o javnih skladih (ZJS-1)",
+      "shortCode": "ZJS-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-3449",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-04-30",
+      "validFrom": "2020-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3449",
+      "versions": [
+        {
+          "id": "ZAKO4710-original",
+          "shortCode": "ZJS-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3449",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJS",
+      "title": "Zakon o javnih skladih",
+      "shortTitle": "Zakon o javnih skladih",
+      "shortCode": "ZJS",
+      "kind": "zakon",
+      "keywords": [
+        "pravna oseba",
+        "javna lastnina",
+        "javno pravo",
+        "javno financiranje",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0976",
+      "gazette": "Uradni list RS 22/2000  str. 3143",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-10",
+      "validFrom": "2000-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0976",
+      "versions": [
+        {
+          "id": "ZJS-original",
+          "shortCode": "ZJS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/2000  str. 3143",
+          "publishedAt": "2000-03-10",
+          "effectiveFrom": "2000-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0976",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

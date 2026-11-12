@@ -1,0 +1,97 @@
+{
+  "root": "PRAV10635",
+  "path": "laws/PR/PRAV10635",
+  "members": [
+    {
+      "id": "PRAV10635",
+      "title": "Pravilnik o merilih za trajanje, primerih in pogojih dopusta državnih tožilcev",
+      "shortTitle": "Pravilnik o merilih za trajanje, primerih in pogojih dopusta državnih tožilcev",
+      "shortCode": "PRAV10635",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0128",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2012-01-20",
+      "validFrom": "2012-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0128",
+      "versions": [
+        {
+          "id": "PRAV10635-original",
+          "shortCode": "PRAV10635",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-01-20",
+          "effectiveFrom": "2012-01-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0128",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10635-npb-PRAV10635",
+          "shortCode": "PRAV10635-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-01-20",
+          "effectiveFrom": "2012-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10635",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13087",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za trajanje, primerih in pogojih dopusta državnih tožilcev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za trajanje, primerih in pogojih dopusta državnih tožilcev",
+      "shortCode": "PRAV13087",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-3429",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-13",
+      "validFrom": "2017-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3429",
+      "versions": [
+        {
+          "id": "PRAV13087-original",
+          "shortCode": "PRAV13087",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-13",
+          "effectiveFrom": "2017-12-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10635"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3429",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

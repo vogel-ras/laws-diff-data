@@ -1,0 +1,97 @@
+{
+  "root": "ODLO2024",
+  "path": "ordinances/OD/ODLO2024",
+  "members": [
+    {
+      "id": "ODLO2024",
+      "title": "Odlok o podaljšanju veljavnosti overitev meril",
+      "shortTitle": "Odlok o podaljšanju veljavnosti overitev meril",
+      "shortCode": "ODLO2024",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-0697",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2020-03-30",
+      "validFrom": "2020-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0697",
+      "versions": [
+        {
+          "id": "ODLO2024-original",
+          "shortCode": "ODLO2024",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-03-30",
+          "effectiveFrom": "2020-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0697",
+          "proposer": null
+        },
+        {
+          "id": "ODLO2024-npb-ODLO2024",
+          "shortCode": "ODLO2024-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2020-03-30",
+          "effectiveFrom": "2020-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO2024",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2061",
+      "title": "Odlok o spremembah Odloka o podaljšanju veljavnosti overitev meril",
+      "shortTitle": "Odlok o spremembah Odloka o podaljšanju veljavnosti overitev meril",
+      "shortCode": "ODLO2061",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2020-01-0940",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-04-30",
+      "validFrom": "2020-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0940",
+      "versions": [
+        {
+          "id": "ODLO2061-original",
+          "shortCode": "ODLO2061",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2024"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0940",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

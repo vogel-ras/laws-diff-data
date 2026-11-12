@@ -1,0 +1,58 @@
+{
+  "root": "URED8786",
+  "path": "laws/UR/URED8786",
+  "members": [
+    {
+      "id": "URED8786",
+      "title": "Uredba o načrtu razporeditve radiofrekvenčnih pasov",
+      "shortTitle": "Uredba o načrtu razporeditve radiofrekvenčnih pasov",
+      "shortCode": "URED8786",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-1612",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-05-05",
+      "validFrom": "2023-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1612",
+      "versions": [
+        {
+          "id": "URED8786-original",
+          "shortCode": "URED8786",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1612",
+          "proposer": null
+        },
+        {
+          "id": "URED8786-npb-URED8786",
+          "shortCode": "URED8786-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-05-05",
+          "effectiveFrom": "2023-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8786",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

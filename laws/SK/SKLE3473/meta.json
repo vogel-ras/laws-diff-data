@@ -1,0 +1,82 @@
+{
+  "root": "SKLE3473",
+  "path": "laws/SK/SKLE3473",
+  "members": [
+    {
+      "id": "SKLE3473",
+      "title": "Sklep o določitvi povprečnih stroškov priključevanja za nove uporabnike omrežja in za povečanje priključnih moči obstoječih uporabnikov",
+      "shortTitle": "Sklep o določitvi povprečnih stroškov priključevanja za nove uporabnike omrežja in za povečanje priključnih moči obstoječih uporabnikov",
+      "shortCode": "SKLE3473",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-0471",
+      "gazette": null,
+      "issuingBody": "Javna agencija Republike Slovenije za energijo",
+      "adoptedAt": "2003-01-31",
+      "validFrom": "2003-01-31",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0471",
+      "versions": [
+        {
+          "id": "SKLE3473-original",
+          "shortCode": "SKLE3473",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-31",
+          "effectiveFrom": "2003-01-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0471",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4486",
+      "title": "Sklep o spremembi sklepa o določitvi povprečnih stroškov priključevanja za nove uporabnike omrežja in za povečanje priključnih moči obstoječih uporabnikov",
+      "shortTitle": "Sklep o spremembi sklepa o določitvi povprečnih stroškov priključevanja za nove uporabnike omrežja in za povečanje priključnih moči obstoječih uporabnikov",
+      "shortCode": "SKLE4486",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-0661",
+      "gazette": null,
+      "issuingBody": "Javna agencija Republike Slovenije za energijo",
+      "adoptedAt": "2004-02-20",
+      "validFrom": "2004-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0661",
+      "versions": [
+        {
+          "id": "SKLE4486-original",
+          "shortCode": "SKLE4486",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE3473"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0661",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

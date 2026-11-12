@@ -1,0 +1,136 @@
+{
+  "root": "ZVEtL",
+  "path": "laws/ZV/ZVEtL",
+  "members": [
+    {
+      "id": "ZAKO5336",
+      "title": "Zakon o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL)",
+      "shortTitle": "Zakon o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL)",
+      "shortCode": "ZVEtL",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1981",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-05-09",
+      "validFrom": "2008-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2011-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1981",
+      "versions": [
+        {
+          "id": "ZAKO5336-original",
+          "shortCode": "ZVEtL",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-09",
+          "effectiveFrom": "2008-05-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1981",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5336-amend-ZAKO6044",
+          "shortCode": "ZVEtL-A",
+          "label": "Sprememba ZVEtL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-07-25",
+          "effectiveFrom": "2011-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5336"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2779",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO6044",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vzpostavitvi etažne lastnine na predlog pridobitelja posameznega dela stavbe in o določanju pripadajočega zemljišča k stavbi (ZVEtL-A)",
+      "shortCode": "ZVEtL-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2779",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-07-25",
+      "validFrom": "2011-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2779",
+      "versions": [
+        {
+          "id": "ZAKO6044-original",
+          "shortCode": "ZVEtL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-07-25",
+          "effectiveFrom": "2011-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5336"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2779",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7090",
+      "title": "Zakon o vzpostavitvi etažne lastnine na določenih stavbah in o ugotavljanju pripadajočega zemljišča (ZVEtL-1)",
+      "shortTitle": "Zakon o vzpostavitvi etažne lastnine na določenih stavbah in o ugotavljanju pripadajočega zemljišča (ZVEtL-1)",
+      "shortCode": "ZVEtL-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1841",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-04",
+      "validFrom": "2017-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1841",
+      "versions": [
+        {
+          "id": "ZAKO7090-original",
+          "shortCode": "ZVEtL-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-04",
+          "effectiveFrom": "2017-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1841",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

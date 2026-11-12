@@ -1,0 +1,105 @@
+{
+  "root": "ZKC",
+  "path": "laws/ZK/ZKC",
+  "members": [
+    {
+      "id": "ZKC",
+      "title": "Zakon o kontroli cen",
+      "shortTitle": "Zakon o kontroli cen",
+      "shortCode": "ZKC",
+      "kind": "zakon",
+      "keywords": [
+        "določanje cen",
+        "cenovna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-3008",
+      "gazette": "Uradni list RS 63/99  str. 8124",
+      "issuingBody": null,
+      "adoptedAt": "1999-08-06",
+      "validFrom": "1999-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3008",
+      "versions": [
+        {
+          "id": "ZKC-original",
+          "shortCode": "ZKC",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/99  str. 8124",
+          "publishedAt": "1999-08-06",
+          "effectiveFrom": "1999-08-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3008",
+          "proposer": null
+        },
+        {
+          "id": "ZKC-amend-ZKC-A",
+          "shortCode": "ZKC-A",
+          "label": "Sprememba ZKC-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 20/06  str. 1958",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0747",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKC-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o kontroli cen",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o kontroli cen",
+      "shortCode": "ZKC-A",
+      "kind": "zakon",
+      "keywords": [
+        "administrativno določanje cen",
+        "nadzor cen"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0747",
+      "gazette": "Uradni list RS 20/06  str. 1958",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-24",
+      "validFrom": "2006-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0747",
+      "versions": [
+        {
+          "id": "ZKC-A-original",
+          "shortCode": "ZKC-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/06  str. 1958",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKC"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0747",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

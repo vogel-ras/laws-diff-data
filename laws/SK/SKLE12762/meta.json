@@ -1,0 +1,82 @@
+{
+  "root": "SKLE12762",
+  "path": "laws/SK/SKLE12762",
+  "members": [
+    {
+      "id": "SKLE12762",
+      "title": "Sklep o uvedbi začasne zaščite za razseljene osebe iz Ukrajine",
+      "shortTitle": "Sklep o uvedbi začasne zaščite za razseljene osebe iz Ukrajine",
+      "shortCode": "SKLE12762",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-0648",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-09",
+      "validFrom": "2024-09-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0648",
+      "versions": [
+        {
+          "id": "SKLE12762-original",
+          "shortCode": "SKLE12762",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-09",
+          "effectiveFrom": "2024-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0648",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE13488",
+      "title": "Sklep o spremembi Sklepa o uvedbi začasne zaščite za razseljene osebe iz Ukrajine",
+      "shortTitle": "Sklep o spremembi Sklepa o uvedbi začasne zaščite za razseljene osebe iz Ukrajine",
+      "shortCode": "SKLE13488",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2024-01-0110",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-01-19",
+      "validFrom": "2024-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0110",
+      "versions": [
+        {
+          "id": "SKLE13488-original",
+          "shortCode": "SKLE13488",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-01-19",
+          "effectiveFrom": "2024-01-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE12762"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0110",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

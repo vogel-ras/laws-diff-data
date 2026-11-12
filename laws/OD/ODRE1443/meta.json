@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1443",
+  "path": "laws/OD/ODRE1443",
+  "members": [
+    {
+      "id": "ODRE1443",
+      "title": "Odredba o izobrazbi predavateljev in drugih strokovnih delavcev v programu za pridobitev višje strokovne izobrazbe Poslovni sekretar",
+      "shortTitle": "Odredba o izobrazbi predavateljev in drugih strokovnih delavcev v programu za pridobitev višje strokovne izobrazbe Poslovni sekretar",
+      "shortCode": "ODRE1443",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1998-01-4747",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-30",
+      "validFrom": "1998-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4747",
+      "versions": [
+        {
+          "id": "ODRE1443-original",
+          "shortCode": "ODRE1443",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-30",
+          "effectiveFrom": "1998-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4747",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4721",
+      "title": "Pravilnik o spremembi odredbe o izobrazbi predavateljev in drugih strokovnih delavcev v programu za pridobitev višje strokovne izobrazbe Poslovni sekretar",
+      "shortTitle": "Pravilnik o spremembi odredbe o izobrazbi predavateljev in drugih strokovnih delavcev v programu za pridobitev višje strokovne izobrazbe Poslovni sekretar",
+      "shortCode": "PRAV4721",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0609",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0609",
+      "versions": [
+        {
+          "id": "PRAV4721-original",
+          "shortCode": "PRAV4721",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1443"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0609",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV7545",
+  "path": "laws/PR/PRAV7545",
+  "members": [
+    {
+      "id": "PRAV10498",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o transfernih cenah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o transfernih cenah",
+      "shortCode": "PRAV10498",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0132",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2012-01-20",
+      "validFrom": "2012-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2012-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0132",
+      "versions": [
+        {
+          "id": "PRAV10498-original",
+          "shortCode": "PRAV10498",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-01-20",
+          "effectiveFrom": "2012-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7545"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7545",
+      "title": "Pravilnik o transfernih cenah",
+      "shortTitle": "Pravilnik o transfernih cenah",
+      "shortCode": "PRAV7545",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-6173",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2006-12-30",
+      "validFrom": "2006-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6173",
+      "versions": [
+        {
+          "id": "PRAV7545-original",
+          "shortCode": "PRAV7545",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-30",
+          "effectiveFrom": "2006-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-6173",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7545-npb-PRAV7545",
+          "shortCode": "PRAV7545-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-12-30",
+          "effectiveFrom": "2006-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7545",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

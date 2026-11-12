@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1487",
+  "path": "laws/OD/ODRE1487",
+  "members": [
+    {
+      "id": "ODRE1487",
+      "title": "Odredba o tržno informacijskem sistemu za trg govejega mesa",
+      "shortTitle": "Odredba o tržno informacijskem sistemu za trg govejega mesa",
+      "shortCode": "ODRE1487",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2000-01-4768",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-12-08",
+      "validFrom": "2000-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4768",
+      "versions": [
+        {
+          "id": "ODRE1487-original",
+          "shortCode": "ODRE1487",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-08",
+          "effectiveFrom": "2000-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4768",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1784",
+      "title": "Odredba o spremembi odredbe o tržno informacijskem sistemu za trg govejega mesa",
+      "shortTitle": "Odredba o spremembi odredbe o tržno informacijskem sistemu za trg govejega mesa",
+      "shortCode": "ODRE1784",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-5145",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-12-21",
+      "validFrom": "2001-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5145",
+      "versions": [
+        {
+          "id": "ODRE1784-original",
+          "shortCode": "ODRE1784",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-12-21",
+          "effectiveFrom": "2001-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1487"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5145",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

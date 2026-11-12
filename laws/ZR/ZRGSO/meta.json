@@ -1,0 +1,161 @@
+{
+  "root": "ZRGSO",
+  "path": "laws/ZR/ZRGSO",
+  "members": [
+    {
+      "id": "ZRGSO",
+      "title": "Zakon o ravnanju z gensko spremenjenimi organizmi",
+      "shortTitle": "Zakon o ravnanju z gensko spremenjenimi organizmi",
+      "shortCode": "ZRGSO",
+      "kind": "zakon",
+      "keywords": [
+        "genetsko spremenjen organizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3235",
+      "gazette": "Uradni list RS 67/2002  str. 7635",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3235",
+      "versions": [
+        {
+          "id": "ZRGSO-original",
+          "shortCode": "ZRGSO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7635",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3235",
+          "proposer": null
+        },
+        {
+          "id": "ZRGSO-amend-ZRGSO-A",
+          "shortCode": "ZRGSO-A",
+          "label": "Sprememba ZRGSO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 73/04  str. 8879",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZRGSO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3240",
+          "proposer": null
+        },
+        {
+          "id": "ZRGSO-amend-ZRGSO-B",
+          "shortCode": "ZRGSO-B",
+          "label": "Sprememba ZRGSO-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 21/10  str. 2658",
+          "publishedAt": "2010-03-15",
+          "effectiveFrom": "2010-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRGSO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0882",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRGSO-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ravnanju z gensko spremenjenimi organizmi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ravnanju z gensko spremenjenimi organizmi",
+      "shortCode": "ZRGSO-A",
+      "kind": "zakon",
+      "keywords": [
+        "genetsko spremenjen organizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3240",
+      "gazette": "Uradni list RS 73/04  str. 8879",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-05",
+      "validFrom": "2004-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3240",
+      "versions": [
+        {
+          "id": "ZRGSO-A-original",
+          "shortCode": "ZRGSO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/04  str. 8879",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRGSO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3240",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRGSO-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o ravnanju z gensko spremenjenimi organizmi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o ravnanju z gensko spremenjenimi organizmi",
+      "shortCode": "ZRGSO-B",
+      "kind": "zakon",
+      "keywords": [
+        "genetsko spremenjen organizem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0882",
+      "gazette": "Uradni list RS 21/10  str. 2658",
+      "issuingBody": null,
+      "adoptedAt": "2010-03-15",
+      "validFrom": "2010-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0882",
+      "versions": [
+        {
+          "id": "ZRGSO-B-original",
+          "shortCode": "ZRGSO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/10  str. 2658",
+          "publishedAt": "2010-03-15",
+          "effectiveFrom": "2010-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRGSO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0882",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

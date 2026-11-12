@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10613",
+  "path": "laws/PR/PRAV10613",
+  "members": [
+    {
+      "id": "PRAV10613",
+      "title": "Pravilnik o vozilih s prednostjo in vozilih za spremstvo",
+      "shortTitle": "Pravilnik o vozilih s prednostjo in vozilih za spremstvo",
+      "shortCode": "PRAV10613",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-2293",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za promet",
+      "adoptedAt": "2011-06-24",
+      "validFrom": "2011-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2011-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2293",
+      "versions": [
+        {
+          "id": "PRAV10613-original",
+          "shortCode": "PRAV10613",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-06-24",
+          "effectiveFrom": "2011-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2293",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10613-npb-PRAV10613",
+          "shortCode": "PRAV10613-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-06-24",
+          "effectiveFrom": "2011-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10613",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

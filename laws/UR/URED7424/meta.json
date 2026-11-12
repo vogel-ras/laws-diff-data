@@ -1,0 +1,97 @@
+{
+  "root": "URED7424",
+  "path": "laws/UR/URED7424",
+  "members": [
+    {
+      "id": "URED7424",
+      "title": "Uredba o načinu izvedbe preselitve oseb, ki so v Republiko Slovenijo sprejete na podlagi kvote in delitve bremen med državami članicami Evropske unije",
+      "shortTitle": "Uredba o načinu izvedbe preselitve oseb, ki so v Republiko Slovenijo sprejete na podlagi kvote in delitve bremen med državami članicami Evropske unije",
+      "shortCode": "URED7424",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-1319",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-05-12",
+      "validFrom": "2017-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2017-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1319",
+      "versions": [
+        {
+          "id": "URED7424-original",
+          "shortCode": "URED7424",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-05-12",
+          "effectiveFrom": "2017-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1319",
+          "proposer": null
+        },
+        {
+          "id": "URED7424-npb-URED7424",
+          "shortCode": "URED7424-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-05-12",
+          "effectiveFrom": "2017-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7424",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8338",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvedbe preselitve oseb, ki so v Republiko Slovenijo sprejete na podlagi kvote in delitve bremen med državami članicami Evropske unije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu izvedbe preselitve oseb, ki so v Republiko Slovenijo sprejete na podlagi kvote in delitve bremen med državami članicami Evropske unije",
+      "shortCode": "URED8338",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-3271",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-10-22",
+      "validFrom": "2021-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3271",
+      "versions": [
+        {
+          "id": "URED8338-original",
+          "shortCode": "URED8338",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-22",
+          "effectiveFrom": "2021-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7424"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3271",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

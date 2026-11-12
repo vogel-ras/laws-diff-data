@@ -1,0 +1,206 @@
+{
+  "root": "ZTVP",
+  "path": "laws/ZT/ZTVP",
+  "members": [
+    {
+      "id": "ZTVP",
+      "title": "Zakon o trgu vrednostnih papirjev",
+      "shortTitle": "Zakon o trgu vrednostnih papirjev",
+      "shortCode": "ZTVP",
+      "kind": "zakon",
+      "keywords": [
+        "trg",
+        "vrednostni papirji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0267",
+      "gazette": "Uradni list RS 6/94  str. 317",
+      "issuingBody": null,
+      "adoptedAt": "1994-02-11",
+      "validFrom": "1994-02-11",
+      "validTo": null,
+      "latestPublishedAt": "1994-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0267",
+      "versions": [
+        {
+          "id": "ZTVP-original",
+          "shortCode": "ZTVP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 6/94  str. 317",
+          "publishedAt": "1994-02-11",
+          "effectiveFrom": "1994-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0267",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTVP-1",
+      "title": "Zakon o trgu vrednostnih papirjev",
+      "shortTitle": "Zakon o trgu vrednostnih papirjev",
+      "shortCode": "ZTVP-1",
+      "kind": "zakon",
+      "keywords": [
+        "vrednostni papirji",
+        "trg"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2654",
+      "gazette": "Uradni list RS 56/99  str. 7090",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-13",
+      "validFrom": "1999-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2654",
+      "versions": [
+        {
+          "id": "ZTVP-1-original",
+          "shortCode": "ZTVP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/99  str. 7090",
+          "publishedAt": "1999-07-13",
+          "effectiveFrom": "1999-07-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2654",
+          "proposer": null
+        },
+        {
+          "id": "ZTVP-1-amend-ZTVP-1A",
+          "shortCode": "ZTVP-1A",
+          "label": "Sprememba ZTVP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10447",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZTVP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3850",
+          "proposer": null
+        },
+        {
+          "id": "ZTVP-1-amend-ZTVP-1B",
+          "shortCode": "ZTVP-1B",
+          "label": "Sprememba ZTVP-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 28/06  str. 2874",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTVP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1127",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTVP-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o trgu vrednostnih papirjev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o trgu vrednostnih papirjev",
+      "shortCode": "ZTVP-1A",
+      "kind": "zakon",
+      "keywords": [
+        "vrednostni papirji",
+        "delnica",
+        "obveznica",
+        "borza vrednostnih papirjev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3850",
+      "gazette": "Uradni list RS 86/04  str. 10447",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3850",
+      "versions": [
+        {
+          "id": "ZTVP-1A-original",
+          "shortCode": "ZTVP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10447",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTVP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3850",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTVP-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o trgu vrednostnih papirjev",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o trgu vrednostnih papirjev",
+      "shortCode": "ZTVP-1B",
+      "kind": "zakon",
+      "keywords": [
+        "trg",
+        "vrednostni papirji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1127",
+      "gazette": "Uradni list RS 28/06  str. 2874",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-17",
+      "validFrom": "2006-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1127",
+      "versions": [
+        {
+          "id": "ZTVP-1B-original",
+          "shortCode": "ZTVP-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/06  str. 2874",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTVP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1127",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

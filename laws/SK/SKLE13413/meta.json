@@ -1,0 +1,97 @@
+{
+  "root": "SKLE13413",
+  "path": "laws/SK/SKLE13413",
+  "members": [
+    {
+      "id": "SKLE13413",
+      "title": "Sklep o organizaciji in delu Zavoda za ribištvo Slovenije",
+      "shortTitle": "Sklep o organizaciji in delu Zavoda za ribištvo Slovenije",
+      "shortCode": "SKLE13413",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2023-01-3844",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2023-12-15",
+      "validFrom": "2023-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3844",
+      "versions": [
+        {
+          "id": "SKLE13413-original",
+          "shortCode": "SKLE13413",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-12-15",
+          "effectiveFrom": "2023-12-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3844",
+          "proposer": null
+        },
+        {
+          "id": "SKLE13413-npb-SKLE13413",
+          "shortCode": "SKLE13413-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2023-12-15",
+          "effectiveFrom": "2023-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=SKLE13413",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE14125",
+      "title": "Sklep o spremembah Sklepa o organizaciji in delu Zavoda za ribištvo Slovenije",
+      "shortTitle": "Sklep o spremembah Sklepa o organizaciji in delu Zavoda za ribištvo Slovenije",
+      "shortCode": "SKLE14125",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2025-01-2874",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-10-24",
+      "validFrom": "2025-10-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2874",
+      "versions": [
+        {
+          "id": "SKLE14125-original",
+          "shortCode": "SKLE14125",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-24",
+          "effectiveFrom": "2025-10-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE13413"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-2874",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

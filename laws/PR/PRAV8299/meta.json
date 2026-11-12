@@ -1,0 +1,58 @@
+{
+  "root": "PRAV8299",
+  "path": "laws/PR/PRAV8299",
+  "members": [
+    {
+      "id": "PRAV8299",
+      "title": "Pravilnik o izvajanju Zakona o davku od dohodkov pravnih oseb",
+      "shortTitle": "Pravilnik o izvajanju Zakona o davku od dohodkov pravnih oseb",
+      "shortCode": "PRAV8299",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-3215",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2007-07-06",
+      "validFrom": "2007-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3215",
+      "versions": [
+        {
+          "id": "PRAV8299-original",
+          "shortCode": "PRAV8299",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3215",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8299-npb-PRAV8299",
+          "shortCode": "PRAV8299-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-07-06",
+          "effectiveFrom": "2007-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8299",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "root": "URED1173",
+  "path": "laws/UR/URED1173",
+  "members": [
+    {
+      "id": "URED1173",
+      "title": "Uredba o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortTitle": "Uredba o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortCode": "URED1173",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-1181",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-03-23",
+      "validFrom": "2001-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1181",
+      "versions": [
+        {
+          "id": "URED1173-original",
+          "shortCode": "URED1173",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-03-23",
+          "effectiveFrom": "2001-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1181",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2561",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortCode": "URED2561",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-2617",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-06-21",
+      "validFrom": "2002-06-21",
+      "validTo": null,
+      "latestPublishedAt": "2002-06-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2617",
+      "versions": [
+        {
+          "id": "URED2561-original",
+          "shortCode": "URED2561",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-06-21",
+          "effectiveFrom": "2002-06-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1173"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2617",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3204",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o poslovnem času, uradnih urah in delovnem času v organih državne uprave",
+      "shortCode": "URED3204",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0785",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-02-27",
+      "validFrom": "2004-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0785",
+      "versions": [
+        {
+          "id": "URED3204-original",
+          "shortCode": "URED3204",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-27",
+          "effectiveFrom": "2004-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1173"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0785",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

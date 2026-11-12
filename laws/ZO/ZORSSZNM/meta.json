@@ -1,0 +1,109 @@
+{
+  "root": "ZORSSZNM",
+  "path": "laws/ZO/ZORSSZNM",
+  "members": [
+    {
+      "id": "ZORSSZNM",
+      "title": "Zakon o odnosih Republike Slovenije s Slovenci zunaj njenih meja",
+      "shortTitle": "Zakon o odnosih Republike Slovenije s Slovenci zunaj njenih meja",
+      "shortCode": "ZORSSZNM",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo manjšin",
+        "pomoč ob vrnitvi v matično državo",
+        "diaspora",
+        "migracijska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1836",
+      "gazette": "Uradni list RS 43/06  str. 4605",
+      "issuingBody": null,
+      "adoptedAt": "2006-04-21",
+      "validFrom": "2006-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1836",
+      "versions": [
+        {
+          "id": "ZORSSZNM-original",
+          "shortCode": "ZORSSZNM",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/06  str. 4605",
+          "publishedAt": "2006-04-21",
+          "effectiveFrom": "2006-04-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1836",
+          "proposer": null
+        },
+        {
+          "id": "ZORSSZNM-amend-ZORSSZNM-A",
+          "shortCode": "ZORSSZNM-A",
+          "label": "Sprememba ZORSSZNM-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 76/10  str. 11053",
+          "publishedAt": "2010-10-01",
+          "effectiveFrom": "2010-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZORSSZNM"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4129",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZORSSZNM-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odnosih Republike Slovenije s Slovenci zunaj njenih meja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odnosih Republike Slovenije s Slovenci zunaj njenih meja",
+      "shortCode": "ZORSSZNM-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo manjšin",
+        "pomoč ob vrnitvi v matično državo",
+        "diaspora",
+        "migracijska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4129",
+      "gazette": "Uradni list RS 76/10  str. 11053",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-01",
+      "validFrom": "2010-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4129",
+      "versions": [
+        {
+          "id": "ZORSSZNM-A-original",
+          "shortCode": "ZORSSZNM-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/10  str. 11053",
+          "publishedAt": "2010-10-01",
+          "effectiveFrom": "2010-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZORSSZNM"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4129",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

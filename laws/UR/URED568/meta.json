@@ -1,0 +1,97 @@
+{
+  "root": "URED568",
+  "path": "laws/UR/URED568",
+  "members": [
+    {
+      "id": "URED568",
+      "title": "Uredba o omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu",
+      "shortTitle": "Uredba o omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu",
+      "shortCode": "URED568",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-1990",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-07-21",
+      "validFrom": "1995-07-21",
+      "validTo": null,
+      "latestPublishedAt": "1995-07-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1990",
+      "versions": [
+        {
+          "id": "URED568-original",
+          "shortCode": "URED568",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-07-21",
+          "effectiveFrom": "1995-07-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1990",
+          "proposer": null
+        },
+        {
+          "id": "URED568-npb-URED568",
+          "shortCode": "URED568-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1995-07-21",
+          "effectiveFrom": "1995-07-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED568",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED570",
+      "title": "Uredba o spremembi uredbe o omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu",
+      "shortTitle": "Uredba o spremembi uredbe o omejevanju obtežb in porabe električne energije v elektroenergetskem sistemu",
+      "shortCode": "URED570",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1995-01-2940",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1995-11-10",
+      "validFrom": "1995-11-10",
+      "validTo": null,
+      "latestPublishedAt": "1995-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2940",
+      "versions": [
+        {
+          "id": "URED570-original",
+          "shortCode": "URED570",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-11-10",
+          "effectiveFrom": "1995-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED568"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2940",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

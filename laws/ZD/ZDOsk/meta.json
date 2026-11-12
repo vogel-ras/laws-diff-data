@@ -1,0 +1,192 @@
+{
+  "root": "ZDOsk",
+  "path": "laws/ZD/ZDOsk",
+  "members": [
+    {
+      "id": "DRUG5133",
+      "title": "Poročilo o končnem izidu glasovanja na zakonodajnem referendumu o Zakonu o spremembah Zakona o dolgotrajni oskrbi (ZDOsk-A)",
+      "shortTitle": "Poročilo o končnem izidu glasovanja na zakonodajnem referendumu o Zakonu o spremembah Zakona o dolgotrajni oskrbi (ZDOsk-A)",
+      "shortCode": "ZDOsk-A",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2022-01-3950",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-12-16",
+      "validFrom": "2022-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3950",
+      "versions": [
+        {
+          "id": "DRUG5133-original",
+          "shortCode": "ZDOsk-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-12-16",
+          "effectiveFrom": "2022-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3950",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7621",
+      "title": "Zakon o dolgotrajni oskrbi (ZDOsk)",
+      "shortTitle": "Zakon o dolgotrajni oskrbi (ZDOsk)",
+      "shortCode": "ZDOsk",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-3898",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-12-17",
+      "validFrom": "2021-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3898",
+      "versions": [
+        {
+          "id": "ZAKO7621-original",
+          "shortCode": "ZDOsk",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-17",
+          "effectiveFrom": "2021-12-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3898",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7621-amend-DRUG5133",
+          "shortCode": "ZDOsk-A",
+          "label": "Sprememba ZDOsk-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-12-16",
+          "effectiveFrom": "2022-12-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3950",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7621-amend-ZDOsk-A",
+          "shortCode": "ZDOsk-A",
+          "label": "Sprememba ZDOsk-A",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 163/22  str. 13714",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4193",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDOsk-1",
+      "title": "Zakon o dolgotrajni oskrbi",
+      "shortTitle": "Zakon o dolgotrajni oskrbi",
+      "shortCode": "ZDOsk-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2570",
+      "gazette": "Uradni list RS 84/23  str. 7215",
+      "issuingBody": null,
+      "adoptedAt": "2023-08-02",
+      "validFrom": "2023-08-02",
+      "validTo": null,
+      "latestPublishedAt": "2023-08-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2570",
+      "versions": [
+        {
+          "id": "ZDOsk-1-original",
+          "shortCode": "ZDOsk-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/23  str. 7215",
+          "publishedAt": "2023-08-02",
+          "effectiveFrom": "2023-08-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2570",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDOsk-A",
+      "title": "Zakon o spremembah Zakona o dolgotrajni oskrbi",
+      "shortTitle": "Zakon o spremembah Zakona o dolgotrajni oskrbi",
+      "shortCode": "ZDOsk-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4193",
+      "gazette": "Uradni list RS 163/22  str. 13714",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-27",
+      "validFrom": "2022-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4193",
+      "versions": [
+        {
+          "id": "ZDOsk-A-original",
+          "shortCode": "ZDOsk-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 163/22  str. 13714",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7621"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4193",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,812 @@
+{
+  "root": "ZZelP",
+  "path": "laws/ZZ/ZZelP",
+  "members": [
+    {
+      "id": "ZAKO7715",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu (ZZelP-K)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu (ZZelP-K)",
+      "shortCode": "ZZelP-K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1355",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-25",
+      "validFrom": "2018-04-25",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1355",
+      "versions": [
+        {
+          "id": "ZAKO7715-original",
+          "shortCode": "ZZelP-K",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-25",
+          "effectiveFrom": "2018-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1355",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO8679",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu (ZZelP-M)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu (ZZelP-M)",
+      "shortCode": "ZZelP-M",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0587",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-02",
+      "validFrom": "2026-03-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0587",
+      "versions": [
+        {
+          "id": "ZAKO8679-original",
+          "shortCode": "ZZelP-M",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-02",
+          "effectiveFrom": "2026-03-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0587",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP",
+      "title": "Zakon o železniškem prometu",
+      "shortTitle": "Zakon o železniškem prometu",
+      "shortCode": "ZZelP",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "železniško omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4349",
+      "gazette": "Uradni list RS 92/99  str. 13631",
+      "issuingBody": null,
+      "adoptedAt": "1999-11-12",
+      "validFrom": "1999-11-12",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4349",
+      "versions": [
+        {
+          "id": "ZZelP-original",
+          "shortCode": "ZZelP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/99  str. 13631",
+          "publishedAt": "1999-11-12",
+          "effectiveFrom": "1999-11-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4349",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-A",
+          "shortCode": "ZZelP-A",
+          "label": "Sprememba ZZelP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 11/2001  str. 1177",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0667",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-B",
+          "shortCode": "ZZelP-B",
+          "label": "Sprememba ZZelP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 33/2001  str. 3693",
+          "publishedAt": "2001-05-05",
+          "effectiveFrom": "2001-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1960",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-C",
+          "shortCode": "ZZelP-C",
+          "label": "Sprememba ZZelP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 110/2002  str. 13164",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5393",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-D",
+          "shortCode": "ZZelP-D",
+          "label": "Sprememba ZZelP-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 56/2003  str. 6530",
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2774",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-E",
+          "shortCode": "ZZelP-E",
+          "label": "Sprememba ZZelP-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 86/04  str. 10427",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3846",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-F",
+          "shortCode": "ZZelP-F",
+          "label": "Sprememba ZZelP-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 15/07  str. 1693",
+          "publishedAt": "2007-02-20",
+          "effectiveFrom": "2007-02-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0680",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-G",
+          "shortCode": "ZZelP-G",
+          "label": "Sprememba ZZelP-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 58/09  str. 8140",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2869",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-H",
+          "shortCode": "ZZelP-H",
+          "label": "Sprememba ZZelP-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 106/10  str. 16427",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5481",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-I",
+          "shortCode": "ZZelP-I",
+          "label": "Sprememba ZZelP-I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 63/13  str. 7654",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2518",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-J",
+          "shortCode": "ZZelP-J",
+          "label": "Sprememba ZZelP-J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 84/15  str. 9162",
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3306",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZAKO7715",
+          "shortCode": "ZZelP-K",
+          "label": "Sprememba ZZelP-K",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": null,
+          "publishedAt": "2018-04-25",
+          "effectiveFrom": "2018-04-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1355",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZZelP-L",
+          "shortCode": "ZZelP-L",
+          "label": "Sprememba ZZelP-L",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 82/21  str. 4816",
+          "publishedAt": "2021-05-24",
+          "effectiveFrom": "2021-05-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1760",
+          "proposer": null
+        },
+        {
+          "id": "ZZelP-amend-ZAKO8679",
+          "shortCode": "ZZelP-M",
+          "label": "Sprememba ZZelP-M",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": null,
+          "publishedAt": "2026-03-02",
+          "effectiveFrom": "2026-03-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0587",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-A",
+      "title": "Zakon o dopolnitvi zakona o železniškem prometu",
+      "shortTitle": "Zakon o dopolnitvi zakona o železniškem prometu",
+      "shortCode": "ZZelP-A",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0667",
+      "gazette": "Uradni list RS 11/2001  str. 1177",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0667",
+      "versions": [
+        {
+          "id": "ZZelP-A-original",
+          "shortCode": "ZZelP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/2001  str. 1177",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0667",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-B",
+      "title": "Zakon o dopolnitvi zakona o železniškem prometu",
+      "shortTitle": "Zakon o dopolnitvi zakona o železniškem prometu",
+      "shortCode": "ZZelP-B",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "poroštvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1960",
+      "gazette": "Uradni list RS 33/2001  str. 3693",
+      "issuingBody": null,
+      "adoptedAt": "2001-05-05",
+      "validFrom": "2001-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1960",
+      "versions": [
+        {
+          "id": "ZZelP-B-original",
+          "shortCode": "ZZelP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/2001  str. 3693",
+          "publishedAt": "2001-05-05",
+          "effectiveFrom": "2001-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1960",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortCode": "ZZelP-C",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "železniško omrežje",
+        "prometna politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5393",
+      "gazette": "Uradni list RS 110/2002  str. 13164",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5393",
+      "versions": [
+        {
+          "id": "ZZelP-C-original",
+          "shortCode": "ZZelP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13164",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5393",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortCode": "ZZelP-D",
+      "kind": "zakon",
+      "keywords": [
+        "javno naročilo",
+        "revizija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2774",
+      "gazette": "Uradni list RS 56/2003  str. 6530",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-13",
+      "validFrom": "2003-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2774",
+      "versions": [
+        {
+          "id": "ZZelP-D-original",
+          "shortCode": "ZZelP-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/2003  str. 6530",
+          "publishedAt": "2003-06-13",
+          "effectiveFrom": "2003-06-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2774",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-E",
+      "title": "Zakon o spremembi zakona o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembi zakona o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortCode": "ZZelP-E",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "železniško omrežje",
+        "poroštvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3846",
+      "gazette": "Uradni list RS 86/04  str. 10427",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3846",
+      "versions": [
+        {
+          "id": "ZZelP-E-original",
+          "shortCode": "ZZelP-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10427",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3846",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o železniškem prometu",
+      "shortCode": "ZZelP-F",
+      "kind": "zakon",
+      "keywords": [
+        "prometna politika",
+        "železniški promet",
+        "železniško omrežje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-0680",
+      "gazette": "Uradni list RS 15/07  str. 1693",
+      "issuingBody": null,
+      "adoptedAt": "2007-02-20",
+      "validFrom": "2007-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0680",
+      "versions": [
+        {
+          "id": "ZZelP-F-original",
+          "shortCode": "ZZelP-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/07  str. 1693",
+          "publishedAt": "2007-02-20",
+          "effectiveFrom": "2007-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0680",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortCode": "ZZelP-G",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "železniško omrežje",
+        "uporabnina za infrastrukturo",
+        "licenca za opravljanje prevoza",
+        "prevozne zmogljivosti",
+        "vozniki",
+        "priznavanje poklicnih kvalifikacij"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2869",
+      "gazette": "Uradni list RS 58/09  str. 8140",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-27",
+      "validFrom": "2009-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2869",
+      "versions": [
+        {
+          "id": "ZZelP-G-original",
+          "shortCode": "ZZelP-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/09  str. 8140",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2869",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-H",
+      "title": "Zakona o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortTitle": "Zakona o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortCode": "ZZelP-H",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet",
+        "železniško omrežje",
+        "uporabnina za infrastrukturo",
+        "licenca za opravljanje prevoza",
+        "prevozne zmogljivosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5481",
+      "gazette": "Uradni list RS 106/10  str. 16427",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-27",
+      "validFrom": "2010-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5481",
+      "versions": [
+        {
+          "id": "ZZelP-H-original",
+          "shortCode": "ZZelP-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/10  str. 16427",
+          "publishedAt": "2010-12-27",
+          "effectiveFrom": "2010-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5481",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortCode": "ZZelP-I",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-2518",
+      "gazette": "Uradni list RS 63/13  str. 7654",
+      "issuingBody": null,
+      "adoptedAt": "2013-07-26",
+      "validFrom": "2013-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2518",
+      "versions": [
+        {
+          "id": "ZZelP-I-original",
+          "shortCode": "ZZelP-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/13  str. 7654",
+          "publishedAt": "2013-07-26",
+          "effectiveFrom": "2013-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2518",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortCode": "ZZelP-J",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3306",
+      "gazette": "Uradni list RS 84/15  str. 9162",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-06",
+      "validFrom": "2015-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3306",
+      "versions": [
+        {
+          "id": "ZZelP-J-original",
+          "shortCode": "ZZelP-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/15  str. 9162",
+          "publishedAt": "2015-11-06",
+          "effectiveFrom": "2015-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZelP-L",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o železniškem prometu",
+      "shortCode": "ZZelP-L",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-1760",
+      "gazette": "Uradni list RS 82/21  str. 4816",
+      "issuingBody": null,
+      "adoptedAt": "2021-05-24",
+      "validFrom": "2021-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1760",
+      "versions": [
+        {
+          "id": "ZZelP-L-original",
+          "shortCode": "ZZelP-L",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/21  str. 4816",
+          "publishedAt": "2021-05-24",
+          "effectiveFrom": "2021-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZelP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1760",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

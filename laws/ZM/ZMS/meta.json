@@ -1,0 +1,160 @@
+{
+  "root": "ZMS",
+  "path": "laws/ZM/ZMS",
+  "members": [
+    {
+      "id": "ZMS",
+      "title": "Zakon o mladinskih svetih",
+      "shortTitle": "Zakon o mladinskih svetih",
+      "shortCode": "ZMS",
+      "kind": "zakon",
+      "keywords": [
+        "mladinska politika",
+        "mladinsko gibanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3305",
+      "gazette": "Uradni list RS 70/2000  str. 8663",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-08",
+      "validFrom": "2000-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3305",
+      "versions": [
+        {
+          "id": "ZMS-original",
+          "shortCode": "ZMS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/2000  str. 8663",
+          "publishedAt": "2000-08-08",
+          "effectiveFrom": "2000-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3305",
+          "proposer": null
+        },
+        {
+          "id": "ZMS-amend-ZMS-A",
+          "shortCode": "ZMS-A",
+          "label": "Sprememba ZMS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/10  str. 5978",
+          "publishedAt": "2010-05-28",
+          "effectiveFrom": "2010-05-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2103",
+          "proposer": null
+        },
+        {
+          "id": "ZMS-amend-ZMS-B",
+          "shortCode": "ZMS-B",
+          "label": "Sprememba ZMS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 45/24  str. 4294",
+          "publishedAt": "2024-06-04",
+          "effectiveFrom": "2024-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1560",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o mladinskih svetih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o mladinskih svetih",
+      "shortCode": "ZMS-A",
+      "kind": "zakon",
+      "keywords": [
+        "mladinska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2103",
+      "gazette": "Uradni list RS 42/10  str. 5978",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-28",
+      "validFrom": "2010-05-28",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2103",
+      "versions": [
+        {
+          "id": "ZMS-A-original",
+          "shortCode": "ZMS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/10  str. 5978",
+          "publishedAt": "2010-05-28",
+          "effectiveFrom": "2010-05-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2103",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMS-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o mladinskih svetih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o mladinskih svetih",
+      "shortCode": "ZMS-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1560",
+      "gazette": "Uradni list RS 45/24  str. 4294",
+      "issuingBody": null,
+      "adoptedAt": "2024-06-04",
+      "validFrom": "2024-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1560",
+      "versions": [
+        {
+          "id": "ZMS-B-original",
+          "shortCode": "ZMS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/24  str. 4294",
+          "publishedAt": "2024-06-04",
+          "effectiveFrom": "2024-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1560",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

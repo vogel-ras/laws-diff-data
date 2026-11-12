@@ -1,0 +1,99 @@
+{
+  "root": "OdZIOdlUS",
+  "path": "ordinances/OD/OdZIOdlUS",
+  "members": [
+    {
+      "id": "ODLO1351",
+      "title": "Odlok o razpisu naknadnega zakonodajnega referenduma o zakonu o izvršitvi 8. točke odločbe Ustavnega sodišča Republike Slovenije št. U-I-246/02-28 (OdZIOdlUS)",
+      "shortTitle": "Odlok o razpisu naknadnega zakonodajnega referenduma o zakonu o izvršitvi 8. točke odločbe Ustavnega sodišča Republike Slovenije št. U-I-246/02-28 (OdZIOdlUS)",
+      "shortCode": "OdZIOdlUS",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-5964",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-31",
+      "validFrom": "2003-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5964",
+      "versions": [
+        {
+          "id": "ODLO1351-original",
+          "shortCode": "OdZIOdlUS",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-31",
+          "effectiveFrom": "2003-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5964",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1351-amend-ODLO1360",
+          "shortCode": "OdZIOdlUS-A",
+          "label": "Sprememba OdZIOdlUS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-02-13",
+          "effectiveFrom": "2004-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0568",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1360",
+      "title": "Odlok o spremembah Odloka o razpisu naknadnega zakonodajnega referenduma o Zakonu o izvršitvi 8. točke odločbe Ustavnega sodišča Republike Slovenije, št. U-I-246/02-28 (OdZIOdlUS-A)",
+      "shortTitle": "Odlok o spremembah Odloka o razpisu naknadnega zakonodajnega referenduma o Zakonu o izvršitvi 8. točke odločbe Ustavnega sodišča Republike Slovenije, št. U-I-246/02-28 (OdZIOdlUS-A)",
+      "shortCode": "OdZIOdlUS-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2004-01-0568",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2004-02-13",
+      "validFrom": "2004-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0568",
+      "versions": [
+        {
+          "id": "ODLO1360-original",
+          "shortCode": "OdZIOdlUS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-13",
+          "effectiveFrom": "2004-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0568",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

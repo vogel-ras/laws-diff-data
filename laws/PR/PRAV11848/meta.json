@@ -1,0 +1,97 @@
+{
+  "root": "PRAV11848",
+  "path": "laws/PR/PRAV11848",
+  "members": [
+    {
+      "id": "PRAV11848",
+      "title": "Pravilnik o identifikaciji in registraciji goveda",
+      "shortTitle": "Pravilnik o identifikaciji in registraciji goveda",
+      "shortCode": "PRAV11848",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2187",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-07-15",
+      "validFrom": "2016-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2016-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2187",
+      "versions": [
+        {
+          "id": "PRAV11848-original",
+          "shortCode": "PRAV11848",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-07-15",
+          "effectiveFrom": "2016-07-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2187",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11848-npb-PRAV11848",
+          "shortCode": "PRAV11848-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-07-15",
+          "effectiveFrom": "2016-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11848",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13751",
+      "title": "Pravilnik o spremembah Pravilnika o identifikaciji in registraciji goveda",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o identifikaciji in registraciji goveda",
+      "shortCode": "PRAV13751",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-2995",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-11-15",
+      "validFrom": "2019-11-15",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2995",
+      "versions": [
+        {
+          "id": "PRAV13751-original",
+          "shortCode": "PRAV13751",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-11-15",
+          "effectiveFrom": "2019-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11848"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2995",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11173",
+  "path": "laws/PR/PRAV11173",
+  "members": [
+    {
+      "id": "PRAV11173",
+      "title": "Pravilnik o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortTitle": "Pravilnik o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortCode": "PRAV11173",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1449",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-10-03",
+      "validFrom": "2025-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2025-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1449",
+      "versions": [
+        {
+          "id": "PRAV11173-original",
+          "shortCode": "PRAV11173",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-10-03",
+          "effectiveFrom": "2025-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1449",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11173-npb-PRAV11173",
+          "shortCode": "PRAV11173-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-05-22",
+          "effectiveFrom": "2015-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11173",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13588",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortCode": "PRAV13588",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-3993",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2018-12-21",
+      "validFrom": "2018-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3993",
+      "versions": [
+        {
+          "id": "PRAV13588-original",
+          "shortCode": "PRAV13588",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-21",
+          "effectiveFrom": "2018-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11173"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3993",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14977",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o živalskih stranskih proizvodih, ki niso namenjeni prehrani ljudi",
+      "shortCode": "PRAV14977",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2023-01-2028",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2023-06-16",
+      "validFrom": "2023-06-16",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2028",
+      "versions": [
+        {
+          "id": "PRAV14977-original",
+          "shortCode": "PRAV14977",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-16",
+          "effectiveFrom": "2023-06-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11173"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2028",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

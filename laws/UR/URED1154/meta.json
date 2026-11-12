@@ -1,0 +1,82 @@
+{
+  "root": "URED1154",
+  "path": "laws/UR/URED1154",
+  "members": [
+    {
+      "id": "URED1154",
+      "title": "Uredba o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo v delu, ki se nanaša na kmetijske in živilske izdelke",
+      "shortTitle": "Uredba o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo v delu, ki se nanaša na kmetijske in živilske izdelke",
+      "shortCode": "URED1154",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-1113",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-03-17",
+      "validFrom": "2000-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1113",
+      "versions": [
+        {
+          "id": "URED1154-original",
+          "shortCode": "URED1154",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-17",
+          "effectiveFrom": "2000-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1113",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1331",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo v delu, ki se nanaša na kmetijske in živilske izdelke",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o izvajanju sporazuma o prosti trgovini med Republiko Slovenijo in Republiko Makedonijo v delu, ki se nanaša na kmetijske in živilske izdelke",
+      "shortCode": "URED1331",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-3049",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-07-21",
+      "validFrom": "2000-07-21",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3049",
+      "versions": [
+        {
+          "id": "URED1331-original",
+          "shortCode": "URED1331",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-21",
+          "effectiveFrom": "2000-07-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1154"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3049",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "root": "ZBH",
+  "path": "laws/ZB/ZBH",
+  "members": [
+    {
+      "id": "ZBH",
+      "title": "Zakon o bankah in hranilnicah",
+      "shortTitle": "Zakon o bankah in hranilnicah",
+      "shortCode": "ZBH",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "hranilnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0018",
+      "gazette": "Uradni list RS 1/91  str. 58",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0018",
+      "versions": [
+        {
+          "id": "ZBH-original",
+          "shortCode": "ZBH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 58",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0018",
+          "proposer": null
+        },
+        {
+          "id": "ZBH-amend-ZBH-A",
+          "shortCode": "ZBH-A",
+          "label": "Sprememba ZBH-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 38/92  str. 2409",
+          "publishedAt": "1992-08-01",
+          "effectiveFrom": "1992-08-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1893",
+          "proposer": null
+        },
+        {
+          "id": "ZBH-amend-ZBH-B",
+          "shortCode": "ZBH-B",
+          "label": "Sprememba ZBH-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 46/93  str. 2485",
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1802",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBH-A",
+      "title": "Zakon o spremembi zakona o bankah in hranilnicah",
+      "shortTitle": "Zakon o spremembi zakona o bankah in hranilnicah",
+      "shortCode": "ZBH-A",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "hranilnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-1893",
+      "gazette": "Uradni list RS 38/92  str. 2409",
+      "issuingBody": null,
+      "adoptedAt": "1992-08-01",
+      "validFrom": "1992-08-01",
+      "validTo": null,
+      "latestPublishedAt": "1992-08-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1893",
+      "versions": [
+        {
+          "id": "ZBH-A-original",
+          "shortCode": "ZBH-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/92  str. 2409",
+          "publishedAt": "1992-08-01",
+          "effectiveFrom": "1992-08-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1893",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZBH-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o bankah in hranilnicah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o bankah in hranilnicah",
+      "shortCode": "ZBH-B",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "hranilnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1802",
+      "gazette": "Uradni list RS 46/93  str. 2485",
+      "issuingBody": null,
+      "adoptedAt": "1993-08-06",
+      "validFrom": "1993-08-06",
+      "validTo": null,
+      "latestPublishedAt": "1993-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1802",
+      "versions": [
+        {
+          "id": "ZBH-B-original",
+          "shortCode": "ZBH-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/93  str. 2485",
+          "publishedAt": "1993-08-06",
+          "effectiveFrom": "1993-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZBH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1802",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

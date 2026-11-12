@@ -1,0 +1,58 @@
+{
+  "root": "URED4824",
+  "path": "laws/UR/URED4824",
+  "members": [
+    {
+      "id": "URED4824",
+      "title": "Uredba o državnem prostorskem načrtu za Letališče Cerklje ob Krki",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za Letališče Cerklje ob Krki",
+      "shortCode": "URED4824",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3207",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-07-18",
+      "validFrom": "2008-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3207",
+      "versions": [
+        {
+          "id": "URED4824-original",
+          "shortCode": "URED4824",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-18",
+          "effectiveFrom": "2008-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3207",
+          "proposer": null
+        },
+        {
+          "id": "URED4824-npb-URED4824",
+          "shortCode": "URED4824-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-07-18",
+          "effectiveFrom": "2008-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4824",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

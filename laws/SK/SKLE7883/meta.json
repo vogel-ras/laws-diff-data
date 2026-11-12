@@ -1,0 +1,82 @@
+{
+  "root": "SKLE7883",
+  "path": "laws/SK/SKLE7883",
+  "members": [
+    {
+      "id": "SKLE7883",
+      "title": "Sklep o prenosu delov državnih cest med občinske ceste",
+      "shortTitle": "Sklep o prenosu delov državnih cest med občinske ceste",
+      "shortCode": "SKLE7883",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-0939",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-03-27",
+      "validFrom": "2009-03-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0939",
+      "versions": [
+        {
+          "id": "SKLE7883-original",
+          "shortCode": "SKLE7883",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-27",
+          "effectiveFrom": "2009-03-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0939",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8342",
+      "title": "Sklep o spremembi Sklepa o prenosu delov državnih cest med občinske ceste",
+      "shortTitle": "Sklep o spremembi Sklepa o prenosu delov državnih cest med občinske ceste",
+      "shortCode": "SKLE8342",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-0906",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-03-19",
+      "validFrom": "2010-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0906",
+      "versions": [
+        {
+          "id": "SKLE8342-original",
+          "shortCode": "SKLE8342",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-03-19",
+          "effectiveFrom": "2010-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE7883"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0906",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "DRUG269",
+  "path": "laws/DR/DRUG269",
+  "members": [
+    {
+      "id": "DRUG269",
+      "title": "Sklep o načinu izračuna količnikov likvidnosti sredstev in najmanjšem obsegu likvidnosti, ki ga mora zagotavljati zavarovalnica",
+      "shortTitle": "Sklep o načinu izračuna količnikov likvidnosti sredstev in najmanjšem obsegu likvidnosti, ki ga mora zagotavljati zavarovalnica",
+      "shortCode": "DRUG269",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2000-01-4962",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-12-21",
+      "validFrom": "2000-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4962",
+      "versions": [
+        {
+          "id": "DRUG269-original",
+          "shortCode": "DRUG269",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-21",
+          "effectiveFrom": "2000-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4962",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6791",
+      "title": "Sklep o spremembah in dopolnitvah Sklepa o načinu izračuna količnikov likvidnosti sredstev in najmanjšem obsegu likvidnosti, ki ga mora zagotavljati zavarovalnica",
+      "shortTitle": "Sklep o spremembah in dopolnitvah Sklepa o načinu izračuna količnikov likvidnosti sredstev in najmanjšem obsegu likvidnosti, ki ga mora zagotavljati zavarovalnica",
+      "shortCode": "SKLE6791",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-5890",
+      "gazette": null,
+      "issuingBody": "Agencija za zavarovalni nadzor",
+      "adoptedAt": "2006-12-27",
+      "validFrom": "2006-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5890",
+      "versions": [
+        {
+          "id": "SKLE6791-original",
+          "shortCode": "SKLE6791",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-12-27",
+          "effectiveFrom": "2006-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "DRUG269"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5890",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

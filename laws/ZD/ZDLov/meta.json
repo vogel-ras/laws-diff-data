@@ -1,0 +1,274 @@
+{
+  "root": "ZDLov",
+  "path": "laws/ZD/ZDLov",
+  "members": [
+    {
+      "id": "ZAKO7746",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o divjadi in lovstvu (ZDLov-1B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o divjadi in lovstvu (ZDLov-1B)",
+      "shortCode": "ZDLov-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1407",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-04-27",
+      "validFrom": "2018-04-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-04-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1407",
+      "versions": [
+        {
+          "id": "ZAKO7746-original",
+          "shortCode": "ZDLov-1B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1407",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9373",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o divjadi in lovstvu (ZDLov-1G)",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o divjadi in lovstvu (ZDLov-1G)",
+      "shortCode": "ZDLov-1G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0466",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-19",
+      "validFrom": "2026-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0466",
+      "versions": [
+        {
+          "id": "ZAKO9373-original",
+          "shortCode": "ZDLov-1G",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDLov-1",
+      "title": "Zakon o divjadi in lovstvu",
+      "shortTitle": "Zakon o divjadi in lovstvu",
+      "shortCode": "ZDLov-1",
+      "kind": "zakon",
+      "keywords": [
+        "divjad",
+        "lov"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0630",
+      "gazette": "Uradni list RS 16/04  str. 1577",
+      "issuingBody": null,
+      "adoptedAt": "2004-02-20",
+      "validFrom": "2004-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0630",
+      "versions": [
+        {
+          "id": "ZDLov-1-original",
+          "shortCode": "ZDLov-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/04  str. 1577",
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0630",
+          "proposer": null
+        },
+        {
+          "id": "ZDLov-1-amend-ZDLov-1A",
+          "shortCode": "ZDLov-1A",
+          "label": "Sprememba ZDLov-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 17/08  str. 1255",
+          "publishedAt": "2008-02-19",
+          "effectiveFrom": "2008-02-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0555",
+          "proposer": null
+        },
+        {
+          "id": "ZDLov-1-amend-ZAKO7746",
+          "shortCode": "ZDLov-1B",
+          "label": "Sprememba ZDLov-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2018-04-27",
+          "effectiveFrom": "2018-04-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1407",
+          "proposer": null
+        },
+        {
+          "id": "ZDLov-1-amend-ZDLov-1C",
+          "shortCode": "ZDLov-1C",
+          "label": "Sprememba ZDLov-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 65/20  str. 2394",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0980",
+          "proposer": null
+        },
+        {
+          "id": "ZDLov-1-amend-ZAKO9373",
+          "shortCode": "ZDLov-1G",
+          "label": "Sprememba ZDLov-1G",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2026-02-19",
+          "effectiveFrom": "2026-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDLov-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o divjadi in lovstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o divjadi in lovstvu",
+      "shortCode": "ZDLov-1A",
+      "kind": "zakon",
+      "keywords": [
+        "divjad",
+        "lov",
+        "lovski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-0555",
+      "gazette": "Uradni list RS 17/08  str. 1255",
+      "issuingBody": null,
+      "adoptedAt": "2008-02-19",
+      "validFrom": "2008-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0555",
+      "versions": [
+        {
+          "id": "ZDLov-1A-original",
+          "shortCode": "ZDLov-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/08  str. 1255",
+          "publishedAt": "2008-02-19",
+          "effectiveFrom": "2008-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0555",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDLov-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o divjadi in lovstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o divjadi in lovstvu",
+      "shortCode": "ZDLov-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0980",
+      "gazette": "Uradni list RS 65/20  str. 2394",
+      "issuingBody": null,
+      "adoptedAt": "2020-05-08",
+      "validFrom": "2020-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0980",
+      "versions": [
+        {
+          "id": "ZDLov-1C-original",
+          "shortCode": "ZDLov-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/20  str. 2394",
+          "publishedAt": "2020-05-08",
+          "effectiveFrom": "2020-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDLov-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0980",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

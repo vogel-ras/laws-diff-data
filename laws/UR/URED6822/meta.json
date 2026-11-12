@@ -1,0 +1,58 @@
+{
+  "root": "URED6822",
+  "path": "laws/UR/URED6822",
+  "members": [
+    {
+      "id": "URED6822",
+      "title": "Uredba o državnem prostorskem načrtu za RTP 110/20 kV Dobruška vas",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za RTP 110/20 kV Dobruška vas",
+      "shortCode": "URED6822",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2524",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-07-25",
+      "validFrom": "2014-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2524",
+      "versions": [
+        {
+          "id": "URED6822-original",
+          "shortCode": "URED6822",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-25",
+          "effectiveFrom": "2014-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2524",
+          "proposer": null
+        },
+        {
+          "id": "URED6822-npb-URED6822",
+          "shortCode": "URED6822-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-07-25",
+          "effectiveFrom": "2014-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6822",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

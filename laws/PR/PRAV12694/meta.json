@@ -1,0 +1,136 @@
+{
+  "root": "PRAV12694",
+  "path": "laws/PR/PRAV12694",
+  "members": [
+    {
+      "id": "PRAV12694",
+      "title": "Pravilnik o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortTitle": "Pravilnik o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortCode": "PRAV12694",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-0266",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-04",
+      "validFrom": "2024-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0266",
+      "versions": [
+        {
+          "id": "PRAV12694-original",
+          "shortCode": "PRAV12694",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-04",
+          "effectiveFrom": "2024-11-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0266",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12694-npb-PRAV12694",
+          "shortCode": "PRAV12694-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-02-01",
+          "effectiveFrom": "2016-02-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12694",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13726",
+      "title": "Pravilnik o spremembi Pravilnika o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortCode": "PRAV13726",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1433",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-05-16",
+      "validFrom": "2019-05-16",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1433",
+      "versions": [
+        {
+          "id": "PRAV13726-original",
+          "shortCode": "PRAV13726",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-16",
+          "effectiveFrom": "2019-05-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12694"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1433",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15167",
+      "title": "Pravilnik o spremembi Pravilnika o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o seznamu kmetijske in gozdarske mehanizacije ter katalogu stroškov kmetijske in gozdarske mehanizacije",
+      "shortCode": "PRAV15167",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2823",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-11-04",
+      "validFrom": "2024-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2823",
+      "versions": [
+        {
+          "id": "PRAV15167-original",
+          "shortCode": "PRAV15167",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-11-04",
+          "effectiveFrom": "2024-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12694"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2823",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

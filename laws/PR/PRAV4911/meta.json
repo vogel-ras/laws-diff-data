@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4911",
+  "path": "laws/PR/PRAV4911",
+  "members": [
+    {
+      "id": "PRAV13608",
+      "title": "Pravilnik o spremembi Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2011–2020)",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2011–2020)",
+      "shortCode": "PRAV13608",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-4096",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-12-24",
+      "validFrom": "2018-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4096",
+      "versions": [
+        {
+          "id": "PRAV13608-original",
+          "shortCode": "PRAV13608",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4096",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4911",
+      "title": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2001-2010)",
+      "shortTitle": "Pravilnik o gozdnogospodarskem načrtu gozdnogospodarske enote Logatec-Zagora (2001-2010)",
+      "shortCode": "PRAV4911",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2298",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-05-23",
+      "validFrom": "2003-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2298",
+      "versions": [
+        {
+          "id": "PRAV4911-original",
+          "shortCode": "PRAV4911",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-23",
+          "effectiveFrom": "2003-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2298",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

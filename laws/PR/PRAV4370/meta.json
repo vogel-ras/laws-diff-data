@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4370",
+  "path": "laws/PR/PRAV4370",
+  "members": [
+    {
+      "id": "PRAV4370",
+      "title": "Pravilnik o označevanju zavarovanih območij naravnih vrednot",
+      "shortTitle": "Pravilnik o označevanju zavarovanih območij naravnih vrednot",
+      "shortCode": "PRAV4370",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5708",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-12-28",
+      "validFrom": "2002-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5708",
+      "versions": [
+        {
+          "id": "PRAV4370-original",
+          "shortCode": "PRAV4370",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5708",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6511",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o označevanju zavarovanih območij naravnih vrednot",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o označevanju zavarovanih območij naravnih vrednot",
+      "shortCode": "PRAV6511",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2229",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2229",
+      "versions": [
+        {
+          "id": "PRAV6511-original",
+          "shortCode": "PRAV6511",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4370"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2229",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

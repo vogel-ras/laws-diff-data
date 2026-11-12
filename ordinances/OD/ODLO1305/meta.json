@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1305",
+  "path": "ordinances/OD/ODLO1305",
+  "members": [
+    {
+      "id": "ODLO1305",
+      "title": "Odlok o programu priprave lokacijskega načrta za vplivno območje plazu Slano Blato v Občini Ajdovščina",
+      "shortTitle": "Odlok o programu priprave lokacijskega načrta za vplivno območje plazu Slano Blato v Občini Ajdovščina",
+      "shortCode": "ODLO1305",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2004-01-0953",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-09-24",
+      "validFrom": "2025-09-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0953",
+      "versions": [
+        {
+          "id": "ODLO1305-original",
+          "shortCode": "ODLO1305",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-09-24",
+          "effectiveFrom": "2025-09-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0953",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1305-npb-ODLO1305",
+          "shortCode": "ODLO1305-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-03-12",
+          "effectiveFrom": "2004-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1305",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1911",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o programu priprave lokacijskega načrta za vplivno območje plazu Slano Blato v Občini Ajdovščina",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o programu priprave lokacijskega načrta za vplivno območje plazu Slano Blato v Občini Ajdovščina",
+      "shortCode": "ODLO1911",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2017-01-1750",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-23",
+      "validFrom": "2017-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1750",
+      "versions": [
+        {
+          "id": "ODLO1911-original",
+          "shortCode": "ODLO1911",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-23",
+          "effectiveFrom": "2017-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1305"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1750",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

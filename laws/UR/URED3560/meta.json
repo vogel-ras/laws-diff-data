@@ -1,0 +1,82 @@
+{
+  "root": "URED3560",
+  "path": "laws/UR/URED3560",
+  "members": [
+    {
+      "id": "URED3560",
+      "title": "Uredba o vzdrževalnih delih v javno korist na področju energetike",
+      "shortTitle": "Uredba o vzdrževalnih delih v javno korist na področju energetike",
+      "shortCode": "URED3560",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-5244",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-11-22",
+      "validFrom": "2004-11-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-11-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5244",
+      "versions": [
+        {
+          "id": "URED3560-original",
+          "shortCode": "URED3560",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-11-22",
+          "effectiveFrom": "2004-11-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5244",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5237",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vzdrževalnih delih v javno korist na področju energetike",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vzdrževalnih delih v javno korist na področju energetike",
+      "shortCode": "URED5237",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3149",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-09-11",
+      "validFrom": "2009-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3149",
+      "versions": [
+        {
+          "id": "URED5237-original",
+          "shortCode": "URED5237",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-11",
+          "effectiveFrom": "2009-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3560"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3149",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4661",
+  "path": "laws/PR/PRAV4661",
+  "members": [
+    {
+      "id": "PRAV4661",
+      "title": "Pravilnik o načinu izdelave letnega obračuna, poročanja in razporejanja presežka zakladniškega podračuna",
+      "shortTitle": "Pravilnik o načinu izdelave letnega obračuna, poročanja in razporejanja presežka zakladniškega podračuna",
+      "shortCode": "PRAV4661",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0613",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0613",
+      "versions": [
+        {
+          "id": "PRAV4661-original",
+          "shortCode": "PRAV4661",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0613",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5418",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu izdelave letnega obračuna, poročanja in razporejanja presežka zakladniškega podračuna",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o načinu izdelave letnega obračuna, poročanja in razporejanja presežka zakladniškega podračuna",
+      "shortCode": "PRAV5418",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0389",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2005-02-11",
+      "validFrom": "2005-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0389",
+      "versions": [
+        {
+          "id": "PRAV5418-original",
+          "shortCode": "PRAV5418",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-11",
+          "effectiveFrom": "2005-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4661"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0389",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

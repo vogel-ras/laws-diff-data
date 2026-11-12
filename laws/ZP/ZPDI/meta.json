@@ -1,0 +1,299 @@
+{
+  "root": "ZPDI",
+  "path": "laws/ZP/ZPDI",
+  "members": [
+    {
+      "id": "ZPDI",
+      "title": "Zakon o pravniškem državnem izpitu",
+      "shortTitle": "Zakon o pravniškem državnem izpitu",
+      "shortCode": "ZPDI",
+      "kind": "zakon",
+      "keywords": [
+        "pripravništvo",
+        "sodnik",
+        "sodnik/državni tožilec",
+        "pravniški poklic",
+        "notar",
+        "odvetnik",
+        "izpit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0513",
+      "gazette": "Uradni list RS 13/94  str. 704",
+      "issuingBody": null,
+      "adoptedAt": "1994-03-10",
+      "validFrom": "1994-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0513",
+      "versions": [
+        {
+          "id": "ZPDI-original",
+          "shortCode": "ZPDI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/94  str. 704",
+          "publishedAt": "1994-03-10",
+          "effectiveFrom": "1994-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0513",
+          "proposer": null
+        },
+        {
+          "id": "ZPDI-amend-ZPDI-A",
+          "shortCode": "ZPDI-A",
+          "label": "Sprememba ZPDI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 71/94  str. 3988",
+          "publishedAt": "1994-11-18",
+          "effectiveFrom": "1994-11-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2550",
+          "proposer": null
+        },
+        {
+          "id": "ZPDI-amend-ZPDI-B",
+          "shortCode": "ZPDI-B",
+          "label": "Sprememba ZPDI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 5/99  str. 333",
+          "publishedAt": "1999-01-28",
+          "effectiveFrom": "1999-01-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0197",
+          "proposer": null
+        },
+        {
+          "id": "ZPDI-amend-ZPDI-C",
+          "shortCode": "ZPDI-C",
+          "label": "Sprememba ZPDI-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 55/2003  str. 6473",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2752",
+          "proposer": null
+        },
+        {
+          "id": "ZPDI-amend-ZPDI-D",
+          "shortCode": "ZPDI-D",
+          "label": "Sprememba ZPDI-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 111/07  str. 15235",
+          "publishedAt": "2007-12-05",
+          "effectiveFrom": "2007-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5506",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDI-A",
+      "title": "Zakon o spremembi zakona o pravniškem državnem izpitu",
+      "shortTitle": "Zakon o spremembi zakona o pravniškem državnem izpitu",
+      "shortCode": "ZPDI-A",
+      "kind": "zakon",
+      "keywords": [
+        "sodnik",
+        "sodnik/državni tožilec",
+        "odvetnik",
+        "notar",
+        "pravniški poklic",
+        "izpit",
+        "pripravništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2550",
+      "gazette": "Uradni list RS 71/94  str. 3988",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-18",
+      "validFrom": "1994-11-18",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2550",
+      "versions": [
+        {
+          "id": "ZPDI-A-original",
+          "shortCode": "ZPDI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/94  str. 3988",
+          "publishedAt": "1994-11-18",
+          "effectiveFrom": "1994-11-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2550",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortCode": "ZPDI-B",
+      "kind": "zakon",
+      "keywords": [
+        "sodišča",
+        "izpit",
+        "pravniški poklic"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-0197",
+      "gazette": "Uradni list RS 5/99  str. 333",
+      "issuingBody": null,
+      "adoptedAt": "1999-01-28",
+      "validFrom": "1999-01-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-01-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0197",
+      "versions": [
+        {
+          "id": "ZPDI-B-original",
+          "shortCode": "ZPDI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 5/99  str. 333",
+          "publishedAt": "1999-01-28",
+          "effectiveFrom": "1999-01-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0197",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDI-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortCode": "ZPDI-C",
+      "kind": "zakon",
+      "keywords": [
+        "sodišča",
+        "pravniški poklic",
+        "izpit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-2752",
+      "gazette": "Uradni list RS 55/2003  str. 6473",
+      "issuingBody": null,
+      "adoptedAt": "2003-06-09",
+      "validFrom": "2003-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2752",
+      "versions": [
+        {
+          "id": "ZPDI-C-original",
+          "shortCode": "ZPDI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 55/2003  str. 6473",
+          "publishedAt": "2003-06-09",
+          "effectiveFrom": "2003-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2752",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPDI-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pravniškem državnem izpitu",
+      "shortCode": "ZPDI-D",
+      "kind": "zakon",
+      "keywords": [
+        "pripravništvo",
+        "sodnik",
+        "sodnik/državni tožilec",
+        "odvetnik",
+        "notar",
+        "izpit",
+        "pravniški poklic"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5506",
+      "gazette": "Uradni list RS 111/07  str. 15235",
+      "issuingBody": null,
+      "adoptedAt": "2007-12-05",
+      "validFrom": "2007-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5506",
+      "versions": [
+        {
+          "id": "ZPDI-D-original",
+          "shortCode": "ZPDI-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/07  str. 15235",
+          "publishedAt": "2007-12-05",
+          "effectiveFrom": "2007-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPDI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5506",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

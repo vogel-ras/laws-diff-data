@@ -1,0 +1,82 @@
+{
+  "root": "URED1044",
+  "path": "laws/UR/URED1044",
+  "members": [
+    {
+      "id": "URED1044",
+      "title": "Uredba o kriterijih za dodeljevanje posojil gospodarskim družbem in za kapitalske naložbe v gospodarske družbe za namene sanacije",
+      "shortTitle": "Uredba o kriterijih za dodeljevanje posojil gospodarskim družbem in za kapitalske naložbe v gospodarske družbe za namene sanacije",
+      "shortCode": "URED1044",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-0503",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-02-13",
+      "validFrom": "1998-02-13",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0503",
+      "versions": [
+        {
+          "id": "URED1044-original",
+          "shortCode": "URED1044",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-02-13",
+          "effectiveFrom": "1998-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0503",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1045",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o kriterijih za dodeljevanje posojil gospodarskim družbem in za kapitalske naložbe v gospodarske družbe za namene sanacije",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o kriterijih za dodeljevanje posojil gospodarskim družbem in za kapitalske naložbe v gospodarske družbe za namene sanacije",
+      "shortCode": "URED1045",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-1990",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-06-19",
+      "validFrom": "1998-06-19",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1990",
+      "versions": [
+        {
+          "id": "URED1045-original",
+          "shortCode": "URED1045",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-06-19",
+          "effectiveFrom": "1998-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1044"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1990",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

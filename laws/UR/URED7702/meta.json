@@ -1,0 +1,97 @@
+{
+  "root": "URED7702",
+  "path": "laws/UR/URED7702",
+  "members": [
+    {
+      "id": "URED7702",
+      "title": "Uredba o določitvi podrobnejših namenov porabe in meril za izračun višine sredstev, ki pripadajo posameznim občinam oziroma občinskim samoupravnim narodnim skupnostim",
+      "shortTitle": "Uredba o določitvi podrobnejših namenov porabe in meril za izračun višine sredstev, ki pripadajo posameznim občinam oziroma občinskim samoupravnim narodnim skupnostim",
+      "shortCode": "URED7702",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-1546",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2018-05-18",
+      "validFrom": "2018-05-18",
+      "validTo": null,
+      "latestPublishedAt": "2018-05-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1546",
+      "versions": [
+        {
+          "id": "URED7702-original",
+          "shortCode": "URED7702",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-05-18",
+          "effectiveFrom": "2018-05-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1546",
+          "proposer": null
+        },
+        {
+          "id": "URED7702-npb-URED7702",
+          "shortCode": "URED7702-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-05-18",
+          "effectiveFrom": "2018-05-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7702",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8184",
+      "title": "Uredba o spremembi Uredbe o določitvi podrobnejših namenov porabe in meril za izračun višine sredstev, ki pripadajo posameznim občinam oziroma občinskim samoupravnim narodnim skupnostim",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi podrobnejših namenov porabe in meril za izračun višine sredstev, ki pripadajo posameznim občinam oziroma občinskim samoupravnim narodnim skupnostim",
+      "shortCode": "URED8184",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-2715",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-10-30",
+      "validFrom": "2020-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2715",
+      "versions": [
+        {
+          "id": "URED8184-original",
+          "shortCode": "URED8184",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-10-30",
+          "effectiveFrom": "2020-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7702"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2715",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

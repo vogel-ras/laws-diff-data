@@ -1,0 +1,121 @@
+{
+  "root": "PRAV5211",
+  "path": "laws/PR/PRAV5211",
+  "members": [
+    {
+      "id": "PRAV5211",
+      "title": "Pravilnik o strokovni usposobljenosti za delo z eksplozivi",
+      "shortTitle": "Pravilnik o strokovni usposobljenosti za delo z eksplozivi",
+      "shortCode": "PRAV5211",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3925",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2003-08-21",
+      "validFrom": "2003-08-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3925",
+      "versions": [
+        {
+          "id": "PRAV5211-original",
+          "shortCode": "PRAV5211",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3925",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5924",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o strokovni usposobljenosti za delo z eksplozivi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o strokovni usposobljenosti za delo z eksplozivi",
+      "shortCode": "PRAV5924",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4213",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2004-08-27",
+      "validFrom": "2004-08-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4213",
+      "versions": [
+        {
+          "id": "PRAV5924-original",
+          "shortCode": "PRAV5924",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-27",
+          "effectiveFrom": "2004-08-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5211"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4213",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8441",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovni usposobljenosti za delo z eksplozivi",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovni usposobljenosti za delo z eksplozivi",
+      "shortCode": "PRAV8441",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-4214",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-09-14",
+      "validFrom": "2007-09-14",
+      "validTo": null,
+      "latestPublishedAt": "2007-09-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4214",
+      "versions": [
+        {
+          "id": "PRAV8441-original",
+          "shortCode": "PRAV8441",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-09-14",
+          "effectiveFrom": "2007-09-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5211"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4214",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

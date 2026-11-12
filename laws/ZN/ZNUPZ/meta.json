@@ -1,0 +1,99 @@
+{
+  "root": "ZNUPZ",
+  "path": "laws/ZN/ZNUPZ",
+  "members": [
+    {
+      "id": "ZAKO8360",
+      "title": "Zakon o nujnih ukrepih na področju zdravstva (ZNUPZ)",
+      "shortTitle": "Zakon o nujnih ukrepih na področju zdravstva (ZNUPZ)",
+      "shortCode": "ZNUPZ",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2021-01-2452",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-05-08",
+      "validFrom": "2025-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2452",
+      "versions": [
+        {
+          "id": "ZAKO8360-amend-ZNUPZ-B",
+          "shortCode": "ZNUPZ-B",
+          "label": "Sprememba ZNUPZ-B",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 132/22  str. 9847",
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8360"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3114",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8360-original",
+          "shortCode": "ZNUPZ",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-05-08",
+          "effectiveFrom": "2025-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2452",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNUPZ-B",
+      "title": "Zakon o spremembi Zakona o nujnih ukrepih na področju zdravstva",
+      "shortTitle": "Zakon o spremembi Zakona o nujnih ukrepih na področju zdravstva",
+      "shortCode": "ZNUPZ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3114",
+      "gazette": "Uradni list RS 132/22  str. 9847",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-14",
+      "validFrom": "2022-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3114",
+      "versions": [
+        {
+          "id": "ZNUPZ-B-original",
+          "shortCode": "ZNUPZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 132/22  str. 9847",
+          "publishedAt": "2022-10-14",
+          "effectiveFrom": "2022-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8360"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3114",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

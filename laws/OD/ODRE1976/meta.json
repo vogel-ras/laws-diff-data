@@ -1,0 +1,136 @@
+{
+  "root": "ODRE1976",
+  "path": "laws/OD/ODRE1976",
+  "members": [
+    {
+      "id": "ODRE1976",
+      "title": "Pravilnik o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortTitle": "Pravilnik o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortCode": "ODRE1976",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "odredba",
+      "sopNumber": "2006-01-4156",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2006-09-19",
+      "validFrom": "2006-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4156",
+      "versions": [
+        {
+          "id": "ODRE1976-original",
+          "shortCode": "ODRE1976",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-19",
+          "effectiveFrom": "2006-09-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4156",
+          "proposer": null
+        },
+        {
+          "id": "ODRE1976-npb-ODRE1976",
+          "shortCode": "ODRE1976-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-09-19",
+          "effectiveFrom": "2006-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE1976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9054",
+      "title": "Pravilnik o spremembi Pravilnika o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortCode": "PRAV9054",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-2166",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2008-05-23",
+      "validFrom": "2008-05-23",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2166",
+      "versions": [
+        {
+          "id": "PRAV9054-original",
+          "shortCode": "PRAV9054",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-23",
+          "effectiveFrom": "2008-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2166",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9236",
+      "title": "Pravilnik o spremembi Pravilnika o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o določitvi števila mest državnih pravobranilcev in pomočnikov državnega pravobranilca",
+      "shortCode": "PRAV9236",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3850",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2008-09-19",
+      "validFrom": "2008-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3850",
+      "versions": [
+        {
+          "id": "PRAV9236-original",
+          "shortCode": "PRAV9236",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-09-19",
+          "effectiveFrom": "2008-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1976"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3850",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

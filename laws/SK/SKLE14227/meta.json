@@ -1,0 +1,82 @@
+{
+  "root": "SKLE14227",
+  "path": "laws/SK/SKLE14227",
+  "members": [
+    {
+      "id": "SKLE14227",
+      "title": "Sklep o določitvi obveznega cepljenja drobnice in goveda proti bolezni modrikastega jezika (BTV 3, 4, 8) v letu 2026",
+      "shortTitle": "Sklep o določitvi obveznega cepljenja drobnice in goveda proti bolezni modrikastega jezika (BTV 3, 4, 8) v letu 2026",
+      "shortCode": "SKLE14227",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2025-01-4037",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-05",
+      "validFrom": "2026-01-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-4037",
+      "versions": [
+        {
+          "id": "SKLE14227-original",
+          "shortCode": "SKLE14227",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-05",
+          "effectiveFrom": "2026-01-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-4037",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE14360",
+      "title": "Sklep o spremembi Sklepa o določitvi obveznega cepljenja drobnice in goveda proti bolezni modrikastega jezika (BTV 3, 4, 8) v letu 2026",
+      "shortTitle": "Sklep o spremembi Sklepa o določitvi obveznega cepljenja drobnice in goveda proti bolezni modrikastega jezika (BTV 3, 4, 8) v letu 2026",
+      "shortCode": "SKLE14360",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2026-01-1013",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2026-04-21",
+      "validFrom": "2026-04-21",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1013",
+      "versions": [
+        {
+          "id": "SKLE14360-original",
+          "shortCode": "SKLE14360",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-04-21",
+          "effectiveFrom": "2026-04-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE14227"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1013",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

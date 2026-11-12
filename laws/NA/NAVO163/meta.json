@@ -1,0 +1,97 @@
+{
+  "root": "NAVO163",
+  "path": "laws/NA/NAVO163",
+  "members": [
+    {
+      "id": "NAVO163",
+      "title": "Navodilo o ukrepih za ugotavljanje, preprečevanje in zatiranje salmoneloze (Salmonellosis)",
+      "shortTitle": "Navodilo o ukrepih za ugotavljanje, preprečevanje in zatiranje salmoneloze (Salmonellosis)",
+      "shortCode": "NAVO163",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-3903",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-30",
+      "validFrom": "2026-01-30",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3903",
+      "versions": [
+        {
+          "id": "NAVO163-original",
+          "shortCode": "NAVO163",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-30",
+          "effectiveFrom": "2026-01-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3903",
+          "proposer": null
+        },
+        {
+          "id": "NAVO163-npb-NAVO163",
+          "shortCode": "NAVO163-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-08",
+          "effectiveFrom": "1999-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO163",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO435",
+      "title": "Navodilo o spremembah navodila o ukrepih za ugotavljanje, preprečevanje in zatiranje salmoneloze (Salmonellosis)",
+      "shortTitle": "Navodilo o spremembah navodila o ukrepih za ugotavljanje, preprečevanje in zatiranje salmoneloze (Salmonellosis)",
+      "shortCode": "NAVO435",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2000-01-3352",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-08-10",
+      "validFrom": "2000-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3352",
+      "versions": [
+        {
+          "id": "NAVO435-original",
+          "shortCode": "NAVO435",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-08-10",
+          "effectiveFrom": "2000-08-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO163"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3352",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

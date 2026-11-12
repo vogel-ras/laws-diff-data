@@ -1,0 +1,82 @@
+{
+  "root": "PRAV7273",
+  "path": "laws/PR/PRAV7273",
+  "members": [
+    {
+      "id": "PRAV7273",
+      "title": "Pravilnik o hrambi podatkov o elektronskih komunikacijah policije in o dostopu do policijskih zbirk podatkov",
+      "shortTitle": "Pravilnik o hrambi podatkov o elektronskih komunikacijah policije in o dostopu do policijskih zbirk podatkov",
+      "shortCode": "PRAV7273",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4442",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2006-10-06",
+      "validFrom": "2006-10-06",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4442",
+      "versions": [
+        {
+          "id": "PRAV7273-original",
+          "shortCode": "PRAV7273",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-06",
+          "effectiveFrom": "2006-10-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8458",
+      "title": "Pravilnik o spremembi Pravilnika o hrambi podatkov o elektronskih komunikacijah policije in o dostopu do policijskih zbirk podatkov",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o hrambi podatkov o elektronskih komunikacijah policije in o dostopu do policijskih zbirk podatkov",
+      "shortCode": "PRAV8458",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-3164",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2007-07-04",
+      "validFrom": "2007-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2007-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3164",
+      "versions": [
+        {
+          "id": "PRAV8458-original",
+          "shortCode": "PRAV8458",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-07-04",
+          "effectiveFrom": "2007-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7273"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3164",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

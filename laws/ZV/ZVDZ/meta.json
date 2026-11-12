@@ -1,0 +1,335 @@
+{
+  "root": "ZVDZ",
+  "path": "laws/ZV/ZVDZ",
+  "members": [
+    {
+      "id": "ZAKO7643",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor (ZVDZ-C)",
+      "shortCode": "ZVDZ-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1207",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-04-28",
+      "validFrom": "2017-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2017-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1207",
+      "versions": [
+        {
+          "id": "ZAKO7643-original",
+          "shortCode": "ZVDZ-C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-04-28",
+          "effectiveFrom": "2017-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1207",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDZ",
+      "title": "Zakon o volitvah v državni zbor",
+      "shortTitle": "Zakon o volitvah v državni zbor",
+      "shortCode": "ZVDZ",
+      "kind": "zakon",
+      "keywords": [
+        "volitve",
+        "parlamentarne volitve",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2068",
+      "gazette": "Uradni list RS 44/92  str. 2665",
+      "issuingBody": null,
+      "adoptedAt": "1992-09-12",
+      "validFrom": "1992-09-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2068",
+      "versions": [
+        {
+          "id": "ZVDZ-original",
+          "shortCode": "ZVDZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/92  str. 2665",
+          "publishedAt": "1992-09-12",
+          "effectiveFrom": "1992-09-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2068",
+          "proposer": null
+        },
+        {
+          "id": "ZVDZ-amend-ZVDZ-A",
+          "shortCode": "ZVDZ-A",
+          "label": "Sprememba ZVDZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 60/95  str. 4742",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2787",
+          "proposer": null
+        },
+        {
+          "id": "ZVDZ-amend-ZVDZ-B",
+          "shortCode": "ZVDZ-B",
+          "label": "Sprememba ZVDZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 78/06  str. 8377",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3401",
+          "proposer": null
+        },
+        {
+          "id": "ZVDZ-amend-ZAKO7643",
+          "shortCode": "ZVDZ-C",
+          "label": "Sprememba ZVDZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": null,
+          "publishedAt": "2017-04-28",
+          "effectiveFrom": "2017-04-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1207",
+          "proposer": null
+        },
+        {
+          "id": "ZVDZ-amend-ZVDZ-D",
+          "shortCode": "ZVDZ-D",
+          "label": "Sprememba ZVDZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 29/21  str. 2026",
+          "publishedAt": "2021-03-01",
+          "effectiveFrom": "2021-03-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0618",
+          "proposer": null
+        },
+        {
+          "id": "ZVDZ-amend-ZVDZ-E",
+          "shortCode": "ZVDZ-E",
+          "label": "Sprememba ZVDZ-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 12/24  str. 685",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0293",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDZ-A",
+      "title": "Zakon o dopolnitvi zakona o volitvah v Državni zbor",
+      "shortTitle": "Zakon o dopolnitvi zakona o volitvah v Državni zbor",
+      "shortCode": "ZVDZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "volitve",
+        "parlamentarne volitve",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2787",
+      "gazette": "Uradni list RS 60/95  str. 4742",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-20",
+      "validFrom": "1995-10-20",
+      "validTo": null,
+      "latestPublishedAt": "1995-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2787",
+      "versions": [
+        {
+          "id": "ZVDZ-A-original",
+          "shortCode": "ZVDZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/95  str. 4742",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2787",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDZ-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o volitvah v državni zbor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o volitvah v državni zbor",
+      "shortCode": "ZVDZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "volitve",
+        "parlamentarne volitve",
+        "Državni zbor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-3401",
+      "gazette": "Uradni list RS 78/06  str. 8377",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-25",
+      "validFrom": "2006-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3401",
+      "versions": [
+        {
+          "id": "ZVDZ-B-original",
+          "shortCode": "ZVDZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 78/06  str. 8377",
+          "publishedAt": "2006-07-25",
+          "effectiveFrom": "2006-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3401",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDZ-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor",
+      "shortCode": "ZVDZ-D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0618",
+      "gazette": "Uradni list RS 29/21  str. 2026",
+      "issuingBody": null,
+      "adoptedAt": "2021-03-01",
+      "validFrom": "2021-03-01",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0618",
+      "versions": [
+        {
+          "id": "ZVDZ-D-original",
+          "shortCode": "ZVDZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/21  str. 2026",
+          "publishedAt": "2021-03-01",
+          "effectiveFrom": "2021-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0618",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVDZ-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o volitvah v državni zbor",
+      "shortCode": "ZVDZ-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0293",
+      "gazette": "Uradni list RS 12/24  str. 685",
+      "issuingBody": null,
+      "adoptedAt": "2024-02-09",
+      "validFrom": "2024-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0293",
+      "versions": [
+        {
+          "id": "ZVDZ-E-original",
+          "shortCode": "ZVDZ-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/24  str. 685",
+          "publishedAt": "2024-02-09",
+          "effectiveFrom": "2024-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVDZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0293",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

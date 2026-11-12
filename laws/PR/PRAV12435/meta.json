@@ -1,0 +1,136 @@
+{
+  "root": "PRAV12435",
+  "path": "laws/PR/PRAV12435",
+  "members": [
+    {
+      "id": "PRAV12435",
+      "title": "Pravilnik o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortTitle": "Pravilnik o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortCode": "PRAV12435",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-1772",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino, socialne zadeve in enake možnosti",
+      "adoptedAt": "2015-06-19",
+      "validFrom": "2015-06-19",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1772",
+      "versions": [
+        {
+          "id": "PRAV12435-original",
+          "shortCode": "PRAV12435",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-06-19",
+          "effectiveFrom": "2015-06-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1772",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12435-npb-PRAV12435",
+          "shortCode": "PRAV12435-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-06-19",
+          "effectiveFrom": "2015-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12435",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13227",
+      "title": "Pravilnik o spremembi Pravilnika o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortCode": "PRAV13227",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-3168",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-29",
+      "validFrom": "2017-11-29",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3168",
+      "versions": [
+        {
+          "id": "PRAV13227-original",
+          "shortCode": "PRAV13227",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-29",
+          "effectiveFrom": "2017-11-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12435"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3168",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15568",
+      "title": "Pravilnik o spremembi Pravilnika o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o podrobnejši opredelitvi podatkov o osnovi, od katere so bili obračunani prispevki za starševsko varstvo",
+      "shortCode": "PRAV15568",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-3239",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-12-09",
+      "validFrom": "2024-12-09",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3239",
+      "versions": [
+        {
+          "id": "PRAV15568-original",
+          "shortCode": "PRAV15568",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-12-09",
+          "effectiveFrom": "2024-12-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12435"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3239",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

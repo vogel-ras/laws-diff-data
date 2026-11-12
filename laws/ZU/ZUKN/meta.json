@@ -1,0 +1,219 @@
+{
+  "root": "ZUKN",
+  "path": "laws/ZU/ZUKN",
+  "members": [
+    {
+      "id": "ZAKO6258",
+      "title": "Zakon o dopolnitvi Zakona o upravljanju kapitalskih naložb Republike Slovenije (ZUKN-B)",
+      "shortTitle": "Zakon o dopolnitvi Zakona o upravljanju kapitalskih naložb Republike Slovenije (ZUKN-B)",
+      "shortCode": "ZUKN-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3274",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2011-10-03",
+      "validFrom": "2011-10-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-10-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3274",
+      "versions": [
+        {
+          "id": "ZAKO6258-original",
+          "shortCode": "ZUKN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-10-03",
+          "effectiveFrom": "2011-10-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3274",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKN",
+      "title": "Zakon o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortTitle": "Zakon o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortCode": "ZUKN",
+      "kind": "zakon",
+      "keywords": [
+        "kapitalska naložba",
+        "javna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1847",
+      "gazette": "Uradni list RS 38/10  str. 5251",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-14",
+      "validFrom": "2010-05-14",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1847",
+      "versions": [
+        {
+          "id": "ZUKN-original",
+          "shortCode": "ZUKN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/10  str. 5251",
+          "publishedAt": "2010-05-14",
+          "effectiveFrom": "2010-05-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1847",
+          "proposer": null
+        },
+        {
+          "id": "ZUKN-amend-ZUKN-A",
+          "shortCode": "ZUKN-A",
+          "label": "Sprememba ZUKN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 18/11  str. 2216",
+          "publishedAt": "2011-03-15",
+          "effectiveFrom": "2011-03-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0767",
+          "proposer": null
+        },
+        {
+          "id": "ZUKN-amend-ZAKO6258",
+          "shortCode": "ZUKN-B",
+          "label": "Sprememba ZUKN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2011-10-03",
+          "effectiveFrom": "2011-10-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3274",
+          "proposer": null
+        },
+        {
+          "id": "ZUKN-amend-ZUKN-C",
+          "shortCode": "ZUKN-C",
+          "label": "Sprememba ZUKN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 22/12  str. 1841",
+          "publishedAt": "2012-03-23",
+          "effectiveFrom": "2012-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0851",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKN-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortCode": "ZUKN-A",
+      "kind": "zakon",
+      "keywords": [
+        "kapitalska naložba",
+        "javna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0767",
+      "gazette": "Uradni list RS 18/11  str. 2216",
+      "issuingBody": null,
+      "adoptedAt": "2011-03-15",
+      "validFrom": "2011-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0767",
+      "versions": [
+        {
+          "id": "ZUKN-A-original",
+          "shortCode": "ZUKN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/11  str. 2216",
+          "publishedAt": "2011-03-15",
+          "effectiveFrom": "2011-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0767",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUKN-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravljanju kapitalskih naložb Republike Slovenije",
+      "shortCode": "ZUKN-C",
+      "kind": "zakon",
+      "keywords": [
+        "kapitalska naložba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-0851",
+      "gazette": "Uradni list RS 22/12  str. 1841",
+      "issuingBody": null,
+      "adoptedAt": "2012-03-23",
+      "validFrom": "2012-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0851",
+      "versions": [
+        {
+          "id": "ZUKN-C-original",
+          "shortCode": "ZUKN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/12  str. 1841",
+          "publishedAt": "2012-03-23",
+          "effectiveFrom": "2012-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUKN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0851",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

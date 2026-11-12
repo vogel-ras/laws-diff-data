@@ -1,0 +1,58 @@
+{
+  "root": "URED4701",
+  "path": "laws/UR/URED4701",
+  "members": [
+    {
+      "id": "URED4701",
+      "title": "Uredba o upravljanju kakovosti kopalnih voda",
+      "shortTitle": "Uredba o upravljanju kakovosti kopalnih voda",
+      "shortCode": "URED4701",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0974",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-03-14",
+      "validFrom": "2008-03-14",
+      "validTo": null,
+      "latestPublishedAt": "2008-03-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0974",
+      "versions": [
+        {
+          "id": "URED4701-original",
+          "shortCode": "URED4701",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-03-14",
+          "effectiveFrom": "2008-03-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0974",
+          "proposer": null
+        },
+        {
+          "id": "URED4701-npb-URED4701",
+          "shortCode": "URED4701-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-14",
+          "effectiveFrom": "2008-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4701",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

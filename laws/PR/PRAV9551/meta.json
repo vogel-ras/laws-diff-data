@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9551",
+  "path": "laws/PR/PRAV9551",
+  "members": [
+    {
+      "id": "PRAV9551",
+      "title": "Pravilnik o aerosolnih razpršilnikih",
+      "shortTitle": "Pravilnik o aerosolnih razpršilnikih",
+      "shortCode": "PRAV9551",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-4190",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2009-11-27",
+      "validFrom": "2009-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4190",
+      "versions": [
+        {
+          "id": "PRAV9551-original",
+          "shortCode": "PRAV9551",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-11-27",
+          "effectiveFrom": "2009-11-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4190",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9551-npb-PRAV9551",
+          "shortCode": "PRAV9551-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-11-27",
+          "effectiveFrom": "2009-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9551",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

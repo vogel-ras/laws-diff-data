@@ -1,0 +1,97 @@
+{
+  "root": "URED6511",
+  "path": "laws/UR/URED6511",
+  "members": [
+    {
+      "id": "URED6511",
+      "title": "Uredba o sežigalnicah odpadkov in napravah za sosežig odpadkov",
+      "shortTitle": "Uredba o sežigalnicah odpadkov in napravah za sosežig odpadkov",
+      "shortCode": "URED6511",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-0285",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-02-05",
+      "validFrom": "2016-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-05-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0285",
+      "versions": [
+        {
+          "id": "URED6511-original",
+          "shortCode": "URED6511",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-02-05",
+          "effectiveFrom": "2016-02-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0285",
+          "proposer": null
+        },
+        {
+          "id": "URED6511-npb-URED6511",
+          "shortCode": "URED6511-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-05-02",
+          "effectiveFrom": "2026-05-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6511",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9174",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sežigalnicah odpadkov in napravah za sosežig odpadkov",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sežigalnicah odpadkov in napravah za sosežig odpadkov",
+      "shortCode": "URED9174",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1878",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-06-20",
+      "validFrom": "2025-06-20",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1878",
+      "versions": [
+        {
+          "id": "URED9174-original",
+          "shortCode": "URED9174",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-20",
+          "effectiveFrom": "2025-06-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6511"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1878",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

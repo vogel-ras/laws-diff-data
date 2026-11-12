@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5926",
+  "path": "laws/PR/PRAV5926",
+  "members": [
+    {
+      "id": "PRAV5926",
+      "title": "Pravilnik o evropski kartici zdravstvenega zavarovanja",
+      "shortTitle": "Pravilnik o evropski kartici zdravstvenega zavarovanja",
+      "shortCode": "PRAV5926",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2665",
+      "gazette": null,
+      "issuingBody": "Zavod za zdravstveno zavarovanje Slovenije",
+      "adoptedAt": "2004-05-24",
+      "validFrom": "2004-05-24",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2665",
+      "versions": [
+        {
+          "id": "PRAV5926-original",
+          "shortCode": "PRAV5926",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-05-24",
+          "effectiveFrom": "2004-05-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2665",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8969",
+      "title": "Pravilnik o spremembah Pravilnika o evropski kartici zdravstvenega zavarovanja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o evropski kartici zdravstvenega zavarovanja",
+      "shortCode": "PRAV8969",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-0226",
+      "gazette": null,
+      "issuingBody": "Zavod za zdravstveno zavarovanje Slovenije",
+      "adoptedAt": "2008-01-22",
+      "validFrom": "2008-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0226",
+      "versions": [
+        {
+          "id": "PRAV8969-original",
+          "shortCode": "PRAV8969",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-22",
+          "effectiveFrom": "2008-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5926"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0226",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

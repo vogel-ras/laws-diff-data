@@ -1,0 +1,155 @@
+{
+  "root": "ZPGOPEK",
+  "path": "laws/ZP/ZPGOPEK",
+  "members": [
+    {
+      "id": "ZPGOPEK",
+      "title": "Zakon o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortTitle": "Zakon o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortCode": "ZPGOPEK",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4186",
+      "gazette": "Uradni list RS 163/22  str. 13661",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-27",
+      "validFrom": "2022-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4186",
+      "versions": [
+        {
+          "id": "ZPGOPEK-original",
+          "shortCode": "ZPGOPEK",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 163/22  str. 13661",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4186",
+          "proposer": null
+        },
+        {
+          "id": "ZPGOPEK-amend-ZPGOPEK-A",
+          "shortCode": "ZPGOPEK-A",
+          "label": "Sprememba ZPGOPEK-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 15/23  str. 967",
+          "publishedAt": "2023-02-06",
+          "effectiveFrom": "2023-02-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPGOPEK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0297",
+          "proposer": null
+        },
+        {
+          "id": "ZPGOPEK-amend-ZPGOPEK-B",
+          "shortCode": "ZPGOPEK-B",
+          "label": "Sprememba ZPGOPEK-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 38/24  str. 3552",
+          "publishedAt": "2024-05-07",
+          "effectiveFrom": "2024-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPGOPEK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPGOPEK-A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortCode": "ZPGOPEK-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0297",
+      "gazette": "Uradni list RS 15/23  str. 967",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-06",
+      "validFrom": "2023-02-06",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0297",
+      "versions": [
+        {
+          "id": "ZPGOPEK-A-original",
+          "shortCode": "ZPGOPEK-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/23  str. 967",
+          "publishedAt": "2023-02-06",
+          "effectiveFrom": "2023-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPGOPEK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0297",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPGOPEK-B",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o pomoči gospodarstvu za omilitev posledic energetske krize",
+      "shortCode": "ZPGOPEK-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1291",
+      "gazette": "Uradni list RS 38/24  str. 3552",
+      "issuingBody": null,
+      "adoptedAt": "2024-05-07",
+      "validFrom": "2024-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1291",
+      "versions": [
+        {
+          "id": "ZPGOPEK-B-original",
+          "shortCode": "ZPGOPEK-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/24  str. 3552",
+          "publishedAt": "2024-05-07",
+          "effectiveFrom": "2024-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPGOPEK"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1291",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

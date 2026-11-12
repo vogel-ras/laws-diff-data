@@ -1,0 +1,97 @@
+{
+  "root": "URED7059",
+  "path": "laws/UR/URED7059",
+  "members": [
+    {
+      "id": "URED7059",
+      "title": "Uredba o koncesiji za rabo termalne vode iz izvira Toplica za dejavnost kopališč in naravnih zdravilišč – Terme Topolšica",
+      "shortTitle": "Uredba o koncesiji za rabo termalne vode iz izvira Toplica za dejavnost kopališč in naravnih zdravilišč – Terme Topolšica",
+      "shortCode": "URED7059",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3414",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-11-13",
+      "validFrom": "2015-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3414",
+      "versions": [
+        {
+          "id": "URED7059-original",
+          "shortCode": "URED7059",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-13",
+          "effectiveFrom": "2015-11-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3414",
+          "proposer": null
+        },
+        {
+          "id": "URED7059-npb-URED7059",
+          "shortCode": "URED7059-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2015-11-13",
+          "effectiveFrom": "2015-11-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7059",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7493",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za rabo termalne vode iz izvira Toplica za dejavnost kopališč in naravnih zdravilišč – Terme Topolšica",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o koncesiji za rabo termalne vode iz izvira Toplica za dejavnost kopališč in naravnih zdravilišč – Terme Topolšica",
+      "shortCode": "URED7493",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-1886",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-06-21",
+      "validFrom": "2019-06-21",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1886",
+      "versions": [
+        {
+          "id": "URED7493-original",
+          "shortCode": "URED7493",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-06-21",
+          "effectiveFrom": "2019-06-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7059"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1886",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

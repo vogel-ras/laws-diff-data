@@ -1,0 +1,99 @@
+{
+  "root": "ZZUSUDJZ",
+  "path": "laws/ZZ/ZZUSUDJZ",
+  "members": [
+    {
+      "id": "ZZUSUDJZ",
+      "title": "Zakon o začasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19)",
+      "shortTitle": "Zakon o začasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19)",
+      "shortCode": "ZZUSUDJZ",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0681",
+      "gazette": "Uradni list RS 36/20  str. 1932",
+      "issuingBody": null,
+      "adoptedAt": "2020-03-28",
+      "validFrom": "2020-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0681",
+      "versions": [
+        {
+          "id": "ZZUSUDJZ-original",
+          "shortCode": "ZZUSUDJZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/20  str. 1932",
+          "publishedAt": "2020-03-28",
+          "effectiveFrom": "2020-03-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0681",
+          "proposer": null
+        },
+        {
+          "id": "ZZUSUDJZ-amend-ZZUSUDJZ-A",
+          "shortCode": "ZZUSUDJZ-A",
+          "label": "Sprememba ZZUSUDJZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 61/20  str. 2271",
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZUSUDJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0899",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZUSUDJZ-A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o začasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19)",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o začasnih ukrepih v zvezi s sodnimi, upravnimi in drugimi javnopravnimi zadevami za obvladovanje širjenja nalezljive bolezni SARS-CoV-2 (COVID-19)",
+      "shortCode": "ZZUSUDJZ-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0899",
+      "gazette": "Uradni list RS 61/20  str. 2271",
+      "issuingBody": null,
+      "adoptedAt": "2020-04-30",
+      "validFrom": "2020-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0899",
+      "versions": [
+        {
+          "id": "ZZUSUDJZ-A-original",
+          "shortCode": "ZZUSUDJZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/20  str. 2271",
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZUSUDJZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0899",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

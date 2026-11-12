@@ -1,0 +1,121 @@
+{
+  "root": "PRAV4789",
+  "path": "laws/PR/PRAV4789",
+  "members": [
+    {
+      "id": "PRAV4789",
+      "title": "Pravilnik o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortTitle": "Pravilnik o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortCode": "PRAV4789",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-5451",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-12-20",
+      "validFrom": "2002-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5451",
+      "versions": [
+        {
+          "id": "PRAV4789-original",
+          "shortCode": "PRAV4789",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-20",
+          "effectiveFrom": "2002-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5451",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5874",
+      "title": "Pravilnik o spremembi pravilnika o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortTitle": "Pravilnik o spremembi pravilnika o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortCode": "PRAV5874",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1635",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-04-16",
+      "validFrom": "2004-04-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1635",
+      "versions": [
+        {
+          "id": "PRAV5874-original",
+          "shortCode": "PRAV5874",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-16",
+          "effectiveFrom": "2004-04-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4789"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1635",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7671",
+      "title": "Pravilnik o spremembi Pravilnika o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izdajanju potrdil za naziva državni revizor in preizkušeni državni revizor",
+      "shortCode": "PRAV7671",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1360",
+      "gazette": null,
+      "issuingBody": "Računsko sodišče Republike Slovenije",
+      "adoptedAt": "2006-03-30",
+      "validFrom": "2006-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1360",
+      "versions": [
+        {
+          "id": "PRAV7671-original",
+          "shortCode": "PRAV7671",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-30",
+          "effectiveFrom": "2006-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4789"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1360",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

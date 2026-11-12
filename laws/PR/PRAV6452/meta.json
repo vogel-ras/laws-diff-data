@@ -1,0 +1,58 @@
+{
+  "root": "PRAV6452",
+  "path": "laws/PR/PRAV6452",
+  "members": [
+    {
+      "id": "PRAV6452",
+      "title": "Pravilnik o mehanski odpornosti in stabilnosti objektov",
+      "shortTitle": "Pravilnik o mehanski odpornosti in stabilnosti objektov",
+      "shortCode": "PRAV6452",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-4408",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-08",
+      "validFrom": "2026-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4408",
+      "versions": [
+        {
+          "id": "PRAV6452-original",
+          "shortCode": "PRAV6452",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-08",
+          "effectiveFrom": "2026-01-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4408",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6452-npb-PRAV6452",
+          "shortCode": "PRAV6452-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6452",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

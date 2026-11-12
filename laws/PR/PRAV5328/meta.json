@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5328",
+  "path": "laws/PR/PRAV5328",
+  "members": [
+    {
+      "id": "PRAV5328",
+      "title": "Pravilnik o pogojih za proizvodnjo, promet in uporabo medicirane krme",
+      "shortTitle": "Pravilnik o pogojih za proizvodnjo, promet in uporabo medicirane krme",
+      "shortCode": "PRAV5328",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4983",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-11-21",
+      "validFrom": "2003-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4983",
+      "versions": [
+        {
+          "id": "PRAV5328-original",
+          "shortCode": "PRAV5328",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-21",
+          "effectiveFrom": "2003-11-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4983",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5328-npb-PRAV5328",
+          "shortCode": "PRAV5328-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-11-21",
+          "effectiveFrom": "2003-11-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5328",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5723",
+      "title": "Pravilnik o spremembah pravilnika o pogojih za proizvodnjo, promet in uporabo medicirane krme",
+      "shortTitle": "Pravilnik o spremembah pravilnika o pogojih za proizvodnjo, promet in uporabo medicirane krme",
+      "shortCode": "PRAV5723",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1085",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-19",
+      "validFrom": "2004-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1085",
+      "versions": [
+        {
+          "id": "PRAV5723-original",
+          "shortCode": "PRAV5723",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-19",
+          "effectiveFrom": "2004-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5328"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1085",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

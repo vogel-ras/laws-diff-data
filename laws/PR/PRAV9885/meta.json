@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9885",
+  "path": "laws/PR/PRAV9885",
+  "members": [
+    {
+      "id": "PRAV10416",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki in načinu dostave podatkov o dohodku od prihrankov v obliki plačil obresti",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o obliki in načinu dostave podatkov o dohodku od prihrankov v obliki plačil obresti",
+      "shortCode": "PRAV10416",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5314",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-21",
+      "validFrom": "2010-12-21",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5314",
+      "versions": [
+        {
+          "id": "PRAV10416-original",
+          "shortCode": "PRAV10416",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-21",
+          "effectiveFrom": "2010-12-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9885"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5314",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9885",
+      "title": "Pravilnik o obliki in načinu dostave podatkov o dohodku od prihrankov v obliki plačil obresti",
+      "shortTitle": "Pravilnik o obliki in načinu dostave podatkov o dohodku od prihrankov v obliki plačil obresti",
+      "shortCode": "PRAV9885",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-5203",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5203",
+      "versions": [
+        {
+          "id": "PRAV9885-original",
+          "shortCode": "PRAV9885",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5203",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9885-npb-PRAV9885",
+          "shortCode": "PRAV9885-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9885",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

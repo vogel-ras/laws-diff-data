@@ -1,0 +1,117 @@
+{
+  "root": "ZJShemRS",
+  "path": "laws/ZJ/ZJShemRS",
+  "members": [
+    {
+      "id": "ZJShemRS",
+      "title": "Zakon o jamstveni shemi Republike Slovenije",
+      "shortTitle": "Zakon o jamstveni shemi Republike Slovenije",
+      "shortCode": "ZJShemRS",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska recesija",
+        "denarna kriza",
+        "vlaganja v industriji",
+        "poroštvo",
+        "banka",
+        "najem posojila",
+        "gospodarska družba",
+        "financiranje industrije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1509",
+      "gazette": "Uradni list RS 33/09  str. 4657",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-30",
+      "validFrom": "2009-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1509",
+      "versions": [
+        {
+          "id": "ZJShemRS-original",
+          "shortCode": "ZJShemRS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/09  str. 4657",
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1509",
+          "proposer": null
+        },
+        {
+          "id": "ZJShemRS-amend-ZJShemRS-A",
+          "shortCode": "ZJShemRS-A",
+          "label": "Sprememba ZJShemRS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/09  str. 5900",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJShemRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2041",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZJShemRS-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o jamstveni shemi Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o jamstveni shemi Republike Slovenije",
+      "shortCode": "ZJShemRS-A",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarska recesija",
+        "denarna kriza",
+        "vlaganja v industriji",
+        "poroštvo",
+        "banka",
+        "najem posojila",
+        "gospodarska družba",
+        "financiranje industrije"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2041",
+      "gazette": "Uradni list RS 42/09  str. 5900",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-05",
+      "validFrom": "2009-06-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2041",
+      "versions": [
+        {
+          "id": "ZJShemRS-A-original",
+          "shortCode": "ZJShemRS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/09  str. 5900",
+          "publishedAt": "2009-06-05",
+          "effectiveFrom": "2009-06-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZJShemRS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2041",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

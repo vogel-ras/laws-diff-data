@@ -1,0 +1,82 @@
+{
+  "root": "URED1063",
+  "path": "laws/UR/URED1063",
+  "members": [
+    {
+      "id": "URED1063",
+      "title": "Uredba o taksi za obremenjevanje okolja zaradi odlaganja odpadkov",
+      "shortTitle": "Uredba o taksi za obremenjevanje okolja zaradi odlaganja odpadkov",
+      "shortCode": "URED1063",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-3782",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-08-31",
+      "validFrom": "2001-08-31",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3782",
+      "versions": [
+        {
+          "id": "URED1063-original",
+          "shortCode": "URED1063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-31",
+          "effectiveFrom": "2001-08-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3782",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3231",
+      "title": "Uredba o spremembah uredbe o taksi za obremenjevanje okolja zaradi odlaganja odpadkov",
+      "shortTitle": "Uredba o spremembah uredbe o taksi za obremenjevanje okolja zaradi odlaganja odpadkov",
+      "shortCode": "URED3231",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-0412",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-02-02",
+      "validFrom": "2004-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0412",
+      "versions": [
+        {
+          "id": "URED3231-original",
+          "shortCode": "URED3231",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-02",
+          "effectiveFrom": "2004-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1063"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0412",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

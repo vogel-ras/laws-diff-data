@@ -1,0 +1,82 @@
+{
+  "root": "SKLE14217",
+  "path": "laws/SK/SKLE14217",
+  "members": [
+    {
+      "id": "SKLE14217",
+      "title": "Sklep o uveljavljanju delnega povračila nadomestila plače",
+      "shortTitle": "Sklep o uveljavljanju delnega povračila nadomestila plače",
+      "shortCode": "SKLE14217",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2025-01-3399",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-05",
+      "validFrom": "2026-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3399",
+      "versions": [
+        {
+          "id": "SKLE14217-original",
+          "shortCode": "SKLE14217",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-05",
+          "effectiveFrom": "2026-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3399",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE14331",
+      "title": "Sklep o spremembi Sklepa o uveljavljanju delnega povračila nadomestila plače",
+      "shortTitle": "Sklep o spremembi Sklepa o uveljavljanju delnega povračila nadomestila plače",
+      "shortCode": "SKLE14331",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2026-01-0687",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-05",
+      "validFrom": "2026-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0687",
+      "versions": [
+        {
+          "id": "SKLE14331-original",
+          "shortCode": "SKLE14331",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-05",
+          "effectiveFrom": "2026-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE14217"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0687",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

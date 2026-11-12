@@ -1,0 +1,155 @@
+{
+  "root": "ZIPRS1819",
+  "path": "laws/ZI/ZIPRS1819",
+  "members": [
+    {
+      "id": "ZAKO7356",
+      "title": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019 (ZIPRS1819)",
+      "shortTitle": "Zakon o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019 (ZIPRS1819)",
+      "shortCode": "ZIPRS1819",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3415",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-13",
+      "validFrom": "2017-12-13",
+      "validTo": null,
+      "latestPublishedAt": "2019-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3415",
+      "versions": [
+        {
+          "id": "ZAKO7356-original",
+          "shortCode": "ZIPRS1819",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-13",
+          "effectiveFrom": "2017-12-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3415",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7356-amend-ZIPRS1819-A",
+          "shortCode": "ZIPRS1819-A",
+          "label": "Sprememba ZIPRS1819-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 83/18  str. 13245",
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO7356"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4066",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO7356-amend-ZIPRS1819-B",
+          "shortCode": "ZIPRS1819-B",
+          "label": "Sprememba ZIPRS1819-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 19/19  str. 2267",
+          "publishedAt": "2019-03-29",
+          "effectiveFrom": "2019-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7356"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0800",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1819-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019",
+      "shortCode": "ZIPRS1819-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-4066",
+      "gazette": "Uradni list RS 83/18  str. 13245",
+      "issuingBody": null,
+      "adoptedAt": "2018-12-24",
+      "validFrom": "2018-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4066",
+      "versions": [
+        {
+          "id": "ZIPRS1819-A-original",
+          "shortCode": "ZIPRS1819-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/18  str. 13245",
+          "publishedAt": "2018-12-24",
+          "effectiveFrom": "2018-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7356"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIPRS1819-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvrševanju proračunov Republike Slovenije za leti 2018 in 2019",
+      "shortCode": "ZIPRS1819-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0800",
+      "gazette": "Uradni list RS 19/19  str. 2267",
+      "issuingBody": null,
+      "adoptedAt": "2019-03-29",
+      "validFrom": "2019-03-29",
+      "validTo": null,
+      "latestPublishedAt": "2019-03-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0800",
+      "versions": [
+        {
+          "id": "ZIPRS1819-B-original",
+          "shortCode": "ZIPRS1819-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 19/19  str. 2267",
+          "publishedAt": "2019-03-29",
+          "effectiveFrom": "2019-03-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO7356"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0800",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

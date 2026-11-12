@@ -1,0 +1,97 @@
+{
+  "root": "PRAV6070",
+  "path": "laws/PR/PRAV6070",
+  "members": [
+    {
+      "id": "PRAV10246",
+      "title": "Pravilnik o spremembah Pravilnika o podrobnejšemu načinu določanja meje obale",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o podrobnejšemu načinu določanja meje obale",
+      "shortCode": "PRAV10246",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-4221",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2010-10-04",
+      "validFrom": "2010-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4221",
+      "versions": [
+        {
+          "id": "PRAV10246-original",
+          "shortCode": "PRAV10246",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6070"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4221",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6070",
+      "title": "Pravilnik o podrobnejšemu načinu določanja meje obale",
+      "shortTitle": "Pravilnik o podrobnejšemu načinu določanja meje obale",
+      "shortCode": "PRAV6070",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-4473",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-09-30",
+      "validFrom": "2004-09-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-09-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4473",
+      "versions": [
+        {
+          "id": "PRAV6070-original",
+          "shortCode": "PRAV6070",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-09-30",
+          "effectiveFrom": "2004-09-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4473",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6070-npb-PRAV6070",
+          "shortCode": "PRAV6070-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-09-30",
+          "effectiveFrom": "2004-09-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6070",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

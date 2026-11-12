@@ -1,0 +1,46 @@
+{
+  "root": "ZDIS",
+  "path": "laws/ZD/ZDIS",
+  "members": [
+    {
+      "id": "ZDIS",
+      "title": "Zakon o davku od iger na srečo",
+      "shortTitle": "Zakon o davku od iger na srečo",
+      "shortCode": "ZDIS",
+      "kind": "zakon",
+      "keywords": [
+        "igra na srečo",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2683",
+      "gazette": "Uradni list RS 57/99  str. 7258",
+      "issuingBody": null,
+      "adoptedAt": "1999-07-16",
+      "validFrom": "1999-07-16",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2683",
+      "versions": [
+        {
+          "id": "ZDIS-original",
+          "shortCode": "ZDIS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/99  str. 7258",
+          "publishedAt": "1999-07-16",
+          "effectiveFrom": "1999-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2683",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

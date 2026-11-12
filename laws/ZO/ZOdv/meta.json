@@ -1,0 +1,501 @@
+{
+  "root": "ZOdv",
+  "path": "laws/ZO/ZOdv",
+  "members": [
+    {
+      "id": "ZAKO4730",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu (ZOdv-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu (ZOdv-B)",
+      "shortCode": "ZOdv-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2265",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-06-02",
+      "validFrom": "2008-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2265",
+      "versions": [
+        {
+          "id": "ZAKO4730-original",
+          "shortCode": "ZOdv-B",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-02",
+          "effectiveFrom": "2008-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2265",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO9286",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu (ZOdv-H)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu (ZOdv-H)",
+      "shortCode": "ZOdv-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0354",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-11",
+      "validFrom": "2026-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0354",
+      "versions": [
+        {
+          "id": "ZAKO9286-original",
+          "shortCode": "ZOdv-H",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0354",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv",
+      "title": "Zakon o odvetništvu",
+      "shortTitle": "Zakon o odvetništvu",
+      "shortCode": "ZOdv",
+      "kind": "zakon",
+      "keywords": [
+        "odvetnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0817",
+      "gazette": "Uradni list RS 18/93  str. 828",
+      "issuingBody": null,
+      "adoptedAt": "1993-04-09",
+      "validFrom": "1993-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0817",
+      "versions": [
+        {
+          "id": "ZOdv-original",
+          "shortCode": "ZOdv",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/93  str. 828",
+          "publishedAt": "1993-04-09",
+          "effectiveFrom": "1993-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0817",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-A",
+          "shortCode": "ZOdv-A",
+          "label": "Sprememba ZOdv-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 24/2001  str. 2517",
+          "publishedAt": "2001-04-05",
+          "effectiveFrom": "2001-04-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1455",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZAKO4730",
+          "shortCode": "ZOdv-B",
+          "label": "Sprememba ZOdv-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2008-06-02",
+          "effectiveFrom": "2008-06-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2265",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-C",
+          "shortCode": "ZOdv-C",
+          "label": "Sprememba ZOdv-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 35/08  str. 4889",
+          "publishedAt": "2009-05-08",
+          "effectiveFrom": "2009-05-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1633",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-D",
+          "shortCode": "ZOdv-D",
+          "label": "Sprememba ZOdv-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 97/14  str. 10984",
+          "publishedAt": "2014-12-30",
+          "effectiveFrom": "2014-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4071",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-E",
+          "shortCode": "ZOdv-E",
+          "label": "Sprememba ZOdv-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 46/16  str. 6766",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1997",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-F",
+          "shortCode": "ZOdv-F",
+          "label": "Sprememba ZOdv-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 36/19  str. 4243",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1625",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZOdv-G",
+          "shortCode": "ZOdv-G",
+          "label": "Sprememba ZOdv-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 130/22  str. 9753",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3089",
+          "proposer": null
+        },
+        {
+          "id": "ZOdv-amend-ZAKO9286",
+          "shortCode": "ZOdv-H",
+          "label": "Sprememba ZOdv-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0354",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o odvetništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o odvetništvu",
+      "shortCode": "ZOdv-A",
+      "kind": "zakon",
+      "keywords": [
+        "odvetnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1455",
+      "gazette": "Uradni list RS 24/2001  str. 2517",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-05",
+      "validFrom": "2001-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1455",
+      "versions": [
+        {
+          "id": "ZOdv-A-original",
+          "shortCode": "ZOdv-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 24/2001  str. 2517",
+          "publishedAt": "2001-04-05",
+          "effectiveFrom": "2001-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1455",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortCode": "ZOdv-C",
+      "kind": "zakon",
+      "keywords": [
+        "odvetnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1633",
+      "gazette": "Uradni list RS 35/08  str. 4889",
+      "issuingBody": null,
+      "adoptedAt": "2009-05-08",
+      "validFrom": "2009-05-08",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1633",
+      "versions": [
+        {
+          "id": "ZOdv-C-original",
+          "shortCode": "ZOdv-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/08  str. 4889",
+          "publishedAt": "2009-05-08",
+          "effectiveFrom": "2009-05-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1633",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-D",
+      "title": "Zakon o dopolnitvah Zakona o odvetništvu",
+      "shortTitle": "Zakon o dopolnitvah Zakona o odvetništvu",
+      "shortCode": "ZOdv-D",
+      "kind": "zakon",
+      "keywords": [
+        "odvetnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-4071",
+      "gazette": "Uradni list RS 97/14  str. 10984",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-30",
+      "validFrom": "2014-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4071",
+      "versions": [
+        {
+          "id": "ZOdv-D-original",
+          "shortCode": "ZOdv-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/14  str. 10984",
+          "publishedAt": "2014-12-30",
+          "effectiveFrom": "2014-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortCode": "ZOdv-E",
+      "kind": "zakon",
+      "keywords": [
+        "odvetnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1997",
+      "gazette": "Uradni list RS 46/16  str. 6766",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-30",
+      "validFrom": "2016-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1997",
+      "versions": [
+        {
+          "id": "ZOdv-E-original",
+          "shortCode": "ZOdv-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/16  str. 6766",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1997",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odvetništvu",
+      "shortCode": "ZOdv-F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1625",
+      "gazette": "Uradni list RS 36/19  str. 4243",
+      "issuingBody": null,
+      "adoptedAt": "2019-06-07",
+      "validFrom": "2019-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1625",
+      "versions": [
+        {
+          "id": "ZOdv-F-original",
+          "shortCode": "ZOdv-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/19  str. 4243",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1625",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOdv-G",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o odvetništvu",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o odvetništvu",
+      "shortCode": "ZOdv-G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3089",
+      "gazette": "Uradni list RS 130/22  str. 9753",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3089",
+      "versions": [
+        {
+          "id": "ZOdv-G-original",
+          "shortCode": "ZOdv-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/22  str. 9753",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOdv"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3089",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

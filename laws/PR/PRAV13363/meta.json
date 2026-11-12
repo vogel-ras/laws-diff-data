@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13363",
+  "path": "laws/PR/PRAV13363",
+  "members": [
+    {
+      "id": "PRAV13363",
+      "title": "Pravilnik o izvrševanju probacijskih nalog",
+      "shortTitle": "Pravilnik o izvrševanju probacijskih nalog",
+      "shortCode": "PRAV13363",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0891",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0891",
+      "versions": [
+        {
+          "id": "PRAV13363-original",
+          "shortCode": "PRAV13363",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0891",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13363-npb-PRAV13363",
+          "shortCode": "PRAV13363-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13363",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13989",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju probacijskih nalog",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju probacijskih nalog",
+      "shortCode": "PRAV13989",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2020-01-1074",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2020-05-20",
+      "validFrom": "2020-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2020-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1074",
+      "versions": [
+        {
+          "id": "PRAV13989-original",
+          "shortCode": "PRAV13989",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-05-20",
+          "effectiveFrom": "2020-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13363"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-1074",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

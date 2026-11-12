@@ -1,0 +1,58 @@
+{
+  "root": "URED1602",
+  "path": "laws/UR/URED1602",
+  "members": [
+    {
+      "id": "URED1602",
+      "title": "Uredba o lokacijskem načrtu za avtocesto na odseku Krška vas-Obrežje",
+      "shortTitle": "Uredba o lokacijskem načrtu za avtocesto na odseku Krška vas-Obrežje",
+      "shortCode": "URED1602",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2035",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-10",
+      "validFrom": "2001-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2035",
+      "versions": [
+        {
+          "id": "URED1602-original",
+          "shortCode": "URED1602",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2035",
+          "proposer": null
+        },
+        {
+          "id": "URED1602-npb-URED1602",
+          "shortCode": "URED1602-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1602",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

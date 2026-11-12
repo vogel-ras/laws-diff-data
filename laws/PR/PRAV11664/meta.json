@@ -1,0 +1,82 @@
+{
+  "root": "PRAV11664",
+  "path": "laws/PR/PRAV11664",
+  "members": [
+    {
+      "id": "PRAV11664",
+      "title": "Pravilnik o enotnem informacijskem sistemu na področju javnega naročanja",
+      "shortTitle": "Pravilnik o enotnem informacijskem sistemu na področju javnega naročanja",
+      "shortCode": "PRAV11664",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-2184",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2013-07-05",
+      "validFrom": "2013-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2013-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2184",
+      "versions": [
+        {
+          "id": "PRAV11664-original",
+          "shortCode": "PRAV11664",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-07-05",
+          "effectiveFrom": "2013-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2184",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12344",
+      "title": "Pravilnik o spremembah Pravilnika o enotnem informacijskem sistemu na področju javnega naročanja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o enotnem informacijskem sistemu na področju javnega naročanja",
+      "shortCode": "PRAV12344",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-0126",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za javno upravo",
+      "adoptedAt": "2015-01-23",
+      "validFrom": "2015-01-23",
+      "validTo": null,
+      "latestPublishedAt": "2015-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0126",
+      "versions": [
+        {
+          "id": "PRAV12344-original",
+          "shortCode": "PRAV12344",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-01-23",
+          "effectiveFrom": "2015-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11664"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0126",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV4558",
+  "path": "laws/PR/PRAV4558",
+  "members": [
+    {
+      "id": "PRAV4558",
+      "title": "Pravilnik o rokih in načinu obveščanja iz pristojnosti Inštituta za varovanje zdravja Republike Slovenije v zvezi z meritvami vsebnosti in sestavinami tobačnih izdelkov",
+      "shortTitle": "Pravilnik o rokih in načinu obveščanja iz pristojnosti Inštituta za varovanje zdravja Republike Slovenije v zvezi z meritvami vsebnosti in sestavinami tobačnih izdelkov",
+      "shortCode": "PRAV4558",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3045",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2003-06-27",
+      "validFrom": "2003-06-27",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3045",
+      "versions": [
+        {
+          "id": "PRAV4558-original",
+          "shortCode": "PRAV4558",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3045",
+          "proposer": null
+        },
+        {
+          "id": "PRAV4558-npb-PRAV4558",
+          "shortCode": "PRAV4558-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-06-27",
+          "effectiveFrom": "2003-06-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV4558",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7237",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o rokih in načinu obveščanja iz pristojnosti Inštituta za varovanje zdravja Republike Slovenije v zvezi z meritvami vsebnosti in sestavinami tobačnih izdelkov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o rokih in načinu obveščanja iz pristojnosti Inštituta za varovanje zdravja Republike Slovenije v zvezi z meritvami vsebnosti in sestavinami tobačnih izdelkov",
+      "shortCode": "PRAV7237",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1496",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2005-04-04",
+      "validFrom": "2005-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1496",
+      "versions": [
+        {
+          "id": "PRAV7237-original",
+          "shortCode": "PRAV7237",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-04-04",
+          "effectiveFrom": "2005-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4558"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1496",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

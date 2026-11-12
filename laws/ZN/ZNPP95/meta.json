@@ -1,0 +1,107 @@
+{
+  "root": "ZNPP95",
+  "path": "laws/ZN/ZNPP95",
+  "members": [
+    {
+      "id": "ZNPP95",
+      "title": "Zakon o najemu posojil in poroštvu za najeta posojila za odkup pridelka pšenice v letu 1995",
+      "shortTitle": "Zakon o najemu posojil in poroštvu za najeta posojila za odkup pridelka pšenice v letu 1995",
+      "shortCode": "ZNPP95",
+      "kind": "zakon",
+      "keywords": [
+        "najem posojila",
+        "poroštvo",
+        "pšenica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1730",
+      "gazette": "Uradni list RS 37/95  str. 2605",
+      "issuingBody": null,
+      "adoptedAt": "1995-06-30",
+      "validFrom": "1995-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1995-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1730",
+      "versions": [
+        {
+          "id": "ZNPP95-original",
+          "shortCode": "ZNPP95",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/95  str. 2605",
+          "publishedAt": "1995-06-30",
+          "effectiveFrom": "1995-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1730",
+          "proposer": null
+        },
+        {
+          "id": "ZNPP95-amend-ZNPP95-A",
+          "shortCode": "ZNPP95-A",
+          "label": "Sprememba ZNPP95-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 45/95  str. 3505",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPP95"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2160",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPP95-A",
+      "title": "Zakon o spremembi zakona o najemu posojil in poroštvu za najeta posojila za odkup pridelka pšenice v letu 1995",
+      "shortTitle": "Zakon o spremembi zakona o najemu posojil in poroštvu za najeta posojila za odkup pridelka pšenice v letu 1995",
+      "shortCode": "ZNPP95-A",
+      "kind": "zakon",
+      "keywords": [
+        "najem posojila",
+        "poroštvo",
+        "pšenica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2160",
+      "gazette": "Uradni list RS 45/95  str. 3505",
+      "issuingBody": null,
+      "adoptedAt": "1995-08-04",
+      "validFrom": "1995-08-04",
+      "validTo": null,
+      "latestPublishedAt": "1995-08-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2160",
+      "versions": [
+        {
+          "id": "ZNPP95-A-original",
+          "shortCode": "ZNPP95-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/95  str. 3505",
+          "publishedAt": "1995-08-04",
+          "effectiveFrom": "1995-08-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPP95"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2160",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

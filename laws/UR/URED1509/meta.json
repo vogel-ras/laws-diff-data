@@ -1,0 +1,82 @@
+{
+  "root": "URED1509",
+  "path": "laws/UR/URED1509",
+  "members": [
+    {
+      "id": "URED1509",
+      "title": "Uredba o kombinirani nomenklaturi s carinskimi stopnjami",
+      "shortTitle": "Uredba o kombinirani nomenklaturi s carinskimi stopnjami",
+      "shortCode": "URED1509",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-5061",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-12-27",
+      "validFrom": "2000-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5061",
+      "versions": [
+        {
+          "id": "URED1509-original",
+          "shortCode": "URED1509",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-27",
+          "effectiveFrom": "2000-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5061",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2132",
+      "title": "Uredba o spremembi uredbe o kombinirani nomenklaturi s carinskimi stopnjami",
+      "shortTitle": "Uredba o spremembi uredbe o kombinirani nomenklaturi s carinskimi stopnjami",
+      "shortCode": "URED2132",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-0593",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-02-15",
+      "validFrom": "2002-02-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0593",
+      "versions": [
+        {
+          "id": "URED2132-original",
+          "shortCode": "URED2132",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-15",
+          "effectiveFrom": "2002-02-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1509"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0593",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

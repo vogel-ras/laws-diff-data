@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8519",
+  "path": "laws/PR/PRAV8519",
+  "members": [
+    {
+      "id": "PRAV13453",
+      "title": "Pravilnik o spremembi Pravilnika o načinu prostorskega prikaza tras planinskih poti",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o načinu prostorskega prikaza tras planinskih poti",
+      "shortCode": "PRAV13453",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1931",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-06-08",
+      "validFrom": "2018-06-08",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1931",
+      "versions": [
+        {
+          "id": "PRAV13453-original",
+          "shortCode": "PRAV13453",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-08",
+          "effectiveFrom": "2018-06-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8519"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1931",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8519",
+      "title": "Pravilnik o načinu prostorskega prikaza tras planinskih poti",
+      "shortTitle": "Pravilnik o načinu prostorskega prikaza tras planinskih poti",
+      "shortCode": "PRAV8519",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3595",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2008-08-08",
+      "validFrom": "2008-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3595",
+      "versions": [
+        {
+          "id": "PRAV8519-original",
+          "shortCode": "PRAV8519",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-08",
+          "effectiveFrom": "2008-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3595",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8519-npb-PRAV8519",
+          "shortCode": "PRAV8519-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-08-08",
+          "effectiveFrom": "2008-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8519",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

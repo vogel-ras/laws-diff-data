@@ -1,0 +1,97 @@
+{
+  "root": "URED5121",
+  "path": "laws/UR/URED5121",
+  "members": [
+    {
+      "id": "URED5121",
+      "title": "Uredba o stanju podzemnih voda",
+      "shortTitle": "Uredba o stanju podzemnih voda",
+      "shortCode": "URED5121",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-1058",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-04-03",
+      "validFrom": "2009-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1058",
+      "versions": [
+        {
+          "id": "URED5121-original",
+          "shortCode": "URED5121",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-04-03",
+          "effectiveFrom": "2009-04-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1058",
+          "proposer": null
+        },
+        {
+          "id": "URED5121-npb-URED5121",
+          "shortCode": "URED5121-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2009-04-03",
+          "effectiveFrom": "2009-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7385",
+      "title": "Uredba o spremembah Uredbe o stanju podzemnih voda",
+      "shortTitle": "Uredba o spremembah Uredbe o stanju podzemnih voda",
+      "shortCode": "URED7385",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-2853",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-10-21",
+      "validFrom": "2016-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2853",
+      "versions": [
+        {
+          "id": "URED7385-original",
+          "shortCode": "URED7385",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-10-21",
+          "effectiveFrom": "2016-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5121"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2853",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

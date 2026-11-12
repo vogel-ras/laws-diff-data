@@ -1,0 +1,58 @@
+{
+  "root": "PRAV14507",
+  "path": "laws/PR/PRAV14507",
+  "members": [
+    {
+      "id": "PRAV14507",
+      "title": "Pravilnik o usmerjanju in nadzoru policije",
+      "shortTitle": "Pravilnik o usmerjanju in nadzoru policije",
+      "shortCode": "PRAV14507",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0233",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-11",
+      "validFrom": "2025-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0233",
+      "versions": [
+        {
+          "id": "PRAV14507-original",
+          "shortCode": "PRAV14507",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-04-11",
+          "effectiveFrom": "2025-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0233",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14507-npb-PRAV14507",
+          "shortCode": "PRAV14507-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-02-04",
+          "effectiveFrom": "2022-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14507",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

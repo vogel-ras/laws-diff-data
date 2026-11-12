@@ -1,0 +1,283 @@
+{
+  "root": "ZFDO",
+  "path": "laws/ZF/ZFDO",
+  "members": [
+    {
+      "id": "ZAKO187",
+      "title": "Zakon o funkcionarjih v državnih organih (ZFDO)",
+      "shortTitle": "Zakon o funkcionarjih v državnih organih (ZFDO)",
+      "shortCode": "ZFDO",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1990-03-1530",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1990-08-10",
+      "validFrom": "1990-08-10",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-1530",
+      "versions": [
+        {
+          "id": "ZAKO187-original",
+          "shortCode": "ZFDO",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1990-08-10",
+          "effectiveFrom": "1990-08-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-1530",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO187-amend-ZFDO-C",
+          "shortCode": "ZFDO-C",
+          "label": "Sprememba ZFDO-C",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 2/91  str. 74",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0024",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO187-amend-ZFDO-D",
+          "shortCode": "ZFDO-D",
+          "label": "Sprememba ZFDO-D",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 4/93  str. 137",
+          "publishedAt": "1993-01-16",
+          "effectiveFrom": "1993-01-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0127",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO187-amend-ZFDO-E",
+          "shortCode": "ZFDO-E",
+          "label": "Sprememba ZFDO-E",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 109/12  str. 12144",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4329",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO187-amend-ZFDO-F",
+          "shortCode": "ZFDO-F",
+          "label": "Sprememba ZFDO-F",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 21/13  str. 2814",
+          "publishedAt": "2013-03-13",
+          "effectiveFrom": "2013-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0788",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFDO-C",
+      "title": "Zakon o spremembi in dopolnitvi zakona o funkcionarjih v državnih organih",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o funkcionarjih v državnih organih",
+      "shortCode": "ZFDO-C",
+      "kind": "zakon",
+      "keywords": [
+        "predpisi o javnih uslužbencih",
+        "pravice javnih uslužbencev",
+        "dolžnosti javnih uslužbencev",
+        "javna služba",
+        "državni organi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0024",
+      "gazette": "Uradni list RS 2/91  str. 74",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-28",
+      "validFrom": "1991-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0024",
+      "versions": [
+        {
+          "id": "ZFDO-C-original",
+          "shortCode": "ZFDO-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/91  str. 74",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0024",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFDO-D",
+      "title": "Zakon o spremembi zakona o funkcionarjih v državnih organih",
+      "shortTitle": "Zakon o spremembi zakona o funkcionarjih v državnih organih",
+      "shortCode": "ZFDO-D",
+      "kind": "zakon",
+      "keywords": [
+        "predpisi o javnih uslužbencih",
+        "pravice javnih uslužbencev",
+        "dolžnosti javnih uslužbencev",
+        "javna služba",
+        "državni organi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0127",
+      "gazette": "Uradni list RS 4/93  str. 137",
+      "issuingBody": null,
+      "adoptedAt": "1993-01-16",
+      "validFrom": "1993-01-16",
+      "validTo": null,
+      "latestPublishedAt": "1993-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0127",
+      "versions": [
+        {
+          "id": "ZFDO-D-original",
+          "shortCode": "ZFDO-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 4/93  str. 137",
+          "publishedAt": "1993-01-16",
+          "effectiveFrom": "1993-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0127",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFDO-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o funkcionarjih v državnih organih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o funkcionarjih v državnih organih",
+      "shortCode": "ZFDO-E",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4329",
+      "gazette": "Uradni list RS 109/12  str. 12144",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4329",
+      "versions": [
+        {
+          "id": "ZFDO-E-original",
+          "shortCode": "ZFDO-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12144",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4329",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFDO-F",
+      "title": "Zakon o dopolnitvi Zakona o funkcionarjih v državnih organih",
+      "shortTitle": "Zakon o dopolnitvi Zakona o funkcionarjih v državnih organih",
+      "shortCode": "ZFDO-F",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-0788",
+      "gazette": "Uradni list RS 21/13  str. 2814",
+      "issuingBody": null,
+      "adoptedAt": "2013-03-13",
+      "validFrom": "2013-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2013-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0788",
+      "versions": [
+        {
+          "id": "ZFDO-F-original",
+          "shortCode": "ZFDO-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/13  str. 2814",
+          "publishedAt": "2013-03-13",
+          "effectiveFrom": "2013-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO187"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0788",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

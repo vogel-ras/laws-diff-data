@@ -1,0 +1,82 @@
+{
+  "root": "PRAV10360",
+  "path": "laws/PR/PRAV10360",
+  "members": [
+    {
+      "id": "PRAV10360",
+      "title": "Pravilnik o minimalnih higienskih zahtevah, ki jih morajo izpolnjevati kopališča in kopalna voda v bazenih",
+      "shortTitle": "Pravilnik o minimalnih higienskih zahtevah, ki jih morajo izpolnjevati kopališča in kopalna voda v bazenih",
+      "shortCode": "PRAV10360",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-1906",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-05-25",
+      "validFrom": "2011-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1906",
+      "versions": [
+        {
+          "id": "PRAV10360-original",
+          "shortCode": "PRAV10360",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-05-25",
+          "effectiveFrom": "2011-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1906",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13541",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o minimalnih higienskih zahtevah, ki jih morajo izpolnjevati kopališča in kopalna voda v bazenih",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o minimalnih higienskih zahtevah, ki jih morajo izpolnjevati kopališča in kopalna voda v bazenih",
+      "shortCode": "PRAV13541",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2648",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-07-27",
+      "validFrom": "2018-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2648",
+      "versions": [
+        {
+          "id": "PRAV13541-original",
+          "shortCode": "PRAV13541",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-07-27",
+          "effectiveFrom": "2018-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10360"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

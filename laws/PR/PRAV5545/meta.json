@@ -1,0 +1,136 @@
+{
+  "root": "PRAV5545",
+  "path": "laws/PR/PRAV5545",
+  "members": [
+    {
+      "id": "PRAV5545",
+      "title": "Pravilnik o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Pravilnik o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "PRAV5545",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0020",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-01-09",
+      "validFrom": "2004-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0020",
+      "versions": [
+        {
+          "id": "PRAV5545-original",
+          "shortCode": "PRAV5545",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0020",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5545-npb-PRAV5545",
+          "shortCode": "PRAV5545-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5545",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5856",
+      "title": "Pravilnik o spremembah pravilnika o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Pravilnik o spremembah pravilnika o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "PRAV5856",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2813",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-06-04",
+      "validFrom": "2004-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2813",
+      "versions": [
+        {
+          "id": "PRAV5856-original",
+          "shortCode": "PRAV5856",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5545"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2813",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7828",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o podatkih za ugotavljanje višine vračila vlaganj v javno telekomunikacijsko omrežje",
+      "shortCode": "PRAV7828",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-3972",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za gospodarstvo",
+      "adoptedAt": "2006-09-01",
+      "validFrom": "2006-09-01",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3972",
+      "versions": [
+        {
+          "id": "PRAV7828-original",
+          "shortCode": "PRAV7828",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-01",
+          "effectiveFrom": "2006-09-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5545"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-3972",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

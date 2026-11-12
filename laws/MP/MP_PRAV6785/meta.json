@@ -1,0 +1,82 @@
+{
+  "root": "MP_PRAV6785",
+  "path": "laws/MP/MP_PRAV6785",
+  "members": [
+    {
+      "id": "MP_PRAV6785",
+      "title": "Pravilnik o podpori mladim in mladim družinam pri reševanju stanovanjskega vprašanja v Občini Sodražica (PRAV)",
+      "shortTitle": "Pravilnik o podpori mladim in mladim družinam pri reševanju stanovanjskega vprašanja v Občini Sodražica (PRAV)",
+      "shortCode": "MP_PRAV6785",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2021-01-2295",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2295",
+      "versions": [
+        {
+          "id": "MP_PRAV6785-original",
+          "shortCode": "MP_PRAV6785",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2295",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_PRAV6892",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o podpori mladim in mladim družinam pri reševanju stanovanjskega vprašanja v Občini Sodražica (PRAV)",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o podpori mladim in mladim družinam pri reševanju stanovanjskega vprašanja v Občini Sodražica (PRAV)",
+      "shortCode": "MP_PRAV6892",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": "Sodražica",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski pravilnik",
+      "sopNumber": "2022-01-0519",
+      "gazette": null,
+      "issuingBody": "Občina Sodražica",
+      "adoptedAt": "2022-02-25",
+      "validFrom": "2022-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2022-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0519",
+      "versions": [
+        {
+          "id": "MP_PRAV6892-original",
+          "shortCode": "MP_PRAV6892",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-02-25",
+          "effectiveFrom": "2022-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_PRAV6785"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0519",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

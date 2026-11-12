@@ -1,0 +1,58 @@
+{
+  "root": "URED626",
+  "path": "laws/UR/URED626",
+  "members": [
+    {
+      "id": "URED626",
+      "title": "Uredba o emisiji živega srebra pri odvajanju odpadnih vod",
+      "shortTitle": "Uredba o emisiji živega srebra pri odvajanju odpadnih vod",
+      "shortCode": "URED626",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-3991",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-04-22",
+      "validFrom": "2004-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3991",
+      "versions": [
+        {
+          "id": "URED626-original",
+          "shortCode": "URED626",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-22",
+          "effectiveFrom": "2004-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3991",
+          "proposer": null
+        },
+        {
+          "id": "URED626-npb-URED626",
+          "shortCode": "URED626-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1999-10-15",
+          "effectiveFrom": "1999-10-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED626",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

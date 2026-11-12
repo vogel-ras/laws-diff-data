@@ -1,0 +1,136 @@
+{
+  "root": "PRAV6653",
+  "path": "laws/PR/PRAV6653",
+  "members": [
+    {
+      "id": "PRAV6653",
+      "title": "Pravilnik o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortTitle": "Pravilnik o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortCode": "PRAV6653",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1836",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2005-05-06",
+      "validFrom": "2005-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1836",
+      "versions": [
+        {
+          "id": "PRAV6653-original",
+          "shortCode": "PRAV6653",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-06",
+          "effectiveFrom": "2005-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1836",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6653-npb-PRAV6653",
+          "shortCode": "PRAV6653-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 7)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-05-06",
+          "effectiveFrom": "2005-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6653",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8891",
+      "title": "Pravilnik o spremembi Pravilnika o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortCode": "PRAV8891",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-6093",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-12-27",
+      "validFrom": "2007-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6093",
+      "versions": [
+        {
+          "id": "PRAV8891-original",
+          "shortCode": "PRAV8891",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-27",
+          "effectiveFrom": "2007-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6653"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-6093",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9906",
+      "title": "Pravilnik o spremembah Pravilnika o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o načinu in stopnjah odpisa neopredmetenih sredstev in opredmetenih osnovnih sredstev",
+      "shortCode": "PRAV9906",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-3241",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-07-20",
+      "validFrom": "2010-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3241",
+      "versions": [
+        {
+          "id": "PRAV9906-original",
+          "shortCode": "PRAV9906",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-20",
+          "effectiveFrom": "2010-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6653"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3241",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

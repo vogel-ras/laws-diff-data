@@ -1,0 +1,136 @@
+{
+  "root": "URED8057",
+  "path": "laws/UR/URED8057",
+  "members": [
+    {
+      "id": "URED8057",
+      "title": "Uredba o embalaži in odpadni embalaži",
+      "shortTitle": "Uredba o embalaži in odpadni embalaži",
+      "shortCode": "URED8057",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-1053",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-04-09",
+      "validFrom": "2021-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1053",
+      "versions": [
+        {
+          "id": "URED8057-original",
+          "shortCode": "URED8057",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-04-09",
+          "effectiveFrom": "2021-04-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-1053",
+          "proposer": null
+        },
+        {
+          "id": "URED8057-npb-URED8057",
+          "shortCode": "URED8057-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2021-04-09",
+          "effectiveFrom": "2021-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8057",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8393",
+      "title": "Uredba o spremembah Uredbe o embalaži in odpadni embalaži",
+      "shortTitle": "Uredba o spremembah Uredbe o embalaži in odpadni embalaži",
+      "shortCode": "URED8393",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-4391",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-12-30",
+      "validFrom": "2021-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2021-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4391",
+      "versions": [
+        {
+          "id": "URED8393-original",
+          "shortCode": "URED8393",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-12-30",
+          "effectiveFrom": "2021-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8057"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-4391",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8581",
+      "title": "Uredba o spremembi Uredbe o embalaži in odpadni embalaži",
+      "shortTitle": "Uredba o spremembi Uredbe o embalaži in odpadni embalaži",
+      "shortCode": "URED8581",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-2819",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-09-16",
+      "validFrom": "2022-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2819",
+      "versions": [
+        {
+          "id": "URED8581-original",
+          "shortCode": "URED8581",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-16",
+          "effectiveFrom": "2022-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8057"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2819",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

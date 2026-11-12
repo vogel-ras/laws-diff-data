@@ -1,0 +1,82 @@
+{
+  "root": "PRAV14585",
+  "path": "laws/PR/PRAV14585",
+  "members": [
+    {
+      "id": "PRAV14585",
+      "title": "Pravilnik o vodenju podatkov katastra nepremičnin",
+      "shortTitle": "Pravilnik o vodenju podatkov katastra nepremičnin",
+      "shortCode": "PRAV14585",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0786",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-03-23",
+      "validFrom": "2022-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2022-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0786",
+      "versions": [
+        {
+          "id": "PRAV14585-original",
+          "shortCode": "PRAV14585",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-03-23",
+          "effectiveFrom": "2022-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0786",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV16111",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju podatkov katastra nepremičnin",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vodenju podatkov katastra nepremičnin",
+      "shortCode": "PRAV16111",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0762",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-23",
+      "validFrom": "2026-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0762",
+      "versions": [
+        {
+          "id": "PRAV16111-original",
+          "shortCode": "PRAV16111",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-23",
+          "effectiveFrom": "2026-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14585"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0762",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

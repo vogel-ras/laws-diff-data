@@ -1,0 +1,573 @@
+{
+  "root": "ZSV",
+  "path": "laws/ZS/ZSV",
+  "members": [
+    {
+      "id": "ZAKO7563",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu (ZSV-H)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu (ZSV-H)",
+      "shortCode": "ZSV-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2437",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-09-27",
+      "validFrom": "2017-09-27",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2437",
+      "versions": [
+        {
+          "id": "ZAKO7563-original",
+          "shortCode": "ZSV-H",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-27",
+          "effectiveFrom": "2017-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2437",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV",
+      "title": "Zakon o socialnem varstvu",
+      "shortTitle": "Zakon o socialnem varstvu",
+      "shortCode": "ZSV",
+      "kind": "zakon",
+      "keywords": [
+        "socialna politika",
+        "socialna pomoč",
+        "socialna varnost",
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-2484",
+      "gazette": "Uradni list RS 54/92  str. 3077",
+      "issuingBody": null,
+      "adoptedAt": "1992-11-13",
+      "validFrom": "1992-11-13",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2484",
+      "versions": [
+        {
+          "id": "ZSV-original",
+          "shortCode": "ZSV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/92  str. 3077",
+          "publishedAt": "1992-11-13",
+          "effectiveFrom": "1992-11-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-2484",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-A",
+          "shortCode": "ZSV-A",
+          "label": "Sprememba ZSV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 41/99  str. 4873",
+          "publishedAt": "1999-06-01",
+          "effectiveFrom": "1999-06-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2028",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-B",
+          "shortCode": "ZSV-B",
+          "label": "Sprememba ZSV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 26/2001  str. 2767",
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1583",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-C",
+          "shortCode": "ZSV-C",
+          "label": "Sprememba ZSV-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 2/04  str. 175",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0068",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-D",
+          "shortCode": "ZSV-D",
+          "label": "Sprememba ZSV-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 105/06  str. 10631",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4490",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-E",
+          "shortCode": "ZSV-E",
+          "label": "Sprememba ZSV-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 57/12  str. 5953",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2404",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-F",
+          "shortCode": "ZSV-F",
+          "label": "Sprememba ZSV-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 39/16  str. 5877",
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1707",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZAKO7563",
+          "shortCode": "ZSV-H",
+          "label": "Sprememba ZSV-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": null,
+          "publishedAt": "2017-09-27",
+          "effectiveFrom": "2017-09-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2437",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-I",
+          "shortCode": "ZSV-I",
+          "label": "Sprememba ZSV-I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 28/19  str. 3416",
+          "publishedAt": "2019-05-03",
+          "effectiveFrom": "2019-05-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1329",
+          "proposer": null
+        },
+        {
+          "id": "ZSV-amend-ZSV-J",
+          "shortCode": "ZSV-J",
+          "label": "Sprememba ZSV-J",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 82/23  str. 6954",
+          "publishedAt": "2023-07-28",
+          "effectiveFrom": "2023-07-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2528",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortCode": "ZSV-A",
+      "kind": "zakon",
+      "keywords": [
+        "socialna politika",
+        "socialna varnost",
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2028",
+      "gazette": "Uradni list RS 41/99  str. 4873",
+      "issuingBody": null,
+      "adoptedAt": "1999-06-01",
+      "validFrom": "1999-06-01",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2028",
+      "versions": [
+        {
+          "id": "ZSV-A-original",
+          "shortCode": "ZSV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/99  str. 4873",
+          "publishedAt": "1999-06-01",
+          "effectiveFrom": "1999-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2028",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortCode": "ZSV-B",
+      "kind": "zakon",
+      "keywords": [
+        "socialno skrbstvo",
+        "socialna politika",
+        "socialna varnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1583",
+      "gazette": "Uradni list RS 26/2001  str. 2767",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-12",
+      "validFrom": "2001-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1583",
+      "versions": [
+        {
+          "id": "ZSV-B-original",
+          "shortCode": "ZSV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/2001  str. 2767",
+          "publishedAt": "2001-04-12",
+          "effectiveFrom": "2001-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1583",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortCode": "ZSV-C",
+      "kind": "zakon",
+      "keywords": [
+        "socialna politika",
+        "socialna pomoč",
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0068",
+      "gazette": "Uradni list RS 2/04  str. 175",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0068",
+      "versions": [
+        {
+          "id": "ZSV-C-original",
+          "shortCode": "ZSV-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 175",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0068",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o socialnem varstvu",
+      "shortCode": "ZSV-D",
+      "kind": "zakon",
+      "keywords": [
+        "zakonik",
+        "morje",
+        "varnost v morskem prometu",
+        "plovilo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4490",
+      "gazette": "Uradni list RS 105/06  str. 10631",
+      "issuingBody": null,
+      "adoptedAt": "2006-10-12",
+      "validFrom": "2006-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4490",
+      "versions": [
+        {
+          "id": "ZSV-D-original",
+          "shortCode": "ZSV-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 105/06  str. 10631",
+          "publishedAt": "2006-10-12",
+          "effectiveFrom": "2006-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4490",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-E",
+      "title": "Zakon o dopolnitvi Zakona o socialnem varstvu",
+      "shortTitle": "Zakon o dopolnitvi Zakona o socialnem varstvu",
+      "shortCode": "ZSV-E",
+      "kind": "zakon",
+      "keywords": [
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2404",
+      "gazette": "Uradni list RS 57/12  str. 5953",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2404",
+      "versions": [
+        {
+          "id": "ZSV-E-original",
+          "shortCode": "ZSV-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5953",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2404",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortCode": "ZSV-F",
+      "kind": "zakon",
+      "keywords": [
+        "socialno skrbstvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1707",
+      "gazette": "Uradni list RS 39/16  str. 5877",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-03",
+      "validFrom": "2016-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1707",
+      "versions": [
+        {
+          "id": "ZSV-F-original",
+          "shortCode": "ZSV-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/16  str. 5877",
+          "publishedAt": "2016-06-03",
+          "effectiveFrom": "2016-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1707",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortCode": "ZSV-I",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1329",
+      "gazette": "Uradni list RS 28/19  str. 3416",
+      "issuingBody": null,
+      "adoptedAt": "2019-05-03",
+      "validFrom": "2019-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1329",
+      "versions": [
+        {
+          "id": "ZSV-I-original",
+          "shortCode": "ZSV-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/19  str. 3416",
+          "publishedAt": "2019-05-03",
+          "effectiveFrom": "2019-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1329",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSV-J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o socialnem varstvu",
+      "shortCode": "ZSV-J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2528",
+      "gazette": "Uradni list RS 82/23  str. 6954",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-28",
+      "validFrom": "2023-07-28",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2528",
+      "versions": [
+        {
+          "id": "ZSV-J-original",
+          "shortCode": "ZSV-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/23  str. 6954",
+          "publishedAt": "2023-07-28",
+          "effectiveFrom": "2023-07-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2528",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

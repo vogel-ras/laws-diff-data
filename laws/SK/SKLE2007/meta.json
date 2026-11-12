@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2007",
+  "path": "laws/SK/SKLE2007",
+  "members": [
+    {
+      "id": "SKLE2007",
+      "title": "Sklep o organizaciji in delovnem področju kadrovske službe Vlade Republike Slovenije",
+      "shortTitle": "Sklep o organizaciji in delovnem področju kadrovske službe Vlade Republike Slovenije",
+      "shortCode": "SKLE2007",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-0852",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-02-23",
+      "validFrom": "2001-02-23",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0852",
+      "versions": [
+        {
+          "id": "SKLE2007-original",
+          "shortCode": "SKLE2007",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-02-23",
+          "effectiveFrom": "2001-02-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0852",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5255",
+      "title": "Sklep o spremembi Sklepa o organizaciji in delovnem področju Kadrovske službe Vlade Republike Slovenije",
+      "shortTitle": "Sklep o spremembi Sklepa o organizaciji in delovnem področju Kadrovske službe Vlade Republike Slovenije",
+      "shortCode": "SKLE5255",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-5617",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-12-10",
+      "validFrom": "2004-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5617",
+      "versions": [
+        {
+          "id": "SKLE5255-original",
+          "shortCode": "SKLE5255",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-10",
+          "effectiveFrom": "2004-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2007"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5617",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

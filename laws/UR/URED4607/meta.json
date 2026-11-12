@@ -1,0 +1,97 @@
+{
+  "root": "URED4607",
+  "path": "laws/UR/URED4607",
+  "members": [
+    {
+      "id": "URED4607",
+      "title": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob predsedovanju Evropski uniji",
+      "shortTitle": "Uredba o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob predsedovanju Evropski uniji",
+      "shortCode": "URED4607",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5125",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5125",
+      "versions": [
+        {
+          "id": "URED4607-original",
+          "shortCode": "URED4607",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5125",
+          "proposer": null
+        },
+        {
+          "id": "URED4607-npb-URED4607",
+          "shortCode": "URED4607-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4607",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4846",
+      "title": "Uredba o spremembi Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob predsedovanju Evropski uniji",
+      "shortTitle": "Uredba o spremembi Uredbe o obsegu izdaje, sestavinah, apoenih in glavnih znamenjih zbirateljskih kovancev ob predsedovanju Evropski uniji",
+      "shortCode": "URED4846",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-0258",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-01-25",
+      "validFrom": "2008-01-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-01-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0258",
+      "versions": [
+        {
+          "id": "URED4846-original",
+          "shortCode": "URED4846",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-01-25",
+          "effectiveFrom": "2008-01-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4607"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0258",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

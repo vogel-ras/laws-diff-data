@@ -1,0 +1,136 @@
+{
+  "root": "URED941",
+  "path": "laws/UR/URED941",
+  "members": [
+    {
+      "id": "URED2897",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortCode": "URED2897",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-1894",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-04-28",
+      "validFrom": "2003-04-28",
+      "validTo": null,
+      "latestPublishedAt": "2003-04-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1894",
+      "versions": [
+        {
+          "id": "URED2897-original",
+          "shortCode": "URED2897",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-04-28",
+          "effectiveFrom": "2003-04-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED941"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1894",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED941",
+      "title": "Uredba o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortTitle": "Uredba o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortCode": "URED941",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-2690",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-12-02",
+      "validFrom": "1994-12-02",
+      "validTo": null,
+      "latestPublishedAt": "1994-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2690",
+      "versions": [
+        {
+          "id": "URED941-original",
+          "shortCode": "URED941",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-12-02",
+          "effectiveFrom": "1994-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2690",
+          "proposer": null
+        },
+        {
+          "id": "URED941-npb-URED941",
+          "shortCode": "URED941-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1994-12-02",
+          "effectiveFrom": "1994-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED941",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED942",
+      "title": "Uredba o spremembi uredbe o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortTitle": "Uredba o spremembi uredbe o teritorialnem obsegu upravnih enot v Republiki Sloveniji",
+      "shortCode": "URED942",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-0386",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-02-12",
+      "validFrom": "1996-02-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0386",
+      "versions": [
+        {
+          "id": "URED942-original",
+          "shortCode": "URED942",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-02-12",
+          "effectiveFrom": "1996-02-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED941"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0386",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

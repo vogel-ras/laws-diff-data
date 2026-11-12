@@ -1,0 +1,58 @@
+{
+  "root": "URED5565",
+  "path": "laws/UR/URED5565",
+  "members": [
+    {
+      "id": "URED5565",
+      "title": "Uredba o državnem prostorskem načrtu za prenosni plinovod R45 za oskrbo Bele krajine",
+      "shortTitle": "Uredba o državnem prostorskem načrtu za prenosni plinovod R45 za oskrbo Bele krajine",
+      "shortCode": "URED5565",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-4219",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-10-04",
+      "validFrom": "2010-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4219",
+      "versions": [
+        {
+          "id": "URED5565-original",
+          "shortCode": "URED5565",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4219",
+          "proposer": null
+        },
+        {
+          "id": "URED5565-npb-URED5565",
+          "shortCode": "URED5565-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-10-04",
+          "effectiveFrom": "2010-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5565",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

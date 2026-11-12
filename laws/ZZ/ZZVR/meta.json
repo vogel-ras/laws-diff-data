@@ -1,0 +1,272 @@
+{
+  "root": "ZZVR",
+  "path": "laws/ZZ/ZZVR",
+  "members": [
+    {
+      "id": "ZZVR",
+      "title": "Zakon o zdravstvenem varstvu rastlin",
+      "shortTitle": "Zakon o zdravstvenem varstvu rastlin",
+      "shortCode": "ZZVR",
+      "kind": "zakon",
+      "keywords": [
+        "parazitologija",
+        "bolezen rastlin",
+        "fitosanitarni nadzor",
+        "zakonodaja o zdravstvenem varstvu rastlin",
+        "varstvo rastlinstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2982",
+      "gazette": "Uradni list RS 82/94  str. 5073",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-30",
+      "validFrom": "1994-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2982",
+      "versions": [
+        {
+          "id": "ZZVR-original",
+          "shortCode": "ZZVR",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/94  str. 5073",
+          "publishedAt": "1994-12-30",
+          "effectiveFrom": "1994-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2982",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVR-1",
+      "title": "Zakon o zdravstvenem varstvu rastlin",
+      "shortTitle": "Zakon o zdravstvenem varstvu rastlin",
+      "shortCode": "ZZVR-1",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "živa rastlina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2546",
+      "gazette": "Uradni list RS 45/2001  str. 4990",
+      "issuingBody": null,
+      "adoptedAt": "2001-06-07",
+      "validFrom": "2001-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2546",
+      "versions": [
+        {
+          "id": "ZZVR-1-original",
+          "shortCode": "ZZVR-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/2001  str. 4990",
+          "publishedAt": "2001-06-07",
+          "effectiveFrom": "2001-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2546",
+          "proposer": null
+        },
+        {
+          "id": "ZZVR-1-amend-ZZVR-1A",
+          "shortCode": "ZZVR-1A",
+          "label": "Sprememba ZZVR-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10428",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3847",
+          "proposer": null
+        },
+        {
+          "id": "ZZVR-1-amend-ZZVR-1B",
+          "shortCode": "ZZVR-1B",
+          "label": "Sprememba ZZVR-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 40/07  str. 5543",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2173",
+          "proposer": null
+        },
+        {
+          "id": "ZZVR-1-amend-ZZVR-1C",
+          "shortCode": "ZZVR-1C",
+          "label": "Sprememba ZZVR-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 36/10  str. 5013",
+          "publishedAt": "2010-05-04",
+          "effectiveFrom": "2010-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1736",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVR-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu rastlin",
+      "shortCode": "ZZVR-1A",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "živa rastlina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3847",
+      "gazette": "Uradni list RS 86/04  str. 10428",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3847",
+      "versions": [
+        {
+          "id": "ZZVR-1A-original",
+          "shortCode": "ZZVR-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10428",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3847",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVR-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zdravstvenem varstvu rastlin",
+      "shortCode": "ZZVR-1B",
+      "kind": "zakon",
+      "keywords": [
+        "parazitologija",
+        "bolezen rastlin",
+        "fitosanitarni nadzor",
+        "zakonodaja o zdravstvenem varstvu rastlin",
+        "varstvo rastlinstva"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-2173",
+      "gazette": "Uradni list RS 40/07  str. 5543",
+      "issuingBody": null,
+      "adoptedAt": "2007-05-07",
+      "validFrom": "2007-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2173",
+      "versions": [
+        {
+          "id": "ZZVR-1B-original",
+          "shortCode": "ZZVR-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/07  str. 5543",
+          "publishedAt": "2007-05-07",
+          "effectiveFrom": "2007-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2173",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZVR-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu rastlin",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zdravstvenem varstvu rastlin",
+      "shortCode": "ZZVR-1C",
+      "kind": "zakon",
+      "keywords": [
+        "zakonodaja o zdravstvenem varstvu rastlin",
+        "varstvo rastlinstva",
+        "bolezen rastlin",
+        "fitosanitarni nadzor",
+        "parazitologija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1736",
+      "gazette": "Uradni list RS 36/10  str. 5013",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-04",
+      "validFrom": "2010-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1736",
+      "versions": [
+        {
+          "id": "ZZVR-1C-original",
+          "shortCode": "ZZVR-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/10  str. 5013",
+          "publishedAt": "2010-05-04",
+          "effectiveFrom": "2010-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZVR-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1736",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4522",
+  "path": "laws/PR/PRAV4522",
+  "members": [
+    {
+      "id": "PRAV4522",
+      "title": "Pravilnik o obremenjevanju tal z vnašanjem odpadkov",
+      "shortTitle": "Pravilnik o obremenjevanju tal z vnašanjem odpadkov",
+      "shortCode": "PRAV4522",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0013",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-01-10",
+      "validFrom": "2003-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-01-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0013",
+      "versions": [
+        {
+          "id": "PRAV4522-original",
+          "shortCode": "PRAV4522",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-01-10",
+          "effectiveFrom": "2003-01-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0013",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4816",
+      "title": "Pravilnik o spremembah pravilnika o obremenjevanju tal z vnašanjem odpadkov",
+      "shortTitle": "Pravilnik o spremembah pravilnika o obremenjevanju tal z vnašanjem odpadkov",
+      "shortCode": "PRAV4816",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2129",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2003-05-12",
+      "validFrom": "2003-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2129",
+      "versions": [
+        {
+          "id": "PRAV4816-original",
+          "shortCode": "PRAV4816",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-12",
+          "effectiveFrom": "2003-05-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4522"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2129",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

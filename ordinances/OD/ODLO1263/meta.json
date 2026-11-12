@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1263",
+  "path": "ordinances/OD/ODLO1263",
+  "members": [
+    {
+      "id": "ODLO1263",
+      "title": "Odlok o določitvi gozdnogospodarskih območij v Republiki Sloveniji",
+      "shortTitle": "Odlok o določitvi gozdnogospodarskih območij v Republiki Sloveniji",
+      "shortCode": "ODLO1263",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-1334",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-08-29",
+      "validFrom": "2025-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2025-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1334",
+      "versions": [
+        {
+          "id": "ODLO1263-original",
+          "shortCode": "ODLO1263",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-08-29",
+          "effectiveFrom": "2025-08-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1334",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1263-npb-ODLO1263",
+          "shortCode": "ODLO1263-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-03-28",
+          "effectiveFrom": "2003-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1263",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1959",
+      "title": "Odlok o spremembah Odloka o določitvi gozdnogospodarskih območij v Republiki Sloveniji",
+      "shortTitle": "Odlok o spremembah Odloka o določitvi gozdnogospodarskih območij v Republiki Sloveniji",
+      "shortCode": "ODLO1959",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2019-01-1192",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-04-19",
+      "validFrom": "2019-04-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1192",
+      "versions": [
+        {
+          "id": "ODLO1959-original",
+          "shortCode": "ODLO1959",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-19",
+          "effectiveFrom": "2019-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1263"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1192",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

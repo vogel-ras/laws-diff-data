@@ -1,0 +1,97 @@
+{
+  "root": "URED740",
+  "path": "laws/UR/URED740",
+  "members": [
+    {
+      "id": "URED5407",
+      "title": "Uredba o spremembi Uredbe o merilih za kategorizacijo javnih cest",
+      "shortTitle": "Uredba o spremembi Uredbe o merilih za kategorizacijo javnih cest",
+      "shortCode": "URED5407",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-5151",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-12-31",
+      "validFrom": "2009-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5151",
+      "versions": [
+        {
+          "id": "URED5407-original",
+          "shortCode": "URED5407",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-12-31",
+          "effectiveFrom": "2009-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED740"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-5151",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED740",
+      "title": "Uredba o merilih za kategorizacijo javnih cest",
+      "shortTitle": "Uredba o merilih za kategorizacijo javnih cest",
+      "shortCode": "URED740",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1997-01-2576",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1997-08-08",
+      "validFrom": "1997-08-08",
+      "validTo": null,
+      "latestPublishedAt": "1997-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2576",
+      "versions": [
+        {
+          "id": "URED740-original",
+          "shortCode": "URED740",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-08-08",
+          "effectiveFrom": "1997-08-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2576",
+          "proposer": null
+        },
+        {
+          "id": "URED740-npb-URED740",
+          "shortCode": "URED740-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1997-08-08",
+          "effectiveFrom": "1997-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED740",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9155",
+  "path": "laws/PR/PRAV9155",
+  "members": [
+    {
+      "id": "PRAV10438",
+      "title": "Pravilnik o spremembah Pravilnika o vodenju seznama upraviteljev in o vsebini ter načinu obveščanja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o vodenju seznama upraviteljev in o vsebini ter načinu obveščanja",
+      "shortCode": "PRAV10438",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-5294",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2010-12-17",
+      "validFrom": "2010-12-17",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5294",
+      "versions": [
+        {
+          "id": "PRAV10438-original",
+          "shortCode": "PRAV10438",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-17",
+          "effectiveFrom": "2010-12-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9155"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5294",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9155",
+      "title": "Pravilnik o vodenju seznama upraviteljev in o vsebini ter načinu obveščanja",
+      "shortTitle": "Pravilnik o vodenju seznama upraviteljev in o vsebini ter načinu obveščanja",
+      "shortCode": "PRAV9155",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3635",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2008-08-14",
+      "validFrom": "2008-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2008-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3635",
+      "versions": [
+        {
+          "id": "PRAV9155-original",
+          "shortCode": "PRAV9155",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-08-14",
+          "effectiveFrom": "2008-08-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3635",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9155-npb-PRAV9155",
+          "shortCode": "PRAV9155-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-08-14",
+          "effectiveFrom": "2008-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9155",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

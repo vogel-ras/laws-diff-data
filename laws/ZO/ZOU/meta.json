@@ -1,0 +1,105 @@
+{
+  "root": "ZOU",
+  "path": "laws/ZO/ZOU",
+  "members": [
+    {
+      "id": "ZOU",
+      "title": "Zakon o omejevalnih ukrepih",
+      "shortTitle": "Zakon o omejevalnih ukrepih",
+      "shortCode": "ZOU",
+      "kind": "zakon",
+      "keywords": [
+        "davek na motorna vozila"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-2044",
+      "gazette": "Uradni list RS 35/2001  str. 4042",
+      "issuingBody": null,
+      "adoptedAt": "2001-05-11",
+      "validFrom": "2001-05-11",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2044",
+      "versions": [
+        {
+          "id": "ZOU-original",
+          "shortCode": "ZOU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 35/2001  str. 4042",
+          "publishedAt": "2001-05-11",
+          "effectiveFrom": "2001-05-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2044",
+          "proposer": null
+        },
+        {
+          "id": "ZOU-amend-ZOU-A",
+          "shortCode": "ZOU-A",
+          "label": "Sprememba ZOU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 59/2002  str. 6110",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2840",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOU-A",
+      "title": "Zakon o dopolnitvah zakona o omejevalnih ukrepih",
+      "shortTitle": "Zakon o dopolnitvah zakona o omejevalnih ukrepih",
+      "shortCode": "ZOU-A",
+      "kind": "zakon",
+      "keywords": [
+        "mediji",
+        "svoboda izražanja",
+        "pravica do obveščenosti"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2840",
+      "gazette": "Uradni list RS 59/2002  str. 6110",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2840",
+      "versions": [
+        {
+          "id": "ZOU-A-original",
+          "shortCode": "ZOU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6110",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2840",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

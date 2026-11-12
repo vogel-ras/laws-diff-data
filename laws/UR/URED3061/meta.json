@@ -1,0 +1,82 @@
+{
+  "root": "URED3061",
+  "path": "laws/UR/URED3061",
+  "members": [
+    {
+      "id": "URED3061",
+      "title": "Uredba o načinu izračuna potrjene škode v kmetijstvu in načinu izračuna višine dodeljenih sredstev za odpravo posledic škode v kmetijstvu",
+      "shortTitle": "Uredba o načinu izračuna potrjene škode v kmetijstvu in načinu izračuna višine dodeljenih sredstev za odpravo posledic škode v kmetijstvu",
+      "shortCode": "URED3061",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4826",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-11-10",
+      "validFrom": "2003-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4826",
+      "versions": [
+        {
+          "id": "URED3061-original",
+          "shortCode": "URED3061",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-10",
+          "effectiveFrom": "2003-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4826",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3423",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o načinu izračuna potrjene škode v kmetijstvu in načinu izračuna višine dodeljenih sredstev za odpravo posledic škode v kmetijstvu",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o načinu izračuna potrjene škode v kmetijstvu in načinu izračuna višine dodeljenih sredstev za odpravo posledic škode v kmetijstvu",
+      "shortCode": "URED3423",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3400",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-07-16",
+      "validFrom": "2004-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3400",
+      "versions": [
+        {
+          "id": "URED3423-original",
+          "shortCode": "URED3423",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-16",
+          "effectiveFrom": "2004-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3061"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3400",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

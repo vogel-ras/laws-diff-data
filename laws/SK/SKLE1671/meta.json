@@ -1,0 +1,82 @@
+{
+  "root": "SKLE1671",
+  "path": "laws/SK/SKLE1671",
+  "members": [
+    {
+      "id": "SKLE1671",
+      "title": "Sklep o ustanovitvi, organizaciji in delovnem področju Urada Vlade Republike Slovenije za slovenski jezik",
+      "shortTitle": "Sklep o ustanovitvi, organizaciji in delovnem področju Urada Vlade Republike Slovenije za slovenski jezik",
+      "shortCode": "SKLE1671",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-4110",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-10-20",
+      "validFrom": "2000-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2000-10-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4110",
+      "versions": [
+        {
+          "id": "SKLE1671-original",
+          "shortCode": "SKLE1671",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-10-20",
+          "effectiveFrom": "2000-10-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4110",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE3186",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o ustanovitvi, organizaciji in delovnem področju Urada Vlade Republike Slovenije za slovenski jezik",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o ustanovitvi, organizaciji in delovnem področju Urada Vlade Republike Slovenije za slovenski jezik",
+      "shortCode": "SKLE3186",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-3185",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-07-25",
+      "validFrom": "2002-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3185",
+      "versions": [
+        {
+          "id": "SKLE3186-original",
+          "shortCode": "SKLE3186",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-25",
+          "effectiveFrom": "2002-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1671"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3185",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

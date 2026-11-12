@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2380",
+  "path": "laws/SK/SKLE2380",
+  "members": [
+    {
+      "id": "SKLE2380",
+      "title": "Sklep o olajšavah za potovanja državljanov Bosne in Hercegovine, Makedonije, Ruske Federacije in Turčije v Republiko Slovenijo",
+      "shortTitle": "Sklep o olajšavah za potovanja državljanov Bosne in Hercegovine, Makedonije, Ruske Federacije in Turčije v Republiko Slovenijo",
+      "shortCode": "SKLE2380",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-3341",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-27",
+      "validFrom": "2001-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3341",
+      "versions": [
+        {
+          "id": "SKLE2380-original",
+          "shortCode": "SKLE2380",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-27",
+          "effectiveFrom": "2001-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3341",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE2454",
+      "title": "Sklep o spremembi sklepa o olajšavah za potovanja državljanov Bosne in Hercegovine, Makedonije, Ruske federacije in Turčije v Republiko Slovenijo",
+      "shortTitle": "Sklep o spremembi sklepa o olajšavah za potovanja državljanov Bosne in Hercegovine, Makedonije, Ruske federacije in Turčije v Republiko Slovenijo",
+      "shortCode": "SKLE2454",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-3643",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-08-17",
+      "validFrom": "2001-08-17",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3643",
+      "versions": [
+        {
+          "id": "SKLE2454-original",
+          "shortCode": "SKLE2454",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-17",
+          "effectiveFrom": "2001-08-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2380"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3643",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

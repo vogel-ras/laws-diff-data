@@ -1,0 +1,58 @@
+{
+  "root": "SAPARD",
+  "path": "ordinances/SA/SAPARD",
+  "members": [
+    {
+      "id": "ODLO1219",
+      "title": "Odlok o višini sredstev za ukrepe kmetijske strukturne politike Programa razvoja podeželja 2000-2006 (SAPARD)",
+      "shortTitle": "Odlok o višini sredstev za ukrepe kmetijske strukturne politike Programa razvoja podeželja 2000-2006 (SAPARD)",
+      "shortCode": "SAPARD",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-3712",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-08-30",
+      "validFrom": "2002-08-30",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3712",
+      "versions": [
+        {
+          "id": "ODLO1219-original",
+          "shortCode": "SAPARD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-08-30",
+          "effectiveFrom": "2002-08-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3712",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1219-npb-ODLO1219",
+          "shortCode": "SAPARD-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-11-29",
+          "effectiveFrom": "2003-11-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1219",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

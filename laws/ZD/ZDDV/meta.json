@@ -1,0 +1,1184 @@
+{
+  "root": "ZDDV",
+  "path": "laws/ZD/ZDDV",
+  "members": [
+    {
+      "id": "DRUG2077",
+      "title": "Obvestilo o potrditvi iz 12. člena Zakona o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-D)",
+      "shortTitle": "Obvestilo o potrditvi iz 12. člena Zakona o spremembah in dopolnitvah Zakona o davku na dodano vrednost (ZDDV-D)",
+      "shortCode": "ZDDV-D",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "drugi akt",
+      "sopNumber": "2004-01-3776",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-07-30",
+      "validFrom": "2004-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3776",
+      "versions": [
+        {
+          "id": "DRUG2077-original",
+          "shortCode": "ZDDV-D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-30",
+          "effectiveFrom": "2004-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3776",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV",
+      "title": "Zakon o davku na dodano vrednost",
+      "shortTitle": "Zakon o davku na dodano vrednost",
+      "shortCode": "ZDDV",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4578",
+      "gazette": "Uradni list RS 89/98  str. 8433",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-23",
+      "validFrom": "1998-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4578",
+      "versions": [
+        {
+          "id": "ZDDV-original",
+          "shortCode": "ZDDV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 89/98  str. 8433",
+          "publishedAt": "1998-12-23",
+          "effectiveFrom": "1998-12-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4578",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-A",
+          "shortCode": "ZDDV-A",
+          "label": "Sprememba ZDDV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 30/2001  str. 3239",
+          "publishedAt": "2001-04-26",
+          "effectiveFrom": "2001-04-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1829",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-B",
+          "shortCode": "ZDDV-B",
+          "label": "Sprememba ZDDV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 67/2002  str. 7688",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3239",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-C",
+          "shortCode": "ZDDV-C",
+          "label": "Sprememba ZDDV-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 101/2003  str. 14041",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4498",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-D",
+          "shortCode": "ZDDV-D",
+          "label": "Sprememba ZDDV-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 45/04  str. 5741",
+          "publishedAt": "2004-04-29",
+          "effectiveFrom": "2004-04-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2132",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-DRUG2077",
+          "shortCode": "ZDDV-D",
+          "label": "Sprememba ZDDV-D",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2004-07-30",
+          "effectiveFrom": "2004-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3776",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-E",
+          "shortCode": "ZDDV-E",
+          "label": "Sprememba ZDDV-E",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 114/04  str. 13573",
+          "publishedAt": "2004-10-22",
+          "effectiveFrom": "2004-10-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4707",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-amend-ZDDV-F",
+          "shortCode": "ZDDV-F",
+          "label": "Sprememba ZDDV-F",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 108/05  str. 11526",
+          "publishedAt": "2005-12-02",
+          "effectiveFrom": "2005-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4688",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1",
+      "title": "Zakon o davku na dodano vrednost",
+      "shortTitle": "Zakon o davku na dodano vrednost",
+      "shortCode": "ZDDV-1",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5012",
+      "gazette": "Uradni list RS 117/06  str. 12241",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-16",
+      "validFrom": "2006-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5012",
+      "versions": [
+        {
+          "id": "ZDDV-1-original",
+          "shortCode": "ZDDV-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 117/06  str. 12241",
+          "publishedAt": "2006-11-16",
+          "effectiveFrom": "2006-11-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5012",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1A",
+          "shortCode": "ZDDV-1A",
+          "label": "Sprememba ZDDV-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 33/09  str. 4659",
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1510",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1B",
+          "shortCode": "ZDDV-1B",
+          "label": "Sprememba ZDDV-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 85/09  str. 11341",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3787",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1C",
+          "shortCode": "ZDDV-1C",
+          "label": "Sprememba ZDDV-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 85/10  str. 12917",
+          "publishedAt": "2010-10-29",
+          "effectiveFrom": "2010-10-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4552",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1F",
+          "shortCode": "ZDDV-1F",
+          "label": "Sprememba ZDDV-1F",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 38/12  str. 4068",
+          "publishedAt": "2012-05-25",
+          "effectiveFrom": "2012-05-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1628",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1G",
+          "shortCode": "ZDDV-1G",
+          "label": "Sprememba ZDDV-1G",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 83/12  str. 8551",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3288",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1H",
+          "shortCode": "ZDDV-1H",
+          "label": "Sprememba ZDDV-1H",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 86/14  str. 9571",
+          "publishedAt": "2014-12-01",
+          "effectiveFrom": "2014-12-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3486",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1I",
+          "shortCode": "ZDDV-1I",
+          "label": "Sprememba ZDDV-1I",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 90/15  str. 10116",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3505",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1J",
+          "shortCode": "ZDDV-1J",
+          "label": "Sprememba ZDDV-1J",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 77/18  str. 11913",
+          "publishedAt": "2018-11-30",
+          "effectiveFrom": "2018-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3755",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1K",
+          "shortCode": "ZDDV-1K",
+          "label": "Sprememba ZDDV-1K",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 59/19  str. 6980",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2612",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1L",
+          "shortCode": "ZDDV-1L",
+          "label": "Sprememba ZDDV-1L",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 72/19  str. 8741",
+          "publishedAt": "2019-12-04",
+          "effectiveFrom": "2019-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3208",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1N",
+          "shortCode": "ZDDV-1N",
+          "label": "Sprememba ZDDV-1N",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 122/23  str. 10487",
+          "publishedAt": "2023-12-05",
+          "effectiveFrom": "2023-12-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3589",
+          "proposer": null
+        },
+        {
+          "id": "ZDDV-1-amend-ZDDV-1O",
+          "shortCode": "ZDDV-1O",
+          "label": "Sprememba ZDDV-1O",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 104/24  str. 11791",
+          "publishedAt": "2024-12-10",
+          "effectiveFrom": "2024-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3310",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1A",
+      "title": "Zakon o spremembi zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembi zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1A",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1510",
+      "gazette": "Uradni list RS 33/09  str. 4659",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-30",
+      "validFrom": "2009-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1510",
+      "versions": [
+        {
+          "id": "ZDDV-1A-original",
+          "shortCode": "ZDDV-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/09  str. 4659",
+          "publishedAt": "2009-04-30",
+          "effectiveFrom": "2009-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1510",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1B",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3787",
+      "gazette": "Uradni list RS 85/09  str. 11341",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3787",
+      "versions": [
+        {
+          "id": "ZDDV-1B-original",
+          "shortCode": "ZDDV-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/09  str. 11341",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3787",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1C",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4552",
+      "gazette": "Uradni list RS 85/10  str. 12917",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-29",
+      "validFrom": "2010-10-29",
+      "validTo": null,
+      "latestPublishedAt": "2010-10-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4552",
+      "versions": [
+        {
+          "id": "ZDDV-1C-original",
+          "shortCode": "ZDDV-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/10  str. 12917",
+          "publishedAt": "2010-10-29",
+          "effectiveFrom": "2010-10-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4552",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1F",
+      "title": "Zakon o spremembah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1F",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "dodana vrednost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1628",
+      "gazette": "Uradni list RS 38/12  str. 4068",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-25",
+      "validFrom": "2012-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1628",
+      "versions": [
+        {
+          "id": "ZDDV-1F-original",
+          "shortCode": "ZDDV-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/12  str. 4068",
+          "publishedAt": "2012-05-25",
+          "effectiveFrom": "2012-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1628",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1G",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3288",
+      "gazette": "Uradni list RS 83/12  str. 8551",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-06",
+      "validFrom": "2012-11-06",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3288",
+      "versions": [
+        {
+          "id": "ZDDV-1G-original",
+          "shortCode": "ZDDV-1G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 83/12  str. 8551",
+          "publishedAt": "2012-11-06",
+          "effectiveFrom": "2012-11-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1H",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "dodana vrednost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3486",
+      "gazette": "Uradni list RS 86/14  str. 9571",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-01",
+      "validFrom": "2014-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3486",
+      "versions": [
+        {
+          "id": "ZDDV-1H-original",
+          "shortCode": "ZDDV-1H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/14  str. 9571",
+          "publishedAt": "2014-12-01",
+          "effectiveFrom": "2014-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3486",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1I",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3505",
+      "gazette": "Uradni list RS 90/15  str. 10116",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-27",
+      "validFrom": "2015-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3505",
+      "versions": [
+        {
+          "id": "ZDDV-1I-original",
+          "shortCode": "ZDDV-1I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/15  str. 10116",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3505",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-3755",
+      "gazette": "Uradni list RS 77/18  str. 11913",
+      "issuingBody": null,
+      "adoptedAt": "2018-11-30",
+      "validFrom": "2018-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3755",
+      "versions": [
+        {
+          "id": "ZDDV-1J-original",
+          "shortCode": "ZDDV-1J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 77/18  str. 11913",
+          "publishedAt": "2018-11-30",
+          "effectiveFrom": "2018-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-3755",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1K",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2612",
+      "gazette": "Uradni list RS 59/19  str. 6980",
+      "issuingBody": null,
+      "adoptedAt": "2019-10-04",
+      "validFrom": "2019-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2612",
+      "versions": [
+        {
+          "id": "ZDDV-1K-original",
+          "shortCode": "ZDDV-1K",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/19  str. 6980",
+          "publishedAt": "2019-10-04",
+          "effectiveFrom": "2019-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2612",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1L",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1L",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3208",
+      "gazette": "Uradni list RS 72/19  str. 8741",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-04",
+      "validFrom": "2019-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3208",
+      "versions": [
+        {
+          "id": "ZDDV-1L-original",
+          "shortCode": "ZDDV-1L",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/19  str. 8741",
+          "publishedAt": "2019-12-04",
+          "effectiveFrom": "2019-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3208",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1N",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-3589",
+      "gazette": "Uradni list RS 122/23  str. 10487",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-05",
+      "validFrom": "2023-12-05",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3589",
+      "versions": [
+        {
+          "id": "ZDDV-1N-original",
+          "shortCode": "ZDDV-1N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 122/23  str. 10487",
+          "publishedAt": "2023-12-05",
+          "effectiveFrom": "2023-12-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-3589",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-1O",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-1O",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3310",
+      "gazette": "Uradni list RS 104/24  str. 11791",
+      "issuingBody": null,
+      "adoptedAt": "2024-12-10",
+      "validFrom": "2024-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3310",
+      "versions": [
+        {
+          "id": "ZDDV-1O-original",
+          "shortCode": "ZDDV-1O",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 104/24  str. 11791",
+          "publishedAt": "2024-12-10",
+          "effectiveFrom": "2024-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3310",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-A",
+      "kind": "zakon",
+      "keywords": [
+        "DDV",
+        "davek",
+        "dodana vrednost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-1829",
+      "gazette": "Uradni list RS 30/2001  str. 3239",
+      "issuingBody": null,
+      "adoptedAt": "2001-04-26",
+      "validFrom": "2001-04-26",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1829",
+      "versions": [
+        {
+          "id": "ZDDV-A-original",
+          "shortCode": "ZDDV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/2001  str. 3239",
+          "publishedAt": "2001-04-26",
+          "effectiveFrom": "2001-04-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1829",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-B",
+      "kind": "zakon",
+      "keywords": [
+        "DDV",
+        "dodana vrednost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3239",
+      "gazette": "Uradni list RS 67/2002  str. 7688",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-26",
+      "validFrom": "2002-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3239",
+      "versions": [
+        {
+          "id": "ZDDV-B-original",
+          "shortCode": "ZDDV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/2002  str. 7688",
+          "publishedAt": "2002-07-26",
+          "effectiveFrom": "2002-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3239",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-C",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-4498",
+      "gazette": "Uradni list RS 101/2003  str. 14041",
+      "issuingBody": null,
+      "adoptedAt": "2003-10-21",
+      "validFrom": "2003-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4498",
+      "versions": [
+        {
+          "id": "ZDDV-C-original",
+          "shortCode": "ZDDV-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/2003  str. 14041",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4498",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-D",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "DDV",
+        "električna energija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2132",
+      "gazette": "Uradni list RS 45/04  str. 5741",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-29",
+      "validFrom": "2004-04-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2132",
+      "versions": [
+        {
+          "id": "ZDDV-D-original",
+          "shortCode": "ZDDV-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 45/04  str. 5741",
+          "publishedAt": "2004-04-29",
+          "effectiveFrom": "2004-04-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2132",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-E",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "dodana vrednost",
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-4707",
+      "gazette": "Uradni list RS 114/04  str. 13573",
+      "issuingBody": null,
+      "adoptedAt": "2004-10-22",
+      "validFrom": "2004-10-22",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4707",
+      "versions": [
+        {
+          "id": "ZDDV-E-original",
+          "shortCode": "ZDDV-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/04  str. 13573",
+          "publishedAt": "2004-10-22",
+          "effectiveFrom": "2004-10-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4707",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDV-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davku na dodano vrednost",
+      "shortCode": "ZDDV-F",
+      "kind": "zakon",
+      "keywords": [
+        "DDV"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4688",
+      "gazette": "Uradni list RS 108/05  str. 11526",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-02",
+      "validFrom": "2005-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4688",
+      "versions": [
+        {
+          "id": "ZDDV-F-original",
+          "shortCode": "ZDDV-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/05  str. 11526",
+          "publishedAt": "2005-12-02",
+          "effectiveFrom": "2005-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDDV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4688",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

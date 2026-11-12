@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13423",
+  "path": "laws/PR/PRAV13423",
+  "members": [
+    {
+      "id": "PRAV13423",
+      "title": "Pravilnik o evidentiranju podatkov v zemljiškem katastru",
+      "shortTitle": "Pravilnik o evidentiranju podatkov v zemljiškem katastru",
+      "shortCode": "PRAV13423",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2522",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2018-07-13",
+      "validFrom": "2018-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2018-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2522",
+      "versions": [
+        {
+          "id": "PRAV13423-original",
+          "shortCode": "PRAV13423",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-07-13",
+          "effectiveFrom": "2018-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2522",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13804",
+      "title": "Pravilnik o spremembi Pravilnika o evidentiranju podatkov v zemljiškem katastru",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o evidentiranju podatkov v zemljiškem katastru",
+      "shortCode": "PRAV13804",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1579",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-05-31",
+      "validFrom": "2019-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1579",
+      "versions": [
+        {
+          "id": "PRAV13804-original",
+          "shortCode": "PRAV13804",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-05-31",
+          "effectiveFrom": "2019-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13423"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1579",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

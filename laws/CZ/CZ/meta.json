@@ -1,0 +1,221 @@
+{
+  "root": "CZ",
+  "path": "laws/CZ/CZ",
+  "members": [
+    {
+      "id": "CZ",
+      "title": "Carinski zakon",
+      "shortTitle": "Carinski zakon",
+      "shortCode": "CZ",
+      "kind": "zakon",
+      "keywords": [
+        "carina",
+        "carinski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0003",
+      "gazette": "Uradni list RS 1/95  str. 3",
+      "issuingBody": null,
+      "adoptedAt": "1995-01-10",
+      "validFrom": "1995-01-10",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0003",
+      "versions": [
+        {
+          "id": "CZ-original",
+          "shortCode": "CZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/95  str. 3",
+          "publishedAt": "1995-01-10",
+          "effectiveFrom": "1995-01-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0003",
+          "proposer": null
+        },
+        {
+          "id": "CZ-amend-CZ-A",
+          "shortCode": "CZ-A",
+          "label": "Sprememba CZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 28/95  str. 2005",
+          "publishedAt": "1995-05-26",
+          "effectiveFrom": "1995-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1288",
+          "proposer": null
+        },
+        {
+          "id": "CZ-amend-CZ-B",
+          "shortCode": "CZ-B",
+          "label": "Sprememba CZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 32/99  str. 3689",
+          "publishedAt": "1999-05-06",
+          "effectiveFrom": "1999-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1515",
+          "proposer": null
+        },
+        {
+          "id": "CZ-amend-CZ-C",
+          "shortCode": "CZ-C",
+          "label": "Sprememba CZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 59/2002  str. 6081",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2833",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "CZ-A",
+      "title": "Zakon o spremembi carinskega zakona",
+      "shortTitle": "Zakon o spremembi carinskega zakona",
+      "shortCode": "CZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "carina",
+        "carinski predpisi"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-1288",
+      "gazette": "Uradni list RS 28/95  str. 2005",
+      "issuingBody": null,
+      "adoptedAt": "1995-05-26",
+      "validFrom": "1995-05-26",
+      "validTo": null,
+      "latestPublishedAt": "1995-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1288",
+      "versions": [
+        {
+          "id": "CZ-A-original",
+          "shortCode": "CZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/95  str. 2005",
+          "publishedAt": "1995-05-26",
+          "effectiveFrom": "1995-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1288",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "CZ-B",
+      "title": "Zakon o spremembah in dopolnitvah carinskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah carinskega zakona",
+      "shortCode": "CZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "carina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1515",
+      "gazette": "Uradni list RS 32/99  str. 3689",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-06",
+      "validFrom": "1999-05-06",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1515",
+      "versions": [
+        {
+          "id": "CZ-B-original",
+          "shortCode": "CZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/99  str. 3689",
+          "publishedAt": "1999-05-06",
+          "effectiveFrom": "1999-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1515",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "CZ-C",
+      "title": "Zakon o spremembah in dopolnitvah carinskega zakona",
+      "shortTitle": "Zakon o spremembah in dopolnitvah carinskega zakona",
+      "shortCode": "CZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "carina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2833",
+      "gazette": "Uradni list RS 59/2002  str. 6081",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-05",
+      "validFrom": "2002-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2833",
+      "versions": [
+        {
+          "id": "CZ-C-original",
+          "shortCode": "CZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 59/2002  str. 6081",
+          "publishedAt": "2002-07-05",
+          "effectiveFrom": "2002-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "CZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2833",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

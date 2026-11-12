@@ -1,0 +1,97 @@
+{
+  "root": "URED6281",
+  "path": "laws/UR/URED6281",
+  "members": [
+    {
+      "id": "URED6281",
+      "title": "Uredba o predelavi biološko razgradljivih odpadkov in uporabi komposta ali digestata",
+      "shortTitle": "Uredba o predelavi biološko razgradljivih odpadkov in uporabi komposta ali digestata",
+      "shortCode": "URED6281",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3557",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-12-03",
+      "validFrom": "2013-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3557",
+      "versions": [
+        {
+          "id": "URED6281-original",
+          "shortCode": "URED6281",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3557",
+          "proposer": null
+        },
+        {
+          "id": "URED6281-npb-URED6281",
+          "shortCode": "URED6281-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-12-03",
+          "effectiveFrom": "2013-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6281",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7743",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o predelavi biološko razgradljivih odpadkov in uporabi komposta ali digestata",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o predelavi biološko razgradljivih odpadkov in uporabi komposta ali digestata",
+      "shortCode": "URED7743",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-2816",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-08-17",
+      "validFrom": "2018-08-17",
+      "validTo": null,
+      "latestPublishedAt": "2018-08-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2816",
+      "versions": [
+        {
+          "id": "URED7743-original",
+          "shortCode": "URED7743",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-08-17",
+          "effectiveFrom": "2018-08-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6281"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2816",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

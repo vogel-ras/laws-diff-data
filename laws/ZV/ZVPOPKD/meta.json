@@ -1,0 +1,103 @@
+{
+  "root": "ZVPOPKD",
+  "path": "laws/ZV/ZVPOPKD",
+  "members": [
+    {
+      "id": "ZVPOPKD",
+      "title": "Zakon o vračanju protipravno odstranjenih predmetov kulturne dediščine",
+      "shortTitle": "Zakon o vračanju protipravno odstranjenih predmetov kulturne dediščine",
+      "shortCode": "ZVPOPKD",
+      "kind": "zakon",
+      "keywords": [
+        "kulturna dediščina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5393",
+      "gazette": "Uradni list RS 126/03  str. 17293",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2016-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5393",
+      "versions": [
+        {
+          "id": "ZVPOPKD-original",
+          "shortCode": "ZVPOPKD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/03  str. 17293",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5393",
+          "proposer": null
+        },
+        {
+          "id": "ZVPOPKD-amend-ZVPOPKD-A",
+          "shortCode": "ZVPOPKD-A",
+          "label": "Sprememba ZVPOPKD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 8/16  str. 994",
+          "publishedAt": "2016-02-05",
+          "effectiveFrom": "2016-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPOPKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0281",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVPOPKD-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o vračanju protipravno odstranjenih predmetov kulturne dediščine",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o vračanju protipravno odstranjenih predmetov kulturne dediščine",
+      "shortCode": "ZVPOPKD-A",
+      "kind": "zakon",
+      "keywords": [
+        "kulturna dediščina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-0281",
+      "gazette": "Uradni list RS 8/16  str. 994",
+      "issuingBody": null,
+      "adoptedAt": "2016-02-05",
+      "validFrom": "2016-02-05",
+      "validTo": null,
+      "latestPublishedAt": "2016-02-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0281",
+      "versions": [
+        {
+          "id": "ZVPOPKD-A-original",
+          "shortCode": "ZVPOPKD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/16  str. 994",
+          "publishedAt": "2016-02-05",
+          "effectiveFrom": "2016-02-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVPOPKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0281",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

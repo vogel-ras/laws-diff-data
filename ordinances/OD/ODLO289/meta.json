@@ -1,0 +1,97 @@
+{
+  "root": "ODLO289",
+  "path": "ordinances/OD/ODLO289",
+  "members": [
+    {
+      "id": "ODLO1125",
+      "title": "Odlok o spremembi odloka o razglasitvi razvalin gradu Vodriž za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o spremembi odloka o razglasitvi razvalin gradu Vodriž za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1125",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-0976",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-13",
+      "validFrom": "2002-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0976",
+      "versions": [
+        {
+          "id": "ODLO1125-original",
+          "shortCode": "ODLO1125",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-13",
+          "effectiveFrom": "2002-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO289"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO289",
+      "title": "Odlok o razglasitvi razvalin gradu Vodriž za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi razvalin gradu Vodriž za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO289",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1999-01-3868",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-17",
+      "validFrom": "2026-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3868",
+      "versions": [
+        {
+          "id": "ODLO289-original",
+          "shortCode": "ODLO289",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-17",
+          "effectiveFrom": "2026-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3868",
+          "proposer": null
+        },
+        {
+          "id": "ODLO289-npb-ODLO289",
+          "shortCode": "ODLO289-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-03-01",
+          "effectiveFrom": "2008-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO289",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "root": "ZVSmuč",
+  "path": "laws/ZV/ZVSmuč",
+  "members": [
+    {
+      "id": "ZAKO4984",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varnosti na smučiščih (ZVSmuč-B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varnosti na smučiščih (ZVSmuč-B)",
+      "shortCode": "ZVSmuč-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-0556",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-02-19",
+      "validFrom": "2008-02-19",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0556",
+      "versions": [
+        {
+          "id": "ZAKO4984-original",
+          "shortCode": "ZVSmuč-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-02-19",
+          "effectiveFrom": "2008-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVSmu_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0556",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVSmu_",
+      "title": "Zakon o varnosti na smučiščih",
+      "shortTitle": "Zakon o varnosti na smučiščih",
+      "shortCode": "ZVSmuč",
+      "kind": "zakon",
+      "keywords": [
+        "zdravstveno varstvo",
+        "zdravstveno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5390",
+      "gazette": "Uradni list RS 110/2002  str. 13145",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2008-02-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5390",
+      "versions": [
+        {
+          "id": "ZVSmu_-original",
+          "shortCode": "ZVSmuč",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13145",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5390",
+          "proposer": null
+        },
+        {
+          "id": "ZVSmu_-amend-ZVSmu_-A",
+          "shortCode": "ZVSmuč-A",
+          "label": "Sprememba ZVSmu_-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 98/05  str. 10172",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVSmu_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4295",
+          "proposer": null
+        },
+        {
+          "id": "ZVSmu_-amend-ZAKO4984",
+          "shortCode": "ZVSmuč-B",
+          "label": "Sprememba ZVSmuč-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2008-02-19",
+          "effectiveFrom": "2008-02-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVSmu_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-0556",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVSmu_-1",
+      "title": "Zakon o varnosti na smučiščih",
+      "shortTitle": "Zakon o varnosti na smučiščih",
+      "shortCode": "ZVSmuč-1",
+      "kind": "zakon",
+      "keywords": [
+        "šport"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1922",
+      "gazette": "Uradni list RS 44/16  str. 6540",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-24",
+      "validFrom": "2016-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1922",
+      "versions": [
+        {
+          "id": "ZVSmu_-1-original",
+          "shortCode": "ZVSmuč-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/16  str. 6540",
+          "publishedAt": "2016-06-24",
+          "effectiveFrom": "2016-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1922",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVSmu_-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varnosti na smučiščih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varnosti na smučiščih",
+      "shortCode": "ZVSmuč-A",
+      "kind": "zakon",
+      "keywords": [
+        "šport"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4295",
+      "gazette": "Uradni list RS 98/05  str. 10172",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-07",
+      "validFrom": "2005-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4295",
+      "versions": [
+        {
+          "id": "ZVSmu_-A-original",
+          "shortCode": "ZVSmuč-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/05  str. 10172",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVSmu_"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4295",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

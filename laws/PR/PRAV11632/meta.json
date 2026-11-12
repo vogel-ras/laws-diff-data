@@ -1,0 +1,136 @@
+{
+  "root": "PRAV11632",
+  "path": "laws/PR/PRAV11632",
+  "members": [
+    {
+      "id": "PRAV11632",
+      "title": "Pravilnik o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortTitle": "Pravilnik o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortCode": "PRAV11632",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-3555",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-12-08",
+      "validFrom": "2014-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3555",
+      "versions": [
+        {
+          "id": "PRAV11632-original",
+          "shortCode": "PRAV11632",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-12-08",
+          "effectiveFrom": "2014-12-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3555",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11632-npb-PRAV11632",
+          "shortCode": "PRAV11632-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-12-08",
+          "effectiveFrom": "2014-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11632",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12421",
+      "title": "Pravilnik o spremembah Pravilnika o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortCode": "PRAV12421",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-0449",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2015-02-27",
+      "validFrom": "2015-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0449",
+      "versions": [
+        {
+          "id": "PRAV12421-original",
+          "shortCode": "PRAV12421",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-02-27",
+          "effectiveFrom": "2015-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11632"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-0449",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV12587",
+      "title": "Pravilnik o spremembi Pravilnika o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o oznaki državne pripadnosti, registrskih in drugih oznakah na civilnih zrakoplovih",
+      "shortCode": "PRAV12587",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2015-01-3518",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2015-11-27",
+      "validFrom": "2015-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3518",
+      "versions": [
+        {
+          "id": "PRAV12587-original",
+          "shortCode": "PRAV12587",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV11632"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3518",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

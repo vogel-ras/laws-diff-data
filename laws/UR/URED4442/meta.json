@@ -1,0 +1,121 @@
+{
+  "root": "URED4442",
+  "path": "laws/UR/URED4442",
+  "members": [
+    {
+      "id": "URED4442",
+      "title": "Uredba o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortTitle": "Uredba o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortCode": "URED4442",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2451",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-05-25",
+      "validFrom": "2007-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2007-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2451",
+      "versions": [
+        {
+          "id": "URED4442-original",
+          "shortCode": "URED4442",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-05-25",
+          "effectiveFrom": "2007-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2451",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5139",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortCode": "URED5139",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2988",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-08-07",
+      "validFrom": "2009-08-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2988",
+      "versions": [
+        {
+          "id": "URED5139-original",
+          "shortCode": "URED5139",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-07",
+          "effectiveFrom": "2009-08-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4442"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2988",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5591",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o emisiji snovi pri odvajanju odpadne vode iz komunalnih čistilnih naprav",
+      "shortCode": "URED5591",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2010-01-5473",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-12-24",
+      "validFrom": "2010-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5473",
+      "versions": [
+        {
+          "id": "URED5591-original",
+          "shortCode": "URED5591",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-24",
+          "effectiveFrom": "2010-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4442"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5473",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

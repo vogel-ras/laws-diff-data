@@ -1,0 +1,821 @@
+{
+  "root": "ZIZ",
+  "path": "laws/ZI/ZIZ",
+  "members": [
+    {
+      "id": "ZAKO6778",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju (ZIZ-J)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju (ZIZ-J)",
+      "shortCode": "ZIZ-J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2014-01-2342",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2014-07-15",
+      "validFrom": "2014-07-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2342",
+      "versions": [
+        {
+          "id": "ZAKO6778-original",
+          "shortCode": "ZIZ-J",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-15",
+          "effectiveFrom": "2014-07-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2342",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7400",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju (ZIZ-L)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju (ZIZ-L)",
+      "shortCode": "ZIZ-L",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0458",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-21",
+      "validFrom": "2018-02-21",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0458",
+      "versions": [
+        {
+          "id": "ZAKO7400-original",
+          "shortCode": "ZIZ-L",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0458",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ",
+      "title": "Zakon o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o izvršbi in zavarovanju",
+      "shortCode": "ZIZ",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2303",
+      "gazette": "Uradni list RS 51/98  str. 3641",
+      "issuingBody": null,
+      "adoptedAt": "1998-07-17",
+      "validFrom": "1998-07-17",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2303",
+      "versions": [
+        {
+          "id": "ZIZ-original",
+          "shortCode": "ZIZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/98  str. 3641",
+          "publishedAt": "1998-07-17",
+          "effectiveFrom": "1998-07-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2303",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-A",
+          "shortCode": "ZIZ-A",
+          "label": "Sprememba ZIZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 75/2002  str. 8297",
+          "publishedAt": "2002-08-22",
+          "effectiveFrom": "2002-08-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3570",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-B",
+          "shortCode": "ZIZ-B",
+          "label": "Sprememba ZIZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 16/04  str. 1593",
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0631",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-C",
+          "shortCode": "ZIZ-C",
+          "label": "Sprememba ZIZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 17/06  str. 1497",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0621",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-D",
+          "shortCode": "ZIZ-D",
+          "label": "Sprememba ZIZ-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 69/06  str. 7234",
+          "publishedAt": "2006-07-03",
+          "effectiveFrom": "2006-07-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2979",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-E",
+          "shortCode": "ZIZ-E",
+          "label": "Sprememba ZIZ-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 115/06  str. 11985",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4906",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-F",
+          "shortCode": "ZIZ-F",
+          "label": "Sprememba ZIZ-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 93/07  str. 12469",
+          "publishedAt": "2007-10-12",
+          "effectiveFrom": "2007-10-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4598",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-G",
+          "shortCode": "ZIZ-G",
+          "label": "Sprememba ZIZ-G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 28/09  str. 3965",
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1187",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-H",
+          "shortCode": "ZIZ-H",
+          "label": "Sprememba ZIZ-H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 51/10  str. 7553",
+          "publishedAt": "2010-06-28",
+          "effectiveFrom": "2010-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2762",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-I",
+          "shortCode": "ZIZ-I",
+          "label": "Sprememba ZIZ-I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 26/11  str. 3410",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1157",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZAKO6778",
+          "shortCode": "ZIZ-J",
+          "label": "Sprememba ZIZ-J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": null,
+          "publishedAt": "2014-07-15",
+          "effectiveFrom": "2014-07-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2342",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-K",
+          "shortCode": "ZIZ-K",
+          "label": "Sprememba ZIZ-K",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 54/15  str. 6195",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2226",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZAKO7400",
+          "shortCode": "ZIZ-L",
+          "label": "Sprememba ZIZ-L",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": null,
+          "publishedAt": "2018-02-21",
+          "effectiveFrom": "2018-02-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0458",
+          "proposer": null
+        },
+        {
+          "id": "ZIZ-amend-ZIZ-M",
+          "shortCode": "ZIZ-M",
+          "label": "Sprememba ZIZ-M",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": "Uradni list RS 36/21  str. 2429",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0718",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-3570",
+      "gazette": "Uradni list RS 75/2002  str. 8297",
+      "issuingBody": null,
+      "adoptedAt": "2002-08-22",
+      "validFrom": "2002-08-22",
+      "validTo": null,
+      "latestPublishedAt": "2002-08-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3570",
+      "versions": [
+        {
+          "id": "ZIZ-A-original",
+          "shortCode": "ZIZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/2002  str. 8297",
+          "publishedAt": "2002-08-22",
+          "effectiveFrom": "2002-08-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3570",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-B",
+      "title": "Zakon o spremembi zakona o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembi zakona o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0631",
+      "gazette": "Uradni list RS 16/04  str. 1593",
+      "issuingBody": null,
+      "adoptedAt": "2004-02-20",
+      "validFrom": "2004-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0631",
+      "versions": [
+        {
+          "id": "ZIZ-B-original",
+          "shortCode": "ZIZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/04  str. 1593",
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0621",
+      "gazette": "Uradni list RS 17/06  str. 1497",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-17",
+      "validFrom": "2006-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0621",
+      "versions": [
+        {
+          "id": "ZIZ-C-original",
+          "shortCode": "ZIZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/06  str. 1497",
+          "publishedAt": "2006-02-17",
+          "effectiveFrom": "2006-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0621",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-D",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2979",
+      "gazette": "Uradni list RS 69/06  str. 7234",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-03",
+      "validFrom": "2006-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2979",
+      "versions": [
+        {
+          "id": "ZIZ-D-original",
+          "shortCode": "ZIZ-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/06  str. 7234",
+          "publishedAt": "2006-07-03",
+          "effectiveFrom": "2006-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2979",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-E",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "civilno pravo",
+        "obligacijsko pravo",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4906",
+      "gazette": "Uradni list RS 115/06  str. 11985",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4906",
+      "versions": [
+        {
+          "id": "ZIZ-E-original",
+          "shortCode": "ZIZ-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11985",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4906",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-F",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "obligacijsko pravo",
+        "civilno pravo",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4598",
+      "gazette": "Uradni list RS 93/07  str. 12469",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-12",
+      "validFrom": "2007-10-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4598",
+      "versions": [
+        {
+          "id": "ZIZ-F-original",
+          "shortCode": "ZIZ-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 93/07  str. 12469",
+          "publishedAt": "2007-10-12",
+          "effectiveFrom": "2007-10-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4598",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-G",
+      "title": "Zakon o dopolnitvi Zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o dopolnitvi Zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-G",
+      "kind": "zakon",
+      "keywords": [
+        "terjatev",
+        "izvršitev sodne odločbe",
+        "civilno pravo",
+        "obligacijsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1187",
+      "gazette": "Uradni list RS 28/09  str. 3965",
+      "issuingBody": null,
+      "adoptedAt": "2009-04-10",
+      "validFrom": "2009-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2009-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1187",
+      "versions": [
+        {
+          "id": "ZIZ-G-original",
+          "shortCode": "ZIZ-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/09  str. 3965",
+          "publishedAt": "2009-04-10",
+          "effectiveFrom": "2009-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1187",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-H",
+      "kind": "zakon",
+      "keywords": [
+        "civilno pravo",
+        "obligacijsko pravo",
+        "terjatev",
+        "izvršitev sodne odločbe"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2762",
+      "gazette": "Uradni list RS 51/10  str. 7553",
+      "issuingBody": null,
+      "adoptedAt": "2010-06-28",
+      "validFrom": "2010-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2010-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2762",
+      "versions": [
+        {
+          "id": "ZIZ-H-original",
+          "shortCode": "ZIZ-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/10  str. 7553",
+          "publishedAt": "2010-06-28",
+          "effectiveFrom": "2010-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2762",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-I",
+      "kind": "zakon",
+      "keywords": [
+        "civilno pravo",
+        "obligacijsko pravo",
+        "izvršitev sodne odločbe",
+        "terjatev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1157",
+      "gazette": "Uradni list RS 26/11  str. 3410",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1157",
+      "versions": [
+        {
+          "id": "ZIZ-I-original",
+          "shortCode": "ZIZ-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3410",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1157",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-K",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-K",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2226",
+      "gazette": "Uradni list RS 54/15  str. 6195",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-20",
+      "validFrom": "2015-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2226",
+      "versions": [
+        {
+          "id": "ZIZ-K-original",
+          "shortCode": "ZIZ-K",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/15  str. 6195",
+          "publishedAt": "2015-07-20",
+          "effectiveFrom": "2015-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2226",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIZ-M",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvršbi in zavarovanju",
+      "shortCode": "ZIZ-M",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0718",
+      "gazette": "Uradni list RS 36/21  str. 2429",
+      "issuingBody": null,
+      "adoptedAt": "2021-03-12",
+      "validFrom": "2021-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2021-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0718",
+      "versions": [
+        {
+          "id": "ZIZ-M-original",
+          "shortCode": "ZIZ-M",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/21  str. 2429",
+          "publishedAt": "2021-03-12",
+          "effectiveFrom": "2021-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0718",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

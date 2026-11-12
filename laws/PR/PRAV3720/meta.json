@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3720",
+  "path": "laws/PR/PRAV3720",
+  "members": [
+    {
+      "id": "PRAV3720",
+      "title": "Pravilnik o zahtevani dokumentaciji za oceno aktivnih snovi",
+      "shortTitle": "Pravilnik o zahtevani dokumentaciji za oceno aktivnih snovi",
+      "shortCode": "PRAV3720",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-1343",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-04-09",
+      "validFrom": "2002-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2002-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1343",
+      "versions": [
+        {
+          "id": "PRAV3720-original",
+          "shortCode": "PRAV3720",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-04-09",
+          "effectiveFrom": "2002-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-1343",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5483",
+      "title": "Pravilnik o spremembi pravilnika o zahtevani dokumentaciji za oceno aktivnih snovi",
+      "shortTitle": "Pravilnik o spremembi pravilnika o zahtevani dokumentaciji za oceno aktivnih snovi",
+      "shortCode": "PRAV5483",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1350",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-31",
+      "validFrom": "2004-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1350",
+      "versions": [
+        {
+          "id": "PRAV5483-original",
+          "shortCode": "PRAV5483",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3720"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1350",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

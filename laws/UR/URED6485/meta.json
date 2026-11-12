@@ -1,0 +1,136 @@
+{
+  "root": "URED6485",
+  "path": "laws/UR/URED6485",
+  "members": [
+    {
+      "id": "URED6485",
+      "title": "Uredba o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortTitle": "Uredba o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortCode": "URED6485",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-0162",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-01-24",
+      "validFrom": "2014-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2014-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0162",
+      "versions": [
+        {
+          "id": "URED6485-original",
+          "shortCode": "URED6485",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-01-24",
+          "effectiveFrom": "2014-01-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0162",
+          "proposer": null
+        },
+        {
+          "id": "URED6485-npb-URED6485",
+          "shortCode": "URED6485-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-01-24",
+          "effectiveFrom": "2014-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6485",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6817",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortCode": "URED6817",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2014-01-2433",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2014-07-18",
+      "validFrom": "2014-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2014-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2433",
+      "versions": [
+        {
+          "id": "URED6817-original",
+          "shortCode": "URED6817",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-07-18",
+          "effectiveFrom": "2014-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6485"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-2433",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6971",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Programa ukrepov na področju čebelarstva v Republiki Sloveniji v letih 2014–2016",
+      "shortCode": "URED6971",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-1145",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-04-17",
+      "validFrom": "2015-04-17",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1145",
+      "versions": [
+        {
+          "id": "URED6971-original",
+          "shortCode": "URED6971",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-04-17",
+          "effectiveFrom": "2015-04-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6485"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1145",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV6399",
+  "path": "laws/PR/PRAV6399",
+  "members": [
+    {
+      "id": "PRAV6399",
+      "title": "Pravilnik o izvajanju sistematičnega spremljanja stanja kužnih bolezni in cepljenj živali v letu 2005",
+      "shortTitle": "Pravilnik o izvajanju sistematičnega spremljanja stanja kužnih bolezni in cepljenj živali v letu 2005",
+      "shortCode": "PRAV6399",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-6217",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-12-30",
+      "validFrom": "2004-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-6217",
+      "versions": [
+        {
+          "id": "PRAV6399-original",
+          "shortCode": "PRAV6399",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-30",
+          "effectiveFrom": "2004-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-6217",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6399-npb-PRAV6399",
+          "shortCode": "PRAV6399-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-12-30",
+          "effectiveFrom": "2004-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6399",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6424",
+      "title": "Pravilnik o spremembi Pravilnika o izvajanju sistematičnega spremljanja stanja kužnih bolezni in cepljenj živali v letu 2005",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izvajanju sistematičnega spremljanja stanja kužnih bolezni in cepljenj živali v letu 2005",
+      "shortCode": "PRAV6424",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-0117",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2005-01-14",
+      "validFrom": "2005-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2005-01-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0117",
+      "versions": [
+        {
+          "id": "PRAV6424-original",
+          "shortCode": "PRAV6424",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-01-14",
+          "effectiveFrom": "2005-01-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV6399"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0117",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

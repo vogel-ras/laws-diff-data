@@ -1,0 +1,101 @@
+{
+  "root": "ZSSloV",
+  "path": "laws/ZS/ZSSloV",
+  "members": [
+    {
+      "id": "ZSSloV",
+      "title": "Zakon o službi v Slovenski vojski",
+      "shortTitle": "Zakon o službi v Slovenski vojski",
+      "shortCode": "ZSSloV",
+      "kind": "zakon",
+      "keywords": [
+        "vojaška služba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-3761",
+      "gazette": "Uradni list RS 68/07  str. 9624",
+      "issuingBody": null,
+      "adoptedAt": "2007-07-30",
+      "validFrom": "2007-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3761",
+      "versions": [
+        {
+          "id": "ZSSloV-original",
+          "shortCode": "ZSSloV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/07  str. 9624",
+          "publishedAt": "2007-07-30",
+          "effectiveFrom": "2007-07-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-3761",
+          "proposer": null
+        },
+        {
+          "id": "ZSSloV-amend-ZSSloV-B",
+          "shortCode": "ZSSloV-B",
+          "label": "Sprememba ZSSloV-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 40/23  str. 3598",
+          "publishedAt": "2023-04-03",
+          "effectiveFrom": "2023-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSSloV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1130",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSSloV-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o službi v Slovenski vojski",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o službi v Slovenski vojski",
+      "shortCode": "ZSSloV-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-1130",
+      "gazette": "Uradni list RS 40/23  str. 3598",
+      "issuingBody": null,
+      "adoptedAt": "2023-04-03",
+      "validFrom": "2023-04-03",
+      "validTo": null,
+      "latestPublishedAt": "2023-04-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1130",
+      "versions": [
+        {
+          "id": "ZSSloV-B-original",
+          "shortCode": "ZSSloV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 40/23  str. 3598",
+          "publishedAt": "2023-04-03",
+          "effectiveFrom": "2023-04-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSSloV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-1130",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

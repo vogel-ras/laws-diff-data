@@ -1,0 +1,121 @@
+{
+  "root": "PRAV1100",
+  "path": "laws/PR/PRAV1100",
+  "members": [
+    {
+      "id": "PRAV1100",
+      "title": "Pravilnik o medsebojnem sodelovanju nadzornih organov",
+      "shortTitle": "Pravilnik o medsebojnem sodelovanju nadzornih organov",
+      "shortCode": "PRAV1100",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1999-01-2608",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-07-09",
+      "validFrom": "1999-07-09",
+      "validTo": null,
+      "latestPublishedAt": "1999-07-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2608",
+      "versions": [
+        {
+          "id": "PRAV1100-original",
+          "shortCode": "PRAV1100",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-07-09",
+          "effectiveFrom": "1999-07-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2608",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3250",
+      "title": "Pravilnik o spremembah pravilnika o medsebojnem sodelovanju nadzornih organov",
+      "shortTitle": "Pravilnik o spremembah pravilnika o medsebojnem sodelovanju nadzornih organov",
+      "shortCode": "PRAV3250",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3834",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-09-28",
+      "validFrom": "2000-09-28",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3834",
+      "versions": [
+        {
+          "id": "PRAV3250-original",
+          "shortCode": "PRAV3250",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-28",
+          "effectiveFrom": "2000-09-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1100"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3834",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9837",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o medsebojnem sodelovanju nadzornih organov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o medsebojnem sodelovanju nadzornih organov",
+      "shortCode": "PRAV9837",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3655",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-10-19",
+      "validFrom": "2009-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3655",
+      "versions": [
+        {
+          "id": "PRAV9837-original",
+          "shortCode": "PRAV9837",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-10-19",
+          "effectiveFrom": "2009-10-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV1100"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3655",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

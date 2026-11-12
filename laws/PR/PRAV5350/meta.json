@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5350",
+  "path": "laws/PR/PRAV5350",
+  "members": [
+    {
+      "id": "PRAV5350",
+      "title": "Pravilnik o preskušanju izdelkov in snovi, ki prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o preskušanju izdelkov in snovi, ki prihajajo v stik z živili",
+      "shortCode": "PRAV5350",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-5586",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-12-24",
+      "validFrom": "2003-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5586",
+      "versions": [
+        {
+          "id": "PRAV5350-original",
+          "shortCode": "PRAV5350",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-24",
+          "effectiveFrom": "2003-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5586",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9081",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o preskušanju izdelkov in snovi, ki prihajajo v stik z živili",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o preskušanju izdelkov in snovi, ki prihajajo v stik z živili",
+      "shortCode": "PRAV9081",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-2830",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2008-06-30",
+      "validFrom": "2008-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2830",
+      "versions": [
+        {
+          "id": "PRAV9081-original",
+          "shortCode": "PRAV9081",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-30",
+          "effectiveFrom": "2008-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5350"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2830",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

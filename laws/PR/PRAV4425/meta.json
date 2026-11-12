@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4425",
+  "path": "laws/PR/PRAV4425",
+  "members": [
+    {
+      "id": "PRAV4425",
+      "title": "Pravilnik o razvrstitvi kopališč in organizacijskih ukrepih za varstvo pred utopitvami",
+      "shortTitle": "Pravilnik o razvrstitvi kopališč in organizacijskih ukrepih za varstvo pred utopitvami",
+      "shortCode": "PRAV4425",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-4084",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-09-11",
+      "validFrom": "2003-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4084",
+      "versions": [
+        {
+          "id": "PRAV4425-original",
+          "shortCode": "PRAV4425",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4084",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6963",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrstitvi kopališč in organizacijskih ukrepih za varstvo pred utopitvami",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o razvrstitvi kopališč in organizacijskih ukrepih za varstvo pred utopitvami",
+      "shortCode": "PRAV6963",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-2360",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-05-30",
+      "validFrom": "2006-05-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-05-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2360",
+      "versions": [
+        {
+          "id": "PRAV6963-original",
+          "shortCode": "PRAV6963",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-05-30",
+          "effectiveFrom": "2006-05-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4425"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2360",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

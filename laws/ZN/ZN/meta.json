@@ -1,0 +1,449 @@
+{
+  "root": "ZN",
+  "path": "laws/ZN/ZN",
+  "members": [
+    {
+      "id": "ZN",
+      "title": "Zakon o notariatu",
+      "shortTitle": "Zakon o notariatu",
+      "shortCode": "ZN",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0512",
+      "gazette": "Uradni list RS 13/94  str. 693",
+      "issuingBody": null,
+      "adoptedAt": "1994-03-10",
+      "validFrom": "1994-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0512",
+      "versions": [
+        {
+          "id": "ZN-original",
+          "shortCode": "ZN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 13/94  str. 693",
+          "publishedAt": "1994-03-10",
+          "effectiveFrom": "1994-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0512",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-A",
+          "shortCode": "ZN-A",
+          "label": "Sprememba ZN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 48/94  str. 3013",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1823",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-B",
+          "shortCode": "ZN-B",
+          "label": "Sprememba ZN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 82/94  str. 5027",
+          "publishedAt": "1994-12-30",
+          "effectiveFrom": "1994-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2977",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-C",
+          "shortCode": "ZN-C",
+          "label": "Sprememba ZN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 74/04  str. 8871",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3239",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-D",
+          "shortCode": "ZN-D",
+          "label": "Sprememba ZN-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 98/05  str. 10169",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4292",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-E",
+          "shortCode": "ZN-E",
+          "label": "Sprememba ZN-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 115/06  str. 11981",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4905",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-G",
+          "shortCode": "ZN-G",
+          "label": "Sprememba ZN-G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 91/13  str. 9839",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3304",
+          "proposer": null
+        },
+        {
+          "id": "ZN-amend-ZN-H",
+          "shortCode": "ZN-H",
+          "label": "Sprememba ZN-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 130/22  str. 9753",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3090",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-A",
+      "title": "Zakon o spremembi zakona o notariatu",
+      "shortTitle": "Zakon o spremembi zakona o notariatu",
+      "shortCode": "ZN-A",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1823",
+      "gazette": "Uradni list RS 48/94  str. 3013",
+      "issuingBody": null,
+      "adoptedAt": "1994-08-05",
+      "validFrom": "1994-08-05",
+      "validTo": null,
+      "latestPublishedAt": "1994-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1823",
+      "versions": [
+        {
+          "id": "ZN-A-original",
+          "shortCode": "ZN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/94  str. 3013",
+          "publishedAt": "1994-08-05",
+          "effectiveFrom": "1994-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1823",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-B",
+      "title": "Zakon o spremembah zakona o notariatu",
+      "shortTitle": "Zakon o spremembah zakona o notariatu",
+      "shortCode": "ZN-B",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2977",
+      "gazette": "Uradni list RS 82/94  str. 5027",
+      "issuingBody": null,
+      "adoptedAt": "1994-12-30",
+      "validFrom": "1994-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1994-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2977",
+      "versions": [
+        {
+          "id": "ZN-B-original",
+          "shortCode": "ZN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/94  str. 5027",
+          "publishedAt": "1994-12-30",
+          "effectiveFrom": "1994-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2977",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortCode": "ZN-C",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3239",
+      "gazette": "Uradni list RS 74/04  str. 8871",
+      "issuingBody": null,
+      "adoptedAt": "2004-07-05",
+      "validFrom": "2004-07-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3239",
+      "versions": [
+        {
+          "id": "ZN-C-original",
+          "shortCode": "ZN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 74/04  str. 8871",
+          "publishedAt": "2004-07-05",
+          "effectiveFrom": "2004-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3239",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortCode": "ZN-D",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4292",
+      "gazette": "Uradni list RS 98/05  str. 10169",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-07",
+      "validFrom": "2005-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4292",
+      "versions": [
+        {
+          "id": "ZN-D-original",
+          "shortCode": "ZN-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/05  str. 10169",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4292",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o notariatu",
+      "shortCode": "ZN-E",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4905",
+      "gazette": "Uradni list RS 115/06  str. 11981",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4905",
+      "versions": [
+        {
+          "id": "ZN-E-original",
+          "shortCode": "ZN-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11981",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4905",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-G",
+      "title": "Zakon o spremembi Zakona o notariatu",
+      "shortTitle": "Zakon o spremembi Zakona o notariatu",
+      "shortCode": "ZN-G",
+      "kind": "zakon",
+      "keywords": [
+        "notar"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3304",
+      "gazette": "Uradni list RS 91/13  str. 9839",
+      "issuingBody": null,
+      "adoptedAt": "2013-11-05",
+      "validFrom": "2013-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3304",
+      "versions": [
+        {
+          "id": "ZN-G-original",
+          "shortCode": "ZN-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/13  str. 9839",
+          "publishedAt": "2013-11-05",
+          "effectiveFrom": "2013-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3304",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZN-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o notariatu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o notariatu",
+      "shortCode": "ZN-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3090",
+      "gazette": "Uradni list RS 130/22  str. 9753",
+      "issuingBody": null,
+      "adoptedAt": "2022-10-11",
+      "validFrom": "2022-10-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-10-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3090",
+      "versions": [
+        {
+          "id": "ZN-H-original",
+          "shortCode": "ZN-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 130/22  str. 9753",
+          "publishedAt": "2022-10-11",
+          "effectiveFrom": "2022-10-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3090",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

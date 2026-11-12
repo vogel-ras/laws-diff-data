@@ -1,0 +1,104 @@
+{
+  "root": "ZPSPD",
+  "path": "laws/ZP/ZPSPD",
+  "members": [
+    {
+      "id": "ZPSPD",
+      "title": "Zakon o predhodnih sestavinah za prepovedane droge",
+      "shortTitle": "Zakon o predhodnih sestavinah za prepovedane droge",
+      "shortCode": "ZPSPD",
+      "kind": "zakon",
+      "keywords": [
+        "posebne kemikalije",
+        "promet s prepovedanimi drogami"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0975",
+      "gazette": "Uradni list RS 22/2000  str. 3140",
+      "issuingBody": null,
+      "adoptedAt": "2000-03-10",
+      "validFrom": "2000-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0975",
+      "versions": [
+        {
+          "id": "ZPSPD-original",
+          "shortCode": "ZPSPD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/2000  str. 3140",
+          "publishedAt": "2000-03-10",
+          "effectiveFrom": "2000-03-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0975",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPD-amend-ZPSPD-A",
+          "shortCode": "ZPSPD-A",
+          "label": "Sprememba ZPSPD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/2003  str. 10057",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3141",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPD-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o predhodnih sestavinah za prepovedane droge",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o predhodnih sestavinah za prepovedane droge",
+      "shortCode": "ZPSPD-A",
+      "kind": "zakon",
+      "keywords": [
+        "promet s prepovedanimi drogami"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3141",
+      "gazette": "Uradni list RS 65/2003  str. 10057",
+      "issuingBody": null,
+      "adoptedAt": "2003-07-04",
+      "validFrom": "2003-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3141",
+      "versions": [
+        {
+          "id": "ZPSPD-A-original",
+          "shortCode": "ZPSPD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/2003  str. 10057",
+          "publishedAt": "2003-07-04",
+          "effectiveFrom": "2003-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3141",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

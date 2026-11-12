@@ -1,0 +1,58 @@
+{
+  "root": "URED567",
+  "path": "laws/UR/URED567",
+  "members": [
+    {
+      "id": "URED567",
+      "title": "Uredba o lokacijskem načrtu za avtocesto Arja vas-Ločica pri Vranskem",
+      "shortTitle": "Uredba o lokacijskem načrtu za avtocesto Arja vas-Ločica pri Vranskem",
+      "shortCode": "URED567",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-1124",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-05-19",
+      "validFrom": "1994-05-19",
+      "validTo": null,
+      "latestPublishedAt": "1994-05-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1124",
+      "versions": [
+        {
+          "id": "URED567-original",
+          "shortCode": "URED567",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-05-19",
+          "effectiveFrom": "1994-05-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1124",
+          "proposer": null
+        },
+        {
+          "id": "URED567-npb-URED567",
+          "shortCode": "URED567-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1994-05-19",
+          "effectiveFrom": "1994-05-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED567",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

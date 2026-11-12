@@ -1,0 +1,382 @@
+{
+  "root": "ZPKEPS",
+  "path": "laws/ZP/ZPKEPS",
+  "members": [
+    {
+      "id": "ZAKO6266",
+      "title": "Zakon o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-1)",
+      "shortTitle": "Zakon o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-1)",
+      "shortCode": "ZPKEPS-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-3716",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-11-02",
+      "validFrom": "2011-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3716",
+      "versions": [
+        {
+          "id": "ZAKO6266-original",
+          "shortCode": "ZPKEPS-1",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-11-02",
+          "effectiveFrom": "2011-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-3716",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO6266-amend-ZPKEPS-1B",
+          "shortCode": "ZPKEPS-1B",
+          "label": "Sprememba ZPKEPS-1B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 90/15  str. 10117",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO6266"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3506",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO6266-amend-ZAKO7732",
+          "shortCode": "ZPKEPS-1C",
+          "label": "Sprememba ZPKEPS-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2017-11-24",
+          "effectiveFrom": "2017-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO6266"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3164",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7732",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-1C)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save (ZPKEPS-1C)",
+      "shortCode": "ZPKEPS-1C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3164",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-24",
+      "validFrom": "2017-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3164",
+      "versions": [
+        {
+          "id": "ZAKO7732-original",
+          "shortCode": "ZPKEPS-1C",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-24",
+          "effectiveFrom": "2017-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO6266"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3164",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKEPS",
+      "title": "Zakon o pogojih koncesije za izkoriščanje energetskega potenciala spodnje Save",
+      "shortTitle": "Zakon o pogojih koncesije za izkoriščanje energetskega potenciala spodnje Save",
+      "shortCode": "ZPKEPS",
+      "kind": "zakon",
+      "keywords": [
+        "koncesija za opravljanje storitev",
+        "elektrarna",
+        "raba voda",
+        "proizvodnja energije",
+        "električna energija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2751",
+      "gazette": "Uradni list RS 61/2000  str. 7686",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-06",
+      "validFrom": "2000-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2751",
+      "versions": [
+        {
+          "id": "ZPKEPS-original",
+          "shortCode": "ZPKEPS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/2000  str. 7686",
+          "publishedAt": "2000-07-06",
+          "effectiveFrom": "2000-07-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2751",
+          "proposer": null
+        },
+        {
+          "id": "ZPKEPS-amend-ZPKEPS-A",
+          "shortCode": "ZPKEPS-A",
+          "label": "Sprememba ZPKEPS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 42/2002  str. 4071",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2004",
+          "proposer": null
+        },
+        {
+          "id": "ZPKEPS-amend-ZPKEPS-B",
+          "shortCode": "ZPKEPS-B",
+          "label": "Sprememba ZPKEPS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 121/03  str. 16185",
+          "publishedAt": "2003-12-08",
+          "effectiveFrom": "2003-12-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5212",
+          "proposer": null
+        },
+        {
+          "id": "ZPKEPS-amend-ZPKEPS-C",
+          "shortCode": "ZPKEPS-C",
+          "label": "Sprememba ZPKEPS-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 91/07  str. 12150",
+          "publishedAt": "2007-10-08",
+          "effectiveFrom": "2007-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4490",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKEPS-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortCode": "ZPKEPS-1B",
+      "kind": "zakon",
+      "keywords": [
+        "energetika",
+        "koncesija za opravljanje storitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3506",
+      "gazette": "Uradni list RS 90/15  str. 10117",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-27",
+      "validFrom": "2015-11-27",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3506",
+      "versions": [
+        {
+          "id": "ZPKEPS-1B-original",
+          "shortCode": "ZPKEPS-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/15  str. 10117",
+          "publishedAt": "2015-11-27",
+          "effectiveFrom": "2015-11-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO6266"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3506",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKEPS-A",
+      "title": "Zakon o spremembah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortTitle": "Zakon o spremembah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortCode": "ZPKEPS-A",
+      "kind": "zakon",
+      "keywords": [
+        "koncesija za opravljanje storitev",
+        "koncesionar",
+        "električna energija",
+        "elektrarna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2004",
+      "gazette": "Uradni list RS 42/2002  str. 4071",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-15",
+      "validFrom": "2002-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2004",
+      "versions": [
+        {
+          "id": "ZPKEPS-A-original",
+          "shortCode": "ZPKEPS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2002  str. 4071",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2004",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKEPS-B",
+      "title": "Zakon o spremembi in dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala spodnje Save",
+      "shortTitle": "Zakon o spremembi in dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala spodnje Save",
+      "shortCode": "ZPKEPS-B",
+      "kind": "zakon",
+      "keywords": [
+        "koncesija za opravljanje storitev",
+        "elektrarna",
+        "električna energija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5212",
+      "gazette": "Uradni list RS 121/03  str. 16185",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-08",
+      "validFrom": "2003-12-08",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5212",
+      "versions": [
+        {
+          "id": "ZPKEPS-B-original",
+          "shortCode": "ZPKEPS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 121/03  str. 16185",
+          "publishedAt": "2003-12-08",
+          "effectiveFrom": "2003-12-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5212",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKEPS-C",
+      "title": "Zakon o dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortTitle": "Zakon o dopolnitvah zakona o pogojih koncesije za izkoriščanje energetskega potenciala Spodnje Save",
+      "shortCode": "ZPKEPS-C",
+      "kind": "zakon",
+      "keywords": [
+        "električna energija",
+        "koncesija za opravljanje storitev",
+        "elektrarna"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4490",
+      "gazette": "Uradni list RS 91/07  str. 12150",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-08",
+      "validFrom": "2007-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4490",
+      "versions": [
+        {
+          "id": "ZPKEPS-C-original",
+          "shortCode": "ZPKEPS-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/07  str. 12150",
+          "publishedAt": "2007-10-08",
+          "effectiveFrom": "2007-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKEPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4490",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

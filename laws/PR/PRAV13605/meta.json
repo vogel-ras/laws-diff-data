@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13605",
+  "path": "laws/PR/PRAV13605",
+  "members": [
+    {
+      "id": "PRAV13605",
+      "title": "Pravilnik o odobritvi in nalogah delavnic za tahografe in naprave za omejevanje hitrosti",
+      "shortTitle": "Pravilnik o odobritvi in nalogah delavnic za tahografe in naprave za omejevanje hitrosti",
+      "shortCode": "PRAV13605",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1043",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2019-04-12",
+      "validFrom": "2019-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1043",
+      "versions": [
+        {
+          "id": "PRAV13605-original",
+          "shortCode": "PRAV13605",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-12",
+          "effectiveFrom": "2019-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1043",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13605-npb-PRAV13605",
+          "shortCode": "PRAV13605-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-04-12",
+          "effectiveFrom": "2019-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13605",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

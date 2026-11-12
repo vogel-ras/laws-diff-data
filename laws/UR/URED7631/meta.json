@@ -1,0 +1,97 @@
+{
+  "root": "URED7631",
+  "path": "laws/UR/URED7631",
+  "members": [
+    {
+      "id": "URED7631",
+      "title": "Uredba o letni dajatvi za uporabo vozil v cestnem prometu",
+      "shortTitle": "Uredba o letni dajatvi za uporabo vozil v cestnem prometu",
+      "shortCode": "URED7631",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-1036",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-06-24",
+      "validFrom": "2024-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1036",
+      "versions": [
+        {
+          "id": "URED7631-original",
+          "shortCode": "URED7631",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-24",
+          "effectiveFrom": "2024-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1036",
+          "proposer": null
+        },
+        {
+          "id": "URED7631-npb-URED7631",
+          "shortCode": "URED7631-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-06",
+          "effectiveFrom": "2018-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7631",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8926",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o letni dajatvi za uporabo vozil v cestnem prometu",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o letni dajatvi za uporabo vozil v cestnem prometu",
+      "shortCode": "URED8926",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-1807",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-06-24",
+      "validFrom": "2024-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2024-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1807",
+      "versions": [
+        {
+          "id": "URED8926-original",
+          "shortCode": "URED8926",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-06-24",
+          "effectiveFrom": "2024-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7631"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1807",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

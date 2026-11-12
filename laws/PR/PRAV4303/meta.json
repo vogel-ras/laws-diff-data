@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4303",
+  "path": "laws/PR/PRAV4303",
+  "members": [
+    {
+      "id": "PRAV4303",
+      "title": "Pravilnik o seznamu oznak geografskega porekla za vina in druge proizvode iz grozdja in vina",
+      "shortTitle": "Pravilnik o seznamu oznak geografskega porekla za vina in druge proizvode iz grozdja in vina",
+      "shortCode": "PRAV4303",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-3262",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2002-07-30",
+      "validFrom": "2002-07-30",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3262",
+      "versions": [
+        {
+          "id": "PRAV4303-original",
+          "shortCode": "PRAV4303",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-07-30",
+          "effectiveFrom": "2002-07-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3262",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4794",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o seznamu oznak geografskega porekla za vina in druge proizvode iz grozdja in vina",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o seznamu oznak geografskega porekla za vina in druge proizvode iz grozdja in vina",
+      "shortCode": "PRAV4794",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2023",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-05-09",
+      "validFrom": "2003-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2023",
+      "versions": [
+        {
+          "id": "PRAV4794-original",
+          "shortCode": "PRAV4794",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-09",
+          "effectiveFrom": "2003-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4303"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2023",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

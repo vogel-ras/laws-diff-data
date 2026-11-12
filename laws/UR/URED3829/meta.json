@@ -1,0 +1,97 @@
+{
+  "root": "URED3829",
+  "path": "laws/UR/URED3829",
+  "members": [
+    {
+      "id": "URED3829",
+      "title": "Uredba o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o določitvi skupnih pravil glede odškodnine in pomoči potnikom v primeru zavrnitve vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) št. 295/91",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o določitvi skupnih pravil glede odškodnine in pomoči potnikom v primeru zavrnitve vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) št. 295/91",
+      "shortCode": "URED3829",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2744",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-06-30",
+      "validFrom": "2005-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2005-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2744",
+      "versions": [
+        {
+          "id": "URED3829-original",
+          "shortCode": "URED3829",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2744",
+          "proposer": null
+        },
+        {
+          "id": "URED3829-npb-URED3829",
+          "shortCode": "URED3829-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3829",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7552",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o določitvi skupnih pravil glede odškodnine in pomoči potnikom v primeru zavrnitve vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) št. 295/91",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (ES) Evropskega parlamenta in Sveta o določitvi skupnih pravil glede odškodnine in pomoči potnikom v primeru zavrnitve vkrcanja, odpovedi ali velike zamude letov ter o razveljavitvi Uredbe (EGS) št. 295/91",
+      "shortCode": "URED7552",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-2383",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2017-09-19",
+      "validFrom": "2017-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2383",
+      "versions": [
+        {
+          "id": "URED7552-original",
+          "shortCode": "URED7552",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-19",
+          "effectiveFrom": "2017-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3829"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2383",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

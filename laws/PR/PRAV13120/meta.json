@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13120",
+  "path": "laws/PR/PRAV13120",
+  "members": [
+    {
+      "id": "PRAV13120",
+      "title": "Pravilnik o časovnih normativih za posamezne storitve in sklope dimnikarskih storitev in podrobnejši vsebini cenika ter višini potnih stroškov",
+      "shortTitle": "Pravilnik o časovnih normativih za posamezne storitve in sklope dimnikarskih storitev in podrobnejši vsebini cenika ter višini potnih stroškov",
+      "shortCode": "PRAV13120",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2017-01-2326",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2017-09-08",
+      "validFrom": "2017-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2017-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2326",
+      "versions": [
+        {
+          "id": "PRAV13120-original",
+          "shortCode": "PRAV13120",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-09-08",
+          "effectiveFrom": "2017-09-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2326",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13120-npb-PRAV13120",
+          "shortCode": "PRAV13120-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-09-08",
+          "effectiveFrom": "2017-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13120",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13426",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o časovnih normativih za posamezne storitve in sklope dimnikarskih storitev in podrobnejši vsebini cenika ter višini potnih stroškov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o časovnih normativih za posamezne storitve in sklope dimnikarskih storitev in podrobnejši vsebini cenika ter višini potnih stroškov",
+      "shortCode": "PRAV13426",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-2968",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2018-09-14",
+      "validFrom": "2018-09-14",
+      "validTo": null,
+      "latestPublishedAt": "2018-09-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2968",
+      "versions": [
+        {
+          "id": "PRAV13426-original",
+          "shortCode": "PRAV13426",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-09-14",
+          "effectiveFrom": "2018-09-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13120"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-2968",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

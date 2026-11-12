@@ -1,0 +1,220 @@
+{
+  "root": "ZVNDN",
+  "path": "laws/ZV/ZVNDN",
+  "members": [
+    {
+      "id": "ZVNDN",
+      "title": "Zakon o varstvu pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Zakon o varstvu pred naravnimi in drugimi nesrečami",
+      "shortCode": "ZVNDN",
+      "kind": "zakon",
+      "keywords": [
+        "civilna zaščita",
+        "naravna nesreča"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2183",
+      "gazette": "Uradni list RS 64/94  str. 3598",
+      "issuingBody": null,
+      "adoptedAt": "1994-10-14",
+      "validFrom": "1994-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2183",
+      "versions": [
+        {
+          "id": "ZVNDN-original",
+          "shortCode": "ZVNDN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/94  str. 3598",
+          "publishedAt": "1994-10-14",
+          "effectiveFrom": "1994-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2183",
+          "proposer": null
+        },
+        {
+          "id": "ZVNDN-amend-ZVNDN-A",
+          "shortCode": "ZVNDN-A",
+          "label": "Sprememba ZVNDN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 28/06  str. 2899",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1129",
+          "proposer": null
+        },
+        {
+          "id": "ZVNDN-amend-ZVNDN-B",
+          "shortCode": "ZVNDN-B",
+          "label": "Sprememba ZVNDN-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 97/10  str. 15024",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5021",
+          "proposer": null
+        },
+        {
+          "id": "ZVNDN-amend-ZVNDN-C",
+          "shortCode": "ZVNDN-C",
+          "label": "Sprememba ZVNDN-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 117/22  str. 8346",
+          "publishedAt": "2022-09-09",
+          "effectiveFrom": "2022-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2793",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVNDN-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortCode": "ZVNDN-A",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča",
+        "civilna zaščita"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1129",
+      "gazette": "Uradni list RS 28/06  str. 2899",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-17",
+      "validFrom": "2006-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1129",
+      "versions": [
+        {
+          "id": "ZVNDN-A-original",
+          "shortCode": "ZVNDN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/06  str. 2899",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1129",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVNDN-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortCode": "ZVNDN-B",
+      "kind": "zakon",
+      "keywords": [
+        "naravna nesreča",
+        "civilna zaščita"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5021",
+      "gazette": "Uradni list RS 97/10  str. 15024",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-03",
+      "validFrom": "2010-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5021",
+      "versions": [
+        {
+          "id": "ZVNDN-B-original",
+          "shortCode": "ZVNDN-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/10  str. 15024",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5021",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVNDN-C",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o varstvu pred naravnimi in drugimi nesrečami",
+      "shortCode": "ZVNDN-C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-2793",
+      "gazette": "Uradni list RS 117/22  str. 8346",
+      "issuingBody": null,
+      "adoptedAt": "2022-09-09",
+      "validFrom": "2022-09-09",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2793",
+      "versions": [
+        {
+          "id": "ZVNDN-C-original",
+          "shortCode": "ZVNDN-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 117/22  str. 8346",
+          "publishedAt": "2022-09-09",
+          "effectiveFrom": "2022-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVNDN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2793",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

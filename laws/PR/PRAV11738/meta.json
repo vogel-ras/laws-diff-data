@@ -1,0 +1,58 @@
+{
+  "root": "PRAV11738",
+  "path": "laws/PR/PRAV11738",
+  "members": [
+    {
+      "id": "PRAV11738",
+      "title": "Pravilnik o etični komisiji za poskuse na živalih",
+      "shortTitle": "Pravilnik o etični komisiji za poskuse na živalih",
+      "shortCode": "PRAV11738",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2014-01-1294",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo in okolje",
+      "adoptedAt": "2014-04-30",
+      "validFrom": "2014-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2014-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1294",
+      "versions": [
+        {
+          "id": "PRAV11738-original",
+          "shortCode": "PRAV11738",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2014-04-30",
+          "effectiveFrom": "2014-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-1294",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11738-npb-PRAV11738",
+          "shortCode": "PRAV11738-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2014-04-30",
+          "effectiveFrom": "2014-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11738",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

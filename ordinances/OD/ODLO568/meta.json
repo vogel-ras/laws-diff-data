@@ -1,0 +1,121 @@
+{
+  "root": "ODLO568",
+  "path": "ordinances/OD/ODLO568",
+  "members": [
+    {
+      "id": "ODLO568",
+      "title": "Odlok o plačilnem prometu",
+      "shortTitle": "Odlok o plačilnem prometu",
+      "shortCode": "ODLO568",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odlok",
+      "sopNumber": "1991-01-0606",
+      "gazette": null,
+      "issuingBody": "IZVRŠNI SVET SKUPŠČINE REPUBLIKE SLOVENIJE",
+      "adoptedAt": "1991-10-08",
+      "validFrom": "1991-10-08",
+      "validTo": null,
+      "latestPublishedAt": "1991-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0606",
+      "versions": [
+        {
+          "id": "ODLO568-original",
+          "shortCode": "ODLO568",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-10-08",
+          "effectiveFrom": "1991-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0606",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO570",
+      "title": "Odlok o spremembi odloka o plačilnem prometu",
+      "shortTitle": "Odlok o spremembi odloka o plačilnem prometu",
+      "shortCode": "ODLO570",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1992-01-1622",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-06-30",
+      "validFrom": "1992-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1992-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1622",
+      "versions": [
+        {
+          "id": "ODLO570-original",
+          "shortCode": "ODLO570",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-06-30",
+          "effectiveFrom": "1992-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO568"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1622",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO571",
+      "title": "Odlok o spremembi odloka o plačilnem prometu",
+      "shortTitle": "Odlok o spremembi odloka o plačilnem prometu",
+      "shortCode": "ODLO571",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1993-01-0006",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-01-08",
+      "validFrom": "1993-01-08",
+      "validTo": null,
+      "latestPublishedAt": "1993-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0006",
+      "versions": [
+        {
+          "id": "ODLO571-original",
+          "shortCode": "ODLO571",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-01-08",
+          "effectiveFrom": "1993-01-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO568"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0006",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

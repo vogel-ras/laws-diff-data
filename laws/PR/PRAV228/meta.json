@@ -1,0 +1,82 @@
+{
+  "root": "PRAV228",
+  "path": "laws/PR/PRAV228",
+  "members": [
+    {
+      "id": "PRAV228",
+      "title": "Pravilnik o kategorizaciji, ocenjevanju mesnatosti in razvrščanju klavnih trupov prašičev",
+      "shortTitle": "Pravilnik o kategorizaciji, ocenjevanju mesnatosti in razvrščanju klavnih trupov prašičev",
+      "shortCode": "PRAV228",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0936",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-10",
+      "validFrom": "2004-03-10",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0936",
+      "versions": [
+        {
+          "id": "PRAV228-original",
+          "shortCode": "PRAV228",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-10",
+          "effectiveFrom": "2004-03-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0936",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5802",
+      "title": "Pravilnik o spremembi pravilnika o kategorizaciji, ocenjevanju mesnatosti in razvrščanju klavnih trupov prašičev",
+      "shortTitle": "Pravilnik o spremembi pravilnika o kategorizaciji, ocenjevanju mesnatosti in razvrščanju klavnih trupov prašičev",
+      "shortCode": "PRAV5802",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1443",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-04-06",
+      "validFrom": "2004-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1443",
+      "versions": [
+        {
+          "id": "PRAV5802-original",
+          "shortCode": "PRAV5802",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-04-06",
+          "effectiveFrom": "2004-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV228"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1443",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

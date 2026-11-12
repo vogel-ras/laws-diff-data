@@ -1,0 +1,82 @@
+{
+  "root": "NAVO226",
+  "path": "laws/NA/NAVO226",
+  "members": [
+    {
+      "id": "NAVO226",
+      "title": "Navodilo o pooblastilih za imenovanja in razrešitve v Slovenski vojski",
+      "shortTitle": "Navodilo o pooblastilih za imenovanja in razrešitve v Slovenski vojski",
+      "shortCode": "NAVO226",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-1308",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "1995-05-26",
+      "validFrom": "1995-05-26",
+      "validTo": null,
+      "latestPublishedAt": "1995-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1308",
+      "versions": [
+        {
+          "id": "NAVO226-original",
+          "shortCode": "NAVO226",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-05-26",
+          "effectiveFrom": "1995-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-1308",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO227",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o pooblastilih za imenovanja in razrešitve v Slovenski vojski",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o pooblastilih za imenovanja in razrešitve v Slovenski vojski",
+      "shortCode": "NAVO227",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "navodilo",
+      "sopNumber": "1995-01-3375",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "1995-12-15",
+      "validFrom": "1995-12-15",
+      "validTo": null,
+      "latestPublishedAt": "1995-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3375",
+      "versions": [
+        {
+          "id": "NAVO227-original",
+          "shortCode": "NAVO227",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1995-12-15",
+          "effectiveFrom": "1995-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO226"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-3375",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

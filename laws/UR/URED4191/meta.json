@@ -1,0 +1,82 @@
+{
+  "root": "URED4191",
+  "path": "laws/UR/URED4191",
+  "members": [
+    {
+      "id": "URED4191",
+      "title": "Uredba o koncesiji za rabo vode za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortTitle": "Uredba o koncesiji za rabo vode za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortCode": "URED4191",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4066",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-09-08",
+      "validFrom": "2006-09-08",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4066",
+      "versions": [
+        {
+          "id": "URED4191-original",
+          "shortCode": "URED4191",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-08",
+          "effectiveFrom": "2006-09-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4550",
+      "title": "Uredba o spremembah Uredbe o koncesiji za rabo vode za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortTitle": "Uredba o spremembah Uredbe o koncesiji za rabo vode za vzrejo ciprinidnih vrst rib v ribnikih, za katere je bilo pridobljeno pravnomočno uporabno dovoljenje",
+      "shortCode": "URED4550",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-2786",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-06-12",
+      "validFrom": "2007-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2786",
+      "versions": [
+        {
+          "id": "URED4550-original",
+          "shortCode": "URED4550",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-06-12",
+          "effectiveFrom": "2007-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4191"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-2786",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

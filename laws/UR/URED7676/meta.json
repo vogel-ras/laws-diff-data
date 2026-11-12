@@ -1,0 +1,97 @@
+{
+  "root": "URED7676",
+  "path": "laws/UR/URED7676",
+  "members": [
+    {
+      "id": "URED7676",
+      "title": "Uredba o načinu in pogojih izvajanja obvezne državne gospodarske javne službe za ravnanje z radioaktivnimi odpadki",
+      "shortTitle": "Uredba o načinu in pogojih izvajanja obvezne državne gospodarske javne službe za ravnanje z radioaktivnimi odpadki",
+      "shortCode": "URED7676",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-0099",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-01-17",
+      "validFrom": "2022-01-17",
+      "validTo": null,
+      "latestPublishedAt": "2022-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0099",
+      "versions": [
+        {
+          "id": "URED7676-original",
+          "shortCode": "URED7676",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-01-17",
+          "effectiveFrom": "2022-01-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0099",
+          "proposer": null
+        },
+        {
+          "id": "URED7676-npb-URED7676",
+          "shortCode": "URED7676-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-01-17",
+          "effectiveFrom": "2022-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED7676",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8987",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o načinu in pogojih izvajanja obvezne državne gospodarske javne službe za ravnanje z radioaktivnimi odpadki",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o načinu in pogojih izvajanja obvezne državne gospodarske javne službe za ravnanje z radioaktivnimi odpadki",
+      "shortCode": "URED8987",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0616",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-03-08",
+      "validFrom": "2024-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0616",
+      "versions": [
+        {
+          "id": "URED8987-original",
+          "shortCode": "URED8987",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-08",
+          "effectiveFrom": "2024-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7676"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0616",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

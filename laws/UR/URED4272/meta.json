@@ -1,0 +1,136 @@
+{
+  "root": "URED4272",
+  "path": "laws/UR/URED4272",
+  "members": [
+    {
+      "id": "URED4272",
+      "title": "Uredba o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortTitle": "Uredba o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortCode": "URED4272",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4540",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-10-13",
+      "validFrom": "2006-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4540",
+      "versions": [
+        {
+          "id": "URED4272-original",
+          "shortCode": "URED4272",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4540",
+          "proposer": null
+        },
+        {
+          "id": "URED4272-npb-URED4272",
+          "shortCode": "URED4272-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4272",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5231",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortCode": "URED5231",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-2985",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2009-08-07",
+      "validFrom": "2009-08-07",
+      "validTo": null,
+      "latestPublishedAt": "2009-08-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2985",
+      "versions": [
+        {
+          "id": "URED5231-original",
+          "shortCode": "URED5231",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-08-07",
+          "effectiveFrom": "2009-08-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4272"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2985",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9717",
+      "title": "Uredba o spremembi Uredbe o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortTitle": "Uredba o spremembi Uredbe o uporabi službenih mobilnih telefonov in storitvah mobilne telefonije v organih državne uprave",
+      "shortCode": "URED9717",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2026-01-1488",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-06-02",
+      "validFrom": "2026-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1488",
+      "versions": [
+        {
+          "id": "URED9717-original",
+          "shortCode": "URED9717",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-06-02",
+          "effectiveFrom": "2026-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4272"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1488",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

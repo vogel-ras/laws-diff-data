@@ -1,0 +1,163 @@
+{
+  "root": "ZOZKD",
+  "path": "laws/ZO/ZOZKD",
+  "members": [
+    {
+      "id": "ZOZKD",
+      "title": "Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortTitle": "Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortCode": "ZOZKD",
+      "kind": "zakon",
+      "keywords": [
+        "kaznivo dejanje",
+        "odškodnina",
+        "žrtev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4394",
+      "gazette": "Uradni list RS 101/05  str. 10605",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-11",
+      "validFrom": "2005-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4394",
+      "versions": [
+        {
+          "id": "ZOZKD-original",
+          "shortCode": "ZOZKD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/05  str. 10605",
+          "publishedAt": "2005-11-11",
+          "effectiveFrom": "2005-11-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4394",
+          "proposer": null
+        },
+        {
+          "id": "ZOZKD-amend-ZOZKD-A",
+          "shortCode": "ZOZKD-A",
+          "label": "Sprememba ZOZKD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/10  str. 13142",
+          "publishedAt": "2010-11-02",
+          "effectiveFrom": "2010-11-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOZKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4657",
+          "proposer": null
+        },
+        {
+          "id": "ZOZKD-amend-ZOZKD-B",
+          "shortCode": "ZOZKD-B",
+          "label": "Sprememba ZOZKD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 76/23  str. 6673",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOZKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2388",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOZKD-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortCode": "ZOZKD-A",
+      "kind": "zakon",
+      "keywords": [
+        "kaznivo dejanje",
+        "odškodnina",
+        "žrtev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4657",
+      "gazette": "Uradni list RS 86/10  str. 13142",
+      "issuingBody": null,
+      "adoptedAt": "2010-11-02",
+      "validFrom": "2010-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4657",
+      "versions": [
+        {
+          "id": "ZOZKD-A-original",
+          "shortCode": "ZOZKD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/10  str. 13142",
+          "publishedAt": "2010-11-02",
+          "effectiveFrom": "2010-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOZKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4657",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOZKD-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o odškodnini žrtvam kaznivih dejanj",
+      "shortCode": "ZOZKD-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2388",
+      "gazette": "Uradni list RS 76/23  str. 6673",
+      "issuingBody": null,
+      "adoptedAt": "2023-07-12",
+      "validFrom": "2023-07-12",
+      "validTo": null,
+      "latestPublishedAt": "2023-07-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2388",
+      "versions": [
+        {
+          "id": "ZOZKD-B-original",
+          "shortCode": "ZOZKD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 76/23  str. 6673",
+          "publishedAt": "2023-07-12",
+          "effectiveFrom": "2023-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOZKD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2388",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "URED6185",
+  "path": "laws/UR/URED6185",
+  "members": [
+    {
+      "id": "URED6185",
+      "title": "Uredba o Naravnem rezervatu Škocjanski zatok",
+      "shortTitle": "Uredba o Naravnem rezervatu Škocjanski zatok",
+      "shortCode": "URED6185",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2781",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-09-09",
+      "validFrom": "2013-09-09",
+      "validTo": null,
+      "latestPublishedAt": "2013-09-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2781",
+      "versions": [
+        {
+          "id": "URED6185-original",
+          "shortCode": "URED6185",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-09-09",
+          "effectiveFrom": "2013-09-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2781",
+          "proposer": null
+        },
+        {
+          "id": "URED6185-npb-URED6185",
+          "shortCode": "URED6185-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-09-09",
+          "effectiveFrom": "2013-09-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6185",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV3048",
+  "path": "laws/PR/PRAV3048",
+  "members": [
+    {
+      "id": "PRAV10200",
+      "title": "Pravilnik o spremembah Pravilnika o strokovnem svetu za zaščito živali",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o strokovnem svetu za zaščito živali",
+      "shortCode": "PRAV10200",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-3152",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-07-16",
+      "validFrom": "2010-07-16",
+      "validTo": null,
+      "latestPublishedAt": "2010-07-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3152",
+      "versions": [
+        {
+          "id": "PRAV10200-original",
+          "shortCode": "PRAV10200",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-07-16",
+          "effectiveFrom": "2010-07-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3048"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3152",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3048",
+      "title": "Pravilnik o strokovnem svetu za zaščito živali",
+      "shortTitle": "Pravilnik o strokovnem svetu za zaščito živali",
+      "shortCode": "PRAV3048",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2793",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2000-07-07",
+      "validFrom": "2000-07-07",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2793",
+      "versions": [
+        {
+          "id": "PRAV3048-original",
+          "shortCode": "PRAV3048",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-07",
+          "effectiveFrom": "2000-07-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2793",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3048-npb-PRAV3048",
+          "shortCode": "PRAV3048-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-07-07",
+          "effectiveFrom": "2000-07-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3048",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

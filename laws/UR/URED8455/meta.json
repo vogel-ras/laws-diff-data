@@ -1,0 +1,58 @@
+{
+  "root": "URED8455",
+  "path": "laws/UR/URED8455",
+  "members": [
+    {
+      "id": "URED8455",
+      "title": "Uredba o pomožni policiji",
+      "shortTitle": "Uredba o pomožni policiji",
+      "shortCode": "URED8455",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2022-01-1632",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-02-24",
+      "validFrom": "2025-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2025-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1632",
+      "versions": [
+        {
+          "id": "URED8455-original",
+          "shortCode": "URED8455",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-02-24",
+          "effectiveFrom": "2025-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-1632",
+          "proposer": null
+        },
+        {
+          "id": "URED8455-npb-URED8455",
+          "shortCode": "URED8455-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-05-20",
+          "effectiveFrom": "2022-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8455",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

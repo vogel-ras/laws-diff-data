@@ -1,0 +1,82 @@
+{
+  "root": "ODRE1448",
+  "path": "laws/OD/ODRE1448",
+  "members": [
+    {
+      "id": "ODRE1448",
+      "title": "Odredba o normativih in standardih za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami",
+      "shortTitle": "Odredba o normativih in standardih za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami",
+      "shortCode": "ODRE1448",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "1997-01-2145",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "1997-06-30",
+      "validFrom": "1997-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1997-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2145",
+      "versions": [
+        {
+          "id": "ODRE1448-original",
+          "shortCode": "ODRE1448",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-06-30",
+          "effectiveFrom": "1997-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-2145",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1656",
+      "title": "Odredba o spremembah in dopolnitvah odredbe o normativih in standardih za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami",
+      "shortTitle": "Odredba o spremembah in dopolnitvah odredbe o normativih in standardih za vzgojo in izobraževanje otrok in mladostnikov s posebnimi potrebami",
+      "shortCode": "ODRE1656",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2001-01-3275",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2001-07-27",
+      "validFrom": "2001-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3275",
+      "versions": [
+        {
+          "id": "ODRE1656-original",
+          "shortCode": "ODRE1656",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-27",
+          "effectiveFrom": "2001-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1448"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3275",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

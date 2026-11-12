@@ -1,0 +1,82 @@
+{
+  "root": "URED8988",
+  "path": "laws/UR/URED8988",
+  "members": [
+    {
+      "id": "URED8988",
+      "title": "Uredba o izvedbi intervencij kmetijske politike za leto 2024",
+      "shortTitle": "Uredba o izvedbi intervencij kmetijske politike za leto 2024",
+      "shortCode": "URED8988",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-4066",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-29",
+      "validFrom": "2024-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4066",
+      "versions": [
+        {
+          "id": "URED8988-original",
+          "shortCode": "URED8988",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-29",
+          "effectiveFrom": "2024-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4066",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9063",
+      "title": "Uredba o spremembi Uredbe o izvedbi intervencij kmetijske politike za leto 2024",
+      "shortTitle": "Uredba o spremembi Uredbe o izvedbi intervencij kmetijske politike za leto 2024",
+      "shortCode": "URED9063",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0706",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-03-22",
+      "validFrom": "2024-03-22",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0706",
+      "versions": [
+        {
+          "id": "URED9063-original",
+          "shortCode": "URED9063",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-22",
+          "effectiveFrom": "2024-03-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8988"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0706",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

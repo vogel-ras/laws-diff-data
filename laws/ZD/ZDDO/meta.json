@@ -1,0 +1,335 @@
+{
+  "root": "ZDDO",
+  "path": "laws/ZD/ZDDO",
+  "members": [
+    {
+      "id": "ZAKO280",
+      "title": "Zakon o delavcih v državnih organih (ZDDO)",
+      "shortTitle": "Zakon o delavcih v državnih organih (ZDDO)",
+      "shortCode": "ZDDO",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1990-03-0742",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1990-04-20",
+      "validFrom": "1990-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-0742",
+      "versions": [
+        {
+          "id": "ZAKO280-original",
+          "shortCode": "ZDDO",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1990-04-20",
+          "effectiveFrom": "1990-04-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1990-03-0742",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO280-amend-ZDDO-D",
+          "shortCode": "ZDDO-D",
+          "label": "Sprememba ZDDO-D",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 2/91  str. 74",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0025",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO280-amend-ZDDO-E",
+          "shortCode": "ZDDO-E",
+          "label": "Sprememba ZDDO-E",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 4/93  str. 137",
+          "publishedAt": "1993-01-16",
+          "effectiveFrom": "1993-01-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0126",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO280-amend-ZDDO-F",
+          "shortCode": "ZDDO-F",
+          "label": "Sprememba ZDDO-F",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 70/97  str. 5477",
+          "publishedAt": "1997-11-14",
+          "effectiveFrom": "1997-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3371",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO280-amend-ZDDO-G",
+          "shortCode": "ZDDO-G",
+          "label": "Sprememba ZDDO-G",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 38/99  str. 4470",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1875",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO280-amend-ZDDO-H",
+          "shortCode": "ZDDO-H",
+          "label": "Sprememba ZDDO-H",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 8/20  str. 665",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0196",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDO-D",
+      "title": "Zakon o spremembi in dopolnitvi zakona o delavcih v državnih organih",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o delavcih v državnih organih",
+      "shortCode": "ZDDO-D",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi",
+        "javni uslužbenec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0025",
+      "gazette": "Uradni list RS 2/91  str. 74",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-28",
+      "validFrom": "1991-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0025",
+      "versions": [
+        {
+          "id": "ZDDO-D-original",
+          "shortCode": "ZDDO-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/91  str. 74",
+          "publishedAt": "1991-06-28",
+          "effectiveFrom": "1991-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0025",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDO-E",
+      "title": "Zakon o spremembah zakona o delavcih v državnih organih",
+      "shortTitle": "Zakon o spremembah zakona o delavcih v državnih organih",
+      "shortCode": "ZDDO-E",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi",
+        "javni uslužbenec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0126",
+      "gazette": "Uradni list RS 4/93  str. 137",
+      "issuingBody": null,
+      "adoptedAt": "1993-01-16",
+      "validFrom": "1993-01-16",
+      "validTo": null,
+      "latestPublishedAt": "1993-01-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0126",
+      "versions": [
+        {
+          "id": "ZDDO-E-original",
+          "shortCode": "ZDDO-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 4/93  str. 137",
+          "publishedAt": "1993-01-16",
+          "effectiveFrom": "1993-01-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0126",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDO-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o delavcih v državnih organih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o delavcih v državnih organih",
+      "shortCode": "ZDDO-F",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi",
+        "javni uslužbenec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-3371",
+      "gazette": "Uradni list RS 70/97  str. 5477",
+      "issuingBody": null,
+      "adoptedAt": "1997-11-14",
+      "validFrom": "1997-11-14",
+      "validTo": null,
+      "latestPublishedAt": "1997-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3371",
+      "versions": [
+        {
+          "id": "ZDDO-F-original",
+          "shortCode": "ZDDO-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/97  str. 5477",
+          "publishedAt": "1997-11-14",
+          "effectiveFrom": "1997-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-3371",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDO-G",
+      "title": "Zakon o spremembi zakona o delavcih v državnih organih",
+      "shortTitle": "Zakon o spremembi zakona o delavcih v državnih organih",
+      "shortCode": "ZDDO-G",
+      "kind": "zakon",
+      "keywords": [
+        "državni organi",
+        "visokošolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-1875",
+      "gazette": "Uradni list RS 38/99  str. 4470",
+      "issuingBody": null,
+      "adoptedAt": "1999-05-21",
+      "validFrom": "1999-05-21",
+      "validTo": null,
+      "latestPublishedAt": "1999-05-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1875",
+      "versions": [
+        {
+          "id": "ZDDO-G-original",
+          "shortCode": "ZDDO-G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 38/99  str. 4470",
+          "publishedAt": "1999-05-21",
+          "effectiveFrom": "1999-05-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-1875",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDDO-H",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o delavcih v državnih organih",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o delavcih v državnih organih",
+      "shortCode": "ZDDO-H",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0196",
+      "gazette": "Uradni list RS 8/20  str. 665",
+      "issuingBody": null,
+      "adoptedAt": "2020-02-07",
+      "validFrom": "2020-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0196",
+      "versions": [
+        {
+          "id": "ZDDO-H-original",
+          "shortCode": "ZDDO-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/20  str. 665",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO280"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0196",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

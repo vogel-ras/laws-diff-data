@@ -1,0 +1,58 @@
+{
+  "root": "PRAV13181",
+  "path": "laws/PR/PRAV13181",
+  "members": [
+    {
+      "id": "PRAV13181",
+      "title": "Pravilnik o zaposlitvenih centrih",
+      "shortTitle": "Pravilnik o zaposlitvenih centrih",
+      "shortCode": "PRAV13181",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0298",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-19",
+      "validFrom": "2026-01-19",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0298",
+      "versions": [
+        {
+          "id": "PRAV13181-original",
+          "shortCode": "PRAV13181",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-19",
+          "effectiveFrom": "2026-01-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0298",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13181-npb-PRAV13181",
+          "shortCode": "PRAV13181-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-02-09",
+          "effectiveFrom": "2018-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13181",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

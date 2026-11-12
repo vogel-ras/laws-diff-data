@@ -1,0 +1,102 @@
+{
+  "root": "ZNPS",
+  "path": "laws/ZN/ZNPS",
+  "members": [
+    {
+      "id": "ZAKO7731",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o nagradah Republike Slovenije na področju šolstva (ZNPS-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o nagradah Republike Slovenije na področju šolstva (ZNPS-A)",
+      "shortCode": "ZNPS-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-0950",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0950",
+      "versions": [
+        {
+          "id": "ZAKO7731-original",
+          "shortCode": "ZNPS-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0950",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZNPS",
+      "title": "Zakon o nagradah Republike Slovenije na področju šolstva",
+      "shortTitle": "Zakon o nagradah Republike Slovenije na področju šolstva",
+      "shortCode": "ZNPS",
+      "kind": "zakon",
+      "keywords": [
+        "častno odlikovanje",
+        "izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-1999",
+      "gazette": "Uradni list RS 56/94  str. 3247",
+      "issuingBody": null,
+      "adoptedAt": "1994-09-23",
+      "validFrom": "1994-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1999",
+      "versions": [
+        {
+          "id": "ZNPS-original",
+          "shortCode": "ZNPS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/94  str. 3247",
+          "publishedAt": "1994-09-23",
+          "effectiveFrom": "1994-09-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1999",
+          "proposer": null
+        },
+        {
+          "id": "ZNPS-amend-ZAKO7731",
+          "shortCode": "ZNPS-A",
+          "label": "Sprememba ZNPS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZNPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0950",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

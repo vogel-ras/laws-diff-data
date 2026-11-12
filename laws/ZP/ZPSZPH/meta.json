@@ -1,0 +1,109 @@
+{
+  "root": "ZPSZPH",
+  "path": "laws/ZP/ZPSZPH",
+  "members": [
+    {
+      "id": "ZPSZPH",
+      "title": "Zakon o poroštvu Republike Slovenije za obveznosti Slovenskih železnic d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci - Hodoš - državna meja",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za obveznosti Slovenskih železnic d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci - Hodoš - državna meja",
+      "shortCode": "ZPSZPH",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "posojilo",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2113",
+      "gazette": "Uradni list RS 48/98  str. 3421",
+      "issuingBody": null,
+      "adoptedAt": "1998-06-30",
+      "validFrom": "1998-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2113",
+      "versions": [
+        {
+          "id": "ZPSZPH-original",
+          "shortCode": "ZPSZPH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/98  str. 3421",
+          "publishedAt": "1998-06-30",
+          "effectiveFrom": "1998-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2113",
+          "proposer": null
+        },
+        {
+          "id": "ZPSZPH-amend-ZPSZPH-A",
+          "shortCode": "ZPSZPH-A",
+          "label": "Sprememba ZPSZPH-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 85/2000  str. 10014",
+          "publishedAt": "2000-09-23",
+          "effectiveFrom": "2000-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSZPH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3807",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSZPH-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci-Hodoš-državna meja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o poroštvu Republike Slovenije za obveznosti Slovenskih železnic, d.d., iz naslova posojil, najetih za financiranje gradnje železniške proge v smeri Puconci-Hodoš-državna meja",
+      "shortCode": "ZPSZPH-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "železniško omrežje",
+        "posojilo",
+        "kredit",
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3807",
+      "gazette": "Uradni list RS 85/2000  str. 10014",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-23",
+      "validFrom": "2000-09-23",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3807",
+      "versions": [
+        {
+          "id": "ZPSZPH-A-original",
+          "shortCode": "ZPSZPH-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/2000  str. 10014",
+          "publishedAt": "2000-09-23",
+          "effectiveFrom": "2000-09-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSZPH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3807",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

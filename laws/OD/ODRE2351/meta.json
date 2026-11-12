@@ -1,0 +1,97 @@
+{
+  "root": "ODRE2351",
+  "path": "laws/OD/ODRE2351",
+  "members": [
+    {
+      "id": "ODRE2351",
+      "title": "Odredba o vključitvi sektorja sadja v program promocije",
+      "shortTitle": "Odredba o vključitvi sektorja sadja v program promocije",
+      "shortCode": "ODRE2351",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odredba",
+      "sopNumber": "2016-01-3241",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2016-12-02",
+      "validFrom": "2016-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3241",
+      "versions": [
+        {
+          "id": "ODRE2351-original",
+          "shortCode": "ODRE2351",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3241",
+          "proposer": null
+        },
+        {
+          "id": "ODRE2351-npb-ODRE2351",
+          "shortCode": "ODRE2351-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-12-02",
+          "effectiveFrom": "2016-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE2351",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE2426",
+      "title": "Odredba o spremembi Odredbe o vključitvi sektorja sadja v program promocije",
+      "shortTitle": "Odredba o spremembi Odredbe o vključitvi sektorja sadja v program promocije",
+      "shortCode": "ODRE2426",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "2018-01-0360",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-02-16",
+      "validFrom": "2018-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2018-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0360",
+      "versions": [
+        {
+          "id": "ODRE2426-original",
+          "shortCode": "ODRE2426",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-02-16",
+          "effectiveFrom": "2018-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE2351"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0360",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

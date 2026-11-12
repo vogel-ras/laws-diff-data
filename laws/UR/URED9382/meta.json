@@ -1,0 +1,58 @@
+{
+  "root": "URED9382",
+  "path": "laws/UR/URED9382",
+  "members": [
+    {
+      "id": "URED9382",
+      "title": "Uredba o cestninskih cestah in cestnini",
+      "shortTitle": "Uredba o cestninskih cestah in cestnini",
+      "shortCode": "URED9382",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-1893",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-06-24",
+      "validFrom": "2025-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2026-04-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1893",
+      "versions": [
+        {
+          "id": "URED9382-original",
+          "shortCode": "URED9382",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-24",
+          "effectiveFrom": "2025-06-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1893",
+          "proposer": null
+        },
+        {
+          "id": "URED9382-npb-URED9382",
+          "shortCode": "URED9382-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-04-01",
+          "effectiveFrom": "2026-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9382",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

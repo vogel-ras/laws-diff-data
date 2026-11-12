@@ -1,0 +1,82 @@
+{
+  "root": "URED1292",
+  "path": "laws/UR/URED1292",
+  "members": [
+    {
+      "id": "URED1292",
+      "title": "Uredba o predhodni prijavi cen komunalnih storitev",
+      "shortTitle": "Uredba o predhodni prijavi cen komunalnih storitev",
+      "shortCode": "URED1292",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-2516",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-06-16",
+      "validFrom": "2000-06-16",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2516",
+      "versions": [
+        {
+          "id": "URED1292-original",
+          "shortCode": "URED1292",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-16",
+          "effectiveFrom": "2000-06-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1714",
+      "title": "Uredba o spremembi uredbe o predhodni prijavi cen komunalnih storitev",
+      "shortTitle": "Uredba o spremembi uredbe o predhodni prijavi cen komunalnih storitev",
+      "shortCode": "URED1714",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-3221",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-07-20",
+      "validFrom": "2001-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3221",
+      "versions": [
+        {
+          "id": "URED1714-original",
+          "shortCode": "URED1714",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-20",
+          "effectiveFrom": "2001-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1292"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3221",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

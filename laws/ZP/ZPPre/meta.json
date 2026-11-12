@@ -1,0 +1,102 @@
+{
+  "root": "ZPPre",
+  "path": "laws/ZP/ZPPre",
+  "members": [
+    {
+      "id": "ZPPre",
+      "title": "Zakon o parlamentarni preiskavi",
+      "shortTitle": "Zakon o parlamentarni preiskavi",
+      "shortCode": "ZPPre",
+      "kind": "zakon",
+      "keywords": [
+        "parlamentarna preiskava",
+        "parlamentarni nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2285",
+      "gazette": "Uradni list RS 63/93  str. 3037",
+      "issuingBody": null,
+      "adoptedAt": "1993-11-19",
+      "validFrom": "1993-11-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2285",
+      "versions": [
+        {
+          "id": "ZPPre-original",
+          "shortCode": "ZPPre",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/93  str. 3037",
+          "publishedAt": "1993-11-19",
+          "effectiveFrom": "1993-11-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2285",
+          "proposer": null
+        },
+        {
+          "id": "ZPPre-amend-ZPPre-A",
+          "shortCode": "ZPPre-A",
+          "label": "Sprememba ZPPre-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 108/24  str. 12435",
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3432",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPre-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o parlamentarni preiskavi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o parlamentarni preiskavi",
+      "shortCode": "ZPPre-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3432",
+      "gazette": "Uradni list RS 108/24  str. 12435",
+      "issuingBody": null,
+      "adoptedAt": "2024-12-20",
+      "validFrom": "2024-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2024-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3432",
+      "versions": [
+        {
+          "id": "ZPPre-A-original",
+          "shortCode": "ZPPre-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/24  str. 12435",
+          "publishedAt": "2024-12-20",
+          "effectiveFrom": "2024-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPre"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3432",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

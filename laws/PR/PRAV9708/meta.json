@@ -1,0 +1,82 @@
+{
+  "root": "PRAV9708",
+  "path": "laws/PR/PRAV9708",
+  "members": [
+    {
+      "id": "PRAV16149",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o zagotavljanju pravne pomoči policistom",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o zagotavljanju pravne pomoči policistom",
+      "shortCode": "PRAV16149",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-1490",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-06-03",
+      "validFrom": "2026-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2026-06-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1490",
+      "versions": [
+        {
+          "id": "PRAV16149-original",
+          "shortCode": "PRAV16149",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-06-03",
+          "effectiveFrom": "2026-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9708"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-1490",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9708",
+      "title": "Pravilnik o zagotavljanju pravne pomoči policistom",
+      "shortTitle": "Pravilnik o zagotavljanju pravne pomoči policistom",
+      "shortCode": "PRAV9708",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3187",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2009-09-18",
+      "validFrom": "2009-09-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3187",
+      "versions": [
+        {
+          "id": "PRAV9708-original",
+          "shortCode": "PRAV9708",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-18",
+          "effectiveFrom": "2009-09-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3187",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

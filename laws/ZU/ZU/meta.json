@@ -1,0 +1,105 @@
+{
+  "root": "ZU",
+  "path": "laws/ZU/ZU",
+  "members": [
+    {
+      "id": "ZU",
+      "title": "Zakon o ustanovah",
+      "shortTitle": "Zakon o ustanovah",
+      "shortCode": "ZU",
+      "kind": "zakon",
+      "keywords": [
+        "javna ustanova",
+        "pravna oseba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2788",
+      "gazette": "Uradni list RS 60/95  str. 4742",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-20",
+      "validFrom": "1995-10-20",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2788",
+      "versions": [
+        {
+          "id": "ZU-original",
+          "shortCode": "ZU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/95  str. 4742",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2788",
+          "proposer": null
+        },
+        {
+          "id": "ZU-amend-ZU-A",
+          "shortCode": "ZU-A",
+          "label": "Sprememba ZU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 53/05  str. 5210",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2218",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZU-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o ustanovah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o ustanovah",
+      "shortCode": "ZU-A",
+      "kind": "zakon",
+      "keywords": [
+        "javna ustanova",
+        "pravna oseba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2218",
+      "gazette": "Uradni list RS 53/05  str. 5210",
+      "issuingBody": null,
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2218",
+      "versions": [
+        {
+          "id": "ZU-A-original",
+          "shortCode": "ZU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 53/05  str. 5210",
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2218",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

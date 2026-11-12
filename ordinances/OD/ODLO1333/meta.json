@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1333",
+  "path": "ordinances/OD/ODLO1333",
+  "members": [
+    {
+      "id": "ODLO1333",
+      "title": "Odlok o razglasitvi Palače občine v Kranju za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Palače občine v Kranju za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1333",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2003-01-5035",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-11-24",
+      "validFrom": "2003-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2003-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5035",
+      "versions": [
+        {
+          "id": "ODLO1333-original",
+          "shortCode": "ODLO1333",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-11-24",
+          "effectiveFrom": "2003-11-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5035",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1333-npb-ODLO1333",
+          "shortCode": "ODLO1333-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-11-24",
+          "effectiveFrom": "2003-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1333",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "OdRNPD11",
+  "path": "ordinances/OD/OdRNPD11",
+  "members": [
+    {
+      "id": "ODLO1620",
+      "title": "Odlok o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2011 (OdRNPD11)",
+      "shortTitle": "Odlok o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2011 (OdRNPD11)",
+      "shortCode": "OdRNPD11",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2009-01-4253",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2009-11-30",
+      "validFrom": "2009-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4253",
+      "versions": [
+        {
+          "id": "ODLO1620-original",
+          "shortCode": "OdRNPD11",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-11-30",
+          "effectiveFrom": "2009-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4253",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1620-amend-ODLO1647",
+          "shortCode": "OdRNPD11-A",
+          "label": "Sprememba OdRNPD11-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-12-01",
+          "effectiveFrom": "2010-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1620"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5015",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO1647",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2011 (OdRNPD11-A)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o Letnem načrtu razpolaganja z nepremičnim premoženjem države v posamični vrednosti nad 300.000 EUR za organe državne uprave in za pravosodne organe za leto 2011 (OdRNPD11-A)",
+      "shortCode": "OdRNPD11-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2010-01-5015",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-12-01",
+      "validFrom": "2010-12-01",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5015",
+      "versions": [
+        {
+          "id": "ODLO1647-original",
+          "shortCode": "OdRNPD11-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-12-01",
+          "effectiveFrom": "2010-12-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1620"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5015",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10607",
+  "path": "laws/PR/PRAV10607",
+  "members": [
+    {
+      "id": "PRAV10607",
+      "title": "Pravilnik o ekstrakcijskih topilih",
+      "shortTitle": "Pravilnik o ekstrakcijskih topilih",
+      "shortCode": "PRAV10607",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0970",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-03-31",
+      "validFrom": "2011-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0970",
+      "versions": [
+        {
+          "id": "PRAV10607-original",
+          "shortCode": "PRAV10607",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-03-31",
+          "effectiveFrom": "2011-03-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0970",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10607-npb-PRAV10607",
+          "shortCode": "PRAV10607-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-03-31",
+          "effectiveFrom": "2011-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10607",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

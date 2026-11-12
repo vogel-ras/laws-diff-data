@@ -1,0 +1,97 @@
+{
+  "root": "PRAV7371",
+  "path": "laws/PR/PRAV7371",
+  "members": [
+    {
+      "id": "PRAV13417",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in tehničnih zahtevah sistema kakovosti za transfuzijsko dejavnost",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o standardih in tehničnih zahtevah sistema kakovosti za transfuzijsko dejavnost",
+      "shortCode": "PRAV13417",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-0897",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-30",
+      "validFrom": "2018-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0897",
+      "versions": [
+        {
+          "id": "PRAV13417-original",
+          "shortCode": "PRAV13417",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-30",
+          "effectiveFrom": "2018-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7371"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0897",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7371",
+      "title": "Pravilnik o standardih in tehničnih zahtevah sistema kakovosti za transfuzijsko dejavnost",
+      "shortTitle": "Pravilnik o standardih in tehničnih zahtevah sistema kakovosti za transfuzijsko dejavnost",
+      "shortCode": "PRAV7371",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-0402",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravje",
+      "adoptedAt": "2007-02-02",
+      "validFrom": "2007-02-02",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0402",
+      "versions": [
+        {
+          "id": "PRAV7371-original",
+          "shortCode": "PRAV7371",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0402",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7371-npb-PRAV7371",
+          "shortCode": "PRAV7371-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-02-02",
+          "effectiveFrom": "2007-02-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7371",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

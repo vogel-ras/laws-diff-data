@@ -1,0 +1,340 @@
+{
+  "root": "ZPSPID",
+  "path": "laws/ZP/ZPSPID",
+  "members": [
+    {
+      "id": "ZAKO9300",
+      "title": "Zakon o spremembah in dopolnitvi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-E)",
+      "shortTitle": "Zakon o spremembah in dopolnitvi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb (ZPSPID-E)",
+      "shortCode": "ZPSPID-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0556",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-25",
+      "validFrom": "2026-02-25",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0556",
+      "versions": [
+        {
+          "id": "ZAKO9300-original",
+          "shortCode": "ZPSPID-E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0556",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPID",
+      "title": "Zakon o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortCode": "ZPSPID",
+      "kind": "zakon",
+      "keywords": [
+        "investicijska družba",
+        "sistem pokojninskega zavarovanja",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-2368",
+      "gazette": "Uradni list RS 50/99  str. 6225",
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2368",
+      "versions": [
+        {
+          "id": "ZPSPID-original",
+          "shortCode": "ZPSPID",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 50/99  str. 6225",
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2368",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPID-amend-ZPSPID-A",
+          "shortCode": "ZPSPID-A",
+          "label": "Sprememba ZPSPID-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 58/2002  str. 6065",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2812",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPID-amend-ZPSPID-B",
+          "shortCode": "ZPSPID-B",
+          "label": "Sprememba ZPSPID-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 61/04  str. 7865",
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2801",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPID-amend-ZPSPID-C",
+          "shortCode": "ZPSPID-C",
+          "label": "Sprememba ZPSPID-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 85/09  str. 11363",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3794",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPID-amend-ZPSPID-D",
+          "shortCode": "ZPSPID-D",
+          "label": "Sprememba ZPSPID-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 32/16  str. 4624",
+          "publishedAt": "2016-05-06",
+          "effectiveFrom": "2016-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1363",
+          "proposer": null
+        },
+        {
+          "id": "ZPSPID-amend-ZAKO9300",
+          "shortCode": "ZPSPID-E",
+          "label": "Sprememba ZPSPID-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2026-02-25",
+          "effectiveFrom": "2026-02-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0556",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPID-A",
+      "title": "Zakon o spremembah zakona o prvem pokojninskem skladu in preoblikovanju pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o spremembah zakona o prvem pokojninskem skladu in preoblikovanju pooblaščenih investicijskih družb",
+      "shortCode": "ZPSPID-A",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "investicijska družba",
+        "sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2812",
+      "gazette": "Uradni list RS 58/2002  str. 6065",
+      "issuingBody": null,
+      "adoptedAt": "2002-07-04",
+      "validFrom": "2002-07-04",
+      "validTo": null,
+      "latestPublishedAt": "2002-07-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2812",
+      "versions": [
+        {
+          "id": "ZPSPID-A-original",
+          "shortCode": "ZPSPID-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/2002  str. 6065",
+          "publishedAt": "2002-07-04",
+          "effectiveFrom": "2002-07-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2812",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPID-B",
+      "title": "Zakon o dopolnitvah zakona o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o dopolnitvah zakona o prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortCode": "ZPSPID-B",
+      "kind": "zakon",
+      "keywords": [
+        "investicijska družba",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2801",
+      "gazette": "Uradni list RS 61/04  str. 7865",
+      "issuingBody": null,
+      "adoptedAt": "2004-06-04",
+      "validFrom": "2004-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2801",
+      "versions": [
+        {
+          "id": "ZPSPID-B-original",
+          "shortCode": "ZPSPID-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/04  str. 7865",
+          "publishedAt": "2004-06-04",
+          "effectiveFrom": "2004-06-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2801",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPID-C",
+      "title": "Zakon o spremembi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o spremembi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortCode": "ZPSPID-C",
+      "kind": "zakon",
+      "keywords": [
+        "sklad",
+        "investicijska družba",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-3794",
+      "gazette": "Uradni list RS 85/09  str. 11363",
+      "issuingBody": null,
+      "adoptedAt": "2009-10-30",
+      "validFrom": "2009-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3794",
+      "versions": [
+        {
+          "id": "ZPSPID-C-original",
+          "shortCode": "ZPSPID-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/09  str. 11363",
+          "publishedAt": "2009-10-30",
+          "effectiveFrom": "2009-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3794",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSPID-D",
+      "title": "Zakon o spremembi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortTitle": "Zakon o spremembi Zakona o Prvem pokojninskem skladu Republike Slovenije in preoblikovanju pooblaščenih investicijskih družb",
+      "shortCode": "ZPSPID-D",
+      "kind": "zakon",
+      "keywords": [
+        "investicijska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1363",
+      "gazette": "Uradni list RS 32/16  str. 4624",
+      "issuingBody": null,
+      "adoptedAt": "2016-05-06",
+      "validFrom": "2016-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1363",
+      "versions": [
+        {
+          "id": "ZPSPID-D-original",
+          "shortCode": "ZPSPID-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/16  str. 4624",
+          "publishedAt": "2016-05-06",
+          "effectiveFrom": "2016-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSPID"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1363",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

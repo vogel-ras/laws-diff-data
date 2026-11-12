@@ -1,0 +1,121 @@
+{
+  "root": "PRAV5575",
+  "path": "laws/PR/PRAV5575",
+  "members": [
+    {
+      "id": "PRAV5575",
+      "title": "Pravilnik o reševanju pritožb",
+      "shortTitle": "Pravilnik o reševanju pritožb",
+      "shortCode": "PRAV5575",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0021",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2004-01-09",
+      "validFrom": "2004-01-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-01-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0021",
+      "versions": [
+        {
+          "id": "PRAV5575-original",
+          "shortCode": "PRAV5575",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-01-09",
+          "effectiveFrom": "2004-01-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0021",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6542",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o reševanju pritožb",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o reševanju pritožb",
+      "shortCode": "PRAV6542",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-5160",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2005-12-23",
+      "validFrom": "2005-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5160",
+      "versions": [
+        {
+          "id": "PRAV6542-original",
+          "shortCode": "PRAV6542",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-23",
+          "effectiveFrom": "2005-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5575"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5160",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7850",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o reševanju pritožb",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o reševanju pritožb",
+      "shortCode": "PRAV7850",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4728",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-10-27",
+      "validFrom": "2006-10-27",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4728",
+      "versions": [
+        {
+          "id": "PRAV7850-original",
+          "shortCode": "PRAV7850",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-27",
+          "effectiveFrom": "2006-10-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5575"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4728",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

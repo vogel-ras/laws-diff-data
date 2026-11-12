@@ -1,0 +1,219 @@
+{
+  "root": "ZUL",
+  "path": "laws/ZU/ZUL",
+  "members": [
+    {
+      "id": "ZUL",
+      "title": "Zakon o Uradnem listu Republike Slovenije",
+      "shortTitle": "Zakon o Uradnem listu Republike Slovenije",
+      "shortCode": "ZUL",
+      "kind": "zakon",
+      "keywords": [
+        "uradni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-3317",
+      "gazette": "Uradni list RS 57/96  str. 4767",
+      "issuingBody": null,
+      "adoptedAt": "1996-10-19",
+      "validFrom": "1996-10-19",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3317",
+      "versions": [
+        {
+          "id": "ZUL-original",
+          "shortCode": "ZUL",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/96  str. 4767",
+          "publishedAt": "1996-10-19",
+          "effectiveFrom": "1996-10-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3317",
+          "proposer": null
+        },
+        {
+          "id": "ZUL-amend-ZUL-A",
+          "shortCode": "ZUL-A",
+          "label": "Sprememba ZUL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 90/05  str. 9234",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3852",
+          "proposer": null
+        },
+        {
+          "id": "ZUL-amend-ZUL-B",
+          "shortCode": "ZUL-B",
+          "label": "Sprememba ZUL-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 102/07  str. 13772",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5071",
+          "proposer": null
+        },
+        {
+          "id": "ZUL-amend-ZUL-C",
+          "shortCode": "ZUL-C",
+          "label": "Sprememba ZUL-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 109/09  str. 14871",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4929",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUL-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Uradnem listu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Uradnem listu Republike Slovenije",
+      "shortCode": "ZUL-A",
+      "kind": "zakon",
+      "keywords": [
+        "uradni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3852",
+      "gazette": "Uradni list RS 90/05  str. 9234",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-10",
+      "validFrom": "2005-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3852",
+      "versions": [
+        {
+          "id": "ZUL-A-original",
+          "shortCode": "ZUL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/05  str. 9234",
+          "publishedAt": "2005-10-10",
+          "effectiveFrom": "2005-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3852",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUL-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o Uradnem listu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o Uradnem listu Republike Slovenije",
+      "shortCode": "ZUL-B",
+      "kind": "zakon",
+      "keywords": [
+        "uradni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-5071",
+      "gazette": "Uradni list RS 102/07  str. 13772",
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5071",
+      "versions": [
+        {
+          "id": "ZUL-B-original",
+          "shortCode": "ZUL-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/07  str. 13772",
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5071",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUL-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Uradnem listu Republike Slovenije",
+      "shortCode": "ZUL-C",
+      "kind": "zakon",
+      "keywords": [
+        "uradni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4929",
+      "gazette": "Uradni list RS 109/09  str. 14871",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4929",
+      "versions": [
+        {
+          "id": "ZUL-C-original",
+          "shortCode": "ZUL-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/09  str. 14871",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4929",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

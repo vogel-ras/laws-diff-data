@@ -1,0 +1,97 @@
+{
+  "root": "URED8841",
+  "path": "laws/UR/URED8841",
+  "members": [
+    {
+      "id": "URED8841",
+      "title": "Uredba o izvajanju lokalnega razvoja, ki ga vodi skupnost, iz Evropskega sklada za pomorstvo, ribištvo in akvakulturo, v programskem obdobju 2021–2027",
+      "shortTitle": "Uredba o izvajanju lokalnega razvoja, ki ga vodi skupnost, iz Evropskega sklada za pomorstvo, ribištvo in akvakulturo, v programskem obdobju 2021–2027",
+      "shortCode": "URED8841",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2023-01-2375",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-03-16",
+      "validFrom": "2026-03-16",
+      "validTo": null,
+      "latestPublishedAt": "2026-03-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2375",
+      "versions": [
+        {
+          "id": "URED8841-original",
+          "shortCode": "URED8841",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-03-16",
+          "effectiveFrom": "2026-03-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2375",
+          "proposer": null
+        },
+        {
+          "id": "URED8841-npb-URED8841",
+          "shortCode": "URED8841-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-03-14",
+          "effectiveFrom": "2026-03-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED8841",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9049",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju lokalnega razvoja, ki ga vodi skupnost iz Evropskega sklada za pomorstvo, ribištvo in akvakulturo, v programskem obdobju 2021–2027",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju lokalnega razvoja, ki ga vodi skupnost iz Evropskega sklada za pomorstvo, ribištvo in akvakulturo, v programskem obdobju 2021–2027",
+      "shortCode": "URED9049",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0920",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-04-12",
+      "validFrom": "2024-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0920",
+      "versions": [
+        {
+          "id": "URED9049-original",
+          "shortCode": "URED9049",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED8841"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0920",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

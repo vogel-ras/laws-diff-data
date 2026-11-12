@@ -1,0 +1,136 @@
+{
+  "root": "URED5828",
+  "path": "laws/UR/URED5828",
+  "members": [
+    {
+      "id": "URED5828",
+      "title": "Uredba o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortTitle": "Uredba o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortCode": "URED5828",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2011-01-4199",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2011-12-02",
+      "validFrom": "2011-12-02",
+      "validTo": null,
+      "latestPublishedAt": "2011-12-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4199",
+      "versions": [
+        {
+          "id": "URED5828-original",
+          "shortCode": "URED5828",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-12-02",
+          "effectiveFrom": "2011-12-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-4199",
+          "proposer": null
+        },
+        {
+          "id": "URED5828-npb-URED5828",
+          "shortCode": "URED5828-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2011-12-02",
+          "effectiveFrom": "2011-12-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED5828",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6387",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortCode": "URED6387",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-3389",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-11-11",
+      "validFrom": "2013-11-11",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3389",
+      "versions": [
+        {
+          "id": "URED6387-original",
+          "shortCode": "URED6387",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-11-11",
+          "effectiveFrom": "2013-11-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5828"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3389",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7400",
+      "title": "Uredba o spremembah Uredbe o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortTitle": "Uredba o spremembah Uredbe o vodovarstvenem območju za vodna telesa vodonosnikov za območja občin Šmartno ob Paki, Polzela in Braslovče",
+      "shortCode": "URED7400",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-3648",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2016-12-23",
+      "validFrom": "2016-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2016-12-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3648",
+      "versions": [
+        {
+          "id": "URED7400-original",
+          "shortCode": "URED7400",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-12-23",
+          "effectiveFrom": "2016-12-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED5828"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-3648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "root": "PRAV9214",
+  "path": "laws/PR/PRAV9214",
+  "members": [
+    {
+      "id": "PRAV11351",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju dela v splošno korist",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o izvrševanju dela v splošno korist",
+      "shortCode": "PRAV11351",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-1928",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje in javno upravo",
+      "adoptedAt": "2012-06-19",
+      "validFrom": "2012-06-19",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1928",
+      "versions": [
+        {
+          "id": "PRAV11351-original",
+          "shortCode": "PRAV11351",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-06-19",
+          "effectiveFrom": "2012-06-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9214"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1928",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9214",
+      "title": "Pravilnik o izvrševanju dela v splošno korist",
+      "shortTitle": "Pravilnik o izvrševanju dela v splošno korist",
+      "shortCode": "PRAV9214",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-4697",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-13",
+      "validFrom": "2026-02-13",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4697",
+      "versions": [
+        {
+          "id": "PRAV9214-original",
+          "shortCode": "PRAV9214",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-13",
+          "effectiveFrom": "2026-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-4697",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9214-npb-PRAV9214",
+          "shortCode": "PRAV9214-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-04-01",
+          "effectiveFrom": "2018-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9214",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

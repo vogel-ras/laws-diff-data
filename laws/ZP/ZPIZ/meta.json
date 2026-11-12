@@ -1,0 +1,1280 @@
+{
+  "root": "ZPIZ",
+  "path": "laws/ZP/ZPIZ",
+  "members": [
+    {
+      "id": "ZAKO7693",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2D)",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2D)",
+      "shortCode": "ZPIZ-2D",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-2004",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-07-20",
+      "validFrom": "2017-07-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-07-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2004",
+      "versions": [
+        {
+          "id": "ZAKO7693-original",
+          "shortCode": "ZPIZ-2D",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2004",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZAKO7730",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2E)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju (ZPIZ-2E)",
+      "shortCode": "ZPIZ-2E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3064",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-11-17",
+      "validFrom": "2017-11-17",
+      "validTo": null,
+      "latestPublishedAt": "2017-11-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3064",
+      "versions": [
+        {
+          "id": "ZAKO7730-original",
+          "shortCode": "ZPIZ-2E",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-11-17",
+          "effectiveFrom": "2017-11-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3064",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ",
+      "title": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1992-01-0632",
+      "gazette": "Uradni list RS 12/92  str. 741",
+      "issuingBody": null,
+      "adoptedAt": "1992-03-13",
+      "validFrom": "1992-03-13",
+      "validTo": null,
+      "latestPublishedAt": "1998-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0632",
+      "versions": [
+        {
+          "id": "ZPIZ-original",
+          "shortCode": "ZPIZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/92  str. 741",
+          "publishedAt": "1992-03-13",
+          "effectiveFrom": "1992-03-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0632",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-amend-ZPIZ-A",
+          "shortCode": "ZPIZ-A",
+          "label": "Sprememba ZPIZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 5/94  str. 233",
+          "publishedAt": "1994-02-04",
+          "effectiveFrom": "1994-02-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0232",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-amend-ZPIZ-B",
+          "shortCode": "ZPIZ-B",
+          "label": "Sprememba ZPIZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 7/96  str. 537",
+          "publishedAt": "1996-02-07",
+          "effectiveFrom": "1996-02-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0330",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-amend-ZPIZ-C",
+          "shortCode": "ZPIZ-C",
+          "label": "Sprememba ZPIZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 54/98  str. 3925",
+          "publishedAt": "1998-07-31",
+          "effectiveFrom": "1998-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2417",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1",
+      "title": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4965",
+      "gazette": "Uradni list RS 106/99  str. 16297",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-23",
+      "validFrom": "1999-12-23",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4965",
+      "versions": [
+        {
+          "id": "ZPIZ-1-original",
+          "shortCode": "ZPIZ-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 106/99  str. 16297",
+          "publishedAt": "1999-12-23",
+          "effectiveFrom": "1999-12-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4965",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1A",
+          "shortCode": "ZPIZ-1A",
+          "label": "Sprememba ZPIZ-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 72/2000  str. 8953",
+          "publishedAt": "2000-08-11",
+          "effectiveFrom": "2000-08-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3390",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1B",
+          "shortCode": "ZPIZ-1B",
+          "label": "Sprememba ZPIZ-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 124/2000  str. 13693",
+          "publishedAt": "2000-12-29",
+          "effectiveFrom": "2000-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5205",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1C",
+          "shortCode": "ZPIZ-1C",
+          "label": "Sprememba ZPIZ-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 109/2001  str. 11993",
+          "publishedAt": "2001-12-28",
+          "effectiveFrom": "2001-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5320",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1D",
+          "shortCode": "ZPIZ-1D",
+          "label": "Sprememba ZPIZ-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 108/2002  str. 12911",
+          "publishedAt": "2002-12-12",
+          "effectiveFrom": "2002-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5314",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1E",
+          "shortCode": "ZPIZ-1E",
+          "label": "Sprememba ZPIZ-1E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 135/03  str. 20096",
+          "publishedAt": "2003-12-31",
+          "effectiveFrom": "2003-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5963",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1F",
+          "shortCode": "ZPIZ-1F",
+          "label": "Sprememba ZPIZ-1F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 72/05  str. 7685",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3214",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-1-amend-ZPIZ-1G",
+          "shortCode": "ZPIZ-1G",
+          "label": "Sprememba ZPIZ-1G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 69/06  str. 7225",
+          "publishedAt": "2006-07-03",
+          "effectiveFrom": "2006-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1A",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje",
+        "azbest"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3390",
+      "gazette": "Uradni list RS 72/2000  str. 8953",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-11",
+      "validFrom": "2000-08-11",
+      "validTo": null,
+      "latestPublishedAt": "2000-08-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3390",
+      "versions": [
+        {
+          "id": "ZPIZ-1A-original",
+          "shortCode": "ZPIZ-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/2000  str. 8953",
+          "publishedAt": "2000-08-11",
+          "effectiveFrom": "2000-08-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3390",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1B",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-5205",
+      "gazette": "Uradni list RS 124/2000  str. 13693",
+      "issuingBody": null,
+      "adoptedAt": "2000-12-29",
+      "validFrom": "2000-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5205",
+      "versions": [
+        {
+          "id": "ZPIZ-1B-original",
+          "shortCode": "ZPIZ-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 124/2000  str. 13693",
+          "publishedAt": "2000-12-29",
+          "effectiveFrom": "2000-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5205",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1C",
+      "kind": "zakon",
+      "keywords": [
+        "železniški promet"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-5320",
+      "gazette": "Uradni list RS 109/2001  str. 11993",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-28",
+      "validFrom": "2001-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5320",
+      "versions": [
+        {
+          "id": "ZPIZ-1C-original",
+          "shortCode": "ZPIZ-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/2001  str. 11993",
+          "publishedAt": "2001-12-28",
+          "effectiveFrom": "2001-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-5320",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1D",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5314",
+      "gazette": "Uradni list RS 108/2002  str. 12911",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-12",
+      "validFrom": "2002-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5314",
+      "versions": [
+        {
+          "id": "ZPIZ-1D-original",
+          "shortCode": "ZPIZ-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/2002  str. 12911",
+          "publishedAt": "2002-12-12",
+          "effectiveFrom": "2002-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5314",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1E",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5963",
+      "gazette": "Uradni list RS 135/03  str. 20096",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-31",
+      "validFrom": "2003-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5963",
+      "versions": [
+        {
+          "id": "ZPIZ-1E-original",
+          "shortCode": "ZPIZ-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 135/03  str. 20096",
+          "publishedAt": "2003-12-31",
+          "effectiveFrom": "2003-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5963",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1F",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3214",
+      "gazette": "Uradni list RS 72/05  str. 7685",
+      "issuingBody": null,
+      "adoptedAt": "2005-07-29",
+      "validFrom": "2005-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3214",
+      "versions": [
+        {
+          "id": "ZPIZ-1F-original",
+          "shortCode": "ZPIZ-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/05  str. 7685",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3214",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-1G",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-1G",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2976",
+      "gazette": "Uradni list RS 69/06  str. 7225",
+      "issuingBody": null,
+      "adoptedAt": "2006-07-03",
+      "validFrom": "2006-07-03",
+      "validTo": null,
+      "latestPublishedAt": "2006-07-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2976",
+      "versions": [
+        {
+          "id": "ZPIZ-1G-original",
+          "shortCode": "ZPIZ-1G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 69/06  str. 7225",
+          "publishedAt": "2006-07-03",
+          "effectiveFrom": "2006-07-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2976",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2",
+      "title": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3693",
+      "gazette": "Uradni list RS 96/12  str. 9817",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-14",
+      "validFrom": "2012-12-14",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3693",
+      "versions": [
+        {
+          "id": "ZPIZ-2-original",
+          "shortCode": "ZPIZ-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/12  str. 9817",
+          "publishedAt": "2012-12-14",
+          "effectiveFrom": "2012-12-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3693",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2A",
+          "shortCode": "ZPIZ-2A",
+          "label": "Sprememba ZPIZ-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/13  str. 4667",
+          "publishedAt": "2013-05-06",
+          "effectiveFrom": "2013-05-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1516",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2B",
+          "shortCode": "ZPIZ-2B",
+          "label": "Sprememba ZPIZ-2B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 102/15  str. 13132",
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4087",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2C",
+          "shortCode": "ZPIZ-2C",
+          "label": "Sprememba ZPIZ-2C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 23/17  str. 3440",
+          "publishedAt": "2017-05-05",
+          "effectiveFrom": "2017-05-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1209",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZAKO7693",
+          "shortCode": "ZPIZ-2D",
+          "label": "Sprememba ZPIZ-2D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": null,
+          "publishedAt": "2017-07-20",
+          "effectiveFrom": "2017-07-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-2004",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZAKO7730",
+          "shortCode": "ZPIZ-2E",
+          "label": "Sprememba ZPIZ-2E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": null,
+          "publishedAt": "2017-11-17",
+          "effectiveFrom": "2017-11-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3064",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2F",
+          "shortCode": "ZPIZ-2F",
+          "label": "Sprememba ZPIZ-2F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 28/19  str. 3416",
+          "publishedAt": "2019-05-03",
+          "effectiveFrom": "2019-05-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1328",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2G",
+          "shortCode": "ZPIZ-2G",
+          "label": "Sprememba ZPIZ-2G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 75/19  str. 9654",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3306",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2I",
+          "shortCode": "ZPIZ-2I",
+          "label": "Sprememba ZPIZ-2I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 51/21  str. 2962",
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0969",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2J",
+          "shortCode": "ZPIZ-2J",
+          "label": "Sprememba ZPIZ-2J",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 121/21  str. 7510",
+          "publishedAt": "2021-07-23",
+          "effectiveFrom": "2021-07-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2574",
+          "proposer": null
+        },
+        {
+          "id": "ZPIZ-2-amend-ZPIZ-2N",
+          "shortCode": "ZPIZ-2N",
+          "label": "Sprememba ZPIZ-2N",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 133/23  str. 12302",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4098",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2A",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja",
+        "invalidsko zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1516",
+      "gazette": "Uradni list RS 39/13  str. 4667",
+      "issuingBody": null,
+      "adoptedAt": "2013-05-06",
+      "validFrom": "2013-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1516",
+      "versions": [
+        {
+          "id": "ZPIZ-2A-original",
+          "shortCode": "ZPIZ-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/13  str. 4667",
+          "publishedAt": "2013-05-06",
+          "effectiveFrom": "2013-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1516",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2B",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-4087",
+      "gazette": "Uradni list RS 102/15  str. 13132",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-24",
+      "validFrom": "2015-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4087",
+      "versions": [
+        {
+          "id": "ZPIZ-2B-original",
+          "shortCode": "ZPIZ-2B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102/15  str. 13132",
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4087",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2C",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-1209",
+      "gazette": "Uradni list RS 23/17  str. 3440",
+      "issuingBody": null,
+      "adoptedAt": "2017-05-05",
+      "validFrom": "2017-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2017-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1209",
+      "versions": [
+        {
+          "id": "ZPIZ-2C-original",
+          "shortCode": "ZPIZ-2C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/17  str. 3440",
+          "publishedAt": "2017-05-05",
+          "effectiveFrom": "2017-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1209",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2F",
+      "title": "Zakon o spremembi Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembi Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2F",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1328",
+      "gazette": "Uradni list RS 28/19  str. 3416",
+      "issuingBody": null,
+      "adoptedAt": "2019-05-03",
+      "validFrom": "2019-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2019-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1328",
+      "versions": [
+        {
+          "id": "ZPIZ-2F-original",
+          "shortCode": "ZPIZ-2F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/19  str. 3416",
+          "publishedAt": "2019-05-03",
+          "effectiveFrom": "2019-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1328",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2G",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3306",
+      "gazette": "Uradni list RS 75/19  str. 9654",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-12",
+      "validFrom": "2019-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3306",
+      "versions": [
+        {
+          "id": "ZPIZ-2G-original",
+          "shortCode": "ZPIZ-2G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 75/19  str. 9654",
+          "publishedAt": "2019-12-12",
+          "effectiveFrom": "2019-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3306",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2I",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0969",
+      "gazette": "Uradni list RS 51/21  str. 2962",
+      "issuingBody": null,
+      "adoptedAt": "2021-04-02",
+      "validFrom": "2021-04-02",
+      "validTo": null,
+      "latestPublishedAt": "2021-04-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0969",
+      "versions": [
+        {
+          "id": "ZPIZ-2I-original",
+          "shortCode": "ZPIZ-2I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 51/21  str. 2962",
+          "publishedAt": "2021-04-02",
+          "effectiveFrom": "2021-04-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0969",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2J",
+      "title": "Zakon o spremembah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-2574",
+      "gazette": "Uradni list RS 121/21  str. 7510",
+      "issuingBody": null,
+      "adoptedAt": "2021-07-23",
+      "validFrom": "2021-07-23",
+      "validTo": null,
+      "latestPublishedAt": "2021-07-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2574",
+      "versions": [
+        {
+          "id": "ZPIZ-2J-original",
+          "shortCode": "ZPIZ-2J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 121/21  str. 7510",
+          "publishedAt": "2021-07-23",
+          "effectiveFrom": "2021-07-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2574",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-2N",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-2N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-4098",
+      "gazette": "Uradni list RS 133/23  str. 12302",
+      "issuingBody": null,
+      "adoptedAt": "2023-12-27",
+      "validFrom": "2023-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2023-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4098",
+      "versions": [
+        {
+          "id": "ZPIZ-2N-original",
+          "shortCode": "ZPIZ-2N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 133/23  str. 12302",
+          "publishedAt": "2023-12-27",
+          "effectiveFrom": "2023-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-4098",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-A",
+      "title": "Zakon o spremembah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0232",
+      "gazette": "Uradni list RS 5/94  str. 233",
+      "issuingBody": null,
+      "adoptedAt": "1994-02-04",
+      "validFrom": "1994-02-04",
+      "validTo": null,
+      "latestPublishedAt": "1994-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0232",
+      "versions": [
+        {
+          "id": "ZPIZ-A-original",
+          "shortCode": "ZPIZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 5/94  str. 233",
+          "publishedAt": "1994-02-04",
+          "effectiveFrom": "1994-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0232",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-B",
+      "kind": "zakon",
+      "keywords": [
+        "invalidsko zavarovanje",
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0330",
+      "gazette": "Uradni list RS 7/96  str. 537",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-07",
+      "validFrom": "1996-02-07",
+      "validTo": null,
+      "latestPublishedAt": "1996-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0330",
+      "versions": [
+        {
+          "id": "ZPIZ-B-original",
+          "shortCode": "ZPIZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 7/96  str. 537",
+          "publishedAt": "1996-02-07",
+          "effectiveFrom": "1996-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0330",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPIZ-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o pokojninskem in invalidskem zavarovanju",
+      "shortCode": "ZPIZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "sistem pokojninskega zavarovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-2417",
+      "gazette": "Uradni list RS 54/98  str. 3925",
+      "issuingBody": null,
+      "adoptedAt": "1998-07-31",
+      "validFrom": "1998-07-31",
+      "validTo": null,
+      "latestPublishedAt": "1998-07-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2417",
+      "versions": [
+        {
+          "id": "ZPIZ-C-original",
+          "shortCode": "ZPIZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/98  str. 3925",
+          "publishedAt": "1998-07-31",
+          "effectiveFrom": "1998-07-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2417",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

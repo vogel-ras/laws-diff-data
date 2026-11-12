@@ -1,0 +1,97 @@
+{
+  "root": "URED3059",
+  "path": "laws/UR/URED3059",
+  "members": [
+    {
+      "id": "URED3059",
+      "title": "Uredba o metodologiji za določitev osnov za izračun sredstev za izvajanje javne službe na področju kulture",
+      "shortTitle": "Uredba o metodologiji za določitev osnov za izračun sredstev za izvajanje javne službe na področju kulture",
+      "shortCode": "URED3059",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4494",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-10-17",
+      "validFrom": "2003-10-17",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4494",
+      "versions": [
+        {
+          "id": "URED3059-original",
+          "shortCode": "URED3059",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-10-17",
+          "effectiveFrom": "2003-10-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4494",
+          "proposer": null
+        },
+        {
+          "id": "URED3059-npb-URED3059",
+          "shortCode": "URED3059-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-10-17",
+          "effectiveFrom": "2003-10-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3059",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED5298",
+      "title": "Uredba o spremembi Uredbe o metodologiji za določitev osnov za izračun sredstev za izvajanje javne službe na področju kulture",
+      "shortTitle": "Uredba o spremembi Uredbe o metodologiji za določitev osnov za izračun sredstev za izvajanje javne službe na področju kulture",
+      "shortCode": "URED5298",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2009-01-3645",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-10-16",
+      "validFrom": "2009-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3645",
+      "versions": [
+        {
+          "id": "URED5298-original",
+          "shortCode": "URED5298",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-10-16",
+          "effectiveFrom": "2009-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3059"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3645",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

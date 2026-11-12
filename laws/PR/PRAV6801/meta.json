@@ -1,0 +1,58 @@
+{
+  "root": "PRAV6801",
+  "path": "laws/PR/PRAV6801",
+  "members": [
+    {
+      "id": "PRAV6801",
+      "title": "Pravilnik o trženju razmnoževalnega in sadilnega materiala zelenjadnic, razen semena",
+      "shortTitle": "Pravilnik o trženju razmnoževalnega in sadilnega materiala zelenjadnic, razen semena",
+      "shortCode": "PRAV6801",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-2677",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-05-12",
+      "validFrom": "2025-05-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-05-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2677",
+      "versions": [
+        {
+          "id": "PRAV6801-original",
+          "shortCode": "PRAV6801",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-05-12",
+          "effectiveFrom": "2025-05-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2677",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6801-npb-PRAV6801",
+          "shortCode": "PRAV6801-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 4)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-06-30",
+          "effectiveFrom": "2005-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6801",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

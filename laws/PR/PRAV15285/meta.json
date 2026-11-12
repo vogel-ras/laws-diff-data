@@ -1,0 +1,97 @@
+{
+  "root": "PRAV15285",
+  "path": "laws/PR/PRAV15285",
+  "members": [
+    {
+      "id": "PRAV15285",
+      "title": "Pravilnik o dodeljevanju finančnih spodbud za spodbujanje energije iz obnovljivih virov in soproizvodnje z visokim izkoristkom ter energijsko učinkovito daljinsko ogrevanje oziroma hlajenje",
+      "shortTitle": "Pravilnik o dodeljevanju finančnih spodbud za spodbujanje energije iz obnovljivih virov in soproizvodnje z visokim izkoristkom ter energijsko učinkovito daljinsko ogrevanje oziroma hlajenje",
+      "shortCode": "PRAV15285",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-0925",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, podnebje in energijo",
+      "adoptedAt": "2024-04-12",
+      "validFrom": "2024-04-12",
+      "validTo": null,
+      "latestPublishedAt": "2024-04-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0925",
+      "versions": [
+        {
+          "id": "PRAV15285-original",
+          "shortCode": "PRAV15285",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0925",
+          "proposer": null
+        },
+        {
+          "id": "PRAV15285-npb-PRAV15285",
+          "shortCode": "PRAV15285-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-04-12",
+          "effectiveFrom": "2024-04-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV15285",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15730",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodeljevanju finančnih spodbud za spodbujanje energije iz obnovljivih virov in soproizvodnje z visokim izkoristkom ter energijsko učinkovito daljinsko ogrevanje oziroma hlajenje",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o dodeljevanju finančnih spodbud za spodbujanje energije iz obnovljivih virov in soproizvodnje z visokim izkoristkom ter energijsko učinkovito daljinsko ogrevanje oziroma hlajenje",
+      "shortCode": "PRAV15730",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2025-01-1591",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, podnebje in energijo",
+      "adoptedAt": "2025-06-06",
+      "validFrom": "2025-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1591",
+      "versions": [
+        {
+          "id": "PRAV15730-original",
+          "shortCode": "PRAV15730",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-06",
+          "effectiveFrom": "2025-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV15285"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-1591",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

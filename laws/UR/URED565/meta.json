@@ -1,0 +1,97 @@
+{
+  "root": "URED565",
+  "path": "laws/UR/URED565",
+  "members": [
+    {
+      "id": "URED565",
+      "title": "Uredba o lokacijskem načrtu za vzhodno avtocesto od Malenc do Šentjakoba in del severne obvozne ceste od Tomačevega do Zadobrove v Ljubljani",
+      "shortTitle": "Uredba o lokacijskem načrtu za vzhodno avtocesto od Malenc do Šentjakoba in del severne obvozne ceste od Tomačevega do Zadobrove v Ljubljani",
+      "shortCode": "URED565",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-1132",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1994-05-20",
+      "validFrom": "1994-05-20",
+      "validTo": null,
+      "latestPublishedAt": "1994-05-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1132",
+      "versions": [
+        {
+          "id": "URED565-original",
+          "shortCode": "URED565",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-05-20",
+          "effectiveFrom": "1994-05-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1132",
+          "proposer": null
+        },
+        {
+          "id": "URED565-npb-URED565",
+          "shortCode": "URED565-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1994-05-20",
+          "effectiveFrom": "1994-05-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED565",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7907",
+      "title": "Uredba o spremembi Uredbe o lokacijskem načrtu za vzhodno avtocesto od Malenc do Šentjakoba in del severne obvozne ceste od Tomačevega do Zadobrove v Ljubljani",
+      "shortTitle": "Uredba o spremembi Uredbe o lokacijskem načrtu za vzhodno avtocesto od Malenc do Šentjakoba in del severne obvozne ceste od Tomačevega do Zadobrove v Ljubljani",
+      "shortCode": "URED7907",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2019-01-1189",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2019-04-19",
+      "validFrom": "2019-04-19",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1189",
+      "versions": [
+        {
+          "id": "URED7907-original",
+          "shortCode": "URED7907",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-04-19",
+          "effectiveFrom": "2019-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED565"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1189",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

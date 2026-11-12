@@ -1,0 +1,97 @@
+{
+  "root": "URED9002",
+  "path": "laws/UR/URED9002",
+  "members": [
+    {
+      "id": "URED9002",
+      "title": "Uredba o izvajanju intervencije izmenjava znanja in prenos informacij ter usposabljanje svetovalcev iz strateškega načrta skupne kmetijske politike 2023–2027",
+      "shortTitle": "Uredba o izvajanju intervencije izmenjava znanja in prenos informacij ter usposabljanje svetovalcev iz strateškega načrta skupne kmetijske politike 2023–2027",
+      "shortCode": "URED9002",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2044",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-07-17",
+      "validFrom": "2024-07-17",
+      "validTo": null,
+      "latestPublishedAt": "2024-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2044",
+      "versions": [
+        {
+          "id": "URED9002-original",
+          "shortCode": "URED9002",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-07-17",
+          "effectiveFrom": "2024-07-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2044",
+          "proposer": null
+        },
+        {
+          "id": "URED9002-npb-URED9002",
+          "shortCode": "URED9002-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2024-07-12",
+          "effectiveFrom": "2024-07-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED9002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9468",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencije izmenjava znanja in prenos informacij ter usposabljanje svetovalcev iz strateškega načrta skupne kmetijske politike 2023–2027",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju intervencije izmenjava znanja in prenos informacij ter usposabljanje svetovalcev iz strateškega načrta skupne kmetijske politike 2023–2027",
+      "shortCode": "URED9468",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-3110",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-11-14",
+      "validFrom": "2025-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3110",
+      "versions": [
+        {
+          "id": "URED9468-original",
+          "shortCode": "URED9468",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-14",
+          "effectiveFrom": "2025-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED9002"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-3110",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

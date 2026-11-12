@@ -1,0 +1,97 @@
+{
+  "root": "URED3794",
+  "path": "laws/UR/URED3794",
+  "members": [
+    {
+      "id": "URED3794",
+      "title": "Uredba o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o materialih in izdelkih, namenjenih za stik z živili, in o razveljavitvi direktiv 80/590/EGS in 89/109/EGS",
+      "shortTitle": "Uredba o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o materialih in izdelkih, namenjenih za stik z živili, in o razveljavitvi direktiv 80/590/EGS in 89/109/EGS",
+      "shortCode": "URED3794",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2225",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-31",
+      "validFrom": "2005-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2225",
+      "versions": [
+        {
+          "id": "URED3794-original",
+          "shortCode": "URED3794",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2225",
+          "proposer": null
+        },
+        {
+          "id": "URED3794-npb-URED3794",
+          "shortCode": "URED3794-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-05-31",
+          "effectiveFrom": "2005-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3794",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4657",
+      "title": "Uredba o spremembah Uredbe o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o materialih in izdelkih, namenjenih za stik z živili, in o razveljavitvi direktiv 80/590/EGS in 89/109/EGS",
+      "shortTitle": "Uredba o spremembah Uredbe o izvajanju Uredbe Evropskega parlamenta in Sveta (ES) o materialih in izdelkih, namenjenih za stik z živili, in o razveljavitvi direktiv 80/590/EGS in 89/109/EGS",
+      "shortCode": "URED4657",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-1195",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-03-28",
+      "validFrom": "2008-03-28",
+      "validTo": null,
+      "latestPublishedAt": "2008-03-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1195",
+      "versions": [
+        {
+          "id": "URED4657-original",
+          "shortCode": "URED4657",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-03-28",
+          "effectiveFrom": "2008-03-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3794"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1195",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

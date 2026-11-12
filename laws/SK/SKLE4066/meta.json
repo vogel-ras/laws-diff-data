@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4066",
+  "path": "laws/SK/SKLE4066",
+  "members": [
+    {
+      "id": "SKLE4066",
+      "title": "Sklep o vrstah in shemah računovodskih izkazov, vsebini prilog in analitičnem kontnem načrtu družbe za upravljanje",
+      "shortTitle": "Sklep o vrstah in shemah računovodskih izkazov, vsebini prilog in analitičnem kontnem načrtu družbe za upravljanje",
+      "shortCode": "SKLE4066",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-3832",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-08-14",
+      "validFrom": "2003-08-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3832",
+      "versions": [
+        {
+          "id": "SKLE4066-original",
+          "shortCode": "SKLE4066",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-14",
+          "effectiveFrom": "2003-08-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3832",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6969",
+      "title": "Sklep o spremembah Sklepa o vrstah in shemah računovodskih izkazov, vsebini prilog in analitičnem kontnem načrtu družbe za upravljanje",
+      "shortTitle": "Sklep o spremembah Sklepa o vrstah in shemah računovodskih izkazov, vsebini prilog in analitičnem kontnem načrtu družbe za upravljanje",
+      "shortCode": "SKLE6969",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-1624",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2007-04-06",
+      "validFrom": "2007-04-06",
+      "validTo": null,
+      "latestPublishedAt": "2007-04-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1624",
+      "versions": [
+        {
+          "id": "SKLE6969-original",
+          "shortCode": "SKLE6969",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-04-06",
+          "effectiveFrom": "2007-04-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4066"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1624",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

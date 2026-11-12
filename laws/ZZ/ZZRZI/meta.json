@@ -1,0 +1,282 @@
+{
+  "root": "ZZRZI",
+  "path": "laws/ZZ/ZZRZI",
+  "members": [
+    {
+      "id": "ZZRZI",
+      "title": "Zakon o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortTitle": "Zakon o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortCode": "ZZRZI",
+      "kind": "zakon",
+      "keywords": [
+        "invalid",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2873",
+      "gazette": "Uradni list RS 63/04  str. 8029",
+      "issuingBody": null,
+      "adoptedAt": "2004-06-10",
+      "validFrom": "2004-06-10",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2873",
+      "versions": [
+        {
+          "id": "ZZRZI-original",
+          "shortCode": "ZZRZI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/04  str. 8029",
+          "publishedAt": "2004-06-10",
+          "effectiveFrom": "2004-06-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2873",
+          "proposer": null
+        },
+        {
+          "id": "ZZRZI-amend-ZZRZI-A",
+          "shortCode": "ZZRZI-A",
+          "label": "Sprememba ZZRZI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 72/05  str. 7682",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3212",
+          "proposer": null
+        },
+        {
+          "id": "ZZRZI-amend-ZZRZI-B",
+          "shortCode": "ZZRZI-B",
+          "label": "Sprememba ZZRZI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 114/06  str. 11839",
+          "publishedAt": "2006-11-09",
+          "effectiveFrom": "2006-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4834",
+          "proposer": null
+        },
+        {
+          "id": "ZZRZI-amend-ZZRZI-D",
+          "shortCode": "ZZRZI-D",
+          "label": "Sprememba ZZRZI-D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 98/14  str. 11169",
+          "publishedAt": "2014-12-31",
+          "effectiveFrom": "2014-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4156",
+          "proposer": null
+        },
+        {
+          "id": "ZZRZI-amend-ZZRZI-E",
+          "shortCode": "ZZRZI-E",
+          "label": "Sprememba ZZRZI-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 18/21  str. 1225",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0414",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZRZI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortCode": "ZZRZI-A",
+      "kind": "zakon",
+      "keywords": [
+        "delavec invalid",
+        "invalid",
+        "pomoč za zaposlovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3212",
+      "gazette": "Uradni list RS 72/05  str. 7682",
+      "issuingBody": null,
+      "adoptedAt": "2005-07-29",
+      "validFrom": "2005-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3212",
+      "versions": [
+        {
+          "id": "ZZRZI-A-original",
+          "shortCode": "ZZRZI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/05  str. 7682",
+          "publishedAt": "2005-07-29",
+          "effectiveFrom": "2005-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3212",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZRZI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortCode": "ZZRZI-B",
+      "kind": "zakon",
+      "keywords": [
+        "delavec invalid",
+        "invalid",
+        "socialno vključevanje invalidov",
+        "zaščiteno delovno mesto"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4834",
+      "gazette": "Uradni list RS 114/06  str. 11839",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-09",
+      "validFrom": "2006-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4834",
+      "versions": [
+        {
+          "id": "ZZRZI-B-original",
+          "shortCode": "ZZRZI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 114/06  str. 11839",
+          "publishedAt": "2006-11-09",
+          "effectiveFrom": "2006-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4834",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZRZI-D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortCode": "ZZRZI-D",
+      "kind": "zakon",
+      "keywords": [
+        "invalid",
+        "politika zaposlovanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-4156",
+      "gazette": "Uradni list RS 98/14  str. 11169",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-31",
+      "validFrom": "2014-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4156",
+      "versions": [
+        {
+          "id": "ZZRZI-D-original",
+          "shortCode": "ZZRZI-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/14  str. 11169",
+          "publishedAt": "2014-12-31",
+          "effectiveFrom": "2014-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-4156",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZRZI-E",
+      "title": "Zakon o spremembi Zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortTitle": "Zakon o spremembi Zakona o zaposlitveni rehabilitaciji in zaposlovanju invalidov",
+      "shortCode": "ZZRZI-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2021-01-0414",
+      "gazette": "Uradni list RS 18/21  str. 1225",
+      "issuingBody": null,
+      "adoptedAt": "2021-02-09",
+      "validFrom": "2021-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2021-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0414",
+      "versions": [
+        {
+          "id": "ZZRZI-E-original",
+          "shortCode": "ZZRZI-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/21  str. 1225",
+          "publishedAt": "2021-02-09",
+          "effectiveFrom": "2021-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZRZI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0414",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

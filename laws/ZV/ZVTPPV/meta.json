@@ -1,0 +1,166 @@
+{
+  "root": "ZVTPPV",
+  "path": "laws/ZV/ZVTPPV",
+  "members": [
+    {
+      "id": "ZVTPPV",
+      "title": "Zakon o varstvu topografije polprevodniških vezij",
+      "shortTitle": "Zakon o varstvu topografije polprevodniških vezij",
+      "shortCode": "ZVTPPV",
+      "kind": "zakon",
+      "keywords": [
+        "elektronska komponenta",
+        "industrijska lastnina",
+        "intelektualna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-0959",
+      "gazette": "Uradni list RS 21/95  str. 1606",
+      "issuingBody": null,
+      "adoptedAt": "1995-04-14",
+      "validFrom": "1995-04-14",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0959",
+      "versions": [
+        {
+          "id": "ZVTPPV-original",
+          "shortCode": "ZVTPPV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 21/95  str. 1606",
+          "publishedAt": "1995-04-14",
+          "effectiveFrom": "1995-04-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-0959",
+          "proposer": null
+        },
+        {
+          "id": "ZVTPPV-amend-ZVTPPV-A",
+          "shortCode": "ZVTPPV-A",
+          "label": "Sprememba ZVTPPV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 96/2002  str. 10557",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVTPPV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4811",
+          "proposer": null
+        },
+        {
+          "id": "ZVTPPV-amend-ZVTPPV-B",
+          "shortCode": "ZVTPPV-B",
+          "label": "Sprememba ZVTPPV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 60/06  str. 6553",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVTPPV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2538",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVTPPV-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu topografije polprevodniških vezij",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu topografije polprevodniških vezij",
+      "shortCode": "ZVTPPV-A",
+      "kind": "zakon",
+      "keywords": [
+        "telekomunikacije",
+        "intelektualna lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-4811",
+      "gazette": "Uradni list RS 96/2002  str. 10557",
+      "issuingBody": null,
+      "adoptedAt": "2002-11-14",
+      "validFrom": "2002-11-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4811",
+      "versions": [
+        {
+          "id": "ZVTPPV-A-original",
+          "shortCode": "ZVTPPV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 96/2002  str. 10557",
+          "publishedAt": "2002-11-14",
+          "effectiveFrom": "2002-11-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVTPPV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4811",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVTPPV-B",
+      "title": "Zakon o spremembah zakona o varstvu topografije polprevodniških vezij",
+      "shortTitle": "Zakon o spremembah zakona o varstvu topografije polprevodniških vezij",
+      "shortCode": "ZVTPPV-B",
+      "kind": "zakon",
+      "keywords": [
+        "intelektualna lastnina",
+        "elektronska komponenta",
+        "industrijska lastnina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2538",
+      "gazette": "Uradni list RS 60/06  str. 6553",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-09",
+      "validFrom": "2006-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2538",
+      "versions": [
+        {
+          "id": "ZVTPPV-B-original",
+          "shortCode": "ZVTPPV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/06  str. 6553",
+          "publishedAt": "2006-06-09",
+          "effectiveFrom": "2006-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVTPPV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2538",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

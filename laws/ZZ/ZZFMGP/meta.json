@@ -1,0 +1,107 @@
+{
+  "root": "ZZFMGP",
+  "path": "laws/ZZ/ZZFMGP",
+  "members": [
+    {
+      "id": "ZZFMGP",
+      "title": "Zakon o zavarovanju in financiranju mednarodnih gospodarskih poslov",
+      "shortTitle": "Zakon o zavarovanju in financiranju mednarodnih gospodarskih poslov",
+      "shortCode": "ZZFMGP",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "posojilo",
+        "postavitev hidroelektrarne"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0074",
+      "gazette": "Uradni list RS 2/04  str. 216",
+      "issuingBody": null,
+      "adoptedAt": "2004-01-15",
+      "validFrom": "2004-01-15",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0074",
+      "versions": [
+        {
+          "id": "ZZFMGP-original",
+          "shortCode": "ZZFMGP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/04  str. 216",
+          "publishedAt": "2004-01-15",
+          "effectiveFrom": "2004-01-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0074",
+          "proposer": null
+        },
+        {
+          "id": "ZZFMGP-amend-ZZFMGP-A",
+          "shortCode": "ZZFMGP-A",
+          "label": "Sprememba ZZFMGP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 82/15  str. 8975",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZFMGP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3255",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZFMGP-A",
+      "title": "Zakon o spremembi in dopolnitvah Zakona o zavarovanju in financiranju mednarodnih gospodarskih poslov",
+      "shortTitle": "Zakon o spremembi in dopolnitvah Zakona o zavarovanju in financiranju mednarodnih gospodarskih poslov",
+      "shortCode": "ZZFMGP-A",
+      "kind": "zakon",
+      "keywords": [
+        "gospodarstvo",
+        "zavarovanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3255",
+      "gazette": "Uradni list RS 82/15  str. 8975",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-03",
+      "validFrom": "2015-11-03",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3255",
+      "versions": [
+        {
+          "id": "ZZFMGP-A-original",
+          "shortCode": "ZZFMGP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/15  str. 8975",
+          "publishedAt": "2015-11-03",
+          "effectiveFrom": "2015-11-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZFMGP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3255",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

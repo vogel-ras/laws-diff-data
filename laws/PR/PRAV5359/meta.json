@@ -1,0 +1,121 @@
+{
+  "root": "PRAV5359",
+  "path": "laws/PR/PRAV5359",
+  "members": [
+    {
+      "id": "PRAV5359",
+      "title": "Pravilnik o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortTitle": "Pravilnik o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortCode": "PRAV5359",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0893",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-05",
+      "validFrom": "2004-03-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0893",
+      "versions": [
+        {
+          "id": "PRAV5359-original",
+          "shortCode": "PRAV5359",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-05",
+          "effectiveFrom": "2004-03-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0893",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7694",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortCode": "PRAV7694",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-4581",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2006-10-13",
+      "validFrom": "2006-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4581",
+      "versions": [
+        {
+          "id": "PRAV7694-original",
+          "shortCode": "PRAV7694",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5359"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4581",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9374",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o fitosanitarnih ukrepih za preprečevanje širjenja koruznega hrošča",
+      "shortCode": "PRAV9374",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-0868",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-03-23",
+      "validFrom": "2009-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0868",
+      "versions": [
+        {
+          "id": "PRAV9374-original",
+          "shortCode": "PRAV9374",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-03-23",
+          "effectiveFrom": "2009-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5359"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-0868",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "root": "PRAV11757",
+  "path": "laws/PR/PRAV11757",
+  "members": [
+    {
+      "id": "PRAV11757",
+      "title": "Pravilnik o vajah v obrambnem sistemu",
+      "shortTitle": "Pravilnik o vajah v obrambnem sistemu",
+      "shortCode": "PRAV11757",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-3611",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za obrambo",
+      "adoptedAt": "2013-12-06",
+      "validFrom": "2013-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3611",
+      "versions": [
+        {
+          "id": "PRAV11757-original",
+          "shortCode": "PRAV11757",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3611",
+          "proposer": null
+        },
+        {
+          "id": "PRAV11757-npb-PRAV11757",
+          "shortCode": "PRAV11757-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2013-12-06",
+          "effectiveFrom": "2013-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV11757",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

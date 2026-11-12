@@ -1,0 +1,136 @@
+{
+  "root": "URED3409",
+  "path": "laws/UR/URED3409",
+  "members": [
+    {
+      "id": "URED3409",
+      "title": "Uredba o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortTitle": "Uredba o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortCode": "URED3409",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-3887",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-08-06",
+      "validFrom": "2004-08-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3887",
+      "versions": [
+        {
+          "id": "URED3409-original",
+          "shortCode": "URED3409",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-06",
+          "effectiveFrom": "2004-08-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3887",
+          "proposer": null
+        },
+        {
+          "id": "URED3409-npb-URED3409",
+          "shortCode": "URED3409-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2004-08-06",
+          "effectiveFrom": "2004-08-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3409",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3514",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortCode": "URED3514",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2004-01-4502",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-10-01",
+      "validFrom": "2004-10-01",
+      "validTo": null,
+      "latestPublishedAt": "2004-10-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4502",
+      "versions": [
+        {
+          "id": "URED3514-original",
+          "shortCode": "URED3514",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-10-01",
+          "effectiveFrom": "2004-10-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3409"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4502",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4095",
+      "title": "Uredba o spremembi Uredbe o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi zunanje meje priobalnega zemljišča reke Savinje na območju Občine Laško",
+      "shortCode": "URED4095",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-0270",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-01-24",
+      "validFrom": "2006-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0270",
+      "versions": [
+        {
+          "id": "URED4095-original",
+          "shortCode": "URED4095",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-01-24",
+          "effectiveFrom": "2006-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3409"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0270",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

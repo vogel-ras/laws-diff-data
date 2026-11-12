@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13466",
+  "path": "laws/PR/PRAV13466",
+  "members": [
+    {
+      "id": "PRAV13466",
+      "title": "Pravilnik o vsebini vprašalnikov za pridobivanje podatkov za potrebe množičnega vrednotenja",
+      "shortTitle": "Pravilnik o vsebini vprašalnikov za pridobivanje podatkov za potrebe množičnega vrednotenja",
+      "shortCode": "PRAV13466",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1842",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2018-06-01",
+      "validFrom": "2018-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2018-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1842",
+      "versions": [
+        {
+          "id": "PRAV13466-original",
+          "shortCode": "PRAV13466",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-06-01",
+          "effectiveFrom": "2018-06-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1842",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13466-npb-PRAV13466",
+          "shortCode": "PRAV13466-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-06-01",
+          "effectiveFrom": "2018-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV13740",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini vprašalnikov za pridobivanje podatkov za potrebe množičnega vrednotenja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini vprašalnikov za pridobivanje podatkov za potrebe množičnega vrednotenja",
+      "shortCode": "PRAV13740",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-1824",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-06-21",
+      "validFrom": "2019-06-21",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1824",
+      "versions": [
+        {
+          "id": "PRAV13740-original",
+          "shortCode": "PRAV13740",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-06-21",
+          "effectiveFrom": "2019-06-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13466"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1824",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

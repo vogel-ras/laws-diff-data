@@ -1,0 +1,136 @@
+{
+  "root": "URED2911",
+  "path": "laws/UR/URED2911",
+  "members": [
+    {
+      "id": "URED2911",
+      "title": "Uredba o vojaških uslužbencih",
+      "shortTitle": "Uredba o vojaških uslužbencih",
+      "shortCode": "URED2911",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-2690",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-06-06",
+      "validFrom": "2003-06-06",
+      "validTo": null,
+      "latestPublishedAt": "2003-06-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2690",
+      "versions": [
+        {
+          "id": "URED2911-original",
+          "shortCode": "URED2911",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-06-06",
+          "effectiveFrom": "2003-06-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2690",
+          "proposer": null
+        },
+        {
+          "id": "URED2911-npb-URED2911",
+          "shortCode": "URED2911-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2003-06-06",
+          "effectiveFrom": "2003-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED2911",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4340",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o vojaških uslužbencih",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o vojaških uslužbencih",
+      "shortCode": "URED4340",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2007-01-5990",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-12-24",
+      "validFrom": "2007-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2007-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5990",
+      "versions": [
+        {
+          "id": "URED4340-original",
+          "shortCode": "URED4340",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-12-24",
+          "effectiveFrom": "2007-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5990",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED6934",
+      "title": "Uredba o spremembah Uredbe o vojaških uslužbencih",
+      "shortTitle": "Uredba o spremembah Uredbe o vojaških uslužbencih",
+      "shortCode": "URED6934",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2015-01-3431",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2015-11-20",
+      "validFrom": "2015-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3431",
+      "versions": [
+        {
+          "id": "URED6934-original",
+          "shortCode": "URED6934",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2015-11-20",
+          "effectiveFrom": "2015-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3431",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

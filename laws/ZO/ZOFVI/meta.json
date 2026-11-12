@@ -1,0 +1,760 @@
+{
+  "root": "ZOFVI",
+  "path": "laws/ZO/ZOFVI",
+  "members": [
+    {
+      "id": "ZOFVI",
+      "title": "Zakon o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "izobraževanje",
+        "način financiranja",
+        "šolanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0567",
+      "gazette": "Uradni list RS 12/96  str. 841",
+      "issuingBody": null,
+      "adoptedAt": "1996-02-29",
+      "validFrom": "1996-02-29",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0567",
+      "versions": [
+        {
+          "id": "ZOFVI-original",
+          "shortCode": "ZOFVI",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/96  str. 841",
+          "publishedAt": "1996-02-29",
+          "effectiveFrom": "1996-02-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0567",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-A",
+          "shortCode": "ZOFVI-A",
+          "label": "Sprememba ZOFVI-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2001  str. 6583",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3472",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-B",
+          "shortCode": "ZOFVI-B",
+          "label": "Sprememba ZOFVI-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 108/2002  str. 12910",
+          "publishedAt": "2002-12-12",
+          "effectiveFrom": "2002-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5313",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-C",
+          "shortCode": "ZOFVI-C",
+          "label": "Sprememba ZOFVI-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 34/2003  str. 3997",
+          "publishedAt": "2003-04-10",
+          "effectiveFrom": "2003-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1435",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-D",
+          "shortCode": "ZOFVI-D",
+          "label": "Sprememba ZOFVI-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 79/2003  str. 11752",
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3742",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-E",
+          "shortCode": "ZOFVI-E",
+          "label": "Sprememba ZOFVI-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 65/05  str. 6697",
+          "publishedAt": "2005-07-08",
+          "effectiveFrom": "2005-07-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2838",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-F",
+          "shortCode": "ZOFVI-F",
+          "label": "Sprememba ZOFVI-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 129/06  str. 14128",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5432",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-H",
+          "shortCode": "ZOFVI-H",
+          "label": "Sprememba ZOFVI-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 58/09  str. 8146",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2871",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-I",
+          "shortCode": "ZOFVI-I",
+          "label": "Sprememba ZOFVI-I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 20/11  str. 2683",
+          "publishedAt": "2011-03-18",
+          "effectiveFrom": "2011-03-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0821",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-J",
+          "shortCode": "ZOFVI-J",
+          "label": "Sprememba ZOFVI-J",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 47/15  str. 5168",
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1934",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-K",
+          "shortCode": "ZOFVI-K",
+          "label": "Sprememba ZOFVI-K",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 46/16  str. 6767",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1999",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-O",
+          "shortCode": "ZOFVI-O",
+          "label": "Sprememba ZOFVI-O",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": "Uradni list RS 141/22  str. 10709",
+          "publishedAt": "2022-11-07",
+          "effectiveFrom": "2022-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3469",
+          "proposer": null
+        },
+        {
+          "id": "ZOFVI-amend-ZOFVI-P",
+          "shortCode": "ZOFVI-P",
+          "label": "Sprememba ZOFVI-P",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 71/23  str. 6249",
+          "publishedAt": "2023-06-30",
+          "effectiveFrom": "2023-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2202",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-A",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "osnovnošolsko izobraževanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3472",
+      "gazette": "Uradni list RS 64/2001  str. 6583",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3472",
+      "versions": [
+        {
+          "id": "ZOFVI-A-original",
+          "shortCode": "ZOFVI-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6583",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3472",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-B",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "izobraževanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5313",
+      "gazette": "Uradni list RS 108/2002  str. 12910",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-12",
+      "validFrom": "2002-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5313",
+      "versions": [
+        {
+          "id": "ZOFVI-B-original",
+          "shortCode": "ZOFVI-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/2002  str. 12910",
+          "publishedAt": "2002-12-12",
+          "effectiveFrom": "2002-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5313",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-C",
+      "title": "Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o dopolnitvi zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-C",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "izobraževanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-1435",
+      "gazette": "Uradni list RS 34/2003  str. 3997",
+      "issuingBody": null,
+      "adoptedAt": "2003-04-10",
+      "validFrom": "2003-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2003-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1435",
+      "versions": [
+        {
+          "id": "ZOFVI-C-original",
+          "shortCode": "ZOFVI-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 34/2003  str. 3997",
+          "publishedAt": "2003-04-10",
+          "effectiveFrom": "2003-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-1435",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-D",
+      "kind": "zakon",
+      "keywords": [
+        "predšolska vzgoja",
+        "izobraževanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-3742",
+      "gazette": "Uradni list RS 79/2003  str. 11752",
+      "issuingBody": null,
+      "adoptedAt": "2003-08-12",
+      "validFrom": "2003-08-12",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3742",
+      "versions": [
+        {
+          "id": "ZOFVI-D-original",
+          "shortCode": "ZOFVI-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/2003  str. 11752",
+          "publishedAt": "2003-08-12",
+          "effectiveFrom": "2003-08-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3742",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-E",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "izobraževanje",
+        "način financiranja",
+        "šolanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-2838",
+      "gazette": "Uradni list RS 65/05  str. 6697",
+      "issuingBody": null,
+      "adoptedAt": "2005-07-08",
+      "validFrom": "2005-07-08",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2838",
+      "versions": [
+        {
+          "id": "ZOFVI-E-original",
+          "shortCode": "ZOFVI-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/05  str. 6697",
+          "publishedAt": "2005-07-08",
+          "effectiveFrom": "2005-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2838",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-F",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5432",
+      "gazette": "Uradni list RS 129/06  str. 14128",
+      "issuingBody": null,
+      "adoptedAt": "2006-12-12",
+      "validFrom": "2006-12-12",
+      "validTo": null,
+      "latestPublishedAt": "2006-12-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5432",
+      "versions": [
+        {
+          "id": "ZOFVI-F-original",
+          "shortCode": "ZOFVI-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 129/06  str. 14128",
+          "publishedAt": "2006-12-12",
+          "effectiveFrom": "2006-12-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5432",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-H",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "šolanje",
+        "izobraževanje",
+        "način financiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2871",
+      "gazette": "Uradni list RS 58/09  str. 8146",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-27",
+      "validFrom": "2009-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2871",
+      "versions": [
+        {
+          "id": "ZOFVI-H-original",
+          "shortCode": "ZOFVI-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/09  str. 8146",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2871",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-I",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "šolanje",
+        "izobraževanje",
+        "način financiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0821",
+      "gazette": "Uradni list RS 20/11  str. 2683",
+      "issuingBody": null,
+      "adoptedAt": "2011-03-18",
+      "validFrom": "2011-03-18",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0821",
+      "versions": [
+        {
+          "id": "ZOFVI-I-original",
+          "shortCode": "ZOFVI-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/11  str. 2683",
+          "publishedAt": "2011-03-18",
+          "effectiveFrom": "2011-03-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0821",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-J",
+      "title": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembi Zakona o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-J",
+      "kind": "zakon",
+      "keywords": [
+        "financiranje",
+        "izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-1934",
+      "gazette": "Uradni list RS 47/15  str. 5168",
+      "issuingBody": null,
+      "adoptedAt": "2015-06-30",
+      "validFrom": "2015-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1934",
+      "versions": [
+        {
+          "id": "ZOFVI-J-original",
+          "shortCode": "ZOFVI-J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/15  str. 5168",
+          "publishedAt": "2015-06-30",
+          "effectiveFrom": "2015-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-1934",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-K",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-K",
+      "kind": "zakon",
+      "keywords": [
+        "izobraževanje",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1999",
+      "gazette": "Uradni list RS 46/16  str. 6767",
+      "issuingBody": null,
+      "adoptedAt": "2016-06-30",
+      "validFrom": "2016-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2016-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1999",
+      "versions": [
+        {
+          "id": "ZOFVI-K-original",
+          "shortCode": "ZOFVI-K",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 46/16  str. 6767",
+          "publishedAt": "2016-06-30",
+          "effectiveFrom": "2016-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1999",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-O",
+      "title": "Zakon o spremembah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-O",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3469",
+      "gazette": "Uradni list RS 141/22  str. 10709",
+      "issuingBody": null,
+      "adoptedAt": "2022-11-07",
+      "validFrom": "2022-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3469",
+      "versions": [
+        {
+          "id": "ZOFVI-O-original",
+          "shortCode": "ZOFVI-O",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 141/22  str. 10709",
+          "publishedAt": "2022-11-07",
+          "effectiveFrom": "2022-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOFVI-P",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o organizaciji in financiranju vzgoje in izobraževanja",
+      "shortCode": "ZOFVI-P",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-2202",
+      "gazette": "Uradni list RS 71/23  str. 6249",
+      "issuingBody": null,
+      "adoptedAt": "2023-06-30",
+      "validFrom": "2023-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2202",
+      "versions": [
+        {
+          "id": "ZOFVI-P-original",
+          "shortCode": "ZOFVI-P",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 71/23  str. 6249",
+          "publishedAt": "2023-06-30",
+          "effectiveFrom": "2023-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOFVI"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2202",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

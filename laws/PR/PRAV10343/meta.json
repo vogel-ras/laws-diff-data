@@ -1,0 +1,136 @@
+{
+  "root": "PRAV10343",
+  "path": "laws/PR/PRAV10343",
+  "members": [
+    {
+      "id": "PRAV10343",
+      "title": "Pravilnik o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortTitle": "Pravilnik o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortCode": "PRAV10343",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-3706",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-22",
+      "validFrom": "2026-01-22",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3706",
+      "versions": [
+        {
+          "id": "PRAV10343-original",
+          "shortCode": "PRAV10343",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-22",
+          "effectiveFrom": "2026-01-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-3706",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10343-npb-PRAV10343",
+          "shortCode": "PRAV10343-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-08-20",
+          "effectiveFrom": "2010-08-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10343",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV10705",
+      "title": "Pravilnik o spremembah Pravilnika o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortCode": "PRAV10705",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0705",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2011-03-11",
+      "validFrom": "2011-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0705",
+      "versions": [
+        {
+          "id": "PRAV10705-original",
+          "shortCode": "PRAV10705",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-03-11",
+          "effectiveFrom": "2011-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10343"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0705",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11382",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za določitev višine nagrade in za povrnitev stroškov za delo zastopnika pravic oseb na področju duševnega zdravja",
+      "shortCode": "PRAV11382",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-0204",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2013-01-25",
+      "validFrom": "2013-01-25",
+      "validTo": null,
+      "latestPublishedAt": "2013-01-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0204",
+      "versions": [
+        {
+          "id": "PRAV11382-original",
+          "shortCode": "PRAV11382",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-01-25",
+          "effectiveFrom": "2013-01-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10343"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-0204",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "root": "OdPSFIHO",
+  "path": "ordinances/OD/OdPSFIHO",
+  "members": [
+    {
+      "id": "ODLO507",
+      "title": "Odlok o soglasju k pravilniku o merilih in pogojih za uporabo sredstev Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji (OdPSFIHO)",
+      "shortTitle": "Odlok o soglasju k pravilniku o merilih in pogojih za uporabo sredstev Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji (OdPSFIHO)",
+      "shortCode": "OdPSFIHO",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1998-01-4691",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-12-28",
+      "validFrom": "1998-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4691",
+      "versions": [
+        {
+          "id": "ODLO507-original",
+          "shortCode": "OdPSFIHO",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-12-28",
+          "effectiveFrom": "1998-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4691",
+          "proposer": null
+        },
+        {
+          "id": "ODLO507-amend-SKLE5385",
+          "shortCode": "OdPSFIHO-A",
+          "label": "Sprememba OdPSFIHO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO507"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0272",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5385",
+      "title": "Sklep o soglasju k Spremembam in dopolnitvam Pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji (OdPSFIHO-A)",
+      "shortTitle": "Sklep o soglasju k Spremembam in dopolnitvam Pravilnika o merilih in pogojih za uporabo sredstev Fundacije za financiranje invalidskih in humanitarnih organizacij v Republiki Sloveniji (OdPSFIHO-A)",
+      "shortCode": "OdPSFIHO-A",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2005-01-0272",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0272",
+      "versions": [
+        {
+          "id": "SKLE5385-original",
+          "shortCode": "OdPSFIHO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO507"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0272",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

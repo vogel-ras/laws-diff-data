@@ -1,0 +1,46 @@
+{
+  "root": "ZPS",
+  "path": "laws/ZP/ZPS",
+  "members": [
+    {
+      "id": "ZPS",
+      "title": "Zakon o Pošti Slovenije",
+      "shortTitle": "Zakon o Pošti Slovenije",
+      "shortCode": "ZPS",
+      "kind": "zakon",
+      "keywords": [
+        "pošta in telekomunikacije",
+        "poštne storitve"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-2631",
+      "gazette": "Uradni list RS 73/94  str. 4217",
+      "issuingBody": null,
+      "adoptedAt": "1994-11-25",
+      "validFrom": "1994-11-25",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2631",
+      "versions": [
+        {
+          "id": "ZPS-original",
+          "shortCode": "ZPS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 73/94  str. 4217",
+          "publishedAt": "1994-11-25",
+          "effectiveFrom": "1994-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2631",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

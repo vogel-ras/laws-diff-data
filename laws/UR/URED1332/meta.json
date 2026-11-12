@@ -1,0 +1,82 @@
+{
+  "root": "URED1332",
+  "path": "laws/UR/URED1332",
+  "members": [
+    {
+      "id": "URED1332",
+      "title": "Uredba o plačevanju v tujino in o izterjavi plačil za izvoženo blago in storitve v pogojih oteženega plačevanja v tujino",
+      "shortTitle": "Uredba o plačevanju v tujino in o izterjavi plačil za izvoženo blago in storitve v pogojih oteženega plačevanja v tujino",
+      "shortCode": "URED1332",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1991-01-0126",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-07-08",
+      "validFrom": "1991-07-08",
+      "validTo": null,
+      "latestPublishedAt": "1991-07-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0126",
+      "versions": [
+        {
+          "id": "URED1332-original",
+          "shortCode": "URED1332",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-07-08",
+          "effectiveFrom": "1991-07-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0126",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1337",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o plačevanju v tujino in o izterjavi plačil za izvoženo blago in storitve v pogojih oteženega plačevanja v tujino",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o plačevanju v tujino in o izterjavi plačil za izvoženo blago in storitve v pogojih oteženega plačevanja v tujino",
+      "shortCode": "URED1337",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1991-01-0373",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-08-08",
+      "validFrom": "1991-08-08",
+      "validTo": null,
+      "latestPublishedAt": "1991-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0373",
+      "versions": [
+        {
+          "id": "URED1337-original",
+          "shortCode": "URED1337",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-08-08",
+          "effectiveFrom": "1991-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1332"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0373",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

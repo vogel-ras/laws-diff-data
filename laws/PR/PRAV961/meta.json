@@ -1,0 +1,82 @@
+{
+  "root": "PRAV961",
+  "path": "laws/PR/PRAV961",
+  "members": [
+    {
+      "id": "PRAV961",
+      "title": "Pravilnik o vzpodbujanju tehnološkega razvoja",
+      "shortTitle": "Pravilnik o vzpodbujanju tehnološkega razvoja",
+      "shortCode": "PRAV961",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1994-01-1484",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-06-24",
+      "validFrom": "1994-06-24",
+      "validTo": null,
+      "latestPublishedAt": "1994-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1484",
+      "versions": [
+        {
+          "id": "PRAV961-original",
+          "shortCode": "PRAV961",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-06-24",
+          "effectiveFrom": "1994-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1484",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV971",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o vzpodbujanju tehnološkega razvoja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o vzpodbujanju tehnološkega razvoja",
+      "shortCode": "PRAV971",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1998-01-1737",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-05-22",
+      "validFrom": "1998-05-22",
+      "validTo": null,
+      "latestPublishedAt": "1998-05-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1737",
+      "versions": [
+        {
+          "id": "PRAV971-original",
+          "shortCode": "PRAV971",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-05-22",
+          "effectiveFrom": "1998-05-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV961"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1737",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

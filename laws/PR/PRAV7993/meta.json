@@ -1,0 +1,97 @@
+{
+  "root": "PRAV7993",
+  "path": "laws/PR/PRAV7993",
+  "members": [
+    {
+      "id": "PRAV10412",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o požarnem varovanju",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o požarnem varovanju",
+      "shortCode": "PRAV10412",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-4868",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-11-19",
+      "validFrom": "2010-11-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4868",
+      "versions": [
+        {
+          "id": "PRAV10412-original",
+          "shortCode": "PRAV10412",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-19",
+          "effectiveFrom": "2010-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV7993"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4868",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7993",
+      "title": "Pravilnik o požarnem varovanju",
+      "shortTitle": "Pravilnik o požarnem varovanju",
+      "shortCode": "PRAV7993",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5308",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-11-21",
+      "validFrom": "2025-11-21",
+      "validTo": null,
+      "latestPublishedAt": "2025-11-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5308",
+      "versions": [
+        {
+          "id": "PRAV7993-original",
+          "shortCode": "PRAV7993",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-11-21",
+          "effectiveFrom": "2025-11-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5308",
+          "proposer": null
+        },
+        {
+          "id": "PRAV7993-npb-PRAV7993",
+          "shortCode": "PRAV7993-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-11-23",
+          "effectiveFrom": "2007-11-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV7993",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

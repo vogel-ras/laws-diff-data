@@ -1,0 +1,97 @@
+{
+  "root": "PRAV5867",
+  "path": "laws/PR/PRAV5867",
+  "members": [
+    {
+      "id": "PRAV5867",
+      "title": "Pravilnik o plovnosti zrakoplovov",
+      "shortTitle": "Pravilnik o plovnosti zrakoplovov",
+      "shortCode": "PRAV5867",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-1402",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1402",
+      "versions": [
+        {
+          "id": "PRAV5867-original",
+          "shortCode": "PRAV5867",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1402",
+          "proposer": null
+        },
+        {
+          "id": "PRAV5867-npb-PRAV5867",
+          "shortCode": "PRAV5867-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-04-19",
+          "effectiveFrom": "2005-04-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV5867",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8589",
+      "title": "Pravilnik o spremembah Pravilnika o plovnosti zrakoplovov",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o plovnosti zrakoplovov",
+      "shortCode": "PRAV8589",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-5078",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5078",
+      "versions": [
+        {
+          "id": "PRAV8589-original",
+          "shortCode": "PRAV8589",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5867"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5078",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

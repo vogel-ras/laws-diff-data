@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10643",
+  "path": "laws/PR/PRAV10643",
+  "members": [
+    {
+      "id": "PRAV10643",
+      "title": "Pravilnik o pravosodnem nadzoru nad državnimi tožilstvi",
+      "shortTitle": "Pravilnik o pravosodnem nadzoru nad državnimi tožilstvi",
+      "shortCode": "PRAV10643",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2012-01-0379",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2012-02-10",
+      "validFrom": "2012-02-10",
+      "validTo": null,
+      "latestPublishedAt": "2012-02-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0379",
+      "versions": [
+        {
+          "id": "PRAV10643-original",
+          "shortCode": "PRAV10643",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0379",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10643-npb-PRAV10643",
+          "shortCode": "PRAV10643-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2012-02-10",
+          "effectiveFrom": "2012-02-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10643",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

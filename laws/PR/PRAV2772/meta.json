@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2772",
+  "path": "laws/PR/PRAV2772",
+  "members": [
+    {
+      "id": "PRAV2772",
+      "title": "Pravilnik o vsebini posameznih kontov v kontnem planu za banke",
+      "shortTitle": "Pravilnik o vsebini posameznih kontov v kontnem planu za banke",
+      "shortCode": "PRAV2772",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1992-01-0569",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-03-06",
+      "validFrom": "1992-03-06",
+      "validTo": null,
+      "latestPublishedAt": "1992-03-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0569",
+      "versions": [
+        {
+          "id": "PRAV2772-original",
+          "shortCode": "PRAV2772",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-03-06",
+          "effectiveFrom": "1992-03-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0569",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2773",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o vsebini posameznih kontov v kontnem planu za banke",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o vsebini posameznih kontov v kontnem planu za banke",
+      "shortCode": "PRAV2773",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1992-01-1797",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-07-24",
+      "validFrom": "1992-07-24",
+      "validTo": null,
+      "latestPublishedAt": "1992-07-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1797",
+      "versions": [
+        {
+          "id": "PRAV2773-original",
+          "shortCode": "PRAV2773",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-07-24",
+          "effectiveFrom": "1992-07-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2772"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1797",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

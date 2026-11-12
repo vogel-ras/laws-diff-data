@@ -1,0 +1,82 @@
+{
+  "root": "URED7131",
+  "path": "laws/UR/URED7131",
+  "members": [
+    {
+      "id": "URED7131",
+      "title": "Uredba o izvajanju ukrepa odpravljanje zaraščanja na kmetijskih zemljiščih",
+      "shortTitle": "Uredba o izvajanju ukrepa odpravljanje zaraščanja na kmetijskih zemljiščih",
+      "shortCode": "URED7131",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2017-01-0096",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-01-20",
+      "validFrom": "2017-01-20",
+      "validTo": null,
+      "latestPublishedAt": "2017-01-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0096",
+      "versions": [
+        {
+          "id": "URED7131-original",
+          "shortCode": "URED7131",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-01-20",
+          "effectiveFrom": "2017-01-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0096",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED7622",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepa odpravljanje zaraščanja na kmetijskih zemljiščih",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju ukrepa odpravljanje zaraščanja na kmetijskih zemljiščih",
+      "shortCode": "URED7622",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2018-01-0800",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-03-20",
+      "validFrom": "2018-03-20",
+      "validTo": null,
+      "latestPublishedAt": "2018-03-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0800",
+      "versions": [
+        {
+          "id": "URED7622-original",
+          "shortCode": "URED7622",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-03-20",
+          "effectiveFrom": "2018-03-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED7131"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-0800",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

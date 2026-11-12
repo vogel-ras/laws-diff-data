@@ -1,0 +1,198 @@
+{
+  "root": "ZSDH",
+  "path": "laws/ZS/ZSDH",
+  "members": [
+    {
+      "id": "ZSDH",
+      "title": "Zakon o Slovenskem državnem holdingu",
+      "shortTitle": "Zakon o Slovenskem državnem holdingu",
+      "shortCode": "ZSDH",
+      "kind": "zakon",
+      "keywords": [
+        "holding"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3999",
+      "gazette": "Uradni list RS 105/12  str. 11387",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-27",
+      "validFrom": "2012-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3999",
+      "versions": [
+        {
+          "id": "ZSDH-original",
+          "shortCode": "ZSDH",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 105/12  str. 11387",
+          "publishedAt": "2012-12-27",
+          "effectiveFrom": "2012-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3999",
+          "proposer": null
+        },
+        {
+          "id": "ZSDH-amend-ZSDH-A",
+          "shortCode": "ZSDH-A",
+          "label": "Sprememba ZSDH-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 39/13  str. 4663",
+          "publishedAt": "2013-05-06",
+          "effectiveFrom": "2013-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1513",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDH-1",
+      "title": "Zakon o Slovenskem državnem holdingu",
+      "shortTitle": "Zakon o Slovenskem državnem holdingu",
+      "shortCode": "ZSDH-1",
+      "kind": "zakon",
+      "keywords": [
+        "holding"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-0960",
+      "gazette": "Uradni list RS 25/14  str. 2859",
+      "issuingBody": null,
+      "adoptedAt": "2014-04-11",
+      "validFrom": "2014-04-11",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0960",
+      "versions": [
+        {
+          "id": "ZSDH-1-original",
+          "shortCode": "ZSDH-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 25/14  str. 2859",
+          "publishedAt": "2014-04-11",
+          "effectiveFrom": "2014-04-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-0960",
+          "proposer": null
+        },
+        {
+          "id": "ZSDH-1-amend-ZSDH-1A",
+          "shortCode": "ZSDH-1A",
+          "label": "Sprememba ZSDH-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 140/22  str. 10612",
+          "publishedAt": "2022-11-04",
+          "effectiveFrom": "2022-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDH-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDH-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem državnem holdingu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem državnem holdingu",
+      "shortCode": "ZSDH-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-3442",
+      "gazette": "Uradni list RS 140/22  str. 10612",
+      "issuingBody": null,
+      "adoptedAt": "2022-11-04",
+      "validFrom": "2022-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3442",
+      "versions": [
+        {
+          "id": "ZSDH-1A-original",
+          "shortCode": "ZSDH-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 140/22  str. 10612",
+          "publishedAt": "2022-11-04",
+          "effectiveFrom": "2022-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDH-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3442",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSDH-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem državnem holdingu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o Slovenskem državnem holdingu",
+      "shortCode": "ZSDH-A",
+      "kind": "zakon",
+      "keywords": [
+        "holding"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-1513",
+      "gazette": "Uradni list RS 39/13  str. 4663",
+      "issuingBody": null,
+      "adoptedAt": "2013-05-06",
+      "validFrom": "2013-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2013-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1513",
+      "versions": [
+        {
+          "id": "ZSDH-A-original",
+          "shortCode": "ZSDH-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/13  str. 4663",
+          "publishedAt": "2013-05-06",
+          "effectiveFrom": "2013-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSDH"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1513",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

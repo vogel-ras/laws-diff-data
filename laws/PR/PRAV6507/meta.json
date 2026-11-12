@@ -1,0 +1,58 @@
+{
+  "root": "PRAV6507",
+  "path": "laws/PR/PRAV6507",
+  "members": [
+    {
+      "id": "PRAV6507",
+      "title": "Pravilnik o pogojih, ki jih mora izpolnjevati pomorski agent",
+      "shortTitle": "Pravilnik o pogojih, ki jih mora izpolnjevati pomorski agent",
+      "shortCode": "PRAV6507",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-5885",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-08",
+      "validFrom": "2026-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5885",
+      "versions": [
+        {
+          "id": "PRAV6507-original",
+          "shortCode": "PRAV6507",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-08",
+          "effectiveFrom": "2026-01-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5885",
+          "proposer": null
+        },
+        {
+          "id": "PRAV6507-npb-PRAV6507",
+          "shortCode": "PRAV6507-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-12-27",
+          "effectiveFrom": "2006-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV6507",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

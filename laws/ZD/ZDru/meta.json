@@ -1,0 +1,256 @@
+{
+  "root": "ZDru",
+  "path": "laws/ZD/ZDru",
+  "members": [
+    {
+      "id": "ZDru",
+      "title": "Zakon o društvih",
+      "shortTitle": "Zakon o društvih",
+      "shortCode": "ZDru",
+      "kind": "zakon",
+      "keywords": [
+        "združenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1995-01-2789",
+      "gazette": "Uradni list RS 60/95  str. 4746",
+      "issuingBody": null,
+      "adoptedAt": "1995-10-20",
+      "validFrom": "1995-10-20",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2789",
+      "versions": [
+        {
+          "id": "ZDru-original",
+          "shortCode": "ZDru",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 60/95  str. 4746",
+          "publishedAt": "1995-10-20",
+          "effectiveFrom": "1995-10-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1995-01-2789",
+          "proposer": null
+        },
+        {
+          "id": "ZDru-amend-ZDru-A",
+          "shortCode": "ZDru-A",
+          "label": "Sprememba ZDru-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 89/99  str. 13437",
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDru"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4265",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDru-1",
+      "title": "Zakon o društvih",
+      "shortTitle": "Zakon o društvih",
+      "shortCode": "ZDru-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2567",
+      "gazette": "Uradni list RS 61/06  str. 6605",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-13",
+      "validFrom": "2006-06-13",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2567",
+      "versions": [
+        {
+          "id": "ZDru-1-original",
+          "shortCode": "ZDru-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/06  str. 6605",
+          "publishedAt": "2006-06-13",
+          "effectiveFrom": "2006-06-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2567",
+          "proposer": null
+        },
+        {
+          "id": "ZDru-1-amend-ZDru-1A",
+          "shortCode": "ZDru-1A",
+          "label": "Sprememba ZDru-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 58/09  str. 8138",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDru-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2868",
+          "proposer": null
+        },
+        {
+          "id": "ZDru-1-amend-ZDru-1B",
+          "shortCode": "ZDru-1B",
+          "label": "Sprememba ZDru-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 39/11  str. 5255",
+          "publishedAt": "2011-05-25",
+          "effectiveFrom": "2011-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDru-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1905",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDru-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o društvih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o društvih",
+      "shortCode": "ZDru-1A",
+      "kind": "zakon",
+      "keywords": [
+        "združenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-2868",
+      "gazette": "Uradni list RS 58/09  str. 8138",
+      "issuingBody": null,
+      "adoptedAt": "2009-07-27",
+      "validFrom": "2009-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2009-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2868",
+      "versions": [
+        {
+          "id": "ZDru-1A-original",
+          "shortCode": "ZDru-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 58/09  str. 8138",
+          "publishedAt": "2009-07-27",
+          "effectiveFrom": "2009-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDru-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2868",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDru-1B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o društvih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o društvih",
+      "shortCode": "ZDru-1B",
+      "kind": "zakon",
+      "keywords": [
+        "združenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1905",
+      "gazette": "Uradni list RS 39/11  str. 5255",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-25",
+      "validFrom": "2011-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1905",
+      "versions": [
+        {
+          "id": "ZDru-1B-original",
+          "shortCode": "ZDru-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 39/11  str. 5255",
+          "publishedAt": "2011-05-25",
+          "effectiveFrom": "2011-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDru-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1905",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDru-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o društvih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o društvih",
+      "shortCode": "ZDru-A",
+      "kind": "zakon",
+      "keywords": [
+        "združenje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4265",
+      "gazette": "Uradni list RS 89/99  str. 13437",
+      "issuingBody": null,
+      "adoptedAt": "1999-11-04",
+      "validFrom": "1999-11-04",
+      "validTo": null,
+      "latestPublishedAt": "1999-11-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4265",
+      "versions": [
+        {
+          "id": "ZDru-A-original",
+          "shortCode": "ZDru-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 89/99  str. 13437",
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDru"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4265",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

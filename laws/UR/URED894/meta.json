@@ -1,0 +1,97 @@
+{
+  "root": "URED894",
+  "path": "laws/UR/URED894",
+  "members": [
+    {
+      "id": "URED894",
+      "title": "Uredba o določitvi delovnih mest, na katerih se šteje zavarovalna doba s povečanjem",
+      "shortTitle": "Uredba o določitvi delovnih mest, na katerih se šteje zavarovalna doba s povečanjem",
+      "shortCode": "URED894",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-2122",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-06-30",
+      "validFrom": "1998-06-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2122",
+      "versions": [
+        {
+          "id": "URED894-original",
+          "shortCode": "URED894",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-06-30",
+          "effectiveFrom": "1998-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2122",
+          "proposer": null
+        },
+        {
+          "id": "URED894-npb-URED894",
+          "shortCode": "URED894-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1998-06-30",
+          "effectiveFrom": "1998-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED894",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED919",
+      "title": "Uredba o spremembah uredbe o določitvi delovnih mest, na katerih se šteje zavarovalna doba s povečanjem",
+      "shortTitle": "Uredba o spremembah uredbe o določitvi delovnih mest, na katerih se šteje zavarovalna doba s povečanjem",
+      "shortCode": "URED919",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "1999-01-5165",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-12-30",
+      "validFrom": "1999-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5165",
+      "versions": [
+        {
+          "id": "URED919-original",
+          "shortCode": "URED919",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-12-30",
+          "effectiveFrom": "1999-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED894"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5165",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

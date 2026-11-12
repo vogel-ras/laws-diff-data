@@ -1,0 +1,136 @@
+{
+  "root": "URED6911",
+  "path": "laws/UR/URED6911",
+  "members": [
+    {
+      "id": "URED6911",
+      "title": "Uredba o sistemu dovoljenj za zasaditev vinske trte",
+      "shortTitle": "Uredba o sistemu dovoljenj za zasaditev vinske trte",
+      "shortCode": "URED6911",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2016-01-0196",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-26",
+      "validFrom": "2024-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0196",
+      "versions": [
+        {
+          "id": "URED6911-original",
+          "shortCode": "URED6911",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-26",
+          "effectiveFrom": "2024-08-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-0196",
+          "proposer": null
+        },
+        {
+          "id": "URED6911-npb-URED6911",
+          "shortCode": "URED6911-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-01-22",
+          "effectiveFrom": "2016-01-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED6911",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8948",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o sistemu dovoljenj za zasaditev vinske trte",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o sistemu dovoljenj za zasaditev vinske trte",
+      "shortCode": "URED8948",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-0641",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-03-15",
+      "validFrom": "2024-03-15",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0641",
+      "versions": [
+        {
+          "id": "URED8948-original",
+          "shortCode": "URED8948",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-15",
+          "effectiveFrom": "2024-03-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0641",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9153",
+      "title": "Uredba o spremembah Uredbe o sistemu dovoljenj za zasaditev vinske trte",
+      "shortTitle": "Uredba o spremembah Uredbe o sistemu dovoljenj za zasaditev vinske trte",
+      "shortCode": "URED9153",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2024-01-2262",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-08-26",
+      "validFrom": "2024-08-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-08-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2262",
+      "versions": [
+        {
+          "id": "URED9153-original",
+          "shortCode": "URED9153",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-08-26",
+          "effectiveFrom": "2024-08-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6911"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2262",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

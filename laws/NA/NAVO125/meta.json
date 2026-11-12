@@ -1,0 +1,121 @@
+{
+  "root": "NAVO125",
+  "path": "laws/NA/NAVO125",
+  "members": [
+    {
+      "id": "NAVO125",
+      "title": "Sklep o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortTitle": "Sklep o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortCode": "NAVO125",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-2403",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-06-28",
+      "validFrom": "1999-06-28",
+      "validTo": null,
+      "latestPublishedAt": "1999-06-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2403",
+      "versions": [
+        {
+          "id": "NAVO125-original",
+          "shortCode": "NAVO125",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-06-28",
+          "effectiveFrom": "1999-06-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-2403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE317",
+      "title": "Sklep o spremembi sklepa o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortTitle": "Sklep o spremembi sklepa o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortCode": "SKLE317",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-3716",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "1999-09-24",
+      "validFrom": "1999-09-24",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3716",
+      "versions": [
+        {
+          "id": "SKLE317-original",
+          "shortCode": "SKLE317",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-24",
+          "effectiveFrom": "1999-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO125"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3716",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE867",
+      "title": "Skep o spremembi sklepa o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortTitle": "Skep o spremembi sklepa o pogojih in načinu, pod katerimi smejo rezidenti pri poslovanju z nerezidenti plačilo sprejeti ali opraviti v tuji gotovini",
+      "shortCode": "SKLE867",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-1124",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2000-03-23",
+      "validFrom": "2000-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1124",
+      "versions": [
+        {
+          "id": "SKLE867-original",
+          "shortCode": "SKLE867",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-23",
+          "effectiveFrom": "2000-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO125"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1124",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

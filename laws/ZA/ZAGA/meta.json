@@ -1,0 +1,43 @@
+{
+  "root": "ZAGA",
+  "path": "laws/ZA/ZAGA",
+  "members": [
+    {
+      "id": "ZAGA",
+      "title": "Zakon o arhivskem gradivu in arhivih",
+      "shortTitle": "Zakon o arhivskem gradivu in arhivih",
+      "shortCode": "ZAGA",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-1140",
+      "gazette": "Uradni list RS 20/97  str. 1619",
+      "issuingBody": null,
+      "adoptedAt": "1997-04-10",
+      "validFrom": "1997-04-10",
+      "validTo": null,
+      "latestPublishedAt": "1997-04-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1140",
+      "versions": [
+        {
+          "id": "ZAGA-original",
+          "shortCode": "ZAGA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/97  str. 1619",
+          "publishedAt": "1997-04-10",
+          "effectiveFrom": "1997-04-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1140",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

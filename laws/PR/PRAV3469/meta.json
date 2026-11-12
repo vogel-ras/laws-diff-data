@@ -1,0 +1,97 @@
+{
+  "root": "PRAV3469",
+  "path": "laws/PR/PRAV3469",
+  "members": [
+    {
+      "id": "PRAV3469",
+      "title": "Pravilnik o vzgojno-varstvenih družinah",
+      "shortTitle": "Pravilnik o vzgojno-varstvenih družinah",
+      "shortCode": "PRAV3469",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1996-01-3590",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-11-15",
+      "validFrom": "1996-11-15",
+      "validTo": null,
+      "latestPublishedAt": "1996-11-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3590",
+      "versions": [
+        {
+          "id": "PRAV3469-original",
+          "shortCode": "PRAV3469",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-11-15",
+          "effectiveFrom": "1996-11-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-3590",
+          "proposer": null
+        },
+        {
+          "id": "PRAV3469-npb-PRAV3469",
+          "shortCode": "PRAV3469-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1996-11-15",
+          "effectiveFrom": "1996-11-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV3469",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9192",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vzgojno-varstvenih družinah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vzgojno-varstvenih družinah",
+      "shortCode": "PRAV9192",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-3371",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2008-07-25",
+      "validFrom": "2008-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3371",
+      "versions": [
+        {
+          "id": "PRAV9192-original",
+          "shortCode": "PRAV9192",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-25",
+          "effectiveFrom": "2008-07-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3469"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3371",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

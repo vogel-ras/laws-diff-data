@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1231",
+  "path": "ordinances/OD/ODLO1231",
+  "members": [
+    {
+      "id": "ODLO1231",
+      "title": "Odlok o razglasitvi Farmacevtsko-medicinske zbirke Bohuslava Lavičke za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Farmacevtsko-medicinske zbirke Bohuslava Lavičke za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1231",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-4895",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-11-20",
+      "validFrom": "2002-11-20",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4895",
+      "versions": [
+        {
+          "id": "ODLO1231-original",
+          "shortCode": "ODLO1231",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4895",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1231-npb-ODLO1231",
+          "shortCode": "ODLO1231-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-11-20",
+          "effectiveFrom": "2002-11-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1231",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

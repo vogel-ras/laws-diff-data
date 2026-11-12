@@ -1,0 +1,82 @@
+{
+  "root": "SKLE52",
+  "path": "laws/SK/SKLE52",
+  "members": [
+    {
+      "id": "SKLE52",
+      "title": "Sklep o odprtju Konzulata Republike Slovenije v Atlanti",
+      "shortTitle": "Sklep o odprtju Konzulata Republike Slovenije v Atlanti",
+      "shortCode": "SKLE52",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "1999-01-0397",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "1999-02-13",
+      "validFrom": "1999-02-13",
+      "validTo": null,
+      "latestPublishedAt": "1999-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0397",
+      "versions": [
+        {
+          "id": "SKLE52-original",
+          "shortCode": "SKLE52",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-02-13",
+          "effectiveFrom": "1999-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-0397",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE7488",
+      "title": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Atlanti",
+      "shortTitle": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Atlanti",
+      "shortCode": "SKLE7488",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-1721",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-05-15",
+      "validFrom": "2009-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2009-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1721",
+      "versions": [
+        {
+          "id": "SKLE7488-original",
+          "shortCode": "SKLE7488",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-05-15",
+          "effectiveFrom": "2009-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE52"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1721",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

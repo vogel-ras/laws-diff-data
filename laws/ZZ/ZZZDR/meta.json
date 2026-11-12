@@ -1,0 +1,164 @@
+{
+  "root": "ZZZDR",
+  "path": "laws/ZZ/ZZZDR",
+  "members": [
+    {
+      "id": "ZAKO40",
+      "title": "Zakon o zakonski zvezi in družinskih razmerjih (ZZZDR)",
+      "shortTitle": "Zakon o zakonski zvezi in družinskih razmerjih (ZZZDR)",
+      "shortCode": "ZZZDR",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1976-04-0644",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1976-06-04",
+      "validFrom": "1976-06-04",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1976-04-0644",
+      "versions": [
+        {
+          "id": "ZAKO40-original",
+          "shortCode": "ZZZDR",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1976-06-04",
+          "effectiveFrom": "1976-06-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1976-04-0644",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO40-amend-ZZZDR-B",
+          "shortCode": "ZZZDR-B",
+          "label": "Sprememba ZZZDR-B",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 64/2001  str. 6580",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO40"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3470",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO40-amend-ZZZDR-C",
+          "shortCode": "ZZZDR-C",
+          "label": "Sprememba ZZZDR-C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 16/04  str. 1593",
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO40"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0632",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZDR-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih",
+      "shortCode": "ZZZDR-B",
+      "kind": "zakon",
+      "keywords": [
+        "pravo zakonske zveze",
+        "družina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-3470",
+      "gazette": "Uradni list RS 64/2001  str. 6580",
+      "issuingBody": null,
+      "adoptedAt": "2001-08-03",
+      "validFrom": "2001-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3470",
+      "versions": [
+        {
+          "id": "ZZZDR-B-original",
+          "shortCode": "ZZZDR-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 64/2001  str. 6580",
+          "publishedAt": "2001-08-03",
+          "effectiveFrom": "2001-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO40"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3470",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZZDR-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o zakonski zvezi in družinskih razmerjih",
+      "shortCode": "ZZZDR-C",
+      "kind": "zakon",
+      "keywords": [
+        "pravo zakonske zveze",
+        "družina",
+        "otrok",
+        "enoroditeljska družina",
+        "dolžnost preživljanja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0632",
+      "gazette": "Uradni list RS 16/04  str. 1593",
+      "issuingBody": null,
+      "adoptedAt": "2004-02-20",
+      "validFrom": "2004-02-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0632",
+      "versions": [
+        {
+          "id": "ZZZDR-C-original",
+          "shortCode": "ZZZDR-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/04  str. 1593",
+          "publishedAt": "2004-02-20",
+          "effectiveFrom": "2004-02-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO40"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0632",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

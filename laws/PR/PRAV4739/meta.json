@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4739",
+  "path": "laws/PR/PRAV4739",
+  "members": [
+    {
+      "id": "PRAV4739",
+      "title": "Pravilnik o kakovosti izdelkov iz žit",
+      "shortTitle": "Pravilnik o kakovosti izdelkov iz žit",
+      "shortCode": "PRAV4739",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-0996",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2003-03-13",
+      "validFrom": "2003-03-13",
+      "validTo": null,
+      "latestPublishedAt": "2003-03-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0996",
+      "versions": [
+        {
+          "id": "PRAV4739-original",
+          "shortCode": "PRAV4739",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-03-13",
+          "effectiveFrom": "2003-03-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0996",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5312",
+      "title": "Pravilnik o spremembi pravilnika o kakovosti izdelkov iz žit",
+      "shortTitle": "Pravilnik o spremembi pravilnika o kakovosti izdelkov iz žit",
+      "shortCode": "PRAV5312",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1338",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2004-03-31",
+      "validFrom": "2004-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1338",
+      "versions": [
+        {
+          "id": "PRAV5312-original",
+          "shortCode": "PRAV5312",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4739"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1338",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

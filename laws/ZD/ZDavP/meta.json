@@ -1,0 +1,1408 @@
+{
+  "root": "ZDavP",
+  "path": "laws/ZD/ZDavP",
+  "members": [
+    {
+      "id": "ZAKO7713",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku (ZDavP-2K)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku (ZDavP-2K)",
+      "shortCode": "ZDavP-2K",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-3269",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-12-06",
+      "validFrom": "2017-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2017-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3269",
+      "versions": [
+        {
+          "id": "ZAKO7713-original",
+          "shortCode": "ZDavP-2K",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-12-06",
+          "effectiveFrom": "2017-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3269",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP",
+      "title": "Zakon o davčnem postopku",
+      "shortTitle": "Zakon o davčnem postopku",
+      "shortCode": "ZDavP",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-1062",
+      "gazette": "Uradni list RS 18/96  str. 1477",
+      "issuingBody": null,
+      "adoptedAt": "1996-04-02",
+      "validFrom": "1996-04-02",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1062",
+      "versions": [
+        {
+          "id": "ZDavP-original",
+          "shortCode": "ZDavP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/96  str. 1477",
+          "publishedAt": "1996-04-02",
+          "effectiveFrom": "1996-04-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-1062",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-amend-ZDavP-A",
+          "shortCode": "ZDavP-A",
+          "label": "Sprememba ZDavP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 87/97  str. 8370",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4010",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-amend-ZDavP-B",
+          "shortCode": "ZDavP-B",
+          "label": "Sprememba ZDavP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 82/98  str. 7012",
+          "publishedAt": "1998-12-04",
+          "effectiveFrom": "1998-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4282",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-amend-ZDavP-C",
+          "shortCode": "ZDavP-C",
+          "label": "Sprememba ZDavP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 91/98  str. 9051",
+          "publishedAt": "1998-12-30",
+          "effectiveFrom": "1998-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4743",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-amend-ZDavP-D",
+          "shortCode": "ZDavP-D",
+          "label": "Sprememba ZDavP-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 108/99  str. 16526",
+          "publishedAt": "1999-12-27",
+          "effectiveFrom": "1999-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5027",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-amend-ZDavP-E",
+          "shortCode": "ZDavP-E",
+          "label": "Sprememba ZDavP-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 97/2001  str. 9363",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4798",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-1",
+      "title": "Zakon o davčnem postopku",
+      "shortTitle": "Zakon o davčnem postopku",
+      "shortCode": "ZDavP-1",
+      "kind": "zakon",
+      "keywords": [
+        "prekršek",
+        "cestno-prometni prekršek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2537",
+      "gazette": "Uradni list RS 54/04  str. 7073",
+      "issuingBody": null,
+      "adoptedAt": "2004-05-20",
+      "validFrom": "2004-05-20",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2537",
+      "versions": [
+        {
+          "id": "ZDavP-1-original",
+          "shortCode": "ZDavP-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 54/04  str. 7073",
+          "publishedAt": "2004-05-20",
+          "effectiveFrom": "2004-05-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2537",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-1-amend-ZDavP-1A",
+          "shortCode": "ZDavP-1A",
+          "label": "Sprememba ZDavP-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 139/04  str. 16513",
+          "publishedAt": "2004-12-28",
+          "effectiveFrom": "2004-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5981",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-1-amend-ZDavP-1B",
+          "shortCode": "ZDavP-1B",
+          "label": "Sprememba ZDavP-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 109/05  str. 11613",
+          "publishedAt": "2005-12-06",
+          "effectiveFrom": "2005-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4752",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-5981",
+      "gazette": "Uradni list RS 139/04  str. 16513",
+      "issuingBody": null,
+      "adoptedAt": "2004-12-28",
+      "validFrom": "2004-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5981",
+      "versions": [
+        {
+          "id": "ZDavP-1A-original",
+          "shortCode": "ZDavP-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 139/04  str. 16513",
+          "publishedAt": "2004-12-28",
+          "effectiveFrom": "2004-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5981",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-1B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-1B",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4752",
+      "gazette": "Uradni list RS 109/05  str. 11613",
+      "issuingBody": null,
+      "adoptedAt": "2005-12-06",
+      "validFrom": "2005-12-06",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4752",
+      "versions": [
+        {
+          "id": "ZDavP-1B-original",
+          "shortCode": "ZDavP-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/05  str. 11613",
+          "publishedAt": "2005-12-06",
+          "effectiveFrom": "2005-12-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4752",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2",
+      "title": "Zakon o davčnem postopku",
+      "shortTitle": "Zakon o davčnem postopku",
+      "shortCode": "ZDavP-2",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-5018",
+      "gazette": "Uradni list RS 117/06  str. 12331",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-16",
+      "validFrom": "2006-11-16",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5018",
+      "versions": [
+        {
+          "id": "ZDavP-2-original",
+          "shortCode": "ZDavP-2",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 117/06  str. 12331",
+          "publishedAt": "2006-11-16",
+          "effectiveFrom": "2006-11-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-5018",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2A",
+          "shortCode": "ZDavP-2A",
+          "label": "Sprememba ZDavP-2A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 125/08  str. 16790",
+          "publishedAt": "2008-12-30",
+          "effectiveFrom": "2008-12-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5715",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2B",
+          "shortCode": "ZDavP-2B",
+          "label": "Sprememba ZDavP-2B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 110/09  str. 14945",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4984",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2C",
+          "shortCode": "ZDavP-2C",
+          "label": "Sprememba ZDavP-2C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 43/10  str. 6133",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2186",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2D",
+          "shortCode": "ZDavP-2D",
+          "label": "Sprememba ZDavP-2D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 97/10  str. 15011",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5019",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2E",
+          "shortCode": "ZDavP-2E",
+          "label": "Sprememba ZDavP-2E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 32/12  str. 2885",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1402",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2F",
+          "shortCode": "ZDavP-2F",
+          "label": "Sprememba ZDavP-2F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 94/12  str. 9563",
+          "publishedAt": "2012-12-10",
+          "effectiveFrom": "2012-12-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3643",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2G",
+          "shortCode": "ZDavP-2G",
+          "label": "Sprememba ZDavP-2G",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 111/13  str. 13150",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4127",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2H",
+          "shortCode": "ZDavP-2H",
+          "label": "Sprememba ZDavP-2H",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 90/14  str. 10180",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3647",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2I",
+          "shortCode": "ZDavP-2I",
+          "label": "Sprememba ZDavP-2I",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 91/15  str. 10243",
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3571",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2J",
+          "shortCode": "ZDavP-2J",
+          "label": "Sprememba ZDavP-2J",
+          "kind": "amendment",
+          "sequence": 11,
+          "gazette": "Uradni list RS 63/16  str. 8776",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2685",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZAKO7713",
+          "shortCode": "ZDavP-2K",
+          "label": "Sprememba ZDavP-2K",
+          "kind": "amendment",
+          "sequence": 12,
+          "gazette": null,
+          "publishedAt": "2017-12-06",
+          "effectiveFrom": "2017-12-06",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-3269",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2L",
+          "shortCode": "ZDavP-2L",
+          "label": "Sprememba ZDavP-2L",
+          "kind": "amendment",
+          "sequence": 13,
+          "gazette": "Uradni list RS 36/19  str. 4247",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1628",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2M",
+          "shortCode": "ZDavP-2M",
+          "label": "Sprememba ZDavP-2M",
+          "kind": "amendment",
+          "sequence": 14,
+          "gazette": "Uradni list RS 66/19  str. 7882",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2928",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2N",
+          "shortCode": "ZDavP-2N",
+          "label": "Sprememba ZDavP-2N",
+          "kind": "amendment",
+          "sequence": 15,
+          "gazette": "Uradni list RS 163/22  str. 13699",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4188",
+          "proposer": null
+        },
+        {
+          "id": "ZDavP-2-amend-ZDavP-2O",
+          "shortCode": "ZDavP-2O",
+          "label": "Sprememba ZDavP-2O",
+          "kind": "amendment",
+          "sequence": 16,
+          "gazette": "Uradni list RS 100/24  str. 10493",
+          "publishedAt": "2024-11-26",
+          "effectiveFrom": "2024-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3102",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-2A",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2008-01-5715",
+      "gazette": "Uradni list RS 125/08  str. 16790",
+      "issuingBody": null,
+      "adoptedAt": "2008-12-30",
+      "validFrom": "2008-12-30",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5715",
+      "versions": [
+        {
+          "id": "ZDavP-2A-original",
+          "shortCode": "ZDavP-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 125/08  str. 16790",
+          "publishedAt": "2008-12-30",
+          "effectiveFrom": "2008-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5715",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2B",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni sistem",
+        "davčni zavezanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4984",
+      "gazette": "Uradni list RS 110/09  str. 14945",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-29",
+      "validFrom": "2009-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4984",
+      "versions": [
+        {
+          "id": "ZDavP-2B-original",
+          "shortCode": "ZDavP-2B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/09  str. 14945",
+          "publishedAt": "2009-12-29",
+          "effectiveFrom": "2009-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4984",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2C",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-2186",
+      "gazette": "Uradni list RS 43/10  str. 6133",
+      "issuingBody": null,
+      "adoptedAt": "2010-05-31",
+      "validFrom": "2010-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2186",
+      "versions": [
+        {
+          "id": "ZDavP-2C-original",
+          "shortCode": "ZDavP-2C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 43/10  str. 6133",
+          "publishedAt": "2010-05-31",
+          "effectiveFrom": "2010-05-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-2186",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2D",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-5019",
+      "gazette": "Uradni list RS 97/10  str. 15011",
+      "issuingBody": null,
+      "adoptedAt": "2010-12-03",
+      "validFrom": "2010-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2010-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5019",
+      "versions": [
+        {
+          "id": "ZDavP-2D-original",
+          "shortCode": "ZDavP-2D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/10  str. 15011",
+          "publishedAt": "2010-12-03",
+          "effectiveFrom": "2010-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-5019",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2E",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-1402",
+      "gazette": "Uradni list RS 32/12  str. 2885",
+      "issuingBody": null,
+      "adoptedAt": "2012-05-04",
+      "validFrom": "2012-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2012-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1402",
+      "versions": [
+        {
+          "id": "ZDavP-2E-original",
+          "shortCode": "ZDavP-2E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/12  str. 2885",
+          "publishedAt": "2012-05-04",
+          "effectiveFrom": "2012-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-1402",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2F",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-3643",
+      "gazette": "Uradni list RS 94/12  str. 9563",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-10",
+      "validFrom": "2012-12-10",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3643",
+      "versions": [
+        {
+          "id": "ZDavP-2F-original",
+          "shortCode": "ZDavP-2F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 94/12  str. 9563",
+          "publishedAt": "2012-12-10",
+          "effectiveFrom": "2012-12-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-3643",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2G",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2G",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-4127",
+      "gazette": "Uradni list RS 111/13  str. 13150",
+      "issuingBody": null,
+      "adoptedAt": "2013-12-27",
+      "validFrom": "2013-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2013-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4127",
+      "versions": [
+        {
+          "id": "ZDavP-2G-original",
+          "shortCode": "ZDavP-2G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 111/13  str. 13150",
+          "publishedAt": "2013-12-27",
+          "effectiveFrom": "2013-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-4127",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2H",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-01-3647",
+      "gazette": "Uradni list RS 90/14  str. 10180",
+      "issuingBody": null,
+      "adoptedAt": "2014-12-15",
+      "validFrom": "2014-12-15",
+      "validTo": null,
+      "latestPublishedAt": "2014-12-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3647",
+      "versions": [
+        {
+          "id": "ZDavP-2H-original",
+          "shortCode": "ZDavP-2H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 90/14  str. 10180",
+          "publishedAt": "2014-12-15",
+          "effectiveFrom": "2014-12-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-01-3647",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2I",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3571",
+      "gazette": "Uradni list RS 91/15  str. 10243",
+      "issuingBody": null,
+      "adoptedAt": "2015-11-30",
+      "validFrom": "2015-11-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-11-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3571",
+      "versions": [
+        {
+          "id": "ZDavP-2I-original",
+          "shortCode": "ZDavP-2I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/15  str. 10243",
+          "publishedAt": "2015-11-30",
+          "effectiveFrom": "2015-11-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3571",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2J",
+      "kind": "zakon",
+      "keywords": [
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-2685",
+      "gazette": "Uradni list RS 63/16  str. 8776",
+      "issuingBody": null,
+      "adoptedAt": "2016-10-07",
+      "validFrom": "2016-10-07",
+      "validTo": null,
+      "latestPublishedAt": "2016-10-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2685",
+      "versions": [
+        {
+          "id": "ZDavP-2J-original",
+          "shortCode": "ZDavP-2J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 63/16  str. 8776",
+          "publishedAt": "2016-10-07",
+          "effectiveFrom": "2016-10-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2685",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2L",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2L",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-1628",
+      "gazette": "Uradni list RS 36/19  str. 4247",
+      "issuingBody": null,
+      "adoptedAt": "2019-06-07",
+      "validFrom": "2019-06-07",
+      "validTo": null,
+      "latestPublishedAt": "2019-06-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1628",
+      "versions": [
+        {
+          "id": "ZDavP-2L-original",
+          "shortCode": "ZDavP-2L",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 36/19  str. 4247",
+          "publishedAt": "2019-06-07",
+          "effectiveFrom": "2019-06-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-1628",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2M",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2M",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-2928",
+      "gazette": "Uradni list RS 66/19  str. 7882",
+      "issuingBody": null,
+      "adoptedAt": "2019-11-05",
+      "validFrom": "2019-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2928",
+      "versions": [
+        {
+          "id": "ZDavP-2M-original",
+          "shortCode": "ZDavP-2M",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 66/19  str. 7882",
+          "publishedAt": "2019-11-05",
+          "effectiveFrom": "2019-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2928",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2N",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2N",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-4188",
+      "gazette": "Uradni list RS 163/22  str. 13699",
+      "issuingBody": null,
+      "adoptedAt": "2022-12-27",
+      "validFrom": "2022-12-27",
+      "validTo": null,
+      "latestPublishedAt": "2022-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4188",
+      "versions": [
+        {
+          "id": "ZDavP-2N-original",
+          "shortCode": "ZDavP-2N",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 163/22  str. 13699",
+          "publishedAt": "2022-12-27",
+          "effectiveFrom": "2022-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-4188",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-2O",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o davčnem postopku",
+      "shortCode": "ZDavP-2O",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-3102",
+      "gazette": "Uradni list RS 100/24  str. 10493",
+      "issuingBody": null,
+      "adoptedAt": "2024-11-26",
+      "validFrom": "2024-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2024-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3102",
+      "versions": [
+        {
+          "id": "ZDavP-2O-original",
+          "shortCode": "ZDavP-2O",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/24  str. 10493",
+          "publishedAt": "2024-11-26",
+          "effectiveFrom": "2024-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP-2"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-3102",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-A",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni sistem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1997-01-4010",
+      "gazette": "Uradni list RS 87/97  str. 8370",
+      "issuingBody": null,
+      "adoptedAt": "1997-12-29",
+      "validFrom": "1997-12-29",
+      "validTo": null,
+      "latestPublishedAt": "1997-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4010",
+      "versions": [
+        {
+          "id": "ZDavP-A-original",
+          "shortCode": "ZDavP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/97  str. 8370",
+          "publishedAt": "1997-12-29",
+          "effectiveFrom": "1997-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-4010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-B",
+      "title": "Zakon o dopolnitvi zakona o davčnem postopku",
+      "shortTitle": "Zakon o dopolnitvi zakona o davčnem postopku",
+      "shortCode": "ZDavP-B",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4282",
+      "gazette": "Uradni list RS 82/98  str. 7012",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-04",
+      "validFrom": "1998-12-04",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4282",
+      "versions": [
+        {
+          "id": "ZDavP-B-original",
+          "shortCode": "ZDavP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/98  str. 7012",
+          "publishedAt": "1998-12-04",
+          "effectiveFrom": "1998-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4282",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-C",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davčni zavezanec",
+        "davek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-4743",
+      "gazette": "Uradni list RS 91/98  str. 9051",
+      "issuingBody": null,
+      "adoptedAt": "1998-12-30",
+      "validFrom": "1998-12-30",
+      "validTo": null,
+      "latestPublishedAt": "1998-12-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4743",
+      "versions": [
+        {
+          "id": "ZDavP-C-original",
+          "shortCode": "ZDavP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/98  str. 9051",
+          "publishedAt": "1998-12-30",
+          "effectiveFrom": "1998-12-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-4743",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o davčnem postopku",
+      "shortCode": "ZDavP-D",
+      "kind": "zakon",
+      "keywords": [
+        "davčni sistem",
+        "davek",
+        "davčni zavezanec"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-5027",
+      "gazette": "Uradni list RS 108/99  str. 16526",
+      "issuingBody": null,
+      "adoptedAt": "1999-12-27",
+      "validFrom": "1999-12-27",
+      "validTo": null,
+      "latestPublishedAt": "1999-12-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5027",
+      "versions": [
+        {
+          "id": "ZDavP-D-original",
+          "shortCode": "ZDavP-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/99  str. 16526",
+          "publishedAt": "1999-12-27",
+          "effectiveFrom": "1999-12-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-5027",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZDavP-E",
+      "title": "Zakon o spremembi zakona o davčnem postopku",
+      "shortTitle": "Zakon o spremembi zakona o davčnem postopku",
+      "shortCode": "ZDavP-E",
+      "kind": "zakon",
+      "keywords": [
+        "davek",
+        "davčni sistem"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4798",
+      "gazette": "Uradni list RS 97/2001  str. 9363",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-04",
+      "validFrom": "2001-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4798",
+      "versions": [
+        {
+          "id": "ZDavP-E-original",
+          "shortCode": "ZDavP-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/2001  str. 9363",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZDavP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4798",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

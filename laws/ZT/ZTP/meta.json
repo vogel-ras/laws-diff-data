@@ -1,0 +1,281 @@
+{
+  "root": "ZTP",
+  "path": "laws/ZT/ZTP",
+  "members": [
+    {
+      "id": "ZTP",
+      "title": "Zakon o tajnih podatkih",
+      "shortTitle": "Zakon o tajnih podatkih",
+      "shortCode": "ZTP",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "zaupnost",
+        "državna tajnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4450",
+      "gazette": "Uradni list RS 87/2001  str. 8697",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-08",
+      "validFrom": "2001-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4450",
+      "versions": [
+        {
+          "id": "ZTP-original",
+          "shortCode": "ZTP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2001  str. 8697",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4450",
+          "proposer": null
+        },
+        {
+          "id": "ZTP-amend-ZTP-A",
+          "shortCode": "ZTP-A",
+          "label": "Sprememba ZTP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 101/2003  str. 14072",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4504",
+          "proposer": null
+        },
+        {
+          "id": "ZTP-amend-ZTP-B",
+          "shortCode": "ZTP-B",
+          "label": "Sprememba ZTP-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 28/06  str. 2890",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1128",
+          "proposer": null
+        },
+        {
+          "id": "ZTP-amend-ZTP-C",
+          "shortCode": "ZTP-C",
+          "label": "Sprememba ZTP-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 9/10  str. 1089",
+          "publishedAt": "2010-02-09",
+          "effectiveFrom": "2010-02-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0313",
+          "proposer": null
+        },
+        {
+          "id": "ZTP-amend-ZTP-E",
+          "shortCode": "ZTP-E",
+          "label": "Sprememba ZTP-E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 8/20  str. 665",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0197",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTP-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o tajnih podatkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o tajnih podatkih",
+      "shortCode": "ZTP-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "zaupnost",
+        "državna tajnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-4504",
+      "gazette": "Uradni list RS 101/2003  str. 14072",
+      "issuingBody": null,
+      "adoptedAt": "2003-10-21",
+      "validFrom": "2003-10-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-10-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4504",
+      "versions": [
+        {
+          "id": "ZTP-A-original",
+          "shortCode": "ZTP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 101/2003  str. 14072",
+          "publishedAt": "2003-10-21",
+          "effectiveFrom": "2003-10-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4504",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTP-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o tajnih podatkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o tajnih podatkih",
+      "shortCode": "ZTP-B",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "zaupnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-1128",
+      "gazette": "Uradni list RS 28/06  str. 2890",
+      "issuingBody": null,
+      "adoptedAt": "2006-03-17",
+      "validFrom": "2006-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1128",
+      "versions": [
+        {
+          "id": "ZTP-B-original",
+          "shortCode": "ZTP-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 28/06  str. 2890",
+          "publishedAt": "2006-03-17",
+          "effectiveFrom": "2006-03-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1128",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTP-C",
+      "title": "Zakon o spremembah Zakona o tajnih podatkih",
+      "shortTitle": "Zakon o spremembah Zakona o tajnih podatkih",
+      "shortCode": "ZTP-C",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo podatkov",
+        "zaupnost"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-0313",
+      "gazette": "Uradni list RS 9/10  str. 1089",
+      "issuingBody": null,
+      "adoptedAt": "2010-02-09",
+      "validFrom": "2010-02-09",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0313",
+      "versions": [
+        {
+          "id": "ZTP-C-original",
+          "shortCode": "ZTP-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/10  str. 1089",
+          "publishedAt": "2010-02-09",
+          "effectiveFrom": "2010-02-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0313",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZTP-E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o tajnih podatkih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o tajnih podatkih",
+      "shortCode": "ZTP-E",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0197",
+      "gazette": "Uradni list RS 8/20  str. 665",
+      "issuingBody": null,
+      "adoptedAt": "2020-02-07",
+      "validFrom": "2020-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2020-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0197",
+      "versions": [
+        {
+          "id": "ZTP-E-original",
+          "shortCode": "ZTP-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/20  str. 665",
+          "publishedAt": "2020-02-07",
+          "effectiveFrom": "2020-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZTP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0197",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

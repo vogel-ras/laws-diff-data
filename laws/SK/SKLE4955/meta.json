@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4955",
+  "path": "laws/SK/SKLE4955",
+  "members": [
+    {
+      "id": "SKLE4955",
+      "title": "Sklep o imenovanju Nacionalnega sveta za kulturo",
+      "shortTitle": "Sklep o imenovanju Nacionalnega sveta za kulturo",
+      "shortCode": "SKLE4955",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-3708",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2004-07-29",
+      "validFrom": "2004-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2004-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3708",
+      "versions": [
+        {
+          "id": "SKLE4955-original",
+          "shortCode": "SKLE4955",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-07-29",
+          "effectiveFrom": "2004-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3708",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5983",
+      "title": "Sklep o spremembi Sklepa o imenovanju Nacionalnega sveta za kulturo",
+      "shortTitle": "Sklep o spremembi Sklepa o imenovanju Nacionalnega sveta za kulturo",
+      "shortCode": "SKLE5983",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2005-01-3074",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2005-07-22",
+      "validFrom": "2005-07-22",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3074",
+      "versions": [
+        {
+          "id": "SKLE5983-original",
+          "shortCode": "SKLE5983",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-22",
+          "effectiveFrom": "2005-07-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4955"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3074",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

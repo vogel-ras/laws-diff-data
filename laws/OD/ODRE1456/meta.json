@@ -1,0 +1,97 @@
+{
+  "root": "ODRE1456",
+  "path": "laws/OD/ODRE1456",
+  "members": [
+    {
+      "id": "ODRE1456",
+      "title": "Odredba o pogojih za snemanje v podzemnih jamah na območju regijskega parka Škocjanske jame",
+      "shortTitle": "Odredba o pogojih za snemanje v podzemnih jamah na območju regijskega parka Škocjanske jame",
+      "shortCode": "ODRE1456",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1998-01-0455",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-02-13",
+      "validFrom": "1998-02-13",
+      "validTo": null,
+      "latestPublishedAt": "1998-02-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0455",
+      "versions": [
+        {
+          "id": "ODRE1456-original",
+          "shortCode": "ODRE1456",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-02-13",
+          "effectiveFrom": "1998-02-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-0455",
+          "proposer": null
+        },
+        {
+          "id": "ODRE1456-npb-ODRE1456",
+          "shortCode": "ODRE1456-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1998-02-13",
+          "effectiveFrom": "1998-02-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODRE1456",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODRE1457",
+      "title": "Odredba o spremembi odredbe o pogojih za snemanje v podzemnih jamah na območju regijskega parka Škocjanske jame",
+      "shortTitle": "Odredba o spremembi odredbe o pogojih za snemanje v podzemnih jamah na območju regijskega parka Škocjanske jame",
+      "shortCode": "ODRE1457",
+      "kind": "odredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odredba",
+      "sopNumber": "1998-01-1457",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-04-24",
+      "validFrom": "1998-04-24",
+      "validTo": null,
+      "latestPublishedAt": "1998-04-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1457",
+      "versions": [
+        {
+          "id": "ODRE1457-original",
+          "shortCode": "ODRE1457",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-04-24",
+          "effectiveFrom": "1998-04-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODRE1456"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-1457",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

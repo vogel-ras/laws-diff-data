@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4576",
+  "path": "laws/PR/PRAV4576",
+  "members": [
+    {
+      "id": "PRAV4576",
+      "title": "Pravilnik o elektronskem dostopu do podatkov, vpisanih v sodni register",
+      "shortTitle": "Pravilnik o elektronskem dostopu do podatkov, vpisanih v sodni register",
+      "shortCode": "PRAV4576",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0845",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-01",
+      "validFrom": "2004-03-01",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0845",
+      "versions": [
+        {
+          "id": "PRAV4576-original",
+          "shortCode": "PRAV4576",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-01",
+          "effectiveFrom": "2004-03-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0845",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV6133",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o elektronskem dostopu do podatkov, vpisanih v sodni register",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o elektronskem dostopu do podatkov, vpisanih v sodni register",
+      "shortCode": "PRAV6133",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-5430",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za pravosodje",
+      "adoptedAt": "2004-12-03",
+      "validFrom": "2004-12-03",
+      "validTo": null,
+      "latestPublishedAt": "2004-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5430",
+      "versions": [
+        {
+          "id": "PRAV6133-original",
+          "shortCode": "PRAV6133",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-12-03",
+          "effectiveFrom": "2004-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4576"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-5430",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "root": "ZIRD",
+  "path": "laws/ZI/ZIRD",
+  "members": [
+    {
+      "id": "ZIRD",
+      "title": "Zakon o izvajanju rejniške dejavnosti",
+      "shortTitle": "Zakon o izvajanju rejniške dejavnosti",
+      "shortCode": "ZIRD",
+      "kind": "zakon",
+      "keywords": [
+        "družina",
+        "otrok",
+        "družinska politika"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-5388",
+      "gazette": "Uradni list RS 110/2002  str. 13132",
+      "issuingBody": null,
+      "adoptedAt": "2002-12-18",
+      "validFrom": "2002-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5388",
+      "versions": [
+        {
+          "id": "ZIRD-original",
+          "shortCode": "ZIRD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 110/2002  str. 13132",
+          "publishedAt": "2002-12-18",
+          "effectiveFrom": "2002-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5388",
+          "proposer": null
+        },
+        {
+          "id": "ZIRD-amend-ZIRD-A",
+          "shortCode": "ZIRD-A",
+          "label": "Sprememba ZIRD-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 109/12  str. 12134",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZIRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4322",
+          "proposer": null
+        },
+        {
+          "id": "ZIRD-amend-ZIRD-B",
+          "shortCode": "ZIRD-B",
+          "label": "Sprememba ZIRD-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 22/19  str. 2628",
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0918",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIRD-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvajanju rejniške dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvajanju rejniške dejavnosti",
+      "shortCode": "ZIRD-A",
+      "kind": "zakon",
+      "keywords": [
+        "skrbništvo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-4322",
+      "gazette": "Uradni list RS 109/12  str. 12134",
+      "issuingBody": null,
+      "adoptedAt": "2012-12-31",
+      "validFrom": "2012-12-31",
+      "validTo": null,
+      "latestPublishedAt": "2012-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4322",
+      "versions": [
+        {
+          "id": "ZIRD-A-original",
+          "shortCode": "ZIRD-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 109/12  str. 12134",
+          "publishedAt": "2012-12-31",
+          "effectiveFrom": "2012-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-4322",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIRD-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o izvajanju rejniške dejavnosti",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o izvajanju rejniške dejavnosti",
+      "shortCode": "ZIRD-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-0918",
+      "gazette": "Uradni list RS 22/19  str. 2628",
+      "issuingBody": null,
+      "adoptedAt": "2019-04-05",
+      "validFrom": "2019-04-05",
+      "validTo": null,
+      "latestPublishedAt": "2019-04-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0918",
+      "versions": [
+        {
+          "id": "ZIRD-B-original",
+          "shortCode": "ZIRD-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 22/19  str. 2628",
+          "publishedAt": "2019-04-05",
+          "effectiveFrom": "2019-04-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIRD"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-0918",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

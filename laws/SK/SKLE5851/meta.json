@@ -1,0 +1,82 @@
+{
+  "root": "SKLE5851",
+  "path": "laws/SK/SKLE5851",
+  "members": [
+    {
+      "id": "SKLE12426",
+      "title": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Izmirju",
+      "shortTitle": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Izmirju",
+      "shortCode": "SKLE12426",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2022-01-2611",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-08-03",
+      "validFrom": "2022-08-03",
+      "validTo": null,
+      "latestPublishedAt": "2022-08-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2611",
+      "versions": [
+        {
+          "id": "SKLE12426-original",
+          "shortCode": "SKLE12426",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-08-03",
+          "effectiveFrom": "2022-08-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE5851"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2611",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE5851",
+      "title": "Sklep o odprtju Konzulata Republike Slovenije v Izmirju",
+      "shortTitle": "Sklep o odprtju Konzulata Republike Slovenije v Izmirju",
+      "shortCode": "SKLE5851",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2006-01-1404",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-03-31",
+      "validFrom": "2006-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1404",
+      "versions": [
+        {
+          "id": "SKLE5851-original",
+          "shortCode": "SKLE5851",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-31",
+          "effectiveFrom": "2006-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1404",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

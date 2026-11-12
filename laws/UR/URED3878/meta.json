@@ -1,0 +1,97 @@
+{
+  "root": "URED3878",
+  "path": "laws/UR/URED3878",
+  "members": [
+    {
+      "id": "URED3878",
+      "title": "Uredba o določitvi zunanje meje na nekaterih zemljiških parcelah priobalnega zemljišča neimenovanega potoka na območju Občine Cerklje na Gorenjskem",
+      "shortTitle": "Uredba o določitvi zunanje meje na nekaterih zemljiških parcelah priobalnega zemljišča neimenovanega potoka na območju Občine Cerklje na Gorenjskem",
+      "shortCode": "URED3878",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-2999",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-07-18",
+      "validFrom": "2005-07-18",
+      "validTo": null,
+      "latestPublishedAt": "2005-07-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2999",
+      "versions": [
+        {
+          "id": "URED3878-original",
+          "shortCode": "URED3878",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-07-18",
+          "effectiveFrom": "2005-07-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-2999",
+          "proposer": null
+        },
+        {
+          "id": "URED3878-npb-URED3878",
+          "shortCode": "URED3878-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2005-07-18",
+          "effectiveFrom": "2005-07-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED3878",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4232",
+      "title": "Uredba o spremembi Uredbe o določitvi zunanje meje na nekaterih zemljiških parcelah priobalnega zemljišča neimenovanega potoka na območju Občine Cerklje na Gorenjskem",
+      "shortTitle": "Uredba o spremembi Uredbe o določitvi zunanje meje na nekaterih zemljiških parcelah priobalnega zemljišča neimenovanega potoka na območju Občine Cerklje na Gorenjskem",
+      "shortCode": "URED4232",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4143",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-09-15",
+      "validFrom": "2006-09-15",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4143",
+      "versions": [
+        {
+          "id": "URED4232-original",
+          "shortCode": "URED4232",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-15",
+          "effectiveFrom": "2006-09-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3878"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4143",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

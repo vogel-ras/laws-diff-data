@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4329",
+  "path": "laws/PR/PRAV4329",
+  "members": [
+    {
+      "id": "PRAV4329",
+      "title": "Pravilnik o izvajanju 29. člena zakona o davku na dodano vrednost",
+      "shortTitle": "Pravilnik o izvajanju 29. člena zakona o davku na dodano vrednost",
+      "shortCode": "PRAV4329",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4067",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-09-27",
+      "validFrom": "2002-09-27",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4067",
+      "versions": [
+        {
+          "id": "PRAV4329-original",
+          "shortCode": "PRAV4329",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-27",
+          "effectiveFrom": "2002-09-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4067",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7616",
+      "title": "Pravilnik o spremembi Pravilnika o izvajanju 29. člena Zakona o davku na dodano vrednost",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o izvajanju 29. člena Zakona o davku na dodano vrednost",
+      "shortCode": "PRAV7616",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1434",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2006-03-31",
+      "validFrom": "2006-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1434",
+      "versions": [
+        {
+          "id": "PRAV7616-original",
+          "shortCode": "PRAV7616",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-31",
+          "effectiveFrom": "2006-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4329"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1434",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

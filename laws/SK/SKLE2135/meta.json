@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2135",
+  "path": "laws/SK/SKLE2135",
+  "members": [
+    {
+      "id": "SKLE2135",
+      "title": "Sklep o ustanovitvi javnega zavoda Študentski domovi v Ljubljani",
+      "shortTitle": "Sklep o ustanovitvi javnega zavoda Študentski domovi v Ljubljani",
+      "shortCode": "SKLE2135",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2001-01-1792",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-04-20",
+      "validFrom": "2001-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1792",
+      "versions": [
+        {
+          "id": "SKLE2135-original",
+          "shortCode": "SKLE2135",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-20",
+          "effectiveFrom": "2001-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1792",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8555",
+      "title": "Sklep o spremembah Sklepa o ustanovitvi javnega zavoda Študentski domovi v Ljubljani",
+      "shortTitle": "Sklep o spremembah Sklepa o ustanovitvi javnega zavoda Študentski domovi v Ljubljani",
+      "shortCode": "SKLE8555",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-4030",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-09-20",
+      "validFrom": "2010-09-20",
+      "validTo": null,
+      "latestPublishedAt": "2010-09-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4030",
+      "versions": [
+        {
+          "id": "SKLE8555-original",
+          "shortCode": "SKLE8555",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-09-20",
+          "effectiveFrom": "2010-09-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2135"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4030",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

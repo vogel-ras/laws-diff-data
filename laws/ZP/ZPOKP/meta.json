@@ -1,0 +1,109 @@
+{
+  "root": "ZPOKP",
+  "path": "laws/ZP/ZPOKP",
+  "members": [
+    {
+      "id": "ZPOKP",
+      "title": "Zakon o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja",
+      "shortTitle": "Zakon o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja",
+      "shortCode": "ZPOKP",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "kredit",
+        "potres",
+        "regionalni razvoj"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3183",
+      "gazette": "Uradni list RS 67/98  str. 5007",
+      "issuingBody": null,
+      "adoptedAt": "1998-10-02",
+      "validFrom": "1998-10-02",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3183",
+      "versions": [
+        {
+          "id": "ZPOKP-original",
+          "shortCode": "ZPOKP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 67/98  str. 5007",
+          "publishedAt": "1998-10-02",
+          "effectiveFrom": "1998-10-02",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3183",
+          "proposer": null
+        },
+        {
+          "id": "ZPOKP-amend-ZPOKP-A",
+          "shortCode": "ZPOKP-A",
+          "label": "Sprememba ZPOKP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 11/2001  str. 1176",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOKP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0666",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPOKP-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu Sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o poroštvu Republike Slovenije za obveznosti iz kredita, ki sta ga najela Stanovanjski sklad Republike Slovenije in Sklad za regionalni razvoj in ohranjanje slovenskega podeželja pri Skladu Sveta Evrope za socialni razvoj, za izvedbo programov pri popotresni obnovi in spodbujanju razvoja Posočja",
+      "shortCode": "ZPOKP-A",
+      "kind": "zakon",
+      "keywords": [
+        "poroštvo",
+        "kredit",
+        "sklad",
+        "potres"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0666",
+      "gazette": "Uradni list RS 11/2001  str. 1176",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0666",
+      "versions": [
+        {
+          "id": "ZPOKP-A-original",
+          "shortCode": "ZPOKP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/2001  str. 1176",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPOKP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0666",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

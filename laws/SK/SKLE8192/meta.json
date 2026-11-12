@@ -1,0 +1,82 @@
+{
+  "root": "SKLE8192",
+  "path": "laws/SK/SKLE8192",
+  "members": [
+    {
+      "id": "SKLE8192",
+      "title": "Sklep o plačilnih sistemih",
+      "shortTitle": "Sklep o plačilnih sistemih",
+      "shortCode": "SKLE8192",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "sklep",
+      "sopNumber": "2009-01-3221",
+      "gazette": null,
+      "issuingBody": "Banka Slovenije",
+      "adoptedAt": "2009-09-21",
+      "validFrom": "2009-09-21",
+      "validTo": null,
+      "latestPublishedAt": "2009-09-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3221",
+      "versions": [
+        {
+          "id": "SKLE8192-original",
+          "shortCode": "SKLE8192",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-09-21",
+          "effectiveFrom": "2009-09-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3221",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8825",
+      "title": "Sklep o spremembi Sklepa o plačilnih sistemih",
+      "shortTitle": "Sklep o spremembi Sklepa o plačilnih sistemih",
+      "shortCode": "SKLE8825",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2011-01-0149",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-01-24",
+      "validFrom": "2011-01-24",
+      "validTo": null,
+      "latestPublishedAt": "2011-01-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0149",
+      "versions": [
+        {
+          "id": "SKLE8825-original",
+          "shortCode": "SKLE8825",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-01-24",
+          "effectiveFrom": "2011-01-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE8192"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0149",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "ODLO802",
+  "path": "ordinances/OD/ODLO802",
+  "members": [
+    {
+      "id": "ODLO802",
+      "title": "Odlok o imenovanju članov Upravnega odbora Prešernovega sklada",
+      "shortTitle": "Odlok o imenovanju članov Upravnega odbora Prešernovega sklada",
+      "shortCode": "ODLO802",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1996-01-2289",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-07-05",
+      "validFrom": "1996-07-05",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2289",
+      "versions": [
+        {
+          "id": "ODLO802-original",
+          "shortCode": "ODLO802",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-07-05",
+          "effectiveFrom": "1996-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2289",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE3287",
+      "title": "Sklep o spremembi odloka o imenovanju članov Upravnega odbora Prešernovega sklada",
+      "shortTitle": "Sklep o spremembi odloka o imenovanju članov Upravnega odbora Prešernovega sklada",
+      "shortCode": "SKLE3287",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2002-01-4598",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2002-10-30",
+      "validFrom": "2002-10-30",
+      "validTo": null,
+      "latestPublishedAt": "2002-10-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4598",
+      "versions": [
+        {
+          "id": "SKLE3287-original",
+          "shortCode": "SKLE3287",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-10-30",
+          "effectiveFrom": "2002-10-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO802"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4598",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

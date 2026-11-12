@@ -1,0 +1,82 @@
+{
+  "root": "URED6450",
+  "path": "laws/UR/URED6450",
+  "members": [
+    {
+      "id": "URED6450",
+      "title": "Uredba o izvajanju Uredbe (ES) o zaščiti živali pri usmrtitvi",
+      "shortTitle": "Uredba o izvajanju Uredbe (ES) o zaščiti živali pri usmrtitvi",
+      "shortCode": "URED6450",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2013-01-2716",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2013-08-30",
+      "validFrom": "2013-08-30",
+      "validTo": null,
+      "latestPublishedAt": "2013-08-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2716",
+      "versions": [
+        {
+          "id": "URED6450-original",
+          "shortCode": "URED6450",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-08-30",
+          "effectiveFrom": "2013-08-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2716",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED9186",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (ES) o zaščiti živali pri usmrtitvi",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o izvajanju Uredbe (ES) o zaščiti živali pri usmrtitvi",
+      "shortCode": "URED9186",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2025-01-0648",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2025-03-21",
+      "validFrom": "2025-03-21",
+      "validTo": null,
+      "latestPublishedAt": "2025-03-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0648",
+      "versions": [
+        {
+          "id": "URED9186-original",
+          "shortCode": "URED9186",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-03-21",
+          "effectiveFrom": "2025-03-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED6450"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2025-01-0648",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

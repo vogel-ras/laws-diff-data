@@ -1,0 +1,757 @@
+{
+  "root": "ZVO",
+  "path": "laws/ZV/ZVO",
+  "members": [
+    {
+      "id": "ZAKO8286",
+      "title": "Zakon o varstvu okolja (ZVO-2)",
+      "shortTitle": "Zakon o varstvu okolja (ZVO-2)",
+      "shortCode": "ZVO-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2022-01-0873",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-04-01",
+      "validFrom": "2025-04-01",
+      "validTo": null,
+      "latestPublishedAt": "2025-04-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0873",
+      "versions": [
+        {
+          "id": "ZAKO8286-amend-ZVO-2A",
+          "shortCode": "ZVO-2A",
+          "label": "Sprememba ZVO-2A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/24  str. 1749",
+          "publishedAt": "2024-03-19",
+          "effectiveFrom": "2024-03-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO8286"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0693",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO8286-original",
+          "shortCode": "ZVO-2",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2025-04-01",
+          "effectiveFrom": "2025-04-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0873",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO",
+      "title": "Zakon o varstvu okolja",
+      "shortTitle": "Zakon o varstvu okolja",
+      "shortCode": "ZVO",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1351",
+      "gazette": "Uradni list RS 32/93  str. 1750",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-17",
+      "validFrom": "1993-06-17",
+      "validTo": null,
+      "latestPublishedAt": "1996-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1351",
+      "versions": [
+        {
+          "id": "ZVO-original",
+          "shortCode": "ZVO",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/93  str. 1750",
+          "publishedAt": "1993-06-17",
+          "effectiveFrom": "1993-06-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1351",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-amend-ZVO-A",
+          "shortCode": "ZVO-A",
+          "label": "Sprememba ZVO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 1/96  str. 5",
+          "publishedAt": "1996-01-12",
+          "effectiveFrom": "1996-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0005",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1",
+      "title": "Zakon o varstvu okolja",
+      "shortTitle": "Zakon o varstvu okolja",
+      "shortCode": "ZVO-1",
+      "kind": "zakon",
+      "keywords": [
+        "medicinske raziskave",
+        "stanovska zbornica",
+        "zdravnik"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-1694",
+      "gazette": "Uradni list RS 41/04  str. 4818",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-22",
+      "validFrom": "2004-04-22",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1694",
+      "versions": [
+        {
+          "id": "ZVO-1-original",
+          "shortCode": "ZVO-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/04  str. 4818",
+          "publishedAt": "2004-04-22",
+          "effectiveFrom": "2004-04-22",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1694",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1A",
+          "shortCode": "ZVO-1A",
+          "label": "Sprememba ZVO-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 20/06  str. 1949",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0745",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1C",
+          "shortCode": "ZVO-1C",
+          "label": "Sprememba ZVO-1C",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 108/09  str. 14777",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4888",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1D",
+          "shortCode": "ZVO-1D",
+          "label": "Sprememba ZVO-1D",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 48/12  str. 4906",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2011",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1E",
+          "shortCode": "ZVO-1E",
+          "label": "Sprememba ZVO-1E",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 57/12  str. 5982",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2415",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1F",
+          "shortCode": "ZVO-1F",
+          "label": "Sprememba ZVO-1F",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 92/13  str. 10075",
+          "publishedAt": "2013-11-08",
+          "effectiveFrom": "2013-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3337",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1G",
+          "shortCode": "ZVO-1G",
+          "label": "Sprememba ZVO-1G",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 56/15  str. 6550",
+          "publishedAt": "2015-07-29",
+          "effectiveFrom": "2015-07-29",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2359",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1H",
+          "shortCode": "ZVO-1H",
+          "label": "Sprememba ZVO-1H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 102  str. 13127",
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4085",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1I",
+          "shortCode": "ZVO-1I",
+          "label": "Sprememba ZVO-1I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 30/16  str. 4233",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1264",
+          "proposer": null
+        },
+        {
+          "id": "ZVO-1-amend-ZVO-1J",
+          "shortCode": "ZVO-1J",
+          "label": "Sprememba ZVO-1J",
+          "kind": "amendment",
+          "sequence": 10,
+          "gazette": "Uradni list RS 158/20  str. 6725",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2763",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu okolja",
+      "shortCode": "ZVO-1A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-0745",
+      "gazette": "Uradni list RS 20/06  str. 1949",
+      "issuingBody": null,
+      "adoptedAt": "2006-02-24",
+      "validFrom": "2006-02-24",
+      "validTo": null,
+      "latestPublishedAt": "2006-02-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0745",
+      "versions": [
+        {
+          "id": "ZVO-1A-original",
+          "shortCode": "ZVO-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 20/06  str. 1949",
+          "publishedAt": "2006-02-24",
+          "effectiveFrom": "2006-02-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-0745",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1C",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-4888",
+      "gazette": "Uradni list RS 108/09  str. 14777",
+      "issuingBody": null,
+      "adoptedAt": "2009-12-28",
+      "validFrom": "2009-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2009-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4888",
+      "versions": [
+        {
+          "id": "ZVO-1C-original",
+          "shortCode": "ZVO-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 108/09  str. 14777",
+          "publishedAt": "2009-12-28",
+          "effectiveFrom": "2009-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-4888",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1D",
+      "title": "Zakon o spremembah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1D",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2011",
+      "gazette": "Uradni list RS 48/12  str. 4906",
+      "issuingBody": null,
+      "adoptedAt": "2012-06-26",
+      "validFrom": "2012-06-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-06-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2011",
+      "versions": [
+        {
+          "id": "ZVO-1D-original",
+          "shortCode": "ZVO-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 48/12  str. 4906",
+          "publishedAt": "2012-06-26",
+          "effectiveFrom": "2012-06-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2011",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1E",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1E",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-01-2415",
+      "gazette": "Uradni list RS 57/12  str. 5982",
+      "issuingBody": null,
+      "adoptedAt": "2012-07-27",
+      "validFrom": "2012-07-27",
+      "validTo": null,
+      "latestPublishedAt": "2012-07-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2415",
+      "versions": [
+        {
+          "id": "ZVO-1E-original",
+          "shortCode": "ZVO-1E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 57/12  str. 5982",
+          "publishedAt": "2012-07-27",
+          "effectiveFrom": "2012-07-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-2415",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1F",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1F",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3337",
+      "gazette": "Uradni list RS 92/13  str. 10075",
+      "issuingBody": null,
+      "adoptedAt": "2013-11-08",
+      "validFrom": "2013-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3337",
+      "versions": [
+        {
+          "id": "ZVO-1F-original",
+          "shortCode": "ZVO-1F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/13  str. 10075",
+          "publishedAt": "2013-11-08",
+          "effectiveFrom": "2013-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3337",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1G",
+      "title": "Zakon o spremembah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1G",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-2359",
+      "gazette": "Uradni list RS 56/15  str. 6550",
+      "issuingBody": null,
+      "adoptedAt": "2015-07-29",
+      "validFrom": "2015-07-29",
+      "validTo": null,
+      "latestPublishedAt": "2015-07-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2359",
+      "versions": [
+        {
+          "id": "ZVO-1G-original",
+          "shortCode": "ZVO-1G",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 56/15  str. 6550",
+          "publishedAt": "2015-07-29",
+          "effectiveFrom": "2015-07-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-2359",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1H",
+      "title": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah Zakona o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1H",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-4085",
+      "gazette": "Uradni list RS 102  str. 13127",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-24",
+      "validFrom": "2015-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4085",
+      "versions": [
+        {
+          "id": "ZVO-1H-original",
+          "shortCode": "ZVO-1H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 102  str. 13127",
+          "publishedAt": "2015-12-24",
+          "effectiveFrom": "2015-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-4085",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1I",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1264",
+      "gazette": "Uradni list RS 30/16  str. 4233",
+      "issuingBody": null,
+      "adoptedAt": "2016-04-25",
+      "validFrom": "2016-04-25",
+      "validTo": null,
+      "latestPublishedAt": "2016-04-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1264",
+      "versions": [
+        {
+          "id": "ZVO-1I-original",
+          "shortCode": "ZVO-1I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 30/16  str. 4233",
+          "publishedAt": "2016-04-25",
+          "effectiveFrom": "2016-04-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1264",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-1J",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-1J",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-2763",
+      "gazette": "Uradni list RS 158/20  str. 6725",
+      "issuingBody": null,
+      "adoptedAt": "2020-11-02",
+      "validFrom": "2020-11-02",
+      "validTo": null,
+      "latestPublishedAt": "2020-11-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2763",
+      "versions": [
+        {
+          "id": "ZVO-1J-original",
+          "shortCode": "ZVO-1J",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 158/20  str. 6725",
+          "publishedAt": "2020-11-02",
+          "effectiveFrom": "2020-11-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-2763",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o varstvu okolja",
+      "shortCode": "ZVO-2A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-0693",
+      "gazette": "Uradni list RS 23/24  str. 1749",
+      "issuingBody": null,
+      "adoptedAt": "2024-03-19",
+      "validFrom": "2024-03-19",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0693",
+      "versions": [
+        {
+          "id": "ZVO-2A-original",
+          "shortCode": "ZVO-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 23/24  str. 1749",
+          "publishedAt": "2024-03-19",
+          "effectiveFrom": "2024-03-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO8286"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0693",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVO-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu okolja",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu okolja",
+      "shortCode": "ZVO-A",
+      "kind": "zakon",
+      "keywords": [
+        "varstvo okolja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1996-01-0005",
+      "gazette": "Uradni list RS 1/96  str. 5",
+      "issuingBody": null,
+      "adoptedAt": "1996-01-12",
+      "validFrom": "1996-01-12",
+      "validTo": null,
+      "latestPublishedAt": "1996-01-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0005",
+      "versions": [
+        {
+          "id": "ZVO-A-original",
+          "shortCode": "ZVO-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/96  str. 5",
+          "publishedAt": "1996-01-12",
+          "effectiveFrom": "1996-01-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVO"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-0005",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

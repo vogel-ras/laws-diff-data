@@ -1,0 +1,170 @@
+{
+  "root": "ZVU",
+  "path": "laws/ZV/ZVU",
+  "members": [
+    {
+      "id": "ZVU",
+      "title": "Zakon o varstvu pred utopitvami",
+      "shortTitle": "Zakon o varstvu pred utopitvami",
+      "shortCode": "ZVU",
+      "kind": "zakon",
+      "keywords": [
+        "kopalne vode",
+        "upravljanje voda",
+        "spremljanje stanja okolja",
+        "javno zdravje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2065",
+      "gazette": "Uradni list RS 44/2000  str. 5934",
+      "issuingBody": null,
+      "adoptedAt": "2000-05-26",
+      "validFrom": "2000-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2065",
+      "versions": [
+        {
+          "id": "ZVU-original",
+          "shortCode": "ZVU",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/2000  str. 5934",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2065",
+          "proposer": null
+        },
+        {
+          "id": "ZVU-amend-ZVU-A",
+          "shortCode": "ZVU-A",
+          "label": "Sprememba ZVU-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 26/07  str. 3344",
+          "publishedAt": "2007-03-23",
+          "effectiveFrom": "2007-03-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZVU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1282",
+          "proposer": null
+        },
+        {
+          "id": "ZVU-amend-ZVU-B",
+          "shortCode": "ZVU-B",
+          "label": "Sprememba ZVU-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/11  str. 837",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0324",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVU-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o varstvu pred utopitvami",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o varstvu pred utopitvami",
+      "shortCode": "ZVU-A",
+      "kind": "zakon",
+      "keywords": [
+        "javno zdravje",
+        "kopalne vode",
+        "spremljanje stanja okolja",
+        "upravljanje voda"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-1282",
+      "gazette": "Uradni list RS 26/07  str. 3344",
+      "issuingBody": null,
+      "adoptedAt": "2007-03-23",
+      "validFrom": "2007-03-23",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1282",
+      "versions": [
+        {
+          "id": "ZVU-A-original",
+          "shortCode": "ZVU-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/07  str. 3344",
+          "publishedAt": "2007-03-23",
+          "effectiveFrom": "2007-03-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1282",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZVU-B",
+      "title": "Zakon o dopolnitvah Zakona o varstvu pred utopitvami",
+      "shortTitle": "Zakon o dopolnitvah Zakona o varstvu pred utopitvami",
+      "shortCode": "ZVU-B",
+      "kind": "zakon",
+      "keywords": [
+        "kopalne vode",
+        "upravljanje voda",
+        "spremljanje stanja okolja",
+        "javno zdravje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0324",
+      "gazette": "Uradni list RS 9/11  str. 837",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0324",
+      "versions": [
+        {
+          "id": "ZVU-B-original",
+          "shortCode": "ZVU-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 837",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZVU"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0324",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

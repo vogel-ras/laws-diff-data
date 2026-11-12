@@ -1,0 +1,97 @@
+{
+  "root": "URED4250",
+  "path": "laws/UR/URED4250",
+  "members": [
+    {
+      "id": "URED4250",
+      "title": "Uredba o sejninah in povračilih stroškov predsedniku, namestniku predsednika in članom Komisije za izvajanje Zakona o popravi krivic",
+      "shortTitle": "Uredba o sejninah in povračilih stroškov predsedniku, namestniku predsednika in članom Komisije za izvajanje Zakona o popravi krivic",
+      "shortCode": "URED4250",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4153",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-09-19",
+      "validFrom": "2006-09-19",
+      "validTo": null,
+      "latestPublishedAt": "2006-09-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4153",
+      "versions": [
+        {
+          "id": "URED4250-original",
+          "shortCode": "URED4250",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-09-19",
+          "effectiveFrom": "2006-09-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4153",
+          "proposer": null
+        },
+        {
+          "id": "URED4250-npb-URED4250",
+          "shortCode": "URED4250-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2006-09-19",
+          "effectiveFrom": "2006-09-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED4250",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED4909",
+      "title": "Uredba o spremembah Uredbe o sejninah in povračilih stroškov predsedniku, namestniku predsednika in članom Komisije za izvajanje Zakona o popravi krivic",
+      "shortTitle": "Uredba o spremembah Uredbe o sejninah in povračilih stroškov predsedniku, namestniku predsednika in članom Komisije za izvajanje Zakona o popravi krivic",
+      "shortCode": "URED4909",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-3032",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-07-11",
+      "validFrom": "2008-07-11",
+      "validTo": null,
+      "latestPublishedAt": "2008-07-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3032",
+      "versions": [
+        {
+          "id": "URED4909-original",
+          "shortCode": "URED4909",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-07-11",
+          "effectiveFrom": "2008-07-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4250"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-3032",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

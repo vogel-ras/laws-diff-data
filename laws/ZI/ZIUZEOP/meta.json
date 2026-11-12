@@ -1,0 +1,99 @@
+{
+  "root": "ZIUZEOP",
+  "path": "laws/ZI/ZIUZEOP",
+  "members": [
+    {
+      "id": "ZIUZEOP",
+      "title": "Zakon o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo",
+      "shortTitle": "Zakon o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo",
+      "shortCode": "ZIUZEOP",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0766",
+      "gazette": "Uradni list RS 49/20  str. 2091",
+      "issuingBody": null,
+      "adoptedAt": "2020-04-10",
+      "validFrom": "2020-04-10",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0766",
+      "versions": [
+        {
+          "id": "ZIUZEOP-original",
+          "shortCode": "ZIUZEOP",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 49/20  str. 2091",
+          "publishedAt": "2020-04-10",
+          "effectiveFrom": "2020-04-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0766",
+          "proposer": null
+        },
+        {
+          "id": "ZIUZEOP-amend-ZIUZEOP-A",
+          "shortCode": "ZIUZEOP-A",
+          "label": "Sprememba ZIUZEOP-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 61/20  str. 2273",
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIUZEOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0901",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZIUZEOP-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o interventnih ukrepih za zajezitev epidemije COVID-19 in omilitev njenih posledic za državljane in gospodarstvo",
+      "shortCode": "ZIUZEOP-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2020-01-0901",
+      "gazette": "Uradni list RS 61/20  str. 2273",
+      "issuingBody": null,
+      "adoptedAt": "2020-04-30",
+      "validFrom": "2020-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2020-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0901",
+      "versions": [
+        {
+          "id": "ZIUZEOP-A-original",
+          "shortCode": "ZIUZEOP-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 61/20  str. 2273",
+          "publishedAt": "2020-04-30",
+          "effectiveFrom": "2020-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZIUZEOP"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-0901",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

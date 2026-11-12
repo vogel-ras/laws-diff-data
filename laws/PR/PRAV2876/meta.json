@@ -1,0 +1,97 @@
+{
+  "root": "PRAV2876",
+  "path": "laws/PR/PRAV2876",
+  "members": [
+    {
+      "id": "PRAV2876",
+      "title": "Pravilnik o načinu izračuna čiste vrednosti premoženja in vrednosti enote premoženja prvega pokojninskega sklada",
+      "shortTitle": "Pravilnik o načinu izračuna čiste vrednosti premoženja in vrednosti enote premoženja prvega pokojninskega sklada",
+      "shortCode": "PRAV2876",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2417",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2000-06-09",
+      "validFrom": "2000-06-09",
+      "validTo": null,
+      "latestPublishedAt": "2000-06-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2417",
+      "versions": [
+        {
+          "id": "PRAV2876-original",
+          "shortCode": "PRAV2876",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-06-09",
+          "effectiveFrom": "2000-06-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2417",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2876-npb-PRAV2876",
+          "shortCode": "PRAV2876-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-06-09",
+          "effectiveFrom": "2000-06-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2876",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4251",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu izračuna čiste vrednosti premoženja in vrednosti enote premoženja Prvega pokojninskega sklada",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu izračuna čiste vrednosti premoženja in vrednosti enote premoženja Prvega pokojninskega sklada",
+      "shortCode": "PRAV4251",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-3278",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2002-08-02",
+      "validFrom": "2002-08-02",
+      "validTo": null,
+      "latestPublishedAt": "2002-08-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3278",
+      "versions": [
+        {
+          "id": "PRAV4251-original",
+          "shortCode": "PRAV4251",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-08-02",
+          "effectiveFrom": "2002-08-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2876"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3278",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

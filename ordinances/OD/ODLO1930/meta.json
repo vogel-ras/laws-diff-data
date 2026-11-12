@@ -1,0 +1,97 @@
+{
+  "root": "ODLO1930",
+  "path": "ordinances/OD/ODLO1930",
+  "members": [
+    {
+      "id": "ODLO1930",
+      "title": "Odlok o ustanovitvi javnega gospodarskega zavoda ARAO – Agencija za radioaktivne odpadke",
+      "shortTitle": "Odlok o ustanovitvi javnega gospodarskega zavoda ARAO – Agencija za radioaktivne odpadke",
+      "shortCode": "ODLO1930",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2022-01-0100",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-01-17",
+      "validFrom": "2022-01-17",
+      "validTo": null,
+      "latestPublishedAt": "2022-01-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0100",
+      "versions": [
+        {
+          "id": "ODLO1930-original",
+          "shortCode": "ODLO1930",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-01-17",
+          "effectiveFrom": "2022-01-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0100",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1930-npb-ODLO1930",
+          "shortCode": "ODLO1930-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-01-17",
+          "effectiveFrom": "2022-01-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1930",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2768",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi javnega gospodarskega zavoda ARAO – Agencija za radioaktivne odpadke",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o ustanovitvi javnega gospodarskega zavoda ARAO – Agencija za radioaktivne odpadke",
+      "shortCode": "ODLO2768",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2024-01-0617",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2024-03-08",
+      "validFrom": "2024-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2024-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0617",
+      "versions": [
+        {
+          "id": "ODLO2768-original",
+          "shortCode": "ODLO2768",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-03-08",
+          "effectiveFrom": "2024-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO1930"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-0617",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

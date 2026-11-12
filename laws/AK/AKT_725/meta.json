@@ -1,0 +1,82 @@
+{
+  "root": "AKT_725",
+  "path": "laws/AK/AKT_725",
+  "members": [
+    {
+      "id": "AKT_725",
+      "title": "Akt o metodologiji za obračunavanje omrežnine za distribucijsko omrežje zemeljskega plina",
+      "shortTitle": "Akt o metodologiji za obračunavanje omrežnine za distribucijsko omrežje zemeljskega plina",
+      "shortCode": "AKT_725",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2011-01-2943",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2011-08-08",
+      "validFrom": "2011-08-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-08-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2943",
+      "versions": [
+        {
+          "id": "AKT_725-original",
+          "shortCode": "AKT_725",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2011-08-08",
+          "effectiveFrom": "2011-08-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-2943",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "AKT_860",
+      "title": "Akt o spremembah Akta o metodologiji za obračunavanje omrežnine za distribucijsko omrežje zemeljskega plina",
+      "shortTitle": "Akt o spremembah Akta o metodologiji za obračunavanje omrežnine za distribucijsko omrežje zemeljskega plina",
+      "shortCode": "AKT_860",
+      "kind": "akt",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2013-01-2604",
+      "gazette": null,
+      "issuingBody": "Javna agencija Republike Slovenije za energijo",
+      "adoptedAt": "2013-08-05",
+      "validFrom": "2013-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2013-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2604",
+      "versions": [
+        {
+          "id": "AKT_860-original",
+          "shortCode": "AKT_860",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-08-05",
+          "effectiveFrom": "2013-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "AKT_725"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-2604",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

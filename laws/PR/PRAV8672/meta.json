@@ -1,0 +1,97 @@
+{
+  "root": "PRAV8672",
+  "path": "laws/PR/PRAV8672",
+  "members": [
+    {
+      "id": "PRAV12732",
+      "title": "Pravilnik o spremembi Pravilnika o zgornjem ustroju železniških prog",
+      "shortTitle": "Pravilnik o spremembi Pravilnika o zgornjem ustroju železniških prog",
+      "shortCode": "PRAV12732",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-1703",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2016-05-27",
+      "validFrom": "2016-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1703",
+      "versions": [
+        {
+          "id": "PRAV12732-original",
+          "shortCode": "PRAV12732",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2016-05-27",
+          "effectiveFrom": "2016-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV8672"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1703",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8672",
+      "title": "Pravilnik o zgornjem ustroju železniških prog",
+      "shortTitle": "Pravilnik o zgornjem ustroju železniških prog",
+      "shortCode": "PRAV8672",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-4867",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2010-11-19",
+      "validFrom": "2010-11-19",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-19",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4867",
+      "versions": [
+        {
+          "id": "PRAV8672-original",
+          "shortCode": "PRAV8672",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-11-19",
+          "effectiveFrom": "2010-11-19",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4867",
+          "proposer": null
+        },
+        {
+          "id": "PRAV8672-npb-PRAV8672",
+          "shortCode": "PRAV8672-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-11-19",
+          "effectiveFrom": "2010-11-19",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV8672",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

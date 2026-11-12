@@ -1,0 +1,82 @@
+{
+  "root": "NAVO630",
+  "path": "laws/NA/NAVO630",
+  "members": [
+    {
+      "id": "NAVO630",
+      "title": "Navodilo o vsebini, načinu in rokih, v katerih izvajalci plačilnega prometa zagotavljajo podatke za statistične in druge z zakoni določene namene",
+      "shortTitle": "Navodilo o vsebini, načinu in rokih, v katerih izvajalci plačilnega prometa zagotavljajo podatke za statistične in druge z zakoni določene namene",
+      "shortCode": "NAVO630",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2002-01-5723",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-12-28",
+      "validFrom": "2002-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2002-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5723",
+      "versions": [
+        {
+          "id": "NAVO630-original",
+          "shortCode": "NAVO630",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-12-28",
+          "effectiveFrom": "2002-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-5723",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO966",
+      "title": "Navodilo o spremembi Navodila o vsebini, načinu in rokih, v katerih izvajalci plačilnega prometa zagotavljajo podatke za statistične in druge z zakoni določene namene",
+      "shortTitle": "Navodilo o spremembi Navodila o vsebini, načinu in rokih, v katerih izvajalci plačilnega prometa zagotavljajo podatke za statistične in druge z zakoni določene namene",
+      "shortCode": "NAVO966",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2009-01-2343",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2009-06-23",
+      "validFrom": "2009-06-23",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2343",
+      "versions": [
+        {
+          "id": "NAVO966-original",
+          "shortCode": "NAVO966",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-06-23",
+          "effectiveFrom": "2009-06-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO630"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-2343",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

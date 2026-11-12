@@ -1,0 +1,97 @@
+{
+  "root": "PRAV2868",
+  "path": "laws/PR/PRAV2868",
+  "members": [
+    {
+      "id": "PRAV2868",
+      "title": "Pravilnik o strokovnem izpitu in o preizkusu strokovne usposobljenosti inšpektorjev za šolstvo in inšpektorjev za šport",
+      "shortTitle": "Pravilnik o strokovnem izpitu in o preizkusu strokovne usposobljenosti inšpektorjev za šolstvo in inšpektorjev za šport",
+      "shortCode": "PRAV2868",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2339",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-08",
+      "validFrom": "2026-01-08",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2339",
+      "versions": [
+        {
+          "id": "PRAV2868-original",
+          "shortCode": "PRAV2868",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-08",
+          "effectiveFrom": "2026-01-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2339",
+          "proposer": null
+        },
+        {
+          "id": "PRAV2868-npb-PRAV2868",
+          "shortCode": "PRAV2868-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-06-06",
+          "effectiveFrom": "2000-06-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV2868",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5920",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovnem izpitu in o preizkusu strokovne usposobljenosti inšpektorjev za šolstvo in inšpektorjev za šport",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o strokovnem izpitu in o preizkusu strokovne usposobljenosti inšpektorjev za šolstvo in inšpektorjev za šport",
+      "shortCode": "PRAV5920",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2673",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-05-27",
+      "validFrom": "2004-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2673",
+      "versions": [
+        {
+          "id": "PRAV5920-original",
+          "shortCode": "PRAV5920",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-05-27",
+          "effectiveFrom": "2004-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2868"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2673",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "root": "ZPPPR",
+  "path": "laws/ZP/ZPPPR",
+  "members": [
+    {
+      "id": "ZAKO157",
+      "title": "Zakon o preprečevanju posledic rudarjenja v rudniku živega srebra Idrija (ZPPPR)",
+      "shortTitle": "Zakon o preprečevanju posledic rudarjenja v rudniku živega srebra Idrija (ZPPPR)",
+      "shortCode": "ZPPPR",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "1987-04-1614",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1987-10-09",
+      "validFrom": "1987-10-09",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1987-04-1614",
+      "versions": [
+        {
+          "id": "ZAKO157-original",
+          "shortCode": "ZPPPR",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1987-10-09",
+          "effectiveFrom": "1987-10-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1987-04-1614",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO157-amend-ZPPPR-A",
+          "shortCode": "ZPPPR-A",
+          "label": "Sprememba ZPPPR-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 86/04  str. 10408",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3839",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPPR-A",
+      "title": "Zakon o dopolnitvah zakona o preprečevanju posledic rudarjenja v Rudniku živega srebra Idrija",
+      "shortTitle": "Zakon o dopolnitvah zakona o preprečevanju posledic rudarjenja v Rudniku živega srebra Idrija",
+      "shortCode": "ZPPPR-A",
+      "kind": "zakon",
+      "keywords": [
+        "rudarski obrat",
+        "rudarstvo",
+        "živo srebro"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-3839",
+      "gazette": "Uradni list RS 86/04  str. 10408",
+      "issuingBody": null,
+      "adoptedAt": "2004-08-05",
+      "validFrom": "2004-08-05",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3839",
+      "versions": [
+        {
+          "id": "ZPPPR-A-original",
+          "shortCode": "ZPPPR-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 86/04  str. 10408",
+          "publishedAt": "2004-08-05",
+          "effectiveFrom": "2004-08-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO157"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-3839",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

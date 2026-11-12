@@ -1,0 +1,58 @@
+{
+  "root": "PRAV9267",
+  "path": "laws/PR/PRAV9267",
+  "members": [
+    {
+      "id": "PRAV9267",
+      "title": "Pravilnik o evidenci dejanske rabe kmetijskih in gozdnih zemljišč",
+      "shortTitle": "Pravilnik o evidenci dejanske rabe kmetijskih in gozdnih zemljišč",
+      "shortCode": "PRAV9267",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2008-01-5471",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2008-12-24",
+      "validFrom": "2008-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2008-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5471",
+      "versions": [
+        {
+          "id": "PRAV9267-original",
+          "shortCode": "PRAV9267",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-12-24",
+          "effectiveFrom": "2008-12-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-5471",
+          "proposer": null
+        },
+        {
+          "id": "PRAV9267-npb-PRAV9267",
+          "shortCode": "PRAV9267-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2008-12-24",
+          "effectiveFrom": "2008-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV9267",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

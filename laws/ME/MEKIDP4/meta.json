@@ -1,0 +1,105 @@
+{
+  "root": "MEKIDP4",
+  "path": "laws/ME/MEKIDP4",
+  "members": [
+    {
+      "id": "MEKIDP4",
+      "title": "Zakon o ratifikaciji Četrtega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortTitle": "Zakon o ratifikaciji Četrtega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortCode": "MEKIDP4",
+      "kind": "zakon",
+      "keywords": [
+        "evropska konvencija",
+        "izročitev",
+        "protokol"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2014-02-0009",
+      "gazette": "Uradni list RS MP 3/14  str. 63",
+      "issuingBody": null,
+      "adoptedAt": "2014-03-17",
+      "validFrom": "2014-03-17",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2014-02-0009",
+      "versions": [
+        {
+          "id": "MEKIDP4-original",
+          "shortCode": "MEKIDP4",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 3/14  str. 63",
+          "publishedAt": "2014-03-17",
+          "effectiveFrom": "2014-03-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2014-02-0009",
+          "proposer": null
+        },
+        {
+          "id": "MEKIDP4-amend-MEKIDP4-A",
+          "shortCode": "MEKIDP4-A",
+          "label": "Sprememba MEKIDP4-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 7/15  str. 319",
+          "publishedAt": "2015-04-30",
+          "effectiveFrom": "2015-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MEKIDP4"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-02-0030",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MEKIDP4-A",
+      "title": "Zakon o spremembah Zakona o ratifikaciji Četrtega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortTitle": "Zakon o spremembah Zakona o ratifikaciji Četrtega dodatnega protokola k Evropski konvenciji o izročitvi",
+      "shortCode": "MEKIDP4-A",
+      "kind": "zakon",
+      "keywords": [
+        "izročitev"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-02-0030",
+      "gazette": "Uradni list RS MP 7/15  str. 319",
+      "issuingBody": null,
+      "adoptedAt": "2015-04-30",
+      "validFrom": "2015-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2015-04-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-02-0030",
+      "versions": [
+        {
+          "id": "MEKIDP4-A-original",
+          "shortCode": "MEKIDP4-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 7/15  str. 319",
+          "publishedAt": "2015-04-30",
+          "effectiveFrom": "2015-04-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MEKIDP4"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-02-0030",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

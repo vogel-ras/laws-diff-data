@@ -1,0 +1,121 @@
+{
+  "root": "URED2711",
+  "path": "laws/UR/URED2711",
+  "members": [
+    {
+      "id": "URED2711",
+      "title": "Uredba o energetski infrastrukturi",
+      "shortTitle": "Uredba o energetski infrastrukturi",
+      "shortCode": "URED2711",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-3034",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-09-11",
+      "validFrom": "2003-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3034",
+      "versions": [
+        {
+          "id": "URED2711-original",
+          "shortCode": "URED2711",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3034",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2982",
+      "title": "Uredba o spremembah uredbe o energetski infrastrukturi",
+      "shortTitle": "Uredba o spremembah uredbe o energetski infrastrukturi",
+      "shortCode": "URED2982",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-4075",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-09-11",
+      "validFrom": "2003-09-11",
+      "validTo": null,
+      "latestPublishedAt": "2003-09-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4075",
+      "versions": [
+        {
+          "id": "URED2982-original",
+          "shortCode": "URED2982",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-09-11",
+          "effectiveFrom": "2003-09-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2711"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-4075",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8398",
+      "title": "Uredba o spremembi Uredbe o energetski infrastrukturi",
+      "shortTitle": "Uredba o spremembi Uredbe o energetski infrastrukturi",
+      "shortCode": "URED8398",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "2021-01-3425",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-11-05",
+      "validFrom": "2021-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2021-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3425",
+      "versions": [
+        {
+          "id": "URED8398-original",
+          "shortCode": "URED8398",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-11-05",
+          "effectiveFrom": "2021-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED2711"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3425",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

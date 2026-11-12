@@ -1,0 +1,82 @@
+{
+  "root": "PRAV10069",
+  "path": "laws/PR/PRAV10069",
+  "members": [
+    {
+      "id": "PRAV10069",
+      "title": "Pravilnik o diplomatskem in višjem diplomatskem izpitu",
+      "shortTitle": "Pravilnik o diplomatskem in višjem diplomatskem izpitu",
+      "shortCode": "PRAV10069",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2011-01-0002",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2013-04-23",
+      "validFrom": "2013-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0002",
+      "versions": [
+        {
+          "id": "PRAV10069-original",
+          "shortCode": "PRAV10069",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-04-23",
+          "effectiveFrom": "2013-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0002",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV11585",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatskem in višjem diplomatskem izpitu",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o diplomatskem in višjem diplomatskem izpitu",
+      "shortCode": "PRAV11585",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2013-01-1301",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zunanje zadeve",
+      "adoptedAt": "2013-04-23",
+      "validFrom": "2013-04-23",
+      "validTo": null,
+      "latestPublishedAt": "2013-04-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1301",
+      "versions": [
+        {
+          "id": "PRAV11585-original",
+          "shortCode": "PRAV11585",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2013-04-23",
+          "effectiveFrom": "2013-04-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV10069"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-1301",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

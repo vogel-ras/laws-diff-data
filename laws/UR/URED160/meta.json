@@ -1,0 +1,82 @@
+{
+  "root": "URED160",
+  "path": "laws/UR/URED160",
+  "members": [
+    {
+      "id": "URED160",
+      "title": "Uredba o emisiji snovi v zrak iz nepremičnih motorjev z notranjim izgorevanjem in nepremičnih plinskih turbin",
+      "shortTitle": "Uredba o emisiji snovi v zrak iz nepremičnih motorjev z notranjim izgorevanjem in nepremičnih plinskih turbin",
+      "shortCode": "URED160",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1994-01-2612",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-11-25",
+      "validFrom": "1994-11-25",
+      "validTo": null,
+      "latestPublishedAt": "1994-11-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2612",
+      "versions": [
+        {
+          "id": "URED160-original",
+          "shortCode": "URED160",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-11-25",
+          "effectiveFrom": "1994-11-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-2612",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED161",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o emisiji snovi v zrak iz nepremičnih motorjev z notranjim izgorevanjem in nepremičnih plinskih turbin",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o emisiji snovi v zrak iz nepremičnih motorjev z notranjim izgorevanjem in nepremičnih plinskih turbin",
+      "shortCode": "URED161",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1998-01-2306",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1998-07-17",
+      "validFrom": "1998-07-17",
+      "validTo": null,
+      "latestPublishedAt": "1998-07-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2306",
+      "versions": [
+        {
+          "id": "URED161-original",
+          "shortCode": "URED161",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1998-07-17",
+          "effectiveFrom": "1998-07-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED160"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-2306",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

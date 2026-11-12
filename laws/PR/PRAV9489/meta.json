@@ -1,0 +1,82 @@
+{
+  "root": "PRAV9489",
+  "path": "laws/PR/PRAV9489",
+  "members": [
+    {
+      "id": "PRAV9489",
+      "title": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2009",
+      "shortTitle": "Pravilnik o zaključku izvrševanja državnega in občinskih proračunov za leto 2009",
+      "shortCode": "PRAV9489",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3647",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2009-10-16",
+      "validFrom": "2009-10-16",
+      "validTo": null,
+      "latestPublishedAt": "2009-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3647",
+      "versions": [
+        {
+          "id": "PRAV9489-original",
+          "shortCode": "PRAV9489",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-10-16",
+          "effectiveFrom": "2009-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3647",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV9878",
+      "title": "Pravilnik o spremembah Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2009",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o zaključku izvrševanja državnega in občinskih proračunov za leto 2009",
+      "shortCode": "PRAV9878",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2009-01-3880",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za finance",
+      "adoptedAt": "2009-11-05",
+      "validFrom": "2009-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2009-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3880",
+      "versions": [
+        {
+          "id": "PRAV9878-original",
+          "shortCode": "PRAV9878",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2009-11-05",
+          "effectiveFrom": "2009-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV9489"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-3880",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

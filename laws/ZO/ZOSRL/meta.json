@@ -1,0 +1,178 @@
+{
+  "root": "ZOSRL",
+  "path": "laws/ZO/ZOSRL",
+  "members": [
+    {
+      "id": "ZOSRL",
+      "title": "Zakon o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortTitle": "Zakon o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortCode": "ZOSRL",
+      "kind": "zakon",
+      "keywords": [
+        "letalski potniški promet",
+        "letalsko pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0559",
+      "gazette": "Uradni list RS 12/2000  str. 1549",
+      "issuingBody": null,
+      "adoptedAt": "2000-02-11",
+      "validFrom": "2000-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0559",
+      "versions": [
+        {
+          "id": "ZOSRL-original",
+          "shortCode": "ZOSRL",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 12/2000  str. 1549",
+          "publishedAt": "2000-02-11",
+          "effectiveFrom": "2000-02-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0559",
+          "proposer": null
+        },
+        {
+          "id": "ZOSRL-amend-ZOSRL-A",
+          "shortCode": "ZOSRL-A",
+          "label": "Sprememba ZOSRL-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 92/07  str. 12280",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZOSRL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4541",
+          "proposer": null
+        },
+        {
+          "id": "ZOSRL-amend-ZOSRL-B",
+          "shortCode": "ZOSRL-B",
+          "label": "Sprememba ZOSRL-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 9/11  str. 840",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0327",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOSRL-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortCode": "ZOSRL-A",
+      "kind": "zakon",
+      "keywords": [
+        "prevoz po zraku",
+        "prevoznik",
+        "prometna nesreča",
+        "potnik",
+        "povrnitev škode",
+        "transportno zavarovanje",
+        "prevoz blaga",
+        "prevoz oseb",
+        "obvezno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-4541",
+      "gazette": "Uradni list RS 92/07  str. 12280",
+      "issuingBody": null,
+      "adoptedAt": "2007-10-10",
+      "validFrom": "2007-10-10",
+      "validTo": null,
+      "latestPublishedAt": "2007-10-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4541",
+      "versions": [
+        {
+          "id": "ZOSRL-A-original",
+          "shortCode": "ZOSRL-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/07  str. 12280",
+          "publishedAt": "2007-10-10",
+          "effectiveFrom": "2007-10-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4541",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOSRL-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o obligacijskih in stvarnopravnih razmerjih v letalstvu",
+      "shortCode": "ZOSRL-B",
+      "kind": "zakon",
+      "keywords": [
+        "prevoz po zraku",
+        "prometna nesreča",
+        "prevoznik",
+        "potnik",
+        "povrnitev škode",
+        "transportno zavarovanje",
+        "prevoz blaga",
+        "prevoz oseb",
+        "osebno zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0327",
+      "gazette": "Uradni list RS 9/11  str. 840",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-11",
+      "validFrom": "2011-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0327",
+      "versions": [
+        {
+          "id": "ZOSRL-B-original",
+          "shortCode": "ZOSRL-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 9/11  str. 840",
+          "publishedAt": "2011-02-11",
+          "effectiveFrom": "2011-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOSRL"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0327",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

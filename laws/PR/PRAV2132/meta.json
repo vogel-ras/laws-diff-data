@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2132",
+  "path": "laws/PR/PRAV2132",
+  "members": [
+    {
+      "id": "PRAV2132",
+      "title": "Pravilnik o natančnejši opredelitvi, načinu razvrščanja, predpisovanja in izdajanja zdravil za uporabo v humani medicini",
+      "shortTitle": "Pravilnik o natančnejši opredelitvi, načinu razvrščanja, predpisovanja in izdajanja zdravil za uporabo v humani medicini",
+      "shortCode": "PRAV2132",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-1812",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za zdravstvo",
+      "adoptedAt": "2000-05-05",
+      "validFrom": "2000-05-05",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1812",
+      "versions": [
+        {
+          "id": "PRAV2132-original",
+          "shortCode": "PRAV2132",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-05-05",
+          "effectiveFrom": "2000-05-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1812",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV2914",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o natančnejši opredelitvi, načinu razvrščanja, predpisovanja in izdajanja zdravil za uporabo v humani medicini",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o natančnejši opredelitvi, načinu razvrščanja, predpisovanja in izdajanja zdravil za uporabo v humani medicini",
+      "shortCode": "PRAV2914",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2843",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-07-13",
+      "validFrom": "2000-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2843",
+      "versions": [
+        {
+          "id": "PRAV2914-original",
+          "shortCode": "PRAV2914",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-13",
+          "effectiveFrom": "2000-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2132"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2843",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "root": "ZPPLPS",
+  "path": "laws/ZP/ZPPLPS",
+  "members": [
+    {
+      "id": "ZPPLPS",
+      "title": "Zakon o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortTitle": "Zakon o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortCode": "ZPPLPS",
+      "kind": "zakon",
+      "keywords": [
+        "zemljiški kataster",
+        "lastnina",
+        "zgradba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1999-01-4262",
+      "gazette": "Uradni list RS 89/99  str. 13433",
+      "issuingBody": null,
+      "adoptedAt": "1999-11-04",
+      "validFrom": "1999-11-04",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4262",
+      "versions": [
+        {
+          "id": "ZPPLPS-original",
+          "shortCode": "ZPPLPS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 89/99  str. 13433",
+          "publishedAt": "1999-11-04",
+          "effectiveFrom": "1999-11-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-4262",
+          "proposer": null
+        },
+        {
+          "id": "ZPPLPS-amend-ZPPLPS-A",
+          "shortCode": "ZPPLPS-A",
+          "label": "Sprememba ZPPLPS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 97/2001  str. 9364",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPPLPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4800",
+          "proposer": null
+        },
+        {
+          "id": "ZPPLPS-amend-ZPPLPS-B",
+          "shortCode": "ZPPLPS-B",
+          "label": "Sprememba ZPPLPS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 15/2003  str. 2105",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPLPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0586",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPLPS-A",
+      "title": "Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortTitle": "Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortCode": "ZPPLPS-A",
+      "kind": "zakon",
+      "keywords": [
+        "lastnina",
+        "stanovanje",
+        "zemljiški kataster"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4800",
+      "gazette": "Uradni list RS 97/2001  str. 9364",
+      "issuingBody": null,
+      "adoptedAt": "2001-12-04",
+      "validFrom": "2001-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2001-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4800",
+      "versions": [
+        {
+          "id": "ZPPLPS-A-original",
+          "shortCode": "ZPPLPS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 97/2001  str. 9364",
+          "publishedAt": "2001-12-04",
+          "effectiveFrom": "2001-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPLPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4800",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPPLPS-B",
+      "title": "Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortTitle": "Zakon o spremembi zakona o posebnih pogojih za vpis lastninske pravice na posameznih delih stavbe v zemljiško knjigo",
+      "shortCode": "ZPPLPS-B",
+      "kind": "zakon",
+      "keywords": [
+        "zaposleni",
+        "ustvarjanje delovnih mest",
+        "občina",
+        "financiranje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0586",
+      "gazette": "Uradni list RS 15/2003  str. 2105",
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0586",
+      "versions": [
+        {
+          "id": "ZPPLPS-B-original",
+          "shortCode": "ZPPLPS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/2003  str. 2105",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPPLPS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0586",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

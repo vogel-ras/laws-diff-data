@@ -1,0 +1,164 @@
+{
+  "root": "ZCMDS",
+  "path": "laws/ZC/ZCMDS",
+  "members": [
+    {
+      "id": "ZCMDS",
+      "title": "Zakon o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortTitle": "Zakon o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortCode": "ZCMDS",
+      "kind": "zakon",
+      "keywords": [
+        "Slovenija",
+        "MDS"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-0064",
+      "gazette": "Uradni list RS 2/93  str. 61",
+      "issuingBody": null,
+      "adoptedAt": "1993-01-14",
+      "validFrom": "1993-01-14",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0064",
+      "versions": [
+        {
+          "id": "ZCMDS-original",
+          "shortCode": "ZCMDS",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 2/93  str. 61",
+          "publishedAt": "1993-01-14",
+          "effectiveFrom": "1993-01-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-0064",
+          "proposer": null
+        },
+        {
+          "id": "ZCMDS-amend-ZCMDS-A",
+          "shortCode": "ZCMDS-A",
+          "label": "Sprememba ZCMDS-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 70/98  str. 5317",
+          "publishedAt": "1998-10-16",
+          "effectiveFrom": "1998-10-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZCMDS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3456",
+          "proposer": null
+        },
+        {
+          "id": "ZCMDS-amend-ZCMDS-B",
+          "shortCode": "ZCMDS-B",
+          "label": "Sprememba ZCMDS-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 29/10  str. 3871",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCMDS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1264",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCMDS-A",
+      "title": "Zakon o spremembi in dopolnitvi zakona o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortTitle": "Zakon o spremembi in dopolnitvi zakona o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortCode": "ZCMDS-A",
+      "kind": "zakon",
+      "keywords": [
+        "MDS",
+        "mednarodno sodelovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1998-01-3456",
+      "gazette": "Uradni list RS 70/98  str. 5317",
+      "issuingBody": null,
+      "adoptedAt": "1998-10-16",
+      "validFrom": "1998-10-16",
+      "validTo": null,
+      "latestPublishedAt": "1998-10-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3456",
+      "versions": [
+        {
+          "id": "ZCMDS-A-original",
+          "shortCode": "ZCMDS-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 70/98  str. 5317",
+          "publishedAt": "1998-10-16",
+          "effectiveFrom": "1998-10-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCMDS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1998-01-3456",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZCMDS-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o članstvu Republike Slovenije v Mednarodnem denarnem skladu",
+      "shortCode": "ZCMDS-B",
+      "kind": "zakon",
+      "keywords": [
+        "Slovenija",
+        "Mednarodni denarni sklad"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-1264",
+      "gazette": "Uradni list RS 29/10  str. 3871",
+      "issuingBody": null,
+      "adoptedAt": "2010-04-09",
+      "validFrom": "2010-04-09",
+      "validTo": null,
+      "latestPublishedAt": "2010-04-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1264",
+      "versions": [
+        {
+          "id": "ZCMDS-B-original",
+          "shortCode": "ZCMDS-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 29/10  str. 3871",
+          "publishedAt": "2010-04-09",
+          "effectiveFrom": "2010-04-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZCMDS"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1264",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

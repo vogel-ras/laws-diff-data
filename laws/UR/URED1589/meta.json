@@ -1,0 +1,97 @@
+{
+  "root": "URED1589",
+  "path": "laws/UR/URED1589",
+  "members": [
+    {
+      "id": "URED1589",
+      "title": "Uredba o lokacijskem načrtu za vzporedni plinovod M 1/1 na odseku Kidričevo-Rogatec",
+      "shortTitle": "Uredba o lokacijskem načrtu za vzporedni plinovod M 1/1 na odseku Kidričevo-Rogatec",
+      "shortCode": "URED1589",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2036",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-10",
+      "validFrom": "2001-05-10",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2036",
+      "versions": [
+        {
+          "id": "URED1589-original",
+          "shortCode": "URED1589",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2036",
+          "proposer": null
+        },
+        {
+          "id": "URED1589-npb-URED1589",
+          "shortCode": "URED1589-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2001-05-10",
+          "effectiveFrom": "2001-05-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1589",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3760",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o lokacijskem načrtu za vzporedni plinovod M 1/1 na odseku Kidričevo-Rogatec",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o lokacijskem načrtu za vzporedni plinovod M 1/1 na odseku Kidričevo-Rogatec",
+      "shortCode": "URED3760",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-1402",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-03-31",
+      "validFrom": "2006-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2006-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1402",
+      "versions": [
+        {
+          "id": "URED3760-original",
+          "shortCode": "URED3760",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-03-31",
+          "effectiveFrom": "2006-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1589"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1402",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "root": "MKVLCG",
+  "path": "laws/MK/MKVLCG",
+  "members": [
+    {
+      "id": "MKVLCG",
+      "title": "Zakon o ratifikaciji Konvencije o vročitvi sodnih in zunajsodnih listin v civilnih ali gospodarskih zadevah v tujini",
+      "shortTitle": "Zakon o ratifikaciji Konvencije o vročitvi sodnih in zunajsodnih listin v civilnih ali gospodarskih zadevah v tujini",
+      "shortCode": "MKVLCG",
+      "kind": "zakon",
+      "keywords": [
+        "ratifikacija sporazuma",
+        "mednarodna konvencija",
+        "dostava dokumentov",
+        "sodna odločba",
+        "pravosodno sodelovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-02-0102",
+      "gazette": "Uradni list RS MP 19/2000  str. 930",
+      "issuingBody": null,
+      "adoptedAt": "2000-08-24",
+      "validFrom": "2000-08-24",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0102",
+      "versions": [
+        {
+          "id": "MKVLCG-original",
+          "shortCode": "MKVLCG",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 19/2000  str. 930",
+          "publishedAt": "2000-08-24",
+          "effectiveFrom": "2000-08-24",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-02-0102",
+          "proposer": null
+        },
+        {
+          "id": "MKVLCG-amend-MKVLCG-A",
+          "shortCode": "MKVLCG-A",
+          "label": "Sprememba MKVLCG-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS MP 13/12  str. 319",
+          "publishedAt": "2012-11-26",
+          "effectiveFrom": "2012-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKVLCG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0076",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MKVLCG-A",
+      "title": "Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o vročitvi sodnih in zunajsodnih listin v civilnih ali gospodarskih zadevah v tujini",
+      "shortTitle": "Zakon o dopolnitvi Zakona o ratifikaciji Konvencije o vročitvi sodnih in zunajsodnih listin v civilnih ali gospodarskih zadevah v tujini",
+      "shortCode": "MKVLCG-A",
+      "kind": "zakon",
+      "keywords": [
+        "mednarodna konvencija",
+        "ratifikacija sporazuma",
+        "dostava dokumentov",
+        "sodna odločba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2012-02-0076",
+      "gazette": "Uradni list RS MP 13/12  str. 319",
+      "issuingBody": null,
+      "adoptedAt": "2012-11-26",
+      "validFrom": "2012-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2012-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0076",
+      "versions": [
+        {
+          "id": "MKVLCG-A-original",
+          "shortCode": "MKVLCG-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS MP 13/12  str. 319",
+          "publishedAt": "2012-11-26",
+          "effectiveFrom": "2012-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MKVLCG"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-02-0076",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

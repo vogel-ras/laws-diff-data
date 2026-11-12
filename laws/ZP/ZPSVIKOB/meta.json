@@ -1,0 +1,136 @@
+{
+  "root": "ZPSVIKOB",
+  "path": "laws/ZP/ZPSVIKOB",
+  "members": [
+    {
+      "id": "ZAKO9340",
+      "title": "Zakon o spremembi in dopolnitvi Zakona o postopku sodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank (ZPSVIKOB-1A)",
+      "shortTitle": "Zakon o spremembi in dopolnitvi Zakona o postopku sodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank (ZPSVIKOB-1A)",
+      "shortCode": "ZPSVIKOB-1A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2026-01-0346",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-02-11",
+      "validFrom": "2026-02-11",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0346",
+      "versions": [
+        {
+          "id": "ZAKO9340-original",
+          "shortCode": "ZPSVIKOB-1A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSVIKOB-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0346",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSVIKOB",
+      "title": "Zakon o postopku sodnega in izvensodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank",
+      "shortTitle": "Zakon o postopku sodnega in izvensodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank",
+      "shortCode": "ZPSVIKOB",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2019-01-3205",
+      "gazette": "Uradni list RS 72/19  str. 8731",
+      "issuingBody": null,
+      "adoptedAt": "2019-12-04",
+      "validFrom": "2019-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3205",
+      "versions": [
+        {
+          "id": "ZPSVIKOB-original",
+          "shortCode": "ZPSVIKOB",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 72/19  str. 8731",
+          "publishedAt": "2019-12-04",
+          "effectiveFrom": "2019-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3205",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPSVIKOB-1",
+      "title": "Zakon o postopku sodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank",
+      "shortTitle": "Zakon o postopku sodnega varstva nekdanjih imetnikov kvalificiranih obveznosti bank",
+      "shortCode": "ZPSVIKOB-1",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1494",
+      "gazette": "Uradni list RS 44/24  str. 4119",
+      "issuingBody": null,
+      "adoptedAt": "2024-05-31",
+      "validFrom": "2024-05-31",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1494",
+      "versions": [
+        {
+          "id": "ZPSVIKOB-1-original",
+          "shortCode": "ZPSVIKOB-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/24  str. 4119",
+          "publishedAt": "2024-05-31",
+          "effectiveFrom": "2024-05-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1494",
+          "proposer": null
+        },
+        {
+          "id": "ZPSVIKOB-1-amend-ZAKO9340",
+          "shortCode": "ZPSVIKOB-1A",
+          "label": "Sprememba ZPSVIKOB-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2026-02-11",
+          "effectiveFrom": "2026-02-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPSVIKOB-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0346",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

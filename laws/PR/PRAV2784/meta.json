@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2784",
+  "path": "laws/PR/PRAV2784",
+  "members": [
+    {
+      "id": "PRAV2784",
+      "title": "Pravilnik o minimalnih tehničnih pogojih za graditev stanovanjskih stavb in stanovanj",
+      "shortTitle": "Pravilnik o minimalnih tehničnih pogojih za graditev stanovanjskih stavb in stanovanj",
+      "shortCode": "PRAV2784",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-2091",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-05-27",
+      "validFrom": "2000-05-27",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2091",
+      "versions": [
+        {
+          "id": "PRAV2784-original",
+          "shortCode": "PRAV2784",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-05-27",
+          "effectiveFrom": "2000-05-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2091",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3972",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o minimalnih tehničnih pogojih za graditev stanovanjskih stavb in stanovanj",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o minimalnih tehničnih pogojih za graditev stanovanjskih stavb in stanovanj",
+      "shortCode": "PRAV3972",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-0520",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2002-02-14",
+      "validFrom": "2002-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2002-02-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0520",
+      "versions": [
+        {
+          "id": "PRAV3972-original",
+          "shortCode": "PRAV3972",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-02-14",
+          "effectiveFrom": "2002-02-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2784"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0520",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

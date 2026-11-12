@@ -1,0 +1,82 @@
+{
+  "root": "SKLE2006",
+  "path": "laws/SK/SKLE2006",
+  "members": [
+    {
+      "id": "SKLE2006",
+      "title": "Sklep o ustanovitvi Kmetijsko gozdarskega zavoda Ptuj",
+      "shortTitle": "Sklep o ustanovitvi Kmetijsko gozdarskega zavoda Ptuj",
+      "shortCode": "SKLE2006",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-5103",
+      "gazette": null,
+      "issuingBody": "Kmetijsko gozdarska zbornica",
+      "adoptedAt": "2000-12-28",
+      "validFrom": "2000-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2000-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5103",
+      "versions": [
+        {
+          "id": "SKLE2006-original",
+          "shortCode": "SKLE2006",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-12-28",
+          "effectiveFrom": "2000-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-5103",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE9288",
+      "title": "Sklep o spremembi Sklepa o ustanovitvi Kmetijsko gozdarskega zavoda Ptuj",
+      "shortTitle": "Sklep o spremembi Sklepa o ustanovitvi Kmetijsko gozdarskega zavoda Ptuj",
+      "shortCode": "SKLE9288",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2012-01-0940",
+      "gazette": null,
+      "issuingBody": "Kmetijsko gozdarska zbornica",
+      "adoptedAt": "2012-03-30",
+      "validFrom": "2012-03-30",
+      "validTo": null,
+      "latestPublishedAt": "2012-03-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0940",
+      "versions": [
+        {
+          "id": "SKLE9288-original",
+          "shortCode": "SKLE9288",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2012-03-30",
+          "effectiveFrom": "2012-03-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE2006"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2012-01-0940",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

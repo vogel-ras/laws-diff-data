@@ -1,0 +1,104 @@
+{
+  "root": "ZKnj",
+  "path": "laws/ZK/ZKnj",
+  "members": [
+    {
+      "id": "ZKnj-1",
+      "title": "Zakon o knjižničarstvu",
+      "shortTitle": "Zakon o knjižničarstvu",
+      "shortCode": "ZKnj-1",
+      "kind": "zakon",
+      "keywords": [
+        "knjižnica",
+        "bibliografija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-4446",
+      "gazette": "Uradni list RS 87/2001  str. 8685",
+      "issuingBody": null,
+      "adoptedAt": "2001-11-08",
+      "validFrom": "2001-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4446",
+      "versions": [
+        {
+          "id": "ZKnj-1-original",
+          "shortCode": "ZKnj-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 87/2001  str. 8685",
+          "publishedAt": "2001-11-08",
+          "effectiveFrom": "2001-11-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-4446",
+          "proposer": null
+        },
+        {
+          "id": "ZKnj-1-amend-ZKnj-1A",
+          "shortCode": "ZKnj-1A",
+          "label": "Sprememba ZKnj-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 92/15  str. 10396",
+          "publishedAt": "2015-12-04",
+          "effectiveFrom": "2015-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKnj-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3612",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZKnj-1A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o knjižničarstvu",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o knjižničarstvu",
+      "shortCode": "ZKnj-1A",
+      "kind": "zakon",
+      "keywords": [
+        "knjižnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2015-01-3612",
+      "gazette": "Uradni list RS 92/15  str. 10396",
+      "issuingBody": null,
+      "adoptedAt": "2015-12-04",
+      "validFrom": "2015-12-04",
+      "validTo": null,
+      "latestPublishedAt": "2015-12-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3612",
+      "versions": [
+        {
+          "id": "ZKnj-1A-original",
+          "shortCode": "ZKnj-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 92/15  str. 10396",
+          "publishedAt": "2015-12-04",
+          "effectiveFrom": "2015-12-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZKnj-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2015-01-3612",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

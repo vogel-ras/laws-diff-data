@@ -1,0 +1,82 @@
+{
+  "root": "URED4527",
+  "path": "laws/UR/URED4527",
+  "members": [
+    {
+      "id": "URED4527",
+      "title": "Uredba o spremljanju ulova in prodaji ribiških proizvodov",
+      "shortTitle": "Uredba o spremljanju ulova in prodaji ribiških proizvodov",
+      "shortCode": "URED4527",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2008-01-2272",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2008-06-02",
+      "validFrom": "2008-06-02",
+      "validTo": null,
+      "latestPublishedAt": "2008-06-02",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2272",
+      "versions": [
+        {
+          "id": "URED4527-original",
+          "shortCode": "URED4527",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-06-02",
+          "effectiveFrom": "2008-06-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2272",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED8180",
+      "title": "Uredba o spremembah Uredbe o spremljanju ulova in prodaji ribiških proizvodov",
+      "shortTitle": "Uredba o spremembah Uredbe o spremljanju ulova in prodaji ribiških proizvodov",
+      "shortCode": "URED8180",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2020-01-3557",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2020-12-24",
+      "validFrom": "2020-12-24",
+      "validTo": null,
+      "latestPublishedAt": "2020-12-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3557",
+      "versions": [
+        {
+          "id": "URED8180-original",
+          "shortCode": "URED8180",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2020-12-24",
+          "effectiveFrom": "2020-12-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED4527"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2020-01-3557",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

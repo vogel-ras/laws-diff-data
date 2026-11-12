@@ -1,0 +1,314 @@
+{
+  "root": "ZPLD",
+  "path": "laws/ZP/ZPLD",
+  "members": [
+    {
+      "id": "ZAKO5090",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah (ZPLD-1B)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah (ZPLD-1B)",
+      "shortCode": "ZPLD-1B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-1949",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2008-05-07",
+      "validFrom": "2008-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2008-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1949",
+      "versions": [
+        {
+          "id": "ZAKO5090-original",
+          "shortCode": "ZPLD-1B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2008-05-07",
+          "effectiveFrom": "2008-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1949",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPLD",
+      "title": "Zakon o potnih listinah državljanov Republike Slovenije",
+      "shortTitle": "Zakon o potnih listinah državljanov Republike Slovenije",
+      "shortCode": "ZPLD",
+      "kind": "zakon",
+      "keywords": [
+        "potni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1991-01-0010",
+      "gazette": "Uradni list RS 1/91  str. 19",
+      "issuingBody": null,
+      "adoptedAt": "1991-06-25",
+      "validFrom": "1991-06-25",
+      "validTo": null,
+      "latestPublishedAt": "1991-06-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0010",
+      "versions": [
+        {
+          "id": "ZPLD-original",
+          "shortCode": "ZPLD",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 1/91  str. 19",
+          "publishedAt": "1991-06-25",
+          "effectiveFrom": "1991-06-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-0010",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPLD-1",
+      "title": "Zakon o potnih listinah državljanov Republike Slovenije",
+      "shortTitle": "Zakon o potnih listinah državljanov Republike Slovenije",
+      "shortCode": "ZPLD-1",
+      "kind": "zakon",
+      "keywords": [
+        "potni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2970",
+      "gazette": "Uradni list RS 65/2000  str. 8129",
+      "issuingBody": null,
+      "adoptedAt": "2000-07-21",
+      "validFrom": "2000-07-21",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2970",
+      "versions": [
+        {
+          "id": "ZPLD-1-original",
+          "shortCode": "ZPLD-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/2000  str. 8129",
+          "publishedAt": "2000-07-21",
+          "effectiveFrom": "2000-07-21",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2970",
+          "proposer": null
+        },
+        {
+          "id": "ZPLD-1-amend-ZPLD-1A",
+          "shortCode": "ZPLD-1A",
+          "label": "Sprememba ZPLD-1A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 98/05  str. 10173",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4296",
+          "proposer": null
+        },
+        {
+          "id": "ZPLD-1-amend-ZAKO5090",
+          "shortCode": "ZPLD-1B",
+          "label": "Sprememba ZPLD-1B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2008-05-07",
+          "effectiveFrom": "2008-05-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-1949",
+          "proposer": null
+        },
+        {
+          "id": "ZPLD-1-amend-ZPLD-1C",
+          "shortCode": "ZPLD-1C",
+          "label": "Sprememba ZPLD-1C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 41/09  str. 5735",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1982",
+          "proposer": null
+        },
+        {
+          "id": "ZPLD-1-amend-ZPLD-1D",
+          "shortCode": "ZPLD-1D",
+          "label": "Sprememba ZPLD-1D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 10/11  str. 997",
+          "publishedAt": "2011-02-18",
+          "effectiveFrom": "2011-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0375",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPLD-1A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o potnih listinah državljanov Republike Slovenije",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o potnih listinah državljanov Republike Slovenije",
+      "shortCode": "ZPLD-1A",
+      "kind": "zakon",
+      "keywords": [
+        "potni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-4296",
+      "gazette": "Uradni list RS 98/05  str. 10173",
+      "issuingBody": null,
+      "adoptedAt": "2005-11-07",
+      "validFrom": "2005-11-07",
+      "validTo": null,
+      "latestPublishedAt": "2005-11-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4296",
+      "versions": [
+        {
+          "id": "ZPLD-1A-original",
+          "shortCode": "ZPLD-1A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 98/05  str. 10173",
+          "publishedAt": "2005-11-07",
+          "effectiveFrom": "2005-11-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-4296",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPLD-1C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah",
+      "shortCode": "ZPLD-1C",
+      "kind": "zakon",
+      "keywords": [
+        "potni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1982",
+      "gazette": "Uradni list RS 41/09  str. 5735",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-01",
+      "validFrom": "2009-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1982",
+      "versions": [
+        {
+          "id": "ZPLD-1C-original",
+          "shortCode": "ZPLD-1C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/09  str. 5735",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1982",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPLD-1D",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o potnih listinah",
+      "shortCode": "ZPLD-1D",
+      "kind": "zakon",
+      "keywords": [
+        "potni list"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0375",
+      "gazette": "Uradni list RS 10/11  str. 997",
+      "issuingBody": null,
+      "adoptedAt": "2011-02-18",
+      "validFrom": "2011-02-18",
+      "validTo": null,
+      "latestPublishedAt": "2011-02-18",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0375",
+      "versions": [
+        {
+          "id": "ZPLD-1D-original",
+          "shortCode": "ZPLD-1D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/11  str. 997",
+          "publishedAt": "2011-02-18",
+          "effectiveFrom": "2011-02-18",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPLD-1"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0375",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

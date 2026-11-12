@@ -1,0 +1,82 @@
+{
+  "root": "SKLE4979",
+  "path": "laws/SK/SKLE4979",
+  "members": [
+    {
+      "id": "SKLE4979",
+      "title": "Sklep o odprtju Konzulata Republike Slovenije v Knoxvillu",
+      "shortTitle": "Sklep o odprtju Konzulata Republike Slovenije v Knoxvillu",
+      "shortCode": "SKLE4979",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2004-01-4166",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2004-08-20",
+      "validFrom": "2004-08-20",
+      "validTo": null,
+      "latestPublishedAt": "2004-08-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4166",
+      "versions": [
+        {
+          "id": "SKLE4979-original",
+          "shortCode": "SKLE4979",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-08-20",
+          "effectiveFrom": "2004-08-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-4166",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE8198",
+      "title": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Knoxvillu",
+      "shortTitle": "Sklep o spremembi Sklepa o odprtju Konzulata Republike Slovenije v Knoxvillu",
+      "shortCode": "SKLE8198",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Objavljen akt brez datuma začetka veljavnosti",
+      "vrsta": "sklep",
+      "sopNumber": "2010-01-0644",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2010-02-26",
+      "validFrom": "2010-02-26",
+      "validTo": null,
+      "latestPublishedAt": "2010-02-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0644",
+      "versions": [
+        {
+          "id": "SKLE8198-original",
+          "shortCode": "SKLE8198",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-02-26",
+          "effectiveFrom": "2010-02-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE4979"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-0644",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

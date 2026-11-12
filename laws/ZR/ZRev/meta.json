@@ -1,0 +1,293 @@
+{
+  "root": "ZRev",
+  "path": "laws/ZR/ZRev",
+  "members": [
+    {
+      "id": "ZAKO5273",
+      "title": "Zakon o revidiranju (ZRev-2)",
+      "shortTitle": "Zakon o revidiranju (ZRev-2)",
+      "shortCode": "ZRev-2",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2008-01-2813",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-10-14",
+      "validFrom": "2024-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2813",
+      "versions": [
+        {
+          "id": "ZAKO5273-amend-ZRev-2A",
+          "shortCode": "ZRev-2A",
+          "label": "Sprememba ZRev-2A",
+          "kind": "amendment",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/18  str. 13361",
+          "publishedAt": "2018-12-28",
+          "effectiveFrom": "2018-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5273"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4121",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5273-amend-ZRev-2C",
+          "shortCode": "ZRev-2C",
+          "label": "Sprememba ZRev-2C",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 85/24  str. 8202",
+          "publishedAt": "2024-10-04",
+          "effectiveFrom": "2024-10-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZAKO5273"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2518",
+          "proposer": null
+        },
+        {
+          "id": "ZAKO5273-original",
+          "shortCode": "ZRev-2",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2024-10-14",
+          "effectiveFrom": "2024-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2008-01-2813",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRev",
+      "title": "Zakon o revidiranju",
+      "shortTitle": "Zakon o revidiranju",
+      "shortCode": "ZRev",
+      "kind": "zakon",
+      "keywords": [
+        "revidiranja",
+        "revizija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-1352",
+      "gazette": "Uradni list RS 32/93  str. 1769",
+      "issuingBody": null,
+      "adoptedAt": "1993-06-17",
+      "validFrom": "1993-06-17",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1352",
+      "versions": [
+        {
+          "id": "ZRev-original",
+          "shortCode": "ZRev",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/93  str. 1769",
+          "publishedAt": "1993-06-17",
+          "effectiveFrom": "1993-06-17",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-1352",
+          "proposer": null
+        },
+        {
+          "id": "ZRev-amend-ZRev-A",
+          "shortCode": "ZRev-A",
+          "label": "Sprememba ZRev-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 65/93  str. 3178",
+          "publishedAt": "1993-12-03",
+          "effectiveFrom": "1993-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRev"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2370",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRev-1",
+      "title": "Zakon o revidiranju",
+      "shortTitle": "Zakon o revidiranju",
+      "shortCode": "ZRev-1",
+      "kind": "zakon",
+      "keywords": [
+        "revidiranja"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2001-01-0661",
+      "gazette": "Uradni list RS 11/2001  str. 1137",
+      "issuingBody": null,
+      "adoptedAt": "2001-02-16",
+      "validFrom": "2001-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2001-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0661",
+      "versions": [
+        {
+          "id": "ZRev-1-original",
+          "shortCode": "ZRev-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 11/2001  str. 1137",
+          "publishedAt": "2001-02-16",
+          "effectiveFrom": "2001-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-0661",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRev-2A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o revidiranju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o revidiranju",
+      "shortCode": "ZRev-2A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2018-01-4121",
+      "gazette": "Uradni list RS 84/18  str. 13361",
+      "issuingBody": null,
+      "adoptedAt": "2018-12-28",
+      "validFrom": "2018-12-28",
+      "validTo": null,
+      "latestPublishedAt": "2018-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4121",
+      "versions": [
+        {
+          "id": "ZRev-2A-original",
+          "shortCode": "ZRev-2A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 84/18  str. 13361",
+          "publishedAt": "2018-12-28",
+          "effectiveFrom": "2018-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5273"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-4121",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRev-2C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o revidiranju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o revidiranju",
+      "shortCode": "ZRev-2C",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-2518",
+      "gazette": "Uradni list RS 85/24  str. 8202",
+      "issuingBody": null,
+      "adoptedAt": "2024-10-04",
+      "validFrom": "2024-10-04",
+      "validTo": null,
+      "latestPublishedAt": "2024-10-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2518",
+      "versions": [
+        {
+          "id": "ZRev-2C-original",
+          "shortCode": "ZRev-2C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 85/24  str. 8202",
+          "publishedAt": "2024-10-04",
+          "effectiveFrom": "2024-10-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZAKO5273"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2518",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZRev-A",
+      "title": "Zakon o spremembah zakona o revidiranju",
+      "shortTitle": "Zakon o spremembah zakona o revidiranju",
+      "shortCode": "ZRev-A",
+      "kind": "zakon",
+      "keywords": [
+        "revidiranja",
+        "revizija"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1993-01-2370",
+      "gazette": "Uradni list RS 65/93  str. 3178",
+      "issuingBody": null,
+      "adoptedAt": "1993-12-03",
+      "validFrom": "1993-12-03",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2370",
+      "versions": [
+        {
+          "id": "ZRev-A-original",
+          "shortCode": "ZRev-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 65/93  str. 3178",
+          "publishedAt": "1993-12-03",
+          "effectiveFrom": "1993-12-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZRev"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2370",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

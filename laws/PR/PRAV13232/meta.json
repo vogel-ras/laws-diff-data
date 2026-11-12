@@ -1,0 +1,60 @@
+{
+  "root": "PRAV13232",
+  "path": "laws/PR/PRAV13232",
+  "members": [
+    {
+      "id": "PRAV13232",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o ultralahkih letalnih napravah",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o ultralahkih letalnih napravah",
+      "shortCode": "PRAV13232",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis, ki se še uporablja",
+      "vrsta": "pravilnik",
+      "sopNumber": "2018-01-1463",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za infrastrukturo",
+      "adoptedAt": "2018-05-11",
+      "validFrom": "2018-05-11",
+      "validTo": null,
+      "latestPublishedAt": "2018-05-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1463",
+      "versions": [
+        {
+          "id": "PRAV13232-original",
+          "shortCode": "PRAV13232",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-05-11",
+          "effectiveFrom": "2018-05-11",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "PRAV811"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1463",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13232-npb-PRAV13232",
+          "shortCode": "PRAV13232-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-05-11",
+          "effectiveFrom": "2018-05-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13232",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

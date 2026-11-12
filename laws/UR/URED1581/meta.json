@@ -1,0 +1,82 @@
+{
+  "root": "URED1581",
+  "path": "laws/UR/URED1581",
+  "members": [
+    {
+      "id": "URED1581",
+      "title": "Uredba o določitvi obsega kontingentov za uvoz blaga v letu 2001",
+      "shortTitle": "Uredba o določitvi obsega kontingentov za uvoz blaga v letu 2001",
+      "shortCode": "URED1581",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-4515",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-11-24",
+      "validFrom": "2000-11-24",
+      "validTo": null,
+      "latestPublishedAt": "2000-11-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4515",
+      "versions": [
+        {
+          "id": "URED1581-original",
+          "shortCode": "URED1581",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-11-24",
+          "effectiveFrom": "2000-11-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-4515",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED1707",
+      "title": "Uredba o spremembah uredbe o določitvi obsega kontingentov za uvoz blaga v letu 2001",
+      "shortTitle": "Uredba o spremembah uredbe o določitvi obsega kontingentov za uvoz blaga v letu 2001",
+      "shortCode": "URED1707",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-2383",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-05-25",
+      "validFrom": "2001-05-25",
+      "validTo": null,
+      "latestPublishedAt": "2001-05-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2383",
+      "versions": [
+        {
+          "id": "URED1707-original",
+          "shortCode": "URED1707",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-05-25",
+          "effectiveFrom": "2001-05-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1581"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-2383",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

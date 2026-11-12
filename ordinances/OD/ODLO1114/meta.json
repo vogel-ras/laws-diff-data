@@ -1,0 +1,58 @@
+{
+  "root": "ODLO1114",
+  "path": "ordinances/OD/ODLO1114",
+  "members": [
+    {
+      "id": "ODLO1114",
+      "title": "Odlok o razglasitvi Cekinovega gradu v Ljubljani za kulturni spomenik državnega pomena",
+      "shortTitle": "Odlok o razglasitvi Cekinovega gradu v Ljubljani za kulturni spomenik državnega pomena",
+      "shortCode": "ODLO1114",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2002-01-0903",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-03-08",
+      "validFrom": "2002-03-08",
+      "validTo": null,
+      "latestPublishedAt": "2002-03-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0903",
+      "versions": [
+        {
+          "id": "ODLO1114-original",
+          "shortCode": "ODLO1114",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-03-08",
+          "effectiveFrom": "2002-03-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-0903",
+          "proposer": null
+        },
+        {
+          "id": "ODLO1114-npb-ODLO1114",
+          "shortCode": "ODLO1114-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2002-03-08",
+          "effectiveFrom": "2002-03-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO1114",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

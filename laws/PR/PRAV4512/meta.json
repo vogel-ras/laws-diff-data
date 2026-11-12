@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4512",
+  "path": "laws/PR/PRAV4512",
+  "members": [
+    {
+      "id": "PRAV4512",
+      "title": "Pravilnik o vnosu iz in iznosu v države članice Evropske unije ter uvozu in izvozu radioaktivnih odpadkov",
+      "shortTitle": "Pravilnik o vnosu iz in iznosu v države članice Evropske unije ter uvozu in izvozu radioaktivnih odpadkov",
+      "shortCode": "PRAV4512",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-2762",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje, prostor in energijo",
+      "adoptedAt": "2004-06-03",
+      "validFrom": "2004-06-03",
+      "validTo": null,
+      "latestPublishedAt": "2004-06-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2762",
+      "versions": [
+        {
+          "id": "PRAV4512-original",
+          "shortCode": "PRAV4512",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-06-03",
+          "effectiveFrom": "2004-06-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2762",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7064",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o vnosu iz in iznosu v države članice Evropske unije ter uvozu in izvozu radioaktivnih odpadkov",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o vnosu iz in iznosu v države članice Evropske unije ter uvozu in izvozu radioaktivnih odpadkov",
+      "shortCode": "PRAV7064",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2005-01-3554",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2005-08-29",
+      "validFrom": "2005-08-29",
+      "validTo": null,
+      "latestPublishedAt": "2005-08-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3554",
+      "versions": [
+        {
+          "id": "PRAV7064-original",
+          "shortCode": "PRAV7064",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-08-29",
+          "effectiveFrom": "2005-08-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4512"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3554",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

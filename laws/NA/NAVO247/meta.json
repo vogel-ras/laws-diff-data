@@ -1,0 +1,97 @@
+{
+  "root": "NAVO247",
+  "path": "laws/NA/NAVO247",
+  "members": [
+    {
+      "id": "NAVO247",
+      "title": "Navodilo o merilih za ocenjevanje vrednosti podržavljenih premičnin, nepremičnin, podjetij oziroma premoženja",
+      "shortTitle": "Navodilo o merilih za ocenjevanje vrednosti podržavljenih premičnin, nepremičnin, podjetij oziroma premoženja",
+      "shortCode": "NAVO247",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1992-01-1234",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-05-15",
+      "validFrom": "1992-05-15",
+      "validTo": null,
+      "latestPublishedAt": "1992-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1234",
+      "versions": [
+        {
+          "id": "NAVO247-original",
+          "shortCode": "NAVO247",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-05-15",
+          "effectiveFrom": "1992-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-1234",
+          "proposer": null
+        },
+        {
+          "id": "NAVO247-npb-NAVO247",
+          "shortCode": "NAVO247-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 3)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1992-05-15",
+          "effectiveFrom": "1992-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=NAVO247",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "NAVO322",
+      "title": "Navodilo o spremembah in dopolnitvah navodila o merilih za ocenjevanje vrednosti podržavljenih premičnin, nepremičnin, podjetij oziroma premoženja",
+      "shortTitle": "Navodilo o spremembah in dopolnitvah navodila o merilih za ocenjevanje vrednosti podržavljenih premičnin, nepremičnin, podjetij oziroma premoženja",
+      "shortCode": "NAVO322",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "2000-01-1165",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2000-03-24",
+      "validFrom": "2000-03-24",
+      "validTo": null,
+      "latestPublishedAt": "2000-03-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1165",
+      "versions": [
+        {
+          "id": "NAVO322-original",
+          "shortCode": "NAVO322",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-03-24",
+          "effectiveFrom": "2000-03-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "NAVO247"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-1165",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

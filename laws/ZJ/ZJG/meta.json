@@ -1,0 +1,45 @@
+{
+  "root": "ZJG",
+  "path": "laws/ZJ/ZJG",
+  "members": [
+    {
+      "id": "ZJG",
+      "title": "Zakon o javnih glasilih",
+      "shortTitle": "Zakon o javnih glasilih",
+      "shortCode": "ZJG",
+      "kind": "zakon",
+      "keywords": [
+        "mediji"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "1994-01-0728",
+      "gazette": "Uradni list RS 18/94  str. 1024",
+      "issuingBody": null,
+      "adoptedAt": "1994-04-08",
+      "validFrom": "1994-04-08",
+      "validTo": null,
+      "latestPublishedAt": "1994-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0728",
+      "versions": [
+        {
+          "id": "ZJG-original",
+          "shortCode": "ZJG",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/94  str. 1024",
+          "publishedAt": "1994-04-08",
+          "effectiveFrom": "1994-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-0728",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

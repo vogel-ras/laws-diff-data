@@ -1,0 +1,58 @@
+{
+  "root": "URED1374",
+  "path": "laws/UR/URED1374",
+  "members": [
+    {
+      "id": "URED1374",
+      "title": "Uredba o listi blaga in storitev, za katere se uporabljajo ukrepi kontrole cen",
+      "shortTitle": "Uredba o listi blaga in storitev, za katere se uporabljajo ukrepi kontrole cen",
+      "shortCode": "URED1374",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2000-01-3690",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2000-09-13",
+      "validFrom": "2000-09-13",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3690",
+      "versions": [
+        {
+          "id": "URED1374-original",
+          "shortCode": "URED1374",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-13",
+          "effectiveFrom": "2000-09-13",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3690",
+          "proposer": null
+        },
+        {
+          "id": "URED1374-npb-URED1374",
+          "shortCode": "URED1374-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2000-09-13",
+          "effectiveFrom": "2000-09-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED1374",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

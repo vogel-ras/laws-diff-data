@@ -1,0 +1,82 @@
+{
+  "root": "PRAV181",
+  "path": "laws/PR/PRAV181",
+  "members": [
+    {
+      "id": "PRAV181",
+      "title": "Pravilnik o ocenjevanju in razvrščanju govejih trupov in polovic na klavni liniji",
+      "shortTitle": "Pravilnik o ocenjevanju in razvrščanju govejih trupov in polovic na klavni liniji",
+      "shortCode": "PRAV181",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "1994-01-1188",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1994-05-26",
+      "validFrom": "1994-05-26",
+      "validTo": null,
+      "latestPublishedAt": "1994-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1188",
+      "versions": [
+        {
+          "id": "PRAV181-original",
+          "shortCode": "PRAV181",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1994-05-26",
+          "effectiveFrom": "1994-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1994-01-1188",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5356",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o ocenjevanju in razvrščanju govejih trupov in polovic na klavni liniji",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o ocenjevanju in razvrščanju govejih trupov in polovic na klavni liniji",
+      "shortCode": "PRAV5356",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-1353",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2004-03-31",
+      "validFrom": "2004-03-31",
+      "validTo": null,
+      "latestPublishedAt": "2004-03-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1353",
+      "versions": [
+        {
+          "id": "PRAV5356-original",
+          "shortCode": "PRAV5356",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-03-31",
+          "effectiveFrom": "2004-03-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV181"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-1353",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

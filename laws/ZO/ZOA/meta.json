@@ -1,0 +1,101 @@
+{
+  "root": "ZOA",
+  "path": "laws/ZO/ZOA",
+  "members": [
+    {
+      "id": "ZAKO7764",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o osebni asistenci (ZOA-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o osebni asistenci (ZOA-A)",
+      "shortCode": "ZOA-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2018-01-1403",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2018-05-04",
+      "validFrom": "2018-05-04",
+      "validTo": null,
+      "latestPublishedAt": "2018-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1403",
+      "versions": [
+        {
+          "id": "ZAKO7764-original",
+          "shortCode": "ZOA-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2018-05-04",
+          "effectiveFrom": "2018-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1403",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOA",
+      "title": "Zakon o osebni asistenci",
+      "shortTitle": "Zakon o osebni asistenci",
+      "shortCode": "ZOA",
+      "kind": "zakon",
+      "keywords": [
+        "invalid"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2017-01-0460",
+      "gazette": "Uradni list RS 10/17  str. 1497",
+      "issuingBody": null,
+      "adoptedAt": "2017-02-27",
+      "validFrom": "2017-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2018-05-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0460",
+      "versions": [
+        {
+          "id": "ZOA-original",
+          "shortCode": "ZOA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 10/17  str. 1497",
+          "publishedAt": "2017-02-27",
+          "effectiveFrom": "2017-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-0460",
+          "proposer": null
+        },
+        {
+          "id": "ZOA-amend-ZAKO7764",
+          "shortCode": "ZOA-A",
+          "label": "Sprememba ZOA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2018-05-04",
+          "effectiveFrom": "2018-05-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2018-01-1403",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

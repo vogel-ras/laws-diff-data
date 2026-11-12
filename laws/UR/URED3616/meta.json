@@ -1,0 +1,82 @@
+{
+  "root": "URED3616",
+  "path": "laws/UR/URED3616",
+  "members": [
+    {
+      "id": "URED3616",
+      "title": "Uredba o neposrednih plačilih za pridelovalce določenih poljščin",
+      "shortTitle": "Uredba o neposrednih plačilih za pridelovalce določenih poljščin",
+      "shortCode": "URED3616",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0291",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0291",
+      "versions": [
+        {
+          "id": "URED3616-original",
+          "shortCode": "URED3616",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3772",
+      "title": "Uredba o spremembah Uredbe o neposrednih plačilih za pridelovalce določenih poljščin",
+      "shortTitle": "Uredba o spremembah Uredbe o neposrednih plačilih za pridelovalce določenih poljščin",
+      "shortCode": "URED3772",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-5021",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-12-16",
+      "validFrom": "2005-12-16",
+      "validTo": null,
+      "latestPublishedAt": "2005-12-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5021",
+      "versions": [
+        {
+          "id": "URED3772-original",
+          "shortCode": "URED3772",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-12-16",
+          "effectiveFrom": "2005-12-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3616"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-5021",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

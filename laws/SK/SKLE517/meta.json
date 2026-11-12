@@ -1,0 +1,82 @@
+{
+  "root": "SKLE517",
+  "path": "laws/SK/SKLE517",
+  "members": [
+    {
+      "id": "SKLE517",
+      "title": "Sklep o ustanovitvi Urada Vlade Republike Slovenije za verske skupnosti",
+      "shortTitle": "Sklep o ustanovitvi Urada Vlade Republike Slovenije za verske skupnosti",
+      "shortCode": "SKLE517",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "1993-01-2642",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1993-12-31",
+      "validFrom": "1993-12-31",
+      "validTo": null,
+      "latestPublishedAt": "1993-12-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2642",
+      "versions": [
+        {
+          "id": "SKLE517-original",
+          "shortCode": "SKLE517",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1993-12-31",
+          "effectiveFrom": "1993-12-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1993-01-2642",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE6985",
+      "title": "Sklep o spremembi Sklepa o ustanovitvi Urada Vlade Republike Slovenije za verske skupnosti",
+      "shortTitle": "Sklep o spremembi Sklepa o ustanovitvi Urada Vlade Republike Slovenije za verske skupnosti",
+      "shortCode": "SKLE6985",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2007-01-1071",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2007-03-12",
+      "validFrom": "2007-03-12",
+      "validTo": null,
+      "latestPublishedAt": "2007-03-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1071",
+      "versions": [
+        {
+          "id": "SKLE6985-original",
+          "shortCode": "SKLE6985",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-03-12",
+          "effectiveFrom": "2007-03-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE517"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-1071",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

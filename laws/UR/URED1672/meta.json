@@ -1,0 +1,82 @@
+{
+  "root": "URED1672",
+  "path": "laws/UR/URED1672",
+  "members": [
+    {
+      "id": "URED1672",
+      "title": "Uredba o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne uporabnike",
+      "shortTitle": "Uredba o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne uporabnike",
+      "shortCode": "URED1672",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2001-01-1786",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2001-04-20",
+      "validFrom": "2001-04-20",
+      "validTo": null,
+      "latestPublishedAt": "2001-04-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1786",
+      "versions": [
+        {
+          "id": "URED1672-original",
+          "shortCode": "URED1672",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-04-20",
+          "effectiveFrom": "2001-04-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-1786",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2635",
+      "title": "Uredba o spremembi uredbe o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne uporabnike",
+      "shortTitle": "Uredba o spremembi uredbe o oblikovanju cen proizvodnje in distribucije pare in tople vode za namene daljinskega ogrevanja za tarifne uporabnike",
+      "shortCode": "URED2635",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2002-01-3960",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2002-09-13",
+      "validFrom": "2002-09-13",
+      "validTo": null,
+      "latestPublishedAt": "2002-09-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3960",
+      "versions": [
+        {
+          "id": "URED2635-original",
+          "shortCode": "URED2635",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-09-13",
+          "effectiveFrom": "2002-09-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED1672"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-3960",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

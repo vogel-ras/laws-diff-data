@@ -1,0 +1,97 @@
+{
+  "root": "ODLO502",
+  "path": "ordinances/OD/ODLO502",
+  "members": [
+    {
+      "id": "ODLO502",
+      "title": "Odlok o upravljanju gozdov v družbeni lastnini, za katere zakon o denacionalizaciji določa obveznost vračanja, do izvedbe denacionalizacije",
+      "shortTitle": "Odlok o upravljanju gozdov v družbeni lastnini, za katere zakon o denacionalizaciji določa obveznost vračanja, do izvedbe denacionalizacije",
+      "shortCode": "ODLO502",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1991-01-1419",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1991-12-28",
+      "validFrom": "1991-12-28",
+      "validTo": null,
+      "latestPublishedAt": "1991-12-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1419",
+      "versions": [
+        {
+          "id": "ODLO502-original",
+          "shortCode": "ODLO502",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1991-12-28",
+          "effectiveFrom": "1991-12-28",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1991-01-1419",
+          "proposer": null
+        },
+        {
+          "id": "ODLO502-npb-ODLO502",
+          "shortCode": "ODLO502-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1991-12-28",
+          "effectiveFrom": "1991-12-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=ODLO502",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO503",
+      "title": "Odlok o spremembah odloka o upravljanju gozdov v družbeni lastnini, za katere zakon o denacionalizaciji določa obveznost vračanja, do izvedbe denacionalizacije",
+      "shortTitle": "Odlok o spremembah odloka o upravljanju gozdov v družbeni lastnini, za katere zakon o denacionalizaciji določa obveznost vračanja, do izvedbe denacionalizacije",
+      "shortCode": "ODLO503",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1992-01-0178",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1992-01-23",
+      "validFrom": "1992-01-23",
+      "validTo": null,
+      "latestPublishedAt": "1992-01-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0178",
+      "versions": [
+        {
+          "id": "ODLO503-original",
+          "shortCode": "ODLO503",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1992-01-23",
+          "effectiveFrom": "1992-01-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO502"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1992-01-0178",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

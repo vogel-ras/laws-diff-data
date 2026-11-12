@@ -1,0 +1,97 @@
+{
+  "root": "PRAV14508",
+  "path": "laws/PR/PRAV14508",
+  "members": [
+    {
+      "id": "PRAV14508",
+      "title": "Pravilnik o policijskih atašejih",
+      "shortTitle": "Pravilnik o policijskih atašejih",
+      "shortCode": "PRAV14508",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-0632",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-03-04",
+      "validFrom": "2022-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2022-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0632",
+      "versions": [
+        {
+          "id": "PRAV14508-original",
+          "shortCode": "PRAV14508",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-03-04",
+          "effectiveFrom": "2022-03-04",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-0632",
+          "proposer": null
+        },
+        {
+          "id": "PRAV14508-npb-PRAV14508",
+          "shortCode": "PRAV14508-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2022-03-04",
+          "effectiveFrom": "2022-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV14508",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14762",
+      "title": "Pravilnik o spremembah Pravilnika o policijskih atašejih",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o policijskih atašejih",
+      "shortCode": "PRAV14762",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2022-01-2822",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2022-09-16",
+      "validFrom": "2022-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2822",
+      "versions": [
+        {
+          "id": "PRAV14762-original",
+          "shortCode": "PRAV14762",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-16",
+          "effectiveFrom": "2022-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV14508"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2822",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

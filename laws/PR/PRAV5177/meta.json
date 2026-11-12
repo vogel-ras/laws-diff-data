@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5177",
+  "path": "laws/PR/PRAV5177",
+  "members": [
+    {
+      "id": "PRAV5177",
+      "title": "Pravilnik o smeri in stopnji izobrazbe učiteljev in drugih strokovnih delavcev v izobraževalnih programih ekonomski tehnik",
+      "shortTitle": "Pravilnik o smeri in stopnji izobrazbe učiteljev in drugih strokovnih delavcev v izobraževalnih programih ekonomski tehnik",
+      "shortCode": "PRAV5177",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3978",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2003-08-22",
+      "validFrom": "2003-08-22",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-22",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3978",
+      "versions": [
+        {
+          "id": "PRAV5177-original",
+          "shortCode": "PRAV5177",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-22",
+          "effectiveFrom": "2003-08-22",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3978",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV7522",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o smeri in stopnji izobrazbe učiteljev in drugih strokovnih delavcev v izobraževalnih programih EKONOMSKI TEHNIK",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o smeri in stopnji izobrazbe učiteljev in drugih strokovnih delavcev v izobraževalnih programih EKONOMSKI TEHNIK",
+      "shortCode": "PRAV7522",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2006-01-1441",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo in šport",
+      "adoptedAt": "2006-04-04",
+      "validFrom": "2006-04-04",
+      "validTo": null,
+      "latestPublishedAt": "2006-04-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1441",
+      "versions": [
+        {
+          "id": "PRAV7522-original",
+          "shortCode": "PRAV7522",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-04-04",
+          "effectiveFrom": "2006-04-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5177"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-1441",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

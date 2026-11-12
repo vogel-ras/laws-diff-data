@@ -1,0 +1,82 @@
+{
+  "root": "SKLE1229",
+  "path": "laws/SK/SKLE1229",
+  "members": [
+    {
+      "id": "SKLE1229",
+      "title": "Sklep o računovodskih izkazih vzajemnih pokojninskih skladov",
+      "shortTitle": "Sklep o računovodskih izkazih vzajemnih pokojninskih skladov",
+      "shortCode": "SKLE1229",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2000-01-2772",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2000-07-06",
+      "validFrom": "2000-07-06",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2772",
+      "versions": [
+        {
+          "id": "SKLE1229-original",
+          "shortCode": "SKLE1229",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-06",
+          "effectiveFrom": "2000-07-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2772",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE4361",
+      "title": "Sklep o spremembah in dopolnitvah sklepa o računovodskih izkazih vzajemnih pokojninskih skladov",
+      "shortTitle": "Sklep o spremembah in dopolnitvah sklepa o računovodskih izkazih vzajemnih pokojninskih skladov",
+      "shortCode": "SKLE4361",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2003-01-5732",
+      "gazette": null,
+      "issuingBody": "Agencija za trg vrednostnih papirjev",
+      "adoptedAt": "2003-12-29",
+      "validFrom": "2003-12-29",
+      "validTo": null,
+      "latestPublishedAt": "2003-12-29",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5732",
+      "versions": [
+        {
+          "id": "SKLE4361-original",
+          "shortCode": "SKLE4361",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-12-29",
+          "effectiveFrom": "2003-12-29",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE1229"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5732",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

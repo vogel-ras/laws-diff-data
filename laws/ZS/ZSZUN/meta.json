@@ -1,0 +1,99 @@
+{
+  "root": "ZSZUN",
+  "path": "laws/ZS/ZSZUN",
+  "members": [
+    {
+      "id": "ZSZUN",
+      "title": "Zakon o strokovnih, znanstvenih in umetniških naslovih",
+      "shortTitle": "Zakon o strokovnih, znanstvenih in umetniških naslovih",
+      "shortCode": "ZSZUN",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2022-01-2512",
+      "gazette": "Uradni list RS 100/22  str. 7621",
+      "issuingBody": null,
+      "adoptedAt": "2022-07-25",
+      "validFrom": "2022-07-25",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2512",
+      "versions": [
+        {
+          "id": "ZSZUN-original",
+          "shortCode": "ZSZUN",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 100/22  str. 7621",
+          "publishedAt": "2022-07-25",
+          "effectiveFrom": "2022-07-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2512",
+          "proposer": null
+        },
+        {
+          "id": "ZSZUN-amend-ZSZUN-A",
+          "shortCode": "ZSZUN-A",
+          "label": "Sprememba ZSZUN-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 16/23  str. 982",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZUN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0303",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZSZUN-A",
+      "title": "Zakon o dopolnitvi Zakona o strokovnih, znanstvenih in umetniških naslovih",
+      "shortTitle": "Zakon o dopolnitvi Zakona o strokovnih, znanstvenih in umetniških naslovih",
+      "shortCode": "ZSZUN-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2023-01-0303",
+      "gazette": "Uradni list RS 16/23  str. 982",
+      "issuingBody": null,
+      "adoptedAt": "2023-02-07",
+      "validFrom": "2023-02-07",
+      "validTo": null,
+      "latestPublishedAt": "2023-02-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0303",
+      "versions": [
+        {
+          "id": "ZSZUN-A-original",
+          "shortCode": "ZSZUN-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 16/23  str. 982",
+          "publishedAt": "2023-02-07",
+          "effectiveFrom": "2023-02-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZSZUN"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-0303",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

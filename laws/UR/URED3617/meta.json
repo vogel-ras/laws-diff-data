@@ -1,0 +1,121 @@
+{
+  "root": "URED3617",
+  "path": "laws/UR/URED3617",
+  "members": [
+    {
+      "id": "URED3617",
+      "title": "Uredba o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortTitle": "Uredba o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortCode": "URED3617",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Konzumiran ali obsoleten predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0280",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-02-04",
+      "validFrom": "2005-02-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-02-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0280",
+      "versions": [
+        {
+          "id": "URED3617-original",
+          "shortCode": "URED3617",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-02-04",
+          "effectiveFrom": "2005-02-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0280",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3722",
+      "title": "Uredba o spremembah Uredbe o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortTitle": "Uredba o spremembah Uredbe o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortCode": "URED3722",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-0751",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-03-04",
+      "validFrom": "2005-03-04",
+      "validTo": null,
+      "latestPublishedAt": "2005-03-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0751",
+      "versions": [
+        {
+          "id": "URED3722-original",
+          "shortCode": "URED3722",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-03-04",
+          "effectiveFrom": "2005-03-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3617"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-0751",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED3833",
+      "title": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortTitle": "Uredba o spremembah in dopolnitvah Uredbe o plačilih za ukrepe Programa razvoja podeželja za Republiko Slovenijo 2004-2006 za leto 2005",
+      "shortCode": "URED3833",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2005-01-1950",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2005-05-13",
+      "validFrom": "2005-05-13",
+      "validTo": null,
+      "latestPublishedAt": "2005-05-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1950",
+      "versions": [
+        {
+          "id": "URED3833-original",
+          "shortCode": "URED3833",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2005-05-13",
+          "effectiveFrom": "2005-05-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED3617"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-1950",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

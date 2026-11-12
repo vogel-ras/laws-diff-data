@@ -1,0 +1,82 @@
+{
+  "root": "PRAV4883",
+  "path": "laws/PR/PRAV4883",
+  "members": [
+    {
+      "id": "PRAV4883",
+      "title": "Pravilnik o postopku in pogojih za vpis posameznikov v register zasebnih raziskovalcev",
+      "shortTitle": "Pravilnik o postopku in pogojih za vpis posameznikov v register zasebnih raziskovalcev",
+      "shortCode": "PRAV4883",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-2026",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za šolstvo, znanost in šport",
+      "adoptedAt": "2003-05-09",
+      "validFrom": "2003-05-09",
+      "validTo": null,
+      "latestPublishedAt": "2003-05-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2026",
+      "versions": [
+        {
+          "id": "PRAV4883-original",
+          "shortCode": "PRAV4883",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-05-09",
+          "effectiveFrom": "2003-05-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-2026",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV5199",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o postopku in pogojih za vpis posameznikov v register zasebnih raziskovalcev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o postopku in pogojih za vpis posameznikov v register zasebnih raziskovalcev",
+      "shortCode": "PRAV5199",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2003-01-3933",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2003-08-21",
+      "validFrom": "2003-08-21",
+      "validTo": null,
+      "latestPublishedAt": "2003-08-21",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3933",
+      "versions": [
+        {
+          "id": "PRAV5199-original",
+          "shortCode": "PRAV5199",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-08-21",
+          "effectiveFrom": "2003-08-21",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV4883"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-3933",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

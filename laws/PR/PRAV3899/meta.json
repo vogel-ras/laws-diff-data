@@ -1,0 +1,82 @@
+{
+  "root": "PRAV3899",
+  "path": "laws/PR/PRAV3899",
+  "members": [
+    {
+      "id": "PRAV3899",
+      "title": "Pravilnik o načinu vodenja in postopku za vpis ter o posredovanju podatkov iz razvida medijev",
+      "shortTitle": "Pravilnik o načinu vodenja in postopku za vpis ter o posredovanju podatkov iz razvida medijev",
+      "shortCode": "PRAV3899",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3061",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kulturo",
+      "adoptedAt": "2001-07-13",
+      "validFrom": "2001-07-13",
+      "validTo": null,
+      "latestPublishedAt": "2001-07-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3061",
+      "versions": [
+        {
+          "id": "PRAV3899-original",
+          "shortCode": "PRAV3899",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-07-13",
+          "effectiveFrom": "2001-07-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3061",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV4418",
+      "title": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu vodenja in postopku za vpis ter o posredovanju podatkov iz razvida medijev",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah pravilnika o načinu vodenja in postopku za vpis ter o posredovanju podatkov iz razvida medijev",
+      "shortCode": "PRAV4418",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2002-01-4776",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2002-11-08",
+      "validFrom": "2002-11-08",
+      "validTo": null,
+      "latestPublishedAt": "2002-11-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4776",
+      "versions": [
+        {
+          "id": "PRAV4418-original",
+          "shortCode": "PRAV4418",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2002-11-08",
+          "effectiveFrom": "2002-11-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV3899"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-4776",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

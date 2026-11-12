@@ -1,0 +1,97 @@
+{
+  "root": "PRAV12825",
+  "path": "laws/PR/PRAV12825",
+  "members": [
+    {
+      "id": "PRAV12825",
+      "title": "Pravilnik o usposabljanju in preizkusu znanja za strokovno osebje reševalne in gasilske službe na bolnišničnih heliportih",
+      "shortTitle": "Pravilnik o usposabljanju in preizkusu znanja za strokovno osebje reševalne in gasilske službe na bolnišničnih heliportih",
+      "shortCode": "PRAV12825",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2016-01-2487",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-25",
+      "validFrom": "2024-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2487",
+      "versions": [
+        {
+          "id": "PRAV12825-original",
+          "shortCode": "PRAV12825",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-25",
+          "effectiveFrom": "2024-09-25",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-2487",
+          "proposer": null
+        },
+        {
+          "id": "PRAV12825-npb-PRAV12825",
+          "shortCode": "PRAV12825-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2016-09-02",
+          "effectiveFrom": "2016-09-02",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV12825",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15512",
+      "title": "Pravilnik o spremembah Pravilnika o usposabljanju in preizkusu znanja za strokovno osebje reševalne in gasilske službe na bolnišničnih heliportih",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o usposabljanju in preizkusu znanja za strokovno osebje reševalne in gasilske službe na bolnišničnih heliportih",
+      "shortCode": "PRAV15512",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2024-01-2439",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2024-09-25",
+      "validFrom": "2024-09-25",
+      "validTo": null,
+      "latestPublishedAt": "2024-09-25",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2439",
+      "versions": [
+        {
+          "id": "PRAV15512-original",
+          "shortCode": "PRAV15512",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2024-09-25",
+          "effectiveFrom": "2024-09-25",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV12825"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-2439",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

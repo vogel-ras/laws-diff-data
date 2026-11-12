@@ -1,0 +1,515 @@
+{
+  "root": "ZUT",
+  "path": "laws/ZU/ZUT",
+  "members": [
+    {
+      "id": "ZUT",
+      "title": "Zakon o upravnih taksah",
+      "shortTitle": "Zakon o upravnih taksah",
+      "shortCode": "ZUT",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški",
+        "kolkovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-0409",
+      "gazette": "Uradni list RS 8/2000  str. 955",
+      "issuingBody": null,
+      "adoptedAt": "2000-01-31",
+      "validFrom": "2000-01-31",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0409",
+      "versions": [
+        {
+          "id": "ZUT-original",
+          "shortCode": "ZUT",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 8/2000  str. 955",
+          "publishedAt": "2000-01-31",
+          "effectiveFrom": "2000-01-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-0409",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-A",
+          "shortCode": "ZUT-A",
+          "label": "Sprememba ZUT-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 44/2000  str. 5940",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2068",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-B",
+          "shortCode": "ZUT-B",
+          "label": "Sprememba ZUT-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 81/2000  str. 9788",
+          "publishedAt": "2000-09-15",
+          "effectiveFrom": "2000-09-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3713",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-C",
+          "shortCode": "ZUT-C",
+          "label": "Sprememba ZUT-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 42/2002  str. 4106",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2008",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-D",
+          "shortCode": "ZUT-D",
+          "label": "Sprememba ZUT-D",
+          "kind": "amendment",
+          "sequence": 5,
+          "gazette": "Uradni list RS 18/04  str. 1928",
+          "publishedAt": "2004-02-27",
+          "effectiveFrom": "2004-02-27",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0777",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-E",
+          "shortCode": "ZUT-E",
+          "label": "Sprememba ZUT-E",
+          "kind": "amendment",
+          "sequence": 6,
+          "gazette": "Uradni list RS 91/05  str. 9277",
+          "publishedAt": "2005-10-14",
+          "effectiveFrom": "2005-10-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3884",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-F",
+          "shortCode": "ZUT-F",
+          "label": "Sprememba ZUT-F",
+          "kind": "amendment",
+          "sequence": 7,
+          "gazette": "Uradni list RS 14/07  str. 1546",
+          "publishedAt": "2007-02-16",
+          "effectiveFrom": "2007-02-16",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0603",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-H",
+          "shortCode": "ZUT-H",
+          "label": "Sprememba ZUT-H",
+          "kind": "amendment",
+          "sequence": 8,
+          "gazette": "Uradni list RS 88/10  str. 13404",
+          "publishedAt": "2010-11-05",
+          "effectiveFrom": "2010-11-05",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4709",
+          "proposer": null
+        },
+        {
+          "id": "ZUT-amend-ZUT-I",
+          "shortCode": "ZUT-I",
+          "label": "Sprememba ZUT-I",
+          "kind": "amendment",
+          "sequence": 9,
+          "gazette": "Uradni list RS 32/16  str. 4638",
+          "publishedAt": "2016-05-06",
+          "effectiveFrom": "2016-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1366",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-A",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-2068",
+      "gazette": "Uradni list RS 44/2000  str. 5940",
+      "issuingBody": null,
+      "adoptedAt": "2000-05-26",
+      "validFrom": "2000-05-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-05-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2068",
+      "versions": [
+        {
+          "id": "ZUT-A-original",
+          "shortCode": "ZUT-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 44/2000  str. 5940",
+          "publishedAt": "2000-05-26",
+          "effectiveFrom": "2000-05-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-2068",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-B",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-B",
+      "kind": "zakon",
+      "keywords": [
+        "sodni stroški"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2000-01-3713",
+      "gazette": "Uradni list RS 81/2000  str. 9788",
+      "issuingBody": null,
+      "adoptedAt": "2000-09-15",
+      "validFrom": "2000-09-15",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3713",
+      "versions": [
+        {
+          "id": "ZUT-B-original",
+          "shortCode": "ZUT-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 81/2000  str. 9788",
+          "publishedAt": "2000-09-15",
+          "effectiveFrom": "2000-09-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3713",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-C",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-C",
+      "kind": "zakon",
+      "keywords": [
+        "upravni postopek",
+        "kolkovina"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2002-01-2008",
+      "gazette": "Uradni list RS 42/2002  str. 4106",
+      "issuingBody": null,
+      "adoptedAt": "2002-05-15",
+      "validFrom": "2002-05-15",
+      "validTo": null,
+      "latestPublishedAt": "2002-05-15",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2008",
+      "versions": [
+        {
+          "id": "ZUT-C-original",
+          "shortCode": "ZUT-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 42/2002  str. 4106",
+          "publishedAt": "2002-05-15",
+          "effectiveFrom": "2002-05-15",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2002-01-2008",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-D",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-D",
+      "kind": "zakon",
+      "keywords": [
+        "upravno pravo"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-0777",
+      "gazette": "Uradni list RS 18/04  str. 1928",
+      "issuingBody": null,
+      "adoptedAt": "2004-02-27",
+      "validFrom": "2004-02-27",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-27",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0777",
+      "versions": [
+        {
+          "id": "ZUT-D-original",
+          "shortCode": "ZUT-D",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 18/04  str. 1928",
+          "publishedAt": "2004-02-27",
+          "effectiveFrom": "2004-02-27",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0777",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-E",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-E",
+      "kind": "zakon",
+      "keywords": [
+        "kolkovina",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2005-01-3884",
+      "gazette": "Uradni list RS 91/05  str. 9277",
+      "issuingBody": null,
+      "adoptedAt": "2005-10-14",
+      "validFrom": "2005-10-14",
+      "validTo": null,
+      "latestPublishedAt": "2005-10-14",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3884",
+      "versions": [
+        {
+          "id": "ZUT-E-original",
+          "shortCode": "ZUT-E",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 91/05  str. 9277",
+          "publishedAt": "2005-10-14",
+          "effectiveFrom": "2005-10-14",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2005-01-3884",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-F",
+      "title": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o upravnih taksah",
+      "shortCode": "ZUT-F",
+      "kind": "zakon",
+      "keywords": [
+        "kolkovina",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2007-01-0603",
+      "gazette": "Uradni list RS 14/07  str. 1546",
+      "issuingBody": null,
+      "adoptedAt": "2007-02-16",
+      "validFrom": "2007-02-16",
+      "validTo": null,
+      "latestPublishedAt": "2007-02-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0603",
+      "versions": [
+        {
+          "id": "ZUT-F-original",
+          "shortCode": "ZUT-F",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 14/07  str. 1546",
+          "publishedAt": "2007-02-16",
+          "effectiveFrom": "2007-02-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-0603",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-H",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravnih taksah",
+      "shortCode": "ZUT-H",
+      "kind": "zakon",
+      "keywords": [
+        "kolkovina",
+        "upravni postopek"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4709",
+      "gazette": "Uradni list RS 88/10  str. 13404",
+      "issuingBody": null,
+      "adoptedAt": "2010-11-05",
+      "validFrom": "2010-11-05",
+      "validTo": null,
+      "latestPublishedAt": "2010-11-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4709",
+      "versions": [
+        {
+          "id": "ZUT-H-original",
+          "shortCode": "ZUT-H",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 88/10  str. 13404",
+          "publishedAt": "2010-11-05",
+          "effectiveFrom": "2010-11-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4709",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZUT-I",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o upravnih taksah",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o upravnih taksah",
+      "shortCode": "ZUT-I",
+      "kind": "zakon",
+      "keywords": [
+        "plačilo",
+        "taksa za vpis v register"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2016-01-1366",
+      "gazette": "Uradni list RS 32/16  str. 4638",
+      "issuingBody": null,
+      "adoptedAt": "2016-05-06",
+      "validFrom": "2016-05-06",
+      "validTo": null,
+      "latestPublishedAt": "2016-05-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1366",
+      "versions": [
+        {
+          "id": "ZUT-I-original",
+          "shortCode": "ZUT-I",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 32/16  str. 4638",
+          "publishedAt": "2016-05-06",
+          "effectiveFrom": "2016-05-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZUT"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2016-01-1366",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

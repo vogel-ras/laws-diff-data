@@ -1,0 +1,58 @@
+{
+  "root": "PRAV10073",
+  "path": "laws/PR/PRAV10073",
+  "members": [
+    {
+      "id": "PRAV10073",
+      "title": "Pravilnik o nomenklaturi poklicev",
+      "shortTitle": "Pravilnik o nomenklaturi poklicev",
+      "shortCode": "PRAV10073",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2010-01-1774",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za delo, družino in socialne zadeve",
+      "adoptedAt": "2010-05-07",
+      "validFrom": "2010-05-07",
+      "validTo": null,
+      "latestPublishedAt": "2010-05-07",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1774",
+      "versions": [
+        {
+          "id": "PRAV10073-original",
+          "shortCode": "PRAV10073",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2010-05-07",
+          "effectiveFrom": "2010-05-07",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-1774",
+          "proposer": null
+        },
+        {
+          "id": "PRAV10073-npb-PRAV10073",
+          "shortCode": "PRAV10073-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 2)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2010-05-07",
+          "effectiveFrom": "2010-05-07",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV10073",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

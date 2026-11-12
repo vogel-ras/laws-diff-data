@@ -1,0 +1,101 @@
+{
+  "root": "ZOPA",
+  "path": "laws/ZO/ZOPA",
+  "members": [
+    {
+      "id": "ZAKO7649",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o omejevanju porabe alkohola (ZOPA-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o omejevanju porabe alkohola (ZOPA-A)",
+      "shortCode": "ZOPA-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "akt",
+      "sopNumber": "2017-01-1440",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2017-06-01",
+      "validFrom": "2017-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1440",
+      "versions": [
+        {
+          "id": "ZAKO7649-original",
+          "shortCode": "ZOPA-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1440",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZOPA",
+      "title": "Zakon o omejevanju porabe alkohola",
+      "shortTitle": "Zakon o omejevanju porabe alkohola",
+      "shortCode": "ZOPA",
+      "kind": "zakon",
+      "keywords": [
+        "alkoholna pijača"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0589",
+      "gazette": "Uradni list RS 15/2003  str. 2108",
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2017-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0589",
+      "versions": [
+        {
+          "id": "ZOPA-original",
+          "shortCode": "ZOPA",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/2003  str. 2108",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0589",
+          "proposer": null
+        },
+        {
+          "id": "ZOPA-amend-ZAKO7649",
+          "shortCode": "ZOPA-A",
+          "label": "Sprememba ZOPA-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2017-06-01",
+          "effectiveFrom": "2017-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZOPA"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2017-01-1440",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

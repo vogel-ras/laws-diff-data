@@ -1,0 +1,82 @@
+{
+  "root": "PRAV2835",
+  "path": "laws/PR/PRAV2835",
+  "members": [
+    {
+      "id": "PRAV2835",
+      "title": "Pravilnik o kakovosti tekočih goriv",
+      "shortTitle": "Pravilnik o kakovosti tekočih goriv",
+      "shortCode": "PRAV2835",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2000-01-3621",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za okolje in prostor",
+      "adoptedAt": "2000-09-01",
+      "validFrom": "2000-09-01",
+      "validTo": null,
+      "latestPublishedAt": "2000-09-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3621",
+      "versions": [
+        {
+          "id": "PRAV2835-original",
+          "shortCode": "PRAV2835",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-09-01",
+          "effectiveFrom": "2000-09-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3621",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV3919",
+      "title": "Pravilnik o spremembi pravilnika o kakovosti tekočih goriv",
+      "shortTitle": "Pravilnik o spremembi pravilnika o kakovosti tekočih goriv",
+      "shortCode": "PRAV3919",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2001-01-3754",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2001-08-24",
+      "validFrom": "2001-08-24",
+      "validTo": null,
+      "latestPublishedAt": "2001-08-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3754",
+      "versions": [
+        {
+          "id": "PRAV3919-original",
+          "shortCode": "PRAV3919",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2001-08-24",
+          "effectiveFrom": "2001-08-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV2835"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2001-01-3754",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

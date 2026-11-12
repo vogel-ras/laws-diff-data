@@ -1,0 +1,107 @@
+{
+  "root": "ZPKDPIZ",
+  "path": "laws/ZP/ZPKDPIZ",
+  "members": [
+    {
+      "id": "ZPKDPIZ",
+      "title": "Zakon o preoblikovanju Kapitalske družbe pokojninskega in invalidskega zavarovanja ter o naložbeni politiki Kapitalske družbe pokojninskega in invalidskega zavarovanja in Slovenske odškodninske družbe",
+      "shortTitle": "Zakon o preoblikovanju Kapitalske družbe pokojninskega in invalidskega zavarovanja ter o naložbeni politiki Kapitalske družbe pokojninskega in invalidskega zavarovanja in Slovenske odškodninske družbe",
+      "shortCode": "ZPKDPIZ",
+      "kind": "zakon",
+      "keywords": [
+        "naložbena politika",
+        "javna lastnina",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2010-01-4265",
+      "gazette": "Uradni list RS 79/10  str. 11875",
+      "issuingBody": null,
+      "adoptedAt": "2010-10-08",
+      "validFrom": "2010-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4265",
+      "versions": [
+        {
+          "id": "ZPKDPIZ-original",
+          "shortCode": "ZPKDPIZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 79/10  str. 11875",
+          "publishedAt": "2010-10-08",
+          "effectiveFrom": "2010-10-08",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2010-01-4265",
+          "proposer": null
+        },
+        {
+          "id": "ZPKDPIZ-amend-ZPKDPIZ-A",
+          "shortCode": "ZPKDPIZ-A",
+          "label": "Sprememba ZPKDPIZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 26/11  str. 3409",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKDPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1156",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZPKDPIZ-A",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o preoblikovanju Kapitalske družbe pokojninskega in invalidskega zavarovanja ter o naložbeni politiki Kapitalske družbe pokojninskega in invalidskega zavarovanja in Slovenske odškodninske družbe",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o preoblikovanju Kapitalske družbe pokojninskega in invalidskega zavarovanja ter o naložbeni politiki Kapitalske družbe pokojninskega in invalidskega zavarovanja in Slovenske odškodninske družbe",
+      "shortCode": "ZPKDPIZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "naložbena politika",
+        "javna lastnina",
+        "gospodarska družba"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1156",
+      "gazette": "Uradni list RS 26/11  str. 3409",
+      "issuingBody": null,
+      "adoptedAt": "2011-04-08",
+      "validFrom": "2011-04-08",
+      "validTo": null,
+      "latestPublishedAt": "2011-04-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1156",
+      "versions": [
+        {
+          "id": "ZPKDPIZ-A-original",
+          "shortCode": "ZPKDPIZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 26/11  str. 3409",
+          "publishedAt": "2011-04-08",
+          "effectiveFrom": "2011-04-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZPKDPIZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1156",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

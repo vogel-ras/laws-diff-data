@@ -1,0 +1,82 @@
+{
+  "root": "URED105",
+  "path": "laws/UR/URED105",
+  "members": [
+    {
+      "id": "URED105",
+      "title": "Uredba o emisiji snovi in toplote pri odvajanju odpadnih voda iz virov onesnaževanja",
+      "shortTitle": "Uredba o emisiji snovi in toplote pri odvajanju odpadnih voda iz virov onesnaževanja",
+      "shortCode": "URED105",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-2291",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-07-05",
+      "validFrom": "1996-07-05",
+      "validTo": null,
+      "latestPublishedAt": "1996-07-05",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2291",
+      "versions": [
+        {
+          "id": "URED105-original",
+          "shortCode": "URED105",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-07-05",
+          "effectiveFrom": "1996-07-05",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2291",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED2783",
+      "title": "Uredba o spremembah in dopolnitvah uredbe o emisiji snovi in toplote pri odvajanju odpadnih voda iz virov onesnaževanja",
+      "shortTitle": "Uredba o spremembah in dopolnitvah uredbe o emisiji snovi in toplote pri odvajanju odpadnih voda iz virov onesnaževanja",
+      "shortCode": "URED2783",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2003-01-0821",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2003-02-28",
+      "validFrom": "2003-02-28",
+      "validTo": null,
+      "latestPublishedAt": "2003-02-28",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0821",
+      "versions": [
+        {
+          "id": "URED2783-original",
+          "shortCode": "URED2783",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2003-02-28",
+          "effectiveFrom": "2003-02-28",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED105"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0821",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

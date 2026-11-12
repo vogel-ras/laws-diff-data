@@ -1,0 +1,82 @@
+{
+  "root": "ODLO2522",
+  "path": "ordinances/OD/ODLO2522",
+  "members": [
+    {
+      "id": "ODLO2522",
+      "title": "Odlok o Strategiji skladnega upravljanja državne meje Republike Slovenije (IBM Strategija)",
+      "shortTitle": "Odlok o Strategiji skladnega upravljanja državne meje Republike Slovenije (IBM Strategija)",
+      "shortCode": "ODLO2522",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "2021-01-3163",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2021-10-08",
+      "validFrom": "2021-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2021-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3163",
+      "versions": [
+        {
+          "id": "ODLO2522-original",
+          "shortCode": "ODLO2522",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-10-08",
+          "effectiveFrom": "2021-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3163",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO2696",
+      "title": "Odlok o spremembi Odloka o Strategiji skladnega upravljanja državne meje Republike Slovenije (IBM Strategija)",
+      "shortTitle": "Odlok o spremembi Odloka o Strategiji skladnega upravljanja državne meje Republike Slovenije (IBM Strategija)",
+      "shortCode": "ODLO2696",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2022-01-2820",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2022-09-16",
+      "validFrom": "2022-09-16",
+      "validTo": null,
+      "latestPublishedAt": "2022-09-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2820",
+      "versions": [
+        {
+          "id": "ODLO2696-original",
+          "shortCode": "ODLO2696",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2022-09-16",
+          "effectiveFrom": "2022-09-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO2522"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-2820",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

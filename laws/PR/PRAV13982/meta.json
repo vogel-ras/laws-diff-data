@@ -1,0 +1,97 @@
+{
+  "root": "PRAV13982",
+  "path": "laws/PR/PRAV13982",
+  "members": [
+    {
+      "id": "PRAV13982",
+      "title": "Pravilnik o napredovanju javnih uslužbencev Državnega odvetništva Republike Slovenije v plačne razrede",
+      "shortTitle": "Pravilnik o napredovanju javnih uslužbencev Državnega odvetništva Republike Slovenije v plačne razrede",
+      "shortCode": "PRAV13982",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-3388",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2019-12-20",
+      "validFrom": "2019-12-20",
+      "validTo": null,
+      "latestPublishedAt": "2019-12-20",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3388",
+      "versions": [
+        {
+          "id": "PRAV13982-original",
+          "shortCode": "PRAV13982",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-12-20",
+          "effectiveFrom": "2019-12-20",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-3388",
+          "proposer": null
+        },
+        {
+          "id": "PRAV13982-npb-PRAV13982",
+          "shortCode": "PRAV13982-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2019-12-20",
+          "effectiveFrom": "2019-12-20",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=PRAV13982",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV14494",
+      "title": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev Državnega odvetništva Republike Slovenije v plačne razrede",
+      "shortTitle": "Pravilnik o spremembah Pravilnika o napredovanju javnih uslužbencev Državnega odvetništva Republike Slovenije v plačne razrede",
+      "shortCode": "PRAV14494",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2021-01-3635",
+      "gazette": null,
+      "issuingBody": "Državno odvetništvo Republike Slovenije",
+      "adoptedAt": "2021-11-26",
+      "validFrom": "2021-11-26",
+      "validTo": null,
+      "latestPublishedAt": "2021-11-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3635",
+      "versions": [
+        {
+          "id": "PRAV14494-original",
+          "shortCode": "PRAV14494",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-11-26",
+          "effectiveFrom": "2021-11-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13982"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-3635",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

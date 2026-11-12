@@ -1,0 +1,161 @@
+{
+  "root": "ZMat",
+  "path": "laws/ZM/ZMat",
+  "members": [
+    {
+      "id": "ZMat",
+      "title": "Zakon o maturi",
+      "shortTitle": "Zakon o maturi",
+      "shortCode": "ZMat",
+      "kind": "zakon",
+      "keywords": [
+        "izpit",
+        "srednješolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-0592",
+      "gazette": "Uradni list RS 15/2003  str. 2113",
+      "issuingBody": null,
+      "adoptedAt": "2003-02-14",
+      "validFrom": "2003-02-14",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0592",
+      "versions": [
+        {
+          "id": "ZMat-original",
+          "shortCode": "ZMat",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 15/2003  str. 2113",
+          "publishedAt": "2003-02-14",
+          "effectiveFrom": "2003-02-14",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-0592",
+          "proposer": null
+        },
+        {
+          "id": "ZMat-amend-ZMat-A",
+          "shortCode": "ZMat-A",
+          "label": "Sprememba ZMat-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 115/06  str. 11997",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZMat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4910",
+          "proposer": null
+        },
+        {
+          "id": "ZMat-amend-ZMat-B",
+          "shortCode": "ZMat-B",
+          "label": "Sprememba ZMat-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 37/24  str. 3359",
+          "publishedAt": "2024-05-03",
+          "effectiveFrom": "2024-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1255",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMat-A",
+      "title": "Zakon o spremembah in dopolnitvah zakona o maturi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah zakona o maturi",
+      "shortCode": "ZMat-A",
+      "kind": "zakon",
+      "keywords": [
+        "izpit",
+        "srednješolsko izobraževanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-4910",
+      "gazette": "Uradni list RS 115/06  str. 11997",
+      "issuingBody": null,
+      "adoptedAt": "2006-11-10",
+      "validFrom": "2006-11-10",
+      "validTo": null,
+      "latestPublishedAt": "2006-11-10",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4910",
+      "versions": [
+        {
+          "id": "ZMat-A-original",
+          "shortCode": "ZMat-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 115/06  str. 11997",
+          "publishedAt": "2006-11-10",
+          "effectiveFrom": "2006-11-10",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4910",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZMat-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o maturi",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o maturi",
+      "shortCode": "ZMat-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2024-01-1255",
+      "gazette": "Uradni list RS 37/24  str. 3359",
+      "issuingBody": null,
+      "adoptedAt": "2024-05-03",
+      "validFrom": "2024-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2024-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1255",
+      "versions": [
+        {
+          "id": "ZMat-B-original",
+          "shortCode": "ZMat-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 37/24  str. 3359",
+          "publishedAt": "2024-05-03",
+          "effectiveFrom": "2024-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZMat"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2024-01-1255",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

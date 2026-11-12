@@ -1,0 +1,97 @@
+{
+  "root": "URED434",
+  "path": "laws/UR/URED434",
+  "members": [
+    {
+      "id": "URED4253",
+      "title": "Uredba o spremembi Uredbe o lokacijskem načrtu za primorski krak avtoceste na odseku hitre ceste Vipava-Selo",
+      "shortTitle": "Uredba o spremembi Uredbe o lokacijskem načrtu za primorski krak avtoceste na odseku hitre ceste Vipava-Selo",
+      "shortCode": "URED4253",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "uredba",
+      "sopNumber": "2006-01-4542",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2006-10-13",
+      "validFrom": "2006-10-13",
+      "validTo": null,
+      "latestPublishedAt": "2006-10-13",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4542",
+      "versions": [
+        {
+          "id": "URED4253-original",
+          "shortCode": "URED4253",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2006-10-13",
+          "effectiveFrom": "2006-10-13",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "URED434"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-4542",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "URED434",
+      "title": "Uredba o lokacijskem načrtu za Primorski krak avtoceste na odseku hitre ceste Vipava-Selo",
+      "shortTitle": "Uredba o lokacijskem načrtu za Primorski krak avtoceste na odseku hitre ceste Vipava-Selo",
+      "shortCode": "URED434",
+      "kind": "uredba",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "uredba",
+      "sopNumber": "1996-01-2838",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1996-08-23",
+      "validFrom": "1996-08-23",
+      "validTo": null,
+      "latestPublishedAt": "1996-08-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2838",
+      "versions": [
+        {
+          "id": "URED434-original",
+          "shortCode": "URED434",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1996-08-23",
+          "effectiveFrom": "1996-08-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1996-01-2838",
+          "proposer": null
+        },
+        {
+          "id": "URED434-npb-URED434",
+          "shortCode": "URED434-NPB1",
+          "label": "Neuradno prečiščeno besedilo (NPB 1)",
+          "kind": "consolidated_unofficial",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1996-08-23",
+          "effectiveFrom": "1996-08-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://pisrs.si/pregledNpb?id=URED434",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

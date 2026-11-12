@@ -1,0 +1,155 @@
+{
+  "root": "OdUNKO",
+  "path": "ordinances/OD/OdUNKO",
+  "members": [
+    {
+      "id": "ODLO381",
+      "title": "Odlok o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO)",
+      "shortTitle": "Odlok o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO)",
+      "shortCode": "OdUNKO",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1997-01-0261",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1997-01-31",
+      "validFrom": "1997-01-31",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-0261",
+      "versions": [
+        {
+          "id": "ODLO381-original",
+          "shortCode": "OdUNKO",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-01-31",
+          "effectiveFrom": "1997-01-31",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-0261",
+          "proposer": null
+        },
+        {
+          "id": "ODLO381-amend-ODLO383",
+          "shortCode": "OdUNKO-A",
+          "label": "Sprememba OdUNKO-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "1997-05-23",
+          "effectiveFrom": "1997-05-23",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ODLO381"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1643",
+          "proposer": null
+        },
+        {
+          "id": "ODLO381-amend-ODLO666",
+          "shortCode": "OdUNKO-B",
+          "label": "Sprememba OdUNKO-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": null,
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO381"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3059",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO383",
+      "title": "Odlok o spremembah in dopolnitvah odloka o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO-A)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah odloka o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO-A)",
+      "shortCode": "OdUNKO-A",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "odlok",
+      "sopNumber": "1997-01-1643",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1997-05-23",
+      "validFrom": "1997-05-23",
+      "validTo": null,
+      "latestPublishedAt": "1997-05-23",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1643",
+      "versions": [
+        {
+          "id": "ODLO383-original",
+          "shortCode": "OdUNKO-A",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1997-05-23",
+          "effectiveFrom": "1997-05-23",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO381"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1997-01-1643",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ODLO666",
+      "title": "Odlok o dopolnitvi odloka o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO-B)",
+      "shortTitle": "Odlok o dopolnitvi odloka o ustanovitvi in nalogah komisij in odborov Državnega zbora (OdUNKO-B)",
+      "shortCode": "OdUNKO-B",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "odlok",
+      "sopNumber": "2000-01-3059",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2000-07-26",
+      "validFrom": "2000-07-26",
+      "validTo": null,
+      "latestPublishedAt": "2000-07-26",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3059",
+      "versions": [
+        {
+          "id": "ODLO666-original",
+          "shortCode": "OdUNKO-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2000-07-26",
+          "effectiveFrom": "2000-07-26",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ODLO381"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2000-01-3059",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "root": "PRAV5573",
+  "path": "laws/PR/PRAV5573",
+  "members": [
+    {
+      "id": "PRAV5573",
+      "title": "Pravilnik o vsebini, programu in načinu opravljanja izpita za matičarja",
+      "shortTitle": "Pravilnik o vsebini, programu in načinu opravljanja izpita za matičarja",
+      "shortCode": "PRAV5573",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2004-01-0466",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2004-02-06",
+      "validFrom": "2004-02-06",
+      "validTo": null,
+      "latestPublishedAt": "2004-02-06",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0466",
+      "versions": [
+        {
+          "id": "PRAV5573-original",
+          "shortCode": "PRAV5573",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2004-02-06",
+          "effectiveFrom": "2004-02-06",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-0466",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV8434",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini, programu in načinu opravljanja izpita za matičarja",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o vsebini, programu in načinu opravljanja izpita za matičarja",
+      "shortCode": "PRAV8434",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2007-01-4104",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za notranje zadeve",
+      "adoptedAt": "2007-08-31",
+      "validFrom": "2007-08-31",
+      "validTo": null,
+      "latestPublishedAt": "2007-08-31",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4104",
+      "versions": [
+        {
+          "id": "PRAV8434-original",
+          "shortCode": "PRAV8434",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-08-31",
+          "effectiveFrom": "2007-08-31",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV5573"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-4104",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

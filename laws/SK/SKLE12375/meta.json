@@ -1,0 +1,82 @@
+{
+  "root": "SKLE12375",
+  "path": "laws/SK/SKLE12375",
+  "members": [
+    {
+      "id": "SKLE12375",
+      "title": "Sklep o podaljšanju ukrepov na področju postopkov zaradi insolventnosti",
+      "shortTitle": "Sklep o podaljšanju ukrepov na področju postopkov zaradi insolventnosti",
+      "shortCode": "SKLE12375",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-0866",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2025-06-12",
+      "validFrom": "2025-06-12",
+      "validTo": null,
+      "latestPublishedAt": "2025-06-12",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0866",
+      "versions": [
+        {
+          "id": "SKLE12375-original",
+          "shortCode": "SKLE12375",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2025-06-12",
+          "effectiveFrom": "2025-06-12",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-0866",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "SKLE12470",
+      "title": "Sklep o spremembi Sklepa o podaljšanju ukrepov na področju postopkov zaradi insolventnosti",
+      "shortTitle": "Sklep o spremembi Sklepa o podaljšanju ukrepov na področju postopkov zaradi insolventnosti",
+      "shortCode": "SKLE12470",
+      "kind": "sklep",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "sklep",
+      "sopNumber": "2021-01-2192",
+      "gazette": null,
+      "issuingBody": "Vlada Republike Slovenije",
+      "adoptedAt": "2021-06-24",
+      "validFrom": "2021-06-24",
+      "validTo": null,
+      "latestPublishedAt": "2021-06-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2192",
+      "versions": [
+        {
+          "id": "SKLE12470-original",
+          "shortCode": "SKLE12470",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2021-06-24",
+          "effectiveFrom": "2021-06-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "SKLE12375"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2021-01-2192",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

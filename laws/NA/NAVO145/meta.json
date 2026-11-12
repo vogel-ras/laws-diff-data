@@ -1,0 +1,43 @@
+{
+  "root": "NAVO145",
+  "path": "laws/NA/NAVO145",
+  "members": [
+    {
+      "id": "NAVO145",
+      "title": "Navodilo o zamenjavi obarvanih bankovcev",
+      "shortTitle": "Navodilo o zamenjavi obarvanih bankovcev",
+      "shortCode": "NAVO145",
+      "kind": "navodilo",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "navodilo",
+      "sopNumber": "1999-01-3714",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "1999-09-24",
+      "validFrom": "1999-09-24",
+      "validTo": null,
+      "latestPublishedAt": "1999-09-24",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3714",
+      "versions": [
+        {
+          "id": "NAVO145-original",
+          "shortCode": "NAVO145",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "1999-09-24",
+          "effectiveFrom": "1999-09-24",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=1999-01-3714",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "root": "ZZasV",
+  "path": "laws/ZZ/ZZasV",
+  "members": [
+    {
+      "id": "ZAKO5232",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zasebnem varovanju (ZZasV-A)",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zasebnem varovanju (ZZasV-A)",
+      "shortCode": "ZZasV-A",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "akt",
+      "sopNumber": "2007-01-5075",
+      "gazette": null,
+      "issuingBody": "Državni zbor RS",
+      "adoptedAt": "2007-11-09",
+      "validFrom": "2007-11-09",
+      "validTo": null,
+      "latestPublishedAt": "2007-11-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5075",
+      "versions": [
+        {
+          "id": "ZAKO5232-original",
+          "shortCode": "ZZasV-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZasV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5075",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZasV",
+      "title": "Zakon o zasebnem varovanju",
+      "shortTitle": "Zakon o zasebnem varovanju",
+      "shortCode": "ZZasV",
+      "kind": "zakon",
+      "keywords": [
+        "banka",
+        "privatizacija",
+        "delnica"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2003-01-5385",
+      "gazette": "Uradni list RS 126/03  str. 17240",
+      "issuingBody": null,
+      "adoptedAt": "2003-12-18",
+      "validFrom": "2003-12-18",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5385",
+      "versions": [
+        {
+          "id": "ZZasV-original",
+          "shortCode": "ZZasV",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 126/03  str. 17240",
+          "publishedAt": "2003-12-18",
+          "effectiveFrom": "2003-12-18",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2003-01-5385",
+          "proposer": null
+        },
+        {
+          "id": "ZZasV-amend-ZAKO5232",
+          "shortCode": "ZZasV-A",
+          "label": "Sprememba ZZasV-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": null,
+          "publishedAt": "2007-11-09",
+          "effectiveFrom": "2007-11-09",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZZasV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2007-01-5075",
+          "proposer": null
+        },
+        {
+          "id": "ZZasV-amend-ZZasV-B",
+          "shortCode": "ZZasV-B",
+          "label": "Sprememba ZZasV-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 41/09  str. 5740",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZasV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1984",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZasV-1",
+      "title": "Zakon o zasebnem varovanju",
+      "shortTitle": "Zakon o zasebnem varovanju",
+      "shortCode": "ZZasV-1",
+      "kind": "zakon",
+      "keywords": [
+        "varovanje in nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-0690",
+      "gazette": "Uradni list RS 17/11  str. 2055",
+      "issuingBody": null,
+      "adoptedAt": "2011-03-11",
+      "validFrom": "2011-03-11",
+      "validTo": null,
+      "latestPublishedAt": "2011-03-11",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0690",
+      "versions": [
+        {
+          "id": "ZZasV-1-original",
+          "shortCode": "ZZasV-1",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 17/11  str. 2055",
+          "publishedAt": "2011-03-11",
+          "effectiveFrom": "2011-03-11",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-0690",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZZasV-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o zasebnem varovanju",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o zasebnem varovanju",
+      "shortCode": "ZZasV-B",
+      "kind": "zakon",
+      "keywords": [
+        "varovanje in nadzor"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2009-01-1984",
+      "gazette": "Uradni list RS 41/09  str. 5740",
+      "issuingBody": null,
+      "adoptedAt": "2009-06-01",
+      "validFrom": "2009-06-01",
+      "validTo": null,
+      "latestPublishedAt": "2009-06-01",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1984",
+      "versions": [
+        {
+          "id": "ZZasV-B-original",
+          "shortCode": "ZZasV-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 41/09  str. 5740",
+          "publishedAt": "2009-06-01",
+          "effectiveFrom": "2009-06-01",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZZasV"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2009-01-1984",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

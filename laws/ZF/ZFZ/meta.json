@@ -1,0 +1,223 @@
+{
+  "root": "ZFZ",
+  "path": "laws/ZF/ZFZ",
+  "members": [
+    {
+      "id": "ZFZ",
+      "title": "Zakon o finančnih zavarovanjih",
+      "shortTitle": "Zakon o finančnih zavarovanjih",
+      "shortCode": "ZFZ",
+      "kind": "zakon",
+      "keywords": [
+        "zavarovanje",
+        "finančni trg",
+        "finančni posel"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2004-01-2235",
+      "gazette": "Uradni list RS 47/04  str. 6277",
+      "issuingBody": null,
+      "adoptedAt": "2004-04-30",
+      "validFrom": "2004-04-30",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2235",
+      "versions": [
+        {
+          "id": "ZFZ-original",
+          "shortCode": "ZFZ",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 47/04  str. 6277",
+          "publishedAt": "2004-04-30",
+          "effectiveFrom": "2004-04-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2004-01-2235",
+          "proposer": null
+        },
+        {
+          "id": "ZFZ-amend-ZFZ-A",
+          "shortCode": "ZFZ-A",
+          "label": "Sprememba ZFZ-A",
+          "kind": "amendment",
+          "sequence": 2,
+          "gazette": "Uradni list RS 68/06  str. 7179",
+          "publishedAt": "2006-06-30",
+          "effectiveFrom": "2006-06-30",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2953",
+          "proposer": null
+        },
+        {
+          "id": "ZFZ-amend-ZFZ-B",
+          "shortCode": "ZFZ-B",
+          "label": "Sprememba ZFZ-B",
+          "kind": "amendment",
+          "sequence": 3,
+          "gazette": "Uradni list RS 33/11  str. 4384",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": false,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1586",
+          "proposer": null
+        },
+        {
+          "id": "ZFZ-amend-ZFZ-C",
+          "shortCode": "ZFZ-C",
+          "label": "Sprememba ZFZ-C",
+          "kind": "amendment",
+          "sequence": 4,
+          "gazette": "Uradni list RS 82/13  str. 9191",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3037",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFZ-A",
+      "title": "Zakon o spremembi in dopolnitvah zakona o finančnih zavarovanjih",
+      "shortTitle": "Zakon o spremembi in dopolnitvah zakona o finančnih zavarovanjih",
+      "shortCode": "ZFZ-A",
+      "kind": "zakon",
+      "keywords": [
+        "monetarna politika",
+        "zavarovanje"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2006-01-2953",
+      "gazette": "Uradni list RS 68/06  str. 7179",
+      "issuingBody": null,
+      "adoptedAt": "2006-06-30",
+      "validFrom": "2006-06-30",
+      "validTo": null,
+      "latestPublishedAt": "2006-06-30",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2953",
+      "versions": [
+        {
+          "id": "ZFZ-A-original",
+          "shortCode": "ZFZ-A",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 68/06  str. 7179",
+          "publishedAt": "2006-06-30",
+          "effectiveFrom": "2006-06-30",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2006-01-2953",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFZ-B",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o finančnih zavarovanjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o finančnih zavarovanjih",
+      "shortCode": "ZFZ-B",
+      "kind": "zakon",
+      "keywords": [],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2011-01-1586",
+      "gazette": "Uradni list RS 33/11  str. 4384",
+      "issuingBody": null,
+      "adoptedAt": "2011-05-03",
+      "validFrom": "2011-05-03",
+      "validTo": null,
+      "latestPublishedAt": "2011-05-03",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1586",
+      "versions": [
+        {
+          "id": "ZFZ-B-original",
+          "shortCode": "ZFZ-B",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 33/11  str. 4384",
+          "publishedAt": "2011-05-03",
+          "effectiveFrom": "2011-05-03",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2011-01-1586",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "ZFZ-C",
+      "title": "Zakon o spremembah in dopolnitvah Zakona o finančnih zavarovanjih",
+      "shortTitle": "Zakon o spremembah in dopolnitvah Zakona o finančnih zavarovanjih",
+      "shortCode": "ZFZ-C",
+      "kind": "zakon",
+      "keywords": [
+        "dolg",
+        "kreditna garancija",
+        "hipoteka",
+        "kredit"
+      ],
+      "municipality": null,
+      "status": null,
+      "vrsta": "Sprejet zakon",
+      "sopNumber": "2013-01-3037",
+      "gazette": "Uradni list RS 82/13  str. 9191",
+      "issuingBody": null,
+      "adoptedAt": "2013-10-08",
+      "validFrom": "2013-10-08",
+      "validTo": null,
+      "latestPublishedAt": "2013-10-08",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3037",
+      "versions": [
+        {
+          "id": "ZFZ-C-original",
+          "shortCode": "ZFZ-C",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": "Uradni list RS 82/13  str. 9191",
+          "publishedAt": "2013-10-08",
+          "effectiveFrom": "2013-10-08",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "ZFZ"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2013-01-3037",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

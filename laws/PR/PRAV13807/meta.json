@@ -1,0 +1,82 @@
+{
+  "root": "PRAV13807",
+  "path": "laws/PR/PRAV13807",
+  "members": [
+    {
+      "id": "PRAV13807",
+      "title": "Pravilnik o merilih za finančno ovrednotenje nalog lovskih organizacij",
+      "shortTitle": "Pravilnik o merilih za finančno ovrednotenje nalog lovskih organizacij",
+      "shortCode": "PRAV13807",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neveljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2019-01-2377",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2019-08-09",
+      "validFrom": "2019-08-09",
+      "validTo": null,
+      "latestPublishedAt": "2019-08-09",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2377",
+      "versions": [
+        {
+          "id": "PRAV13807-original",
+          "shortCode": "PRAV13807",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2019-08-09",
+          "effectiveFrom": "2019-08-09",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2019-01-2377",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "PRAV15934",
+      "title": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za finančno ovrednotenje nalog lovskih organizacij",
+      "shortTitle": "Pravilnik o spremembah in dopolnitvah Pravilnika o merilih za finančno ovrednotenje nalog lovskih organizacij",
+      "shortCode": "PRAV15934",
+      "kind": "pravilnik",
+      "keywords": [],
+      "municipality": null,
+      "status": "Veljaven predpis",
+      "vrsta": "pravilnik",
+      "sopNumber": "2026-01-0478",
+      "gazette": null,
+      "issuingBody": "Ministrstvo za kmetijstvo, gozdarstvo in prehrano",
+      "adoptedAt": "2026-02-17",
+      "validFrom": "2026-02-17",
+      "validTo": null,
+      "latestPublishedAt": "2026-02-17",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0478",
+      "versions": [
+        {
+          "id": "PRAV15934-original",
+          "shortCode": "PRAV15934",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-02-17",
+          "effectiveFrom": "2026-02-17",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "PRAV13807"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2026-01-0478",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}

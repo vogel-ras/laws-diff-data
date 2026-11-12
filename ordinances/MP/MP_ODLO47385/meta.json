@@ -1,0 +1,82 @@
+{
+  "root": "MP_ODLO47385",
+  "path": "ordinances/MP/MP_ODLO47385",
+  "members": [
+    {
+      "id": "MP_ODLO47385",
+      "title": "Odlok o proračunu Občine Pivka za leto 2023 (ODLO)",
+      "shortTitle": "Odlok o proračunu Občine Pivka za leto 2023 (ODLO)",
+      "shortCode": "MP_ODLO47385",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": null,
+      "status": "Neznano",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2022-01-3507",
+      "gazette": null,
+      "issuingBody": null,
+      "adoptedAt": "2026-01-04",
+      "validFrom": "2026-01-04",
+      "validTo": null,
+      "latestPublishedAt": "2026-01-04",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3507",
+      "versions": [
+        {
+          "id": "MP_ODLO47385-original",
+          "shortCode": "MP_ODLO47385",
+          "label": "Neuradno prečiščeno besedilo",
+          "kind": "consolidated_unofficial",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2026-01-04",
+          "effectiveFrom": "2026-01-04",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2022-01-3507",
+          "proposer": null
+        }
+      ]
+    },
+    {
+      "id": "MP_ODLO47960",
+      "title": "Odlok o spremembah in dopolnitvah Odloka o proračunu Občine Pivka za leto 2023 (ODLO)",
+      "shortTitle": "Odlok o spremembah in dopolnitvah Odloka o proračunu Občine Pivka za leto 2023 (ODLO)",
+      "shortCode": "MP_ODLO47960",
+      "kind": "odlok",
+      "keywords": [],
+      "municipality": "Pivka",
+      "status": "Veljaven predpis",
+      "vrsta": "občinski odlok",
+      "sopNumber": "2023-01-2084",
+      "gazette": null,
+      "issuingBody": "Občina Pivka",
+      "adoptedAt": "2023-06-16",
+      "validFrom": "2023-06-16",
+      "validTo": null,
+      "latestPublishedAt": "2023-06-16",
+      "titleOnly": false,
+      "urlPisrs": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2084",
+      "versions": [
+        {
+          "id": "MP_ODLO47960-original",
+          "shortCode": "MP_ODLO47960",
+          "label": "Izvorno besedilo",
+          "kind": "original",
+          "sequence": 1,
+          "gazette": null,
+          "publishedAt": "2023-06-16",
+          "effectiveFrom": "2023-06-16",
+          "effectiveTo": null,
+          "isCurrent": true,
+          "amendsLawIds": [
+            "MP_ODLO47385"
+          ],
+          "sourceUrl": "https://www.uradni-list.si/1/objava.jsp?sop=2023-01-2084",
+          "proposer": null
+        }
+      ]
+    }
+  ]
+}
